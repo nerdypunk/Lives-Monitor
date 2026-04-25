@@ -323,19 +323,11 @@ button:disabled {
   font-size: 0.94rem;
 }
 
-.graph-stage {
-  position: relative;
-}
-
-.graph-stage::after {
-  content: "click any pink dot";
-  position: absolute;
-  right: 16px;
-  bottom: 12px;
+.graph-legend em {
   color: var(--dim);
   font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
-  font-size: 0.72rem;
-  pointer-events: none;
+  font-size: 0.7rem;
+  font-style: normal;
 }
 
 .panel {
@@ -500,6 +492,10 @@ tbody tr:last-child td {
   min-height: 230px;
   padding: 16px;
   background: #111111;
+}
+
+.feed-card-wide {
+  grid-column: 1 / -1;
 }
 
 .feed-card h3 {

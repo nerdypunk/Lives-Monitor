@@ -300,14 +300,9 @@ function renderGraph() {
     txPoints.forEach((point) => {
       const freshness = Math.max(0.2, 1 - point.index / 100);
       ctx.beginPath();
-      ctx.arc(point.x, point.y, 4.5 + pulse * 1.2, 0, Math.PI * 2);
+      ctx.arc(point.x, point.y, 5 + pulse * 0.9, 0, Math.PI * 2);
       ctx.fillStyle = `rgba(255, 25, 146, ${0.35 + freshness * 0.45})`;
       ctx.fill();
-      ctx.beginPath();
-      ctx.arc(point.x, point.y, 12, 0, Math.PI * 2);
-      ctx.strokeStyle = `rgba(255, 25, 146, ${0.18 + freshness * 0.22})`;
-      ctx.lineWidth = 1;
-      ctx.stroke();
     });
 
     walletList.forEach((wallet) => {
@@ -344,8 +339,6 @@ function renderGraph() {
     ctx.fillStyle = "rgba(244, 244, 245, 0.62)";
     ctx.font = "11px SFMono-Regular, Consolas, monospace";
     ctx.fillText("newest -> oldest", center.x, center.y + 48);
-    ctx.textAlign = "right";
-    ctx.fillText("click any pink dot", width - 22, height - 18);
     ctx.textAlign = "start";
     ctx.textBaseline = "alphabetic";
 
@@ -485,9 +478,10 @@ async function loadNewsFeeds() {
 
   const gdeltCards = newsResult.status === "fulfilled"
     ? renderNewsCache(newsResult.value)
-    : NEWS_FEED_NAMES
-      .map((name) => renderFeed({ name }, [], newsResult.reason?.message || "Could not load cached news."))
-      .join("");
+    : `<section class="feed-card feed-card-wide">
+        <h3>News cache unavailable</h3>
+        <div class="feed-state error-text">${escapeHtml(newsResult.reason?.message || "Could not load cached news.")}</div>
+      </section>`;
 
   elements.infinita.innerHTML = substackResult.status === "fulfilled"
     ? renderSubstackFeed(substackResult.value)
