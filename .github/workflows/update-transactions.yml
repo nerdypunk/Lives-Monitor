@@ -16,12 +16,29 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
+      - name: Show runtime
+        run: |
+          node --version
+          pwd
+          ls -la
       - name: Fetch latest transactions
         env:
           SOLSCAN_API_KEY: ${{ secrets.SOLSCAN_API_KEY }}
-        run: node scripts/update-data.mjs
+        run: |
+          set -euo pipefail
+          node scripts/update-data.mjs
+          echo "Generated data file:"
+          wc -c data/transactions.json
+          head -40 data/transactions.json
       - name: Commit updated data
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: Update token transactions data
-          file_pattern: data/transactions.json
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/transactions.json
+          if git diff --cached --quiet; then
+            echo "No transaction data changes to commit."
+          else
+            git commit -m "Update token transactions data"
+            git push
+          fi

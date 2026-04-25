@@ -1,11 +1,19 @@
-import { mkdir, writeFile } from "node:fs/promises";
+import { mkdir, readFile, writeFile } from "node:fs/promises";
 
 const TOKEN_MINT = "27TyCz2Y4rFPfURPCPxByEW6AeMfQSNCMFcPmK4fvEA8";
 const SOLSCAN_API = "https://pro-api.solscan.io/v2.0";
-const SOLANA_RPC = "https://api.mainnet-beta.solana.com";
+const SOLANA_RPC_ENDPOINTS = [
+  process.env.SOLANA_RPC_URL,
+  "https://solana-rpc.publicnode.com",
+  "https://api.mainnet-beta.solana.com",
+].filter(Boolean);
 const OUTFILE = "data/transactions.json";
 
 let rpcId = 1;
+
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
 
 function formatRawAmount(rawAmount, decimals) {
   const raw = String(rawAmount ?? "0");
@@ -27,7 +35,7 @@ function formatRawAmount(rawAmount, decimals) {
 
 async function solscan(path, params = {}) {
   const apiKey = process.env.SOLSCAN_API_KEY;
-  if (!apiKey) throw new Error("SOLSCAN_API_KEY is not set");
+  if (!apiKey) throw new Error("SOLSCAN_API_KEY is not set, using RPC fallback");
 
   const url = new URL(`${SOLSCAN_API}${path}`);
   Object.entries(params).forEach(([key, value]) => {
@@ -51,22 +59,35 @@ async function solscan(path, params = {}) {
 }
 
 async function rpc(method, params = []) {
-  const response = await fetch(SOLANA_RPC, {
-    method: "POST",
-    headers: { "content-type": "application/json" },
-    body: JSON.stringify({
-      jsonrpc: "2.0",
-      id: rpcId++,
-      method,
-      params,
-    }),
-  });
+  let lastError;
 
-  const payload = await response.json().catch(() => null);
-  if (!response.ok || payload?.error) {
-    throw new Error(payload?.error?.message || `Solana RPC request failed with HTTP ${response.status}`);
+  for (const endpoint of SOLANA_RPC_ENDPOINTS) {
+    for (let attempt = 1; attempt <= 3; attempt += 1) {
+      console.log(`Calling Solana RPC: ${method} via ${endpoint} (attempt ${attempt})`);
+      const response = await fetch(endpoint, {
+        method: "POST",
+        headers: { "content-type": "application/json" },
+        body: JSON.stringify({
+          jsonrpc: "2.0",
+          id: rpcId++,
+          method,
+          params,
+        }),
+      });
+
+      const payload = await response.json().catch(() => null);
+      if (response.ok && !payload?.error) {
+        return payload.result;
+      }
+
+      lastError = new Error(payload?.error?.message || `Solana RPC request failed with HTTP ${response.status}`);
+      const rateLimited = response.status === 429 || /too many|rate/i.test(lastError.message);
+      if (!rateLimited) break;
+      await sleep(1200 * attempt);
+    }
   }
-  return payload.result;
+
+  throw lastError || new Error("All Solana RPC endpoints failed");
 }
 
 function normalizeSolscanRows(rows) {
@@ -141,6 +162,7 @@ function summarizeRpcTransaction(tx, fallbackSignature) {
 }
 
 async function loadFromSolscan() {
+  console.log("Trying Solscan API...");
   const [meta, transfers] = await Promise.all([
     solscan("/token/meta", { address: TOKEN_MINT }),
     solscan("/token/transfer", {
@@ -167,30 +189,34 @@ async function loadFromSolscan() {
 }
 
 async function loadFromRpc(error) {
-  const [supply, signatures] = await Promise.all([
-    rpc("getTokenSupply", [TOKEN_MINT, { commitment: "confirmed" }]),
-    rpc("getSignaturesForAddress", [
-      TOKEN_MINT,
-      { limit: 50, commitment: "confirmed" },
-    ]),
+  console.log("Trying Solana RPC fallback...");
+  const supply = await rpc("getTokenSupply", [TOKEN_MINT, { commitment: "confirmed" }]);
+  const signatures = await rpc("getSignaturesForAddress", [
+    TOKEN_MINT,
+    { limit: 20, commitment: "confirmed" },
   ]);
 
   const transactions = [];
   for (const item of signatures) {
-    const tx = await rpc("getTransaction", [
-      item.signature,
-      {
-        encoding: "jsonParsed",
-        commitment: "confirmed",
-        maxSupportedTransactionVersion: 0,
-      },
-    ]);
-    const row = tx ? summarizeRpcTransaction(tx, item.signature) : null;
-    if (row) transactions.push(row);
+    try {
+      const tx = await rpc("getTransaction", [
+        item.signature,
+        {
+          encoding: "jsonParsed",
+          commitment: "confirmed",
+          maxSupportedTransactionVersion: 0,
+        },
+      ]);
+      const row = tx ? summarizeRpcTransaction(tx, item.signature) : null;
+      if (row) transactions.push(row);
+    } catch (transactionError) {
+      console.warn(`Skipping ${item.signature}: ${transactionError.message}`);
+    }
+    await sleep(350);
   }
 
   return {
-    source: `Solana RPC fallback (${error.message})`,
+    source: `Solana RPC fallback: ${error.message}`,
     token: {
       address: TOKEN_MINT,
       name: "Token",
@@ -201,12 +227,27 @@ async function loadFromRpc(error) {
   };
 }
 
+async function loadExistingData(error) {
+  console.warn(`Keeping existing data because live update failed: ${error.message}`);
+  const existing = JSON.parse(await readFile(OUTFILE, "utf8"));
+  existing.source = `${existing.source || "Existing cached data"} (live update failed: ${error.message})`;
+  return existing;
+}
+
 async function main() {
+  console.log(`Updating transactions for ${TOKEN_MINT}`);
+  console.log(`Solscan key present: ${process.env.SOLSCAN_API_KEY ? "yes" : "no"}`);
+
   let payload;
   try {
     payload = await loadFromSolscan();
   } catch (error) {
-    payload = await loadFromRpc(error);
+    console.warn(`Solscan unavailable: ${error.message}`);
+    try {
+      payload = await loadFromRpc(error);
+    } catch (rpcError) {
+      payload = await loadExistingData(rpcError);
+    }
   }
 
   payload.updatedAt = new Date().toISOString();
