@@ -46,7 +46,7 @@ function gdeltUrl(query) {
   url.searchParams.set("query", query);
   url.searchParams.set("mode", "ArtList");
   url.searchParams.set("format", "json");
-  url.searchParams.set("maxrecords", "10");
+  url.searchParams.set("maxrecords", "30");
   url.searchParams.set("sort", "datedesc");
   return url;
 }
@@ -109,6 +109,10 @@ async function fetchFeed(feed) {
   return combined;
 }
 
+function previousIsUsable(previous) {
+  return Array.isArray(previous?.articles) && previous.articles.length >= 4 && Array.isArray(previous?.queries);
+}
+
 async function readExisting() {
   try {
     return JSON.parse(await readFile(OUTFILE, "utf8"));
@@ -127,9 +131,13 @@ async function main() {
       feeds.push({ name: feed.name, queries: feed.queries, articles });
       console.log(`Fetched ${articles.length} ${feed.name} articles`);
     } catch (error) {
-      console.warn(`Keeping existing ${feed.name} feed: ${error.message}`);
+      console.warn(`Could not refresh ${feed.name}: ${error.message}`);
       const previous = existing.feeds?.find((item) => item.name === feed.name);
-      feeds.push(previous || { name: feed.name, queries: feed.queries, error: error.message, articles: [] });
+      if (previousIsUsable(previous)) {
+        feeds.push({ ...previous, error: error.message });
+      } else {
+        feeds.push({ name: feed.name, queries: feed.queries, error: error.message, articles: [] });
+      }
     }
   }
 

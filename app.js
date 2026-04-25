@@ -198,11 +198,9 @@ function renderGraph() {
 
   const width = rect.width;
   const height = rect.height;
-  const center = { x: width / 2, y: height / 2 };
-  const rows = allRows.slice(0, 100);
+  const center = { x: 86, y: height / 2 };
+  const rows = allRows.filter((row) => row.signature).slice(0, 100);
   const wallets = new Map();
-  const edges = [];
-  const txPoints = [];
   graphHits = [];
 
   rows.forEach((row, index) => {
@@ -210,23 +208,43 @@ function renderGraph() {
     const to = row.to || "";
     if (from) wallets.set(from, { id: from, weight: (wallets.get(from)?.weight || 0) + 1 });
     if (to) wallets.set(to, { id: to, weight: (wallets.get(to)?.weight || 0) + 1 });
-    edges.push({ from, to, index, signature: row.signature });
   });
 
   const walletList = [...wallets.values()]
     .sort((a, b) => b.weight - a.weight)
-    .slice(0, 34);
+    .slice(0, 24);
 
   elements.graphCount.textContent = `${rows.length} tx / ${walletList.length} wallets`;
 
-  const radiusX = Math.max(160, width * 0.39);
-  const radiusY = Math.max(92, height * 0.31);
+  const walletRadiusX = Math.max(180, width * 0.39);
+  const walletRadiusY = Math.max(80, height * 0.31);
+  const walletCenter = { x: width * 0.58, y: height / 2 };
   walletList.forEach((wallet, index) => {
     const angle = (Math.PI * 2 * index) / Math.max(1, walletList.length) - Math.PI / 2;
-    wallet.x = center.x + Math.cos(angle) * radiusX;
-    wallet.y = center.y + Math.sin(angle) * radiusY;
+    wallet.x = walletCenter.x + Math.cos(angle) * walletRadiusX;
+    wallet.y = walletCenter.y + Math.sin(angle) * walletRadiusY;
   });
   const byId = new Map(walletList.map((wallet) => [wallet.id, wallet]));
+  const txPoints = rows.map((row, index) => {
+    const laneCount = 4;
+    const colCount = Math.ceil(rows.length / laneCount);
+    const col = index % colCount;
+    const lane = Math.floor(index / colCount);
+    const left = 185;
+    const right = width - 56;
+    const x = colCount <= 1 ? left : left + (col / (colCount - 1)) * (right - left);
+    const laneOffsets = [-54, -18, 18, 54];
+    const wave = Math.sin(index * 0.72) * 10;
+    const y = height / 2 + laneOffsets[lane] + wave;
+    const point = { ...row, index, x, y };
+    graphHits.push({
+      signature: row.signature,
+      x,
+      y,
+      radius: 13,
+    });
+    return point;
+  });
 
   window.cancelAnimationFrame(graphAnimation);
   const started = performance.now();
@@ -253,49 +271,40 @@ function renderGraph() {
       ctx.stroke();
     }
 
-    edges.forEach((edge) => {
-      const from = byId.get(edge.from);
-      const to = byId.get(edge.to);
-      if (!from && !to) return;
-      const a = from || center;
-      const b = to || center;
-      const alpha = 0.08 + Math.max(0, 1 - edge.index / 100) * 0.18;
+    txPoints.forEach((tx) => {
+      const from = byId.get(tx.from);
+      const to = byId.get(tx.to);
+      const alpha = 0.06 + Math.max(0, 1 - tx.index / 100) * 0.12;
 
-      ctx.beginPath();
-      ctx.moveTo(a.x || center.x, a.y || center.y);
-      const midX = ((a.x || center.x) + (b.x || center.x)) / 2;
-      const midY = ((a.y || center.y) + (b.y || center.y)) / 2;
-      ctx.quadraticCurveTo(midX, midY - 24, b.x || center.x, b.y || center.y);
-      ctx.strokeStyle = `rgba(255, 25, 146, ${alpha})`;
-      ctx.lineWidth = 1.1;
-      ctx.stroke();
-
-      if (edge.signature) {
-        const txPoint = {
-          signature: edge.signature,
-          x: midX,
-          y: midY - 12,
-          index: edge.index,
-        };
-        txPoints.push(txPoint);
-        graphHits.push({
-          type: "transaction",
-          signature: edge.signature,
-          x: txPoint.x,
-          y: txPoint.y,
-          radius: 9,
-        });
-      }
+      [from, to].filter(Boolean).forEach((wallet) => {
+        ctx.beginPath();
+        ctx.moveTo(tx.x, tx.y);
+        const controlX = (tx.x + wallet.x) / 2;
+        const controlY = (tx.y + wallet.y) / 2 - 18;
+        ctx.quadraticCurveTo(controlX, controlY, wallet.x, wallet.y);
+        ctx.strokeStyle = `rgba(255, 25, 146, ${alpha})`;
+        ctx.lineWidth = 0.9;
+        ctx.stroke();
+      });
     });
 
-    txPoints.slice(0, 100).forEach((point) => {
+    ctx.beginPath();
+    txPoints.forEach((point, index) => {
+      if (index === 0) ctx.moveTo(point.x, point.y);
+      else ctx.lineTo(point.x, point.y);
+    });
+    ctx.strokeStyle = "rgba(244, 244, 245, 0.18)";
+    ctx.lineWidth = 1;
+    ctx.stroke();
+
+    txPoints.forEach((point) => {
       const freshness = Math.max(0.2, 1 - point.index / 100);
       ctx.beginPath();
-      ctx.arc(point.x, point.y, 3.5 + pulse * 1.5, 0, Math.PI * 2);
+      ctx.arc(point.x, point.y, 4.5 + pulse * 1.2, 0, Math.PI * 2);
       ctx.fillStyle = `rgba(255, 25, 146, ${0.35 + freshness * 0.45})`;
       ctx.fill();
       ctx.beginPath();
-      ctx.arc(point.x, point.y, 8, 0, Math.PI * 2);
+      ctx.arc(point.x, point.y, 12, 0, Math.PI * 2);
       ctx.strokeStyle = `rgba(255, 25, 146, ${0.18 + freshness * 0.22})`;
       ctx.lineWidth = 1;
       ctx.stroke();
@@ -334,7 +343,9 @@ function renderGraph() {
     ctx.fillText("$LIVES", center.x, center.y);
     ctx.fillStyle = "rgba(244, 244, 245, 0.62)";
     ctx.font = "11px SFMono-Regular, Consolas, monospace";
-    ctx.fillText("click pink tx points", center.x, center.y + 48);
+    ctx.fillText("newest -> oldest", center.x, center.y + 48);
+    ctx.textAlign = "right";
+    ctx.fillText("click any pink dot", width - 22, height - 18);
     ctx.textAlign = "start";
     ctx.textBaseline = "alphabetic";
 

@@ -328,7 +328,7 @@ button:disabled {
 }
 
 .graph-stage::after {
-  content: "click pink transaction points";
+  content: "click any pink dot";
   position: absolute;
   right: 16px;
   bottom: 12px;
