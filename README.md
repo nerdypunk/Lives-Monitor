@@ -20,6 +20,8 @@ To save all historical token transactions, run the workflow manually and set `fu
 
 The same workflow also refreshes `data/infinita-city-times.json` from the Infinita City Times Substack RSS feed.
 
+GDELT news is cached in `data/news.json` by the workflow so visitors do not wait on live GDELT API requests.
+
 The data updater tries Solscan first:
 
 - `GET https://pro-api.solscan.io/v2.0/token/meta`

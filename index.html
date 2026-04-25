@@ -3,8 +3,8 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Lives Situation Monitor</title>
-    <meta name="description" content="Lives Situation Monitor for recent Solana token activity.">
+    <title>$LIVES Situation Monitor</title>
+    <meta name="description" content="$LIVES Situation Monitor for recent Solana token activity.">
     <link rel="preconnect" href="https://pro-api.solscan.io">
     <link rel="stylesheet" href="styles.css">
   </head>
@@ -13,7 +13,7 @@
       <section class="topbar" aria-label="Token overview">
         <div>
           <p class="eyebrow">LIVES / MAINNET</p>
-          <h1>Lives Situation Monitor</h1>
+          <h1>$LIVES Situation Monitor</h1>
           <a class="address" href="https://solscan.io/token/27TyCz2Y4rFPfURPCPxByEW6AeMfQSNCMFcPmK4fvEA8?cluster=mainnet-beta" target="_blank" rel="noreferrer">
             27TyCz2Y4rFPfURPCPxByEW6AeMfQSNCMFcPmK4fvEA8
           </a>
@@ -44,6 +44,13 @@
         </article>
       </section>
 
+      <nav class="section-tabs" aria-label="Monitor sections">
+        <a href="#graphPanel" data-target="graphPanel">Flow Graph</a>
+        <a href="#transactionsPanel" data-target="transactionsPanel">Transactions</a>
+        <a href="#infinitaPanel" data-target="infinitaPanel">Infinita City Times</a>
+        <a href="#newsPanel" data-target="newsPanel">News Feed</a>
+      </nav>
+
       <section class="controls" aria-label="Data controls">
         <label>
           Limit
@@ -65,8 +72,24 @@
 
       <section class="notice" id="notice" hidden></section>
 
+      <section class="panel graph-panel" id="graphPanel" aria-label="Last 100 transaction graph">
+        <div class="panel-head">
+          <div>
+            <p class="panel-kicker">FLOW GRAPH</p>
+            <h2>Last 100 $LIVES Transactions</h2>
+          </div>
+          <div class="graph-legend">
+            <span>Wallet nodes</span>
+            <strong id="graphCountValue">--</strong>
+          </div>
+        </div>
+        <div class="graph-stage">
+          <canvas id="transactionGraph" width="1100" height="360"></canvas>
+        </div>
+      </section>
+
       <section class="monitor-grid" aria-label="Situation monitor">
-        <article class="panel transaction-panel">
+        <article class="panel transaction-panel glow-target" id="transactionsPanel">
           <div class="panel-head">
             <div>
               <p class="panel-kicker">TOKEN FLOW</p>
@@ -94,7 +117,19 @@
           </div>
         </article>
 
-        <aside class="panel news-panel" aria-label="Real-time news monitor">
+        <article class="panel infinita-panel glow-target" id="infinitaPanel">
+          <div class="panel-head">
+            <div>
+              <p class="panel-kicker">SUBSTACK</p>
+              <h2>Infinita City Times Latest</h2>
+            </div>
+          </div>
+          <div class="infinita-feed" id="infinitaFeed">
+            <div class="feed-state">Loading...</div>
+          </div>
+        </article>
+
+        <aside class="panel news-panel glow-target" id="newsPanel" aria-label="Real-time news monitor">
           <div class="panel-head">
             <div>
               <p class="panel-kicker">GDELT DOC 2.0</p>
@@ -106,10 +141,6 @@
             </div>
           </div>
           <div class="news-grid" id="newsFeeds">
-            <section class="feed-card substack-card">
-              <h3>Infinita City Times Latest</h3>
-              <div class="feed-state">Loading...</div>
-            </section>
             <section class="feed-card">
               <h3>DeSci</h3>
               <div class="feed-state">Loading...</div>

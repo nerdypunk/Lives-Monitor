@@ -1,15 +1,10 @@
 const TOKEN_MINT = "27TyCz2Y4rFPfURPCPxByEW6AeMfQSNCMFcPmK4fvEA8";
 const DATA_URL = "data/transactions.json";
 const SUBSTACK_DATA_URL = "data/infinita-city-times.json";
-const GDELT_DOC_API = "https://api.gdeltproject.org/api/v2/doc/doc";
+const NEWS_DATA_URL = "data/news.json";
 const SOLSCAN_TX = "https://solscan.io/tx/";
 const SOLSCAN_TOKEN = "https://solscan.io/token/";
-const NEWS_FEEDS = [
-  { name: "DeSci", query: '(DeSci OR "decentralized science") sourcelang:english' },
-  { name: "Longevity", query: '(longevity OR "life extension" OR "anti-aging") sourcelang:english' },
-  { name: "Biotech", query: '(biotech OR "synthetic biology" OR CRISPR) sourcelang:english' },
-  { name: "Crypto", query: '(crypto OR cryptocurrency OR blockchain OR Solana) sourcelang:english' },
-];
+const NEWS_FEED_NAMES = ["DeSci", "Longevity", "Biotech", "Crypto"];
 const SUBSTACK_FALLBACK = {
   source: "Bundled fallback",
   items: [
@@ -47,12 +42,16 @@ const elements = {
   next: document.querySelector("#nextButton"),
   notice: document.querySelector("#notice"),
   body: document.querySelector("#transactionsBody"),
+  graph: document.querySelector("#transactionGraph"),
+  graphCount: document.querySelector("#graphCountValue"),
   news: document.querySelector("#newsFeeds"),
+  infinita: document.querySelector("#infinitaFeed"),
   newsUpdated: document.querySelector("#newsUpdatedValue"),
 };
 
 let page = 1;
 let allRows = [];
+let graphAnimation;
 
 function setStatus(text, state = "") {
   elements.status.textContent = text;
@@ -180,6 +179,135 @@ function renderRows() {
     .join("");
 }
 
+function walletLabel(value) {
+  if (!value) return "";
+  return `${value.slice(0, 4)}...${value.slice(-4)}`;
+}
+
+function renderGraph() {
+  const canvas = elements.graph;
+  if (!canvas) return;
+
+  const ctx = canvas.getContext("2d");
+  const rect = canvas.getBoundingClientRect();
+  const dpr = window.devicePixelRatio || 1;
+  canvas.width = Math.max(1, Math.floor(rect.width * dpr));
+  canvas.height = Math.max(1, Math.floor(rect.height * dpr));
+  ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+
+  const width = rect.width;
+  const height = rect.height;
+  const center = { x: width / 2, y: height / 2 };
+  const rows = allRows.slice(0, 100);
+  const wallets = new Map();
+  const edges = [];
+
+  rows.forEach((row, index) => {
+    const from = row.from || "";
+    const to = row.to || "";
+    if (from) wallets.set(from, { id: from, weight: (wallets.get(from)?.weight || 0) + 1 });
+    if (to) wallets.set(to, { id: to, weight: (wallets.get(to)?.weight || 0) + 1 });
+    edges.push({ from, to, index });
+  });
+
+  const walletList = [...wallets.values()]
+    .sort((a, b) => b.weight - a.weight)
+    .slice(0, 34);
+
+  elements.graphCount.textContent = `${rows.length} tx / ${walletList.length} wallets`;
+
+  const radiusX = Math.max(160, width * 0.39);
+  const radiusY = Math.max(92, height * 0.31);
+  walletList.forEach((wallet, index) => {
+    const angle = (Math.PI * 2 * index) / Math.max(1, walletList.length) - Math.PI / 2;
+    wallet.x = center.x + Math.cos(angle) * radiusX;
+    wallet.y = center.y + Math.sin(angle) * radiusY;
+  });
+  const byId = new Map(walletList.map((wallet) => [wallet.id, wallet]));
+
+  window.cancelAnimationFrame(graphAnimation);
+  const started = performance.now();
+
+  function draw(now) {
+    const pulse = (Math.sin((now - started) / 620) + 1) / 2;
+    ctx.clearRect(0, 0, width, height);
+
+    ctx.fillStyle = "#070707";
+    ctx.fillRect(0, 0, width, height);
+
+    ctx.strokeStyle = "rgba(255, 25, 146, 0.08)";
+    ctx.lineWidth = 1;
+    for (let x = 0; x < width; x += 44) {
+      ctx.beginPath();
+      ctx.moveTo(x, 0);
+      ctx.lineTo(x, height);
+      ctx.stroke();
+    }
+    for (let y = 0; y < height; y += 44) {
+      ctx.beginPath();
+      ctx.moveTo(0, y);
+      ctx.lineTo(width, y);
+      ctx.stroke();
+    }
+
+    edges.forEach((edge) => {
+      const from = byId.get(edge.from);
+      const to = byId.get(edge.to);
+      if (!from && !to) return;
+      const a = from || center;
+      const b = to || center;
+      const alpha = 0.08 + Math.max(0, 1 - edge.index / 100) * 0.18;
+
+      ctx.beginPath();
+      ctx.moveTo(a.x || center.x, a.y || center.y);
+      const midX = ((a.x || center.x) + (b.x || center.x)) / 2;
+      const midY = ((a.y || center.y) + (b.y || center.y)) / 2;
+      ctx.quadraticCurveTo(midX, midY - 24, b.x || center.x, b.y || center.y);
+      ctx.strokeStyle = `rgba(255, 25, 146, ${alpha})`;
+      ctx.lineWidth = 1.1;
+      ctx.stroke();
+    });
+
+    walletList.forEach((wallet) => {
+      const size = 4 + Math.min(8, wallet.weight * 1.2);
+      ctx.beginPath();
+      ctx.arc(wallet.x, wallet.y, size + pulse * 1.8, 0, Math.PI * 2);
+      ctx.fillStyle = "rgba(255, 25, 146, 0.18)";
+      ctx.fill();
+      ctx.beginPath();
+      ctx.arc(wallet.x, wallet.y, size, 0, Math.PI * 2);
+      ctx.fillStyle = "#ff1992";
+      ctx.fill();
+
+      if (wallet.weight > 1) {
+        ctx.fillStyle = "rgba(244, 244, 245, 0.74)";
+        ctx.font = "11px SFMono-Regular, Consolas, monospace";
+        ctx.fillText(walletLabel(wallet.id), wallet.x + 10, wallet.y + 4);
+      }
+    });
+
+    ctx.beginPath();
+    ctx.arc(center.x, center.y, 34 + pulse * 4, 0, Math.PI * 2);
+    ctx.fillStyle = "rgba(255, 25, 146, 0.18)";
+    ctx.fill();
+    ctx.beginPath();
+    ctx.arc(center.x, center.y, 28, 0, Math.PI * 2);
+    ctx.fillStyle = "#f4f4f5";
+    ctx.fill();
+    ctx.fillStyle = "#000000";
+    ctx.font = "800 13px Inter, sans-serif";
+    ctx.textAlign = "center";
+    ctx.textBaseline = "middle";
+    ctx.fillText("$LIVES", center.x, center.y);
+    ctx.textAlign = "start";
+    ctx.textBaseline = "alphabetic";
+
+    graphAnimation = window.requestAnimationFrame(draw);
+  }
+
+  graphAnimation = window.requestAnimationFrame(draw);
+}
+
 async function loadTokenData() {
   setStatus("Loading", "loading");
   setNotice("");
@@ -199,6 +327,7 @@ async function loadTokenData() {
     allRows = payload.transactions || [];
     renderMeta(payload);
     renderRows();
+    renderGraph();
     setStatus("Live", "loading");
 
   } catch (error) {
@@ -212,24 +341,18 @@ async function loadTokenData() {
 }
 
 function renderNewsLoading() {
-  elements.news.innerHTML = NEWS_FEEDS
-    .map((feed) => `
+  elements.news.innerHTML = NEWS_FEED_NAMES
+    .map((name) => `
       <section class="feed-card">
-        <h3>${escapeHtml(feed.name)}</h3>
+        <h3>${escapeHtml(name)}</h3>
         <div class="feed-state">Loading...</div>
       </section>
     `)
     .join("");
 }
 
-function gdeltUrl(query) {
-  const url = new URL(GDELT_DOC_API);
-  url.searchParams.set("query", query);
-  url.searchParams.set("mode", "ArtList");
-  url.searchParams.set("format", "json");
-  url.searchParams.set("maxrecords", "10");
-  url.searchParams.set("sort", "datedesc");
-  return url.toString();
+function renderInfinitaLoading() {
+  elements.infinita.innerHTML = '<div class="feed-state">Loading...</div>';
 }
 
 function renderFeed(feed, articles, error = "") {
@@ -282,57 +405,53 @@ function formatNewsDateForSort(value) {
     : text;
 }
 
-async function fetchFeed(feed) {
-  const response = await fetch(gdeltUrl(feed.query), {
-    headers: { accept: "application/json" },
-  });
-  const text = await response.text();
-
-  if (!response.ok) {
-    throw new Error(`GDELT returned ${response.status}`);
-  }
-
-  let payload;
-  try {
-    payload = JSON.parse(text);
-  } catch {
-    throw new Error(cleanText(text).slice(0, 140) || "GDELT returned invalid JSON");
-  }
-
-  return (payload.articles || []).filter((article) => {
-    const language = cleanText(article.language).toLowerCase();
-    return !language || language === "english";
-  });
-}
-
 async function loadNewsFeeds() {
   renderNewsLoading();
-  const [gdeltResults, substackResult] = await Promise.all([
-    Promise.allSettled(NEWS_FEEDS.map(fetchFeed)),
+  renderInfinitaLoading();
+  const [newsResult, substackResult] = await Promise.all([
+    fetchNewsCache().then(
+      (value) => ({ status: "fulfilled", value }),
+      (reason) => ({ status: "rejected", reason })
+    ),
     fetchSubstackFeed().then(
       (value) => ({ status: "fulfilled", value }),
       (reason) => ({ status: "rejected", reason })
     ),
   ]);
 
-  const gdeltCards = gdeltResults
-    .map((result, index) => {
-      const feed = NEWS_FEEDS[index];
-      if (result.status === "fulfilled") {
-        return renderFeed(feed, result.value.slice(0, 10));
-      }
-      return renderFeed(feed, [], result.reason?.message || "Could not load feed.");
-    })
-    .join("");
+  const gdeltCards = newsResult.status === "fulfilled"
+    ? renderNewsCache(newsResult.value)
+    : NEWS_FEED_NAMES
+      .map((name) => renderFeed({ name }, [], newsResult.reason?.message || "Could not load cached news."))
+      .join("");
 
-  const substackCard = substackResult.status === "fulfilled"
+  elements.infinita.innerHTML = substackResult.status === "fulfilled"
     ? renderSubstackFeed(substackResult.value)
     : renderSubstackFeed(null, substackResult.reason?.message || "Could not load Infinita City Times.");
 
-  elements.news.innerHTML = `${substackCard}${gdeltCards}`;
-  elements.newsUpdated.textContent = new Intl.DateTimeFormat(undefined, {
-    timeStyle: "medium",
-  }).format(new Date());
+  elements.news.innerHTML = gdeltCards;
+  const updatedAt = newsResult.status === "fulfilled" ? newsResult.value.updatedAt : new Date();
+  elements.newsUpdated.textContent = formatAnyDate(updatedAt);
+}
+
+async function fetchNewsCache() {
+  const response = await fetch(`${NEWS_DATA_URL}?t=${Date.now()}`, {
+    headers: { accept: "application/json" },
+  });
+  if (!response.ok) {
+    throw new Error(`News cache returned ${response.status}`);
+  }
+  return response.json();
+}
+
+function renderNewsCache(payload) {
+  const feeds = payload.feeds || [];
+  return NEWS_FEED_NAMES
+    .map((name) => {
+      const feed = feeds.find((item) => item.name === name) || { name, articles: [] };
+      return renderFeed(feed, feed.articles || [], feed.error || "");
+    })
+    .join("");
 }
 
 async function fetchSubstackFeed() {
@@ -384,11 +503,8 @@ function renderSubstackFeed(payload, error = "") {
       : '<div class="feed-state">No posts found.</div>';
 
   return `
-    <section class="feed-card substack-card">
-      <h3>Infinita City Times Latest</h3>
-      ${payload?.error ? `<div class="feed-note">Using bundled fallback until the static feed cache is available.</div>` : ""}
-      ${content}
-    </section>
+    ${payload?.error ? `<div class="feed-note">Using bundled fallback until the static feed cache is available.</div>` : ""}
+    ${content}
   `;
 }
 
@@ -413,5 +529,18 @@ elements.next.addEventListener("click", () => {
   page += 1;
   renderRows();
 });
+
+document.querySelectorAll(".section-tabs a").forEach((link) => {
+  link.addEventListener("click", () => {
+    const target = document.querySelector(`#${link.dataset.target}`);
+    if (!target) return;
+    target.classList.remove("section-glow");
+    void target.offsetWidth;
+    target.classList.add("section-glow");
+window.setTimeout(() => target.classList.remove("section-glow"), 4000);
+  });
+});
+
+window.addEventListener("resize", () => renderGraph());
 
 loadAll();

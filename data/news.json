@@ -1,0 +1,26 @@
+{
+  "source": "GDELT DOC 2.0",
+  "updatedAt": null,
+  "feeds": [
+    {
+      "name": "DeSci",
+      "query": "(DeSci OR \"decentralized science\") sourcelang:english",
+      "articles": []
+    },
+    {
+      "name": "Longevity",
+      "query": "(longevity OR \"life extension\" OR \"anti-aging\") sourcelang:english",
+      "articles": []
+    },
+    {
+      "name": "Biotech",
+      "query": "(biotech OR \"synthetic biology\" OR CRISPR) sourcelang:english",
+      "articles": []
+    },
+    {
+      "name": "Crypto",
+      "query": "(crypto OR cryptocurrency OR blockchain OR Solana) sourcelang:english",
+      "articles": []
+    }
+  ]
+}

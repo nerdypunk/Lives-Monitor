@@ -70,12 +70,13 @@ a {
 
 h1 {
   margin: 0 0 14px;
-  max-width: 900px;
+  max-width: none;
   color: var(--ink);
-  font-size: 4.8rem;
+  font-size: 4.25rem;
   font-weight: 850;
   line-height: 0.95;
   letter-spacing: 0;
+  white-space: nowrap;
 }
 
 .address {
@@ -180,10 +181,41 @@ h1 {
 
 .controls {
   display: grid;
-  grid-template-columns: 132px minmax(160px, 1fr) minmax(140px, 0.7fr) minmax(140px, 0.7fr);
+  grid-template-columns: 132px minmax(180px, 1fr) minmax(120px, 0.45fr) minmax(120px, 0.45fr);
   gap: 12px;
   align-items: end;
   margin-bottom: 18px;
+}
+
+.section-tabs {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 10px;
+  margin: 0 0 18px;
+  padding: 8px;
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  background: #0b0b0b;
+}
+
+.section-tabs a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 46px;
+  padding: 0 14px;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: linear-gradient(180deg, #171717, #101010);
+  color: var(--ink);
+  font-size: 0.92rem;
+  font-weight: 850;
+  text-decoration: none;
+}
+
+.section-tabs a:hover {
+  border-color: var(--line-hot);
+  color: var(--pink);
 }
 
 label {
@@ -256,9 +288,39 @@ button:disabled {
 
 .monitor-grid {
   display: grid;
-  grid-template-columns: minmax(0, 0.9fr) minmax(360px, 1.1fr);
+  grid-template-columns: minmax(0, 1fr) minmax(360px, 1fr);
   gap: 16px;
   align-items: start;
+}
+
+.graph-panel {
+  margin-bottom: 16px;
+  overflow: hidden;
+}
+
+.graph-stage {
+  height: 360px;
+  padding: 0;
+  background: #070707;
+}
+
+#transactionGraph {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.graph-legend {
+  display: grid;
+  gap: 4px;
+  color: var(--muted);
+  font-size: 0.72rem;
+  text-align: right;
+}
+
+.graph-legend strong {
+  color: var(--pink);
+  font-size: 0.94rem;
 }
 
 .panel {
@@ -266,6 +328,8 @@ button:disabled {
   border: 1px solid var(--line);
   border-radius: 12px;
   background: rgba(12, 12, 12, 0.92);
+  scroll-margin-top: 18px;
+  transition: border-color 180ms ease, box-shadow 180ms ease;
 }
 
 .panel-head {
@@ -295,6 +359,22 @@ h2 {
 .table-wrap {
   max-height: 620px;
   overflow: auto;
+}
+
+.transaction-panel,
+.infinita-panel {
+  height: 700px;
+  overflow: hidden;
+}
+
+.transaction-panel .table-wrap {
+  max-height: 612px;
+}
+
+.infinita-feed {
+  max-height: 612px;
+  overflow: auto;
+  padding: 16px;
 }
 
 table {
@@ -375,6 +455,7 @@ tbody tr:last-child td {
 }
 
 .news-panel {
+  grid-column: 1 / -1;
   overflow: hidden;
 }
 
@@ -404,12 +485,6 @@ tbody tr:last-child td {
   min-height: 280px;
   padding: 16px;
   background: #111111;
-}
-
-.substack-card {
-  grid-column: 1 / -1;
-  min-height: auto;
-  background: linear-gradient(180deg, rgba(255, 25, 146, 0.12), #111111 58%);
 }
 
 .feed-card h3 {
@@ -457,6 +532,11 @@ tbody tr:last-child td {
   color: var(--muted);
   font-size: 0.86rem;
   line-height: 1.35;
+}
+
+.section-glow {
+  border-color: var(--pink);
+  box-shadow: 0 0 0 1px rgba(255, 25, 146, 0.35), 0 0 34px rgba(255, 25, 146, 0.28);
 }
 
 .feed-state {
@@ -510,7 +590,7 @@ tbody tr:last-child td {
 
 @media (max-width: 960px) {
   h1 {
-    font-size: 3.6rem;
+    font-size: 3rem;
   }
 
   .metrics {
@@ -520,6 +600,20 @@ tbody tr:last-child td {
   .monitor-grid,
   .news-grid {
     grid-template-columns: 1fr;
+  }
+
+  .news-panel {
+    grid-column: auto;
+  }
+
+  .transaction-panel,
+  .infinita-panel {
+    height: auto;
+  }
+
+  .transaction-panel .table-wrap,
+  .infinita-feed {
+    max-height: 620px;
   }
 }
 
@@ -535,7 +629,8 @@ tbody tr:last-child td {
   }
 
   h1 {
-    font-size: 2.75rem;
+    font-size: 2.35rem;
+    white-space: normal;
   }
 
   .status-pill {
@@ -543,7 +638,8 @@ tbody tr:last-child td {
   }
 
   .metrics,
-  .controls {
+  .controls,
+  .section-tabs {
     grid-template-columns: 1fr;
   }
 
