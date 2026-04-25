@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Token Transactions Monitor</title>
+    <meta name="description" content="Static Solana token transaction monitor for GitHub Pages.">
+    <link rel="preconnect" href="https://pro-api.solscan.io">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <main class="shell">
+      <section class="topbar" aria-label="Token overview">
+        <div>
+          <p class="eyebrow">Solana mainnet</p>
+          <h1>Token Transactions</h1>
+          <a class="address" href="https://solscan.io/token/27TyCz2Y4rFPfURPCPxByEW6AeMfQSNCMFcPmK4fvEA8?cluster=mainnet-beta" target="_blank" rel="noreferrer">
+            27TyCz2Y4rFPfURPCPxByEW6AeMfQSNCMFcPmK4fvEA8
+          </a>
+        </div>
+        <div class="status-pill" id="networkStatus" role="status">Idle</div>
+      </section>
+
+      <section class="metrics" aria-label="Token metrics">
+        <article class="metric">
+          <span>Token</span>
+          <strong id="tokenNameValue">--</strong>
+        </article>
+        <article class="metric">
+          <span>Supply</span>
+          <strong id="supplyValue">--</strong>
+        </article>
+        <article class="metric">
+          <span>Loaded transactions</span>
+          <strong id="loadedValue">0</strong>
+        </article>
+        <article class="metric">
+          <span>Last updated</span>
+          <strong id="updatedValue">--</strong>
+        </article>
+      </section>
+
+      <section class="controls" aria-label="Data controls">
+        <label>
+          Limit
+          <select id="limitSelect">
+            <option value="10">10</option>
+            <option value="20">20</option>
+            <option value="40">40</option>
+            <option value="60" selected>60</option>
+            <option value="100">100</option>
+          </select>
+        </label>
+        <button id="refreshButton" type="button">
+          <span aria-hidden="true">R</span>
+          Refresh
+        </button>
+        <button id="prevButton" type="button">Prev</button>
+        <button id="nextButton" type="button">Next</button>
+      </section>
+
+      <section class="notice" id="notice" hidden></section>
+
+      <section class="table-wrap" aria-label="Recent token transactions">
+        <table>
+          <thead>
+            <tr>
+              <th scope="col">Time</th>
+              <th scope="col">Type</th>
+              <th scope="col">Amount</th>
+              <th scope="col">From</th>
+              <th scope="col">To</th>
+              <th scope="col">Signature</th>
+            </tr>
+          </thead>
+          <tbody id="transactionsBody">
+            <tr>
+              <td colspan="6" class="empty">Loading transactions...</td>
+            </tr>
+          </tbody>
+        </table>
+      </section>
+    </main>
+
+    <script src="app.js"></script>
+  </body>
+</html>

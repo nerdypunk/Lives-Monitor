@@ -1,0 +1,27 @@
+name: Update token transactions
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/15 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Fetch latest transactions
+        env:
+          SOLSCAN_API_KEY: ${{ secrets.SOLSCAN_API_KEY }}
+        run: node scripts/update-data.mjs
+      - name: Commit updated data
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Update token transactions data
+          file_pattern: data/transactions.json

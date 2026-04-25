@@ -1,0 +1,21 @@
+{
+  "source": "Seeded Solana RPC fallback",
+  "token": {
+    "address": "27TyCz2Y4rFPfURPCPxByEW6AeMfQSNCMFcPmK4fvEA8",
+    "name": "Token",
+    "symbol": "Token",
+    "supply": "350000"
+  },
+  "transactions": [
+    {
+      "signature": "2UyHDSNbFWqBivZXze7hGcAtcT8FHQfFWpnENWVSpc8ZvXgDeGJtSy34sCVcxPWGyh8D9vbBfnaJR4QnTLzLTUCY",
+      "type": "Transfer",
+      "amountText": "0.4875",
+      "from": "6ACwobpN5CJB7TNdJcHpRHqStvS96AH7kvXqiDaeCzLx",
+      "to": "2eCdmJKwGZ9f7rNEYqdAMf2w1hiicWd7awnKzvJihxTg",
+      "blockTime": 1777095542,
+      "slot": 415502899
+    }
+  ],
+  "updatedAt": "2026-04-25T05:56:00.000Z"
+}
