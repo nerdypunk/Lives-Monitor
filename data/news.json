@@ -1,16 +1,46 @@
 {
   "source": "GDELT DOC 2.0",
-  "updatedAt": "2026-04-25T18:23:25.527Z",
+  "updatedAt": "2026-04-25T18:29:44.685Z",
   "feeds": [
     {
       "name": "DeSci",
       "query": "(DeSci OR \"decentralized science\") sourcelang:english",
       "articles": [
         {
+          "title": "Advancing Decentralized Health , AI , and Trust Driven Innovation",
+          "url": "https://www.webwire.com/ViewPressRel.asp?aId=352023",
+          "domain": "webwire.com",
+          "date": "20260316T124500Z"
+        },
+        {
+          "title": "AxonDAO Launches Science Discovery GPU Infrastructure Built with ICC",
+          "url": "https://www.manilatimes.net/2026/03/04/tmt-newswire/globenewswire/axondao-launches-science-discovery-gpu-infrastructure-built-with-icc/2293334",
+          "domain": "manilatimes.net",
+          "date": "20260304T161500Z"
+        },
+        {
+          "title": "AxonDAO Selects Oracle Cloud Infrastructure to Build and Scale Secure GPU Infrastructure for AI and Life Sciences Workloads",
+          "url": "https://www.manilatimes.net/2026/02/09/tmt-newswire/globenewswire/axondao-selects-oracle-cloud-infrastructure-to-build-and-scale-secure-gpu-infrastructure-for-ai-and-life-sciences-workloads/2274572",
+          "domain": "manilatimes.net",
+          "date": "20260209T161500Z"
+        },
+        {
+          "title": "Trust Is the New Infrastructure : A Featured Forum at KuCoin Co - Hosted WLS Examines Blockchain Role in a Post - Quantum , AI - Driven World",
+          "url": "http://www.singaporestar.com/news/278845967/trust-is-the-new-infrastructure-a-featured-forum-at-kucoin-co-hosted-wls-examines-blockchain-role-in-a-post-quantum-ai-driven-world",
+          "domain": "singaporestar.com",
+          "date": "20260203T130000Z"
+        },
+        {
           "title": "Trust Is the New Infrastructure : A Featured Forum at KuCoin Co - Hosted WLS Examines Blockchain Role in a Post - Quantum , AI - Driven World",
           "url": "http://www.sydneysun.com/news/278845967/trust-is-the-new-infrastructure-a-featured-forum-at-kucoin-co-hosted-wls-examines-blockchain-role-in-a-post-quantum-ai-driven-world",
           "domain": "sydneysun.com",
           "date": "20260203T094500Z"
+        },
+        {
+          "title": "ParaFi Capital Backs Jupiter with $35M Strategic Investment",
+          "url": "https://cointelegraph.com/news/parafi-capital-35m-investment-jupiter",
+          "domain": "cointelegraph.com",
+          "date": "20260202T204500Z"
         }
       ]
     },
