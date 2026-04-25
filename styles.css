@@ -10,6 +10,9 @@
   --line-hot: rgba(255, 25, 146, 0.42);
   --pink: #ff1992;
   --pink-2: #e0007a;
+  --gold: #ffd83d;
+  --amber: #ff9f1c;
+  --orange: #ff6b1a;
   --pink-soft: rgba(255, 25, 146, 0.13);
   --white-soft: rgba(255, 255, 255, 0.08);
   --danger: #ff5570;
@@ -25,9 +28,10 @@ body {
   min-height: 100vh;
   background:
     linear-gradient(180deg, rgba(255, 25, 146, 0.08), transparent 170px),
-    repeating-linear-gradient(0deg, rgba(255, 255, 255, 0.018) 0 1px, transparent 1px 4px),
+    repeating-linear-gradient(0deg, rgba(255, 255, 255, 0.016) 0 1px, transparent 1px 4px),
     var(--bg);
   color: var(--ink);
+  overflow-x: hidden;
 }
 
 body::before {
@@ -35,8 +39,52 @@ body::before {
   position: fixed;
   inset: 0;
   pointer-events: none;
-  background: linear-gradient(90deg, transparent, rgba(255, 25, 146, 0.035), transparent);
-  opacity: 0.9;
+  background:
+    linear-gradient(90deg, transparent, rgba(255, 25, 146, 0.03), transparent),
+    repeating-linear-gradient(90deg, rgba(255, 25, 146, 0.018) 0 1px, transparent 1px 70px);
+  opacity: 0.82;
+  animation: sweep-grid 16s linear infinite;
+}
+
+body::after {
+  content:
+    "01001011  LIVES  0x7F  mempool  ::  INF  1101  signal  /dev/null  27Ty  001101  hash  feed  mainnet\A"
+    "trace  88ms  packet  hot-wallet  0110  substack  cipher  blocktime  daemon  rpc  bloom  latest\A"
+    "wallet-node  100tx  24w  checksum  grep  pulse  route  solscan  cache  rss  opcode  queue\A"
+    "01101001  graph  stream  null  tx-ring  sha256  biosignal  longevity  de-sci  feedlock\A"
+    "mainnet  0x19  monitor  relay  origin  forkless  darkmode  101101  slot  delta  watcher";
+  position: fixed;
+  inset: -30% -10%;
+  z-index: 0;
+  pointer-events: none;
+  color: rgba(255, 25, 146, 0.055);
+  font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+  font-size: 12px;
+  line-height: 2.3;
+  letter-spacing: 0.16em;
+  word-spacing: 2.6rem;
+  white-space: pre-wrap;
+  transform: rotate(-10deg);
+  text-shadow: 0 0 16px rgba(255, 25, 146, 0.08);
+  animation: code-drift 24s linear infinite;
+}
+
+@keyframes sweep-grid {
+  from {
+    background-position: 0 0, 0 0;
+  }
+  to {
+    background-position: 220px 0, 70px 0;
+  }
+}
+
+@keyframes code-drift {
+  from {
+    transform: translate3d(-3%, -2%, 0) rotate(-10deg);
+  }
+  to {
+    transform: translate3d(3%, 2%, 0) rotate(-10deg);
+  }
 }
 
 a {
@@ -45,6 +93,7 @@ a {
 
 .shell {
   position: relative;
+  z-index: 1;
   width: min(1180px, calc(100% - 42px));
   margin: 0 auto;
   padding: 22px 0 52px;
@@ -57,6 +106,104 @@ a {
   gap: 26px;
   padding: 42px 0 30px;
   border-bottom: 1px solid var(--line);
+}
+
+.bay-map {
+  display: grid;
+  grid-template-columns: minmax(220px, 0.34fr) minmax(0, 1fr);
+  gap: 16px;
+  align-items: center;
+  min-height: 210px;
+  margin: 18px 0 22px;
+  padding: 18px;
+  overflow: hidden;
+  background:
+    radial-gradient(circle at 56% 48%, rgba(255, 25, 146, 0.16), transparent 34%),
+    linear-gradient(180deg, rgba(18, 18, 18, 0.96), rgba(6, 6, 6, 0.94));
+}
+
+.bay-map-copy h2 {
+  color: var(--ink);
+  font-size: 1.35rem;
+}
+
+.bay-map-art {
+  width: 100%;
+  min-height: 170px;
+}
+
+.map-grid path {
+  fill: none;
+  stroke: rgba(255, 25, 146, 0.11);
+  stroke-width: 1;
+}
+
+.map-route {
+  fill: none;
+  stroke: rgba(255, 216, 61, 0.36);
+  stroke-dasharray: 7 10;
+  stroke-width: 1.5;
+  animation: route-flow 7s linear infinite;
+}
+
+.island {
+  stroke-width: 1.5;
+}
+
+.island-muted {
+  fill: rgba(244, 244, 245, 0.16);
+  stroke: rgba(244, 244, 245, 0.34);
+}
+
+.island-roatan {
+  fill: url(#roatanGradient);
+  stroke: rgba(255, 216, 61, 0.8);
+  filter: drop-shadow(0 0 14px rgba(255, 25, 146, 0.42));
+}
+
+.ping {
+  fill: var(--gold);
+}
+
+.ping-main {
+  fill: var(--pink);
+}
+
+.ping-ring {
+  fill: none;
+  stroke: rgba(255, 25, 146, 0.85);
+  stroke-width: 2;
+  transform-origin: 342px 68px;
+  animation: ping-ring 2.6s ease-out infinite;
+}
+
+.map-labels text {
+  fill: rgba(244, 244, 245, 0.74);
+  font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+  font-size: 11px;
+  font-weight: 850;
+  letter-spacing: 0.18em;
+  text-anchor: middle;
+}
+
+@keyframes route-flow {
+  from {
+    stroke-dashoffset: 0;
+  }
+  to {
+    stroke-dashoffset: -68;
+  }
+}
+
+@keyframes ping-ring {
+  from {
+    opacity: 0.9;
+    transform: scale(0.62);
+  }
+  to {
+    opacity: 0;
+    transform: scale(1.65);
+  }
 }
 
 .eyebrow {
@@ -77,6 +224,15 @@ h1 {
   line-height: 0.95;
   letter-spacing: 0;
   white-space: nowrap;
+}
+
+.intro-copy {
+  max-width: 760px;
+  margin: -2px 0 14px;
+  color: #c8c8ce;
+  font-size: 1rem;
+  font-weight: 620;
+  line-height: 1.45;
 }
 
 .address {
@@ -179,14 +335,6 @@ h1 {
   font-size: 2.4rem;
 }
 
-.controls {
-  display: grid;
-  grid-template-columns: 132px minmax(180px, 1fr) minmax(120px, 0.45fr) minmax(120px, 0.45fr);
-  gap: 12px;
-  align-items: end;
-  margin-bottom: 18px;
-}
-
 .section-tabs {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
@@ -213,67 +361,28 @@ h1 {
   text-decoration: none;
 }
 
+.section-tabs a:nth-child(1) {
+  border-color: rgba(255, 216, 61, 0.28);
+  color: var(--gold);
+}
+
+.section-tabs a:nth-child(2) {
+  border-color: rgba(255, 159, 28, 0.28);
+  color: var(--amber);
+}
+
+.section-tabs a:nth-child(3) {
+  border-color: rgba(255, 107, 26, 0.3);
+  color: var(--orange);
+}
+
+.section-tabs a:nth-child(4) {
+  border-color: rgba(255, 25, 146, 0.3);
+  color: var(--pink);
+}
+
 .section-tabs a:hover {
-  border-color: var(--line-hot);
-  color: var(--pink);
-}
-
-label {
-  display: grid;
-  gap: 7px;
-  color: var(--muted);
-  font-size: 0.78rem;
-  font-weight: 800;
-}
-
-input,
-select,
-button {
-  min-height: 46px;
-  border: 1px solid var(--line);
-  border-radius: 10px;
-  background: #101010;
-  color: var(--ink);
-  font: inherit;
-}
-
-input,
-select {
-  width: 100%;
-  padding: 0 12px;
-}
-
-button {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  gap: 8px;
-  padding: 0 18px;
-  background: #161616;
-  color: var(--ink);
-  cursor: pointer;
-  font-weight: 850;
-}
-
-button:hover:not(:disabled) {
-  border-color: var(--line-hot);
-  color: var(--pink);
-}
-
-#refreshButton {
-  border-color: transparent;
-  background: linear-gradient(135deg, var(--pink), var(--pink-2));
-  color: #ffffff;
-}
-
-#refreshButton:hover:not(:disabled) {
-  color: #ffffff;
-  filter: brightness(1.08);
-}
-
-button:disabled {
-  cursor: wait;
-  opacity: 0.45;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.075), #101010);
 }
 
 .notice {
@@ -368,20 +477,117 @@ h2 {
   overflow: auto;
 }
 
-.transaction-panel,
-.infinita-panel {
+.transaction-panel {
+  grid-column: 1 / -1;
   height: 390px;
   overflow: hidden;
 }
 
 .transaction-panel .table-wrap {
+  height: 302px;
   max-height: 302px;
+  overflow: auto;
+}
+
+.infinita-panel {
+  grid-column: 1 / -1;
+  height: 330px;
+  overflow: hidden;
+}
+
+.featured-panel {
+  position: relative;
+  border-color: rgba(255, 25, 146, 0.72);
+  background:
+    linear-gradient(135deg, rgba(255, 25, 146, 0.16), transparent 34%),
+    linear-gradient(180deg, rgba(18, 18, 18, 0.98), rgba(8, 8, 8, 0.96));
+  box-shadow: 0 0 0 1px rgba(255, 25, 146, 0.18), 0 0 38px rgba(255, 25, 146, 0.13);
+}
+
+.featured-panel::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background:
+    linear-gradient(90deg, transparent, rgba(255, 25, 146, 0.14), transparent),
+    repeating-linear-gradient(120deg, transparent 0 16px, rgba(255, 255, 255, 0.025) 16px 17px);
+  opacity: 0.4;
+  animation: panel-scan 7s linear infinite;
+}
+
+.featured-panel > * {
+  position: relative;
+  z-index: 1;
+}
+
+.featured-panel h2 {
+  font-size: 1.55rem;
+}
+
+.priority-mark {
+  align-self: flex-start;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: rgba(244, 244, 245, 0.58);
+  font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+  font-size: 0.68rem;
+  font-weight: 850;
+  text-transform: uppercase;
+}
+
+@keyframes panel-scan {
+  from {
+    background-position: -260px 0, 0 0;
+  }
+  to {
+    background-position: 260px 0, 0 0;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  body::before,
+  body::after,
+  .featured-panel::before,
+  .map-route,
+  .ping-ring {
+    animation: none;
+  }
 }
 
 .infinita-feed {
-  max-height: 302px;
+  display: grid;
+  grid-template-columns: minmax(280px, 1.05fr) minmax(280px, 1fr);
+  gap: 18px;
+  height: 244px;
+  max-height: 244px;
+  overflow: hidden;
+  padding: 18px;
+}
+
+.infinita-feed .feed-note {
+  grid-column: 1 / -1;
+}
+
+.infinita-feed .lead-article {
+  margin-bottom: 0;
+  min-height: 100%;
+  padding: 18px;
+  border-color: rgba(255, 25, 146, 0.72);
+  background: rgba(255, 25, 146, 0.14);
+  align-content: start;
+}
+
+.infinita-feed .lead-article a {
+  font-size: 1.12rem;
+}
+
+.infinita-feed .article-list {
+  align-content: start;
+  max-height: 100%;
   overflow: auto;
-  padding: 16px;
+  padding-right: 10px;
 }
 
 table {
@@ -449,6 +655,12 @@ tbody tr:last-child td {
   font-weight: 850;
 }
 
+.chip-transfer {
+  border-color: rgba(255, 107, 26, 0.5);
+  background: rgba(255, 107, 26, 0.12);
+  color: var(--orange);
+}
+
 .mono {
   max-width: 150px;
   color: #d5d5da;
@@ -483,15 +695,41 @@ tbody tr:last-child td {
 .news-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 1px;
-  background: var(--line);
+  gap: 0;
+  background: #111111;
 }
 
 .feed-card {
   min-width: 0;
-  min-height: 230px;
-  padding: 16px;
+  height: 240px;
+  min-height: 0;
+  overflow: auto;
+  padding: 14px;
   background: #111111;
+}
+
+.feed-card:nth-child(odd) {
+  border-right: 1px solid rgba(244, 244, 245, 0.14);
+}
+
+.feed-card:nth-child(-n + 2) {
+  border-bottom: 1px solid rgba(244, 244, 245, 0.14);
+}
+
+.feed-card:nth-child(1) {
+  box-shadow: inset 3px 0 0 rgba(255, 216, 61, 0.58);
+}
+
+.feed-card:nth-child(2) {
+  box-shadow: inset 3px 0 0 rgba(255, 159, 28, 0.58);
+}
+
+.feed-card:nth-child(3) {
+  box-shadow: inset 3px 0 0 rgba(255, 107, 26, 0.55);
+}
+
+.feed-card:nth-child(4) {
+  box-shadow: inset 3px 0 0 rgba(255, 25, 146, 0.5);
 }
 
 .feed-card-wide {
@@ -499,31 +737,60 @@ tbody tr:last-child td {
 }
 
 .feed-card h3 {
-  margin: 0 0 14px;
+  position: sticky;
+  top: -14px;
+  z-index: 2;
+  margin: 0 0 12px;
+  padding: 14px 0 10px;
+  border-bottom: 1px solid rgba(255, 25, 146, 0.24);
+  background: #111111;
   color: var(--pink);
   font-size: 1rem;
   letter-spacing: 0;
 }
 
+.feed-card:nth-child(1) h3 {
+  color: var(--gold);
+  border-bottom-color: rgba(255, 216, 61, 0.36);
+}
+
+.feed-card:nth-child(2) h3 {
+  color: var(--amber);
+  border-bottom-color: rgba(255, 159, 28, 0.36);
+}
+
+.feed-card:nth-child(3) h3 {
+  color: var(--orange);
+  border-bottom-color: rgba(255, 107, 26, 0.36);
+}
+
+.feed-card:nth-child(4) h3 {
+  color: var(--pink);
+  border-bottom-color: rgba(255, 25, 146, 0.34);
+}
+
 .lead-article {
   display: grid;
   gap: 8px;
-  margin-bottom: 16px;
-  padding: 13px;
+  margin-bottom: 13px;
+  padding: 12px;
   border: 1px solid var(--line-hot);
-  border-radius: 10px;
+  border-radius: 8px;
   background: rgba(255, 25, 146, 0.1);
 }
 
 .lead-article::before {
   content: "Latest";
   width: max-content;
-  padding: 3px 7px;
-  border-radius: 999px;
-  background: var(--pink);
-  color: #ffffff;
-  font-size: 0.66rem;
+  padding: 0;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  color: var(--pink);
+  font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+  font-size: 0.62rem;
   font-weight: 900;
+  text-transform: uppercase;
 }
 
 .lead-article a {
@@ -608,16 +875,27 @@ tbody tr:last-child td {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
+  .bay-map {
+    grid-template-columns: 1fr;
+  }
+
   .monitor-grid,
   .news-grid {
     grid-template-columns: 1fr;
+  }
+
+  .feed-card:nth-child(odd) {
+    border-right: 0;
+  }
+
+  .feed-card:not(:last-child) {
+    border-bottom: 1px solid var(--line);
   }
 
   .news-panel {
     grid-column: auto;
   }
 
-  .transaction-panel,
   .infinita-panel {
     height: auto;
   }
@@ -625,6 +903,10 @@ tbody tr:last-child td {
   .transaction-panel .table-wrap,
   .infinita-feed {
     max-height: 620px;
+  }
+
+  .infinita-feed {
+    grid-template-columns: 1fr;
   }
 }
 
@@ -649,7 +931,6 @@ tbody tr:last-child td {
   }
 
   .metrics,
-  .controls,
   .section-tabs {
     grid-template-columns: 1fr;
   }

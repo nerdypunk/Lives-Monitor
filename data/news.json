@@ -1,26 +1,114 @@
 {
+<<<<<<< Updated upstream
   "source": "GDELT DOC 2.0",
   "updatedAt": "2026-04-25T20:06:46.950Z",
+=======
+  "source": "RSS",
+  "updatedAt": "2026-04-25T19:51:08.365Z",
+>>>>>>> Stashed changes
   "feeds": [
     {
       "name": "DeSci",
-      "queries": [
-        "(DeSci OR \"decentralized science\") sourcelang:english",
-        "(\"open science\" OR \"science funding\" OR \"citizen science\" OR \"research funding\") sourcelang:english",
-        "(science OR research OR \"scientific research\") sourcelang:english"
+      "sources": [
+        "https://news.google.com/rss/search?q=DeSci%20OR%20%22decentralized%20science%22%20OR%20%22BIO%20Protocol%22&hl=en-US&gl=US&ceid=US:en"
       ],
+<<<<<<< Updated upstream
       "error": "fetch failed",
       "articles": []
+=======
+      "articles": [
+        {
+          "title": "Bio Protocol Gains Momentum as AI-Driven DeSci Hype Builds - Cryptonews.net",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wdmpuNmVrQXF6RVU0MEhiLTdMeldOMmUyLXl6X08yY3Jjb3N4SGFLUWFNc1RybHU1V3hYZjJCZHlsNHdkLXBPTFF1RmpPU2tRamc2TXRPOE5mdw?oc=5",
+          "domain": "cryptonews.net",
+          "date": "2026-04-23T18:29:28.000Z",
+          "source": "Cryptonews.net",
+          "summary": "Bio Protocol Gains Momentum as AI-Driven DeSci Hype Builds &nbsp;&nbsp; Cryptonews.net"
+        },
+        {
+          "title": "BIO Surges 96%: Is DeSci the Next Big Narrative in Crypto? - KuCoin",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56cHhfTzRCLWNpcG0wTUtXWndReHdGbEhLWG9yRzc2cDhPTlpSMnhfUFJSUk1nQmJ5cHloSzFzVlVQdVNMZTA5dFM4aTNyTzZJY0lJaXRodGx5VEIxVERRMVF4blFSVXpZa0E?oc=5",
+          "domain": "kucoin.com",
+          "date": "2026-04-21T03:36:09.000Z",
+          "source": "KuCoin",
+          "summary": "BIO Surges 96%: Is DeSci the Next Big Narrative in Crypto? &nbsp;&nbsp; KuCoin"
+        },
+        {
+          "title": "DeSci Momentum: BIO Protocol Surges As AI-Driven Drug Discovery Gains Market Traction - Binance",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83a01zSW1lRUY0S2FMQWFQUXN1UEw0eXhSdXhhQS1CbE1yT1Vmc3Y1OTVjWldITUNCaXlEVXVicjhiS1V3SjNtNzMxWi0xOFlnNV82M1Zwd3FoMC1PMVZuTGNmRUI?oc=5",
+          "domain": "binance.com",
+          "date": "2026-04-16T14:33:04.000Z",
+          "source": "Binance",
+          "summary": "DeSci Momentum: BIO Protocol Surges As AI-Driven Drug Discovery Gains Market Traction &nbsp;&nbsp; Binance"
+        },
+        {
+          "title": "AI Scientist Proposes New ADHD Treatment: BIO Protocol Explodes - Cryptonews",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vQVlSX3VmNzBmLWlzYWU4ODNJUjVUR1VWZWRJSFNvZU5DUk12UUVUQlA0V0Y5TnJ5NmdxNnNvWTMwX0FhdmNMOEtwYzJoVl8yM3BDNlFjTVh0aXFtOW1yU3E5dUJRWHBZUGVLVQ?oc=5",
+          "domain": "cryptonews.com",
+          "date": "2026-04-16T11:13:06.000Z",
+          "source": "Cryptonews",
+          "summary": "AI Scientist Proposes New ADHD Treatment: BIO Protocol Explodes &nbsp;&nbsp; Cryptonews"
+        },
+        {
+          "title": "BIO (BioProtocol) fluctuated by 63.3% in 24 hours: BioXPSeason2 launch and DeSci narrative revival drive - Bitget",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GbFZHT005RXFVU3loRUFZYl9ralVTVmdWd1dMYkEtMDMxZU8yQ3BhamhacXpKb3R3UzNEUXZ6U3J4UmVLX2NvMzdxU04wYTM2SzVQanc5M3ZvcDVNYWfSAWNBVV95cUxQcTRkdzk1dElpWnNzSjV0bUpXY0phbTg3MnZPWm5rOUl3QkJ3NUhpVHVPSkdyZEVBUGlNUWt0akJPLThKSEgyRHgxdHJuTVBoRkRPRFBBSExKVGhGNFM0eEZTZkU?oc=5",
+          "domain": "bitget.com",
+          "date": "2026-04-16T07:03:05.000Z",
+          "source": "Bitget",
+          "summary": "BIO (BioProtocol) fluctuated by 63.3% in 24 hours: BioXPSeason2 launch and DeSci narrative revival drive &nbsp;&nbsp; Bitget"
+        },
+        {
+          "title": "BIO Token Rally Raises Questions About DeSci Valuation Sustainability - Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUW9iOHdfc0pfSVU2dFNWRmJOUk9uYUc4c05abWs0UWFMellFNmpTUkVvX0JaRTJweUJQejROMXlnb3ZjUFJVX29lZm82Y1YzVjYxWVNWRGwxZ2VPNjB2N1ByMDVwZ0ZodWpBbjcxd3FSQ3lKeWtBWkM5Q2haRDhYWFVZZ3hqci1iQlF4S21qNHJXM2tLMlBOMlpTTVpDYlRBXzVwaDVzSWhJQ1BpWkp2Sm9CMGk?oc=5",
+          "domain": "investing.com",
+          "date": "2026-04-16T07:00:00.000Z",
+          "source": "Investing.com",
+          "summary": "BIO Token Rally Raises Questions About DeSci Valuation Sustainability &nbsp;&nbsp; Investing.com"
+        },
+        {
+          "title": "Bio Protocol (BIO) Surges 30% Amid Bullish Technical Setup - KuCoin",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOY0tTcGs4MHBTanBlTURDa0xQdXdISnJuWkpjclFBazc2SjIzbnFQOEJmUDhRVnByaldCSmdGZG1BSWlGdGJfaGNjRG1UUThjdzVpRFhFQkh2MGllM2ZzeVgwMEh6aE5lTmtNU2YwWU5oZWtpV1lfU29jbzBzQnFPLWpMUWtyMHl1c2dXY2E4S1dkUHM?oc=5",
+          "domain": "kucoin.com",
+          "date": "2026-04-15T11:13:21.000Z",
+          "source": "KuCoin",
+          "summary": "Bio Protocol (BIO) Surges 30% Amid Bullish Technical Setup &nbsp;&nbsp; KuCoin"
+        },
+        {
+          "title": "DeSci 项目 NanoVita 宣布完成 A 轮融资，K24 Ventures 等机构参投 - CryptoRank",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBIV3RnNEVBYnBVZFBlaTFub1dsbFdYTnlDSUpBellvZ3N1SHAxTnJTUUxSTzdteGlJaHBDaXB3SENubTkzZjV3dzJ0ckFuem1JZDlWSjYyRDQ?oc=5",
+          "domain": "cryptorank.io",
+          "date": "2026-04-09T07:00:00.000Z",
+          "source": "CryptoRank",
+          "summary": "DeSci 项目 NanoVita 宣布完成 A 轮融资，K24 Ventures 等机构参投 &nbsp;&nbsp; CryptoRank"
+        },
+        {
+          "title": "DeSci project NanoVita announces completion of Series A funding, with participation from institutions including K24 Ventures - Bitget",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqZGk2VmRSRHNCcUtqUll1cEpkRmlOWEFLN2RFTlRta0lLYWlaV1hTejlJblJ2OWNEeE5LQ3h6VlRNX2E1eVQ0OHNLTVJDZ3BQV1Y2Ym1MWEsyYkdLbGlwVlJLV1fSAWpBVV95cUxPMzg0Q19YZjMtMGRsUWZ0NDJWSU12dzNCT2FLYS16bmlYeTQ4Q3lpTmluRVNNX0owZzJrUGc0SG9MU0ZfdHY0QjltYUVVRUNKcW9WUHE2aGtFaXljdUp0S09SbFh1TTUzcE1R?oc=5",
+          "domain": "bitget.com",
+          "date": "2026-04-09T07:00:00.000Z",
+          "source": "Bitget",
+          "summary": "DeSci project NanoVita announces completion of Series A funding, with participation from institutions including K24 Ventures &nbsp;&nbsp; Bitget"
+        },
+        {
+          "title": "What Is DeSci and How Is This Emerging Niche Developing in 2026? - KuCoin",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdVdUc1ZVUm4wdExtNXB1ajNBWnFrZS1xZkY3d1JqbzRrc0RqQ1lqbXloYmlxSF9YN0dDOUdlc082S3FEQUlXRm96ZDhKVVM1QmtwVUp3S0xYT1k2QXdRSFp2MFNhWHByQzhGMWluRnJkNExIdVlPODFOZXRodXM4bWlaYWdRdUxLS2hOMlEwdGEtaWxWV1BaNjZR?oc=5",
+          "domain": "kucoin.com",
+          "date": "2026-04-07T07:00:00.000Z",
+          "source": "KuCoin",
+          "summary": "What Is DeSci and How Is This Emerging Niche Developing in 2026? &nbsp;&nbsp; KuCoin"
+        }
+      ]
+>>>>>>> Stashed changes
     },
     {
       "name": "Longevity",
-      "queries": [
-        "(longevity OR \"life extension\" OR \"anti-aging\") sourcelang:english",
-        "(longevity OR \"life extension\" OR \"anti aging\" OR \"healthy aging\" OR \"aging research\") sourcelang:english",
-        "(\"aging\" OR \"age-related\" OR \"lifespan\" OR \"healthspan\") sourcelang:english"
+      "sources": [
+        "https://lifespan.io/feed/",
+        "https://longevity.technology/feed/"
       ],
       "articles": [
         {
+<<<<<<< Updated upstream
           "title": "Buick Roadmaster : GM Underrated Land Yacht with Corvette Engine",
           "url": "https://www.topspeed.com/buick-sedan-gm-best-kept-secrets/",
           "domain": "topspeed.com",
@@ -82,26 +170,278 @@
         }
       ],
       "error": "fetch failed"
+=======
+          "title": "Insilico forms industry’s first AI Longevity Board",
+          "url": "https://longevity.technology/news/insilico-forms-industrys-first-ai-longevity-board/",
+          "domain": "longevity.technology",
+          "date": "2026-04-24T16:24:19.000Z",
+          "source": "Longevity.Technology",
+          "summary": "A new board aims to turn aging into a treatable target, using AI to move from reactive care to longer and healthier lives. What if medicine stopped chasing disease and started chasing time? For most of modern healthcare, the script has been predictable: wait for something to go wrong, then treat it. A diagnosis appears, […] The post Insilico forms industry’s first AI Longevity Board appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "Longevity education finds its clinical footing",
+          "url": "https://longevity.technology/news/longevity-education-finds-its-clinical-footing/",
+          "domain": "longevity.technology",
+          "date": "2026-04-24T16:10:16.000Z",
+          "source": "Longevity.Technology",
+          "summary": "New training marketplace pairs NUS rigor with Longevity Academy’s clinical pathways as longevity education matures. Following the recent launch of its Education and Training Marketplace, Longevity Clinics World is beginning to give the platform more defined shape – moving beyond the initial framing of a sector-wide knowledge gap and toward the practical question of how […] The post Longevity education finds its clinical footing appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "Reprogrammed Cardiomyocytes Soften the Blow in Heart Attack",
+          "url": "https://lifespan.io/reprogrammed-cardiomyocytes-soften-the-blow-in-heart-attack/?utm_source=rss&utm_medium=rss&utm_campaign=reprogrammed-cardiomyocytes-soften-the-blow-in-heart-attack",
+          "domain": "lifespan.io",
+          "date": "2026-04-24T16:03:15.000Z",
+          "source": "Lifespan.io",
+          "summary": "A new study has found that partial reprogramming mitigates the damage of myocardial infarction in mice by helping heart muscle cells to complete division [1]. When heart cells […]"
+        },
+        {
+          "title": "Final patient out in AlzeCure’s study on Alzheimer’s",
+          "url": "https://longevity.technology/news/final-patient-out-in-alzecures-study-on-alzheimers/",
+          "domain": "longevity.technology",
+          "date": "2026-04-24T15:54:05.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Final patient visit completed as ACD856 moves closer to Phase II, strengthening its case as a multi-indication brain health candidate. Another Alzheimer’s trial crosses the finish line, but what it really signals is bigger than safety data. AlzeCure Pharma has announced that the last patient has completed their final visit in the Phase Ib study […] The post Final patient out in AlzeCure’s study on Alzheimer’s appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "New FDA-cleared Cala device adapts to Parkinson’s tremor",
+          "url": "https://longevity.technology/news/new-fda-cleared-cala-device-adapts-to-parkinsons-tremor/",
+          "domain": "longevity.technology",
+          "date": "2026-04-24T15:47:01.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Next-gen tremor device brings more personalized, on-demand relief for people with Parkinson’s and essential tremor. Negotiation often happens when you live with a tremor. You plan your day around it – when to eat, when to write, when your hands might cooperate. For people with Parkinson’s disease or essential tremor, control is both physical and […] The post New FDA-cleared Cala device adapts to Parkinson’s tremor appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "Alterity presents new analysis of ATH434 Phase 2 data",
+          "url": "https://longevity.technology/news/alterity-presents-new-analysis-of-ath434-phase-2-data/",
+          "domain": "longevity.technology",
+          "date": "2026-04-24T06:51:43.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Alterity presented new analyses from its ATH434-201 Phase 2 trial in Multiple System Atrophy during a Late Breaking Science oral session at the American Academy of Neurology annual meeting in Chicago on 22 April. The analysis used the newly developed MSA Combined Outcome Assessment, MuSyCA, which integrates 11 items from UMSARS parts I and II […] The post Alterity presents new analysis of ATH434 Phase 2 data appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "Rafael Holdings secures MIT patent license for cyclodextrins",
+          "url": "https://longevity.technology/news/rafael-holdings-secures-mit-patent-license-for-cyclodextrins/",
+          "domain": "longevity.technology",
+          "date": "2026-04-24T06:46:43.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Rafael Holdings, Inc. announced that its subsidiary, Cyclo Therapeutics, has entered an exclusive licensing agreement with the Massachusetts Institute of Technology covering U.S. Patent No. 12285440. The license covers the use of cyclodextrins in patients with Alzheimer’s disease who carry the ApoE4 genetic variant and is intended to strengthen Rafael Holdings’ intellectual property around Trappsol […] The post Rafael Holdings secures MIT patent license for cyclodextrins appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "4Moving Biotech granted FDA fast track for 4P004",
+          "url": "https://longevity.technology/news/4moving-biotech-granted-fda-fast-track-for-4p004/",
+          "domain": "longevity.technology",
+          "date": "2026-04-24T06:41:43.000Z",
+          "source": "Longevity.Technology",
+          "summary": "4Moving Biotech announced that the U.S. Food and Drug Administration has granted Fast Track Designation to 4P004 for the treatment of knee osteoarthritis in patients with synovitis who have not benefited from at least two prior pharmacological therapies. The designation recognizes the seriousness of knee osteoarthritis and the unmet need for disease-modifying treatments and will […] The post 4Moving Biotech granted FDA fast track for 4P004 appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "Antag Therapeutics to present AT7687 data at ADA 2026",
+          "url": "https://longevity.technology/news/antag-therapeutics-to-present-at7687-data-at-ada-2026/",
+          "domain": "longevity.technology",
+          "date": "2026-04-24T06:36:43.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Antag Therapeutics will present clinical and preclinical data on AT7687, its first-in-class GIP receptor antagonist peptide, at the 2026 Scientific Sessions of the American Diabetes Association in New Orleans, scheduled for 5-8 June, with an oral presentation and a poster on 7 June. The oral presentation covers first-in-human results in healthy subjects and people living […] The post Antag Therapeutics to present AT7687 data at ADA 2026 appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "Springfield Wellness Center marks 25 years of NAD+ IV therapy",
+          "url": "https://longevity.technology/news/springfield-wellness-center-marks-25-years-of-nad-iv-therapy/",
+          "domain": "longevity.technology",
+          "date": "2026-04-24T06:31:43.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Springfield Wellness Center marked its 25th anniversary as a Louisiana-based clinic that introduced intravenous NAD+ treatment for addiction recovery. Founded in 2001 by Paula Norris Mestayer, M.Ed., LPC, FAPA, and Dr. Richard F. Mestayer III, M.D., the clinic developed the proprietary BR+NAD® protocol and operates a 10-day outpatient program that, according to the company, draws […] The post Springfield Wellness Center marks 25 years of NAD+ IV therapy appeared first on Longevity.Technology ."
+        }
+      ]
+>>>>>>> Stashed changes
     },
     {
       "name": "Biotech",
-      "queries": [
-        "(biotech OR \"synthetic biology\" OR CRISPR) sourcelang:english",
-        "(biotechnology OR biotech OR CRISPR OR \"gene editing\" OR \"cell therapy\") sourcelang:english",
-        "(\"drug discovery\" OR genomics OR biomanufacturing OR \"clinical trial\") sourcelang:english"
+      "sources": [
+        "https://www.nature.com/nbt.rss",
+        "https://export.arxiv.org/rss/q-bio",
+        "https://phys.org/rss-feed/biology-news/biotechnology/"
       ],
+<<<<<<< Updated upstream
       "error": "fetch failed",
       "articles": []
+=======
+      "articles": [
+        {
+          "title": "Inside 18 years of ape minds, a vast record that may upend how human intelligence began",
+          "url": "https://phys.org/news/2026-04-years-ape-minds-vast-upend.html",
+          "domain": "phys.org",
+          "date": "2026-04-25T12:00:04.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "A pioneering project led by researchers from the University of Stirling and the Max Planck Institute has opened the door for new insights into the evolutionary origins of human intelligence, by compiling the largest dataset of great ape cognition available globally."
+        },
+        {
+          "title": "High-resolution imaging shines light on nanoscale nuclear organization",
+          "url": "https://phys.org/news/2026-04-high-resolution-imaging-nanoscale-nuclear.html",
+          "domain": "phys.org",
+          "date": "2026-04-24T22:00:01.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Researchers at the Indian Institute of Science (IISc) have implemented an advanced microscopy technique to visualize multiple biomolecules inside the nucleus of a cancer cell simultaneously at incredibly high resolution. The biomolecules they visualized include critical components of the cell's transcription machinery and proteins that provide structural support to the nucleus—providing one of the first detailed maps of nuclear organization."
+        },
+        {
+          "title": "Re-engineered human cells boost gene-editing particle potency across multiple delivery systems",
+          "url": "https://phys.org/news/2026-04-human-cells-boost-gene-particle.html",
+          "domain": "phys.org",
+          "date": "2026-04-24T21:20:03.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Gene editing has emerged as a powerful approach for targeting the genetic causes of disease, but getting the editing machinery into the right cells efficiently, safely, and at the scale needed for therapies remains one of the biggest set of challenges in the field."
+        },
+        {
+          "title": "Genomic tool untangles how microbes spread—even when they look almost identical",
+          "url": "https://phys.org/news/2026-04-genomic-tool-untangles-microbes-identical.html",
+          "domain": "phys.org",
+          "date": "2026-04-24T18:20:01.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Researchers have developed a powerful new tool that can track how microbes spread between people with unprecedented precision, offering new ways to prevent infections and improve treatments in the future. The research, published April 24 in Nature Microbiology, describes how the new tool, called TRAnsmision Clustering of Strains (TRACS), uses genomics to distinguish between closely related strains of microbes."
+        },
+        {
+          "title": "New bioreactor turns stem cells into an immune-cell factory, producing 40 million human macrophages per week",
+          "url": "https://phys.org/news/2026-04-bioreactor-stem-cells-immune-cell.html",
+          "domain": "phys.org",
+          "date": "2026-04-23T23:40:01.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Researchers at Hannover Medical School (MHH) have developed a method for the efficient production of human immune cells, such as macrophages, in medium-sized bioreactors. These immune cells can be derived from induced pluripotent stem cells and are important for disease research and the development of new therapeutic approaches. The method has now been published in the journal Nature Protocols."
+        },
+        {
+          "title": "These 'good' viruses hold up a booming industry—AI just found a faster way to track them",
+          "url": "https://phys.org/news/2026-04-good-viruses-booming-industry-ai.html",
+          "domain": "phys.org",
+          "date": "2026-04-23T22:40:01.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Researchers have developed a new methodology that uses artificial intelligence tools to identify and count target viruses more efficiently than previous techniques. The new approach can be used in applications such as pharmaceutical biomanufacturing."
+        },
+        {
+          "title": "Inside the skull of a Devonian fish from Gondwana, revealed by neutron imaging",
+          "url": "https://phys.org/news/2026-04-skull-devonian-fish-gondwana-revealed.html",
+          "domain": "phys.org",
+          "date": "2026-04-23T21:20:07.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Flinders University researchers have taken a revealing look inside the head of one of the first animals to crawl from the water to live on land more than 380 million years ago. Using high-tech neutron imaging, they scanned the skull and braincase of the only known specimen of Koharalepis jarviki, a large fossil fish found in freshwater rivers in the vast Lashly Mountains region of Antarctica which lived during the Devonian Period or \"Age of Fishes.\""
+        },
+        {
+          "title": "Robotic fish prototype cuts aquaculture stress while inspecting nets and water",
+          "url": "https://phys.org/news/2026-04-robotic-fish-prototype-aquaculture-stress.html",
+          "domain": "phys.org",
+          "date": "2026-04-23T21:20:04.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "The Centre for Research in Robotics and Underwater Technologies (CIRTESU) at the Universitat Jaume I in Castelló has developed an experimental modular, bio-inspired robotic fish prototype (UJIFISH) for inspection, hybrid teleoperation and sensor deployment in aquaculture. Its innovation lies in a functional design that eliminates stress factors such as propellers and high-intensity lighting, while maintaining high standards of modularity and interoperability. The study is published in the journal Ocean Engineering."
+        },
+        {
+          "title": "AI model designs new antibiotic for staph infections after exploring 46 billion compounds",
+          "url": "https://phys.org/news/2026-04-ai-antibiotic-staph-infections-exploring.html",
+          "domain": "phys.org",
+          "date": "2026-04-23T21:00:05.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Researchers at McMaster University have developed a new generative artificial intelligence (AI) model capable of drastically speeding up drug discovery—and, in early tests, it has already designed a brand-new antibiotic. The discovery is a demonstration of how AI could dramatically improve the slow and costly search for new antimicrobial medicines, as bacteria and other microbes continue to evolve resistance to our current suite of drugs."
+        },
+        {
+          "title": "E. coli editing technique expands into a universal toolkit for rewriting bacterial DNA",
+          "url": "https://phys.org/news/2026-04-coli-technique-universal-toolkit-rewriting.html",
+          "domain": "phys.org",
+          "date": "2026-04-23T20:30:03.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "The ability to precisely edit the genomes of bacteria has long been a goal of microbiologists. Such technology would enable scientists to make new inroads into studying disease, developing sustainable materials, and fighting drug-resistant infections. But for years, the most powerful tools for bacterial genome editing have only been available in Escherichia coli (E. coli), the most common laboratory bacteria."
+        }
+      ]
+>>>>>>> Stashed changes
     },
     {
       "name": "Crypto",
-      "queries": [
-        "(crypto OR cryptocurrency OR blockchain OR Solana) sourcelang:english",
-        "(cryptocurrency OR blockchain OR bitcoin OR ethereum OR Solana OR stablecoin) sourcelang:english",
-        "(\"digital assets\" OR token OR web3 OR DeFi) sourcelang:english"
+      "sources": [
+        "https://www.coindesk.com/arc/outboundfeeds/rss/",
+        "https://cointelegraph.com/rss",
+        "https://www.theblock.co/rss.xml"
       ],
+<<<<<<< Updated upstream
       "error": "fetch failed",
       "articles": []
+=======
+      "articles": [
+        {
+          "title": "Bitcoiners cast doubt on the US military's understanding of the network",
+          "url": "https://cointelegraph.com/news/bitcoiners-cast-doubt-us-military-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-04-25T19:36:29.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bitcoin advocate Matthew Kratter said US Navy Admiral Samuel Paparo's Senate testimony on Tuesday sounded like it was written by an \"intern.\""
+        },
+        {
+          "title": "Crypto is built for AI agents, not humans, says Alchemy's CEO",
+          "url": "https://www.coindesk.com/tech/2026/04/25/crypto-is-built-for-ai-agents-not-humans-says-alchemy-s-ceo",
+          "domain": "coindesk.com",
+          "date": "2026-04-25T19:00:00.000Z",
+          "source": "CoinDesk",
+          "summary": "Alchemy CEO Nikil Viswanathan argues the global financial system was designed for humans, but the next wave of commerce will be driven by AI agents that operate natively in crypto."
+        },
+        {
+          "title": "Trump defends crypto legislation at private event featuring boxer Mike Tyson, Tether CEO",
+          "url": "https://www.coindesk.com/policy/2026/04/25/trump-defends-crypto-legislation-at-private-event-featuring-boxer-mike-tyson-tether-ceo",
+          "domain": "coindesk.com",
+          "date": "2026-04-25T18:53:48.000Z",
+          "source": "CoinDesk",
+          "summary": "President Donald Trump, at a Mar-a-Lago gathering of investors in his self-branded memecoin, said crypto is mainstream and banks should back off the industry's bill."
+        },
+        {
+          "title": "BlackRock’s bitcoin ETF just hit a massive milestone that proves crypto is now a mainstream bet",
+          "url": "https://www.coindesk.com/markets/2026/04/25/blackrock-s-bitcoin-etf-just-hit-a-massive-milestone-that-proves-crypto-is-now-a-mainstream-bet",
+          "domain": "coindesk.com",
+          "date": "2026-04-25T18:29:20.000Z",
+          "source": "CoinDesk",
+          "summary": "IBIT options open interest topped Deribit on Friday, signaling rapid institutional adoption of regulated crypto derivatives in the U.S."
+        },
+        {
+          "title": "CFTC sues New York over prediction market crackdown as 38 AGs back Massachusetts’ Kalshi case",
+          "url": "https://www.theblock.co/post/398886/cftc-sues-new-york-over-prediction-market-crackdown-as-38-ags-back-massachusetts-kalshi-case?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-04-25T17:42:59.000Z",
+          "source": "The Block",
+          "summary": "The dueling actions mark the fourth state the CFTC has sued in three weeks and come three days after New York's AG sued Coinbase and Gemini."
+        },
+        {
+          "title": "How Anthropic’s Mythos model is forcing the crypto industry to rethink everything about security",
+          "url": "https://www.coindesk.com/tech/2026/04/25/how-anthropic-s-mythos-model-is-forcing-the-crypto-industry-to-rethink-everything-about-security",
+          "domain": "coindesk.com",
+          "date": "2026-04-25T17:00:00.000Z",
+          "source": "CoinDesk",
+          "summary": "DeFi leaders say that AI will arm both attackers and defenders, and widen the gap between projects that prioritize security and those that do not."
+        },
+        {
+          "title": "Bitcoin falls after Trump reportedly canceled Steve Witkoff and Jared Kushner's Iran-talks trip",
+          "url": "https://www.coindesk.com/markets/2026/04/25/bitcoin-falls-after-trump-reportedly-canceled-steve-witkoff-and-jared-kushner-s-iran-talks-trip",
+          "domain": "coindesk.com",
+          "date": "2026-04-25T16:20:02.000Z",
+          "source": "CoinDesk",
+          "summary": "Trump is expected to speak at his crypto conference in Palm Beach shortly."
+        },
+        {
+          "title": "Mike Tyson, Tether CEO, Cathie Wood among speakers at Trump's 'most exclusive' crypto conference",
+          "url": "https://www.coindesk.com/policy/2026/04/25/mike-tyson-tether-ceo-cathie-wood-among-speakers-at-trump-s-most-exclusive-crypto-conference",
+          "domain": "coindesk.com",
+          "date": "2026-04-25T15:24:31.000Z",
+          "source": "CoinDesk",
+          "summary": "The event, at which Trump himself is scheduled to speak, gathers top-tier holders of the $TRUMP meme coin."
+        },
+        {
+          "title": "Bitcoin at $40,000 would be 'near-unprecedented' statistical outcome, analyst says",
+          "url": "https://www.coindesk.com/markets/2026/04/25/bitcoin-at-usd40-000-would-be-near-unprecedented-statistical-outcome-analyst-says",
+          "domain": "coindesk.com",
+          "date": "2026-04-25T15:00:00.000Z",
+          "source": "CoinDesk",
+          "summary": "Mean-reversion models suggest bearish targets imply a 0.4th percentile event, far beyond typical market corrections."
+        },
+        {
+          "title": "Aave, Kelp, LayerZero ask Arbitrum DAO to release $71 million in frozen ETH to rsETH recovery effort",
+          "url": "https://www.theblock.co/post/398882/aave-kelp-layerzero-ask-arbitrum-dao-to-release-71-million-in-frozen-eth-to-rseth-recovery-effort?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-04-25T14:55:28.000Z",
+          "source": "The Block",
+          "summary": "The standard Constitutional AIP lifecycle runs roughly 49 days from forum publication to onchain execution, a timeline some delegates say is too long."
+        }
+      ]
+>>>>>>> Stashed changes
     }
   ]
 }

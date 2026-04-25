@@ -36,10 +36,6 @@ const elements = {
   daily: document.querySelector("#dailyValue"),
   loaded: document.querySelector("#loadedValue"),
   updated: document.querySelector("#updatedValue"),
-  limit: document.querySelector("#limitSelect"),
-  refresh: document.querySelector("#refreshButton"),
-  prev: document.querySelector("#prevButton"),
-  next: document.querySelector("#nextButton"),
   notice: document.querySelector("#notice"),
   body: document.querySelector("#transactionsBody"),
   graph: document.querySelector("#transactionGraph"),
@@ -49,7 +45,6 @@ const elements = {
   newsUpdated: document.querySelector("#newsUpdatedValue"),
 };
 
-let page = 1;
 let allRows = [];
 let graphAnimation;
 let graphHits = [];
@@ -96,12 +91,64 @@ function formatNumber(value, maximumFractionDigits = 6) {
   return new Intl.NumberFormat(undefined, { maximumFractionDigits }).format(numeric);
 }
 
+function transactionColor(index, total) {
+  const ratio = total <= 1 ? 0 : index / (total - 1);
+  const stops = [
+    { at: 0, rgb: [255, 216, 61] },
+    { at: 0.45, rgb: [255, 159, 28] },
+    { at: 1, rgb: [255, 25, 146] },
+  ];
+  const right = stops.find((stop) => ratio <= stop.at) || stops[stops.length - 1];
+  const left = stops[Math.max(0, stops.indexOf(right) - 1)];
+  const span = Math.max(0.001, right.at - left.at);
+  const local = Math.max(0, Math.min(1, (ratio - left.at) / span));
+  const rgb = left.rgb.map((channel, channelIndex) => Math.round(channel + (right.rgb[channelIndex] - channel) * local));
+  return rgb;
+}
+
+function colorWithAlpha(rgb, alpha) {
+  return `rgba(${rgb[0]}, ${rgb[1]}, ${rgb[2]}, ${alpha})`;
+}
+
+function drawLivesLogo(ctx, centerX, centerY, unit) {
+  const blocks = [
+    [1, 0, 2, 1, "#ffd83d"],
+    [4, 0, 2, 1, "#ffd83d"],
+    [0, 1, 1, 1, "#ffb21a"],
+    [3, 1, 1, 1, "#ffb21a"],
+    [6, 1, 1, 1, "#ffb21a"],
+    [0, 2, 1, 1, "#ff8a13"],
+    [6, 2, 1, 1, "#ff8a13"],
+    [0, 3, 1, 1, "#ff5a0a"],
+    [6, 3, 1, 1, "#ff5a0a"],
+    [1, 4, 2, 1, "#f20c08"],
+    [5, 4, 1, 1, "#f20c08"],
+    [2, 5, 1, 1, "#f00098"],
+    [3, 5, 1, 1, "#f00098"],
+    [5, 5, 1, 1, "#f00098"],
+    [3, 6, 1, 1, "#f00098"],
+  ];
+  const width = 7 * unit;
+  const height = 7 * unit;
+  const left = centerX - width / 2;
+  const top = centerY - height / 2;
+
+  ctx.save();
+  ctx.shadowColor = "rgba(255, 25, 146, 0.55)";
+  ctx.shadowBlur = unit * 1.4;
+  blocks.forEach(([x, y, w, h, color]) => {
+    ctx.fillStyle = color;
+    ctx.fillRect(left + x * unit, top + y * unit, w * unit, h * unit);
+  });
+  ctx.restore();
+}
+
 function formatNewsDate(value) {
   if (!value) return "--";
   const text = String(value);
-  const gdeltMatch = text.match(/^(\d{4})(\d{2})(\d{2})T?(\d{2})?(\d{2})?(\d{2})?Z?$/);
-  const isoLike = gdeltMatch
-    ? `${gdeltMatch[1]}-${gdeltMatch[2]}-${gdeltMatch[3]}T${gdeltMatch[4] || "00"}:${gdeltMatch[5] || "00"}:${gdeltMatch[6] || "00"}Z`
+  const compactDateMatch = text.match(/^(\d{4})(\d{2})(\d{2})T?(\d{2})?(\d{2})?(\d{2})?Z?$/);
+  const isoLike = compactDateMatch
+    ? `${compactDateMatch[1]}-${compactDateMatch[2]}-${compactDateMatch[3]}T${compactDateMatch[4] || "00"}:${compactDateMatch[5] || "00"}:${compactDateMatch[6] || "00"}Z`
     : text;
   const date = new Date(isoLike);
   if (Number.isNaN(date.getTime())) return text;
@@ -143,13 +190,9 @@ function renderMeta(payload) {
 }
 
 function renderRows() {
-  const limit = Number(elements.limit.value);
-  const start = (page - 1) * limit;
-  const rows = allRows.slice(start, start + limit);
+  const rows = allRows.slice(0, 20);
 
   elements.loaded.textContent = String(allRows.length);
-  elements.prev.disabled = page <= 1;
-  elements.next.disabled = start + limit >= allRows.length;
 
   if (!rows.length) {
     elements.body.innerHTML = '<tr><td colspan="6" class="empty">No transfers found.</td></tr>';
@@ -167,7 +210,7 @@ function renderRows() {
             <div>${formatDate(row.blockTime)}</div>
             <div class="muted">Slot ${escapeHtml(row.slot || "--")}</div>
           </td>
-          <td><span class="chip">${escapeHtml(row.type)}</span></td>
+          <td><span class="chip chip-transfer">${escapeHtml(row.type)}</span></td>
           <td class="amount positive">${escapeHtml(row.amountText)}</td>
           <td class="mono" title="${from}">${from ? shortAddress(from) : "--"}</td>
           <td class="mono" title="${to}">${to ? shortAddress(to) : "--"}</td>
@@ -178,11 +221,6 @@ function renderRows() {
       `;
     })
     .join("");
-}
-
-function walletLabel(value) {
-  if (!value) return "";
-  return `${value.slice(0, 4)}...${value.slice(-4)}`;
 }
 
 function renderGraph() {
@@ -200,38 +238,19 @@ function renderGraph() {
   const height = rect.height;
   const center = { x: 86, y: height / 2 };
   const rows = allRows.filter((row) => row.signature).slice(0, 100);
-  const wallets = new Map();
   graphHits = [];
 
-  rows.forEach((row, index) => {
-    const from = row.from || "";
-    const to = row.to || "";
-    if (from) wallets.set(from, { id: from, weight: (wallets.get(from)?.weight || 0) + 1 });
-    if (to) wallets.set(to, { id: to, weight: (wallets.get(to)?.weight || 0) + 1 });
-  });
+  elements.graphCount.textContent = `${rows.length} tx`;
 
-  const walletList = [...wallets.values()]
-    .sort((a, b) => b.weight - a.weight)
-    .slice(0, 24);
-
-  elements.graphCount.textContent = `${rows.length} tx / ${walletList.length} wallets`;
-
-  const walletRadiusX = Math.max(180, width * 0.39);
-  const walletRadiusY = Math.max(80, height * 0.31);
-  const walletCenter = { x: width * 0.58, y: height / 2 };
-  walletList.forEach((wallet, index) => {
-    const angle = (Math.PI * 2 * index) / Math.max(1, walletList.length) - Math.PI / 2;
-    wallet.x = walletCenter.x + Math.cos(angle) * walletRadiusX;
-    wallet.y = walletCenter.y + Math.sin(angle) * walletRadiusY;
-  });
-  const byId = new Map(walletList.map((wallet) => [wallet.id, wallet]));
+  const graphLeft = width < 520 ? 132 : 185;
+  const graphRight = width - (width < 760 ? 32 : 96);
   const txPoints = rows.map((row, index) => {
     const laneCount = 4;
     const colCount = Math.ceil(rows.length / laneCount);
     const col = index % colCount;
     const lane = Math.floor(index / colCount);
-    const left = 185;
-    const right = width - 56;
+    const left = graphLeft;
+    const right = graphRight;
     const x = colCount <= 1 ? left : left + (col / (colCount - 1)) * (right - left);
     const laneOffsets = [-54, -18, 18, 54];
     const wave = Math.sin(index * 0.72) * 10;
@@ -271,23 +290,6 @@ function renderGraph() {
       ctx.stroke();
     }
 
-    txPoints.forEach((tx) => {
-      const from = byId.get(tx.from);
-      const to = byId.get(tx.to);
-      const alpha = 0.06 + Math.max(0, 1 - tx.index / 100) * 0.12;
-
-      [from, to].filter(Boolean).forEach((wallet) => {
-        ctx.beginPath();
-        ctx.moveTo(tx.x, tx.y);
-        const controlX = (tx.x + wallet.x) / 2;
-        const controlY = (tx.y + wallet.y) / 2 - 18;
-        ctx.quadraticCurveTo(controlX, controlY, wallet.x, wallet.y);
-        ctx.strokeStyle = `rgba(255, 25, 146, ${alpha})`;
-        ctx.lineWidth = 0.9;
-        ctx.stroke();
-      });
-    });
-
     ctx.beginPath();
     txPoints.forEach((point, index) => {
       if (index === 0) ctx.moveTo(point.x, point.y);
@@ -299,46 +301,34 @@ function renderGraph() {
 
     txPoints.forEach((point) => {
       const freshness = Math.max(0.2, 1 - point.index / 100);
+      const color = transactionColor(point.index, txPoints.length);
       ctx.beginPath();
-      ctx.arc(point.x, point.y, 5 + pulse * 0.9, 0, Math.PI * 2);
-      ctx.fillStyle = `rgba(255, 25, 146, ${0.35 + freshness * 0.45})`;
+      ctx.arc(point.x, point.y, 9 + pulse * 1.2, 0, Math.PI * 2);
+      ctx.strokeStyle = colorWithAlpha(color, 0.36 + freshness * 0.42);
+      ctx.lineWidth = 1;
+      ctx.stroke();
+      ctx.beginPath();
+      ctx.arc(point.x, point.y, 3.6, 0, Math.PI * 2);
+      ctx.fillStyle = colorWithAlpha(color, 0.45 + freshness * 0.38);
       ctx.fill();
     });
 
-    walletList.forEach((wallet) => {
-      const size = 4 + Math.min(8, wallet.weight * 1.2);
-      ctx.beginPath();
-      ctx.arc(wallet.x, wallet.y, size + pulse * 1.8, 0, Math.PI * 2);
-      ctx.fillStyle = "rgba(255, 25, 146, 0.18)";
-      ctx.fill();
-      ctx.beginPath();
-      ctx.arc(wallet.x, wallet.y, size, 0, Math.PI * 2);
-      ctx.fillStyle = "#ff1992";
-      ctx.fill();
-
-      if (wallet.weight > 1) {
-        ctx.fillStyle = "rgba(244, 244, 245, 0.74)";
-        ctx.font = "11px SFMono-Regular, Consolas, monospace";
-        ctx.fillText(walletLabel(wallet.id), wallet.x + 10, wallet.y + 4);
-      }
-    });
-
     ctx.beginPath();
-    ctx.arc(center.x, center.y, 34 + pulse * 4, 0, Math.PI * 2);
-    ctx.fillStyle = "rgba(255, 25, 146, 0.18)";
+    ctx.arc(center.x, center.y, 43 + pulse * 4, 0, Math.PI * 2);
+    ctx.fillStyle = "rgba(255, 25, 146, 0.09)";
     ctx.fill();
-    ctx.beginPath();
-    ctx.arc(center.x, center.y, 28, 0, Math.PI * 2);
-    ctx.fillStyle = "#f4f4f5";
-    ctx.fill();
-    ctx.fillStyle = "#000000";
-    ctx.font = "800 13px Inter, sans-serif";
+    drawLivesLogo(ctx, center.x, center.y - 2, 11);
+    ctx.fillStyle = "rgba(255, 216, 61, 0.92)";
+    ctx.font = "900 12px SFMono-Regular, Consolas, monospace";
     ctx.textAlign = "center";
     ctx.textBaseline = "middle";
-    ctx.fillText("$LIVES", center.x, center.y);
-    ctx.fillStyle = "rgba(244, 244, 245, 0.62)";
-    ctx.font = "11px SFMono-Regular, Consolas, monospace";
-    ctx.fillText("newest -> oldest", center.x, center.y + 48);
+    ctx.fillText("NEWEST  ->  OLDEST", center.x + 8, center.y + 56);
+    ctx.strokeStyle = "rgba(255, 159, 28, 0.6)";
+    ctx.lineWidth = 1;
+    ctx.beginPath();
+    ctx.moveTo(center.x - 46, center.y + 40);
+    ctx.lineTo(center.x + 62, center.y + 40);
+    ctx.stroke();
     ctx.textAlign = "start";
     ctx.textBaseline = "alphabetic";
 
@@ -368,7 +358,6 @@ function graphHitAt(event) {
 async function loadTokenData() {
   setStatus("Loading", "loading");
   setNotice("");
-  elements.refresh.disabled = true;
   elements.body.innerHTML = '<tr><td colspan="6" class="empty">Loading cached transfers...</td></tr>';
 
   try {
@@ -392,8 +381,6 @@ async function loadTokenData() {
     setStatus("Error", "error");
     elements.body.innerHTML = '<tr><td colspan="6" class="empty">Could not load cached token transfers.</td></tr>';
     setNotice(`${error.message}. Run the GitHub Actions data updater or open this through a local/static server so data/transactions.json can be fetched.`);
-  } finally {
-    elements.refresh.disabled = false;
   }
 }
 
@@ -420,10 +407,11 @@ function renderFeed(feed, articles, error = "") {
   });
   const lead = sortedArticles[0];
   const rest = sortedArticles.slice(1);
-  const content = error
-    ? `<div class="feed-state error-text">${escapeHtml(error)}</div>`
-    : sortedArticles.length
-      ? `${lead ? `
+  const note = error && sortedArticles.length
+    ? '<div class="feed-note">Showing cached articles while this signal refreshes.</div>'
+    : "";
+  const content = sortedArticles.length
+    ? `${note}${lead ? `
           <article class="lead-article">
             <a href="${escapeHtml(lead.url)}" target="_blank" rel="noreferrer">${escapeHtml(cleanText(lead.title) || "Untitled")}</a>
             <div class="article-meta">
@@ -443,7 +431,7 @@ function renderFeed(feed, articles, error = "") {
             </li>
           `).join("")}
         </ol>`
-      : '<div class="feed-state">No articles found.</div>';
+    : `<div class="feed-state">${escapeHtml(error ? "No cached articles for this signal yet." : "No articles found.")}</div>`;
 
   return `
     <section class="feed-card">
@@ -456,9 +444,9 @@ function renderFeed(feed, articles, error = "") {
 function formatNewsDateForSort(value) {
   if (!value) return "";
   const text = String(value);
-  const gdeltMatch = text.match(/^(\d{4})(\d{2})(\d{2})T?(\d{2})?(\d{2})?(\d{2})?Z?$/);
-  return gdeltMatch
-    ? `${gdeltMatch[1]}-${gdeltMatch[2]}-${gdeltMatch[3]}T${gdeltMatch[4] || "00"}:${gdeltMatch[5] || "00"}:${gdeltMatch[6] || "00"}Z`
+  const compactDateMatch = text.match(/^(\d{4})(\d{2})(\d{2})T?(\d{2})?(\d{2})?(\d{2})?Z?$/);
+  return compactDateMatch
+    ? `${compactDateMatch[1]}-${compactDateMatch[2]}-${compactDateMatch[3]}T${compactDateMatch[4] || "00"}:${compactDateMatch[5] || "00"}:${compactDateMatch[6] || "00"}Z`
     : text;
 }
 
@@ -476,7 +464,7 @@ async function loadNewsFeeds() {
     ),
   ]);
 
-  const gdeltCards = newsResult.status === "fulfilled"
+  const newsCards = newsResult.status === "fulfilled"
     ? renderNewsCache(newsResult.value)
     : `<section class="feed-card feed-card-wide">
         <h3>News cache unavailable</h3>
@@ -487,7 +475,7 @@ async function loadNewsFeeds() {
     ? renderSubstackFeed(substackResult.value)
     : renderSubstackFeed(null, substackResult.reason?.message || "Could not load Infinita City Times.");
 
-  elements.news.innerHTML = gdeltCards;
+  elements.news.innerHTML = newsCards;
   const updatedAt = newsResult.status === "fulfilled" ? newsResult.value.updatedAt : new Date();
   elements.newsUpdated.textContent = formatAnyDate(updatedAt);
 }
@@ -507,7 +495,7 @@ function renderNewsCache(payload) {
   return NEWS_FEED_NAMES
     .map((name) => {
       const feed = feeds.find((item) => item.name === name) || { name, articles: [] };
-      return renderFeed(feed, feed.articles || [], feed.error || "");
+      return renderFeed(feed, feed.articles || [], feed.error || feed.warning || "");
     })
     .join("");
 }
@@ -533,7 +521,7 @@ async function fetchSubstackFeed() {
 function renderSubstackFeed(payload, error = "") {
   const items = payload?.items || [];
   const lead = items[0];
-  const rest = items.slice(1, 5);
+  const rest = items.slice(1, 12);
   const content = error
     ? `<div class="feed-state error-text">${escapeHtml(error)}</div>`
     : items.length
@@ -570,23 +558,6 @@ function loadAll() {
   loadTokenData();
   loadNewsFeeds();
 }
-
-elements.refresh.addEventListener("click", () => {
-  page = 1;
-  loadAll();
-});
-elements.limit.addEventListener("change", () => {
-  page = 1;
-  renderRows();
-});
-elements.prev.addEventListener("click", () => {
-  page = Math.max(1, page - 1);
-  renderRows();
-});
-elements.next.addEventListener("click", () => {
-  page += 1;
-  renderRows();
-});
 
 document.querySelectorAll(".section-tabs a").forEach((link) => {
   link.addEventListener("click", () => {

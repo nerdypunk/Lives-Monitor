@@ -14,11 +14,66 @@
         <div>
           <p class="eyebrow">LIVES / MAINNET</p>
           <h1>$LIVES Situation Monitor</h1>
+          <p class="intro-copy">
+            A live dashboard for watching $LIVES token flow alongside Infinita City Times, DeSci, longevity, biotech, and crypto signal feeds.
+          </p>
           <a class="address" href="https://solscan.io/token/27TyCz2Y4rFPfURPCPxByEW6AeMfQSNCMFcPmK4fvEA8?cluster=mainnet-beta" target="_blank" rel="noreferrer">
             27TyCz2Y4rFPfURPCPxByEW6AeMfQSNCMFcPmK4fvEA8
           </a>
         </div>
         <div class="status-pill" id="networkStatus" role="status">Idle</div>
+      </section>
+
+      <section class="bay-map panel" aria-label="Bay Islands signal map">
+        <div class="bay-map-copy">
+          <p class="panel-kicker">BAY ISLANDS NODE</p>
+          <h2>Infinita City Signal Origin</h2>
+        </div>
+        <svg class="bay-map-art" viewBox="0 0 760 220" role="img" aria-labelledby="bayMapTitle bayMapDesc">
+          <title id="bayMapTitle">Sci-fi map of the Bay Islands with Roatan highlighted</title>
+          <desc id="bayMapDesc">Three stylized Bay Islands silhouettes with the central Roatan island highlighted in the dashboard accent colors.</desc>
+          <defs>
+            <filter id="mapGlow" x="-20%" y="-60%" width="140%" height="220%">
+              <feGaussianBlur stdDeviation="4" result="blur" />
+              <feMerge>
+                <feMergeNode in="blur" />
+                <feMergeNode in="SourceGraphic" />
+              </feMerge>
+            </filter>
+            <linearGradient id="roatanGradient" x1="0" x2="1">
+              <stop offset="0" stop-color="#ff1992" />
+              <stop offset="0.52" stop-color="#ff9f1c" />
+              <stop offset="1" stop-color="#ffd83d" />
+            </linearGradient>
+          </defs>
+          <g class="map-grid">
+            <path d="M30 176H730" />
+            <path d="M30 132H730" />
+            <path d="M30 88H730" />
+            <path d="M120 34V196" />
+            <path d="M260 34V196" />
+            <path d="M400 34V196" />
+            <path d="M540 34V196" />
+            <path d="M680 34V196" />
+          </g>
+          <path class="map-route" d="M76 164C196 120 303 72 421 72C535 74 616 54 694 35" />
+          <g class="islands">
+            <path class="island island-muted" d="M48 166l22-8 38 3 9 9-20 10-31 3-18-6z" />
+            <path class="island island-roatan" d="M162 128l34-29 63-31 76-19 78-16 68 8 58 14-65 16-64 10-48 20-61 14-62 2-43 17-43 27-14-4z" />
+            <path class="island island-muted" d="M610 56l24-35 52-9 28 14-17 30-45 18-35-3z" />
+          </g>
+          <g class="map-pings" filter="url(#mapGlow)">
+            <circle class="ping ping-main" cx="342" cy="68" r="8" />
+            <circle class="ping-ring" cx="342" cy="68" r="22" />
+            <circle class="ping" cx="86" cy="170" r="4" />
+            <circle class="ping" cx="666" cy="42" r="4" />
+          </g>
+          <g class="map-labels">
+            <text x="342" y="34">INFINITA CITY</text>
+            <text x="76" y="154">UTILA</text>
+            <text x="650" y="88">GUANAJA</text>
+          </g>
+        </svg>
       </section>
 
       <section class="metrics" aria-label="Token metrics">
@@ -51,25 +106,6 @@
         <a href="#newsPanel" data-target="newsPanel">News Feed</a>
       </nav>
 
-      <section class="controls" aria-label="Data controls">
-        <label>
-          Limit
-          <select id="limitSelect">
-            <option value="10">10</option>
-            <option value="20" selected>20</option>
-            <option value="40">40</option>
-            <option value="60">60</option>
-            <option value="100">100</option>
-          </select>
-        </label>
-        <button id="refreshButton" type="button">
-          <span aria-hidden="true">R</span>
-          Refresh all
-        </button>
-        <button id="prevButton" type="button">Prev</button>
-        <button id="nextButton" type="button">Next</button>
-      </section>
-
       <section class="notice" id="notice" hidden></section>
 
       <section class="panel graph-panel" id="graphPanel" aria-label="Last 100 transaction graph">
@@ -79,9 +115,9 @@
             <h2>Last 100 $LIVES Transactions</h2>
           </div>
           <div class="graph-legend">
-            <span>Wallet nodes</span>
+            <span>Transaction path</span>
             <strong id="graphCountValue">--</strong>
-            <em>Click solid dots</em>
+            <em>Click hollow tx dots</em>
           </div>
         </div>
         <div class="graph-stage">
@@ -90,6 +126,19 @@
       </section>
 
       <section class="monitor-grid" aria-label="Situation monitor">
+        <article class="panel infinita-panel featured-panel glow-target" id="infinitaPanel">
+          <div class="panel-head">
+            <div>
+              <p class="panel-kicker">PRIORITY SIGNAL</p>
+              <h2>Infinita City Times Latest</h2>
+            </div>
+            <span class="priority-mark">Watch</span>
+          </div>
+          <div class="infinita-feed" id="infinitaFeed">
+            <div class="feed-state">Loading...</div>
+          </div>
+        </article>
+
         <article class="panel transaction-panel glow-target" id="transactionsPanel">
           <div class="panel-head">
             <div>
@@ -118,22 +167,10 @@
           </div>
         </article>
 
-        <article class="panel infinita-panel glow-target" id="infinitaPanel">
+        <aside class="panel news-panel glow-target" id="newsPanel" aria-label="RSS signal monitor">
           <div class="panel-head">
             <div>
-              <p class="panel-kicker">SUBSTACK</p>
-              <h2>Infinita City Times Latest</h2>
-            </div>
-          </div>
-          <div class="infinita-feed" id="infinitaFeed">
-            <div class="feed-state">Loading...</div>
-          </div>
-        </article>
-
-        <aside class="panel news-panel glow-target" id="newsPanel" aria-label="Real-time news monitor">
-          <div class="panel-head">
-            <div>
-              <p class="panel-kicker">GDELT DOC 2.0</p>
+              <p class="panel-kicker">RSS SIGNALS</p>
               <h2>Signal Feeds</h2>
             </div>
             <div class="news-updated">
