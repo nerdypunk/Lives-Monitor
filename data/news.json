@@ -1,22 +1,21 @@
 {
-<<<<<<< Updated upstream
-  "source": "GDELT DOC 2.0",
-  "updatedAt": "2026-04-25T20:06:46.950Z",
-=======
   "source": "RSS",
-  "updatedAt": "2026-04-25T19:51:08.365Z",
->>>>>>> Stashed changes
+  "updatedAt": "2026-04-25T20:33:05.692Z",
   "feeds": [
     {
       "name": "DeSci",
       "sources": [
         "https://news.google.com/rss/search?q=DeSci%20OR%20%22decentralized%20science%22%20OR%20%22BIO%20Protocol%22&hl=en-US&gl=US&ceid=US:en"
       ],
-<<<<<<< Updated upstream
-      "error": "fetch failed",
-      "articles": []
-=======
       "articles": [
+        {
+          "title": "desci Crypto Market & Spot Trading Pairs | Prices, Charts & Liquidity | MEXC - MEXC Exchange",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03UVY2NFB2SzA4dUpJUXY5Uk51aTdzVi1QR2xMUVV2bHBlZ256Ulk0SXNxTm03OGJuc0N6b29pX3ZIU0d0aTd1cGZkQ1ZIZ1d6Ym9JbTl1dkJaeVBIdk4yam5PWHdzUQ?oc=5",
+          "domain": "mexc.co",
+          "date": "2026-04-25T10:50:46.000Z",
+          "source": "MEXC Exchange",
+          "summary": "desci Crypto Market & Spot Trading Pairs | Prices, Charts & Liquidity | MEXC &nbsp;&nbsp; MEXC Exchange"
+        },
         {
           "title": "Bio Protocol Gains Momentum as AI-Driven DeSci Hype Builds - Cryptonews.net",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wdmpuNmVrQXF6RVU0MEhiLTdMeldOMmUyLXl6X08yY3Jjb3N4SGFLUWFNc1RybHU1V3hYZjJCZHlsNHdkLXBPTFF1RmpPU2tRamc2TXRPOE5mdw?oc=5",
@@ -42,14 +41,6 @@
           "summary": "DeSci Momentum: BIO Protocol Surges As AI-Driven Drug Discovery Gains Market Traction &nbsp;&nbsp; Binance"
         },
         {
-          "title": "AI Scientist Proposes New ADHD Treatment: BIO Protocol Explodes - Cryptonews",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vQVlSX3VmNzBmLWlzYWU4ODNJUjVUR1VWZWRJSFNvZU5DUk12UUVUQlA0V0Y5TnJ5NmdxNnNvWTMwX0FhdmNMOEtwYzJoVl8yM3BDNlFjTVh0aXFtOW1yU3E5dUJRWHBZUGVLVQ?oc=5",
-          "domain": "cryptonews.com",
-          "date": "2026-04-16T11:13:06.000Z",
-          "source": "Cryptonews",
-          "summary": "AI Scientist Proposes New ADHD Treatment: BIO Protocol Explodes &nbsp;&nbsp; Cryptonews"
-        },
-        {
           "title": "BIO (BioProtocol) fluctuated by 63.3% in 24 hours: BioXPSeason2 launch and DeSci narrative revival drive - Bitget",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GbFZHT005RXFVU3loRUFZYl9ralVTVmdWd1dMYkEtMDMxZU8yQ3BhamhacXpKb3R3UzNEUXZ6U3J4UmVLX2NvMzdxU04wYTM2SzVQanc5M3ZvcDVNYWfSAWNBVV95cUxQcTRkdzk1dElpWnNzSjV0bUpXY0phbTg3MnZPWm5rOUl3QkJ3NUhpVHVPSkdyZEVBUGlNUWt0akJPLThKSEgyRHgxdHJuTVBoRkRPRFBBSExKVGhGNFM0eEZTZkU?oc=5",
           "domain": "bitget.com",
@@ -64,6 +55,14 @@
           "date": "2026-04-16T07:00:00.000Z",
           "source": "Investing.com",
           "summary": "BIO Token Rally Raises Questions About DeSci Valuation Sustainability &nbsp;&nbsp; Investing.com"
+        },
+        {
+          "title": "AI Scientist Proposes New ADHD Treatment: BIO Protocol Explodes - Cryptonews",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vQVlSX3VmNzBmLWlzYWU4ODNJUjVUR1VWZWRJSFNvZU5DUk12UUVUQlA0V0Y5TnJ5NmdxNnNvWTMwX0FhdmNMOEtwYzJoVl8yM3BDNlFjTVh0aXFtOW1yU3E5dUJRWHBZUGVLVQ?oc=5",
+          "domain": "cryptonews.com",
+          "date": "2026-04-16T07:00:00.000Z",
+          "source": "Cryptonews",
+          "summary": "AI Scientist Proposes New ADHD Treatment: BIO Protocol Explodes &nbsp;&nbsp; Cryptonews"
         },
         {
           "title": "Bio Protocol (BIO) Surges 30% Amid Bullish Technical Setup - KuCoin",
@@ -88,17 +87,8 @@
           "date": "2026-04-09T07:00:00.000Z",
           "source": "Bitget",
           "summary": "DeSci project NanoVita announces completion of Series A funding, with participation from institutions including K24 Ventures &nbsp;&nbsp; Bitget"
-        },
-        {
-          "title": "What Is DeSci and How Is This Emerging Niche Developing in 2026? - KuCoin",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdVdUc1ZVUm4wdExtNXB1ajNBWnFrZS1xZkY3d1JqbzRrc0RqQ1lqbXloYmlxSF9YN0dDOUdlc082S3FEQUlXRm96ZDhKVVM1QmtwVUp3S0xYT1k2QXdRSFp2MFNhWHByQzhGMWluRnJkNExIdVlPODFOZXRodXM4bWlaYWdRdUxLS2hOMlEwdGEtaWxWV1BaNjZR?oc=5",
-          "domain": "kucoin.com",
-          "date": "2026-04-07T07:00:00.000Z",
-          "source": "KuCoin",
-          "summary": "What Is DeSci and How Is This Emerging Niche Developing in 2026? &nbsp;&nbsp; KuCoin"
         }
       ]
->>>>>>> Stashed changes
     },
     {
       "name": "Longevity",
@@ -108,69 +98,6 @@
       ],
       "articles": [
         {
-<<<<<<< Updated upstream
-          "title": "Buick Roadmaster : GM Underrated Land Yacht with Corvette Engine",
-          "url": "https://www.topspeed.com/buick-sedan-gm-best-kept-secrets/",
-          "domain": "topspeed.com",
-          "date": "20260425T184500Z"
-        },
-        {
-          "title": "The Role of Vases in Modern Headstone Design and Memorials",
-          "url": "https://www.fingerlakes1.com/2026/04/25/the-role-of-vases-in-modern-headstone-design-and-memorials/",
-          "domain": "fingerlakes1.com",
-          "date": "20260425T184500Z"
-        },
-        {
-          "title": "Green flowers are growing more popular : Here are some to check out",
-          "url": "https://www.dailynews.com/2026/04/25/green-flowers-are-growing-more-popular-here-are-some-to-check-out/",
-          "domain": "dailynews.com",
-          "date": "20260425T184500Z"
-        },
-        {
-          "title": "Hezbollah Says Ceasefire Meaningles as Fighting Continues in South",
-          "url": "https://www.algemeiner.com/2026/04/25/hezbollah-says-ceasefire-meaningless-as-fighting-continues-in-south/",
-          "domain": "algemeiner.com",
-          "date": "20260425T183000Z"
-        },
-        {
-          "title": "10 Perfect Medical Dramas To Watch After The Pitt",
-          "url": "https://collider.com/medical-dramas-like-the-pitt-hbo-max/",
-          "domain": "collider.com",
-          "date": "20260425T183000Z"
-        },
-        {
-          "title": "What are peptides ? FDA may ease restrictions on unproven health fad",
-          "url": "https://www.fox10phoenix.com/news/what-peptides-fda-may-ease-restrictions-unproven-health-fad",
-          "domain": "fox10phoenix.com",
-          "date": "20260425T181500Z"
-        },
-        {
-          "title": "5 3D Printing Mistakes Every Beginner Will Want To Avoid",
-          "url": "https://www.slashgear.com/2152535/3d-printing-mistakes-beginners-should-avoid/",
-          "domain": "slashgear.com",
-          "date": "20260425T181500Z"
-        },
-        {
-          "title": "What are peptides ? FDA may ease restrictions on unproven health fad",
-          "url": "https://www.fox13news.com/news/what-peptides-fda-may-ease-restrictions-unproven-health-fad",
-          "domain": "fox13news.com",
-          "date": "20260425T180000Z"
-        },
-        {
-          "title": "Silver Economy : Brazilian Senior Citizens Generate US$ 400 Billion Every Year",
-          "url": "https://www.brazzil.com/silver-economy-brazilian-senior-citizens-generate-us-400-billion-every-year/",
-          "domain": "brazzil.com",
-          "date": "20260425T180000Z"
-        },
-        {
-          "title": "Plentisoft : Beyond the Domain : The Domain Name Company Launches Global Venture Program to Help Build Startups from the Ground Up",
-          "url": "https://www.finanznachrichten.de/nachrichten-2026-04/68302372-plentisoft-beyond-the-domain-the-domain-name-company-launches-global-ventures-program-to-help-build-startups-from-the-ground-up-296.htm",
-          "domain": "finanznachrichten.de",
-          "date": "20260425T173000Z"
-        }
-      ],
-      "error": "fetch failed"
-=======
           "title": "Insilico forms industry’s first AI Longevity Board",
           "url": "https://longevity.technology/news/insilico-forms-industrys-first-ai-longevity-board/",
           "domain": "longevity.technology",
@@ -192,7 +119,7 @@
           "domain": "lifespan.io",
           "date": "2026-04-24T16:03:15.000Z",
           "source": "Lifespan.io",
-          "summary": "A new study has found that partial reprogramming mitigates the damage of myocardial infarction in mice by helping heart muscle cells to complete division [1]. When heart cells […]"
+          "summary": "A new study has found that partial reprogramming mitigates the damage of myocardial infarction in mice by helping heart muscle cells to complete division [1]. When heart cells get stuck […]"
         },
         {
           "title": "Final patient out in AlzeCure’s study on Alzheimer’s",
@@ -251,7 +178,6 @@
           "summary": "Springfield Wellness Center marked its 25th anniversary as a Louisiana-based clinic that introduced intravenous NAD+ treatment for addiction recovery. Founded in 2001 by Paula Norris Mestayer, M.Ed., LPC, FAPA, and Dr. Richard F. Mestayer III, M.D., the clinic developed the proprietary BR+NAD® protocol and operates a 10-day outpatient program that, according to the company, draws […] The post Springfield Wellness Center marks 25 years of NAD+ IV therapy appeared first on Longevity.Technology ."
         }
       ]
->>>>>>> Stashed changes
     },
     {
       "name": "Biotech",
@@ -260,10 +186,6 @@
         "https://export.arxiv.org/rss/q-bio",
         "https://phys.org/rss-feed/biology-news/biotechnology/"
       ],
-<<<<<<< Updated upstream
-      "error": "fetch failed",
-      "articles": []
-=======
       "articles": [
         {
           "title": "Inside 18 years of ape minds, a vast record that may upend how human intelligence began",
@@ -346,7 +268,6 @@
           "summary": "The ability to precisely edit the genomes of bacteria has long been a goal of microbiologists. Such technology would enable scientists to make new inroads into studying disease, developing sustainable materials, and fighting drug-resistant infections. But for years, the most powerful tools for bacterial genome editing have only been available in Escherichia coli (E. coli), the most common laboratory bacteria."
         }
       ]
->>>>>>> Stashed changes
     },
     {
       "name": "Crypto",
@@ -355,10 +276,6 @@
         "https://cointelegraph.com/rss",
         "https://www.theblock.co/rss.xml"
       ],
-<<<<<<< Updated upstream
-      "error": "fetch failed",
-      "articles": []
-=======
       "articles": [
         {
           "title": "Bitcoiners cast doubt on the US military's understanding of the network",
@@ -441,7 +358,6 @@
           "summary": "The standard Constitutional AIP lifecycle runs roughly 49 days from forum publication to onchain execution, a timeline some delegates say is too long."
         }
       ]
->>>>>>> Stashed changes
     }
   ]
 }
