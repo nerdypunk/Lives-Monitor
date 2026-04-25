@@ -363,16 +363,16 @@ h2 {
 
 .transaction-panel,
 .infinita-panel {
-  height: 700px;
+  height: 390px;
   overflow: hidden;
 }
 
 .transaction-panel .table-wrap {
-  max-height: 612px;
+  max-height: 302px;
 }
 
 .infinita-feed {
-  max-height: 612px;
+  max-height: 302px;
   overflow: auto;
   padding: 16px;
 }
@@ -482,7 +482,7 @@ tbody tr:last-child td {
 
 .feed-card {
   min-width: 0;
-  min-height: 280px;
+  min-height: 230px;
   padding: 16px;
   background: #111111;
 }

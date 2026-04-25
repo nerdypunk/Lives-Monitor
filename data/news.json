@@ -5,22 +5,50 @@
     {
       "name": "DeSci",
       "query": "(DeSci OR \"decentralized science\") sourcelang:english",
-      "articles": []
+      "articles": [
+        {
+          "title": "Trust Is the New Infrastructure : A Featured Forum at KuCoin Co - Hosted WLS Examines Blockchain Role in a Post - Quantum , AI - Driven World",
+          "url": "http://www.sydneysun.com/news/278845967/trust-is-the-new-infrastructure-a-featured-forum-at-kucoin-co-hosted-wls-examines-blockchain-role-in-a-post-quantum-ai-driven-world",
+          "domain": "sydneysun.com",
+          "date": "20260203T094500Z"
+        }
+      ]
     },
     {
       "name": "Longevity",
       "query": "(longevity OR \"life extension\" OR \"anti-aging\") sourcelang:english",
-      "articles": []
+      "articles": [
+        {
+          "title": "Ep. 107: Sid Sijbrandij On Beating Cancer with First Principles, n = 1 Personalized Treatments and Special Access Regulatory Pathways",
+          "url": "https://www.infinitacitytimes.com/p/ep-107-sid-sijbrandij-on-beating",
+          "domain": "infinitacitytimes.com",
+          "date": "20260410T162846Z"
+        }
+      ]
     },
     {
       "name": "Biotech",
       "query": "(biotech OR \"synthetic biology\" OR CRISPR) sourcelang:english",
-      "articles": []
+      "articles": [
+        {
+          "title": "The Essential Tim Urban - 8 Key Reads on Technology, Time & Life Extension",
+          "url": "https://www.infinitacitytimes.com/p/the-essential-tim-urban-8-key-reads",
+          "domain": "infinitacitytimes.com",
+          "date": "20260309T173036Z"
+        }
+      ]
     },
     {
       "name": "Crypto",
       "query": "(crypto OR cryptocurrency OR blockchain OR Solana) sourcelang:english",
-      "articles": []
+      "articles": [
+        {
+          "title": "Trust Is the New Infrastructure : A Featured Forum at KuCoin Co - Hosted WLS Examines Blockchain Role in a Post - Quantum , AI - Driven World",
+          "url": "http://www.singaporestar.com/news/278845967/trust-is-the-new-infrastructure-a-featured-forum-at-kucoin-co-hosted-wls-examines-blockchain-role-in-a-post-quantum-ai-driven-world",
+          "domain": "singaporestar.com",
+          "date": "20260203T130000Z"
+        }
+      ]
     }
   ]
 }

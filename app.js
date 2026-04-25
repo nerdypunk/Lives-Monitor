@@ -52,6 +52,7 @@ const elements = {
 let page = 1;
 let allRows = [];
 let graphAnimation;
+let graphHits = [];
 
 function setStatus(text, state = "") {
   elements.status.textContent = text;
@@ -201,13 +202,14 @@ function renderGraph() {
   const rows = allRows.slice(0, 100);
   const wallets = new Map();
   const edges = [];
+  graphHits = [];
 
   rows.forEach((row, index) => {
     const from = row.from || "";
     const to = row.to || "";
     if (from) wallets.set(from, { id: from, weight: (wallets.get(from)?.weight || 0) + 1 });
     if (to) wallets.set(to, { id: to, weight: (wallets.get(to)?.weight || 0) + 1 });
-    edges.push({ from, to, index });
+    edges.push({ from, to, index, signature: row.signature });
   });
 
   const walletList = [...wallets.values()]
@@ -266,6 +268,16 @@ function renderGraph() {
       ctx.strokeStyle = `rgba(255, 25, 146, ${alpha})`;
       ctx.lineWidth = 1.1;
       ctx.stroke();
+
+      if (edge.signature) {
+        graphHits.push({
+          type: "edge",
+          signature: edge.signature,
+          x: midX,
+          y: midY - 12,
+          radius: 12,
+        });
+      }
     });
 
     walletList.forEach((wallet) => {
@@ -306,6 +318,23 @@ function renderGraph() {
   }
 
   graphAnimation = window.requestAnimationFrame(draw);
+}
+
+function graphPointerPosition(event) {
+  const rect = elements.graph.getBoundingClientRect();
+  return {
+    x: event.clientX - rect.left,
+    y: event.clientY - rect.top,
+  };
+}
+
+function graphHitAt(event) {
+  const point = graphPointerPosition(event);
+  return graphHits.find((hit) => {
+    const dx = hit.x - point.x;
+    const dy = hit.y - point.y;
+    return Math.sqrt(dx * dx + dy * dy) <= hit.radius;
+  });
 }
 
 async function loadTokenData() {
@@ -542,5 +571,16 @@ window.setTimeout(() => target.classList.remove("section-glow"), 4000);
 });
 
 window.addEventListener("resize", () => renderGraph());
+
+elements.graph?.addEventListener("mousemove", (event) => {
+  elements.graph.style.cursor = graphHitAt(event) ? "pointer" : "default";
+});
+
+elements.graph?.addEventListener("click", (event) => {
+  const hit = graphHitAt(event);
+  if (hit?.signature) {
+    window.open(`${SOLSCAN_TX}${hit.signature}`, "_blank", "noopener,noreferrer");
+  }
+});
 
 loadAll();
