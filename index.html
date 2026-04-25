@@ -3,8 +3,8 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Token Transactions Monitor</title>
-    <meta name="description" content="Static Solana token transaction monitor for GitHub Pages.">
+    <title>Lives Situation Monitor</title>
+    <meta name="description" content="Lives Situation Monitor for recent Solana token activity.">
     <link rel="preconnect" href="https://pro-api.solscan.io">
     <link rel="stylesheet" href="styles.css">
   </head>
@@ -12,8 +12,8 @@
     <main class="shell">
       <section class="topbar" aria-label="Token overview">
         <div>
-          <p class="eyebrow">Solana mainnet</p>
-          <h1>Token Transactions</h1>
+          <p class="eyebrow">LIVES / MAINNET</p>
+          <h1>Lives Situation Monitor</h1>
           <a class="address" href="https://solscan.io/token/27TyCz2Y4rFPfURPCPxByEW6AeMfQSNCMFcPmK4fvEA8?cluster=mainnet-beta" target="_blank" rel="noreferrer">
             27TyCz2Y4rFPfURPCPxByEW6AeMfQSNCMFcPmK4fvEA8
           </a>
@@ -30,8 +30,12 @@
           <span>Supply</span>
           <strong id="supplyValue">--</strong>
         </article>
+        <article class="metric hot">
+          <span>Last 24h</span>
+          <strong id="dailyValue">--</strong>
+        </article>
         <article class="metric">
-          <span>Loaded transactions</span>
+          <span>Cached rows</span>
           <strong id="loadedValue">0</strong>
         </article>
         <article class="metric">

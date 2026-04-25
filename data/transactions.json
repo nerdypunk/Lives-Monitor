@@ -2,8 +2,8 @@
   "source": "Solana RPC fallback: Solscan API request failed with HTTP 401",
   "token": {
     "address": "27TyCz2Y4rFPfURPCPxByEW6AeMfQSNCMFcPmK4fvEA8",
-    "name": "Token",
-    "symbol": "Token",
+    "name": "LIVES",
+    "symbol": "$LIVES",
     "supply": "350000"
   },
   "transactions": [
@@ -188,5 +188,8 @@
       "slot": 415432713
     }
   ],
+  "stats": {
+    "last24h": 20
+  },
   "updatedAt": "2026-04-25T06:34:51.760Z"
 }

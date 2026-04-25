@@ -7,6 +7,7 @@ const elements = {
   status: document.querySelector("#networkStatus"),
   tokenName: document.querySelector("#tokenNameValue"),
   supply: document.querySelector("#supplyValue"),
+  daily: document.querySelector("#dailyValue"),
   loaded: document.querySelector("#loadedValue"),
   updated: document.querySelector("#updatedValue"),
   limit: document.querySelector("#limitSelect"),
@@ -60,10 +61,11 @@ function formatNumber(value, maximumFractionDigits = 6) {
 
 function renderMeta(payload) {
   const token = payload.token || {};
-  const symbol = token.symbol || "Token";
-  const name = token.name ? `${token.name} (${symbol})` : symbol;
+  const symbol = token.symbol && token.symbol !== "Token" ? token.symbol : "$LIVES";
+  const name = token.name && token.name !== "Token" ? `${token.name} (${symbol})` : symbol;
   elements.tokenName.innerHTML = `<a href="${SOLSCAN_TOKEN}${TOKEN_MINT}" target="_blank" rel="noreferrer">${escapeHtml(name)}</a>`;
   elements.supply.textContent = formatNumber(token.supply, 4);
+  elements.daily.textContent = formatNumber(payload.stats?.last24h ?? 0, 0);
   elements.updated.textContent = payload.updatedAt
     ? new Intl.DateTimeFormat(undefined, { dateStyle: "medium", timeStyle: "short" }).format(new Date(payload.updatedAt))
     : "--";

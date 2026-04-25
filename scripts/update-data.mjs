@@ -9,6 +9,7 @@ const SOLANA_RPC_ENDPOINTS = [
 ].filter(Boolean);
 const OUTFILE = "data/transactions.json";
 const TARGET_TRANSACTION_COUNT = 20;
+const DAY_SECONDS = 24 * 60 * 60;
 
 let rpcId = 1;
 
@@ -237,8 +238,8 @@ async function loadFromRpc(error) {
     source: `Solana RPC fallback: ${error.message}`,
     token: {
       address: TOKEN_MINT,
-      name: "Token",
-      symbol: "Token",
+      name: "LIVES",
+      symbol: "$LIVES",
       supply: supply?.value?.uiAmountString || null,
     },
     transactions,
@@ -250,6 +251,42 @@ async function loadExistingData(error) {
   const existing = JSON.parse(await readFile(OUTFILE, "utf8"));
   existing.source = `${existing.source || "Existing cached data"} (live update failed: ${error.message})`;
   return existing;
+}
+
+function countRecentRows(rows) {
+  const cutoff = Math.floor(Date.now() / 1000) - DAY_SECONDS;
+  return rows.filter((row) => Number(row.blockTime || 0) >= cutoff).length;
+}
+
+async function countTransactionsLastDay(rows) {
+  const cutoff = Math.floor(Date.now() / 1000) - DAY_SECONDS;
+  let before;
+  let count = 0;
+
+  try {
+    for (let page = 0; page < 5; page += 1) {
+      const options = { limit: 1000, commitment: "confirmed" };
+      if (before) options.before = before;
+
+      const signatures = await rpc("getSignaturesForAddress", [TOKEN_MINT, options]);
+      if (!signatures.length) break;
+
+      for (const item of signatures) {
+        if (item.blockTime && item.blockTime >= cutoff) {
+          count += 1;
+        }
+      }
+
+      const oldest = signatures[signatures.length - 1];
+      if (!oldest?.blockTime || oldest.blockTime < cutoff) break;
+      before = oldest.signature;
+      await sleep(450);
+    }
+    return count;
+  } catch (error) {
+    console.warn(`Could not compute full 24h count, using cached rows: ${error.message}`);
+    return countRecentRows(rows);
+  }
 }
 
 async function main() {
@@ -269,6 +306,10 @@ async function main() {
   }
 
   payload.updatedAt = new Date().toISOString();
+  payload.stats = {
+    ...(payload.stats || {}),
+    last24h: await countTransactionsLastDay(payload.transactions || []),
+  };
   await mkdir("data", { recursive: true });
   await writeFile(OUTFILE, `${JSON.stringify(payload, null, 2)}\n`);
   console.log(`Wrote ${OUTFILE} with ${payload.transactions.length} transactions from ${payload.source}`);

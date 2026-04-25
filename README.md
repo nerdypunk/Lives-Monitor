@@ -6,6 +6,8 @@ A GitHub Pages compatible static site for monitoring recent Solscan-indexed tran
 
 The page is GitHub Pages compatible. Visitors only load static files plus `data/transactions.json`; GitHub Actions refreshes that JSON on a schedule.
 
+The dashboard shows the latest cached transactions plus a 24-hour transaction count computed by the updater.
+
 ## Local use
 
 Publish the repository with GitHub Pages. For local testing, serve the folder with a small static server so the browser can fetch `data/transactions.json`.
