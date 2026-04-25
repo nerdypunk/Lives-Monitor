@@ -64,7 +64,7 @@ async function main() {
 
   await mkdir("data", { recursive: true });
   await writeFile(OUTFILE, `${JSON.stringify(payload, null, 2)}\n`);
-  console.log(`Wrote ${OUTFILE} with ${items.length} posts`);
+  console.log(`Wrote ${OUTFILE} with ${(payload.items || []).length} posts`);
 }
 
 main().catch((error) => {

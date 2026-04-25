@@ -173,6 +173,8 @@ function balanceKey(balance) {
 }
 
 function summarizeRpcTransaction(tx, fallbackSignature) {
+  if (!tx?.meta) return null;
+
   const pre = new Map(
     (tx.meta?.preTokenBalances || [])
       .filter((balance) => balance.mint === TOKEN_MINT)
