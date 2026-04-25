@@ -188,5 +188,10 @@
       "slot": 415432713
     }
   ],
+  "stats": {
+    "last24h": 20,
+    "totalCached": 20,
+    "historyComplete": false
+  },
   "updatedAt": "2026-04-25T06:40:48.112Z"
 }

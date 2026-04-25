@@ -2,6 +2,15 @@ name: Update token transactions
 
 on:
   workflow_dispatch:
+    inputs:
+      full_history:
+        description: "Backfill all historical token signatures into data/transactions.json"
+        required: false
+        default: "false"
+        type: choice
+        options:
+          - "false"
+          - "true"
   schedule:
     - cron: "*/15 * * * *"
 
@@ -24,6 +33,8 @@ jobs:
       - name: Fetch latest transactions
         env:
           SOLSCAN_API_KEY: ${{ secrets.SOLSCAN_API_KEY }}
+          SOLANA_RPC_URL: ${{ secrets.SOLANA_RPC_URL }}
+          FULL_HISTORY: ${{ github.event.inputs.full_history || 'false' }}
         run: |
           set -euo pipefail
           node scripts/update-data.mjs

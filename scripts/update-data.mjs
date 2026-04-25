@@ -8,13 +8,40 @@ const SOLANA_RPC_ENDPOINTS = [
   "https://api.mainnet-beta.solana.com",
 ].filter(Boolean);
 const OUTFILE = "data/transactions.json";
-const TARGET_TRANSACTION_COUNT = 20;
+const FULL_HISTORY = process.env.FULL_HISTORY === "true";
 const DAY_SECONDS = 24 * 60 * 60;
+const LATEST_SIGNATURE_LIMIT = 120;
+const SIGNATURE_PAGE_LIMIT = 1000;
+const MAX_SIGNATURE_PAGES = Number(process.env.MAX_SIGNATURE_PAGES || 100);
+const ENRICH_LIMIT = Number(process.env.ENRICH_LIMIT || (FULL_HISTORY ? 80 : 35));
 
 let rpcId = 1;
 
 function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+function emptyPayload(source = "Empty cache") {
+  return {
+    source,
+    token: {
+      address: TOKEN_MINT,
+      name: "LIVES",
+      symbol: "$LIVES",
+      supply: null,
+    },
+    transactions: [],
+    stats: { last24h: 0, totalCached: 0, historyComplete: false },
+    updatedAt: null,
+  };
+}
+
+async function readExistingData() {
+  try {
+    return JSON.parse(await readFile(OUTFILE, "utf8"));
+  } catch {
+    return emptyPayload("New cache");
+  }
 }
 
 function formatRawAmount(rawAmount, decimals) {
@@ -104,6 +131,38 @@ function normalizeSolscanRows(rows) {
   }));
 }
 
+function signatureRow(item) {
+  return {
+    signature: item.signature,
+    type: item.err ? "Failed transaction" : "Transaction",
+    amountText: "--",
+    from: "",
+    to: "",
+    blockTime: item.blockTime,
+    slot: item.slot,
+  };
+}
+
+function mergeTransactions(existingRows, incomingRows) {
+  const bySignature = new Map();
+
+  for (const row of existingRows || []) {
+    if (row.signature) bySignature.set(row.signature, row);
+  }
+
+  for (const row of incomingRows || []) {
+    if (!row.signature) continue;
+    const existing = bySignature.get(row.signature);
+    const incomingHasDetails = row.amountText && row.amountText !== "--";
+    const existingHasDetails = existing?.amountText && existing.amountText !== "--";
+    if (!existing || incomingHasDetails || !existingHasDetails) {
+      bySignature.set(row.signature, { ...existing, ...row });
+    }
+  }
+
+  return [...bySignature.values()].sort((a, b) => Number(b.blockTime || 0) - Number(a.blockTime || 0));
+}
+
 function rawTokenAmount(balance) {
   const amount = balance?.uiTokenAmount?.amount;
   return amount ? BigInt(amount) : 0n;
@@ -163,8 +222,72 @@ function summarizeRpcTransaction(tx, fallbackSignature) {
   };
 }
 
-async function loadFromSolscan() {
-  console.log("Trying Solscan API...");
+async function fetchSignatureRows() {
+  const rows = [];
+  let before;
+
+  for (let page = 0; page < MAX_SIGNATURE_PAGES; page += 1) {
+    const options = {
+      limit: FULL_HISTORY ? SIGNATURE_PAGE_LIMIT : LATEST_SIGNATURE_LIMIT,
+      commitment: "confirmed",
+    };
+    if (before) options.before = before;
+
+    const signatures = await rpc("getSignaturesForAddress", [TOKEN_MINT, options]);
+    rows.push(...signatures.map(signatureRow));
+    console.log(`Fetched ${rows.length} signature rows${FULL_HISTORY ? " during full backfill" : ""}`);
+
+    if (!FULL_HISTORY || signatures.length < options.limit) break;
+    before = signatures[signatures.length - 1].signature;
+    await sleep(600);
+  }
+
+  return rows;
+}
+
+async function enrichRows(rows) {
+  let enriched = 0;
+  const output = [];
+
+  for (const row of rows) {
+    if (enriched >= ENRICH_LIMIT || (row.amountText && row.amountText !== "--")) {
+      output.push(row);
+      continue;
+    }
+
+    try {
+      const tx = await rpc("getTransaction", [
+        row.signature,
+        {
+          encoding: "jsonParsed",
+          commitment: "confirmed",
+          maxSupportedTransactionVersion: 0,
+        },
+      ]);
+      output.push(summarizeRpcTransaction(tx, row.signature) || row);
+      enriched += 1;
+    } catch (error) {
+      console.warn(`Could not enrich ${row.signature}: ${error.message}`);
+      output.push(row);
+    }
+    await sleep(350);
+  }
+
+  return output;
+}
+
+async function getSupply(existingToken) {
+  try {
+    const supply = await rpc("getTokenSupply", [TOKEN_MINT, { commitment: "confirmed" }]);
+    return supply?.value?.uiAmountString || existingToken?.supply || null;
+  } catch (error) {
+    console.warn(`Could not update supply: ${error.message}`);
+    return existingToken?.supply || null;
+  }
+}
+
+async function updateFromSolscan(existing) {
+  console.log("Trying Solscan API for latest rows...");
   const [meta, transfers] = await Promise.all([
     solscan("/token/meta", { address: TOKEN_MINT }),
     solscan("/token/transfer", {
@@ -179,78 +302,35 @@ async function loadFromSolscan() {
 
   const data = meta.data || {};
   return {
-    source: "Solscan API",
+    ...existing,
+    source: "Solscan API latest merge",
     token: {
       address: TOKEN_MINT,
-      name: data.name || "Token",
-      symbol: data.symbol || "Token",
-      supply: data.supply || data.total_supply || null,
+      name: data.name || existing.token?.name || "LIVES",
+      symbol: data.symbol || existing.token?.symbol || "$LIVES",
+      supply: data.supply || data.total_supply || existing.token?.supply || null,
     },
-    transactions: normalizeSolscanRows(transfers.data || []),
+    transactions: mergeTransactions(existing.transactions, normalizeSolscanRows(transfers.data || [])),
   };
 }
 
-async function loadFromRpc(error) {
-  console.log("Trying Solana RPC fallback...");
-  const supply = await rpc("getTokenSupply", [TOKEN_MINT, { commitment: "confirmed" }]);
-  const signatures = await rpc("getSignaturesForAddress", [
-    TOKEN_MINT,
-    { limit: TARGET_TRANSACTION_COUNT, commitment: "confirmed" },
-  ]);
-
-  const transactions = [];
-  for (const item of signatures) {
-    try {
-      const tx = await rpc("getTransaction", [
-        item.signature,
-        {
-          encoding: "jsonParsed",
-          commitment: "confirmed",
-          maxSupportedTransactionVersion: 0,
-        },
-      ]);
-      const row = tx ? summarizeRpcTransaction(tx, item.signature) : null;
-      transactions.push(row || {
-        signature: item.signature,
-        type: item.err ? "Failed transaction" : "Transaction",
-        amountText: "--",
-        from: "",
-        to: "",
-        blockTime: item.blockTime,
-        slot: item.slot,
-      });
-    } catch (transactionError) {
-      console.warn(`Skipping ${item.signature}: ${transactionError.message}`);
-      transactions.push({
-        signature: item.signature,
-        type: item.err ? "Failed transaction" : "Transaction",
-        amountText: "--",
-        from: "",
-        to: "",
-        blockTime: item.blockTime,
-        slot: item.slot,
-      });
-    }
-    await sleep(350);
-  }
+async function updateFromRpc(existing, reason) {
+  console.log(FULL_HISTORY ? "Running full RPC history backfill..." : "Running latest RPC merge...");
+  const signatureRows = await fetchSignatureRows();
+  const merged = mergeTransactions(existing.transactions, signatureRows);
+  const enriched = await enrichRows(merged);
 
   return {
-    source: `Solana RPC fallback: ${error.message}`,
+    ...existing,
+    source: FULL_HISTORY ? `Full RPC history backfill: ${reason.message}` : `Solana RPC latest merge: ${reason.message}`,
     token: {
       address: TOKEN_MINT,
-      name: "LIVES",
-      symbol: "$LIVES",
-      supply: supply?.value?.uiAmountString || null,
+      name: existing.token?.name || "LIVES",
+      symbol: existing.token?.symbol || "$LIVES",
+      supply: await getSupply(existing.token),
     },
-    transactions,
+    transactions: mergeTransactions(merged, enriched),
   };
-}
-
-async function loadExistingData(error) {
-  console.warn(`Keeping existing data because live update failed: ${error.message}`);
-  const existing = JSON.parse(await readFile(OUTFILE, "utf8"));
-  existing.source = `${existing.source || "Existing cached data"} (live update failed: ${error.message})`;
-  return existing;
 }
 
 function countRecentRows(rows) {
@@ -258,61 +338,54 @@ function countRecentRows(rows) {
   return rows.filter((row) => Number(row.blockTime || 0) >= cutoff).length;
 }
 
-async function countTransactionsLastDay(rows) {
-  const cutoff = Math.floor(Date.now() / 1000) - DAY_SECONDS;
-  let before;
-  let count = 0;
-
-  try {
-    for (let page = 0; page < 5; page += 1) {
-      const options = { limit: 1000, commitment: "confirmed" };
-      if (before) options.before = before;
-
-      const signatures = await rpc("getSignaturesForAddress", [TOKEN_MINT, options]);
-      if (!signatures.length) break;
-
-      for (const item of signatures) {
-        if (item.blockTime && item.blockTime >= cutoff) {
-          count += 1;
-        }
-      }
-
-      const oldest = signatures[signatures.length - 1];
-      if (!oldest?.blockTime || oldest.blockTime < cutoff) break;
-      before = oldest.signature;
-      await sleep(450);
-    }
-    return count;
-  } catch (error) {
-    console.warn(`Could not compute full 24h count, using cached rows: ${error.message}`);
-    return countRecentRows(rows);
-  }
+function finalizePayload(payload) {
+  const transactions = mergeTransactions([], payload.transactions || []);
+  return {
+    ...payload,
+    token: {
+      address: TOKEN_MINT,
+      name: payload.token?.name || "LIVES",
+      symbol: payload.token?.symbol || "$LIVES",
+      supply: payload.token?.supply || null,
+    },
+    transactions,
+    stats: {
+      ...(payload.stats || {}),
+      last24h: countRecentRows(transactions),
+      totalCached: transactions.length,
+      historyComplete: FULL_HISTORY || Boolean(payload.stats?.historyComplete),
+    },
+    updatedAt: new Date().toISOString(),
+  };
 }
 
 async function main() {
   console.log(`Updating transactions for ${TOKEN_MINT}`);
   console.log(`Solscan key present: ${process.env.SOLSCAN_API_KEY ? "yes" : "no"}`);
+  console.log(`Full history mode: ${FULL_HISTORY ? "yes" : "no"}`);
 
+  const existing = await readExistingData();
   let payload;
+
   try {
-    payload = await loadFromSolscan();
+    if (FULL_HISTORY) throw new Error("Full history requested");
+    payload = await updateFromSolscan(existing);
   } catch (error) {
-    console.warn(`Solscan unavailable: ${error.message}`);
+    console.warn(`Solscan unavailable or skipped: ${error.message}`);
     try {
-      payload = await loadFromRpc(error);
+      payload = await updateFromRpc(existing, error);
     } catch (rpcError) {
-      payload = await loadExistingData(rpcError);
+      console.warn(`Keeping existing data because live update failed: ${rpcError.message}`);
+      payload = existing.transactions?.length ? existing : emptyPayload(`Live update failed: ${rpcError.message}`);
     }
   }
 
-  payload.updatedAt = new Date().toISOString();
-  payload.stats = {
-    ...(payload.stats || {}),
-    last24h: await countTransactionsLastDay(payload.transactions || []),
-  };
+  payload = finalizePayload(payload);
   await mkdir("data", { recursive: true });
   await writeFile(OUTFILE, `${JSON.stringify(payload, null, 2)}\n`);
-  console.log(`Wrote ${OUTFILE} with ${payload.transactions.length} transactions from ${payload.source}`);
+  console.log(`Wrote ${OUTFILE} with ${payload.transactions.length} cached transactions`);
+  console.log(`Last 24h transactions: ${payload.stats.last24h}`);
+  console.log(`History complete: ${payload.stats.historyComplete}`);
 }
 
 main().catch((error) => {
