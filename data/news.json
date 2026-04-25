@@ -1,54 +1,42 @@
 {
   "source": "GDELT DOC 2.0",
-  "updatedAt": "2026-04-25T18:23:25.527Z",
+  "updatedAt": null,
   "feeds": [
     {
       "name": "DeSci",
-      "query": "(DeSci OR \"decentralized science\") sourcelang:english",
-      "articles": [
-        {
-          "title": "Trust Is the New Infrastructure : A Featured Forum at KuCoin Co - Hosted WLS Examines Blockchain Role in a Post - Quantum , AI - Driven World",
-          "url": "http://www.sydneysun.com/news/278845967/trust-is-the-new-infrastructure-a-featured-forum-at-kucoin-co-hosted-wls-examines-blockchain-role-in-a-post-quantum-ai-driven-world",
-          "domain": "sydneysun.com",
-          "date": "20260203T094500Z"
-        }
-      ]
+      "queries": [
+        "(DeSci OR \"decentralized science\") sourcelang:english",
+        "(\"open science\" OR \"science funding\" OR \"citizen science\" OR \"research funding\") sourcelang:english",
+        "(science OR research OR \"scientific research\") sourcelang:english"
+      ],
+      "articles": []
     },
     {
       "name": "Longevity",
-      "query": "(longevity OR \"life extension\" OR \"anti-aging\") sourcelang:english",
-      "articles": [
-        {
-          "title": "Ep. 107: Sid Sijbrandij On Beating Cancer with First Principles, n = 1 Personalized Treatments and Special Access Regulatory Pathways",
-          "url": "https://www.infinitacitytimes.com/p/ep-107-sid-sijbrandij-on-beating",
-          "domain": "infinitacitytimes.com",
-          "date": "20260410T162846Z"
-        }
-      ]
+      "queries": [
+        "(longevity OR \"life extension\" OR \"anti-aging\") sourcelang:english",
+        "(longevity OR \"life extension\" OR \"anti aging\" OR \"healthy aging\" OR \"aging research\") sourcelang:english",
+        "(\"aging\" OR \"age-related\" OR \"lifespan\" OR \"healthspan\") sourcelang:english"
+      ],
+      "articles": []
     },
     {
       "name": "Biotech",
-      "query": "(biotech OR \"synthetic biology\" OR CRISPR) sourcelang:english",
-      "articles": [
-        {
-          "title": "The Essential Tim Urban - 8 Key Reads on Technology, Time & Life Extension",
-          "url": "https://www.infinitacitytimes.com/p/the-essential-tim-urban-8-key-reads",
-          "domain": "infinitacitytimes.com",
-          "date": "20260309T173036Z"
-        }
-      ]
+      "queries": [
+        "(biotech OR \"synthetic biology\" OR CRISPR) sourcelang:english",
+        "(biotechnology OR biotech OR CRISPR OR \"gene editing\" OR \"cell therapy\") sourcelang:english",
+        "(\"drug discovery\" OR genomics OR biomanufacturing OR \"clinical trial\") sourcelang:english"
+      ],
+      "articles": []
     },
     {
       "name": "Crypto",
-      "query": "(crypto OR cryptocurrency OR blockchain OR Solana) sourcelang:english",
-      "articles": [
-        {
-          "title": "Trust Is the New Infrastructure : A Featured Forum at KuCoin Co - Hosted WLS Examines Blockchain Role in a Post - Quantum , AI - Driven World",
-          "url": "http://www.singaporestar.com/news/278845967/trust-is-the-new-infrastructure-a-featured-forum-at-kucoin-co-hosted-wls-examines-blockchain-role-in-a-post-quantum-ai-driven-world",
-          "domain": "singaporestar.com",
-          "date": "20260203T130000Z"
-        }
-      ]
+      "queries": [
+        "(crypto OR cryptocurrency OR blockchain OR Solana) sourcelang:english",
+        "(cryptocurrency OR blockchain OR bitcoin OR ethereum OR Solana OR stablecoin) sourcelang:english",
+        "(\"digital assets\" OR token OR web3 OR DeFi) sourcelang:english"
+      ],
+      "articles": []
     }
   ]
 }

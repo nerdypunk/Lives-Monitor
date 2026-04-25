@@ -5,23 +5,35 @@ const GDELT_DOC_API = "https://api.gdeltproject.org/api/v2/doc/doc";
 const FEEDS = [
   {
     name: "DeSci",
-    query: '(DeSci OR "decentralized science") sourcelang:english',
-    fallbackQuery: '("decentralized science" OR "open science" OR "science funding") sourcelang:english',
+    queries: [
+      '(DeSci OR "decentralized science") sourcelang:english',
+      '("open science" OR "science funding" OR "citizen science" OR "research funding") sourcelang:english',
+      '(science OR research OR "scientific research") sourcelang:english',
+    ],
   },
   {
     name: "Longevity",
-    query: '(longevity OR "life extension" OR "anti-aging") sourcelang:english',
-    fallbackQuery: '(longevity OR "life extension" OR "anti aging" OR "healthy aging") sourcelang:english',
+    queries: [
+      '(longevity OR "life extension" OR "anti-aging") sourcelang:english',
+      '(longevity OR "life extension" OR "anti aging" OR "healthy aging" OR "aging research") sourcelang:english',
+      '("aging" OR "age-related" OR "lifespan" OR "healthspan") sourcelang:english',
+    ],
   },
   {
     name: "Biotech",
-    query: '(biotech OR "synthetic biology" OR CRISPR) sourcelang:english',
-    fallbackQuery: '(biotechnology OR biotech OR CRISPR OR "gene editing") sourcelang:english',
+    queries: [
+      '(biotech OR "synthetic biology" OR CRISPR) sourcelang:english',
+      '(biotechnology OR biotech OR CRISPR OR "gene editing" OR "cell therapy") sourcelang:english',
+      '("drug discovery" OR genomics OR biomanufacturing OR "clinical trial") sourcelang:english',
+    ],
   },
   {
     name: "Crypto",
-    query: '(crypto OR cryptocurrency OR blockchain OR Solana) sourcelang:english',
-    fallbackQuery: '(cryptocurrency OR blockchain OR bitcoin OR ethereum OR Solana) sourcelang:english',
+    queries: [
+      '(crypto OR cryptocurrency OR blockchain OR Solana) sourcelang:english',
+      '(cryptocurrency OR blockchain OR bitcoin OR ethereum OR Solana OR stablecoin) sourcelang:english',
+      '("digital assets" OR token OR web3 OR DeFi) sourcelang:english',
+    ],
   },
 ];
 
@@ -80,12 +92,21 @@ async function fetchFeedQuery(query) {
 }
 
 async function fetchFeed(feed) {
-  let articles = await fetchFeedQuery(feed.query);
-  if (!articles.length && feed.fallbackQuery) {
-    console.warn(`No ${feed.name} articles for primary query; trying fallback`);
-    articles = await fetchFeedQuery(feed.fallbackQuery);
+  const seen = new Set();
+  const combined = [];
+
+  for (const query of feed.queries) {
+    const articles = await fetchFeedQuery(query);
+    for (const article of articles) {
+      if (!article.url || seen.has(article.url)) continue;
+      seen.add(article.url);
+      combined.push(article);
+      if (combined.length >= 10) return combined;
+    }
+    console.warn(`${feed.name} has ${combined.length} articles after query: ${query}`);
   }
-  return articles;
+
+  return combined;
 }
 
 async function readExisting() {
@@ -103,12 +124,12 @@ async function main() {
   for (const feed of FEEDS) {
     try {
       const articles = await fetchFeed(feed);
-      feeds.push({ name: feed.name, query: feed.query, articles });
+      feeds.push({ name: feed.name, queries: feed.queries, articles });
       console.log(`Fetched ${articles.length} ${feed.name} articles`);
     } catch (error) {
       console.warn(`Keeping existing ${feed.name} feed: ${error.message}`);
       const previous = existing.feeds?.find((item) => item.name === feed.name);
-      feeds.push(previous || { name: feed.name, query: feed.query, error: error.message, articles: [] });
+      feeds.push(previous || { name: feed.name, queries: feed.queries, error: error.message, articles: [] });
     }
   }
 

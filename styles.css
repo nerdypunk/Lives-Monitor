@@ -323,6 +323,21 @@ button:disabled {
   font-size: 0.94rem;
 }
 
+.graph-stage {
+  position: relative;
+}
+
+.graph-stage::after {
+  content: "click pink transaction points";
+  position: absolute;
+  right: 16px;
+  bottom: 12px;
+  color: var(--dim);
+  font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+  font-size: 0.72rem;
+  pointer-events: none;
+}
+
 .panel {
   min-width: 0;
   border: 1px solid var(--line);

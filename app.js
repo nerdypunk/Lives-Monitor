@@ -202,6 +202,7 @@ function renderGraph() {
   const rows = allRows.slice(0, 100);
   const wallets = new Map();
   const edges = [];
+  const txPoints = [];
   graphHits = [];
 
   rows.forEach((row, index) => {
@@ -270,14 +271,34 @@ function renderGraph() {
       ctx.stroke();
 
       if (edge.signature) {
-        graphHits.push({
-          type: "edge",
+        const txPoint = {
           signature: edge.signature,
           x: midX,
           y: midY - 12,
-          radius: 12,
+          index: edge.index,
+        };
+        txPoints.push(txPoint);
+        graphHits.push({
+          type: "transaction",
+          signature: edge.signature,
+          x: txPoint.x,
+          y: txPoint.y,
+          radius: 9,
         });
       }
+    });
+
+    txPoints.slice(0, 100).forEach((point) => {
+      const freshness = Math.max(0.2, 1 - point.index / 100);
+      ctx.beginPath();
+      ctx.arc(point.x, point.y, 3.5 + pulse * 1.5, 0, Math.PI * 2);
+      ctx.fillStyle = `rgba(255, 25, 146, ${0.35 + freshness * 0.45})`;
+      ctx.fill();
+      ctx.beginPath();
+      ctx.arc(point.x, point.y, 8, 0, Math.PI * 2);
+      ctx.strokeStyle = `rgba(255, 25, 146, ${0.18 + freshness * 0.22})`;
+      ctx.lineWidth = 1;
+      ctx.stroke();
     });
 
     walletList.forEach((wallet) => {
@@ -311,6 +332,9 @@ function renderGraph() {
     ctx.textAlign = "center";
     ctx.textBaseline = "middle";
     ctx.fillText("$LIVES", center.x, center.y);
+    ctx.fillStyle = "rgba(244, 244, 245, 0.62)";
+    ctx.font = "11px SFMono-Regular, Consolas, monospace";
+    ctx.fillText("click pink tx points", center.x, center.y + 48);
     ctx.textAlign = "start";
     ctx.textBaseline = "alphabetic";
 
