@@ -8,6 +8,7 @@ const SOLANA_RPC_ENDPOINTS = [
   "https://api.mainnet-beta.solana.com",
 ].filter(Boolean);
 const OUTFILE = "data/transactions.json";
+const TARGET_TRANSACTION_COUNT = 20;
 
 let rpcId = 1;
 
@@ -193,7 +194,7 @@ async function loadFromRpc(error) {
   const supply = await rpc("getTokenSupply", [TOKEN_MINT, { commitment: "confirmed" }]);
   const signatures = await rpc("getSignaturesForAddress", [
     TOKEN_MINT,
-    { limit: 20, commitment: "confirmed" },
+    { limit: TARGET_TRANSACTION_COUNT, commitment: "confirmed" },
   ]);
 
   const transactions = [];
@@ -208,9 +209,26 @@ async function loadFromRpc(error) {
         },
       ]);
       const row = tx ? summarizeRpcTransaction(tx, item.signature) : null;
-      if (row) transactions.push(row);
+      transactions.push(row || {
+        signature: item.signature,
+        type: item.err ? "Failed transaction" : "Transaction",
+        amountText: "--",
+        from: "",
+        to: "",
+        blockTime: item.blockTime,
+        slot: item.slot,
+      });
     } catch (transactionError) {
       console.warn(`Skipping ${item.signature}: ${transactionError.message}`);
+      transactions.push({
+        signature: item.signature,
+        type: item.err ? "Failed transaction" : "Transaction",
+        amountText: "--",
+        from: "",
+        to: "",
+        blockTime: item.blockTime,
+        slot: item.slot,
+      });
     }
     await sleep(350);
   }
