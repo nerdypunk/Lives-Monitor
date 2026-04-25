@@ -1,7 +1,7 @@
 {
   "source": "Infinita City Times",
   "feed": "https://www.infinitacitytimes.com/feed",
-  "updatedAt": "2026-04-25T18:00:00.000Z",
+  "updatedAt": "2026-04-25T18:22:43.397Z",
   "items": [
     {
       "title": "Infinita Newsletter: April '26",
@@ -13,7 +13,7 @@
       "title": "Ep. 107: Sid Sijbrandij On Beating Cancer with First Principles, n = 1 Personalized Treatments and Special Access Regulatory Pathways",
       "link": "https://www.infinitacitytimes.com/p/ep-107-sid-sijbrandij-on-beating",
       "date": "Fri, 10 Apr 2026 16:28:46 GMT",
-      "summary": "He Got Cancer... So He Built His Own Treatment"
+      "summary": "He Got Cancer… So He Built His Own Treatment"
     },
     {
       "title": "The World is Ready for Liberty Acceleration",
@@ -32,6 +32,36 @@
       "link": "https://www.infinitacitytimes.com/p/the-essential-tim-urban-8-key-reads",
       "date": "Mon, 09 Mar 2026 17:30:36 GMT",
       "summary": "A primer ahead of Tim's visit to Prospera"
+    },
+    {
+      "title": "Ep. 105: Andrew Hessel: Programming DNA and Engineering the Future of Life",
+      "link": "https://www.infinitacitytimes.com/p/ep-105-andrew-hessel-programming",
+      "date": "Fri, 20 Feb 2026 19:31:21 GMT",
+      "summary": "Andrew Hessel is a synthetic biology pioneer working on the idea that DNA is digital code — and biology is becoming programmable."
+    },
+    {
+      "title": "Ep. 104: Ruxandra Teslo: Clinical Trials, Drug Innovation, and the Bottleneck to Biotech Abundance",
+      "link": "https://www.infinitacitytimes.com/p/ep-104-ruxandra-teslo-clinical-trials",
+      "date": "Fri, 20 Feb 2026 19:22:33 GMT",
+      "summary": "Ruxandra Teslo is a genomics PhD and biotech writer focused on how clinical trials shape the speed of medical innovation."
+    },
+    {
+      "title": "Prediction Markets Live in Infinita City",
+      "link": "https://www.infinitacitytimes.com/p/prediction-markets-live-in-infinita",
+      "date": "Wed, 18 Feb 2026 15:27:46 GMT",
+      "summary": "Start betting on Prospera and Infinita-relevant outcomes"
+    },
+    {
+      "title": "Latam is Ready for lib/acc",
+      "link": "https://www.infinitacitytimes.com/p/latam-is-ready-for-libacc",
+      "date": "Tue, 10 Feb 2026 16:31:00 GMT",
+      "summary": "Enter the Liberty & Acceleration Zones Summit 2026 (March 26-27)"
+    },
+    {
+      "title": "The Infinite Games 2026 Have Begun",
+      "link": "https://www.infinitacitytimes.com/p/the-infinite-games-2026-have-begun",
+      "date": "Thu, 05 Feb 2026 14:07:53 GMT",
+      "summary": "On Feb 3, 2026 we opened for the Infinite Games 2026 - a 2-month long popup event."
     }
   ]
 }
