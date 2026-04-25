@@ -1,6 +1,6 @@
 {
   "source": "GDELT DOC 2.0",
-  "updatedAt": null,
+  "updatedAt": "2026-04-25T19:18:09.240Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -9,6 +9,7 @@
         "(\"open science\" OR \"science funding\" OR \"citizen science\" OR \"research funding\") sourcelang:english",
         "(science OR research OR \"scientific research\") sourcelang:english"
       ],
+      "error": "fetch failed",
       "articles": []
     },
     {
@@ -18,7 +19,68 @@
         "(longevity OR \"life extension\" OR \"anti aging\" OR \"healthy aging\" OR \"aging research\") sourcelang:english",
         "(\"aging\" OR \"age-related\" OR \"lifespan\" OR \"healthspan\") sourcelang:english"
       ],
-      "articles": []
+      "articles": [
+        {
+          "title": "Buick Roadmaster : GM Underrated Land Yacht with Corvette Engine",
+          "url": "https://www.topspeed.com/buick-sedan-gm-best-kept-secrets/",
+          "domain": "topspeed.com",
+          "date": "20260425T184500Z"
+        },
+        {
+          "title": "The Role of Vases in Modern Headstone Design and Memorials",
+          "url": "https://www.fingerlakes1.com/2026/04/25/the-role-of-vases-in-modern-headstone-design-and-memorials/",
+          "domain": "fingerlakes1.com",
+          "date": "20260425T184500Z"
+        },
+        {
+          "title": "Green flowers are growing more popular : Here are some to check out",
+          "url": "https://www.dailynews.com/2026/04/25/green-flowers-are-growing-more-popular-here-are-some-to-check-out/",
+          "domain": "dailynews.com",
+          "date": "20260425T184500Z"
+        },
+        {
+          "title": "Hezbollah Says Ceasefire Meaningles as Fighting Continues in South",
+          "url": "https://www.algemeiner.com/2026/04/25/hezbollah-says-ceasefire-meaningless-as-fighting-continues-in-south/",
+          "domain": "algemeiner.com",
+          "date": "20260425T183000Z"
+        },
+        {
+          "title": "10 Perfect Medical Dramas To Watch After The Pitt",
+          "url": "https://collider.com/medical-dramas-like-the-pitt-hbo-max/",
+          "domain": "collider.com",
+          "date": "20260425T183000Z"
+        },
+        {
+          "title": "What are peptides ? FDA may ease restrictions on unproven health fad",
+          "url": "https://www.fox10phoenix.com/news/what-peptides-fda-may-ease-restrictions-unproven-health-fad",
+          "domain": "fox10phoenix.com",
+          "date": "20260425T181500Z"
+        },
+        {
+          "title": "5 3D Printing Mistakes Every Beginner Will Want To Avoid",
+          "url": "https://www.slashgear.com/2152535/3d-printing-mistakes-beginners-should-avoid/",
+          "domain": "slashgear.com",
+          "date": "20260425T181500Z"
+        },
+        {
+          "title": "What are peptides ? FDA may ease restrictions on unproven health fad",
+          "url": "https://www.fox13news.com/news/what-peptides-fda-may-ease-restrictions-unproven-health-fad",
+          "domain": "fox13news.com",
+          "date": "20260425T180000Z"
+        },
+        {
+          "title": "Silver Economy : Brazilian Senior Citizens Generate US$ 400 Billion Every Year",
+          "url": "https://www.brazzil.com/silver-economy-brazilian-senior-citizens-generate-us-400-billion-every-year/",
+          "domain": "brazzil.com",
+          "date": "20260425T180000Z"
+        },
+        {
+          "title": "Plentisoft : Beyond the Domain : The Domain Name Company Launches Global Venture Program to Help Build Startups from the Ground Up",
+          "url": "https://www.finanznachrichten.de/nachrichten-2026-04/68302372-plentisoft-beyond-the-domain-the-domain-name-company-launches-global-ventures-program-to-help-build-startups-from-the-ground-up-296.htm",
+          "domain": "finanznachrichten.de",
+          "date": "20260425T173000Z"
+        }
+      ]
     },
     {
       "name": "Biotech",
@@ -27,6 +89,7 @@
         "(biotechnology OR biotech OR CRISPR OR \"gene editing\" OR \"cell therapy\") sourcelang:english",
         "(\"drug discovery\" OR genomics OR biomanufacturing OR \"clinical trial\") sourcelang:english"
       ],
+      "error": "fetch failed",
       "articles": []
     },
     {
@@ -36,6 +99,7 @@
         "(cryptocurrency OR blockchain OR bitcoin OR ethereum OR Solana OR stablecoin) sourcelang:english",
         "(\"digital assets\" OR token OR web3 OR DeFi) sourcelang:english"
       ],
+      "error": "fetch failed",
       "articles": []
     }
   ]
