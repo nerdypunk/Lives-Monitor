@@ -18,6 +18,8 @@ This avoids browser CORS failures and keeps visitors from needing to enter a key
 
 To save all historical token transactions, run the workflow manually and set `full_history` to `true`. Scheduled runs keep the saved archive updated by merging the newest transactions.
 
+The same workflow also refreshes `data/infinita-city-times.json` from the Infinita City Times Substack RSS feed.
+
 The data updater tries Solscan first:
 
 - `GET https://pro-api.solscan.io/v2.0/token/meta`

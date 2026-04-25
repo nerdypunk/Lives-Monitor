@@ -38,15 +38,17 @@ jobs:
         run: |
           set -euo pipefail
           node scripts/update-data.mjs
+          node scripts/update-substack.mjs
           echo "Generated data file:"
           wc -c data/transactions.json
+          wc -c data/infinita-city-times.json
           head -40 data/transactions.json
       - name: Commit updated data
         run: |
           set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/transactions.json
+          git add data/transactions.json data/infinita-city-times.json
           if git diff --cached --quiet; then
             echo "No transaction data changes to commit."
           else

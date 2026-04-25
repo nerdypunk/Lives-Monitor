@@ -57,7 +57,7 @@
         </label>
         <button id="refreshButton" type="button">
           <span aria-hidden="true">R</span>
-          Refresh
+          Refresh all
         </button>
         <button id="prevButton" type="button">Prev</button>
         <button id="nextButton" type="button">Next</button>
@@ -65,24 +65,69 @@
 
       <section class="notice" id="notice" hidden></section>
 
-      <section class="table-wrap" aria-label="Recent token transactions">
-        <table>
-          <thead>
-            <tr>
-              <th scope="col">Time</th>
-              <th scope="col">Type</th>
-              <th scope="col">Amount</th>
-              <th scope="col">From</th>
-              <th scope="col">To</th>
-              <th scope="col">Signature</th>
-            </tr>
-          </thead>
-          <tbody id="transactionsBody">
-            <tr>
-              <td colspan="6" class="empty">Loading transactions...</td>
-            </tr>
-          </tbody>
-        </table>
+      <section class="monitor-grid" aria-label="Situation monitor">
+        <article class="panel transaction-panel">
+          <div class="panel-head">
+            <div>
+              <p class="panel-kicker">TOKEN FLOW</p>
+              <h2>Recent $LIVES Transactions</h2>
+            </div>
+          </div>
+          <div class="table-wrap" aria-label="Recent token transactions">
+            <table>
+              <thead>
+                <tr>
+                  <th scope="col">Time</th>
+                  <th scope="col">Type</th>
+                  <th scope="col">Amount</th>
+                  <th scope="col">From</th>
+                  <th scope="col">To</th>
+                  <th scope="col">Signature</th>
+                </tr>
+              </thead>
+              <tbody id="transactionsBody">
+                <tr>
+                  <td colspan="6" class="empty">Loading transactions...</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </article>
+
+        <aside class="panel news-panel" aria-label="Real-time news monitor">
+          <div class="panel-head">
+            <div>
+              <p class="panel-kicker">GDELT DOC 2.0</p>
+              <h2>Signal Feeds</h2>
+            </div>
+            <div class="news-updated">
+              <span>Last updated</span>
+              <strong id="newsUpdatedValue">--</strong>
+            </div>
+          </div>
+          <div class="news-grid" id="newsFeeds">
+            <section class="feed-card substack-card">
+              <h3>Infinita City Times Latest</h3>
+              <div class="feed-state">Loading...</div>
+            </section>
+            <section class="feed-card">
+              <h3>DeSci</h3>
+              <div class="feed-state">Loading...</div>
+            </section>
+            <section class="feed-card">
+              <h3>Longevity</h3>
+              <div class="feed-state">Loading...</div>
+            </section>
+            <section class="feed-card">
+              <h3>Biotech</h3>
+              <div class="feed-state">Loading...</div>
+            </section>
+            <section class="feed-card">
+              <h3>Crypto</h3>
+              <div class="feed-state">Loading...</div>
+            </section>
+          </div>
+        </aside>
       </section>
     </main>
 
