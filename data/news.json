@@ -1,6 +1,6 @@
 {
   "source": "GDELT DOC 2.0",
-  "updatedAt": "2026-04-25T19:18:09.240Z",
+  "updatedAt": "2026-04-25T19:30:14.259Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -80,7 +80,8 @@
           "domain": "finanznachrichten.de",
           "date": "20260425T173000Z"
         }
-      ]
+      ],
+      "error": "fetch failed"
     },
     {
       "name": "Biotech",
