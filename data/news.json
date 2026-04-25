@@ -1,10 +1,6 @@
 {
   "source": "GDELT DOC 2.0",
-<<<<<<< Updated upstream
-  "updatedAt": "2026-04-25T18:38:09.577Z",
-=======
-  "updatedAt": null,
->>>>>>> Stashed changes
+  "updatedAt": "2026-04-25T19:10:50.490Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -13,6 +9,7 @@
         "(\"open science\" OR \"science funding\" OR \"citizen science\" OR \"research funding\") sourcelang:english",
         "(science OR research OR \"scientific research\") sourcelang:english"
       ],
+      "error": "fetch failed",
       "articles": []
     },
     {
@@ -22,6 +19,7 @@
         "(longevity OR \"life extension\" OR \"anti aging\" OR \"healthy aging\" OR \"aging research\") sourcelang:english",
         "(\"aging\" OR \"age-related\" OR \"lifespan\" OR \"healthspan\") sourcelang:english"
       ],
+      "error": "fetch failed",
       "articles": []
     },
     {
@@ -31,6 +29,7 @@
         "(biotechnology OR biotech OR CRISPR OR \"gene editing\" OR \"cell therapy\") sourcelang:english",
         "(\"drug discovery\" OR genomics OR biomanufacturing OR \"clinical trial\") sourcelang:english"
       ],
+      "error": "fetch failed",
       "articles": []
     },
     {
@@ -40,6 +39,7 @@
         "(cryptocurrency OR blockchain OR bitcoin OR ethereum OR Solana OR stablecoin) sourcelang:english",
         "(\"digital assets\" OR token OR web3 OR DeFi) sourcelang:english"
       ],
+      "error": "fetch failed",
       "articles": []
     }
   ]
