@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-04-26T08:03:42.717Z",
+  "updatedAt": "2026-04-26T09:15:15.567Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -119,7 +119,7 @@
           "domain": "lifespan.io",
           "date": "2026-04-24T16:03:15.000Z",
           "source": "Lifespan.io",
-          "summary": "A new study has found that partial reprogramming mitigates the damage of myocardial infarction in mice by helping heart muscle cells to complete division [1]. When heart cells get stuck When a heart […]"
+          "summary": "A new study has found that partial reprogramming mitigates the damage of myocardial infarction in mice by helping heart muscle […]"
         },
         {
           "title": "Final patient out in AlzeCure’s study on Alzheimer’s",
@@ -278,6 +278,14 @@
       ],
       "articles": [
         {
+          "title": "Litecoin says 13-block reorg was not a 'zero-day' attack, GitHub commit history shows otherwise",
+          "url": "https://www.coindesk.com/markets/2026/04/26/litecoin-says-its-13-block-reorg-was-not-a-zero-day-but-github-commit-history-shows-otherwise",
+          "domain": "coindesk.com",
+          "date": "2026-04-26T08:34:37.000Z",
+          "source": "CoinDesk",
+          "summary": "Litecoin's foundation called the weekend exploit a zero-day. The litecoin-project GitHub repository shows the consensus vulnerability was privately patched between March 19 and 26, more than four weeks before the attack."
+        },
+        {
           "title": "US DOJ sentences man to 70 months in prison for role in $263M scam group",
           "url": "https://cointelegraph.com/news/doj-sentence-70-months-263m-crypto-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
@@ -348,14 +356,6 @@
           "date": "2026-04-25T16:20:02.000Z",
           "source": "CoinDesk",
           "summary": "Trump is expected to speak at his crypto conference in Palm Beach shortly."
-        },
-        {
-          "title": "Mike Tyson, Tether CEO, Cathie Wood among speakers at Trump's 'most exclusive' crypto conference",
-          "url": "https://www.coindesk.com/policy/2026/04/25/mike-tyson-tether-ceo-cathie-wood-among-speakers-at-trump-s-most-exclusive-crypto-conference",
-          "domain": "coindesk.com",
-          "date": "2026-04-25T15:24:31.000Z",
-          "source": "CoinDesk",
-          "summary": "The event, at which Trump himself is scheduled to speak, gathers top-tier holders of the $TRUMP meme coin."
         }
       ]
     }
