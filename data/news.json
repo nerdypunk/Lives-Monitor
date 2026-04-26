@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-04-26T11:57:20.822Z",
+  "updatedAt": "2026-04-26T13:25:18.701Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -119,7 +119,7 @@
           "domain": "lifespan.io",
           "date": "2026-04-24T16:03:15.000Z",
           "source": "Lifespan.io",
-          "summary": "A new study has found that partial reprogramming mitigates the damage of myocardial infarction in mice by helping heart muscle cells to complete division [1]. When heart cells get stuck When a heart attack (myocardial […]"
+          "summary": "A new study has found that partial reprogramming mitigates the damage of myocardial infarction in mice by helping heart muscle cells to complete […]"
         },
         {
           "title": "Final patient out in AlzeCure’s study on Alzheimer’s",
@@ -278,6 +278,30 @@
       ],
       "articles": [
         {
+          "title": "MiCA's not enough: Bybit CEO says firms need other licenses to turn a profit in Europe",
+          "url": "https://www.coindesk.com/policy/2026/04/26/mica-s-not-enough-bybit-ceo-says-firms-need-other-licenses-to-turn-a-profit-in-europe",
+          "domain": "coindesk.com",
+          "date": "2026-04-26T13:00:00.000Z",
+          "source": "CoinDesk",
+          "summary": "In an interview, Ben Zhou said the crypto exchange is at least two years away from breaking even in Europe."
+        },
+        {
+          "title": "Coinbase's John D’Agostino says crypto platform stands alone as industry's full-service prime broker",
+          "url": "https://www.coindesk.com/business/2026/04/21/coinbase-s-john-d-agostino-says-exchange-stands-alone-as-crypto-s-full-service-prime-broker",
+          "domain": "coindesk.com",
+          "date": "2026-04-26T12:00:00.000Z",
+          "source": "CoinDesk",
+          "summary": "The exchange’s institutional arm has quietly assembled trading, custody, financing, derivatives and cross margining into a single stack, something its rivals still piece together."
+        },
+        {
+          "title": "Ethereum Foundation unstakes 17K ETH after nearing 70K staked ETH milestone",
+          "url": "https://cointelegraph.com/news/ethereum-foundation-unstakes-17k-eth-after-nearing-70k-staked-eth-milestone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-04-26T11:55:32.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The Ethereum Foundation unstaked over 17,000 ETH worth $40M shortly after approaching its 70,000 ETH staking target."
+        },
+        {
           "title": "Trump’s official memecoin extends slide as he hosts exclusive investor gala",
           "url": "https://cointelegraph.com/news/trump-s-official-memecoin-extends-slide-even-as-he-hosts-exclusive-investor-gala?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
@@ -332,30 +356,6 @@
           "date": "2026-04-25T18:53:48.000Z",
           "source": "CoinDesk",
           "summary": "President Donald Trump, at a Mar-a-Lago gathering of investors in his self-branded memecoin, said crypto is mainstream and banks should back off the industry's bill."
-        },
-        {
-          "title": "BlackRock’s bitcoin ETF just hit a massive milestone that proves crypto is now a mainstream bet",
-          "url": "https://www.coindesk.com/markets/2026/04/25/blackrock-s-bitcoin-etf-just-hit-a-massive-milestone-that-proves-crypto-is-now-a-mainstream-bet",
-          "domain": "coindesk.com",
-          "date": "2026-04-25T18:29:20.000Z",
-          "source": "CoinDesk",
-          "summary": "IBIT options open interest topped Deribit on Friday, signaling rapid institutional adoption of regulated crypto derivatives in the U.S."
-        },
-        {
-          "title": "CFTC sues New York over prediction market crackdown as 38 AGs back Massachusetts’ Kalshi case",
-          "url": "https://www.theblock.co/post/398886/cftc-sues-new-york-over-prediction-market-crackdown-as-38-ags-back-massachusetts-kalshi-case?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-04-25T17:42:59.000Z",
-          "source": "The Block",
-          "summary": "The dueling actions mark the fourth state the CFTC has sued in three weeks and come three days after New York's AG sued Coinbase and Gemini."
-        },
-        {
-          "title": "How Anthropic’s Mythos model is forcing the crypto industry to rethink everything about security",
-          "url": "https://www.coindesk.com/tech/2026/04/25/how-anthropic-s-mythos-model-is-forcing-the-crypto-industry-to-rethink-everything-about-security",
-          "domain": "coindesk.com",
-          "date": "2026-04-25T17:00:00.000Z",
-          "source": "CoinDesk",
-          "summary": "DeFi leaders say that AI will arm both attackers and defenders, and widen the gap between projects that prioritize security and those that do not."
         }
       ]
     }
