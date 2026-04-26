@@ -56,47 +56,29 @@
             <path d="M540 34V196" />
             <path d="M680 34V196" />
           </g>
-          <path class="map-route" d="M76 164C196 120 303 72 421 72C535 74 616 54 694 35" />
           <g class="islands">
             <path class="island island-muted" d="M48 166l22-8 38 3 9 9-20 10-31 3-18-6z" />
             <path class="island island-roatan" d="M162 128l34-29 63-31 76-19 78-16 68 8 58 14-65 16-64 10-48 20-61 14-62 2-43 17-43 27-14-4z" />
             <path class="island island-muted" d="M610 56l24-35 52-9 28 14-17 30-45 18-35-3z" />
           </g>
+          <g class="signal-routes">
+            <path class="map-route route-west" d="M80 162C156 128 224 96 338 58" />
+            <path class="map-route route-north" d="M330 10C336 28 339 41 342 58" />
+            <path class="map-route route-south" d="M338 198C344 156 345 104 342 58" />
+            <path class="map-route route-northwest" d="M170 26C232 42 286 49 342 58" />
+          </g>
           <g class="map-pings" filter="url(#mapGlow)">
-            <circle class="ping ping-main" cx="342" cy="68" r="8" />
-            <circle class="ping-ring" cx="342" cy="68" r="22" />
+            <circle class="ping ping-main" cx="342" cy="58" r="8" />
+            <circle class="ping-ring" cx="342" cy="58" r="22" />
             <circle class="ping" cx="86" cy="170" r="4" />
             <circle class="ping" cx="666" cy="42" r="4" />
           </g>
           <g class="map-labels">
-            <text x="342" y="34">INFINITA CITY</text>
+            <text x="342" y="24">INFINITA CITY</text>
             <text x="76" y="154">UTILA</text>
             <text x="650" y="88">GUANAJA</text>
           </g>
         </svg>
-      </section>
-
-      <section class="metrics" aria-label="Token metrics">
-        <article class="metric">
-          <span>Token</span>
-          <strong id="tokenNameValue">--</strong>
-        </article>
-        <article class="metric">
-          <span>Supply</span>
-          <strong id="supplyValue">--</strong>
-        </article>
-        <article class="metric hot">
-          <span>Last 24h</span>
-          <strong id="dailyValue">--</strong>
-        </article>
-        <article class="metric">
-          <span>Cached rows</span>
-          <strong id="loadedValue">0</strong>
-        </article>
-        <article class="metric">
-          <span>Last updated</span>
-          <strong id="updatedValue">--</strong>
-        </article>
       </section>
 
       <nav class="section-tabs" aria-label="Monitor sections">
@@ -144,6 +126,11 @@
             <div>
               <p class="panel-kicker">TOKEN FLOW</p>
               <h2>Recent $LIVES Transactions</h2>
+            </div>
+            <div class="panel-meta transaction-meta">
+              <span>Last updated</span>
+              <strong id="updatedValue">--</strong>
+              <em><span id="loadedValue">0</span> cached rows</em>
             </div>
           </div>
           <div class="table-wrap" aria-label="Recent token transactions">
