@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-04-26T13:25:18.701Z",
+  "updatedAt": "2026-04-26T14:23:58.444Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -119,7 +119,7 @@
           "domain": "lifespan.io",
           "date": "2026-04-24T16:03:15.000Z",
           "source": "Lifespan.io",
-          "summary": "A new study has found that partial reprogramming mitigates the damage of myocardial infarction in mice by helping heart muscle cells to complete […]"
+          "summary": "A new study has found that partial reprogramming mitigates the damage of myocardial infarction in mice by helping heart muscle cells to complete division [1]. When heart cells get stuck […]"
         },
         {
           "title": "Final patient out in AlzeCure’s study on Alzheimer’s",
@@ -278,6 +278,30 @@
       ],
       "articles": [
         {
+          "title": "Bitcoin whales build long positions as funding stays deeply negative",
+          "url": "https://www.coindesk.com/markets/2026/04/26/bitcoin-whales-build-long-positions-as-funding-stays-deeply-negative",
+          "domain": "coindesk.com",
+          "date": "2026-04-26T14:13:42.000Z",
+          "source": "CoinDesk",
+          "summary": "Long bias from the largest perpetual traders on Hyperliquid has built steadily through February, March and April, with the position now leaning aggressively long as bitcoin tags $80,000 and US-Iran talks resume."
+        },
+        {
+          "title": "Freezing 5.6 million dormant bitcoin could trigger ‘worst’ single-day repricing",
+          "url": "https://www.coindesk.com/business/2026/04/26/freezing-5-6-million-dormant-bitcoin-could-trigger-worst-single-day-repricing",
+          "domain": "coindesk.com",
+          "date": "2026-04-26T14:00:00.000Z",
+          "source": "CoinDesk",
+          "summary": "Maximalists warn freezing 5.6M BTC risks instant sell-offs, while others say quantum threats leave no alternative."
+        },
+        {
+          "title": "Only 3% of traders drive prediction markets' accuracy, not the crowd, study finds",
+          "url": "https://www.coindesk.com/markets/2026/04/26/only-3-of-traders-drive-prediction-markets-accuracy-not-the-crowd-study-finds",
+          "domain": "coindesk.com",
+          "date": "2026-04-26T13:47:50.000Z",
+          "source": "CoinDesk",
+          "summary": "Researchers show market accuracy comes from a tiny group of informed traders, not broad participation."
+        },
+        {
           "title": "MiCA's not enough: Bybit CEO says firms need other licenses to turn a profit in Europe",
           "url": "https://www.coindesk.com/policy/2026/04/26/mica-s-not-enough-bybit-ceo-says-firms-need-other-licenses-to-turn-a-profit-in-europe",
           "domain": "coindesk.com",
@@ -332,30 +356,6 @@
           "date": "2026-04-25T20:51:39.000Z",
           "source": "The Block",
           "summary": "Attackers used the more than three-hour fork window to attempt double-spends against cross-chain swap protocols."
-        },
-        {
-          "title": "Bitcoiners cast doubt on the US military's understanding of the network",
-          "url": "https://cointelegraph.com/news/bitcoiners-cast-doubt-us-military-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-04-25T19:36:29.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Bitcoin advocate Matthew Kratter said US Navy Admiral Samuel Paparo's Senate testimony on Tuesday sounded like it was written by an \"intern.\""
-        },
-        {
-          "title": "Crypto is built for AI agents, not humans, says Alchemy's CEO",
-          "url": "https://www.coindesk.com/tech/2026/04/25/crypto-is-built-for-ai-agents-not-humans-says-alchemy-s-ceo",
-          "domain": "coindesk.com",
-          "date": "2026-04-25T19:00:00.000Z",
-          "source": "CoinDesk",
-          "summary": "Alchemy CEO Nikil Viswanathan argues the global financial system was designed for humans, but the next wave of commerce will be driven by AI agents that operate natively in crypto."
-        },
-        {
-          "title": "Trump defends crypto legislation at private event featuring boxer Mike Tyson, Tether CEO",
-          "url": "https://www.coindesk.com/policy/2026/04/25/trump-defends-crypto-legislation-at-private-event-featuring-boxer-mike-tyson-tether-ceo",
-          "domain": "coindesk.com",
-          "date": "2026-04-25T18:53:48.000Z",
-          "source": "CoinDesk",
-          "summary": "President Donald Trump, at a Mar-a-Lago gathering of investors in his self-branded memecoin, said crypto is mainstream and banks should back off the industry's bill."
         }
       ]
     }
