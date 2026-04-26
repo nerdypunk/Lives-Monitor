@@ -301,7 +301,7 @@ h1 {
 
 .section-tabs {
   display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
+  grid-template-columns: repeat(5, minmax(0, 1fr));
   gap: 10px;
   margin: 0 0 18px;
   padding: 8px;
@@ -341,6 +341,11 @@ h1 {
 }
 
 .section-tabs a:nth-child(4) {
+  border-color: rgba(255, 25, 146, 0.3);
+  color: var(--pink);
+}
+
+.section-tabs a:nth-child(5) {
   border-color: rgba(255, 25, 146, 0.3);
   color: var(--pink);
 }
@@ -441,6 +446,19 @@ h1 {
   font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
   font-size: 0.68rem;
   font-style: normal;
+}
+
+.panel-link {
+  align-self: flex-start;
+  color: var(--gold);
+  font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+  font-size: 0.72rem;
+  font-weight: 850;
+  text-decoration: none;
+}
+
+.panel-link:hover {
+  color: var(--pink);
 }
 
 .panel-kicker {
@@ -574,6 +592,25 @@ h2 {
   max-height: 100%;
   overflow: auto;
   padding-right: 10px;
+}
+
+.twitter-panel {
+  grid-column: 1 / -1;
+  overflow: hidden;
+}
+
+.twitter-frame {
+  height: 390px;
+  overflow: auto;
+  padding: 14px 18px 18px;
+  background: #090909;
+}
+
+.twitter-frame .twitter-timeline {
+  color: var(--gold);
+  font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+  font-size: 0.84rem;
+  font-weight: 850;
 }
 
 table {

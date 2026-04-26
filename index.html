@@ -6,6 +6,8 @@
     <title>$LIVES Situation Monitor</title>
     <meta name="description" content="$LIVES Situation Monitor for recent Solana token activity.">
     <link rel="preconnect" href="https://pro-api.solscan.io">
+    <link rel="preconnect" href="https://platform.twitter.com">
+    <link rel="preconnect" href="https://syndication.twitter.com">
     <link rel="stylesheet" href="styles.css">
   </head>
   <body>
@@ -85,6 +87,7 @@
         <a href="#graphPanel" data-target="graphPanel">Flow Graph</a>
         <a href="#transactionsPanel" data-target="transactionsPanel">Transactions</a>
         <a href="#infinitaPanel" data-target="infinitaPanel">Infinita City Times</a>
+        <a href="#socialPanel" data-target="socialPanel">Infinita X</a>
         <a href="#newsPanel" data-target="newsPanel">News Feed</a>
       </nav>
 
@@ -120,6 +123,26 @@
             <div class="feed-state">Loading...</div>
           </div>
         </article>
+
+        <aside class="panel twitter-panel glow-target" id="socialPanel" aria-label="Infinita City social timeline">
+          <div class="panel-head">
+            <div>
+              <p class="panel-kicker">INFINITA SOCIAL</p>
+              <h2>Infinita City Timeline</h2>
+            </div>
+            <a class="panel-link" href="https://twitter.com/infinitacity" target="_blank" rel="noreferrer">Open X</a>
+          </div>
+          <div class="twitter-frame">
+            <a
+              class="twitter-timeline"
+              data-height="360"
+              data-theme="dark"
+              data-dnt="true"
+              data-chrome="noheader nofooter noborders transparent"
+              href="https://twitter.com/infinitacity?ref_src=twsrc%5Etfw"
+            >Tweets by infinitacity</a>
+          </div>
+        </aside>
 
         <article class="panel transaction-panel glow-target" id="transactionsPanel">
           <div class="panel-head">
@@ -187,6 +210,7 @@
       </section>
     </main>
 
+    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     <script src="app.js"></script>
   </body>
 </html>
