@@ -6,8 +6,6 @@
     <title>$LIVES Situation Monitor</title>
     <meta name="description" content="$LIVES Situation Monitor for recent Solana token activity.">
     <link rel="preconnect" href="https://pro-api.solscan.io">
-    <link rel="preconnect" href="https://platform.twitter.com">
-    <link rel="preconnect" href="https://syndication.twitter.com">
     <link rel="stylesheet" href="styles.css">
   </head>
   <body>
@@ -87,7 +85,6 @@
         <a href="#graphPanel" data-target="graphPanel">Flow Graph</a>
         <a href="#transactionsPanel" data-target="transactionsPanel">Transactions</a>
         <a href="#infinitaPanel" data-target="infinitaPanel">Infinita City Times</a>
-        <a href="#socialPanel" data-target="socialPanel">Infinita X</a>
         <a href="#newsPanel" data-target="newsPanel">News Feed</a>
       </nav>
 
@@ -123,26 +120,6 @@
             <div class="feed-state">Loading...</div>
           </div>
         </article>
-
-        <aside class="panel twitter-panel glow-target" id="socialPanel" aria-label="Infinita City social timeline">
-          <div class="panel-head">
-            <div>
-              <p class="panel-kicker">INFINITA SOCIAL</p>
-              <h2>Infinita City Timeline</h2>
-            </div>
-            <a class="panel-link" href="https://twitter.com/infinitacity" target="_blank" rel="noreferrer">Open X</a>
-          </div>
-          <div class="twitter-frame">
-            <a
-              class="twitter-timeline"
-              data-height="360"
-              data-theme="dark"
-              data-dnt="true"
-              data-chrome="noheader nofooter noborders transparent"
-              href="https://twitter.com/infinitacity?ref_src=twsrc%5Etfw"
-            >Tweets by infinitacity</a>
-          </div>
-        </aside>
 
         <article class="panel transaction-panel glow-target" id="transactionsPanel">
           <div class="panel-head">
@@ -207,10 +184,68 @@
             </section>
           </div>
         </aside>
+
+        <aside class="panel intel-panel narrative-panel glow-target" id="narrativePanel" aria-label="Narrative pulse">
+          <div class="panel-head">
+            <div>
+              <p class="panel-kicker">DERIVED SIGNALS</p>
+              <h2>Narrative Pulse</h2>
+            </div>
+            <span class="priority-mark">Auto scan</span>
+          </div>
+          <div class="intel-body" id="narrativePulse">
+            <div class="feed-state">Loading signal pulse...</div>
+          </div>
+        </aside>
+
+        <aside class="panel intel-panel heatmap-panel glow-target" id="heatmapPanel" aria-label="Signal heatmap">
+          <div class="panel-head">
+            <div>
+              <p class="panel-kicker">DENSITY MAP</p>
+              <h2>Signal Heatmap</h2>
+            </div>
+            <span class="priority-mark">Cache window</span>
+          </div>
+          <div class="intel-body" id="signalHeatmap">
+            <div class="feed-state">Loading heatmap...</div>
+          </div>
+        </aside>
+
+        <aside class="panel closing-panel timeline-panel glow-target" id="timelinePanel" aria-label="Signal timeline">
+          <div class="panel-head">
+            <div>
+              <p class="panel-kicker">CHRONO STREAM</p>
+              <h2>Signal Timeline</h2>
+            </div>
+            <span class="priority-mark">Merged cache</span>
+          </div>
+          <div class="closing-body" id="signalTimeline">
+            <div class="feed-state">Loading signal timeline...</div>
+          </div>
+        </aside>
+
+        <aside class="panel closing-panel briefing-panel glow-target" id="briefingPanel" aria-label="Command briefing">
+          <div class="panel-head">
+            <div>
+              <p class="panel-kicker">COMMAND LAYER</p>
+              <h2>Command Briefing</h2>
+            </div>
+            <span class="priority-mark">Decision view</span>
+          </div>
+          <div class="closing-body" id="commandBriefing">
+            <div class="feed-state">Loading command briefing...</div>
+          </div>
+        </aside>
       </section>
+
+      <footer class="site-footer">
+        <a href="https://www.infinita.city" target="_blank" rel="noreferrer">
+          <strong>The City That Never Dies</strong>
+          <span>Infinita is a network city where founders build towards longevity through biotech, computation, and science, first hub based in Próspera, Roatán.</span>
+        </a>
+      </footer>
     </main>
 
-    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-    <script src="app.js"></script>
+    <script src="app.js?v=20260426-2"></script>
   </body>
 </html>

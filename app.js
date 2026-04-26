@@ -5,6 +5,28 @@ const NEWS_DATA_URL = "data/news.json";
 const SOLSCAN_TX = "https://solscan.io/tx/";
 const SOLSCAN_TOKEN = "https://solscan.io/token/";
 const NEWS_FEED_NAMES = ["DeSci", "Longevity", "Biotech", "Crypto"];
+const FEED_ACCENTS = {
+  DeSci: "255, 216, 61",
+  Longevity: "255, 159, 28",
+  Biotech: "255, 107, 26",
+  Crypto: "255, 25, 146",
+};
+const PULSE_KEYWORDS = [
+  { label: "DeSci", terms: ["desci", "decentralized science", "bio protocol"] },
+  { label: "Longevity", terms: ["longevity", "aging", "ageing", "lifespan", "rejuvenation"] },
+  { label: "Biotech", terms: ["biotech", "biology", "gene", "clinical", "cells", "peptides"] },
+  { label: "AI", terms: ["ai", "artificial intelligence", "agents", "model"] },
+  { label: "Funding", terms: ["funding", "raises", "venture", "series", "investment", "startup"] },
+  { label: "Crypto", terms: ["crypto", "bitcoin", "token", "protocol", "web3"] },
+];
+const HEATMAP_SIGNALS = [
+  { label: "AI", terms: ["ai", "artificial intelligence", "agents", "model"] },
+  { label: "Funding", terms: ["funding", "raises", "venture", "series", "investment", "startup"] },
+  { label: "Research", terms: ["research", "study", "trial", "paper", "clinical", "arxiv", "nature"] },
+  { label: "Longevity", terms: ["longevity", "aging", "ageing", "lifespan", "reprogramming", "peptide"] },
+  { label: "Market", terms: ["crypto", "bitcoin", "token", "surge", "price", "protocol"] },
+];
+const HOUR = 60 * 60 * 1000;
 const SUBSTACK_FALLBACK = {
   source: "Bundled fallback",
   items: [
@@ -40,9 +62,15 @@ const elements = {
   news: document.querySelector("#newsFeeds"),
   infinita: document.querySelector("#infinitaFeed"),
   newsUpdated: document.querySelector("#newsUpdatedValue"),
+  narrative: document.querySelector("#narrativePulse"),
+  heatmap: document.querySelector("#signalHeatmap"),
+  timeline: document.querySelector("#signalTimeline"),
+  briefing: document.querySelector("#commandBriefing"),
 };
 
 let allRows = [];
+let latestNewsPayload = null;
+let latestSubstackPayload = null;
 let graphAnimation;
 let graphHits = [];
 
@@ -67,6 +95,26 @@ function escapeHtml(value) {
 
 function cleanText(value) {
   return String(value ?? "").replace(/\s+/g, " ").trim();
+}
+
+function escapeRegExp(value) {
+  return String(value).replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+}
+
+function articleText(article) {
+  return cleanText(`${article?.title || ""} ${article?.summary || ""} ${article?.source || ""}`).toLowerCase();
+}
+
+function termAppears(text, term) {
+  const cleanedTerm = String(term).toLowerCase();
+  if (cleanedTerm.length <= 3) {
+    return new RegExp(`\\b${escapeRegExp(cleanedTerm)}\\b`, "i").test(text);
+  }
+  return text.includes(cleanedTerm);
+}
+
+function countSignalHits(text, terms) {
+  return terms.reduce((total, term) => total + (termAppears(text, term) ? 1 : 0), 0);
 }
 
 function shortAddress(value) {
@@ -320,6 +368,23 @@ function renderGraph() {
     ctx.moveTo(center.x - 46, center.y + 40);
     ctx.lineTo(center.x + 62, center.y + 40);
     ctx.stroke();
+    ctx.beginPath();
+    if (ctx.roundRect) {
+      ctx.roundRect(center.x - 64, center.y + 72, 144, 44, 8);
+    } else {
+      ctx.rect(center.x - 64, center.y + 72, 144, 44);
+    }
+    ctx.fillStyle = "rgba(255, 25, 146, 0.14)";
+    ctx.strokeStyle = `rgba(255, 216, 61, ${0.54 + pulse * 0.24})`;
+    ctx.lineWidth = 1.4;
+    ctx.fill();
+    ctx.stroke();
+    ctx.fillStyle = "rgba(255, 216, 61, 0.97)";
+    ctx.font = "900 12px SFMono-Regular, Consolas, monospace";
+    ctx.fillText("CLICK A DOT", center.x + 8, center.y + 88);
+    ctx.fillStyle = "rgba(255, 25, 146, 0.98)";
+    ctx.font = "900 10px SFMono-Regular, Consolas, monospace";
+    ctx.fillText("TO SEE TRANSACTION", center.x + 8, center.y + 104);
     ctx.textAlign = "start";
     ctx.textBaseline = "alphabetic";
 
@@ -365,6 +430,7 @@ async function loadTokenData() {
     renderMeta(payload);
     renderRows();
     renderGraph();
+    renderSignalIntel();
     setStatus("Live", "loading");
 
   } catch (error) {
@@ -384,6 +450,7 @@ function renderNewsLoading() {
       </section>
     `)
     .join("");
+  renderSignalIntel();
 }
 
 function renderInfinitaLoading() {
@@ -458,9 +525,11 @@ async function loadNewsFeeds() {
   const newsCards = newsResult.status === "fulfilled"
     ? renderNewsCache(newsResult.value)
     : `<section class="feed-card feed-card-wide">
-        <h3>News cache unavailable</h3>
+        <h3>News cache needs refresh</h3>
         <div class="feed-state error-text">${escapeHtml(newsResult.reason?.message || "Could not load cached news.")}</div>
       </section>`;
+  latestNewsPayload = newsResult.status === "fulfilled" ? newsResult.value : null;
+  latestSubstackPayload = substackResult.status === "fulfilled" ? substackResult.value : null;
 
   elements.infinita.innerHTML = substackResult.status === "fulfilled"
     ? renderSubstackFeed(substackResult.value)
@@ -469,6 +538,7 @@ async function loadNewsFeeds() {
   elements.news.innerHTML = newsCards;
   const updatedAt = newsResult.status === "fulfilled" ? newsResult.value.updatedAt : new Date();
   elements.newsUpdated.textContent = formatAnyDate(updatedAt);
+  renderSignalIntel(newsResult.status === "rejected" ? newsResult.reason?.message : "");
 }
 
 async function fetchNewsCache() {
@@ -478,7 +548,16 @@ async function fetchNewsCache() {
   if (!response.ok) {
     throw new Error(`News cache returned ${response.status}`);
   }
-  return response.json();
+  const text = await response.text();
+  try {
+    return JSON.parse(text);
+  } catch (error) {
+    const hasConflictMarkers = text.includes("<<<<<<<") || text.includes("=======") || text.includes(">>>>>>>");
+    if (hasConflictMarkers) {
+      throw new Error(`News cache has git conflict markers. Regenerate ${NEWS_DATA_URL} with scripts/update-news.mjs, or discard the local generated cache before pulling.`);
+    }
+    throw new Error(`News cache is invalid JSON. Regenerate ${NEWS_DATA_URL} with scripts/update-news.mjs.`);
+  }
 }
 
 function renderNewsCache(payload) {
@@ -489,6 +568,397 @@ function renderNewsCache(payload) {
       return renderFeed(feed, feed.articles || [], feed.error || feed.warning || "");
     })
     .join("");
+}
+
+function newsFeedsFromPayload(payload) {
+  const feeds = payload?.feeds || [];
+  return NEWS_FEED_NAMES.map((name) => {
+    const feed = feeds.find((item) => item.name === name) || { name, articles: [] };
+    return {
+      ...feed,
+      name,
+      articles: feed.articles || [],
+    };
+  });
+}
+
+function articleTimestamp(article) {
+  const parsed = Date.parse(formatNewsDateForSort(article?.seendate || article?.date || article?.pubDate));
+  return Number.isNaN(parsed) ? 0 : parsed;
+}
+
+function eventTimeLabel(time) {
+  if (!time) return "CACHE";
+  return new Intl.DateTimeFormat(undefined, {
+    hour: "numeric",
+    minute: "2-digit",
+  }).format(new Date(time));
+}
+
+function eventDateLabel(time) {
+  if (!time) return "Cache";
+  return new Intl.DateTimeFormat(undefined, {
+    dateStyle: "medium",
+    timeStyle: "short",
+  }).format(new Date(time));
+}
+
+function keywordCounts(articles, groups) {
+  return groups
+    .map((group) => {
+      const count = articles.reduce((total, article) => total + countSignalHits(articleText(article), group.terms), 0);
+      return { ...group, count };
+    })
+    .filter((group) => group.count > 0)
+    .sort((a, b) => b.count - a.count);
+}
+
+function articleSignalLabels(article) {
+  const text = articleText(article);
+  return PULSE_KEYWORDS
+    .filter((group) => countSignalHits(text, group.terms) > 0)
+    .map((group) => group.label);
+}
+
+function crossoverSignals(articles) {
+  const pairs = new Map();
+  articles.forEach((article) => {
+    const labels = [...new Set(articleSignalLabels(article))];
+    labels.forEach((left, leftIndex) => {
+      labels.slice(leftIndex + 1).forEach((right) => {
+        const pair = [left, right].sort().join(" + ");
+        pairs.set(pair, (pairs.get(pair) || 0) + 1);
+      });
+    });
+  });
+  return [...pairs.entries()]
+    .map(([label, count]) => ({ label, count }))
+    .sort((a, b) => b.count - a.count);
+}
+
+function transactionPulseStats() {
+  const rows = allRows.filter((row) => row.blockTime);
+  const newest = rows.reduce((latest, row) => Math.max(latest, row.blockTime * 1000), 0);
+  const cutoff = newest - 24 * HOUR;
+  const recentRows = newest ? rows.filter((row) => row.blockTime * 1000 >= cutoff) : [];
+  const amount = recentRows.reduce((total, row) => {
+    const value = Number(String(row.amountText || "").replace(/,/g, ""));
+    return total + (Number.isFinite(value) ? value : 0);
+  }, 0);
+  return {
+    count: recentRows.length,
+    amount,
+    newest,
+  };
+}
+
+function feedFreshness(feeds, anchorTime) {
+  const cutoff = anchorTime - 72 * HOUR;
+  return feeds
+    .map((feed) => ({
+      name: feed.name,
+      count: feed.articles.filter((article) => articleTimestamp(article) >= cutoff).length,
+      total: feed.articles.length,
+    }))
+    .sort((a, b) => b.count - a.count || b.total - a.total);
+}
+
+function substackItemsFromPayload(payload) {
+  return (payload?.items || []).map((item) => ({
+    ...item,
+    time: Date.parse(item.date) || 0,
+  }));
+}
+
+function buildTimelineEntries(articles, substackItems) {
+  const newsEntries = [...articles]
+    .sort((a, b) => articleTimestamp(b) - articleTimestamp(a))
+    .slice(0, 10)
+    .map((article) => ({
+      type: "RSS",
+      label: article.feed,
+      title: cleanText(article.title) || "Untitled signal",
+      meta: sourceDomain(article),
+      time: articleTimestamp(article),
+      href: article.url,
+    }));
+  const infinitaEntries = substackItems.slice(0, 4).map((item) => ({
+    type: "Infinita",
+    label: "Infinita",
+    title: cleanText(item.title) || "Infinita City Times update",
+    meta: "infinitacitytimes.com",
+    time: item.time,
+    href: item.link,
+  }));
+  const transferEntries = allRows.slice(0, 8).map((row) => ({
+    type: "Transfer",
+    label: "$LIVES",
+    title: `${formatNumber(row.amountText, 2)} $LIVES transfer`,
+    meta: `${shortAddress(row.from)} -> ${shortAddress(row.to)}`,
+    time: row.blockTime ? row.blockTime * 1000 : 0,
+    href: row.signature ? `${SOLSCAN_TX}${row.signature}` : "",
+  }));
+  return [...newsEntries, ...infinitaEntries, ...transferEntries]
+    .filter((entry) => entry.title)
+    .sort((a, b) => b.time - a.time)
+    .slice(0, 14);
+}
+
+function renderSignalIntel(error = "") {
+  const intelTargets = [elements.narrative, elements.heatmap, elements.timeline, elements.briefing].filter(Boolean);
+  if (!intelTargets.length) return;
+
+  if (error) {
+    const message = escapeHtml(error);
+    intelTargets.forEach((target) => {
+      target.innerHTML = `<div class="feed-state error-text">${message}</div>`;
+    });
+    return;
+  }
+
+  if (!latestNewsPayload) {
+    if (elements.narrative) elements.narrative.innerHTML = '<div class="feed-state">Loading signal pulse...</div>';
+    if (elements.heatmap) elements.heatmap.innerHTML = '<div class="feed-state">Loading heatmap...</div>';
+    if (elements.timeline) elements.timeline.innerHTML = '<div class="feed-state">Loading signal timeline...</div>';
+    if (elements.briefing) elements.briefing.innerHTML = '<div class="feed-state">Loading command briefing...</div>';
+    return;
+  }
+
+  const feeds = newsFeedsFromPayload(latestNewsPayload);
+  const articles = feeds.flatMap((feed) => feed.articles.map((article) => ({ ...article, feed: feed.name })));
+  const substackItems = substackItemsFromPayload(latestSubstackPayload);
+  if (!articles.length) {
+    intelTargets.forEach((target) => {
+      target.innerHTML = '<div class="feed-state">No signal articles found.</div>';
+    });
+    return;
+  }
+
+  const anchorTime = Math.max(...articles.map(articleTimestamp), Date.parse(latestNewsPayload.updatedAt) || 0);
+  const hotTerms = keywordCounts(articles, PULSE_KEYWORDS);
+  const crossovers = crossoverSignals(articles);
+  const freshness = feedFreshness(feeds, anchorTime);
+  const txStats = transactionPulseStats();
+  const newestArticle = [...articles].sort((a, b) => articleTimestamp(b) - articleTimestamp(a))[0];
+
+  elements.narrative.innerHTML = renderNarrativePulse({
+    articles,
+    newestArticle,
+    hotTerms,
+    crossovers,
+    freshness,
+    txStats,
+  });
+  elements.heatmap.innerHTML = renderSignalHeatmap(feeds);
+  if (elements.timeline) {
+    elements.timeline.innerHTML = renderSignalTimeline(buildTimelineEntries(articles, substackItems));
+  }
+  if (elements.briefing) {
+    elements.briefing.innerHTML = renderCommandBriefing({
+      articles,
+      newestArticle,
+      hotTerms,
+      crossovers,
+      freshness,
+      txStats,
+      substackItems,
+    });
+  }
+}
+
+function renderNarrativePulse({ articles, newestArticle, hotTerms, crossovers, freshness, txStats }) {
+  const topTerm = hotTerms[0] || { label: "Scanning", count: 0 };
+  const topCrossover = crossovers[0];
+  const topFeed = freshness[0] || { name: "Feeds", count: 0, total: 0 };
+  const txLabel = txStats.count ? `${txStats.count} tx / ${formatNumber(txStats.amount, 2)} $LIVES` : "Waiting for tx cache";
+  const events = [
+    newestArticle && {
+      time: eventTimeLabel(articleTimestamp(newestArticle)),
+      text: `Latest ${newestArticle.feed}: ${cleanText(newestArticle.title)}`,
+    },
+    topTerm.count && {
+      time: "NOW",
+      text: `${topTerm.label} is the loudest term cluster with ${topTerm.count} hits`,
+    },
+    topCrossover && {
+      time: "XOVER",
+      text: `${topCrossover.label} overlap appears in ${topCrossover.count} articles`,
+    },
+    topFeed.total && {
+      time: "72H",
+      text: `${topFeed.name} has ${topFeed.count} fresh items in the cache window`,
+    },
+    txStats.count && {
+      time: eventTimeLabel(txStats.newest),
+      text: `$LIVES flow shows ${txLabel}`,
+    },
+  ].filter(Boolean).slice(0, 5);
+
+  return `
+    <div class="pulse-layout">
+      <div class="pulse-lead">
+        <span class="pulse-label">Top signal</span>
+        <strong>${escapeHtml(topTerm.label)}</strong>
+        <p>${escapeHtml(topTerm.count ? `${topTerm.count} keyword hits across ${articles.length} cached articles.` : "Scanning cached feeds for a dominant narrative.")}</p>
+        <div class="hot-terms" aria-label="Hot terms">
+          ${hotTerms.slice(0, 5).map((term) => `
+            <span>${escapeHtml(term.label)} <b>${escapeHtml(term.count)}</b></span>
+          `).join("") || "<span>No terms yet</span>"}
+        </div>
+      </div>
+      <div class="pulse-stats" aria-label="Pulse stats">
+        <div>
+          <span>Articles</span>
+          <strong>${escapeHtml(articles.length)}</strong>
+        </div>
+        <div>
+          <span>Crossover</span>
+          <strong>${escapeHtml(topCrossover ? topCrossover.label : "Quiet")}</strong>
+        </div>
+        <div>
+          <span>Transfers 24h</span>
+          <strong>${escapeHtml(txStats.count ? String(txStats.count) : "--")}</strong>
+        </div>
+      </div>
+      <ol class="pulse-stream" aria-label="Narrative events">
+        ${events.map((event) => `
+          <li>
+            <span>${escapeHtml(event.time)}</span>
+            <p>${escapeHtml(event.text)}</p>
+          </li>
+        `).join("")}
+      </ol>
+    </div>
+  `;
+}
+
+function renderSignalHeatmap(feeds) {
+  const matrix = HEATMAP_SIGNALS.map((signal) => ({
+    ...signal,
+    cells: feeds.map((feed) => {
+      const count = feed.articles.reduce((total, article) => total + countSignalHits(articleText(article), signal.terms), 0);
+      return { feed: feed.name, count };
+    }),
+  }));
+  const maxCount = Math.max(1, ...matrix.flatMap((row) => row.cells.map((cell) => cell.count)));
+  const peak = matrix
+    .flatMap((row) => row.cells.map((cell) => ({ signal: row.label, ...cell })))
+    .sort((a, b) => b.count - a.count)[0];
+
+  return `
+    <div class="heatmap-summary">
+      <span>Peak</span>
+      <strong>${escapeHtml(peak?.count ? `${peak.feed} / ${peak.signal}` : "Scanning")}</strong>
+      <em>${escapeHtml(peak?.count ? `${peak.count} hits` : "No hits yet")}</em>
+    </div>
+    <div class="heatmap-matrix" role="table" aria-label="Signal heatmap by RSS feed">
+      <div class="heatmap-corner" role="columnheader">Signal</div>
+      ${feeds.map((feed) => `
+        <div class="heatmap-head" role="columnheader" style="--accent-rgb: ${FEED_ACCENTS[feed.name] || FEED_ACCENTS.Crypto};">${escapeHtml(feed.name)}</div>
+      `).join("")}
+      ${matrix.map((row) => `
+        <div class="heatmap-row-label" role="rowheader">${escapeHtml(row.label)}</div>
+        ${row.cells.map((cell) => {
+          const intensity = cell.count / maxCount;
+          const accent = FEED_ACCENTS[cell.feed] || FEED_ACCENTS.Crypto;
+          const fillAlpha = (0.06 + intensity * 0.36).toFixed(2);
+          const borderAlpha = (0.16 + intensity * 0.46).toFixed(2);
+          return `
+            <div
+              class="heatmap-cell"
+              role="cell"
+              style="--heat: ${intensity.toFixed(2)}; --accent-rgb: ${accent}; background: rgba(${accent}, ${fillAlpha}); border-color: rgba(${accent}, ${borderAlpha});"
+            >
+              <strong>${escapeHtml(cell.count)}</strong>
+              <span>hits</span>
+              <i></i>
+            </div>
+          `;
+        }).join("")}
+      `).join("")}
+    </div>
+  `;
+}
+
+function renderSignalTimeline(entries) {
+  if (!entries.length) {
+    return '<div class="feed-state">No timeline entries found.</div>';
+  }
+  return `
+    <div class="timeline-rail" aria-label="Merged signal timeline">
+      ${entries.map((entry, index) => {
+        const content = `
+          <span class="timeline-type">${escapeHtml(entry.label)}</span>
+          <strong>${escapeHtml(entry.title)}</strong>
+          <em>${escapeHtml(eventDateLabel(entry.time))} / ${escapeHtml(entry.meta || entry.type)}</em>
+        `;
+        return entry.href
+          ? `<a class="timeline-entry" href="${escapeHtml(entry.href)}" target="_blank" rel="noreferrer" style="--entry-index: ${index};">${content}</a>`
+          : `<article class="timeline-entry" style="--entry-index: ${index};">${content}</article>`;
+      }).join("")}
+    </div>
+  `;
+}
+
+function renderCommandBriefing({ articles, newestArticle, hotTerms, crossovers, freshness, txStats, substackItems }) {
+  const topTerm = hotTerms[0] || { label: "Scanning", count: 0 };
+  const topCrossover = crossovers[0];
+  const topFeed = freshness[0] || { name: "Feeds", count: 0, total: 0 };
+  const leadSubstack = substackItems[0];
+  const newestTransfer = allRows.find((row) => row.signature);
+  const watchTerms = hotTerms.slice(1, 4).map((term) => term.label);
+  const currentState = txStats.count && topTerm.count ? "Active signal window" : "Building cache";
+  const openLeads = [
+    leadSubstack && {
+      label: "Infinita",
+      title: leadSubstack.title,
+      href: leadSubstack.link,
+    },
+    newestArticle && {
+      label: newestArticle.feed,
+      title: newestArticle.title,
+      href: newestArticle.url,
+    },
+    newestTransfer && {
+      label: "$LIVES",
+      title: `${formatNumber(newestTransfer.amountText, 2)} $LIVES transfer`,
+      href: `${SOLSCAN_TX}${newestTransfer.signature}`,
+    },
+  ].filter(Boolean);
+
+  return `
+    <div class="briefing-grid">
+      <section class="briefing-primary">
+        <span>Current state</span>
+        <strong>${escapeHtml(currentState)}</strong>
+        <p>${escapeHtml(`${topFeed.name} is carrying the freshest RSS density while ${topTerm.label} leads the narrative pulse.`)}</p>
+      </section>
+      <section class="briefing-card">
+        <span>Top narrative</span>
+        <strong>${escapeHtml(topCrossover ? topCrossover.label : topTerm.label)}</strong>
+        <p>${escapeHtml(topCrossover ? `${topCrossover.count} crossover hits in cached articles.` : `${topTerm.count} keyword hits across ${articles.length} articles.`)}</p>
+      </section>
+      <section class="briefing-card">
+        <span>Watch next</span>
+        <strong>${escapeHtml(watchTerms.join(" / ") || "RSS refresh")}</strong>
+        <p>${escapeHtml(`${articles.length} cached articles, ${txStats.count || 0} transfers in the latest 24h window.`)}</p>
+      </section>
+      <section class="briefing-card">
+        <span>Latest movement</span>
+        <strong>${escapeHtml(txStats.count ? `${txStats.count} transfers` : "No transfer pulse")}</strong>
+        <p>${escapeHtml(txStats.count ? `${formatNumber(txStats.amount, 2)} $LIVES moved in the latest 24h cache window.` : "Waiting for transaction cache.")}</p>
+      </section>
+      <section class="briefing-leads" aria-label="Open leads">
+        <span>Open leads</span>
+        ${openLeads.map((lead) => `
+          <a href="${escapeHtml(lead.href)}" target="_blank" rel="noreferrer">
+            <b>${escapeHtml(lead.label)}</b>
+            <strong>${escapeHtml(cleanText(lead.title) || "Open lead")}</strong>
+          </a>
+        `).join("")}
+      </section>
+    </div>
+  `;
 }
 
 async function fetchSubstackFeed() {
