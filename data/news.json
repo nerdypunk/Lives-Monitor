@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-04-27T11:19:06.631Z",
+  "updatedAt": "2026-04-27T13:06:22.479Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -143,7 +143,7 @@
           "domain": "lifespan.io",
           "date": "2026-04-24T16:03:15.000Z",
           "source": "Lifespan.io",
-          "summary": "A new study has found that partial reprogramming mitigates the damage of myocardial infarction in mice by helping heart muscle cells to complete division [1]. When heart cells get stuck When a heart attack (myocardial […]"
+          "summary": "A new study has found that partial reprogramming mitigates the damage of myocardial infarction in mice by helping heart muscle cells to complete division [1]. When heart cells get stuck When a heart attack (myocardial infarction, […]"
         },
         {
           "title": "Final patient out in AlzeCure’s study on Alzheimer’s",
@@ -278,84 +278,84 @@
       ],
       "articles": [
         {
-          "title": "Bitcoin hits wall at $80,000, one analyst says the pullback is temporary",
-          "url": "https://www.coindesk.com/daybook-us/2026/04/27/bitcoin-hits-wall-at-usd80-000-one-analyst-says-the-pullback-is-temporary",
-          "domain": "coindesk.com",
-          "date": "2026-04-27T11:14:37.000Z",
-          "source": "CoinDesk",
-          "summary": "What you need to know for April 27, 2026"
-        },
-        {
-          "title": "‘Better than bailouts?’: Curve founder proposes market-based bad debt recovery model for DeFi lending amid KelpDAO fallout",
-          "url": "https://www.theblock.co/post/398958/better-than-bailouts-curve-founder-proposes-market-based-bad-debt-recovery-model-for-defi-lending-amid-kelpdao-fallout?utm_source=rss&utm_medium=rss",
+          "title": "TD Cowen reiterates buy rating on Smarter Web Company, says it remains UK’s only scaled bitcoin treasury vehicle",
+          "url": "https://www.theblock.co/post/398978/td-cowen-reiterates-buy-rating-on-smarter-web-company-says-it-remains-uks-only-scaled-bitcoin-treasury-vehicle?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-04-27T11:02:19.000Z",
+          "date": "2026-04-27T12:55:52.000Z",
           "source": "The Block",
-          "summary": "Curve founder Michael Egorov proposed a new way to recover bad debt in DeFi lending markets amid industry debates on the KelpDAO incident."
+          "summary": "TD Cowen said The Smarter Web Company has strengthened its position as the only UK-listed bitcoin treasury vehicle at scale."
         },
         {
-          "title": "EU’s largest measures against Russia yet include escalation of crypto sanctions evasion",
-          "url": "https://www.coindesk.com/policy/2026/04/27/eu-s-largest-measures-against-russia-yet-include-escalation-of-crypto-sanctions-evasion",
-          "domain": "coindesk.com",
-          "date": "2026-04-27T10:42:48.000Z",
-          "source": "CoinDesk",
-          "summary": "The European Union noted that Russia has become increasingly reliant on cryptocurrency to circumvent sanctions."
-        },
-        {
-          "title": "Bitcoin reverses from $79,500 as oil surge triggers broader crypto selloff",
-          "url": "https://www.coindesk.com/markets/2026/04/27/bitcoin-reverses-from-usd79-500-as-oil-surge-triggers-broader-crypto-selloff",
-          "domain": "coindesk.com",
-          "date": "2026-04-27T10:37:43.000Z",
-          "source": "CoinDesk",
-          "summary": "BTC fails at $80,000 and drops 2% as rising oil prices weigh on sentiment with altcoins leading losses across a volatile session."
-        },
-        {
-          "title": "French prosecutors charge 88 individuals linked to crypto wrench attacks",
-          "url": "https://www.theblock.co/post/398939/french-charge-88-crypto-wrench-attacks?utm_source=rss&utm_medium=rss",
+          "title": "The Block appoints veteran media operator Steve Chung as CEO",
+          "url": "https://www.theblock.co/post/398948/the-block-appoints-steve-chung-ceo?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-04-27T09:35:59.000Z",
+          "date": "2026-04-27T12:30:00.000Z",
           "source": "The Block",
-          "summary": "French authorities urged crypto holders to remain vigilant and avoid extensive exposure on social media that could make them targets."
+          "summary": "Chung takes over from Larry Cermak, who remains President of The Block, overseeing research, data, and product."
         },
         {
-          "title": "Bitcoin leads $1.2B weekly haul for global crypto funds as institutional demand builds: CoinShares",
-          "url": "https://www.theblock.co/post/398938/bitcoin-leads-1-2b-weekly-haul-for-global-crypto-funds-as-institutional-demand-builds-coinshares?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-04-27T09:32:19.000Z",
-          "source": "The Block",
-          "summary": "Improving institutional demand spurred by bitcoin's multi-week high pushed $1.2 billion in weekly flows to crypto funds."
-        },
-        {
-          "title": "Luxor, MicroBT deepen ties with $100 million mining rig deal and planned investment",
-          "url": "https://www.theblock.co/post/398933/luxor-microbt-100-million-rig-deal?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-04-27T08:47:44.000Z",
-          "source": "The Block",
-          "summary": "Luxor said it is committing $100 million to purchase MicroBT WhatsMiner rigs, while MicroBT has signed a term sheet to invest in Luxor."
-        },
-        {
-          "title": "Global interest rates, Robinhood, Galaxy earnings: Crypto Week Ahead",
-          "url": "https://www.coindesk.com/markets/2026/04/27/global-interest-rates-robinhood-galaxy-earnings-crypto-week-ahead",
-          "domain": "coindesk.com",
-          "date": "2026-04-27T07:53:00.000Z",
-          "source": "CoinDesk",
-          "summary": "Your look at what's coming in the week starting April 27."
-        },
-        {
-          "title": "88 people charged over 12 crypto wrench attacks in France",
-          "url": "https://cointelegraph.com/news/88-people-charged-over-12-crypto-wrench-attacks-in-france?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "First 21-week trend line reclaim since October 2025: Five things to know in Bitcoin this week",
+          "url": "https://cointelegraph.com/markets/first-21-week-trend-line-reclaim-since-october-2025-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-04-27T07:45:40.000Z",
+          "date": "2026-04-27T12:11:46.000Z",
           "source": "CoinTelegraph",
-          "summary": "French law enforcement agencies have been investigating wrench attacks and found that some of the alleged offenders were involved in multiple incidents"
+          "summary": "Bitcoin price action sealed its first weekly candle close above a 21-week moving average trend line since it traded near $115,000 in October 2025."
         },
         {
-          "title": "Prediction markets reflect 'wisdom of an informed minority,’ not crowd: Study",
-          "url": "https://cointelegraph.com/news/prediction-markets-reflect-wisdom-of-an-informed-minority-not-crowd-study?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "Pudgy Penguins rally coincides with token unlock as analyst flags exit liquidity risk",
+          "url": "https://www.coindesk.com/markets/2026/04/27/pudgy-penguins-rally-coincides-with-token-unlock-as-analyst-flags-exit-liquidity-risk",
+          "domain": "coindesk.com",
+          "date": "2026-04-27T12:11:23.000Z",
+          "source": "CoinDesk",
+          "summary": "DNTV Research's Bradley Park says bullish ecosystem news gave large holders the liquidity they needed to sell into a recent PENGU unlock."
+        },
+        {
+          "title": "Bitcoin funds take in $933 million as crypto ETFs hit highest AUM since February",
+          "url": "https://www.coindesk.com/markets/2026/04/27/bitcoin-funds-take-in-usd933-million-as-crypto-etfs-hit-highest-aum-since-february",
+          "domain": "coindesk.com",
+          "date": "2026-04-27T12:07:04.000Z",
+          "source": "CoinDesk",
+          "summary": "Total assets under management across crypto funds rose to $155 billion, the highest level since February 1, though still well below the $263 billion peak from October 2025."
+        },
+        {
+          "title": "‘The beat goes on’: Michael Saylor’s Strategy adds 3,273 bitcoin for $255 million as holdings reach 818,334 BTC",
+          "url": "https://www.theblock.co/post/398968/the-beat-goes-on-michael-saylor-strategy-bitcoin-buys?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-04-27T12:06:16.000Z",
+          "source": "The Block",
+          "summary": "Strategy's holdings account for 3.9% of the total 21 million bitcoin supply — worth around $63.7 billion."
+        },
+        {
+          "title": "ETH price up 10% in April, so why is Ethereum Foundation selling?",
+          "url": "https://cointelegraph.com/markets/eth-price-up-10-in-april-so-why-is-ethereum-foundation-selling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-04-27T07:16:11.000Z",
+          "date": "2026-04-27T11:59:11.000Z",
           "source": "CoinTelegraph",
-          "summary": "About 3.5% of informed traders, including market makers and skilled takers, capture over 30% of profits on prediction platforms, while about 67% of users absorb the entirety of losses."
+          "summary": "ETH's price may drop 15% or more in the coming days as it paints a convincing bearish reversal pattern on its daily chart."
+        },
+        {
+          "title": "Kbank teams with Ripple on overseas blockchain remittance trial",
+          "url": "https://cointelegraph.com/news/kbank-tests-ripple-wallet-for-remittances-as-south-korea-weighs-stablecoin-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-04-27T11:32:46.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Kbank partnered with Ripple to test blockchain-based overseas remittances as South Korean companies prepare for new stablecoin and digital asset rules."
+        },
+        {
+          "title": "South Korea's KBank and Ripple are teaming up to fix international money transfers",
+          "url": "https://www.coindesk.com/markets/2026/04/27/south-korea-s-kbank-tests-international-blockchain-transfers-with-ripple",
+          "domain": "coindesk.com",
+          "date": "2026-04-27T11:29:35.000Z",
+          "source": "CoinDesk",
+          "summary": "KBank is using Palisade, Ripple's software-as-a-service wallet that was acquired earlier this year as part of Ripple's $4 billion in crypto-related investments."
+        },
+        {
+          "title": "MiCA-licensed Banking Circle joins bank stablecoin settlement race in Europe",
+          "url": "https://cointelegraph.com/news/mica-licensed-banking-circle-joins-bank-stablecoin-settlement-race-in-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-04-27T11:15:52.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Banking Circle's stablecoin settlement launch follows its CASP approval, entering a crowded market with SocGen, Sygnum and a 12-bank euro stablecoin consortium."
         }
       ]
     }
