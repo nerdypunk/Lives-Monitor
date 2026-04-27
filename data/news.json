@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-04-27T09:09:47.375Z",
+  "updatedAt": "2026-04-27T11:19:06.631Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -143,7 +143,7 @@
           "domain": "lifespan.io",
           "date": "2026-04-24T16:03:15.000Z",
           "source": "Lifespan.io",
-          "summary": "A new study has found that partial reprogramming mitigates the damage of myocardial infarction in mice by helping heart muscle […]"
+          "summary": "A new study has found that partial reprogramming mitigates the damage of myocardial infarction in mice by helping heart muscle cells to complete division [1]. When heart cells get stuck When a heart attack (myocardial […]"
         },
         {
           "title": "Final patient out in AlzeCure’s study on Alzheimer’s",
@@ -278,6 +278,54 @@
       ],
       "articles": [
         {
+          "title": "Bitcoin hits wall at $80,000, one analyst says the pullback is temporary",
+          "url": "https://www.coindesk.com/daybook-us/2026/04/27/bitcoin-hits-wall-at-usd80-000-one-analyst-says-the-pullback-is-temporary",
+          "domain": "coindesk.com",
+          "date": "2026-04-27T11:14:37.000Z",
+          "source": "CoinDesk",
+          "summary": "What you need to know for April 27, 2026"
+        },
+        {
+          "title": "‘Better than bailouts?’: Curve founder proposes market-based bad debt recovery model for DeFi lending amid KelpDAO fallout",
+          "url": "https://www.theblock.co/post/398958/better-than-bailouts-curve-founder-proposes-market-based-bad-debt-recovery-model-for-defi-lending-amid-kelpdao-fallout?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-04-27T11:02:19.000Z",
+          "source": "The Block",
+          "summary": "Curve founder Michael Egorov proposed a new way to recover bad debt in DeFi lending markets amid industry debates on the KelpDAO incident."
+        },
+        {
+          "title": "EU’s largest measures against Russia yet include escalation of crypto sanctions evasion",
+          "url": "https://www.coindesk.com/policy/2026/04/27/eu-s-largest-measures-against-russia-yet-include-escalation-of-crypto-sanctions-evasion",
+          "domain": "coindesk.com",
+          "date": "2026-04-27T10:42:48.000Z",
+          "source": "CoinDesk",
+          "summary": "The European Union noted that Russia has become increasingly reliant on cryptocurrency to circumvent sanctions."
+        },
+        {
+          "title": "Bitcoin reverses from $79,500 as oil surge triggers broader crypto selloff",
+          "url": "https://www.coindesk.com/markets/2026/04/27/bitcoin-reverses-from-usd79-500-as-oil-surge-triggers-broader-crypto-selloff",
+          "domain": "coindesk.com",
+          "date": "2026-04-27T10:37:43.000Z",
+          "source": "CoinDesk",
+          "summary": "BTC fails at $80,000 and drops 2% as rising oil prices weigh on sentiment with altcoins leading losses across a volatile session."
+        },
+        {
+          "title": "French prosecutors charge 88 individuals linked to crypto wrench attacks",
+          "url": "https://www.theblock.co/post/398939/french-charge-88-crypto-wrench-attacks?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-04-27T09:35:59.000Z",
+          "source": "The Block",
+          "summary": "French authorities urged crypto holders to remain vigilant and avoid extensive exposure on social media that could make them targets."
+        },
+        {
+          "title": "Bitcoin leads $1.2B weekly haul for global crypto funds as institutional demand builds: CoinShares",
+          "url": "https://www.theblock.co/post/398938/bitcoin-leads-1-2b-weekly-haul-for-global-crypto-funds-as-institutional-demand-builds-coinshares?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-04-27T09:32:19.000Z",
+          "source": "The Block",
+          "summary": "Improving institutional demand spurred by bitcoin's multi-week high pushed $1.2 billion in weekly flows to crypto funds."
+        },
+        {
           "title": "Luxor, MicroBT deepen ties with $100 million mining rig deal and planned investment",
           "url": "https://www.theblock.co/post/398933/luxor-microbt-100-million-rig-deal?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
@@ -308,54 +356,6 @@
           "date": "2026-04-27T07:16:11.000Z",
           "source": "CoinTelegraph",
           "summary": "About 3.5% of informed traders, including market makers and skilled takers, capture over 30% of profits on prediction platforms, while about 67% of users absorb the entirety of losses."
-        },
-        {
-          "title": "Upbit partner KBank to test onchain cross-border remittances with Ripple",
-          "url": "https://www.theblock.co/post/398927/kbank-ripple-partnership?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-04-27T06:57:43.000Z",
-          "source": "The Block",
-          "summary": "KBank and Ripple have already completed the first phase of the PoC, in which they verified a wallet app-based remittance system."
-        },
-        {
-          "title": "A long-time developer wants to split Bitcoin blockchain and reassign Satoshi coins. The community is calling it a theft",
-          "url": "https://www.coindesk.com/tech/2026/04/27/a-long-time-developer-wants-to-fork-bitcoin-and-reassign-satoshi-coins-the-community-is-calling-it-a-theft",
-          "domain": "coindesk.com",
-          "date": "2026-04-27T06:45:51.000Z",
-          "source": "CoinDesk",
-          "summary": "Paul Sztorc proposes a 2026 hard fork of Bitcoin called eCash, giving BTC holders equivalent tokens and adding Drivechains."
-        },
-        {
-          "title": "Pudgy Penguins, BAYC rally masks a shrinking NFT market as volumes and users fall",
-          "url": "https://www.coindesk.com/markets/2026/04/27/pudgy-penguins-bayc-rally-masks-a-shrinking-nft-market-as-volumes-and-users-fall",
-          "domain": "coindesk.com",
-          "date": "2026-04-27T06:12:44.000Z",
-          "source": "CoinDesk",
-          "summary": "The two blue-chip collections are leading double-digit gains as global NFT sales volume falls and participation hits multi-year lows."
-        },
-        {
-          "title": "Bitcoin pulls back from 12-week high as Iran rally hits seller wall at $79,400",
-          "url": "https://www.coindesk.com/markets/2026/04/27/bitcoin-pulls-back-from-12-week-high-as-iran-rally-hits-seller-wall-at-usd79-400",
-          "domain": "coindesk.com",
-          "date": "2026-04-27T05:47:29.000Z",
-          "source": "CoinDesk",
-          "summary": ""
-        },
-        {
-          "title": "Western Union eyes May for its stablecoin USDPT rollout",
-          "url": "https://cointelegraph.com/news/western-union-usdpt-stablecoin-may-launch-dan-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-04-27T05:24:58.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Western Union CEO Devin McGranahan said the company will focus on expanding adoption and embedding digital assets into its core money movement platform going forward."
-        },
-        {
-          "title": "Aave asks Arbitrum to send 30K ETH from Kelp exploiter to ‘DeFi United’",
-          "url": "https://cointelegraph.com/news/arbitrum-dao-asked-to-unfreeze-30k-eth-tied-to-kelp-hacker-direct-them-to-defi-united?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-04-27T04:20:58.000Z",
-          "source": "CoinTelegraph",
-          "summary": "More than $21 million in contributions has been made to the \"DeFi United\" relief effort so far, with another $215 million to be potentially allocated if certain governance proposals succeed."
         }
       ]
     }
