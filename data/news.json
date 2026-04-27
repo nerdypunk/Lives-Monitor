@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-04-27T20:00:21.466Z",
+  "updatedAt": "2026-04-27T21:14:16.844Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -135,7 +135,7 @@
           "domain": "lifespan.io",
           "date": "2026-04-27T16:20:15.000Z",
           "source": "Lifespan.io",
-          "summary": "A team of scientists has examined how younger and older mice heal from wounds and found that more robust senescent cell activation in younger animals helps them heal faster. A […]"
+          "summary": "A team of scientists has examined how younger and older mice heal from wounds and found that more robust senescent cell activation in younger animals helps them heal faster. A double-edged sword Multiple […]"
         },
         {
           "title": "Calluna completes enrollment in Phase 2 AURORA study",
@@ -278,6 +278,46 @@
       ],
       "articles": [
         {
+          "title": "Bitcoin rally shows signs of fatigue as key indicators turn bearish",
+          "url": "https://www.coindesk.com/markets/2026/04/27/bitcoin-rally-shows-signs-of-fatigue-as-key-indicators-turn-bearish",
+          "domain": "coindesk.com",
+          "date": "2026-04-27T21:00:00.000Z",
+          "source": "CoinDesk",
+          "summary": "Cooling U.S. demand, elevated Bitfinex whale positioning and a key on chain rejection point to short term downside during the Las Vegas Bitcoin conference."
+        },
+        {
+          "title": "‘We don’t take Satoshi’s bitcoin’: eCash fork sparks backlash over ‘reassigned’ coins",
+          "url": "https://www.theblock.co/post/399054/we-dont-take-satoshis-bitcoin-ecash-fork-backlash-reassigned-coins?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-04-27T20:48:07.000Z",
+          "source": "The Block",
+          "summary": "The eCash fork will act as a live test of Paul Sztorc’s long-running drivechains-sidechains vision for the bitcoin network."
+        },
+        {
+          "title": "Acting AG Blanche: DOJ has ‘fundamentally changed the game’ for developers",
+          "url": "https://www.theblock.co/post/399078/acting-ag-blanche-doj-has-fundamentally-changed-the-game-for-developers?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-04-27T20:38:13.000Z",
+          "source": "The Block",
+          "summary": "Acting AG Blanche offered some reassurance to software developers as the Justice Department continues its case against Roman Storm."
+        },
+        {
+          "title": "Western Union eyeing stablecoin launch to settle global transactions without SWIFT, CEO says",
+          "url": "https://www.coindesk.com/business/2026/04/27/western-union-eyeing-stablecoin-launch-to-settle-global-transactions-without-swift-ceo-says",
+          "domain": "coindesk.com",
+          "date": "2026-04-27T20:35:56.000Z",
+          "source": "CoinDesk",
+          "summary": "The 175-year-old money-transfer firm also plans to issue a stablecoin-linked card for payments and cash-out options from crypto to local currencies, CEO Devin McGranahan said."
+        },
+        {
+          "title": "Price predictions 4/27: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA",
+          "url": "https://cointelegraph.com/markets/price-predictions-427-spx-dxy-btc-eth-xrp-bnb-sol-doge-hype-ada?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-04-27T19:59:19.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bitcoin fails to top $80,000 as analysts debate whether BTC has truly changed its trend or remains in the grasp of the bears."
+        },
+        {
           "title": "MARA Foundation to foster long-term adoption of Bitcoin, including resilience against quantum and security budget risks",
           "url": "https://www.theblock.co/post/399069/mara-foundation-adoption-bitcoin-resilience-quantum-security-budget-risks?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
@@ -316,46 +356,6 @@
           "date": "2026-04-27T18:26:13.000Z",
           "source": "The Block",
           "summary": "Legislation to establish a strategic bitcoin reserve in the U.S. is set to be reintroduced in the next few weeks."
-        },
-        {
-          "title": "MARA Holdings targets bitcoin quantum threat and network resilience with new foundation",
-          "url": "https://www.coindesk.com/markets/2026/04/27/mara-holdings-targets-bitcoin-quantum-threat-and-network-resilience-with-new-foundation",
-          "domain": "coindesk.com",
-          "date": "2026-04-27T17:49:27.000Z",
-          "source": "CoinDesk",
-          "summary": "Bitcoin's future is not guaranteed, said CEO Fred Thiel at the Bitcoin Conference in Las Vegas."
-        },
-        {
-          "title": "Sen. Tillis becomes ‘latest roadblock’ for crypto bill as he pushes ethics provisions, TD Cowen says",
-          "url": "https://www.theblock.co/post/399044/sen-tillis-latest-roadblock-crypto-bill-ethics-provisions-td-cowen?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-04-27T17:39:20.000Z",
-          "source": "The Block",
-          "summary": "Thom Tillis has reportedly said he would not support the crypto bill if it does not include conflict-of-interest provisions."
-        },
-        {
-          "title": "Bitcoin pulls back to $76,600 as rising oil price and Iran risks stall the rally",
-          "url": "https://www.coindesk.com/markets/2026/04/27/bitcoin-pulls-back-to-usd76-600-as-rising-oil-price-and-iran-risks-stall-the-rally",
-          "domain": "coindesk.com",
-          "date": "2026-04-27T17:17:25.000Z",
-          "source": "CoinDesk",
-          "summary": "Short-term holder profit-taking is offsetting fresh demand from ETFs and Strategy, pointing to consolidation below $80,000, Bitfinex analysts said."
-        },
-        {
-          "title": "Bernstein sees IREN pivoting from Bitcoin mining to $3.7B AI cloud business",
-          "url": "https://cointelegraph.com/news/bernstein-sees-iren-pivoting-from-bitcoin-mining-to-37b-ai-cloud-business?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-04-27T17:15:28.000Z",
-          "source": "CoinTelegraph",
-          "summary": "As Bitcoin miner IREN shifts toward AI cloud infrastructure, leveraging a Microsoft deal and GPU expansion, analysts expect mining revenue to decline over time."
-        },
-        {
-          "title": "Aven bitcoin Visa card will offer BTC-backed line of credit of up to $1 million",
-          "url": "https://www.theblock.co/post/399027/aven-bitcoin-visa-card-btc-backed-line-credit-1-million?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-04-27T17:05:00.000Z",
-          "source": "The Block",
-          "summary": "Aven's new bitcoin credit card will offer fixed-rate, fixed-term loans of up to 10 years at a 7.99% APR as well as unlimited 2% cash back."
         }
       ]
     }
