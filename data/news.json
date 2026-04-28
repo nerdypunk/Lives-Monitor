@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-04-28T09:26:36.757Z",
+  "updatedAt": "2026-04-28T11:22:46.143Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -15,6 +15,14 @@
           "date": "2026-04-25T10:50:46.000Z",
           "source": "MEXC Exchange",
           "summary": "desci Crypto Market & Spot Trading Pairs | Prices, Charts & Liquidity | MEXC &nbsp;&nbsp; MEXC Exchange"
+        },
+        {
+          "title": "Bio Protocol Gains Momentum as AI-Driven DeSci Hype Builds - Cryptonews.net",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wdmpuNmVrQXF6RVU0MEhiLTdMeldOMmUyLXl6X08yY3Jjb3N4SGFLUWFNc1RybHU1V3hYZjJCZHlsNHdkLXBPTFF1RmpPU2tRamc2TXRPOE5mdw?oc=5",
+          "domain": "cryptonews.net",
+          "date": "2026-04-23T18:29:28.000Z",
+          "source": "Cryptonews.net",
+          "summary": "Bio Protocol Gains Momentum as AI-Driven DeSci Hype Builds &nbsp;&nbsp; Cryptonews.net"
         },
         {
           "title": "BIO Surges 96%: Is DeSci the Next Big Narrative in Crypto? - KuCoin",
@@ -55,14 +63,6 @@
           "date": "2026-04-16T07:00:00.000Z",
           "source": "Cryptonews",
           "summary": "AI Scientist Proposes New ADHD Treatment: BIO Protocol Explodes &nbsp;&nbsp; Cryptonews"
-        },
-        {
-          "title": "Bio Protocol (BIO) Skyrockets: A Stunning 102% Surge Analyzed - CryptoRank",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5YQ0FCemJ0aU9JaW5LQ0tzRnhCMmtOUVJ5ZGhKWE5YR2N5SnZaN0tzRUk1QjJwTDFzX0pZODVBWDIyUEo4bG8tYV9VZTdpMnF5SExrVXM2aWFKQmZ0a1NWd21RaHBsWlFvVVpaX0VodDJWQW9pcTRSS3pxSQ?oc=5",
-          "domain": "cryptorank.io",
-          "date": "2026-04-16T04:59:10.000Z",
-          "source": "CryptoRank",
-          "summary": "Bio Protocol (BIO) Skyrockets: A Stunning 102% Surge Analyzed &nbsp;&nbsp; CryptoRank"
         },
         {
           "title": "Bio Protocol (BIO) Surges 30% Amid Bullish Technical Setup - KuCoin",
@@ -159,7 +159,7 @@
           "domain": "lifespan.io",
           "date": "2026-04-27T16:20:15.000Z",
           "source": "Lifespan.io",
-          "summary": "A team of scientists has examined how younger and older mice heal from wounds and found that more robust senescent cell activation in […]"
+          "summary": "A team of scientists has examined how younger and older mice heal from wounds and found that more robust senescent cell activation in younger animals […]"
         },
         {
           "title": "Calluna completes enrollment in Phase 2 AURORA study",
@@ -278,6 +278,70 @@
       ],
       "articles": [
         {
+          "title": "Bulls want bitcoin back above $80,000. Macro says not so fast.",
+          "url": "https://www.coindesk.com/daybook-us/2026/04/28/bulls-want-bitcoin-back-above-usd80-000-macro-says-not-so-fast",
+          "domain": "coindesk.com",
+          "date": "2026-04-28T11:17:58.000Z",
+          "source": "CoinDesk",
+          "summary": "What you need to know for April 28, 2026"
+        },
+        {
+          "title": "Crypto traders turn cautious as bitcoin loses steam below $80,000",
+          "url": "https://www.coindesk.com/markets/2026/04/28/crypto-traders-turn-cautious-as-bitcoin-loses-steam-below-usd80-000",
+          "domain": "coindesk.com",
+          "date": "2026-04-28T10:53:58.000Z",
+          "source": "CoinDesk",
+          "summary": "Bitcoin drops after repeated resistance at $80,000, taking ether with it, while derivatives and macro signals point to reduced risk appetite and subdued volatility."
+        },
+        {
+          "title": "Bitcoin ETF outflows snap nine-day streak ahead of FOMC as market tests resolve near $77,000",
+          "url": "https://www.theblock.co/post/399129/bitcoin-etf-outflows-snap-nine-day-streak-ahead-of-fomc-as-market-tests-resolve-near-77000?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-04-28T10:40:47.000Z",
+          "source": "The Block",
+          "summary": "Analysts weighed bitcoin's bullish momentum against growing policy and geopolitical caution after ETF flows reversed amid a key macro week."
+        },
+        {
+          "title": "A digital shekel is here: Israel approves its first regulated stablecoin",
+          "url": "https://www.coindesk.com/policy/2026/04/28/a-digital-shekel-is-here-israel-approves-its-first-regulated-stablecoin",
+          "domain": "coindesk.com",
+          "date": "2026-04-28T10:39:57.000Z",
+          "source": "CoinDesk",
+          "summary": "BILS was developed in collaboration with the Solana network and crypto custodian heavyweights Fireblocks with auditing oversight provided by Big Four consultancy firm EY."
+        },
+        {
+          "title": "Changelly and Tonkeeper enable cross-chain deposits to TON across 13 networks",
+          "url": "https://cointelegraph.com/press-releases/changelly-and-tonkeeper-enable-cross-chain-deposits-to-ton-across-13-networks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-04-28T10:26:33.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Changelly and Tonkeeper have teamed up to make cross-chain deposits into TON a seamless, in-wallet experience."
+        },
+        {
+          "title": "Bitcoin ETFs snap nine-day inflow run as BTC slips below $77K",
+          "url": "https://cointelegraph.com/news/bitcoin-etf-end-nine-day-inflow-streak-btc-77k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-04-28T10:09:48.000Z",
+          "source": "CoinTelegraph",
+          "summary": "US spot Bitcoin ETFs post $263 million in outflows, ending a nine-day inflow streak as Bitcoin failed to reclaim $80,000 in its latest run."
+        },
+        {
+          "title": "Jack Dorsey's Block nears 9,000 bitcoin in treasury after Q1 addition",
+          "url": "https://www.coindesk.com/business/2026/04/28/jack-dorsey-s-block-nears-9-000-bitcoin-in-treasury-after-q1-addition",
+          "domain": "coindesk.com",
+          "date": "2026-04-28T09:54:48.000Z",
+          "source": "CoinDesk",
+          "summary": "The firm added 114 BTC to its corporate treasury, for a total of 8,997 BTC, and said it plans to issue regular third-party reports."
+        },
+        {
+          "title": "Bitcoin miner Core Scientific shifts to AI with 1.5GW data center push",
+          "url": "https://cointelegraph.com/news/bitcoin-miner-core-scientific-shifts-to-ai-with-15gw-d?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-04-28T09:45:15.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Core Scientific is converting its Pecos, Texas site into a high-density AI colocation hub, repurposing 300MW of mining capacity."
+        },
+        {
           "title": "Bitmine's ether buys are catching up to Strategy's bitcoin accumulation pace",
           "url": "https://www.coindesk.com/business/2026/04/28/bitmine-s-ether-buys-are-catching-up-to-strategy-s-bitcoin-accumulation-pace",
           "domain": "coindesk.com",
@@ -292,70 +356,6 @@
           "date": "2026-04-28T07:45:39.000Z",
           "source": "The Block",
           "summary": "Jack Dorsey's Block Inc. disclosed that it held a total of 28,355 BTC, including customer assets, as of March 2026."
-        },
-        {
-          "title": "Ondo Finance adds proxy voting for holders of its $700 million tokenized equities",
-          "url": "https://www.coindesk.com/tech/2026/04/28/ondo-finance-adds-proxy-voting-for-holders-of-its-usd700-million-tokenized-equities",
-          "domain": "coindesk.com",
-          "date": "2026-04-28T07:29:34.000Z",
-          "source": "CoinDesk",
-          "summary": "The move aims to bring Ondo's tokenized stocks and ETFs closer to traditional ones held in a brokerage account."
-        },
-        {
-          "title": "Trump changes tune on prediction markets days after saying he disliked them",
-          "url": "https://cointelegraph.com/news/trump-changes-stance-after-saying-he-disliked-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-04-28T07:11:31.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Donald Trump says the US can’t be “left out in the cold” on prediction markets just days after he said he was “not happy” with the fast-growing platforms."
-        },
-        {
-          "title": "Crypto lobby backs formal removal of ‘reputation risk’ from bank examinations",
-          "url": "https://cointelegraph.com/news/blockchain-association-supports-reputation-risk-removal-from-supervisory-programs-to-end-crypto-debanking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-04-28T07:00:30.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The Office of the Comptroller of the Currency and the Federal Deposit Insurance Corp. finalized a similar rule removing reputation risk earlier this month."
-        },
-        {
-          "title": "Three Bitcoin charts say BTC price may rally toward $82K",
-          "url": "https://cointelegraph.com/markets/three-bitcoin-charts-signaling-btc-price-rebound-to-82k-and-above?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-04-28T06:57:26.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Bitcoin’s ascending channel setup and rising stablecoin inflows suggest improving liquidity conditions could support a push toward higher price levels."
-        },
-        {
-          "title": "DeFi United unveils plan to restore rsETH after $292 million Kelp DAO exploit",
-          "url": "https://www.theblock.co/post/399118/defi-united-detailed-plan?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-04-28T06:52:53.000Z",
-          "source": "The Block",
-          "summary": "The restoration process involves converting ETH into rsETH in tranches, which will then be transferred to the affected lockbox contract."
-        },
-        {
-          "title": "Three Bank of Japan members call for a rate hike; yen rises while bitcoin falls",
-          "url": "https://www.coindesk.com/markets/2026/04/28/three-bank-of-japan-members-call-for-a-rate-hike-yen-rises-while-bitcoin-falls",
-          "domain": "coindesk.com",
-          "date": "2026-04-28T06:40:07.000Z",
-          "source": "CoinDesk",
-          "summary": "Markets are pricing in a June rate hike after a split BoJ vote that saw three policymakers dissent in favor of a hike."
-        },
-        {
-          "title": "Acting AG Todd Blanche confirms ‘code is not a crime’ in DOJ pivot",
-          "url": "https://cointelegraph.com/news/acting-ag-blanche-signals-doj-pivot-code-is-not-a-crime?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-04-28T06:08:37.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Acting US Attorney General Todd Blanche said developers will no longer be investigated or charged unless they knowingly help third parties commit crimes."
-        },
-        {
-          "title": "Dorsey's Block unveils Bitcoin proof-of-reserves in transparency move",
-          "url": "https://cointelegraph.com/news/jack-dorseys-block-unveils-btc-proof-of-reserves-in-transparency-move?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-04-28T06:05:15.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Block’s proof-of-reserves will enable anyone to verify the company’s 8,883 Bitcoin stash worth over $680 million through an on-chain signature."
         }
       ]
     }
