@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-04-28T11:22:46.143Z",
+  "updatedAt": "2026-04-28T13:15:24.033Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -159,7 +159,7 @@
           "domain": "lifespan.io",
           "date": "2026-04-27T16:20:15.000Z",
           "source": "Lifespan.io",
-          "summary": "A team of scientists has examined how younger and older mice heal from wounds and found that more robust senescent cell activation in younger animals […]"
+          "summary": "A team of scientists has examined how younger and older mice heal from wounds and found that more robust senescent cell activation in younger animals helps them heal faster. A double-edged sword […]"
         },
         {
           "title": "Calluna completes enrollment in Phase 2 AURORA study",
@@ -278,12 +278,60 @@
       ],
       "articles": [
         {
+          "title": "Stablecoin payroll firm Toku taps Paxos Labs’ Amplify to offer yield on paychecks",
+          "url": "https://www.theblock.co/post/399161/stablecoin-payroll-firm-toku-taps-paxos-labs-amplify-to-offer-yield-on-paychecks?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-04-28T13:01:01.000Z",
+          "source": "The Block",
+          "summary": "Toku has integrated Paxos Labs’ Amplify platform, enabling employees to earn yield on their pay “the moment it lands.”"
+        },
+        {
+          "title": "CFTC's AI will review U.S. crypto registration applications, chairman tells CoinDesk",
+          "url": "https://www.coindesk.com/policy/2026/04/27/cftc-s-ai-will-review-u-s-crypto-registration-applications-chairman-tells-coindesk",
+          "domain": "coindesk.com",
+          "date": "2026-04-28T13:00:00.000Z",
+          "source": "CoinDesk",
+          "summary": "The regulator is working on new technology to stretch abilities of reduced staff, says Chairman Mike Selig, including AI monitoring of trading data."
+        },
+        {
+          "title": "US SEC seeks comment on NYSE Arca proposal for 85% eligible-asset rule in crypto ETF listings",
+          "url": "https://www.theblock.co/post/399135/us-sec-seeks-comment-on-nyse-arca-proposal-for-85-eligible-asset-rule-in-crypto-etf-listings?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-04-28T12:10:38.000Z",
+          "source": "The Block",
+          "summary": "The SEC is seeking public comment on an NYSE Arca proposal requiring 85% of a commodity-based crypto trust’s assets to meet existing listing rules."
+        },
+        {
+          "title": "Ondo brings proxy voting to tokenized stocks and ETFs with Broadridge",
+          "url": "https://cointelegraph.com/news/ondo-partners-with-broadridge-to-bring-proxy-voting-to-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-04-28T12:10:25.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Tokenized stock holders can now participate in corporate governance, closing a long-standing gap between onchain securities and their traditional counterparts."
+        },
+        {
+          "title": "Is Ethereum safe above $2K? Traders are watching these ETH price levels",
+          "url": "https://cointelegraph.com/markets/is-ethereum-safe-above-2k-traders-are-watching-these-eth-price-levels?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-04-28T11:52:34.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Ethereum market participants saw the 100-day SMA at $2,200 as particularly important for bulls to hold to avoid a deeper correction."
+        },
+        {
           "title": "Bulls want bitcoin back above $80,000. Macro says not so fast.",
           "url": "https://www.coindesk.com/daybook-us/2026/04/28/bulls-want-bitcoin-back-above-usd80-000-macro-says-not-so-fast",
           "domain": "coindesk.com",
           "date": "2026-04-28T11:17:58.000Z",
           "source": "CoinDesk",
           "summary": "What you need to know for April 28, 2026"
+        },
+        {
+          "title": "OKX lets institutions use BlackRock’s BUIDL fund as trading collateral",
+          "url": "https://cointelegraph.com/news/okx-adds-blackrocks-tokenized-treasury-fund-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-04-28T11:03:28.000Z",
+          "source": "CoinTelegraph",
+          "summary": "OKX integrates BlackRock’s tokenized Treasury fund into Standard Chartered custody, allowing institutions to use it as regulated trading collateral."
         },
         {
           "title": "Crypto traders turn cautious as bitcoin loses steam below $80,000",
@@ -308,54 +356,6 @@
           "date": "2026-04-28T10:39:57.000Z",
           "source": "CoinDesk",
           "summary": "BILS was developed in collaboration with the Solana network and crypto custodian heavyweights Fireblocks with auditing oversight provided by Big Four consultancy firm EY."
-        },
-        {
-          "title": "Changelly and Tonkeeper enable cross-chain deposits to TON across 13 networks",
-          "url": "https://cointelegraph.com/press-releases/changelly-and-tonkeeper-enable-cross-chain-deposits-to-ton-across-13-networks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-04-28T10:26:33.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Changelly and Tonkeeper have teamed up to make cross-chain deposits into TON a seamless, in-wallet experience."
-        },
-        {
-          "title": "Bitcoin ETFs snap nine-day inflow run as BTC slips below $77K",
-          "url": "https://cointelegraph.com/news/bitcoin-etf-end-nine-day-inflow-streak-btc-77k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-04-28T10:09:48.000Z",
-          "source": "CoinTelegraph",
-          "summary": "US spot Bitcoin ETFs post $263 million in outflows, ending a nine-day inflow streak as Bitcoin failed to reclaim $80,000 in its latest run."
-        },
-        {
-          "title": "Jack Dorsey's Block nears 9,000 bitcoin in treasury after Q1 addition",
-          "url": "https://www.coindesk.com/business/2026/04/28/jack-dorsey-s-block-nears-9-000-bitcoin-in-treasury-after-q1-addition",
-          "domain": "coindesk.com",
-          "date": "2026-04-28T09:54:48.000Z",
-          "source": "CoinDesk",
-          "summary": "The firm added 114 BTC to its corporate treasury, for a total of 8,997 BTC, and said it plans to issue regular third-party reports."
-        },
-        {
-          "title": "Bitcoin miner Core Scientific shifts to AI with 1.5GW data center push",
-          "url": "https://cointelegraph.com/news/bitcoin-miner-core-scientific-shifts-to-ai-with-15gw-d?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-04-28T09:45:15.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Core Scientific is converting its Pecos, Texas site into a high-density AI colocation hub, repurposing 300MW of mining capacity."
-        },
-        {
-          "title": "Bitmine's ether buys are catching up to Strategy's bitcoin accumulation pace",
-          "url": "https://www.coindesk.com/business/2026/04/28/bitmine-s-ether-buys-are-catching-up-to-strategy-s-bitcoin-accumulation-pace",
-          "domain": "coindesk.com",
-          "date": "2026-04-28T08:27:42.000Z",
-          "source": "CoinDesk",
-          "summary": "Bitmine bought $234 million of ether in its largest weekly purchase this year, closing in on Strategy's regular bitcoin buys once the firm's STRC-fueled spikes are stripped out."
-        },
-        {
-          "title": "Jack Dorsey’s Block reveals $2.2 billion in bitcoin holdings in Q1",
-          "url": "https://www.theblock.co/post/399123/block-q1-bitcoin?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-04-28T07:45:39.000Z",
-          "source": "The Block",
-          "summary": "Jack Dorsey's Block Inc. disclosed that it held a total of 28,355 BTC, including customer assets, as of March 2026."
         }
       ]
     }
