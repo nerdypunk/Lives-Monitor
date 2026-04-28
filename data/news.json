@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-04-28T20:42:52.867Z",
+  "updatedAt": "2026-04-28T21:45:24.071Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -9,12 +9,12 @@
       ],
       "articles": [
         {
-          "title": "desci Crypto Market & Spot Trading Pairs | Prices, Charts & Liquidity | MEXC - mexc.co",
+          "title": "desci Crypto Market & Spot Trading Pairs | Prices, Charts & Liquidity | MEXC - MEXC Exchange",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03UVY2NFB2SzA4dUpJUXY5Uk51aTdzVi1QR2xMUVV2bHBlZ256Ulk0SXNxTm03OGJuc0N6b29pX3ZIU0d0aTd1cGZkQ1ZIZ1d6Ym9JbTl1dkJaeVBIdk4yam5PWHdzUQ?oc=5",
           "domain": "mexc.co",
           "date": "2026-04-25T10:50:46.000Z",
-          "source": "mexc.co",
-          "summary": "desci Crypto Market & Spot Trading Pairs | Prices, Charts & Liquidity | MEXC &nbsp;&nbsp; mexc.co"
+          "source": "MEXC Exchange",
+          "summary": "desci Crypto Market & Spot Trading Pairs | Prices, Charts & Liquidity | MEXC &nbsp;&nbsp; MEXC Exchange"
         },
         {
           "title": "BIO Surges 96%: Is DeSci the Next Big Narrative in Crypto? - KuCoin",
@@ -49,20 +49,20 @@
           "summary": "BIO Token Rally Raises Questions About DeSci Valuation Sustainability &nbsp;&nbsp; Investing.com"
         },
         {
-          "title": "Bio Protocol (BIO) Skyrockets: A Stunning 102% Surge Analyzed - CryptoRank",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5YQ0FCemJ0aU9JaW5LQ0tzRnhCMmtOUVJ5ZGhKWE5YR2N5SnZaN0tzRUk1QjJwTDFzX0pZODVBWDIyUEo4bG8tYV9VZTdpMnF5SExrVXM2aWFKQmZ0a1NWd21RaHBsWlFvVVpaX0VodDJWQW9pcTRSS3pxSQ?oc=5",
-          "domain": "cryptorank.io",
-          "date": "2026-04-16T07:00:00.000Z",
-          "source": "CryptoRank",
-          "summary": "Bio Protocol (BIO) Skyrockets: A Stunning 102% Surge Analyzed &nbsp;&nbsp; CryptoRank"
-        },
-        {
           "title": "AI Scientist Proposes New ADHD Treatment: BIO Protocol Explodes - Cryptonews",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vQVlSX3VmNzBmLWlzYWU4ODNJUjVUR1VWZWRJSFNvZU5DUk12UUVUQlA0V0Y5TnJ5NmdxNnNvWTMwX0FhdmNMOEtwYzJoVl8yM3BDNlFjTVh0aXFtOW1yU3E5dUJRWHBZUGVLVQ?oc=5",
           "domain": "cryptonews.com",
           "date": "2026-04-16T07:00:00.000Z",
           "source": "Cryptonews",
           "summary": "AI Scientist Proposes New ADHD Treatment: BIO Protocol Explodes &nbsp;&nbsp; Cryptonews"
+        },
+        {
+          "title": "Bio Protocol (BIO) Skyrockets: A Stunning 102% Surge Analyzed - CryptoRank",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5YQ0FCemJ0aU9JaW5LQ0tzRnhCMmtOUVJ5ZGhKWE5YR2N5SnZaN0tzRUk1QjJwTDFzX0pZODVBWDIyUEo4bG8tYV9VZTdpMnF5SExrVXM2aWFKQmZ0a1NWd21RaHBsWlFvVVpaX0VodDJWQW9pcTRSS3pxSQ?oc=5",
+          "domain": "cryptorank.io",
+          "date": "2026-04-16T04:59:10.000Z",
+          "source": "CryptoRank",
+          "summary": "Bio Protocol (BIO) Skyrockets: A Stunning 102% Surge Analyzed &nbsp;&nbsp; CryptoRank"
         },
         {
           "title": "Bio Protocol (BIO) Surges 30% Amid Bullish Technical Setup - KuCoin",
@@ -103,7 +103,7 @@
           "domain": "lifespan.io",
           "date": "2026-04-28T19:52:24.000Z",
           "source": "Lifespan.io",
-          "summary": "A new study calls for caution in using the well-known senolytic treatment of dasatinib and quercetin (D+Q), showing that it causes damage in certain regions […]"
+          "summary": "A new study calls for caution in using the well-known senolytic treatment of dasatinib and quercetin (D+Q), showing that it causes damage in certain regions of the brain, similar to what is observed in multiple sclerosis […]"
         },
         {
           "title": "Endlyz raises Seed 2 financing, leans into root-cause neuroscience",
@@ -127,7 +127,7 @@
           "domain": "lifespan.io",
           "date": "2026-04-28T16:02:44.000Z",
           "source": "Lifespan.io",
-          "summary": "A new study has suggested that T cells might retain a pro-inflammatory phenotype long after normal weight is regained following a period of obesity. In mice, the effect lasts for […]"
+          "summary": "A new study has suggested that T cells might retain a pro-inflammatory phenotype long after normal weight is regained following a period of obesity. In mice, the effect lasts for weeks, while its existence and […]"
         },
         {
           "title": "Virus-inspired shot targets preventive longevity",
@@ -187,6 +187,14 @@
         "https://phys.org/rss-feed/biology-news/biotechnology/"
       ],
       "articles": [
+        {
+          "title": "Egg-scanning AI may let hatcheries sort life, death and sex before chicks emerge",
+          "url": "https://phys.org/news/2026-04-egg-scanning-ai-hatcheries-life.html",
+          "domain": "phys.org",
+          "date": "2026-04-28T21:30:03.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Eggs and poultry provide important sources of protein globally, driving a major industry with large economic impacts. Challenges to hatchery operations include embryo mortality, fertility, sex determination, and eggshell characteristics. These features have a substantial impact on production, but they are difficult and time-consuming to estimate."
+        },
         {
           "title": "Stick-on gel delivers drugs directly to plants to clear infections quickly",
           "url": "https://phys.org/news/2026-04-gel-drugs-infections-quickly.html",
@@ -258,14 +266,6 @@
           "date": "2026-04-28T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2604.23243v1 Announce Type: new Abstract: Compartmental epidemic models, grounded in mass-action kinetics, often assume homogeneous mixing. Although this neglects network structure, recent results show that for Poisson random graphs, the classical SIR model, especially the susceptible decay curve, matches the susceptible decay dynamics of its network counterpart. Motivated by this, we investigate whether the extended SIRI model with relapse from the recovered class admits a similar correspondence. SIRI dynamics arise in sevaral scenarios like spread of diseases with reactivation and behavioral contagion with relapse. We derive parameter relationships under which the pairwise SIRI model on a Poisson network closely follows the mass-action ODE trajectories. When transmission per contact is small relative to recovery, the susceptible and infectious trajectories of both systems align. This establishes conditions under which nonlinear SIRI dynamics on networks can be effectively approximated by tractable mean-field equations."
-        },
-        {
-          "title": "Messaging strategies and the emergence of echo chambers in collective decision-making",
-          "url": "https://arxiv.org/abs/2604.23408",
-          "domain": "arxiv.org",
-          "date": "2026-04-28T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2604.23408v1 Announce Type: new Abstract: Collective decision-making arises from individual agents integrating their own personal observations with information obtained from social partners. In many biological systems that exhibit collective decision-making, the process by which social information is produced, transmitted, and used is subject to two key constraints. First, individuals often do not observe the internal states or personal observations of their neighbors; instead, they observe neighbors' discrete actions. Second, agents often have limited attention, such that, at any given moment, only a subset of social partners influences decisions. Using methods from nonlinear dynamics, we show that either of these constraints can cause collective accuracy to become extremely sensitive to the weight individuals place on the information they receive from others. This sensitivity arises from the spontaneous formation of echo chamber-like states in which individuals receive and transmit homogeneous social messages. Under such conditions, collectives become locked in self-reinforcing states that prevent them from tracking changes in the environment. We reveal the mathematical basis of this phenomenon, and show that it emerges not only in generic models of collective decision-making but also in models developed to describe specific biological systems, including neural circuits, eusocial insect colonies, and mobile animal groups. Finally, we identify biologically plausible mechanisms through which individuals may reduce the risk of echo chamber formation and achieve robust yet sensitive collective decisions without requiring fine-tuning parameters. Our results reveal how fundamental constraints on communication shape the dynamics and reliability of collective decisions across diverse biological systems."
         }
       ]
     },
@@ -277,6 +277,22 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "Robinhood’s Q1 crypto revenue and trading volume fall nearly 50%",
+          "url": "https://www.theblock.co/post/399274/robinhoods-q1-crypto-revenue-and-trading-volume-fall-nearly-50?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-04-28T20:54:36.000Z",
+          "source": "The Block",
+          "summary": "The company reported a 7% year-over-year increase in transaction revenues, posting a total of $623 million for the quarter."
+        },
+        {
+          "title": "LayerZero commits 10,000 ETH to DeFi United effort",
+          "url": "https://www.theblock.co/post/399275/layerzero-commits-10000-eth-to-defi-united-effort?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-04-28T20:50:44.000Z",
+          "source": "The Block",
+          "summary": "Kelp says it used the default configuration for its LayerZero-powered Decentralized Verifier Network that was exploited."
+        },
         {
           "title": "Robinhood stock shrugs off a 47% crash in crypto revenue thanks to a massive surge in event betting",
           "url": "https://www.coindesk.com/markets/2026/04/28/robinhood-stock-shrugs-off-a-47-crash-in-crypto-revenue-thanks-to-a-massive-surge-in-event-betting",
@@ -340,22 +356,6 @@
           "date": "2026-04-28T18:22:41.000Z",
           "source": "CoinDesk",
           "summary": "The U.S. Commodity Futures Trading Commission added Wisconsin to the list of states it's sued over event-contract jurisdiction, most recently New York."
-        },
-        {
-          "title": "CFTC sues Wisconsin escalating federal-state clash over prediction market oversight",
-          "url": "https://www.theblock.co/post/399253/cftc-sues-wisconsin-federal-state-clash-prediction-market-oversight?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-04-28T18:10:16.000Z",
-          "source": "The Block",
-          "summary": "The CFTC is pushing back against the state of Wisconsin with its own lawsuit against the governor and other government officials."
-        },
-        {
-          "title": "Canaan, Tether deepen partnership on immersion-cooled mining systems",
-          "url": "https://cointelegraph.com/news/canaan-tether-mining-hardware-modular-bitcoin-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-04-28T17:14:35.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Canaan secures a new Tether order for modular mining hardware as the stablecoin issuer expands into integrated, data center-style Bitcoin infrastructure."
         }
       ]
     }
