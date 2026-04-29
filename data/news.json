@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-04-28T23:40:32.362Z",
+  "updatedAt": "2026-04-29T01:26:05.387Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -41,20 +41,20 @@
           "summary": "BIO Token Rally Raises Questions About DeSci Valuation Sustainability &nbsp;&nbsp; Investing.com"
         },
         {
+          "title": "Bio Protocol (BIO) Skyrockets: A Stunning 102% Surge Analyzed - CryptoRank",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5YQ0FCemJ0aU9JaW5LQ0tzRnhCMmtOUVJ5ZGhKWE5YR2N5SnZaN0tzRUk1QjJwTDFzX0pZODVBWDIyUEo4bG8tYV9VZTdpMnF5SExrVXM2aWFKQmZ0a1NWd21RaHBsWlFvVVpaX0VodDJWQW9pcTRSS3pxSQ?oc=5",
+          "domain": "cryptorank.io",
+          "date": "2026-04-16T07:00:00.000Z",
+          "source": "CryptoRank",
+          "summary": "Bio Protocol (BIO) Skyrockets: A Stunning 102% Surge Analyzed &nbsp;&nbsp; CryptoRank"
+        },
+        {
           "title": "AI Scientist Proposes New ADHD Treatment: BIO Protocol Explodes - Cryptonews",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vQVlSX3VmNzBmLWlzYWU4ODNJUjVUR1VWZWRJSFNvZU5DUk12UUVUQlA0V0Y5TnJ5NmdxNnNvWTMwX0FhdmNMOEtwYzJoVl8yM3BDNlFjTVh0aXFtOW1yU3E5dUJRWHBZUGVLVQ?oc=5",
           "domain": "cryptonews.com",
           "date": "2026-04-16T07:00:00.000Z",
           "source": "Cryptonews",
           "summary": "AI Scientist Proposes New ADHD Treatment: BIO Protocol Explodes &nbsp;&nbsp; Cryptonews"
-        },
-        {
-          "title": "Bio Protocol (BIO) Skyrockets: A Stunning 102% Surge Analyzed - CryptoRank",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5YQ0FCemJ0aU9JaW5LQ0tzRnhCMmtOUVJ5ZGhKWE5YR2N5SnZaN0tzRUk1QjJwTDFzX0pZODVBWDIyUEo4bG8tYV9VZTdpMnF5SExrVXM2aWFKQmZ0a1NWd21RaHBsWlFvVVpaX0VodDJWQW9pcTRSS3pxSQ?oc=5",
-          "domain": "cryptorank.io",
-          "date": "2026-04-16T04:59:10.000Z",
-          "source": "CryptoRank",
-          "summary": "Bio Protocol (BIO) Skyrockets: A Stunning 102% Surge Analyzed &nbsp;&nbsp; CryptoRank"
         },
         {
           "title": "Bio Protocol (BIO) Surges 30% Amid Bullish Technical Setup - KuCoin",
@@ -103,7 +103,7 @@
           "domain": "lifespan.io",
           "date": "2026-04-28T19:52:24.000Z",
           "source": "Lifespan.io",
-          "summary": "A new study calls for caution in using the well-known senolytic treatment of dasatinib and quercetin (D+Q), showing that it causes damage in certain regions of the brain, similar to what is observed in multiple sclerosis [1]. Stem cell senescence […]"
+          "summary": "A new study calls for caution in using the well-known senolytic treatment of dasatinib and quercetin (D+Q), showing that it causes […]"
         },
         {
           "title": "Endlyz raises Seed 2 financing, leans into root-cause neuroscience",
@@ -127,7 +127,7 @@
           "domain": "lifespan.io",
           "date": "2026-04-28T16:02:44.000Z",
           "source": "Lifespan.io",
-          "summary": "A new study has suggested that T cells might retain a pro-inflammatory phenotype long after normal weight is regained following a period of obesity. In mice, the effect lasts for […]"
+          "summary": "A new study has suggested that T cells might retain a pro-inflammatory phenotype long after normal weight is regained following a period of obesity. In mice, the effect lasts for weeks, while its existence and […]"
         },
         {
           "title": "Virus-inspired shot targets preventive longevity",
@@ -187,6 +187,14 @@
         "https://phys.org/rss-feed/biology-news/biotechnology/"
       ],
       "articles": [
+        {
+          "title": "Wingbeat radar signatures let AI sort bees, wasps and other insects",
+          "url": "https://phys.org/news/2026-04-wingbeat-radar-signatures-ai-bees.html",
+          "domain": "phys.org",
+          "date": "2026-04-29T00:00:01.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Pollinating insects are important for agriculture and ecological flourishing, but they are difficult to monitor, as identification is tricky, labor-intensive, and typically requires killing some insects. Publishing in PNAS Nexus, Adam Narbudowicz and colleagues use machine learning to identify insects by the changes in their radar reflection, caused by the flapping of their wings. The machine learning model extracted more than 70 harmonic, spectral, and temporal features from the Doppler radar signatures."
+        },
         {
           "title": "Egg-scanning AI may let hatcheries sort life, death and sex before chicks emerge",
           "url": "https://phys.org/news/2026-04-egg-scanning-ai-hatcheries-life.html",
@@ -258,14 +266,6 @@
           "date": "2026-04-28T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2604.23030v1 Announce Type: new Abstract: Progress in vision research has been slower downstream than upstream of primary visual cortex (V1). Traditional frameworks have largely overlooked a central constraint: only a tiny fraction of retinal input is recognized. Thus, to a first approximation, vision is better formulated as looking and seeing through a bottleneck. Looking, mainly by the peripheral visual field, selects visual information to enter this bottleneck, largely via gaze shifts that center selected contents at fovea. Seeing, mainly by the central visual field, recognizes this content. Converging evidence suggests that V1 initiates the bottleneck and contributes to looking by generating a bottom-up saliency map that guides saccades exogenously, and that top-down feedback along the visual pathway, targeting mainly the representation of the central visual field, refines seeing. Progress will accelerate through falsifiable theories that explicitly link behavior with neural substrates, and by experimental designs that avoid forced fixation and precisely track gaze."
-        },
-        {
-          "title": "Mean-Field and Pairwise Approaches for the SIRI Model on Poisson Networks",
-          "url": "https://arxiv.org/abs/2604.23243",
-          "domain": "arxiv.org",
-          "date": "2026-04-28T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2604.23243v1 Announce Type: new Abstract: Compartmental epidemic models, grounded in mass-action kinetics, often assume homogeneous mixing. Although this neglects network structure, recent results show that for Poisson random graphs, the classical SIR model, especially the susceptible decay curve, matches the susceptible decay dynamics of its network counterpart. Motivated by this, we investigate whether the extended SIRI model with relapse from the recovered class admits a similar correspondence. SIRI dynamics arise in sevaral scenarios like spread of diseases with reactivation and behavioral contagion with relapse. We derive parameter relationships under which the pairwise SIRI model on a Poisson network closely follows the mass-action ODE trajectories. When transmission per contact is small relative to recovery, the susceptible and infectious trajectories of both systems align. This establishes conditions under which nonlinear SIRI dynamics on networks can be effectively approximated by tractable mean-field equations."
         }
       ]
     },
@@ -277,6 +277,14 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "Bitcoin rally falters as AI industry weakens and CLARITY Act approval odds fall",
+          "url": "https://cointelegraph.com/markets/bitcoin-rally-falters-as-ai-industry-weakens-and-clarity-act-approval-odds-fall?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-04-28T23:47:37.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bitcoin’s dip below $76,000 was driven by an AI sector sell-off and investors’ worries about slowed progress in the CLARITY Act negotiations."
+        },
         {
           "title": "Judge rejects Sam Bankman-Fried’s new trial request, slams claims as ‘wildly conspiratorial’",
           "url": "https://www.theblock.co/post/399283/judge-rejects-sam-bankman-fried-new-trial-request-slams-claims-wildly-conspiratorial?utm_source=rss&utm_medium=rss",
@@ -348,14 +356,6 @@
           "date": "2026-04-28T18:40:30.000Z",
           "source": "The Block",
           "summary": "Strategy issuing STRC has helped the company accumulate over $7 billion worth of BTC in recent weeks, Bitwise says."
-        },
-        {
-          "title": "Alchemy and Privy roll out technical integration to smooth pain points of ‘onchain finance’",
-          "url": "https://www.theblock.co/post/399239/alchemy-and-privy-roll-out-technical-integration-to-smooth-pain-points-of-onchain-finance?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-04-28T18:30:00.000Z",
-          "source": "The Block",
-          "summary": "Alchemy and Privy are rolling out a technical integration in an attempt to smooth the pain points of using crypto."
         }
       ]
     }
