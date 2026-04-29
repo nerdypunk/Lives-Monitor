@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-04-29T11:21:07.596Z",
+  "updatedAt": "2026-04-29T13:09:13.997Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -8,6 +8,14 @@
         "https://news.google.com/rss/search?q=DeSci%20OR%20%22decentralized%20science%22%20OR%20%22BIO%20Protocol%22&hl=en-US&gl=US&ceid=US:en"
       ],
       "articles": [
+        {
+          "title": "Bio Protocol price outlook: $0.045 rebound possible amid extended consolidation - Invezz",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdXNLWVNQbTFuSUdQaC04TjVOa3p2UmpRQmpWcHpwdXgyNkhjQmxvUEE2cmxhWmJJdkdnOXhTRmtZOXQ4QlhYSkYwRTh5cWIzVkZTT3QzenltblFpek44dm90SDlIOVhUU1EyNmhsLVBtSTA2T3BsSklEQmpMdG9FMXV1Tkw1d04teDU1eG43YlFHVGJueUlSNTV0czlEbURmbzBiUHRqdUVpTnZncDNMRWh4aw?oc=5",
+          "domain": "invezz.com",
+          "date": "2026-04-29T12:11:15.000Z",
+          "source": "Invezz",
+          "summary": "Bio Protocol price outlook: $0.045 rebound possible amid extended consolidation &nbsp;&nbsp; Invezz"
+        },
         {
           "title": "desci Crypto Market & Spot Trading Pairs | Prices, Charts & Liquidity | MEXC - MEXC Exchange",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03UVY2NFB2SzA4dUpJUXY5Uk51aTdzVi1QR2xMUVV2bHBlZ256Ulk0SXNxTm03OGJuc0N6b29pX3ZIU0d0aTd1cGZkQ1ZIZ1d6Ym9JbTl1dkJaeVBIdk4yam5PWHdzUQ?oc=5",
@@ -79,14 +87,6 @@
           "date": "2026-04-15T11:13:21.000Z",
           "source": "KuCoin",
           "summary": "Bio Protocol (BIO) Surges 30% Amid Bullish Technical Setup &nbsp;&nbsp; KuCoin"
-        },
-        {
-          "title": "DeSci 项目 NanoVita 宣布完成 A 轮融资，K24 Ventures 等机构参投 - CryptoRank",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBIV3RnNEVBYnBVZFBlaTFub1dsbFdYTnlDSUpBellvZ3N1SHAxTnJTUUxSTzdteGlJaHBDaXB3SENubTkzZjV3dzJ0ckFuem1JZDlWSjYyRDQ?oc=5",
-          "domain": "cryptorank.io",
-          "date": "2026-04-09T07:00:00.000Z",
-          "source": "CryptoRank",
-          "summary": "DeSci 项目 NanoVita 宣布完成 A 轮融资，K24 Ventures 等机构参投 &nbsp;&nbsp; CryptoRank"
         }
       ]
     },
@@ -97,6 +97,14 @@
         "https://longevity.technology/feed/"
       ],
       "articles": [
+        {
+          "title": "Infinite Epigenetics acquires Tally Health",
+          "url": "https://longevity.technology/news/infinite-epigenetics-acquires-tally-health/",
+          "domain": "longevity.technology",
+          "date": "2026-04-29T13:00:22.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Deal unites clinical diagnostic powerhouse with high-profile consumer platform, creating an integrated epigenetics-driven longevity model. Infinite Epigenetics is acquiring Tally Health in what is, by most measures, the largest consolidation we’ve seen in the epigenetic age testing space. By folding a consumer-focused longevity brand into their existing diagnostic infrastructure, Infinite (which is the parent company […] The post Infinite Epigenetics acquires Tally Health appeared first on Longevity.Technology ."
+        },
         {
           "title": "Alterity Therapeutics receives positive regulatory feedback on ATH434",
           "url": "https://longevity.technology/news/alterity-therapeutics-receives-positive-regulatory-feedback-on-ath434/",
@@ -135,7 +143,7 @@
           "domain": "lifespan.io",
           "date": "2026-04-28T19:52:24.000Z",
           "source": "Lifespan.io",
-          "summary": "A new study calls for caution in using the well-known senolytic treatment of dasatinib and quercetin (D+Q), showing that it causes damage in certain […]"
+          "summary": "A new study calls for caution in using the well-known senolytic treatment of dasatinib and quercetin (D+Q), showing that it causes damage in certain regions of the brain, similar to what is observed in multiple sclerosis [1]. Stem […]"
         },
         {
           "title": "Endlyz raises Seed 2 financing, leans into root-cause neuroscience",
@@ -159,7 +167,7 @@
           "domain": "lifespan.io",
           "date": "2026-04-28T16:02:44.000Z",
           "source": "Lifespan.io",
-          "summary": "A new study has suggested that T cells might retain a pro-inflammatory phenotype long after normal weight is regained following a period of obesity. In mice, the […]"
+          "summary": "A new study has suggested that T cells might retain a pro-inflammatory phenotype long after normal weight is regained following a period of obesity. In mice, the effect lasts for weeks, while its existence and duration in […]"
         },
         {
           "title": "Virus-inspired shot targets preventive longevity",
@@ -168,14 +176,6 @@
           "date": "2026-04-28T15:47:08.000Z",
           "source": "Longevity.Technology",
           "summary": "Smart Nanovirus debuts RIGVIR X, a monthly liquid designed to support immune surveillance and widen access to preventive biotech. A new entrant in the growing field of preventive biotechnology is betting on something both old and newly reimagined: viruses. Smart Nanovirus Limited, a UK-based biotech company, has launched RIGVIR X, a monthly liquid supplement designed […] The post Virus-inspired shot targets preventive longevity appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Knee implant outperforms standard care at 5 years",
-          "url": "https://longevity.technology/news/knee-implant-outperforms-standard-care-at-5-years/",
-          "domain": "longevity.technology",
-          "date": "2026-04-28T13:45:02.000Z",
-          "source": "Longevity.Technology",
-          "summary": "New trial data point to longer-lasting mobility gains, expanding options for patients stuck between early damage and full joint replacement. A particular kind of frustration that comes with knee problems. You’re not “bad enough” for a replacement, but you’re far from fine. You start skipping runs, avoiding stairs and sitting out games you used to […] The post Knee implant outperforms standard care at 5 years appeared first on Longevity.Technology ."
         }
       ]
     },
@@ -278,84 +278,84 @@
       ],
       "articles": [
         {
-          "title": "Tether leads Belo's $14 million raise to expand stablecoin payments across Latin America",
-          "url": "https://www.coindesk.com/business/2026/04/28/tether-leads-belo-s-usd14-million-raise-to-expand-stablecoin-payments-across-latin-america",
-          "domain": "coindesk.com",
-          "date": "2026-04-29T11:13:32.000Z",
-          "source": "CoinDesk",
-          "summary": "Belo, which has over 3 million users across Latin America, offers a digital wallet that lets users hold and transfer local currencies alongside digital dollars."
-        },
-        {
-          "title": "Ripple, OKX expand RLUSD access with over 280 spot pairs, derivatives use",
-          "url": "https://www.theblock.co/post/399298/ripple-okx-expand-rlusd-access?utm_source=rss&utm_medium=rss",
+          "title": "Prediction market volume tops $25 billion monthly as retail activity dominates, crypto drives onboarding: report",
+          "url": "https://www.theblock.co/post/399362/retail-activity-lifts-prediction-market-volume?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-04-29T11:00:00.000Z",
+          "date": "2026-04-29T13:00:00.000Z",
           "source": "The Block",
-          "summary": "OKX customers can now use RLUSD 'to trade and collateralize positions across both spot and derivatives markets.'"
+          "summary": "Retail dominated as prediction market volume reached $25.7B last month, with crypto accounting for nearly 40% of activity among new users."
         },
         {
-          "title": "Bitcoin rebounds from key support as traders eye renewed push toward $80,000",
-          "url": "https://www.coindesk.com/markets/2026/04/29/bitcoin-rebounds-from-key-support-as-traders-eye-renewed-push-toward-usd80-000",
+          "title": "DeFi shaken by $292 million hack, but showing resilience, Standard Chartered says",
+          "url": "https://www.coindesk.com/business/2026/04/29/defi-shaken-by-usd292-million-hack-but-showing-resilience-standard-chartered-says",
           "domain": "coindesk.com",
-          "date": "2026-04-29T10:48:18.000Z",
+          "date": "2026-04-29T12:55:30.000Z",
           "source": "CoinDesk",
-          "summary": "BTC climbs after holding at the $75,600 support level while derivatives signal de-risking, and speculative flows build in memecoins ahead of tech earnings."
+          "summary": "The AAVE-led response and new safeguards underscore the sector's maturity as the bank maintains its $2 trillion RWA outlook."
         },
         {
-          "title": "First prediction market ETFs could launch next week, Bloomberg analyst says",
-          "url": "https://www.theblock.co/post/399335/prediction-market-etfs?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-04-29T10:40:37.000Z",
-          "source": "The Block",
-          "summary": "Roundhill’s SEC filing set a May 5 effective date for its prediction market ETFs, which analysts say could pave the way for a launch next week."
-        },
-        {
-          "title": "Mezo unveils institutional bitcoin yield vaults as demand grows to put idle BTC to work",
-          "url": "https://www.coindesk.com/business/2026/04/29/mezo-unveils-institutional-bitcoin-yield-vaults-as-demand-grows-to-put-idle-btc-to-work",
+          "title": "Securitize, Computershare open path for $70 trillion U.S. stocks to move onchain",
+          "url": "https://www.coindesk.com/business/2026/04/29/securitize-computershare-open-path-for-usd70-trillion-u-s-stocks-to-move-onchain",
           "domain": "coindesk.com",
-          "date": "2026-04-29T10:28:02.000Z",
+          "date": "2026-04-29T12:45:43.000Z",
           "source": "CoinDesk",
-          "summary": "A new product from Mezo, backed by Anchorage Digital and seeded by Bullish, highlights a broader shift as institutions seek yield on bitcoin without sacrificing custody or control."
+          "summary": "The tie-up between the tokenization specialist and transfer agent giant lets public companies issue blockchain-based shares without changing market structure."
         },
         {
-          "title": "Celsius founder Alex Mashinsky settles FTC case with $10M payment",
-          "url": "https://cointelegraph.com/news/celsius-founder-settlement-includes-10m-payment-suspended-47b-judgment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "GSR says Crypto Core3 ETF is simple gateway for mainstream investors",
+          "url": "https://www.coindesk.com/coindesk-news/2026/04/29/gsr-says-crypto-core3-etf-is-simple-gateway-for-mainstream-investors",
+          "domain": "coindesk.com",
+          "date": "2026-04-29T12:43:44.000Z",
+          "source": "CoinDesk",
+          "summary": "A new actively managed ETF aims to simplify crypto investing by bundling Bitcoin, Ethereum and Solana into one rebalanced portfolio."
+        },
+        {
+          "title": "ZetaChain dismissed bug report that could have prevented $334K exploit",
+          "url": "https://cointelegraph.com/news/zetachain-dismissed-bug-report-that-could-have-prevented-334k-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-04-29T10:10:18.000Z",
+          "date": "2026-04-29T12:17:29.000Z",
           "source": "CoinTelegraph",
-          "summary": "The FTC order ties Mashinsky’s $10 million payment to a mostly suspended $4.72 billion judgment that can be revived over asset disclosures."
+          "summary": "The vulnerability behind ZetaChain's $334,000 exploit had been reported through its bug bounty program before the attack but was dismissed."
         },
         {
-          "title": "Bernstein sees Robinhood Q1 miss as priced in, maintains $130 target implying 58% upside",
-          "url": "https://www.theblock.co/post/399331/bernstein-sees-robinhood-q1-miss-as-priced-in-maintains-130-target-implying-58-upside?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-04-29T10:07:05.000Z",
-          "source": "The Block",
-          "summary": "Bernstein maintained a $130 price target for Robinhood after a Q1 miss, highlighting its record 8.8B event contracts and $17B margin book."
-        },
-        {
-          "title": "Fake Hong Kong stablecoins start trading as real ones remain absent",
-          "url": "https://www.coindesk.com/policy/2026/04/29/fake-hong-kong-stablecoins-start-trading-as-real-ones-remain-absent",
+          "title": "Galaxy Digital leads $20 million investment in Fence to overhaul back end of $6 trillion credit market",
+          "url": "https://www.coindesk.com/business/2026/04/28/galaxy-digital-leads-usd20-million-investment-in-fence-to-overhaul-back-end-of-usd6-trillion-credit-market",
           "domain": "coindesk.com",
-          "date": "2026-04-29T10:06:08.000Z",
+          "date": "2026-04-29T12:17:12.000Z",
           "source": "CoinDesk",
-          "summary": "Tokens using ‘HKDAP’ and ‘HSBC’ tickers are circulating even as the HKMA says no licensed stablecoins have been issued"
+          "summary": "Startup Fence uses blockchain technology and tokenization in the background to automate processes that many asset managers still rely on manual workflows."
         },
         {
-          "title": "‘This is the future’: Czech central bank governor makes case for bitcoin in sovereign reserves",
-          "url": "https://www.theblock.co/post/399330/this-is-the-future-czech-central-bank-governor-makes-case-for-bitcoin-in-sovereign-reserves?utm_source=rss&utm_medium=rss",
+          "title": "MoonPay acquires Israeli crypto security firm Sodot in $100 million stock deal",
+          "url": "https://www.coindesk.com/business/2026/04/29/moonpay-acquires-israeli-crypto-security-firm-sodot-in-usd100-million-stock-deal",
+          "domain": "coindesk.com",
+          "date": "2026-04-29T12:13:52.000Z",
+          "source": "CoinDesk",
+          "summary": "The acquisition gives MoonPay the security infrastructure for a new institutional business led by former CFTC Acting Chair Caroline Pham."
+        },
+        {
+          "title": "Price of bitcoin could go higher or ‘can go to zero,’ says Czech central bank governor",
+          "url": "https://www.coindesk.com/markets/2026/04/29/price-of-bitcoin-could-go-higher-or-can-go-to-zero-says-czech-central-bank-governor",
+          "domain": "coindesk.com",
+          "date": "2026-04-29T12:11:14.000Z",
+          "source": "CoinDesk",
+          "summary": "The Czech Central Bank purchased $1 million in bitcoin in October to run tests and conduct a study and found it is more efficient than stocks and gold but much too risky."
+        },
+        {
+          "title": "Stable Sea taps WisdomTree to bring tokenized Treasury access to small and medium-sized businesses",
+          "url": "https://www.theblock.co/post/399349/stable-sea-taps-wisdomtree-tokenized-treasurys-businesses?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-04-29T09:54:50.000Z",
+          "date": "2026-04-29T12:05:02.000Z",
           "source": "The Block",
-          "summary": "Czech National Bank Governor Ales Michl told Bitcoin 2026 that BTC can improve reserve portfolios without materially increasing risk."
+          "summary": "“We want to be the default for 'money at rest' within the onchain space,” WisdomTree Head of Digital Assets Will Peck said."
         },
         {
-          "title": "Canada proposes crypto ATM ban over scams and money laundering",
-          "url": "https://cointelegraph.com/news/canada-proposes-crypto-atm-ban-over-scams-and-money-laundering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-04-29T09:49:45.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Ottawa says Bitcoin ATMs have become a key tool for scammers, as regulators move to tighten oversight of high-risk parts of the crypto sector."
+          "title": "A tiny group is winning on Polymarket as under 1% of wallets take half the profits",
+          "url": "https://www.coindesk.com/markets/2026/04/29/a-tiny-group-is-winning-on-polymarket-as-under-1-of-wallets-take-half-the-profits",
+          "domain": "coindesk.com",
+          "date": "2026-04-29T12:00:19.000Z",
+          "source": "CoinDesk",
+          "summary": "After research showed a small minority moves prices, new data suggests an even smaller group captures roughly half of all gains"
         }
       ]
     }
