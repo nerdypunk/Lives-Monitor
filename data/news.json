@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-04-29T13:09:13.997Z",
+  "updatedAt": "2026-04-29T15:29:08.737Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -98,12 +98,20 @@
       ],
       "articles": [
         {
+          "title": "The AI race to stop chronic disease just got funded with $3.5m",
+          "url": "https://longevity.technology/news/the-ai-race-to-stop-chronic-disease-just-got-funded-with-3-5m/",
+          "domain": "longevity.technology",
+          "date": "2026-04-29T14:20:24.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Munich startup dehaze targets earlier detection and up to $800b in savings by finally making sense of healthcare’s unused data. Healthcare has never had more data, and yet, it still misses the moment that matters most. Every patient generates a trail: lab results, scans, prescriptions, histories. However, in practice, doctors only have the time and […] The post The AI race to stop chronic disease just got funded with $3.5m appeared first on Longevity.Technology ."
+        },
+        {
           "title": "Infinite Epigenetics acquires Tally Health",
           "url": "https://longevity.technology/news/infinite-epigenetics-acquires-tally-health/",
           "domain": "longevity.technology",
           "date": "2026-04-29T13:00:22.000Z",
           "source": "Longevity.Technology",
-          "summary": "Deal unites clinical diagnostic powerhouse with high-profile consumer platform, creating an integrated epigenetics-driven longevity model. Infinite Epigenetics is acquiring Tally Health in what is, by most measures, the largest consolidation we’ve seen in the epigenetic age testing space. By folding a consumer-focused longevity brand into their existing diagnostic infrastructure, Infinite (which is the parent company […] The post Infinite Epigenetics acquires Tally Health appeared first on Longevity.Technology ."
+          "summary": "Deal unites clinical diagnostic powerhouse with high-profile consumer platform, creating an integrated epigenetics-driven longevity model. Infinite Epigenetics is acquiring Tally Health in what is the largest consolidation to date in the epigenetic age testing space. By folding the Sinclair-founded, consumer-focused longevity brand into their existing diagnostic infrastructure, Infinite (which is the parent company of TruDiagnostic) […] The post Infinite Epigenetics acquires Tally Health appeared first on Longevity.Technology ."
         },
         {
           "title": "Alterity Therapeutics receives positive regulatory feedback on ATH434",
@@ -167,15 +175,7 @@
           "domain": "lifespan.io",
           "date": "2026-04-28T16:02:44.000Z",
           "source": "Lifespan.io",
-          "summary": "A new study has suggested that T cells might retain a pro-inflammatory phenotype long after normal weight is regained following a period of obesity. In mice, the effect lasts for weeks, while its existence and duration in […]"
-        },
-        {
-          "title": "Virus-inspired shot targets preventive longevity",
-          "url": "https://longevity.technology/news/virus-inspired-shot-targets-preventive-longevity/",
-          "domain": "longevity.technology",
-          "date": "2026-04-28T15:47:08.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Smart Nanovirus debuts RIGVIR X, a monthly liquid designed to support immune surveillance and widen access to preventive biotech. A new entrant in the growing field of preventive biotechnology is betting on something both old and newly reimagined: viruses. Smart Nanovirus Limited, a UK-based biotech company, has launched RIGVIR X, a monthly liquid supplement designed […] The post Virus-inspired shot targets preventive longevity appeared first on Longevity.Technology ."
+          "summary": "A new study has suggested that T cells might retain a pro-inflammatory phenotype long after normal weight is regained following a period of obesity. In mice, the effect lasts for weeks, while its existence and duration in humans […]"
         }
       ]
     },
@@ -278,84 +278,84 @@
       ],
       "articles": [
         {
-          "title": "Prediction market volume tops $25 billion monthly as retail activity dominates, crypto drives onboarding: report",
-          "url": "https://www.theblock.co/post/399362/retail-activity-lifts-prediction-market-volume?utm_source=rss&utm_medium=rss",
+          "title": "The AI-crypto disconnect: Why Pantera’s CEO thinks institutions are missing the boat on bitcoin",
+          "url": "https://www.coindesk.com/markets/2026/04/29/ai-stocks-are-overheated-and-crypto-is-incredibly-cheap-pantera-ceo-dan-morehead-says",
+          "domain": "coindesk.com",
+          "date": "2026-04-29T15:25:39.000Z",
+          "source": "CoinDesk",
+          "summary": "Pantera Capital CEO Dan Morehead says the \"biggest divergence in history\" has left AI stocks fully priced while bitcoin remains massively undervalued at 43% below its historical trend."
+        },
+        {
+          "title": "Visa expands stablecoin settlement network as volume hits $7 billion run rate",
+          "url": "https://www.coindesk.com/business/2026/04/29/visa-expands-stablecoin-settlement-network-as-volume-hits-usd7-billion-run-rate",
+          "domain": "coindesk.com",
+          "date": "2026-04-29T15:11:32.000Z",
+          "source": "CoinDesk",
+          "summary": "The payments giant added support for Stripe's Tempo, Circle's Arc, Coinbase's Base, Polygon and Canton Network as stablecoins gain traction in global money movement."
+        },
+        {
+          "title": "Visa stablecoin settlement hits $7 billion run rate as pilot expands to nine blockchains",
+          "url": "https://www.theblock.co/post/399405/visa-stablecoin-settlement-hits-7-billion-run-rate-pilot-expands-nine-blockchains?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-04-29T13:00:00.000Z",
+          "date": "2026-04-29T15:08:38.000Z",
           "source": "The Block",
-          "summary": "Retail dominated as prediction market volume reached $25.7B last month, with crypto accounting for nearly 40% of activity among new users."
+          "summary": "Visa added five blockchains to its stablecoin settlement pilot as annualized volume reached $7 billion, up 50% from last quarter."
         },
         {
-          "title": "DeFi shaken by $292 million hack, but showing resilience, Standard Chartered says",
-          "url": "https://www.coindesk.com/business/2026/04/29/defi-shaken-by-usd292-million-hack-but-showing-resilience-standard-chartered-says",
+          "title": "Bitcoin ETFs fuel institutional surge, 21Shares' CIO sees $100K possible by year-end",
+          "url": "https://www.coindesk.com/coindesk-news/2026/04/29/bitcoin-etfs-fuel-institutional-surge-21shares-cio-sees-usd100k-possible-by-year-end",
           "domain": "coindesk.com",
-          "date": "2026-04-29T12:55:30.000Z",
+          "date": "2026-04-29T15:03:03.000Z",
           "source": "CoinDesk",
-          "summary": "The AAVE-led response and new safeguards underscore the sector's maturity as the bank maintains its $2 trillion RWA outlook."
+          "summary": "Bitcoin’s growing ETF inflows and institutional adoption are reinforcing its role in portfolios, even as prices struggle below $80,000."
         },
         {
-          "title": "Securitize, Computershare open path for $70 trillion U.S. stocks to move onchain",
-          "url": "https://www.coindesk.com/business/2026/04/29/securitize-computershare-open-path-for-usd70-trillion-u-s-stocks-to-move-onchain",
+          "title": "Crypto Long & Short: Guide, deliver, repeat: the hidden driver of token performance",
+          "url": "https://www.coindesk.com/coindesk-indices/2026/04/29/crypto-long-and-short-guide-deliver-repeat-the-hidden-driver-of-token-performance",
           "domain": "coindesk.com",
-          "date": "2026-04-29T12:45:43.000Z",
+          "date": "2026-04-29T14:59:55.000Z",
           "source": "CoinDesk",
-          "summary": "The tie-up between the tokenization specialist and transfer agent giant lets public companies issue blockchain-based shares without changing market structure."
+          "summary": "In this week’s Crypto Long & Short Newsletter, Jordan Brewer writes on the missing piece in token markets: institutional-grade investor relations. Then, Martin Burgherr breaks down how crypto markets are maturing, becoming more efficient and lower risk for institutions."
         },
         {
-          "title": "GSR says Crypto Core3 ETF is simple gateway for mainstream investors",
-          "url": "https://www.coindesk.com/coindesk-news/2026/04/29/gsr-says-crypto-core3-etf-is-simple-gateway-for-mainstream-investors",
-          "domain": "coindesk.com",
-          "date": "2026-04-29T12:43:44.000Z",
-          "source": "CoinDesk",
-          "summary": "A new actively managed ETF aims to simplify crypto investing by bundling Bitcoin, Ethereum and Solana into one rebalanced portfolio."
+          "title": "‘Tokenize the world’: Securitize partners with Computershare to bring more stocks onchain",
+          "url": "https://www.theblock.co/post/399390/tokenize-world-securitize-computershare-to-bring-more-stocks-onchain?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-04-29T14:56:06.000Z",
+          "source": "The Block",
+          "summary": "The agreement could prove to be a major unlock for bringing U.S. equities onchain as tokenization becomes part of the ownership layer."
         },
         {
-          "title": "ZetaChain dismissed bug report that could have prevented $334K exploit",
-          "url": "https://cointelegraph.com/news/zetachain-dismissed-bug-report-that-could-have-prevented-334k-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "MoonPay acquires crypto key manager Sodot, launches institutional business led by former CFTC acting chair",
+          "url": "https://www.theblock.co/post/399398/moonpay-acquires-crypto-key-manager-sodot-launches-institutional-business-led-by-former-cftc-acting-chair?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-04-29T14:48:49.000Z",
+          "source": "The Block",
+          "summary": "Former acting CFTC Chair Caroline Pham will lead MoonPay's new division focused on banks, asset managers, and trading firms."
+        },
+        {
+          "title": "Kevin Warsh clears key Senate Banking Committee vote to become Federal Reserve chair",
+          "url": "https://www.theblock.co/post/399393/kevin-warsh-clears-key-senate-banking-committee-vote-to-become-federal-reserve-chair?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-04-29T14:32:40.000Z",
+          "source": "The Block",
+          "summary": "The Senate Banking Committee voted to approve Federal Reserve Chair pick Kevin Warsh's nomination, sending it to the full Senate."
+        },
+        {
+          "title": "KuCoin EU hires new AML chief after Austria ban on new business under MiCA",
+          "url": "https://cointelegraph.com/news/kucoin-eu-hires-new-aml-chief-after-austria-ban-on-new-business-under-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-04-29T12:17:29.000Z",
+          "date": "2026-04-29T14:28:24.000Z",
           "source": "CoinTelegraph",
-          "summary": "The vulnerability behind ZetaChain's $334,000 exploit had been reported through its bug bounty program before the attack but was dismissed."
+          "summary": "KuCoin EU hires a new AML chief and deputies in Vienna weeks after Austria’s regulator banned the MiCA‑licensed exchange from taking on new business over compliance gaps."
         },
         {
-          "title": "Galaxy Digital leads $20 million investment in Fence to overhaul back end of $6 trillion credit market",
-          "url": "https://www.coindesk.com/business/2026/04/28/galaxy-digital-leads-usd20-million-investment-in-fence-to-overhaul-back-end-of-usd6-trillion-credit-market",
+          "title": "Wall Street is launching the first ever prediction market ETFs for U.S. elections",
+          "url": "https://www.coindesk.com/markets/2026/04/29/wall-street-is-launching-the-first-ever-prediction-market-etfs-for-u-s-elections",
           "domain": "coindesk.com",
-          "date": "2026-04-29T12:17:12.000Z",
+          "date": "2026-04-29T14:27:55.000Z",
           "source": "CoinDesk",
-          "summary": "Startup Fence uses blockchain technology and tokenization in the background to automate processes that many asset managers still rely on manual workflows."
-        },
-        {
-          "title": "MoonPay acquires Israeli crypto security firm Sodot in $100 million stock deal",
-          "url": "https://www.coindesk.com/business/2026/04/29/moonpay-acquires-israeli-crypto-security-firm-sodot-in-usd100-million-stock-deal",
-          "domain": "coindesk.com",
-          "date": "2026-04-29T12:13:52.000Z",
-          "source": "CoinDesk",
-          "summary": "The acquisition gives MoonPay the security infrastructure for a new institutional business led by former CFTC Acting Chair Caroline Pham."
-        },
-        {
-          "title": "Price of bitcoin could go higher or ‘can go to zero,’ says Czech central bank governor",
-          "url": "https://www.coindesk.com/markets/2026/04/29/price-of-bitcoin-could-go-higher-or-can-go-to-zero-says-czech-central-bank-governor",
-          "domain": "coindesk.com",
-          "date": "2026-04-29T12:11:14.000Z",
-          "source": "CoinDesk",
-          "summary": "The Czech Central Bank purchased $1 million in bitcoin in October to run tests and conduct a study and found it is more efficient than stocks and gold but much too risky."
-        },
-        {
-          "title": "Stable Sea taps WisdomTree to bring tokenized Treasury access to small and medium-sized businesses",
-          "url": "https://www.theblock.co/post/399349/stable-sea-taps-wisdomtree-tokenized-treasurys-businesses?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-04-29T12:05:02.000Z",
-          "source": "The Block",
-          "summary": "“We want to be the default for 'money at rest' within the onchain space,” WisdomTree Head of Digital Assets Will Peck said."
-        },
-        {
-          "title": "A tiny group is winning on Polymarket as under 1% of wallets take half the profits",
-          "url": "https://www.coindesk.com/markets/2026/04/29/a-tiny-group-is-winning-on-polymarket-as-under-1-of-wallets-take-half-the-profits",
-          "domain": "coindesk.com",
-          "date": "2026-04-29T12:00:19.000Z",
-          "source": "CoinDesk",
-          "summary": "After research showed a small minority moves prices, new data suggests an even smaller group captures roughly half of all gains"
+          "summary": "SEC-regulated funds use swaps tied to binary-event contracts and aim to expand access to election trading through retail brokerage accounts."
         }
       ]
     }
