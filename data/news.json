@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-04-30T13:10:31.092Z",
+  "updatedAt": "2026-04-30T15:24:20.874Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -8,6 +8,14 @@
         "https://news.google.com/rss/search?q=DeSci%20OR%20%22decentralized%20science%22%20OR%20%22BIO%20Protocol%22&hl=en-US&gl=US&ceid=US:en"
       ],
       "articles": [
+        {
+          "title": "Insiders Are Quietly Positioning In DeSci While The Rest Watches BTC - Yellow.com",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1uV1J3dTNLdXM3MFdQZ3hqSmp6MEpuNUN6TDNrUVk0cXFSSkZMZGpQbHpFTjJKRFRNU3V4YnBLT2hVbnpwV05FRGYyWWRka0ZxVnFXeWdJTTFxa3RsUWhkQ0RFblV5emExMkhjQjVZbVNQTFdIT2gteERmUQ?oc=5",
+          "domain": "yellow.com",
+          "date": "2026-04-30T12:27:10.000Z",
+          "source": "Yellow.com",
+          "summary": "Insiders Are Quietly Positioning In DeSci While The Rest Watches BTC &nbsp;&nbsp; Yellow.com"
+        },
         {
           "title": "5 Top DeSci Projects That Are Currently Running Real-World Clinical Trials - FinanceFeeds",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVmhGQkY5TGN6a2tmWG94OWFiYXR5Q0EwZHI1WWJIUUFzYTZFcmdhcFVWWVhNSlZSVGdINmhqZ3BTazdsODM0MXZZZE13QzNabHE4cXNoYkV5Wkd4Z3c3eVEzUWtJZFdmYThkY0JJR2xOZ2JxenZxS0hVNVV4aUF5a1NVMml6M2kwX29hamZzcjBqbkdVdjdaQ1VnV3EzREQ1SkE?oc=5",
@@ -79,14 +87,6 @@
           "date": "2026-04-23T18:29:28.000Z",
           "source": "Cryptonews.net",
           "summary": "Bio Protocol Gains Momentum as AI-Driven DeSci Hype Builds &nbsp;&nbsp; Cryptonews.net"
-        },
-        {
-          "title": "BIO Surges 96%: Is DeSci the Next Big Narrative in Crypto? - KuCoin",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56cHhfTzRCLWNpcG0wTUtXWndReHdGbEhLWG9yRzc2cDhPTlpSMnhfUFJSUk1nQmJ5cHloSzFzVlVQdVNMZTA5dFM4aTNyTzZJY0lJaXRodGx5VEIxVERRMVF4blFSVXpZa0E?oc=5",
-          "domain": "kucoin.com",
-          "date": "2026-04-20T07:00:00.000Z",
-          "source": "KuCoin",
-          "summary": "BIO Surges 96%: Is DeSci the Next Big Narrative in Crypto? &nbsp;&nbsp; KuCoin"
         }
       ]
     },
@@ -97,6 +97,54 @@
         "https://longevity.technology/feed/"
       ],
       "articles": [
+        {
+          "title": "Metashape Pharma to present new data on GLP-1 combination, muscle health",
+          "url": "https://longevity.technology/news/metashape-pharma-to-present-new-data-on-glp-1-combination-muscle-health/",
+          "domain": "longevity.technology",
+          "date": "2026-04-30T13:51:09.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Metashape Pharma announced that new preclinical data from a study of MS 001 combined with semaglutide will be presented at the American Diabetes Association 2026 Scientific Sessions, 5–8 June 2026 in New Orleans. The company’s abstract was selected for both the ADA Late Breaking Poster Session (poster 3059-LB, category 23-A Obesity – Animal) on Sunday, […] The post Metashape Pharma to present new data on GLP-1 combination, muscle health appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "VectorY Therapeutics clears UK and EU to start VTx-002 ALS trial",
+          "url": "https://longevity.technology/news/vectory-therapeutics-clears-uk-and-eu-to-start-vtx-002-als-trial/",
+          "domain": "longevity.technology",
+          "date": "2026-04-30T13:46:09.000Z",
+          "source": "Longevity.Technology",
+          "summary": "VectorY Therapeutics has received authorization from the U.K. Medicines and Healthcare products Regulatory Agency and approval from the European Medicines Agency to initiate its Phase 1/2 PIONEER-ALS clinical trial of VTx-002 in people living with amyotrophic lateral sclerosis. The approvals expand a study already underway in the United States and cover European clinical sites in […] The post VectorY Therapeutics clears UK and EU to start VTx-002 ALS trial appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "Infinite Epigenetics acquires Tally Health",
+          "url": "https://longevity.technology/news/infinite-epigenetics-acquires-tally-health-2/",
+          "domain": "longevity.technology",
+          "date": "2026-04-30T13:41:09.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Infinite Epigenetics completed an asset purchase of Tally Health, a consumer-focused biotechnology business that offers epigenetic testing and personalized longevity interventions. The transaction, described by the company as the largest in epigenetic age testing, brings together advanced diagnostics, proprietary datasets and consumer-facing supplements and recommendations. Tally Health will continue to operate as a standalone consumer […] The post Infinite Epigenetics acquires Tally Health appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "Inside the race to build longevity-ready business models",
+          "url": "https://longevity.technology/news/inside-the-race-to-build-longevity-ready-business-models/",
+          "domain": "longevity.technology",
+          "date": "2026-04-30T13:36:43.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Leading experts warn that ageism and outdated business models are leaving revenue and opportunity on the table. The preview breakfast for the Longevity Show’s B2B conference brought together senior decision-makers to explore how the shift to 100-year lifespans is reshaping commercial strategy, healthcare delivery and consumer expectations. Hosted at Edelman’s UK HQ, this event brought […] The post Inside the race to build longevity-ready business models appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "NorthStrive files U.S. patent application for EL-22 formulations",
+          "url": "https://longevity.technology/news/northstrive-files-u-s-patent-application-for-el-22-formulations/",
+          "domain": "longevity.technology",
+          "date": "2026-04-30T13:36:09.000Z",
+          "source": "Longevity.Technology",
+          "summary": "NorthStrive Biosciences Inc., a Newport Beach, Calif. subsidiary of PMGC Holdings Inc. (Nasdaq: ELAB), filed U.S. Patent Application No. 19/655,160 on 28 April, seeking protection for pharmaceutical compositions, formulations and dosing regimens of its myostatin-engineered probiotic EL-22 for the treatment of muscle-wasting conditions. The application covers a broad range of indications, including muscle loss associated […] The post NorthStrive files U.S. patent application for EL-22 formulations appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "Aesthetic Record acquires Joya Health to expand skin health network",
+          "url": "https://longevity.technology/news/aesthetic-record-acquires-joya-health-to-expand-skin-health-network/",
+          "domain": "longevity.technology",
+          "date": "2026-04-30T13:31:09.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Aesthetic Record has acquired Joya Health, a corporate skin health and wellness benefit that connects employers and employees to credentialed dermatological and aesthetic care. Aesthetic Record is an EMR and practice management platform used by more than 30,000 aesthetic providers nationwide, according to the company. The company claims Joya has achieved roughly 40% member utilization […] The post Aesthetic Record acquires Joya Health to expand skin health network appeared first on Longevity.Technology ."
+        },
         {
           "title": "Nuchido announced as Catalyst Partner for The Longevity Show",
           "url": "https://longevity.technology/news/nuchido-announced-as-catalyst-partner-for-the-longevity-show/",
@@ -111,7 +159,7 @@
           "domain": "lifespan.io",
           "date": "2026-04-29T16:12:07.000Z",
           "source": "Lifespan.io",
-          "summary": "A recent study found an association between longer and more frequent daytime napping and higher mortality risk. The authors suggest using napping frequency and duration as behavioral markers of increased mortality […]"
+          "summary": "A recent study found an association between longer and more frequent daytime napping and higher mortality risk. The authors suggest using napping frequency and duration […]"
         },
         {
           "title": "Super Age debuts world’s first longevity fitness games",
@@ -128,54 +176,6 @@
           "date": "2026-04-29T14:20:24.000Z",
           "source": "Longevity.Technology",
           "summary": "Munich startup dehaze targets earlier detection and up to $800b in savings by finally making sense of healthcare’s unused data. Healthcare has never had more data, and yet, it still misses the moment that matters most. Every patient generates a trail: lab results, scans, prescriptions, histories. However, in practice, doctors only have the time and […] The post The AI race to stop chronic disease just got funded with $3.5m appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Infinite Epigenetics acquires Tally Health",
-          "url": "https://longevity.technology/news/infinite-epigenetics-acquires-tally-health/",
-          "domain": "longevity.technology",
-          "date": "2026-04-29T13:00:22.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Deal unites clinical diagnostic powerhouse with high-profile consumer platform, creating an integrated epigenetics-driven longevity model. Infinite Epigenetics is acquiring Tally Health in what is the largest consolidation to date in the epigenetic age testing space. By folding the Sinclair-founded, consumer-focused longevity brand into their existing diagnostic infrastructure, Infinite (which is the parent company of TruDiagnostic) […] The post Infinite Epigenetics acquires Tally Health appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Alterity Therapeutics receives positive regulatory feedback on ATH434",
-          "url": "https://longevity.technology/news/alterity-therapeutics-receives-positive-regulatory-feedback-on-ath434/",
-          "domain": "longevity.technology",
-          "date": "2026-04-29T06:36:38.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Alterity Therapeutics received positive regulatory feedback following a second Type C meeting with the U.S. Food and Drug Administration on its planned Phase 3 development program for ATH434 in multiple system atrophy. The FDA provided written feedback supporting the company’s chemistry, manufacturing and control elements, and the company says that alignment supports readiness to initiate […] The post Alterity Therapeutics receives positive regulatory feedback on ATH434 appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Aspen’s autologous cell therapy shows promising Phase 1/2a results",
-          "url": "https://longevity.technology/news/aspens-autologous-cell-therapy-shows-promising-phase-1-2a-results/",
-          "domain": "longevity.technology",
-          "date": "2026-04-29T06:31:48.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Aspen presented 12-month data from the first eight patients enrolled in its Phase 1/2a ASPIRO trial of Sasineprocel, an autologous iPSC-derived dopaminergic cell therapy for Parkinson’s disease. Across low- and high-dose cohorts, patients averaged roughly two additional hours of Good on time per day and saw MDS-UPDRS Part III OFF score reductions of about 15.5 […] The post Aspen’s autologous cell therapy shows promising Phase 1/2a results appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Voyager IV gene therapies for Alzheimer’s disease highlighted at ASGCT 2026",
-          "url": "https://longevity.technology/news/voyager-iv-gene-therapies-for-alzheimers-disease-highlighted-at-asgct-2026/",
-          "domain": "longevity.technology",
-          "date": "2026-04-29T06:31:38.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Voyager will present eight oral and poster presentations at the American Society of Gene & Cell Therapy annual meeting in Boston, May 11 to 15, 2026, including a late-breaking oral presentation on May 13 that features VY1706, an IV-delivered, CNS-penetrant AAV tau-silencing gene therapy for Alzheimer’s disease. The company anticipates submitting an investigational new drug […] The post Voyager IV gene therapies for Alzheimer’s disease highlighted at ASGCT 2026 appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Annovis publishes Phase 2/3 buntanetap findings in Nature journal",
-          "url": "https://longevity.technology/news/annovis-publishes-phase-2-3-buntanetap-findings-in-nature-journal/",
-          "domain": "longevity.technology",
-          "date": "2026-04-29T06:31:37.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Annovis has published peer-reviewed Phase 2/3 results for its oral candidate buntanetap in Nature NPJ Dementia, reporting cognitive improvements and biomarker changes in patients with mild to moderate Alzheimer’s disease. The randomized, double-blind, placebo-controlled trial (NCT05686044) tested 7.5 mg, 15 mg and 30 mg doses over 12 weeks in 351 patients and found buntanetap to […] The post Annovis publishes Phase 2/3 buntanetap findings in Nature journal appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "A Popular Senolytic Treatment Causes Brain Damage in Mice",
-          "url": "https://lifespan.io/a-popular-senolytic-treatment-causes-brain-damage-in-mice/?utm_source=rss&utm_medium=rss&utm_campaign=a-popular-senolytic-treatment-causes-brain-damage-in-mice",
-          "domain": "lifespan.io",
-          "date": "2026-04-28T19:52:24.000Z",
-          "source": "Lifespan.io",
-          "summary": "A new study calls for caution in using the well-known senolytic treatment of dasatinib and quercetin (D+Q), showing that it causes damage in certain regions of the brain, similar to what is observed in multiple sclerosis [1]. Stem […]"
         }
       ]
     },
@@ -187,6 +187,22 @@
         "https://phys.org/rss-feed/biology-news/biotechnology/"
       ],
       "articles": [
+        {
+          "title": "Water molecules found to actively drive gene transcription process",
+          "url": "https://phys.org/news/2026-04-molecules-gene-transcription.html",
+          "domain": "phys.org",
+          "date": "2026-04-30T15:00:14.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Researchers have uncovered a previously hidden layer of complexity in how genes are activated, showing that water molecules play a direct and essential role in one of the most fundamental processes in biology: DNA transcription."
+        },
+        {
+          "title": "A silent robot shadows sperm whales by listening to their clicks",
+          "url": "https://phys.org/news/2026-04-silent-robot-shadows-sperm-whales.html",
+          "domain": "phys.org",
+          "date": "2026-04-30T14:40:01.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "An autonomous underwater glider is giving us a new and effective way to track sperm whales by tuning into their clicks and silently following them. To study these large oceanic predators, researchers need to monitor their movements and social interactions for months at a time. But that's not easy, because they swim deep and stay underwater for long periods, making them hard to reach."
+        },
         {
           "title": "Assessing the impact of drones on whale sharks",
           "url": "https://phys.org/news/2026-04-impact-drones-whale-sharks.html",
@@ -250,22 +266,6 @@
           "date": "2026-04-30T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2604.26928v1 Announce Type: new Abstract: Cell invasion and spatial pattern formation are two distinct manifestations of cellular self-organisation in development, regeneration, and disease. Here, we develop and analyse a unified theoretical framework that links these two seemingly different behaviours within a single mechanistic model for adhesion-mediated self-organisation in growing cell populations. Using a multiscale analysis, we show that the balance between cell-cell adhesion, self-diffusion, and proliferation controls the emergence of distinct collective dynamics. We find that for weak adhesion, tissues invade through stable monotone fronts. As adhesion increases, invasion slows, fronts become unstable, leading to aggregates and spatial patterns emerging behind the advancing edge. In two spatial dimensions, these instabilities generate fingering morphologies reminiscent of dysregulated invasion in cancer. Crucially, we show that density-dependent regulation of adhesion suppresses these instabilities and restores cohesive tissue expansion. Together, our results identify adhesion strength and its regulation as key determinants of whether tissues invade cohesively or fragment into patterns, and provide a unified framework for understanding collective migration, morphogenesis, and dysregulated growth."
-        },
-        {
-          "title": "Observable Neural ODEs for Identifiable Causal Forecasting in Continuous Time",
-          "url": "https://arxiv.org/abs/2604.26070",
-          "domain": "arxiv.org",
-          "date": "2026-04-30T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2604.26070v1 Announce Type: cross Abstract: Causal inference in continuous-time sequential decision problems is challenged by hidden confounders. We show that, in latent state-space models with time-varying interventions, observability of the latent dynamics from observed data is necessary for identifying dynamic treatment effects, linking control-theoretic observability to causal identifiability, even when hidden confounders affect both treatments and outcomes. We derive a continuous-time adjustment formula expressing potential outcome distributions under treatment trajectories via the measurement model, latent dynamics, and the filtering distribution over latent states given observed histories. We propose Observable Neural ODEs (ObsNODEs), Neural ODE models in observable normal form for causal forecasting. ObsNODEs learn continuous-time dynamics with states reconstructible from observations, enabling outcome prediction under alternative treatment paths. Experiments on synthetic cancer data, semi-synthetic data based on MIMIC-IV, and real-world sepsis data show strong performance over recent sequence models."
-        },
-        {
-          "title": "A Thermodynamic Analysis of Enhanced Metastability in Isochoric Supercooled Liquids",
-          "url": "https://arxiv.org/abs/2604.26302",
-          "domain": "arxiv.org",
-          "date": "2026-04-30T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2604.26302v1 Announce Type: cross Abstract: Experiments show that isochoric (constant-volume) conditions enhance supercooling stability relative to isobaric (constant-pressure) conditions. Here, combining Helmholtz equilibrium thermodynamics with a first-order perturbation methodology, we derive an inequality governing nucleation stability under volumetric constraint. The derivation provides a general thermodynamic proof that for any substance undergoing phase transformation in which the solid is less dense than the liquid, the Helmholtz driving force for solidification in isochoric systems is smaller than the Gibbs driving force in isobaric systems. Since nucleation rates depend exponentially on the inverse square of the driving force, this provides a thermodynamic basis for the observed suppression of nucleation rates. While a full stochastic treatment is beyond the scope of this work, the reduction in driving force implies a weakening of the bias toward growth of pre-critical fluctuations, increasing their probability of thermal dissolution. The analysis yields a dimensionless isochoric stability number. This number is computable from bulk thermodynamic data alone and provides a geometry-independent criterion for comparing metastable liquid stability across materials and conditions."
         }
       ]
     },
@@ -278,84 +278,84 @@
       ],
       "articles": [
         {
-          "title": "Gemini secures Derivatives Clearing Organization license as it works toward full CFTC stack",
-          "url": "https://www.theblock.co/post/399575/gemini-derivatives-clearing-organization-license-cftc-stack?utm_source=rss&utm_medium=rss",
+          "title": "Gemini eyes prediction market challenge to Kalshi, Polymarket, secures derivatives license; shares surge",
+          "url": "https://www.coindesk.com/policy/2026/04/30/gemini-eyes-prediction-market-challenge-to-kalshi-polymarket-secures-derivatives-license-shares-surge",
+          "domain": "coindesk.com",
+          "date": "2026-04-30T15:22:39.000Z",
+          "source": "CoinDesk",
+          "summary": "Tyler and Cameron Winklevoss' crypto exchange now holds licenses allowing it to expand into regulated derivatives and prediction markets, the fastest-growing sectors in crypto."
+        },
+        {
+          "title": "Solana yield exchange Exponent raises $5 million seed led by Multicoin Capital",
+          "url": "https://www.theblock.co/post/399630/solana-yield-exchange-exponent-funding-multicoin-capital?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-04-30T13:01:02.000Z",
+          "date": "2026-04-30T15:16:02.000Z",
           "source": "The Block",
-          "summary": "Gemini's Olympus unit received a key DCO license from the CFTC, enabling it to act as an in-house derivatives clearinghouse."
+          "summary": "Solana Ventures, Solana Labs' Anatoly Yakovenko and Solana Foundation’s Nick Ducoff have all participated in the round."
         },
         {
-          "title": "North Korea accounts for 76% of 2026 crypto hack losses, with theft since 2017 topping $6 billion: TRM Labs",
-          "url": "https://www.theblock.co/post/399569/north-korea-accounts-for-76-of-2026-crypto-hack-losses-with-theft-since-2017-topping-6-billion-trm-labs?utm_source=rss&utm_medium=rss",
+          "title": "Polymarket taps Chainalysis to bring Wall Street-level oversight to crypto prediction markets",
+          "url": "https://www.coindesk.com/business/2026/04/30/polymarket-taps-chainalysis-to-bring-wall-street-level-oversight-to-crypto-prediction-markets",
+          "domain": "coindesk.com",
+          "date": "2026-04-30T15:05:09.000Z",
+          "source": "CoinDesk",
+          "summary": "By partnering with Chainalysis to monitor its blockchain data in real-time, Polymarket is signaling to both users and regulators that it is serious about eliminating insider trading and market manipulation."
+        },
+        {
+          "title": "Crypto for Advisors: Breaking down the Sui blockchain",
+          "url": "https://www.coindesk.com/coindesk-indices/2026/04/29/crypto-for-advisors-breaking-down-the-sui-blockchain",
+          "domain": "coindesk.com",
+          "date": "2026-04-30T15:00:00.000Z",
+          "source": "CoinDesk",
+          "summary": "Sui is a differentiated Layer-1 blockchain, combining novel object-based architecture and parallel execution for high throughput. It's optimized for consumer Web3 apps."
+        },
+        {
+          "title": "Anchorage Digital and M0 team up to power next wave of regulated stablecoins",
+          "url": "https://www.coindesk.com/business/2026/04/30/regulated-crypto-custody-firm-anchorage-partners-with-stablecoin-tech-provider-m0",
+          "domain": "coindesk.com",
+          "date": "2026-04-30T15:00:00.000Z",
+          "source": "CoinDesk",
+          "summary": "Anchorage seeks to expand its issuance platform through M0, and opens the door to a broad range of firms looking to launch U.S.-regulated stablecoins."
+        },
+        {
+          "title": "Polymarket taps Chainalysis to police insider trading as it seeks $15 billion valuation, CFTC signoff",
+          "url": "https://www.theblock.co/post/399619/polymarket-taps-chainalysis-to-police-insider-trading-seeks-15-billion-valuation?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-04-30T13:00:00.000Z",
+          "date": "2026-04-30T14:59:07.000Z",
           "source": "The Block",
-          "summary": "North Korea-linked hackers stole $577 million in two April exploits, accounting for 76% of crypto losses in 2026, according to TRM Labs."
+          "summary": "Both Polymarket and rival Kalshi have attempted to address concerns about insider trading on the platforms."
         },
         {
-          "title": "MARA Holdings to buy Long Ridge Energy in $1.5 billion AI data center push",
-          "url": "https://www.coindesk.com/business/2026/04/30/mara-holdings-to-buy-long-ridge-energy-in-usd1-5-billion-ai-data-center-push",
-          "domain": "coindesk.com",
-          "date": "2026-04-30T12:44:43.000Z",
-          "source": "CoinDesk",
-          "summary": "The deal includes a 505 MW gas plant and 1,600 acres in Ohio, offering over 1 GW power capacity for future AI and IT buildout."
-        },
-        {
-          "title": "Germany’s AllUnity expands EURAU to Solana as euro stablecoins gain traction",
-          "url": "https://www.coindesk.com/business/2026/04/30/germany-s-allunity-expands-eurau-to-solana-as-euro-stablecoins-gain-traction",
-          "domain": "coindesk.com",
-          "date": "2026-04-30T11:58:32.000Z",
-          "source": "CoinDesk",
-          "summary": "The firm's MiCA-compliant euro token aims to speed up euro transfers and support regulated onchain finance as the euro stablecoin market doubled since early 2025."
-        },
-        {
-          "title": "The Green Beret was just the start: New data suggests military insider trading crisis on Polymarket",
-          "url": "https://www.coindesk.com/markets/2026/04/30/polymarket-s-military-markets-show-signs-of-insider-edge-report-suggests",
-          "domain": "coindesk.com",
-          "date": "2026-04-30T11:57:29.000Z",
-          "source": "CoinDesk",
-          "summary": "New data shows unusually high win rates in defense bets, building on research that 3% of traders drive prices and under 1% capture most profits."
-        },
-        {
-          "title": "Crypto hack losses top $630M in April, highest since February 2025",
-          "url": "https://cointelegraph.com/news/crypto-hacks-cause-630m-losses-in-april-highest-since-february-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-04-30T11:47:52.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Losses from crypto hacks have topped $630 million in April across more than 25 hacks, with DeFi dominating major incidents and exploits accelerating despite security updates."
-        },
-        {
-          "title": "MegaETH token goes live as major exchanges open MEGA trading",
-          "url": "https://www.theblock.co/post/399563/megaeth-token-goes-live-as-major-exchanges-open-mega-trading?utm_source=rss&utm_medium=rss",
+          "title": "Bitcoin miner MARA to acquire Long Ridge in $1.5 billion Ohio gas plant deal",
+          "url": "https://www.theblock.co/post/399605/bitcoin-miner-mara-to-acquire-long-ridge-in-1-5-billion-ohio-gas-plant-deal?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-04-30T11:26:32.000Z",
+          "date": "2026-04-30T14:38:33.000Z",
           "source": "The Block",
-          "summary": "MegaETH’s MEGA token went live on April 30, completing a seven-day countdown triggered after the project hit its first KPI with 10 live apps."
+          "summary": "MARA will acquire an Ohio natural gas plant operator for $1.5 billion, shifting from bitcoin mining to digital infrastructure."
         },
         {
-          "title": "US seized $500M in Iranian crypto assets, Treasury secretary says",
-          "url": "https://cointelegraph.com/news/us-seized-500m-in-iranian-crypto-assets-treasury-secretary-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "Spain emerges as leading EURC retail market in Europe, Brighty data shows",
+          "url": "https://cointelegraph.com/news/spain-leading-eurc-retail-market-europe-brighty-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-04-30T11:21:51.000Z",
+          "date": "2026-04-30T14:24:25.000Z",
           "source": "CoinTelegraph",
-          "summary": "Treasury Secretary Scott Bessent said the US has seized nearly $500 million in Iranian crypto assets, surpassing the previously reported $344 million freeze."
+          "summary": "Brighty data shows Spain leading EURC retail usage, offering an early look at how euro stablecoins are being used under MiCA."
         },
         {
-          "title": "Seasonal trends favor bulls even as bitcoin ends April in a defensive mood",
-          "url": "https://www.coindesk.com/daybook-us/2026/04/30/seasonal-trends-favor-bulls-even-as-bitcoin-ends-april-in-a-defensive-mood",
-          "domain": "coindesk.com",
-          "date": "2026-04-30T11:15:12.000Z",
-          "source": "CoinDesk",
-          "summary": "Your day-ahead look for April 30, 2026"
-        },
-        {
-          "title": "South Korea’s Shinhan Card taps Solana to test real-world stablecoin payments",
-          "url": "https://cointelegraph.com/news/south-korean-credit-card-giant-partners-with-solana-for-stablecoin-payments-defi-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "Bitcoin analysts explain why BTC price can’t take out $80K",
+          "url": "https://cointelegraph.com/markets/heres-why-bitcoin-analysts-say-btc-price-cant-take-out-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-04-30T11:10:47.000Z",
+          "date": "2026-04-30T14:02:12.000Z",
           "source": "CoinTelegraph",
-          "summary": "Shinhan Card signed a deal with Solana Foundation to expand stablecoin payment tests and explore non-custodial wallets and DeFi-based services."
+          "summary": "A large overhead supply cluster, increased profit-taking activity and the resumption of spot Bitcoin ETF outflows are key factors keeping BTC price pinned below $80,000."
+        },
+        {
+          "title": "Kast hires former SEC official Stephanie Allen to lead policy communications",
+          "url": "https://cointelegraph.com/news/kast-appoints-former-senior-sec-advisor-for-us-policy-lead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-04-30T14:01:25.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Stablecoin payments company Kast hired former SEC adviser Stephanie Allen as it expands licensing, communications and policy efforts after an $80 million raise."
         }
       ]
     }
