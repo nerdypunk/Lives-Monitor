@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-04-30T21:16:39.626Z",
+  "updatedAt": "2026-04-30T22:11:45.287Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -103,7 +103,7 @@
           "domain": "lifespan.io",
           "date": "2026-04-30T17:00:49.000Z",
           "source": "Lifespan.io",
-          "summary": "A perspective published in Aging Cell details the replacement-based approaches being investigated by several research organizations. Repair versus replacement This perspective begins […]"
+          "summary": "A perspective published in Aging Cell details the replacement-based approaches being investigated by several research organizations. Repair versus replacement This perspective begins by noting the inherent difficulty of rejuvenating the human body because of the […]"
         },
         {
           "title": "Rafael Holdings gains exclusive MIT Alzheimer’s patent",
@@ -278,6 +278,14 @@
       ],
       "articles": [
         {
+          "title": "Stablecoins overtake Bitcoin in Latin America crypto purchases — Bitso",
+          "url": "https://cointelegraph.com/news/stablecoins-surpass-bitcoin-latin-america-crypto-purchases-bitso-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-04-30T21:12:00.000Z",
+          "source": "CoinTelegraph",
+          "summary": "A Bitso report shows shifting user behavior as dollar-linked stablecoins gain traction for everyday financial use across Latin America’s inflation-hit economies."
+        },
+        {
           "title": "Crypto market structure bill nears May push as ethics disputes and Trump ties cloud path forward",
           "url": "https://www.theblock.co/post/399680/crypto-market-structure-bill-nears-may-push-as-ethics-disputes-and-trump-ties-cloud-path-forward?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
@@ -326,6 +334,14 @@
           "summary": "U.S. senators are now barred from trading on prediction markets following the unanimous passage of a resolution on Thursday."
         },
         {
+          "title": "Insider trading backlash forces Polymarket to step up surveillance",
+          "url": "https://cointelegraph.com/news/polymarket-chainalysis-insider-betting-detection-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-04-30T18:35:00.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Polymarket has selected Chainalysis to flag suspicious trades as insider betting concerns mount and regulators tighten scrutiny on prediction markets."
+        },
+        {
           "title": "Senators Warren, Wyden press Tether and Commerce Secretary Lutnick over loan to family trust",
           "url": "https://www.theblock.co/post/399660/senators-warren-wyden-press-tether-commerce-secretary-lutnick-loan-family-trust?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
@@ -340,22 +356,6 @@
           "date": "2026-04-30T17:37:58.000Z",
           "source": "The Block",
           "summary": "The Coinbase Stablecoin Yield Fund aims to generate yield by lending stablecoins and private credit investment opportunities."
-        },
-        {
-          "title": "Sentora brings institutional DeFi to the public with the launch of its Smart Yield platform",
-          "url": "https://cointelegraph.com/press-releases/sentora-brings-institutional-defi-to-the-public-with-the-launch-of-its-smart-yield-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-04-30T17:34:21.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Sentora has announced that Sentora Smart Yield is now publicly available, opening access to its DeFi vault discovery and monitoring platform to all users."
-        },
-        {
-          "title": "Insider trading backlash forces Polymarket to step up surveillance",
-          "url": "https://cointelegraph.com/news/polymarket-chainalysis-insider-betting-detection-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-04-30T17:33:07.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Polymarket has selected Chainalysis to flag suspicious trades as insider betting concerns mount and regulators tighten scrutiny on prediction markets."
         }
       ]
     }
