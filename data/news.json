@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-04-30T19:57:30.578Z",
+  "updatedAt": "2026-04-30T21:16:39.626Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -103,7 +103,7 @@
           "domain": "lifespan.io",
           "date": "2026-04-30T17:00:49.000Z",
           "source": "Lifespan.io",
-          "summary": "A perspective published in Aging Cell details the replacement-based approaches being investigated by several research organizations. Repair versus replacement This perspective begins by noting the inherent difficulty of rejuvenating the human body because of […]"
+          "summary": "A perspective published in Aging Cell details the replacement-based approaches being investigated by several research organizations. Repair versus replacement This perspective begins […]"
         },
         {
           "title": "Rafael Holdings gains exclusive MIT Alzheimer’s patent",
@@ -188,6 +188,38 @@
       ],
       "articles": [
         {
+          "title": "CRISPR speed patterns can identify multiple viruses and variants simultaneously",
+          "url": "https://phys.org/news/2026-04-crispr-patterns-multiple-viruses-variants.html",
+          "domain": "phys.org",
+          "date": "2026-04-30T21:00:01.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "As the spread of infectious diseases accelerates, technologies that can accurately distinguish multiple viruses in a single test are becoming increasingly important. KAIST and an international research team have developed a new diagnostic technology that simultaneously identifies various viruses and variants by controlling the \"speed\" of gene scissors."
+        },
+        {
+          "title": "Gene circuits reshape DNA folding and affect how genes are expressed, study finds",
+          "url": "https://phys.org/news/2026-04-gene-circuits-reshape-dna-affect.html",
+          "domain": "phys.org",
+          "date": "2026-04-30T20:30:03.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "When a gene is turned on in a cell, it creates a ripple effect along the DNA strand, changing the physical structure of the strand. A new study by MIT researchers, appearing in Science, shows that these ripples can stimulate or suppress neighboring genes. These effects, which result from the winding or unwinding of neighboring DNA, are determined by the order of genes along a strand of DNA. Genes upstream of the active gene are usually turned up, while those downstream are inhibited."
+        },
+        {
+          "title": "Autumn leaves transformed into biodegradable mulch film can curb farm plastic pollution",
+          "url": "https://phys.org/news/2026-04-autumn-biodegradable-mulch-curb-farm.html",
+          "domain": "phys.org",
+          "date": "2026-04-30T20:00:05.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Fallen leaves, which are discarded every year, have been transformed into a resource that can replace waste plastics, a major nuisance in rural areas. A research team at the Korea Advanced Institute of Science and Technology (KAIST) has developed biodegradable agricultural vinyl made from fallen leaves, presenting a new way to solve the problem of conventional plastic vinyl, which is a cause of soil pollution. The study is published in the journal Green Chemistry."
+        },
+        {
+          "title": "Light-activated protein illuminates when embryos can cope with disruptions to cell division",
+          "url": "https://phys.org/news/2026-04-protein-illuminates-embryos-cope-disruptions.html",
+          "domain": "phys.org",
+          "date": "2026-04-30T20:00:01.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Cell division during the early stage of embryo development is a trade-off between speed and accuracy; the cells need to divide quickly to enable rapid growth, but it's important not to introduce errors that could be fatal to the developing embryo. But some stages of embryo development might be more tolerant of errors, coping with them without leading to complete failure."
+        },
+        {
           "title": "Water molecules found to actively drive gene transcription process",
           "url": "https://phys.org/news/2026-04-molecules-gene-transcription.html",
           "domain": "phys.org",
@@ -234,38 +266,6 @@
           "date": "2026-04-30T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2604.26060v1 Announce Type: new Abstract: Black Sigatoka disease (BSD), also known as black leaf streak disease, is an airborne fungal infection caused by \\textit{Pseudocercospora fijiensis} that severely impacts global banana and plantain production. Its persistence and resistance to eradication make it one of the most challenging plant diseases to manage. In this paper, we propose a deterministic pathogen-host model to describe BSD dynamics. Due to dual transmission pathways (ascospores and conidia) and mate limitation in sexual reproduction, the model exhibits a backward bifurcation: a stable endemic equilibrium coexists with the disease-free equilibrium for certain parameter values in which the basic reproduction number, $\\mathcal{R}_0$, is less than 1. This phenomenon explains why control strategies that solely reduce $\\mathcal{R}_0$ below one may fail. For the backward bifurcation regime, we perform sensitivity analysis of the endemic equilibrium using normalized forward sensitivity indices, Latin Hypercube Sampling, and Partial Rank Correlation Coefficients. Results indicate that effective control must extend beyond $\\mathcal{R}_0$ reduction and prioritize (1) limiting production of new susceptible leaves during high-risk periods and (2) developing and deploying disease-resistant plant varieties. To incorporate transmission variability, we also formulate a stochastic version of the model using the Stochastic Simulation Algorithm (SSA). Extensive numerical simulations compare stochastic realizations with deterministic predictions and quantify variability in disease dynamics. To identify the principal drivers of persistence and variability, we analyze the endemic equilibrium using Sobol's variance-based sensitivity method, which highlights the role of nonlinear parameter interactions in shaping variability."
-        },
-        {
-          "title": "How is gene-regulatory evolution affected by cell-to-cell variability?",
-          "url": "https://arxiv.org/abs/2604.26082",
-          "domain": "arxiv.org",
-          "date": "2026-04-30T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2604.26082v1 Announce Type: new Abstract: The evolutionary origins of structural features in reconstructed gene-regulatory networks (GRNs) remain poorly understood, especially given the random aspects of gene expression. Here, we extend a classical model of GRN evolution to allow a single network to express a distribution of phenotypes through noisy developmental dynamics. Inspired by Hopfield networks, we introduce an alignment score that quantifies the cohesion of gene-gene interactions in the network to support a target stable phenotype. Overall, evolved populations optimized their fitness and reduced the length of their developmental paths. Increased noise levels promoted alignment, enriched coherent feedforward and positive feedback loops relative to non-evolved and noiseless controls, and buffered against mutational perturbations. Alignment provides intuitive interpretations because an increased number of appropriately signed gene-gene interactions is more redundant and thus more robust against developmental noise and mutations. Together, these results demonstrate that cell-to-cell variability exerts strong selective pressure, driving the evolution of aligned, robust, and motif-enriched GRN architectures."
-        },
-        {
-          "title": "Rare but Resilient: Dispersal diversity buffers species vulnerability",
-          "url": "https://arxiv.org/abs/2604.26589",
-          "domain": "arxiv.org",
-          "date": "2026-04-30T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2604.26589v1 Announce Type: new Abstract: Predicting species persistence within ecological communities is a fundamental challenge for both empirical and theoretical ecology. Existing methods span from mechanistic models, whose parameters are difficult to estimate from data, to statistical tools whose context-specific parameters are less interpretable. Here, we present a general framework, grounded in the statistical physics of complex systems, that integrates the key processes governing species survival into a single measurable quantity: the competitive balance. This metric quantifies a focal species' vulnerability beyond its abundance by incorporating the diversity of dispersal strategies and the structure of interspecific interactions within the community. Crucially, it can be inferred from spatial abundance data, thus circumventing the need to estimate species traits or dispersal parameters. Our results reveal that greater heterogeneity in dispersal strategies reduces vulnerability for a given abundance. Although we validate the framework using tropical and temperate forest data, it can be applied to a range of different ecosystems, providing a systemic and interpretable tool for assessing a context-dependent species vulnerability that accounts for its interactions with the entire community."
-        },
-        {
-          "title": "Parsimonious computational inference protocol for Boolean networks: Application to osteogenesis",
-          "url": "https://arxiv.org/abs/2604.26700",
-          "domain": "arxiv.org",
-          "date": "2026-04-30T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2604.26700v1 Announce Type: new Abstract: Boolean networks are powerful mathematical tools for modeling the qualitative dynamics of genetic regulation. Yet inferred models often generate spurious attractors that lack biological viability. In this paper, we propose a parsimonious computational framework to systematically refine Boolean network models by eliminating these non-biological asymptotic behaviors while strictly preserving known, biologically relevant attractors. Through an exhaustive exploration of local function substitutions, we generate a comprehensive set of candidate models. To identify the most biologically consistent networks, we implement an incremental pruning protocol that filters candidates based on structural interaction digraph similarity, attraction basin topological organization, trajectorial isomorphism, and the minimization of dynamical instability and frustration. We apply this methodology to a 9-node genetic control model of the osteogenesis regulation network. Our protocol effectively evaluates a syntactic search space of 51,138 potential networks, ultimately narrowing them down to a robust family of 6 parsimonious models that are fully compatible with current biological knowledge."
-        },
-        {
-          "title": "Theory of adhesion-driven self-organisation in growing tissues",
-          "url": "https://arxiv.org/abs/2604.26928",
-          "domain": "arxiv.org",
-          "date": "2026-04-30T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2604.26928v1 Announce Type: new Abstract: Cell invasion and spatial pattern formation are two distinct manifestations of cellular self-organisation in development, regeneration, and disease. Here, we develop and analyse a unified theoretical framework that links these two seemingly different behaviours within a single mechanistic model for adhesion-mediated self-organisation in growing cell populations. Using a multiscale analysis, we show that the balance between cell-cell adhesion, self-diffusion, and proliferation controls the emergence of distinct collective dynamics. We find that for weak adhesion, tissues invade through stable monotone fronts. As adhesion increases, invasion slows, fronts become unstable, leading to aggregates and spatial patterns emerging behind the advancing edge. In two spatial dimensions, these instabilities generate fingering morphologies reminiscent of dysregulated invasion in cancer. Crucially, we show that density-dependent regulation of adhesion suppresses these instabilities and restores cohesive tissue expansion. Together, our results identify adhesion strength and its regulation as key determinants of whether tissues invade cohesively or fragment into patterns, and provide a unified framework for understanding collective migration, morphogenesis, and dysregulated growth."
         }
       ]
     },
@@ -277,6 +277,22 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "Crypto market structure bill nears May push as ethics disputes and Trump ties cloud path forward",
+          "url": "https://www.theblock.co/post/399680/crypto-market-structure-bill-nears-may-push-as-ethics-disputes-and-trump-ties-cloud-path-forward?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-04-30T21:08:33.000Z",
+          "source": "The Block",
+          "summary": "Crypto legislation is gaining momentum, with lawmakers eyeing a potential mid-May markup—even as key disputes remain unresolved."
+        },
+        {
+          "title": "Arbitrum DAO starts vote to release 30,766 frozen ETH to DeFi United, following Kelp DAO attack",
+          "url": "https://www.theblock.co/post/399681/arbitrum-dao-starts-vote-to-release-30766-frozen-eth-to-defi-united-following-kelp-dao-attack?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-04-30T20:58:46.000Z",
+          "source": "The Block",
+          "summary": "The Arbitrum Security Council froze 30,766 ETH that the Kelp DAO attacker had moved to an Arbitrum One address."
+        },
         {
           "title": "Crypto hacks hit record high in April as exploits kept piling up",
           "url": "https://www.theblock.co/post/399666/crypto-hacks-hit-record-high-in-april-as-exploits-kept-piling-up?utm_source=rss&utm_medium=rss",
@@ -340,22 +356,6 @@
           "date": "2026-04-30T17:33:07.000Z",
           "source": "CoinTelegraph",
           "summary": "Polymarket has selected Chainalysis to flag suspicious trades as insider betting concerns mount and regulators tighten scrutiny on prediction markets."
-        },
-        {
-          "title": "Senator Warren questions Commerce Secretary Lutnick on Tether loan to family",
-          "url": "https://www.coindesk.com/policy/2026/04/30/senator-warren-questions-commerce-secretary-lutnick-on-tether-loan-to-family",
-          "domain": "coindesk.com",
-          "date": "2026-04-30T17:06:21.000Z",
-          "source": "CoinDesk",
-          "summary": "Senators Elizabeth Warren and Ron Wyden sent letters to Howard Lutnick and Tether CEO Paulo Ardoino asking about a loan Tether reportedly made to Lutnick's family."
-        },
-        {
-          "title": "Three reasons why $3K ETH price target is back for May",
-          "url": "https://cointelegraph.com/markets/three-reasons-why-3k-eth-price-target-is-still-in-play?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-04-30T16:24:35.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Despite Ether’s 8% deviation from 10-week highs above $2,460, data suggests that ETH's price could still rise toward $3,000 as a new month begins."
         }
       ]
     }
