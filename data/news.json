@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-04-30T18:18:45.762Z",
+  "updatedAt": "2026-04-30T19:57:30.578Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,6 +278,38 @@
       ],
       "articles": [
         {
+          "title": "Crypto hacks hit record high in April as exploits kept piling up",
+          "url": "https://www.theblock.co/post/399666/crypto-hacks-hit-record-high-in-april-as-exploits-kept-piling-up?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-04-30T19:37:47.000Z",
+          "source": "The Block",
+          "summary": "With the end of April in sight, another exploit involving dormant Ethereum mainnet addresses appears to have occurred."
+        },
+        {
+          "title": "From Cathie Wood to Cantor Fitzgerald, the big money is betting that Robinhood’s crypto slump is just a temporary speed bump",
+          "url": "https://www.coindesk.com/markets/2026/04/30/from-cathie-wood-to-cantor-fitzgerald-the-big-money-is-betting-that-robinhood-s-crypto-slump-is-just-a-temporary-speed-bump",
+          "domain": "coindesk.com",
+          "date": "2026-04-30T19:30:05.000Z",
+          "source": "CoinDesk",
+          "summary": "Cathie Wood’s Ark Invest snapped up over 500,000 shares of Robinhood on Wednesday, joining a wave of analysts who believe a surge in April trading activity will outweigh a recent earnings disappointment."
+        },
+        {
+          "title": "Bitcoin’s $75K cost basis emerges as key support zone for current bull trend",
+          "url": "https://cointelegraph.com/markets/bitcoins-75k-cost-basis-cluster-emerges-as-key-support-zone-for-cycle?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-04-30T18:56:06.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bitcoin found support above a key investor cost-basis level as spot BTC ETF flows and spot positioning compressed BTC’s price range in preparation for the next trending move."
+        },
+        {
+          "title": "Senate moves to ban themselves from prediction market trading amid insider concerns",
+          "url": "https://www.theblock.co/post/399667/senate-moves-to-ban-themselves-from-prediction-market-trading-amid-insider-concerns?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-04-30T18:36:41.000Z",
+          "source": "The Block",
+          "summary": "U.S. senators are now barred from trading on prediction markets following the unanimous passage of a resolution on Thursday."
+        },
+        {
           "title": "Senators Warren, Wyden press Tether and Commerce Secretary Lutnick over loan to family trust",
           "url": "https://www.theblock.co/post/399660/senators-warren-wyden-press-tether-commerce-secretary-lutnick-loan-family-trust?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
@@ -324,38 +356,6 @@
           "date": "2026-04-30T16:24:35.000Z",
           "source": "CoinTelegraph",
           "summary": "Despite Ether’s 8% deviation from 10-week highs above $2,460, data suggests that ETH's price could still rise toward $3,000 as a new month begins."
-        },
-        {
-          "title": "99.2% of omni-chain Tether-backed stablecoin holders have less than $1,000 USDT0",
-          "url": "https://www.theblock.co/post/399640/99-2-of-omni-chain-tether-backed-stablecoin-holders-have-less-than-1000-usdt0?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-04-30T16:14:24.000Z",
-          "source": "The Block",
-          "summary": "USDT0 is now the third-largest holder of Tether's USDT stablecoin, which it uses to back its multi-chain asset 1:1."
-        },
-        {
-          "title": "Bitcoin Coinbase Premium threatens bear flag repeat with BTC price at $76K",
-          "url": "https://cointelegraph.com/markets/bitcoin-coinbase-premium-threatens-bear-flag-repeat-with-btc-price-at-76k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-04-30T16:01:22.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Bitcoin price action risked repeating January's breakdown despite April being poised to offer the best monthly BTC price gains in a year."
-        },
-        {
-          "title": "‘Not circular’: Benchmark defends Strategy’s STRC bitcoin accumulation model",
-          "url": "https://www.theblock.co/post/399609/not-circular-benchmark-defends-strategys-strc-bitcoin-accumulation-model?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-04-30T15:59:44.000Z",
-          "source": "The Block",
-          "summary": "Some market watchers liken Strategy's STRC preferred stock to a \"circular\" Ponzi scheme model, but Benchmark disagrees."
-        },
-        {
-          "title": "HederaCon 2026 comes to Miami Beach on May 4 — Last chance to join leaders in tokenization and digital finance",
-          "url": "https://cointelegraph.com/press-releases/hederacon-2026-comes-to-miami-beach-on-may-4-last-chance-to-join-leaders-in-tokenization-and-digital-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-04-30T15:59:09.000Z",
-          "source": "CoinTelegraph",
-          "summary": "HederaCon 2026 will take place on May 4 at the Faena Forum in Miami Beach, bringing together leaders from global finance, policy, and enterprise to explore how tokenization, stablecoins, interoperability, and AI-powered financial systems are moving into real-world adoption."
         }
       ]
     }
