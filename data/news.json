@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-04-30T01:24:31.166Z",
+  "updatedAt": "2026-04-30T04:58:50.440Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -111,7 +111,7 @@
           "domain": "lifespan.io",
           "date": "2026-04-29T16:12:07.000Z",
           "source": "Lifespan.io",
-          "summary": "A recent study found an association between longer and more frequent daytime napping and higher mortality risk. The authors suggest using napping […]"
+          "summary": "A recent study found an association between longer and more frequent daytime napping and higher mortality risk. The authors suggest using napping frequency and duration as behavioral […]"
         },
         {
           "title": "Super Age debuts world’s first longevity fitness games",
@@ -175,7 +175,7 @@
           "domain": "lifespan.io",
           "date": "2026-04-28T19:52:24.000Z",
           "source": "Lifespan.io",
-          "summary": "A new study calls for caution in using the well-known senolytic treatment of dasatinib and quercetin (D+Q), showing that it causes […]"
+          "summary": "A new study calls for caution in using the well-known senolytic treatment of dasatinib and quercetin (D+Q), showing that it causes damage in […]"
         }
       ]
     },
@@ -188,84 +188,84 @@
       ],
       "articles": [
         {
-          "title": "New genome editing method could swap entire genes and correct 1000 mutations at once",
-          "url": "https://phys.org/news/2026-04-genome-method-swap-entire-genes.html",
-          "domain": "phys.org",
-          "date": "2026-04-30T00:00:06.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "New technology enables the insertion of a large segment of DNA into a genome, potentially expanding gene therapy treatment from cancellation of disease-causing mutations to replacement of an entire gene, scientists say."
-        },
-        {
-          "title": "Fertilizer can be made from local resources instead of fossil fuels",
-          "url": "https://phys.org/news/2026-04-fertilizer-local-resources-fossil-fuels.html",
-          "domain": "phys.org",
-          "date": "2026-04-29T21:20:01.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "The prices of mineral fertilizers are rising. The Fraunhofer Institute for Interfacial Engineering and Biotechnology IGB is working on alternative production methods: Researchers have developed various processes and demonstrated them on a pilot scale to recover nutrients from locally available waste streams. Fertilizers ready for immediate use can be obtained from digestion residues, manure, and wastewater, as the institute will show at IFAT in Munich in early May. This circular approach strengthens supply security and protects water bodies and the climate."
-        },
-        {
-          "title": "Low-cost method could standardize microplastic extraction from soils worldwide",
-          "url": "https://phys.org/news/2026-04-method-standardize-microplastic-soils-worldwide.html",
-          "domain": "phys.org",
-          "date": "2026-04-29T21:00:07.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "A new \"gold standard\" for soil analysis and microplastic extraction has been developed at the University of New England (UNE), unlocking vital capabilities to safeguard agricultural soils and protect human health. Led by Ph.D. candidate Nivetha Sivarajah, the research team developed a new multi-criteria framework to identify the most effective method to extract six common plastic types from different soil textures. The study is published in the journal Soil Advances."
-        },
-        {
-          "title": "AI drug target platform pairs prediction with benchmarking to improve early discovery",
-          "url": "https://phys.org/news/2026-04-ai-drug-platform-pairs-benchmarking.html",
-          "domain": "phys.org",
-          "date": "2026-04-29T19:40:01.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Insilico Medicine, a clinical-stage biotechnology company powered by generative artificial intelligence (AI), today announced advancements to its unified AI framework for drug target discovery, integrating its previously introduced Target Identification Pro (TargetPro) and Target Identification Benchmark (TargetBench 1.0) into a validated system designed to improve the accuracy, reliability, and scalability of early-stage drug development."
-        },
-        {
-          "title": "Revolving doors and efficient engines: How proteins escape a molecular tangle",
-          "url": "https://phys.org/news/2026-04-revolving-doors-efficient-proteins-molecular.html",
-          "domain": "phys.org",
-          "date": "2026-04-29T19:00:01.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Trying to untangle a knot in a mess of strings can be frustrating and time-consuming. But not so for molecular machines—molecules that convert chemical energy into mechanical work and motion. Machines from the AAA+ family, which exist in the cells of all living organisms from bacteria to humans, can, among their many functions, recognize misfolded protein chains and swiftly unravel them."
-        },
-        {
-          "title": "Neuronal electricality founded in murburn-thermodynamic principles: 1. Background and basic theoretical formulation",
-          "url": "https://arxiv.org/abs/2604.24772",
+          "title": "Robust Clustering Analysis of Genes Related to Age-related Macular Degeneration using RNA-Seq",
+          "url": "https://arxiv.org/abs/2604.25986",
           "domain": "arxiv.org",
-          "date": "2026-04-29T04:00:00.000Z",
+          "date": "2026-04-30T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2604.24772v1 Announce Type: new Abstract: Trans-membrane gradients and fluxes of cations (H+, Na+, K+, etc.) were deemed to be the rationale of electrical activities of aerobic cells/organelles, as per classical perceptions. Murburn concept (an umbrella of theorization based in stochastic redox processes) has afforded novel models for various metabolic, bioenergetic and electrophysiological outcomes. Herein, the foundational mechanistic formalisms for the electrical activities of neurons that lead signal relay along the axonal length are provided. Electron Holding potential (EHP), a dimensionless field/state variable (related logarithmically to electron chemical potential) is used to explain neuronal activity. By combining local redox relaxation dynamics with spatial transport driven by thermodynamic gradients, we derive a unified reaction-transport-relaxation equation that captures resting potential, excitability, waveform generation, and signal propagation within a single framework. Nonlinear local redox kinetics naturally give rise to threshold behavior, all-or-none responses, and stable spike waveforms. The framework accommodates known physiological variability and provides a direct bridge between metabolic/redox state and electrophysiological behavior. This work establishes a chemically grounded, non-circular alternative to ion-centric models and offers testable predictions for neuronal dynamics across biological systems. In the second part of this work, we compare the new theory with existing systems, provide further evidence, simulations and describe elaborate agendas for falsification and validation."
+          "summary": "arXiv:2604.25986v1 Announce Type: new Abstract: Identifying genes associated with diseases is crucial to understanding disease mechanisms and developing therapies. However, identification of individual genes associated with a disease often needs to be supplemented with clustering analysis to understand the relationships between genes and identify gene modules beyond individual gene-level relationships. Gene co-expression networks are widely used as a graph theoretic approach to the clustering analysis of genes. In our work, we perform robust clustering analysis on RNA-Seq data of Age-related Macular Degeneration (AMD) patients and controls by generalizing one such framework, Multiscale Embedded Gene Co-Expression Network Analysis (MEGENA). We propose a carefully curated set of module quality evaluation metrics to choose appropriate statistical distance-based or information theoretic similarity measures over simple linear correlation to represent the similarities between genes. Furthermore, we design and implement a stability test to ensure the robustness of the detected hub genes in the presence of noise. Finally, we propose differential module eigengene analysis for a deeper understanding of upregulation and downregulation of each module with respect to the disease and control groups for a comprehensive understanding of the clustering analysis. Besides detecting robust hub genes and modules that are supported by prior findings, we also identify previously undiscovered hub genes that can potentially lead to further biomedical research into understanding the AMD disease mechanism and developing new treatments."
         },
         {
-          "title": "Simultaneous Fragment Docking for Geometrically Linkable Pose Pairs",
-          "url": "https://arxiv.org/abs/2604.24773",
+          "title": "The Curse of Black Sigatoka: A Backward Bifurcation Perspective",
+          "url": "https://arxiv.org/abs/2604.26060",
           "domain": "arxiv.org",
-          "date": "2026-04-29T04:00:00.000Z",
+          "date": "2026-04-30T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2604.24773v1 Announce Type: new Abstract: Computational molecular design requires binding arrangements that are not only energetically favorable but also chemically realizable. However, computational methods remain limited in directly recovering fragment pose pairs that can later be connected into a single molecule. To address this problem, we formulated the simultaneous placement of two fragments as a quadratic unconstrained binary optimization problem, Q-SFD, and introduced an explicit inter-fragment distance term to favor reconstruction-feasible arrangements. Relative to the formulation without this term, Q-SFD approximately doubled top-1 recovery of reconstruction-feasible pairs, and the top-5 solutions contained at least one feasible pair for more than 90% of benchmark cases without loss of fragment-level pose accuracy."
+          "summary": "arXiv:2604.26060v1 Announce Type: new Abstract: Black Sigatoka disease (BSD), also known as black leaf streak disease, is an airborne fungal infection caused by \\textit{Pseudocercospora fijiensis} that severely impacts global banana and plantain production. Its persistence and resistance to eradication make it one of the most challenging plant diseases to manage. In this paper, we propose a deterministic pathogen-host model to describe BSD dynamics. Due to dual transmission pathways (ascospores and conidia) and mate limitation in sexual reproduction, the model exhibits a backward bifurcation: a stable endemic equilibrium coexists with the disease-free equilibrium for certain parameter values in which the basic reproduction number, $\\mathcal{R}_0$, is less than 1. This phenomenon explains why control strategies that solely reduce $\\mathcal{R}_0$ below one may fail. For the backward bifurcation regime, we perform sensitivity analysis of the endemic equilibrium using normalized forward sensitivity indices, Latin Hypercube Sampling, and Partial Rank Correlation Coefficients. Results indicate that effective control must extend beyond $\\mathcal{R}_0$ reduction and prioritize (1) limiting production of new susceptible leaves during high-risk periods and (2) developing and deploying disease-resistant plant varieties. To incorporate transmission variability, we also formulate a stochastic version of the model using the Stochastic Simulation Algorithm (SSA). Extensive numerical simulations compare stochastic realizations with deterministic predictions and quantify variability in disease dynamics. To identify the principal drivers of persistence and variability, we analyze the endemic equilibrium using Sobol's variance-based sensitivity method, which highlights the role of nonlinear parameter interactions in shaping variability."
         },
         {
-          "title": "A multi-stage soft computing framework for complex disease modelling and decision support: A liver cirrhosis case study",
-          "url": "https://arxiv.org/abs/2604.24796",
+          "title": "How is gene-regulatory evolution affected by cell-to-cell variability?",
+          "url": "https://arxiv.org/abs/2604.26082",
           "domain": "arxiv.org",
-          "date": "2026-04-29T04:00:00.000Z",
+          "date": "2026-04-30T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2604.24796v1 Announce Type: new Abstract: Liver cirrhosis is a major global health problem causing millions of deaths annually, and timely detection with aggressive treatment can significantly improve patients' quality of life. Modelling complex diseases from biomedical data is computationally challenging due to high dimensionality, strong feature correlations, noise, and limited labelled samples. Conventional Machine Learning (ML) pipelines often struggle with robustness, interpretability, and generalisation under such conditions. In this study, we propose an ML-driven multi-stage decision framework for complex disease modelling and therapeutic exploration. The framework integrates single-cell transcriptomic profiling, high-dimensional network-based feature stabilisation, multi-model learning, deep representation construction, and post-hoc decision support. Specifically, single-cell sequencing data were analysed to identify key cellular subpopulations, followed by high-dimensional weighted gene co-expression network analysis (hdWGCNA) to stabilise gene modules under sparsity and noise. To enhance non-linear feature interaction modelling, tabular molecular features were restructured into two-dimensional disease maps and analysed using a CNN. Finally, molecular docking was incorporated as a decision-support module to evaluate candidate therapeutic compounds. Using liver cirrhosis as a representative case, the framework identified a disease-associated endothelial subpopulation and extracted seven robust signature genes (HSPB1, GADD45A, CLDN5, ATP1B3, C1QBP, ENPP2, and PARL). The CNN-based representation learning module outperformed conventional pipelines in classification. The framework is disease-agnostic and readily extends to other omics-driven biomedical applications involving uncertainty, heterogeneity, and limited samples."
+          "summary": "arXiv:2604.26082v1 Announce Type: new Abstract: The evolutionary origins of structural features in reconstructed gene-regulatory networks (GRNs) remain poorly understood, especially given the random aspects of gene expression. Here, we extend a classical model of GRN evolution to allow a single network to express a distribution of phenotypes through noisy developmental dynamics. Inspired by Hopfield networks, we introduce an alignment score that quantifies the cohesion of gene-gene interactions in the network to support a target stable phenotype. Overall, evolved populations optimized their fitness and reduced the length of their developmental paths. Increased noise levels promoted alignment, enriched coherent feedforward and positive feedback loops relative to non-evolved and noiseless controls, and buffered against mutational perturbations. Alignment provides intuitive interpretations because an increased number of appropriately signed gene-gene interactions is more redundant and thus more robust against developmental noise and mutations. Together, these results demonstrate that cell-to-cell variability exerts strong selective pressure, driving the evolution of aligned, robust, and motif-enriched GRN architectures."
         },
         {
-          "title": "Equation Learning for multiscale models of infectious diseases",
-          "url": "https://arxiv.org/abs/2604.25038",
+          "title": "Rare but Resilient: Dispersal diversity buffers species vulnerability",
+          "url": "https://arxiv.org/abs/2604.26589",
           "domain": "arxiv.org",
-          "date": "2026-04-29T04:00:00.000Z",
+          "date": "2026-04-30T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2604.25038v1 Announce Type: new Abstract: Tuberculosis (TB) is an airborne disease caused by the pathogen Mycobacterium tuberculosis. In 2023, according to the World Health Organization, it ''probably'' replaced COVID-19 as the leading cause of death from an infectious agent globally; in the nineteenth century, one in seven of all humans deaths were as a result of tuberculosis. More than 10 million people are diagnosed with TB every year. The majority of cases in adults occur in males (62.5% of all global adult cases in 2023, compared to 37.5% in females). The main reasons for males suffering from a higher burden of global TB cases, compared to females, is likely to be a combination of within-host factors, such as differences in immune response, and population-scale factors, such as likelihood of completing treatment. To investigate the impact different scales have in determining this higher TB burden in males, we have developed a gender/sex-stratified multiscale framework. We have learnt ordinary differential equations (ODEs) to capture the average output of an agent-based within-host model, and used the resulting equations to describe the within-host scales of the multiscale framework. We evolve the population demographics at the between-host scale using ODEs, and link the scales with stochastic coupling functions. We have considered counterfactual scenarios to elucidate the impact of sex and gender on the infectious disease dynamics of TB. This paper is intended to provide a proof-of-concept for the development and implementation of the presented multiscale framework."
+          "summary": "arXiv:2604.26589v1 Announce Type: new Abstract: Predicting species persistence within ecological communities is a fundamental challenge for both empirical and theoretical ecology. Existing methods span from mechanistic models, whose parameters are difficult to estimate from data, to statistical tools whose context-specific parameters are less interpretable. Here, we present a general framework, grounded in the statistical physics of complex systems, that integrates the key processes governing species survival into a single measurable quantity: the competitive balance. This metric quantifies a focal species' vulnerability beyond its abundance by incorporating the diversity of dispersal strategies and the structure of interspecific interactions within the community. Crucially, it can be inferred from spatial abundance data, thus circumventing the need to estimate species traits or dispersal parameters. Our results reveal that greater heterogeneity in dispersal strategies reduces vulnerability for a given abundance. Although we validate the framework using tropical and temperate forest data, it can be applied to a range of different ecosystems, providing a systemic and interpretable tool for assessing a context-dependent species vulnerability that accounts for its interactions with the entire community."
         },
         {
-          "title": "Learning biophysical models of gene regulation with probability flow matching",
-          "url": "https://arxiv.org/abs/2604.25062",
+          "title": "Parsimonious computational inference protocol for Boolean networks: Application to osteogenesis",
+          "url": "https://arxiv.org/abs/2604.26700",
           "domain": "arxiv.org",
-          "date": "2026-04-29T04:00:00.000Z",
+          "date": "2026-04-30T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2604.25062v1 Announce Type: new Abstract: Cellular differentiation is governed by gene regulatory networks, the high-dimensional stochastic biochemical systems that determine the transcriptional landscape and mediate cellular responses to signals and perturbations. Although single-cell RNA sequencing provides quantitative snapshots of the transcriptome, current methods for inferring gene-regulatory dynamics often lack mechanistic interpretability and fail to generalize to unseen conditions. Here we introduce Probability Flow Matching (PFM), a scalable framework for learning biophysically consistent stochastic processes directly from time-resolved single-cell measurements. Applying PFM to three hematopoiesis datasets, we show that models with similar interpolation accuracy can encode fundamentally different dynamics, with only biophysically consistent formulations accurately capturing mechanisms of lineage transitions, fate specification, and gene perturbation responses. We further demonstrate that PFM accommodates unbalanced populations, enabling simultaneous inference of cellular proliferation and death dynamics. Together, these results establish PFM as a flexible, scalable framework for integrating mechanistic modeling with single-cell omics."
+          "summary": "arXiv:2604.26700v1 Announce Type: new Abstract: Boolean networks are powerful mathematical tools for modeling the qualitative dynamics of genetic regulation. Yet inferred models often generate spurious attractors that lack biological viability. In this paper, we propose a parsimonious computational framework to systematically refine Boolean network models by eliminating these non-biological asymptotic behaviors while strictly preserving known, biologically relevant attractors. Through an exhaustive exploration of local function substitutions, we generate a comprehensive set of candidate models. To identify the most biologically consistent networks, we implement an incremental pruning protocol that filters candidates based on structural interaction digraph similarity, attraction basin topological organization, trajectorial isomorphism, and the minimization of dynamical instability and frustration. We apply this methodology to a 9-node genetic control model of the osteogenesis regulation network. Our protocol effectively evaluates a syntactic search space of 51,138 potential networks, ultimately narrowing them down to a robust family of 6 parsimonious models that are fully compatible with current biological knowledge."
+        },
+        {
+          "title": "Theory of adhesion-driven self-organisation in growing tissues",
+          "url": "https://arxiv.org/abs/2604.26928",
+          "domain": "arxiv.org",
+          "date": "2026-04-30T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2604.26928v1 Announce Type: new Abstract: Cell invasion and spatial pattern formation are two distinct manifestations of cellular self-organisation in development, regeneration, and disease. Here, we develop and analyse a unified theoretical framework that links these two seemingly different behaviours within a single mechanistic model for adhesion-mediated self-organisation in growing cell populations. Using a multiscale analysis, we show that the balance between cell-cell adhesion, self-diffusion, and proliferation controls the emergence of distinct collective dynamics. We find that for weak adhesion, tissues invade through stable monotone fronts. As adhesion increases, invasion slows, fronts become unstable, leading to aggregates and spatial patterns emerging behind the advancing edge. In two spatial dimensions, these instabilities generate fingering morphologies reminiscent of dysregulated invasion in cancer. Crucially, we show that density-dependent regulation of adhesion suppresses these instabilities and restores cohesive tissue expansion. Together, our results identify adhesion strength and its regulation as key determinants of whether tissues invade cohesively or fragment into patterns, and provide a unified framework for understanding collective migration, morphogenesis, and dysregulated growth."
+        },
+        {
+          "title": "Observable Neural ODEs for Identifiable Causal Forecasting in Continuous Time",
+          "url": "https://arxiv.org/abs/2604.26070",
+          "domain": "arxiv.org",
+          "date": "2026-04-30T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2604.26070v1 Announce Type: cross Abstract: Causal inference in continuous-time sequential decision problems is challenged by hidden confounders. We show that, in latent state-space models with time-varying interventions, observability of the latent dynamics from observed data is necessary for identifying dynamic treatment effects, linking control-theoretic observability to causal identifiability, even when hidden confounders affect both treatments and outcomes. We derive a continuous-time adjustment formula expressing potential outcome distributions under treatment trajectories via the measurement model, latent dynamics, and the filtering distribution over latent states given observed histories. We propose Observable Neural ODEs (ObsNODEs), Neural ODE models in observable normal form for causal forecasting. ObsNODEs learn continuous-time dynamics with states reconstructible from observations, enabling outcome prediction under alternative treatment paths. Experiments on synthetic cancer data, semi-synthetic data based on MIMIC-IV, and real-world sepsis data show strong performance over recent sequence models."
+        },
+        {
+          "title": "A Thermodynamic Analysis of Enhanced Metastability in Isochoric Supercooled Liquids",
+          "url": "https://arxiv.org/abs/2604.26302",
+          "domain": "arxiv.org",
+          "date": "2026-04-30T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2604.26302v1 Announce Type: cross Abstract: Experiments show that isochoric (constant-volume) conditions enhance supercooling stability relative to isobaric (constant-pressure) conditions. Here, combining Helmholtz equilibrium thermodynamics with a first-order perturbation methodology, we derive an inequality governing nucleation stability under volumetric constraint. The derivation provides a general thermodynamic proof that for any substance undergoing phase transformation in which the solid is less dense than the liquid, the Helmholtz driving force for solidification in isochoric systems is smaller than the Gibbs driving force in isobaric systems. Since nucleation rates depend exponentially on the inverse square of the driving force, this provides a thermodynamic basis for the observed suppression of nucleation rates. While a full stochastic treatment is beyond the scope of this work, the reduction in driving force implies a weakening of the bias toward growth of pre-critical fluctuations, increasing their probability of thermal dissolution. The analysis yields a dimensionless isochoric stability number. This number is computable from bulk thermodynamic data alone and provides a geometry-independent criterion for comparing metastable liquid stability across materials and conditions."
+        },
+        {
+          "title": "Do Larger Models Really Win in Drug Discovery? A Benchmark Assessment of Model Scaling in AI-Driven Molecular Property and Activity Prediction",
+          "url": "https://arxiv.org/abs/2604.26498",
+          "domain": "arxiv.org",
+          "date": "2026-04-30T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2604.26498v1 Announce Type: cross Abstract: The rapid growth of molecular foundation models and general-purpose large language models has encouraged a scale-centric view of artificial intelligence in drug discovery, in which larger pretrained models are expected to supersede compact cheminformatics models and task-specific graph neural networks (GNNs). We test this assumption on 22 molecular property and activity endpoints, including public ADMET and Tox21 benchmarks and two internal anti-infective activity datasets. Across 167,056 held-out task--molecule evaluations under structure-similarity-separated five-fold cross-validation (37,756 ADMET, 77,946 Tox21, 49,266 anti-TB and 2,088 antimalaria), classical machine-learning (ML) models such as RF(ECFP4) and ExtraTrees(RDKit descriptors) win ten primary-metric tasks, GNNs such as GIN and Ligandformer win nine, and pretrained molecular sequence models such as MoLFormer and ChemBERTa2 win three. Rule-based SAR reasoning baselines, represented by GPT5.5-SAR and Opus4.7-SAR, do not win under the prespecified primary metrics, although train-fold-derived SAR knowledge provides measurable but uneven gains for SAR reasoning and interpretation. These results indicate that compact, specialized models remain highly effective for molecular property and activity prediction. The performance differences among classical ML, GNN and pretrained sequence models are often modest and endpoint-dependent, whereas larger or more general models do not provide a universal predictive advantage. Large models may still add value for zero-shot reasoning, SAR interpretation and hypothesis generation, but the results suggest that predictive performance depends on the alignment among molecular representation, inductive bias, data regime, endpoint biology and validation protocol."
+        },
+        {
+          "title": "MTCurv: Deep learning for direct microtubule curvature mapping in noisy fluorescence microscopy images",
+          "url": "https://arxiv.org/abs/2604.26517",
+          "domain": "arxiv.org",
+          "date": "2026-04-30T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2604.26517v1 Announce Type: cross Abstract: Accurate quantification of the geometry of curvilinear biological structures is essential for understanding cellular mechanics and disease-related morphological alterations. Microtubule curvature is a key descriptor of filament rigidity and mechanical perturbations. However, reliable curvature extraction from fluorescence microscopy images remains challenging due to noise, low contrast, and partial filament visibility. Existing approaches rely on segmentation pipelines with pre or post-processing, which are highly sensitive to segmentation errors and often fail under adverse imaging conditions. In this work, we propose MTCurv, a deep learning framework for direct, segmenta-tion-free regression of microtubule curvature maps from noisy microscopy images. Leveraging a synthetic dataset with pixel-wise curvature annotations, we reformulated curvature estimation as a regression problem and adapted an attention-based residual U-Net. To reduce hallucinations and enforce spatial coherence, we introduced a gradient-aware loss combining Mean Squared Error with a gradient consistency term. Beyond model and loss design, we evaluated commonly used regression and image quality metrics, revealing that many perceptual and blind metrics are poorly suited for curvature estimation. Correlation-based metrics, particularly Spearman correlation, emerged as more reliable indicators of curvature prediction quality. Experiments on two datasets of increasing difficulty demonstrated that MTCurv accurately recovers local microtubule curvatures, even in the presence of background fluorescence. Ablation studies highlighted the contribution of both residual encoding and attention-based decoding. Overall, this work provides a practical tool for filament curvature analysis and methodological insights for geometry-aware regression in biomedical imaging. Datasets and code are made available."
         }
       ]
     },
@@ -277,6 +277,38 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "Hyperliquid’s HYPE token could be its prediction market weapon, Arthur Hayes says",
+          "url": "https://www.coindesk.com/markets/2026/04/30/hyperliquid-s-hype-token-could-be-its-prediction-market-weapon-arthur-hayes-says",
+          "domain": "coindesk.com",
+          "date": "2026-04-30T04:54:23.000Z",
+          "source": "CoinDesk",
+          "summary": "HIP-4 could become a dominant prediction-market venue because Hyperliquid users can get economic exposure to platform usage through HYPE, unlike users of Polymarket or Kalshi."
+        },
+        {
+          "title": "FBI leads arrests of 276 in global crypto ‘pig butchering’ scams",
+          "url": "https://www.theblock.co/post/399515/fbi-task-force-arrests-276-crypto-scams?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-04-30T03:53:32.000Z",
+          "source": "The Block",
+          "summary": "Dubai police arrested 275 individuals, while Thai authorities arrested one suspect allegedly involved in crypto scams."
+        },
+        {
+          "title": "US, UAE and China joint effort dismantles 9 crypto scam centers",
+          "url": "https://cointelegraph.com/news/fbi-dubai-and-china-make-mass-arrests-dismantle-crypto-scam-centres?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-04-30T03:31:48.000Z",
+          "source": "CoinTelegraph",
+          "summary": "In another police action, European police arrested ten people and took down three scam centers, estimated to have stolen over $58 million from victims around the world."
+        },
+        {
+          "title": "Bitcoin futures signal caution as long-to-short ratio signals positioning shift",
+          "url": "https://cointelegraph.com/markets/bitcoin-futures-signal-caution-long-to-short-ratio?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-04-30T00:22:35.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bitcoin derivatives highlight traders’ nervous view as the Federal Reserve holds interest rates and BTC struggles to trade above its range highs. Are the bears back?"
+        },
         {
           "title": "Bitcoin recovery stalls after Fed holds interest rates, citing ‘uncertainty’ in Middle East",
           "url": "https://cointelegraph.com/markets/bitcoin-recovery-stalls-after-fed-holds-interest-rates-citing-uncertainty-in-middle-east?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -324,38 +356,6 @@
           "date": "2026-04-29T21:02:38.000Z",
           "source": "CoinTelegraph",
           "summary": "RealOpen, the leading platform for buying real estate with crypto, today announced the conclusion of its collaborative \"Fast Moves, Fast Payments\" Holiday Campaign with TRON"
-        },
-        {
-          "title": "OKX rolls out Agent Payments Protocol designed to support AI business cycles",
-          "url": "https://www.theblock.co/post/399490/okx-agent-payments-protocol-ai-business-cycles-quotes-disputes-transactions?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-04-29T21:02:30.000Z",
-          "source": "The Block",
-          "summary": "OKX's Agent Payments Protocol (APP) is designed to support entire bot business cycles, from making offers to disputing transactions."
-        },
-        {
-          "title": "Bitcoin slips to $75,000 as Fed holds rates, dissenters chill Warsh ‘pivot party’",
-          "url": "https://www.theblock.co/post/399465/bitcoin-slips-75000-fed-holds-rates-dissenters-chill-warsh-pivot-party?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-04-29T20:19:58.000Z",
-          "source": "The Block",
-          "summary": "A split 8-4 vote initially spooked markets, creating uncertainty around the Federal Reserve's future policy moves."
-        },
-        {
-          "title": "Stable Sea integrates WisdomTree tokenized Treasury fund for corporate cash management",
-          "url": "https://cointelegraph.com/news/stable-sea-integrates-wisdomtree-tokenized-treasury-fund-for-corporate-cash-management?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-04-29T19:57:45.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Businesses can now allocate idle cash to a government-backed fund via Stable Sea, as tokenized Treasury products gain traction in corporate finance."
-        },
-        {
-          "title": "Eric Trump says bitcoin in its 'greatest period ever' as Wall Street falls in line",
-          "url": "https://www.coindesk.com/markets/2026/04/29/eric-trump-says-bitcoin-in-its-greatest-period-ever-as-wall-street-falls-in-line",
-          "domain": "coindesk.com",
-          "date": "2026-04-29T19:49:14.000Z",
-          "source": "CoinDesk",
-          "summary": "Speaking at Bitcoin Las Vegas 2026, the American Bitcoin co-founder declared the last six months a turning point."
         }
       ]
     }
