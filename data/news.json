@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-01T17:15:13.842Z",
+  "updatedAt": "2026-05-01T18:15:01.007Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -111,7 +111,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-01T16:05:37.000Z",
           "source": "Lifespan.io",
-          "summary": "Aging is a multifaceted topic, and it’s becoming more and more clear that the only way to deal with it is piece by piece. Here’s what pieces our industry has […]"
+          "summary": "Aging is a multifaceted topic, and it’s becoming more and more clear that the only way to deal with it is piece by piece. Here’s what pieces our industry has put together in […]"
         },
         {
           "title": "The implementation gap",
@@ -278,6 +278,30 @@
       ],
       "articles": [
         {
+          "title": "Paradigm researcher proposes timestamp ‘escape hatch’ to protect Satoshi-era bitcoin from quantum threats",
+          "url": "https://www.theblock.co/post/399738/paradigm-researcher-timestamp-escape-hatch-satoshi-era-bitcoin-quantum?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-01T17:44:32.000Z",
+          "source": "The Block",
+          "summary": "PACTs would let long-term bitcoin holders prepare for a worst-case quantum scenario without moving funds or signaling activity onchain."
+        },
+        {
+          "title": "Canadian pension giant AIMCo buys the dip in Strategy, now sitting on $69 million unrealized gain",
+          "url": "https://www.coindesk.com/markets/2026/05/01/canadian-pension-giant-aimco-buys-the-dip-in-strategy-now-sitting-on-usd69-million-unrealized-gain",
+          "domain": "coindesk.com",
+          "date": "2026-05-01T17:40:40.000Z",
+          "source": "CoinDesk",
+          "summary": "AIMCo returns to Michael Saylor's bitcoin treasury company years after exiting, now sitting on a sizable unrealized gain."
+        },
+        {
+          "title": "A new narrative for bitcoin that will last",
+          "url": "https://www.coindesk.com/opinion/2026/05/01/a-new-narrative-for-bitcoin-that-will-last",
+          "domain": "coindesk.com",
+          "date": "2026-05-01T17:33:00.000Z",
+          "source": "CoinDesk",
+          "summary": "Of the myriad pundits proclaiming what bitcoin is or isn’t, Blume offers a more clear-eyed framing that, he argues, will outlast the others."
+        },
+        {
           "title": "European crypto asset manager CoinShares records $7.4 billion AUM in first annual filing since Nasdaq listing",
           "url": "https://www.theblock.co/post/399741/european-crypto-asset-manager-coinshares-2025-earnings?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
@@ -332,30 +356,6 @@
           "date": "2026-05-01T14:12:45.000Z",
           "source": "The Block",
           "summary": "Fun powers deposits, withdrawals, and settlement flows for some of crypto’s leading apps, including Polymarket, Lighter, and Aave."
-        },
-        {
-          "title": "Here’s what happened in crypto today",
-          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-01T14:03:23.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
-        },
-        {
-          "title": "DeFi can freeze stolen funds, but not everyone agrees it should",
-          "url": "https://cointelegraph.com/features/defi-freeze-stolen-funds-everyone-agrees-it-should?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-01T14:00:00.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Crypto faces backlash for freezing stolen funds and for doing nothing, with expectations pulling in opposite directions."
-        },
-        {
-          "title": "Crypto VC funding plunges to $659M in April, hits near two-year low",
-          "url": "https://cointelegraph.com/news/crypto-vc-funding-plunges-to-659m-in-april-to-2024-lows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-01T13:53:26.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Crypto VC funding fell to $659 million in April, its lowest monthly total since July 2024, as dealmaking slowed across the sector."
         }
       ]
     }
