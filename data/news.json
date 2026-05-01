@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-01T20:36:59.481Z",
+  "updatedAt": "2026-05-01T21:38:43.969Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -98,6 +98,14 @@
       ],
       "articles": [
         {
+          "title": "The Longevity Investor Network Looks Back at 2025",
+          "url": "https://lifespan.io/the-longevity-investor-network-looks-back-at-2025/?utm_source=rss&utm_medium=rss&utm_campaign=the-longevity-investor-network-looks-back-at-2025",
+          "domain": "lifespan.io",
+          "date": "2026-05-01T20:54:29.000Z",
+          "source": "Lifespan.io",
+          "summary": "The Longevity Investor Network (LIN) was created to help bridge the gap between promising longevity startups and the investors capable of helping them scale. Through curated […]"
+        },
+        {
           "title": "Deal between Chrysea, nuBioAge brings spermidine to clinics",
           "url": "https://longevity.technology/news/deal-between-chrysea-nubioage-brings-spermidine-to-clinics/",
           "domain": "longevity.technology",
@@ -111,7 +119,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-01T16:05:37.000Z",
           "source": "Lifespan.io",
-          "summary": "Aging is a multifaceted topic, and it’s becoming more and more clear that the only way to deal with it is piece by piece. Here’s what pieces our industry has put together in April. Advocacy and Analysis It’s Springtime and […]"
+          "summary": "Aging is a multifaceted topic, and it’s becoming more and more clear that the only way to deal with it is piece by piece. Here’s what pieces […]"
         },
         {
           "title": "The implementation gap",
@@ -168,14 +176,6 @@
           "date": "2026-05-01T07:36:09.000Z",
           "source": "Longevity.Technology",
           "summary": "Alector confirmed it will discontinue the Phase 2 PROGRESS-AD trial of Nivisnebart (AL101/GSK4527226) in individuals with early Alzheimer’s disease after a pre-specified futility analysis by an independent data monitoring committee concluded the study was unlikely to meet its primary endpoint of slowing disease progression at completion. Alector and GSK co-developed AL101, and the companies will […] The post Alector discontinues Phase 2 trial of Nivisnebart in early Alzheimer’s disease appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Stealth reports FORZINITY launch momentum and pipeline progress",
-          "url": "https://longevity.technology/news/stealth-reports-forzinity-launch-momentum-and-pipeline-progress/",
-          "domain": "longevity.technology",
-          "date": "2026-05-01T07:31:09.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Stealth provided a commercial and research update on FORZINITY (elamipretide) and its mitochondrial disease pipeline. FORZINITY is commercially available in the U.S. for eligible patients weighing at least 30 kg with Barth syndrome. According to the company, 33 patients have initiated therapy, 85% of patients are fully covered, the average time to therapy initiation is […] The post Stealth reports FORZINITY launch momentum and pipeline progress appeared first on Longevity.Technology ."
         }
       ]
     },
@@ -278,6 +278,46 @@
       ],
       "articles": [
         {
+          "title": "Clarity Act text lets crypto firms offer stablecoin rewards while shielding bank yield",
+          "url": "https://www.coindesk.com/policy/2026/05/01/clarity-act-text-lets-crypto-firms-offer-stablecoin-rewards-while-shielding-bank-yield",
+          "domain": "coindesk.com",
+          "date": "2026-05-01T21:33:27.000Z",
+          "source": "CoinDesk",
+          "summary": "The text released Friday blocks crypto firms from offering stablecoin yield offerings that look like bank deposits, but \"bona fide\" transactions are allowed."
+        },
+        {
+          "title": "Three Bitcoin data points suggest a rally to $80K is imminent",
+          "url": "https://cointelegraph.com/markets/3-bitcoin-data-points-suggest-rally-to-80k-is-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-01T21:14:23.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bitcoin chases $80,000 as rising spot volumes and futures open interest suggest the market has shifted back in the bulls’ favor."
+        },
+        {
+          "title": "Bitcoin miner Riot's shares jump 8% after expanding AMD data center deal, signaling AI pivot",
+          "url": "https://www.coindesk.com/markets/2026/05/01/bitcoin-miner-riot-s-shares-jump-8-after-expanding-amd-data-center-deal-signaling-ai-pivot",
+          "domain": "coindesk.com",
+          "date": "2026-05-01T20:59:09.000Z",
+          "source": "CoinDesk",
+          "summary": "AMD’s expansion and improved financing terms highlight Riot’s shift beyond bitcoin mining and strengthen confidence in its growing data center business."
+        },
+        {
+          "title": "A16z backs CFTC, says state-by-state rules on prediction markets create ‘barrier to impartial access’",
+          "url": "https://www.theblock.co/post/399752/a16z-cftc-state-by-state-rules-prediction-markets-barrier-impartial-access?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-01T20:53:17.000Z",
+          "source": "The Block",
+          "summary": "Venture capital firm Andreessen Horowitz argued that state prediction market restrictions could drain liquidity and limit market access."
+        },
+        {
+          "title": "JPMorgan says rising stablecoin use may not lead to similar market cap growth",
+          "url": "https://www.theblock.co/post/399767/jpmorgan-rising-stablecoin-use-may-not-lead-similar-market-cap-growth?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-01T20:15:52.000Z",
+          "source": "The Block",
+          "summary": "Stablecoin transaction volume is rising fast, but higher velocity may limit how much total market cap grows, JPMorgan analysts said."
+        },
+        {
           "title": "Polymarket and Kalshi’s combined lifetime volumes hit $150 billion in April",
           "url": "https://www.theblock.co/post/399759/polymarket-and-kalshis-combined-lifetime-volumes-hit-150-billion-in-april?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
@@ -316,46 +356,6 @@
           "date": "2026-05-01T18:55:11.000Z",
           "source": "CoinTelegraph",
           "summary": "AI and blockchain infrastructure company Gency AI today announced it has raised $20 million in a new funding round."
-        },
-        {
-          "title": "Ethereum Foundation finalizes sale of 10,000 ether to BitMine as part of its treasury strategy",
-          "url": "https://www.coindesk.com/business/2026/05/01/ethereum-foundation-finalizes-sale-of-10-000-ether-to-bitmine-as-part-of-its-treasury-strategy",
-          "domain": "coindesk.com",
-          "date": "2026-05-01T18:16:40.000Z",
-          "source": "CoinDesk",
-          "summary": "The latest transaction follows a similar March deal in which the foundation sold 5,000 ETH to BitMine, raising roughly $10.2 million."
-        },
-        {
-          "title": "Paradigm researcher proposes timestamp ‘escape hatch’ to protect Satoshi-era bitcoin from quantum threats",
-          "url": "https://www.theblock.co/post/399738/paradigm-researcher-timestamp-escape-hatch-satoshi-era-bitcoin-quantum?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-01T17:44:32.000Z",
-          "source": "The Block",
-          "summary": "PACTs would let long-term bitcoin holders prepare for a worst-case quantum scenario without moving funds or signaling activity onchain."
-        },
-        {
-          "title": "Canadian pension giant AIMCo buys the dip in Strategy, now sitting on $69 million unrealized gain",
-          "url": "https://www.coindesk.com/markets/2026/05/01/canadian-pension-giant-aimco-buys-the-dip-in-strategy-now-sitting-on-usd69-million-unrealized-gain",
-          "domain": "coindesk.com",
-          "date": "2026-05-01T17:40:40.000Z",
-          "source": "CoinDesk",
-          "summary": "AIMCo returns to Michael Saylor's bitcoin treasury company years after exiting, now sitting on a sizable unrealized gain."
-        },
-        {
-          "title": "A new narrative for bitcoin that will last",
-          "url": "https://www.coindesk.com/opinion/2026/05/01/a-new-narrative-for-bitcoin-that-will-last",
-          "domain": "coindesk.com",
-          "date": "2026-05-01T17:33:00.000Z",
-          "source": "CoinDesk",
-          "summary": "Of the myriad pundits proclaiming what bitcoin is or isn’t, Blume offers a more clear-eyed framing that, he argues, will outlast the others."
-        },
-        {
-          "title": "European crypto asset manager CoinShares records $7.4 billion AUM in first annual filing since Nasdaq listing",
-          "url": "https://www.theblock.co/post/399741/european-crypto-asset-manager-coinshares-2025-earnings?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-01T16:43:33.000Z",
-          "source": "The Block",
-          "summary": "CoinShare saw revenue of $126.4 million on its asset management business in 2025, up 13% from the $111.7 million the year prior."
         }
       ]
     }
