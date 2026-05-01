@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-01T12:01:56.719Z",
+  "updatedAt": "2026-05-01T13:55:20.945Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -98,6 +98,14 @@
       ],
       "articles": [
         {
+          "title": "J Craig Venter, PhD: 1946 – 2026",
+          "url": "https://longevity.technology/news/j-craig-venter-phd-1946-2026/",
+          "domain": "longevity.technology",
+          "date": "2026-05-01T12:46:22.000Z",
+          "source": "Longevity.Technology",
+          "summary": "A genome pioneer who read life as code – and rewrote the tempo of discovery, commerce and controversy in modern biology. J Craig Venter has died at the age of 79; born in Salt Lake City in 1946, Venter was a figure who rarely moved quietly through science, and who seemed, for much of his […] The post J Craig Venter, PhD: 1946 – 2026 appeared first on Longevity.Technology ."
+        },
+        {
           "title": "BioCardia allowed Japanese patent for Heart3D fusion imaging",
           "url": "https://longevity.technology/news/biocardia-allowed-japanese-patent-for-heart3d-fusion-imaging/",
           "domain": "longevity.technology",
@@ -143,7 +151,7 @@
           "domain": "lifespan.io",
           "date": "2026-04-30T17:00:49.000Z",
           "source": "Lifespan.io",
-          "summary": "A perspective published in Aging Cell details the replacement-based approaches being investigated by several research organizations. Repair versus replacement This perspective begins by noting the inherent difficulty […]"
+          "summary": "A perspective published in Aging Cell details the replacement-based approaches being investigated by several research organizations. Repair versus replacement This perspective begins by noting the inherent difficulty of rejuvenating the […]"
         },
         {
           "title": "Rafael Holdings gains exclusive MIT Alzheimer’s patent",
@@ -168,14 +176,6 @@
           "date": "2026-04-30T16:34:51.000Z",
           "source": "Longevity.Technology",
           "summary": "Sana and Mayo Clinic partner to advance a potential one-time cell therapy that could replace insulin for people with Type 1 diabetes. Millions of people living with Type 1 diabetes have their lives built around maintenance – checking blood sugar, calculating meals, injecting insulin and constantly adjusting. It’s a routine that never really lets up. […] The post A one-shot cure for diabetes? Sana Biotechnology makes its move appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Metashape Pharma to present new data on GLP-1 combination, muscle health",
-          "url": "https://longevity.technology/news/metashape-pharma-to-present-new-data-on-glp-1-combination-muscle-health/",
-          "domain": "longevity.technology",
-          "date": "2026-04-30T13:51:09.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Metashape Pharma announced that new preclinical data from a study of MS 001 combined with semaglutide will be presented at the American Diabetes Association 2026 Scientific Sessions, 5–8 June 2026 in New Orleans. The company’s abstract was selected for both the ADA Late Breaking Poster Session (poster 3059-LB, category 23-A Obesity – Animal) on Sunday, […] The post Metashape Pharma to present new data on GLP-1 combination, muscle health appeared first on Longevity.Technology ."
         }
       ]
     },
@@ -187,6 +187,14 @@
         "https://phys.org/rss-feed/biology-news/biotechnology/"
       ],
       "articles": [
+        {
+          "title": "AI-powered forecasts sharpen early warning for destructive crop pest",
+          "url": "https://phys.org/news/2026-05-ai-powered-sharpen-early-destructive.html",
+          "domain": "phys.org",
+          "date": "2026-05-01T13:20:05.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "What if farmers could see a pest outbreak coming before the insect ever had a chance to damage their crop? New research from Texas A&M AgriLife Research indicates that artificial intelligence can predict outbreaks much more accurately than traditional methods. The tool could dramatically improve how and when insect pest risks are identified and controlled."
+        },
         {
           "title": "T-cell repertoire response in individuals with post-acute sequelae of COVID-19",
           "url": "https://arxiv.org/abs/2604.26975",
@@ -258,14 +266,6 @@
           "date": "2026-05-01T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2604.27894v1 Announce Type: new Abstract: Integrating theoretical neuroscience, decision theory, and probabilistic inference offers a promising route to understanding human cognition, yet concrete methodological bridges between agentic AI models and behavioral data analysis remain formally underdeveloped. We advance this synthesis under the framework of agentic behavioral modeling (ABM), which treats artificial agents as latent, generative hypotheses about cognitive mechanisms and evaluates them by their statistical adequacy in explaining human behavior. After outlining its conceptual foundations, we apply the framework to two minimal laboratory paradigms: a binary perceptual contrast-discrimination task and a symmetric two-armed bandit learning task. We formalize each task-agent-data system as a joint probability model, derive explicit conditional log-likelihoods for behavioral inference, validate different model variants using model and parameter recovery simulations, and evaluate them in light of empirical data. Using these minimal examples, we provide an agent-centric interpretation of the psychometric function, derive optimal policies for both tasks, and show the equivalence between Rescorla-Wagner learning and Bayesian inference in symmetric bandits. More broadly, this work may serve as a conceptual and practical foundation for applying ABM to cognitive behavioral science."
-        },
-        {
-          "title": "Complex Effects of Salt on Small-Angle X-ray Scattering of BSA Originate From the Interplay of Ions and Hydration Water",
-          "url": "https://arxiv.org/abs/2604.27913",
-          "domain": "arxiv.org",
-          "date": "2026-05-01T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2604.27913v1 Announce Type: new Abstract: Salts are an integral part of the environment for living systems and, therefore, understanding their effects on proteins and other biomolecules is of fundamental interest. Small-angle X-ray scattering (SAXS) of protein solutions can provide valuable information on salt effects, but extracting this information has been a significant challenge. For example, SAXS data of bovine serum albumin (BSA) at various salt concentrations were fit to three different spherical models. Here we combined the newly developed FMAPIq approach with explicit-solvent all-atom molecular dynamics simulations to show that the complex effects of salt on the SAXS of BSA originate from the interplay of ions and hydration water, leading to a general picture of protein-ion-water interactions."
         }
       ]
     },
@@ -277,6 +277,46 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "Institutional demand to drive bitcoin market cap to $16 trillion by 2030: Ark Invest",
+          "url": "https://www.coindesk.com/markets/2026/05/01/institutional-demand-to-drive-bitcoin-market-cap-to-usd16-trillion-by-2030-ark-invest",
+          "domain": "coindesk.com",
+          "date": "2026-05-01T13:31:53.000Z",
+          "source": "CoinDesk",
+          "summary": "The figure implies a sharp increase in the bitcoin price."
+        },
+        {
+          "title": "CoinDesk 20 performance update: Bittensor (TAO) gains 5.5%, leading index higher",
+          "url": "https://www.coindesk.com/coindesk-indices/2026/05/01/coindesk-20-performance-update-bittensor-tao-gains-5-5-leading-index-higher",
+          "domain": "coindesk.com",
+          "date": "2026-05-01T13:21:26.000Z",
+          "source": "CoinDesk",
+          "summary": "Bitcoin (BTC), up 1.9% from Thursday, was also a top performer."
+        },
+        {
+          "title": "Tether posts over $1 billion Q1 profit as reserve buffer reaches record $8.2 billion",
+          "url": "https://www.theblock.co/post/399722/tether-posts-over-1-billion-q1-profit-as-reserve-buffer-reaches-record-8-2-billion?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-01T12:59:47.000Z",
+          "source": "The Block",
+          "summary": "Tether's approximate $141 billion exposure to U.S. Treasurys positions it as one of the largest holders globally."
+        },
+        {
+          "title": "Did Dogecoin bottom first? DOGE price poised for 20% gains as whales return",
+          "url": "https://cointelegraph.com/markets/dogecoin-targets-20-gains-as-doge-whale-holdings-reach-new-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-01T12:42:40.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Dogecoin whale wallets hit record DOGE holdings as the price rallies 23.5%, strengthening the memecoin’s rally chances in May."
+        },
+        {
+          "title": "MoonPay launches stablecoin debit card for AI agents on Mastercard network",
+          "url": "https://www.theblock.co/post/399716/moonpay-stablecoin-debit-card-ai-agents-mastercard?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-01T12:11:38.000Z",
+          "source": "The Block",
+          "summary": "MoonPay has launched \"MoonAgents Card,\" a stablecoin debit card for AI agents and users to spend directly from onchain wallets."
+        },
         {
           "title": "Brazil central bank prohibits crypto use in regulated cross-border payments under new FX rules",
           "url": "https://www.theblock.co/post/399713/brazil-central-bank-prohibits-crypto-use-in-regulated-cross-border-payments-under-new-fx-rules?utm_source=rss&utm_medium=rss",
@@ -316,46 +356,6 @@
           "date": "2026-05-01T10:34:13.000Z",
           "source": "The Block",
           "summary": "The talks are at an early stage, pending due diligence and internal procedures, with more details on the acquisition timing to come."
-        },
-        {
-          "title": "Bitcoin ticks higher, but remains range-bound as traders keep short bias",
-          "url": "https://www.coindesk.com/markets/2026/05/01/bitcoin-ticks-higher-but-remains-range-bound-as-traders-keep-short-bias",
-          "domain": "coindesk.com",
-          "date": "2026-05-01T10:20:23.000Z",
-          "source": "CoinDesk",
-          "summary": "BTC rises to $77,000 after holding $75,000 support, but negative funding, unchanged open interest and cautious positioning signal a lack of conviction."
-        },
-        {
-          "title": "Brazil bars crypto settlement in regulated cross-border payment rails",
-          "url": "https://cointelegraph.com/news/brazil-central-bank-bars-virtual-assets-from-cross-border-payment-service-efx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-01T10:07:14.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Brazil’s central bank barred virtual assets from settlement inside regulated eFX payment rails as it tightens oversight of crypto-linked flows."
-        },
-        {
-          "title": "SBI eyes Bitbank deal as Japan’s crypto exchange market consolidates",
-          "url": "https://cointelegraph.com/news/sbi-seeks-to-make-bitbank-a-subsidiary-in-japan-crypto-consolidation-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-01T09:39:34.000Z",
-          "source": "CoinTelegraph",
-          "summary": "SBI Holdings is in discussions to make Bitbank a subsidiary, adding to its push to acquire crypto exchanges amid improving regulatory clarity in Japan."
-        },
-        {
-          "title": "South Korean court grants stay on Bithumb’s six-month suspension pending final ruling: reports",
-          "url": "https://www.theblock.co/post/399706/south-korean-court-grants-stay-on-bithumbs-six-month-suspension-pending-final-ruling-reports?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-01T09:32:59.000Z",
-          "source": "The Block",
-          "summary": "South Korea's financial watchdog issued the suspension in March, alongside a 36.8 billion won ($25 million) fine."
-        },
-        {
-          "title": "Bitcoin edges above $77,000, but institutional activity suggests downside hedging",
-          "url": "https://www.coindesk.com/markets/2026/05/01/bitcoin-edges-above-usd77-000-but-institutional-activity-suggests-downside-hedging",
-          "domain": "coindesk.com",
-          "date": "2026-05-01T09:25:49.000Z",
-          "source": "CoinDesk",
-          "summary": "BTC rises on steady volume and strong technical structure, but surging put interest and muted prediction market odds point to defensive positioning."
         }
       ]
     }
