@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-01T13:55:20.945Z",
+  "updatedAt": "2026-05-01T15:00:29.506Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -8,14 +8,6 @@
         "https://news.google.com/rss/search?q=DeSci%20OR%20%22decentralized%20science%22%20OR%20%22BIO%20Protocol%22&hl=en-US&gl=US&ceid=US:en"
       ],
       "articles": [
-        {
-          "title": "BIO (BioProtocol) fluctuates 43.7% in 24 hours: Surge in trading volume and synergy with DeSci sector drive movement - Bitget",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sTE9xaUpIaVlNaDBud3lzZnk1NUI3clBURFY5RjRDbnpiZ3E5NDhkNmIxTTk5VFFoR1k3M0RRNERBM0JwNXZoeW5mWmthTFgwdERwZHRpbzlmZTJ6bE5HM0VBY1ItRVJxZVHSAWpBVV95cUxNbExPcWlKSGlZTWgwbnd5c2Z5NTVCN3JQVERWOUY0Q256YmdxOTQ4ZDZiMU05OVRRaEdZNzNEUTREQTNCcDV2aHluZlprYUxYMHREcGR0aW85ZmUyemxORzNFQWNSLUVScWVR?oc=5",
-          "domain": "bitget.com",
-          "date": "2026-04-30T14:23:53.000Z",
-          "source": "Bitget",
-          "summary": "BIO (BioProtocol) fluctuates 43.7% in 24 hours: Surge in trading volume and synergy with DeSci sector drive movement &nbsp;&nbsp; Bitget"
-        },
         {
           "title": "Insiders Are Quietly Positioning In DeSci While The Rest Watches BTC - Yellow.com",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1uV1J3dTNLdXM3MFdQZ3hqSmp6MEpuNUN6TDNrUVk0cXFSSkZMZGpQbHpFTjJKRFRNU3V4YnBLT2hVbnpwV05FRGYyWWRka0ZxVnFXeWdJTTFxa3RsUWhkQ0RFblV5emExMkhjQjVZbVNQTFdIT2gteERmUQ?oc=5",
@@ -47,6 +39,14 @@
           "date": "2026-04-30T06:21:58.000Z",
           "source": "Yellow.com",
           "summary": "BIO Token Gains 19% As DeSci Narrative Draws Fresh Trader Interest &nbsp;&nbsp; Yellow.com"
+        },
+        {
+          "title": "BIO (BioProtocol) fluctuates 43.7% in 24 hours: Surge in trading volume and synergy with DeSci sector drive movement - Bitget",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBlQ2FBSnMyVFBFRGxwM0lMT1dZeDNaSzdFMDhVMGhNS0tIa01NZkd5MzhiUlhPWnZBeW5scUdwS3hxSzJYREJtYl9jZWg4aElZNUZXaTBLZDFDMm1makHSAWNBVV95cUxPUTNUSEJKemJPbXlZQjNwOGRBc0Ruc2RkejZEaEp1MXFZZ1RNSTZzWWpjRmZQRzN2aURyVDlKT3lQNGdlbHl4Z21ZZmFuSHY0QlU4ZzAya3FTSnh6VXJfcE5hakU?oc=5",
+          "domain": "bitget.com",
+          "date": "2026-04-29T22:47:05.000Z",
+          "source": "Bitget",
+          "summary": "BIO (BioProtocol) fluctuates 43.7% in 24 hours: Surge in trading volume and synergy with DeSci sector drive movement &nbsp;&nbsp; Bitget"
         },
         {
           "title": "Bio Protocol BioXP Upgrade: Ignition Sale Empowers USDC Holders with Priority Access - MEXC",
@@ -151,7 +151,7 @@
           "domain": "lifespan.io",
           "date": "2026-04-30T17:00:49.000Z",
           "source": "Lifespan.io",
-          "summary": "A perspective published in Aging Cell details the replacement-based approaches being investigated by several research organizations. Repair versus replacement This perspective begins by noting the inherent difficulty of rejuvenating the […]"
+          "summary": "A perspective published in Aging Cell details the replacement-based approaches being investigated by several research organizations. Repair versus replacement This perspective begins by noting the inherent difficulty of rejuvenating the human body because of the vast […]"
         },
         {
           "title": "Rafael Holdings gains exclusive MIT Alzheimer’s patent",
@@ -278,6 +278,46 @@
       ],
       "articles": [
         {
+          "title": "WisdomTree’s crypto ETPs reported net inflows of $137 million in Q1",
+          "url": "https://www.theblock.co/post/399725/wisdomtrees-crypto-etps-reported-net-inflows-of-137-million-in-q1?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-01T14:35:20.000Z",
+          "source": "The Block",
+          "summary": "Cumulatively, assets under management for the firm's crypto ETPs rose to roughly $1.8 billion during Q1 of this year."
+        },
+        {
+          "title": "Crypto onramping solution Fun raises $72 million Series A co-led by Multicoin Capital and SignalFire",
+          "url": "https://www.theblock.co/post/399726/crypto-onramping-solution-fun-raises-72-million-series-a-co-led-by-multicoin-capital-and-signalfire?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-01T14:12:45.000Z",
+          "source": "The Block",
+          "summary": "Fun powers deposits, withdrawals, and settlement flows for some of crypto’s leading apps, including Polymarket, Lighter, and Aave."
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-01T14:03:23.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
+        },
+        {
+          "title": "DeFi can freeze stolen funds, but not everyone agrees it should",
+          "url": "https://cointelegraph.com/features/defi-freeze-stolen-funds-everyone-agrees-it-should?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-01T14:00:00.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Crypto faces backlash for freezing stolen funds and for doing nothing, with expectations pulling in opposite directions."
+        },
+        {
+          "title": "Crypto VC funding plunges to $659M in April, hits near two-year low",
+          "url": "https://cointelegraph.com/news/crypto-vc-funding-plunges-to-659m-in-april-to-2024-lows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-01T13:53:26.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Crypto VC funding fell to $659 million in April, its lowest monthly total since July 2024, as dealmaking slowed across the sector."
+        },
+        {
           "title": "Institutional demand to drive bitcoin market cap to $16 trillion by 2030: Ark Invest",
           "url": "https://www.coindesk.com/markets/2026/05/01/institutional-demand-to-drive-bitcoin-market-cap-to-usd16-trillion-by-2030-ark-invest",
           "domain": "coindesk.com",
@@ -316,46 +356,6 @@
           "date": "2026-05-01T12:11:38.000Z",
           "source": "The Block",
           "summary": "MoonPay has launched \"MoonAgents Card,\" a stablecoin debit card for AI agents and users to spend directly from onchain wallets."
-        },
-        {
-          "title": "Brazil central bank prohibits crypto use in regulated cross-border payments under new FX rules",
-          "url": "https://www.theblock.co/post/399713/brazil-central-bank-prohibits-crypto-use-in-regulated-cross-border-payments-under-new-fx-rules?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-01T11:42:16.000Z",
-          "source": "The Block",
-          "summary": "The rule forms part of the central bank's broader effort to bring cross-border payments fully inside the regulated FX system."
-        },
-        {
-          "title": "Bitcoin bounces as big tech earnings fuel optimism; short-term pressures remain",
-          "url": "https://www.coindesk.com/daybook-us/2026/05/01/bitcoin-bounces-as-big-tech-earnings-fuel-optimism-short-term-pressures-remain",
-          "domain": "coindesk.com",
-          "date": "2026-05-01T11:15:02.000Z",
-          "source": "CoinDesk",
-          "summary": "Your day-ahead look for May 1, 2026"
-        },
-        {
-          "title": "SBI Holdings eyes stake in crypto exchange Bitbank to build digital asset powerhouse",
-          "url": "https://www.coindesk.com/business/2026/05/01/sbi-holdings-continues-its-crypto-expansion-with-plans-for-a-stake-in-bitbank",
-          "domain": "coindesk.com",
-          "date": "2026-05-01T11:11:32.000Z",
-          "source": "CoinDesk",
-          "summary": "The Tokyo-based broker is betting big on crypto with plans in Singapore and a Visa partnership for bank cards that allows users to accumulate digital assets."
-        },
-        {
-          "title": "Bitcoin ETFs draw $2B in April for highest monthly inflows this year",
-          "url": "https://cointelegraph.com/news/bitcoin-etf-2-billion-inflow-april-biggest-month-ytd?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-01T10:53:44.000Z",
-          "source": "CoinTelegraph",
-          "summary": "US spot Bitcoin ETFs posted strong April inflows as Bitcoin rallied, with IBIT leading gains despite late-month outflows across funds."
-        },
-        {
-          "title": "SBI Holdings in talks to acquire stake in crypto exchange Bitbank, eyes subsidiary status",
-          "url": "https://www.theblock.co/post/399709/sbi-holdings-in-talks-to-acquire-stake-in-crypto-exchange-bitbank-eyes-subsidiary-status?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-01T10:34:13.000Z",
-          "source": "The Block",
-          "summary": "The talks are at an early stage, pending due diligence and internal procedures, with more details on the acquisition timing to come."
         }
       ]
     }
