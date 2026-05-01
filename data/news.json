@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-01T15:00:29.506Z",
+  "updatedAt": "2026-05-01T16:05:05.294Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -8,6 +8,14 @@
         "https://news.google.com/rss/search?q=DeSci%20OR%20%22decentralized%20science%22%20OR%20%22BIO%20Protocol%22&hl=en-US&gl=US&ceid=US:en"
       ],
       "articles": [
+        {
+          "title": "DeSci, AI, or Meme: Where Crypto Capital Flows in Mid-2026 - KuCoin",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORWpaTU84Z3BCRUU1UTFFWWhtdnpjNFFPYVVzZWpjenRjMXhRN25QRmtJNFQ1aVlKXzB0YVNtR1pHbEdBS3E0N0JVVGdHbW43TlE4bjlkTm1aeEFxYVpZUVJuRFlPdEVwNTA4OU9Sc2FFTDJ6X1pkMUo1ai13OUdaekVPNDE0Y2tTOHYw?oc=5",
+          "domain": "kucoin.com",
+          "date": "2026-05-01T03:37:22.000Z",
+          "source": "KuCoin",
+          "summary": "DeSci, AI, or Meme: Where Crypto Capital Flows in Mid-2026 &nbsp;&nbsp; KuCoin"
+        },
         {
           "title": "Insiders Are Quietly Positioning In DeSci While The Rest Watches BTC - Yellow.com",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1uV1J3dTNLdXM3MFdQZ3hqSmp6MEpuNUN6TDNrUVk0cXFSSkZMZGpQbHpFTjJKRFRNU3V4YnBLT2hVbnpwV05FRGYyWWRka0ZxVnFXeWdJTTFxa3RsUWhkQ0RFblV5emExMkhjQjVZbVNQTFdIT2gteERmUQ?oc=5",
@@ -79,14 +87,6 @@
           "date": "2026-04-29T05:12:20.000Z",
           "source": "MEXC",
           "summary": "DeSci &nbsp;&nbsp; MEXC"
-        },
-        {
-          "title": "desci Crypto Market & Spot Trading Pairs | Prices, Charts & Liquidity - MEXC Exchange",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03UVY2NFB2SzA4dUpJUXY5Uk51aTdzVi1QR2xMUVV2bHBlZ256Ulk0SXNxTm03OGJuc0N6b29pX3ZIU0d0aTd1cGZkQ1ZIZ1d6Ym9JbTl1dkJaeVBIdk4yam5PWHdzUQ?oc=5",
-          "domain": "mexc.co",
-          "date": "2026-04-25T10:50:46.000Z",
-          "source": "MEXC Exchange",
-          "summary": "desci Crypto Market & Spot Trading Pairs | Prices, Charts & Liquidity &nbsp;&nbsp; MEXC Exchange"
         }
       ]
     },
@@ -97,6 +97,30 @@
         "https://longevity.technology/feed/"
       ],
       "articles": [
+        {
+          "title": "The implementation gap",
+          "url": "https://longevity.technology/news/the-implementation-gap/",
+          "domain": "longevity.technology",
+          "date": "2026-05-01T15:54:41.000Z",
+          "source": "Longevity.Technology",
+          "summary": "EvergoldLongevity’s Simone Rossignol explains why the longevity economy needs a ‘Medicine 3.0’ interface for the 60+ demographic. The longevity sector in 2026 is a study in paradox. On one side of the “implementation gap,” we see a golden era of bench-top science: epigenetic reprogramming, senolytic cocktails, and the decoding of the Hallmarks of Aging are […] The post The implementation gap appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "NorthStrive addresses muscle loss with EL-22 patent",
+          "url": "https://longevity.technology/news/northstrive-addresses-muscle-loss-with-el-22-patent/",
+          "domain": "longevity.technology",
+          "date": "2026-05-01T15:50:13.000Z",
+          "source": "Longevity.Technology",
+          "summary": "New filing expands NorthStrive Biosciences’ push into muscle preservation for GLP-1 users and aging populations. GLP-1 receptor agonists, now widely used for obesity and type 2 diabetes, are changing lives, helping people lose significant weight and, in many cases, regain control over their health. However, deeper into the headlines and before-and-after photos, clinicians have started […] The post NorthStrive addresses muscle loss with EL-22 patent appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "FDA’s real-time trial push could transform medicine – if they work",
+          "url": "https://longevity.technology/news/fdas-real-time-trial-push-could-transform-medicine-if-they-work/",
+          "domain": "longevity.technology",
+          "date": "2026-05-01T15:36:48.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Real-time clinical trials could accelerate drug development, but raise new questions on trust, bias and who controls the narrative. An assumption baked into modern medicine is that by the time regulators see clinical trial data, it has already been cleaned, checked and carefully arranged into a story that makes sense. The US Food and Drug […] The post FDA’s real-time trial push could transform medicine – if they work appeared first on Longevity.Technology ."
+        },
         {
           "title": "J Craig Venter, PhD: 1946 – 2026",
           "url": "https://longevity.technology/news/j-craig-venter-phd-1946-2026/",
@@ -151,31 +175,7 @@
           "domain": "lifespan.io",
           "date": "2026-04-30T17:00:49.000Z",
           "source": "Lifespan.io",
-          "summary": "A perspective published in Aging Cell details the replacement-based approaches being investigated by several research organizations. Repair versus replacement This perspective begins by noting the inherent difficulty of rejuvenating the human body because of the vast […]"
-        },
-        {
-          "title": "Rafael Holdings gains exclusive MIT Alzheimer’s patent",
-          "url": "https://longevity.technology/news/rafael-holdings-gains-exclusive-mit-alzheimers-patent/",
-          "domain": "longevity.technology",
-          "date": "2026-04-30T16:39:30.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Deal strengthens cyclodextrin IP targeting ApoE4-linked Alzheimer’s by improving brain cholesterol transport mechanisms. When biotech companies announce patent deals, it’s easy to file them under “routine corporate updates.” But every so often, a line in a press release hints at a deeper strategic shift in how we’re trying to understand and potentially intervene in diseases […] The post Rafael Holdings gains exclusive MIT Alzheimer’s patent appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Antag’s obesity drug targets fat storage, not appetite",
-          "url": "https://longevity.technology/news/antags-obesity-drug-targets-fat-storage-not-appetite/",
-          "domain": "longevity.technology",
-          "date": "2026-04-30T16:36:34.000Z",
-          "source": "Longevity.Technology",
-          "summary": "A new obesity approach targets fat storage pathways, without the usual trade-offs, hinting at longer and healthier lives. Obesity drugs have worked like volume controls on appetite, where you turn it down and hope the body follows. What if the real issue isn’t how much we eat, but how efficiently our bodies hold on to […] The post Antag’s obesity drug targets fat storage, not appetite appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "A one-shot cure for diabetes? Sana Biotechnology makes its move",
-          "url": "https://longevity.technology/news/a-one-shot-cure-for-diabetes-sana-biotechnology-makes-its-move/",
-          "domain": "longevity.technology",
-          "date": "2026-04-30T16:34:51.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Sana and Mayo Clinic partner to advance a potential one-time cell therapy that could replace insulin for people with Type 1 diabetes. Millions of people living with Type 1 diabetes have their lives built around maintenance – checking blood sugar, calculating meals, injecting insulin and constantly adjusting. It’s a routine that never really lets up. […] The post A one-shot cure for diabetes? Sana Biotechnology makes its move appeared first on Longevity.Technology ."
+          "summary": "A perspective published in Aging Cell details the replacement-based approaches being investigated by several research organizations. Repair versus replacement This perspective begins by noting the inherent difficulty of rejuvenating the human body because of the […]"
         }
       ]
     },
@@ -278,6 +278,22 @@
       ],
       "articles": [
         {
+          "title": "AI agent forms its own company, gets ready to trade crypto",
+          "url": "https://www.coindesk.com/tech/2026/05/01/ai-agent-forms-its-own-company-gets-ready-to-trade-crypto",
+          "domain": "coindesk.com",
+          "date": "2026-05-01T15:37:15.000Z",
+          "source": "CoinDesk",
+          "summary": "Although Manfred will not start trading crypto until the end of May, it already has a crypto wallet and credentials to hire staff, make payments and do business."
+        },
+        {
+          "title": "Bitcoin takes another aim at $80,000 as stocks rise, oil drops on Iran optimism",
+          "url": "https://www.coindesk.com/markets/2026/05/01/bitcoin-takes-another-aim-at-usd80-000-as-stocks-rise-oil-drops-on-iran-optimism",
+          "domain": "coindesk.com",
+          "date": "2026-05-01T15:01:41.000Z",
+          "source": "CoinDesk",
+          "summary": "The crypto asset rose nearly 3% over the past 24 hours."
+        },
+        {
           "title": "WisdomTree’s crypto ETPs reported net inflows of $137 million in Q1",
           "url": "https://www.theblock.co/post/399725/wisdomtrees-crypto-etps-reported-net-inflows-of-137-million-in-q1?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
@@ -340,22 +356,6 @@
           "date": "2026-05-01T12:59:47.000Z",
           "source": "The Block",
           "summary": "Tether's approximate $141 billion exposure to U.S. Treasurys positions it as one of the largest holders globally."
-        },
-        {
-          "title": "Did Dogecoin bottom first? DOGE price poised for 20% gains as whales return",
-          "url": "https://cointelegraph.com/markets/dogecoin-targets-20-gains-as-doge-whale-holdings-reach-new-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-01T12:42:40.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Dogecoin whale wallets hit record DOGE holdings as the price rallies 23.5%, strengthening the memecoin’s rally chances in May."
-        },
-        {
-          "title": "MoonPay launches stablecoin debit card for AI agents on Mastercard network",
-          "url": "https://www.theblock.co/post/399716/moonpay-stablecoin-debit-card-ai-agents-mastercard?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-01T12:11:38.000Z",
-          "source": "The Block",
-          "summary": "MoonPay has launched \"MoonAgents Card,\" a stablecoin debit card for AI agents and users to spend directly from onchain wallets."
         }
       ]
     }
