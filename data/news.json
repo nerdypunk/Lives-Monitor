@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-02T22:57:02.638Z",
+  "updatedAt": "2026-05-02T23:55:11.202Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -103,7 +103,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-01T20:54:29.000Z",
           "source": "Lifespan.io",
-          "summary": "The Longevity Investor Network (LIN) was created to help bridge the gap between promising longevity startups and the investors capable of helping them scale. Through curated monthly pitch sessions, educational seminars, […]"
+          "summary": "The Longevity Investor Network (LIN) was created to help bridge the gap between promising longevity startups and the investors capable of helping […]"
         },
         {
           "title": "Rejuvenation Roundup April 2026",
@@ -111,7 +111,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-01T16:05:37.000Z",
           "source": "Lifespan.io",
-          "summary": "Aging is a multifaceted topic, and it’s becoming more and more clear that the only way to deal with it […]"
+          "summary": "Aging is a multifaceted topic, and it’s becoming more and more clear that the only way to deal with it is piece by piece. Here’s what pieces our industry has put together […]"
         },
         {
           "title": "Some Researchers Choose Replacement Over Repair in Aging",
@@ -119,7 +119,7 @@
           "domain": "lifespan.io",
           "date": "2026-04-30T17:00:49.000Z",
           "source": "Lifespan.io",
-          "summary": "A perspective published in Aging Cell details the replacement-based approaches being investigated by several research organizations. Repair versus replacement This perspective begins by noting the inherent difficulty of rejuvenating the human […]"
+          "summary": "A perspective published in Aging Cell details the replacement-based approaches being investigated by several research organizations. Repair versus replacement This perspective begins by noting […]"
         },
         {
           "title": "Daytime Napping and Mortality Association in Older Adults",
@@ -127,7 +127,7 @@
           "domain": "lifespan.io",
           "date": "2026-04-29T16:12:07.000Z",
           "source": "Lifespan.io",
-          "summary": "A recent study found an association between longer and more frequent daytime napping and higher mortality risk. The authors suggest using napping frequency and duration as […]"
+          "summary": "A recent study found an association between longer and more frequent daytime napping and higher mortality risk. The authors suggest using napping […]"
         },
         {
           "title": "A Popular Senolytic Treatment Causes Brain Damage in Mice",
@@ -135,7 +135,7 @@
           "domain": "lifespan.io",
           "date": "2026-04-28T19:52:24.000Z",
           "source": "Lifespan.io",
-          "summary": "A new study calls for caution in using the well-known senolytic treatment of dasatinib and quercetin (D+Q), showing that it causes damage in certain regions […]"
+          "summary": "A new study calls for caution in using the well-known senolytic treatment of dasatinib and quercetin (D+Q), showing that it causes damage in certain regions of the brain, similar to what is observed in multiple sclerosis [1]. Stem cell […]"
         },
         {
           "title": "Obesity’s Effects on the Immune System May Linger for Years",
@@ -143,7 +143,7 @@
           "domain": "lifespan.io",
           "date": "2026-04-28T16:02:44.000Z",
           "source": "Lifespan.io",
-          "summary": "A new study has suggested that T cells might retain a pro-inflammatory phenotype long after normal weight is regained following a period of […]"
+          "summary": "A new study has suggested that T cells might retain a pro-inflammatory phenotype long after normal weight is regained following a period of obesity. In mice, the effect lasts for weeks, while its existence […]"
         },
         {
           "title": "A Robust Senescence Response Helps Wounds Heal",
@@ -151,7 +151,7 @@
           "domain": "lifespan.io",
           "date": "2026-04-27T16:20:15.000Z",
           "source": "Lifespan.io",
-          "summary": "A team of scientists has examined how younger and older mice heal from wounds and found that more robust senescent cell activation in younger animals helps them heal faster. A double-edged sword Multiple experiments […]"
+          "summary": "A team of scientists has examined how younger and older mice heal from wounds and found that more robust senescent cell activation in younger animals helps them […]"
         },
         {
           "title": "Reprogrammed Cardiomyocytes Soften the Blow in Heart Attack",
@@ -159,7 +159,7 @@
           "domain": "lifespan.io",
           "date": "2026-04-24T16:03:15.000Z",
           "source": "Lifespan.io",
-          "summary": "A new study has found that partial reprogramming mitigates the damage of myocardial infarction in mice by helping heart muscle cells […]"
+          "summary": "A new study has found that partial reprogramming mitigates the damage of myocardial infarction in mice by helping heart muscle cells to complete […]"
         },
         {
           "title": "It’s Springtime and the Rejuvenation Field Is Flourishing",
@@ -167,7 +167,7 @@
           "domain": "lifespan.io",
           "date": "2026-04-23T16:15:58.000Z",
           "source": "Lifespan.io",
-          "summary": "For those of us in the Northern Hemisphere, spring is here. This is a time of renewal and hope for better times ahead, echoing what our […]"
+          "summary": "For those of us in the Northern Hemisphere, spring is here. This is a time of renewal and hope for […]"
         },
         {
           "title": "Longevity Day at NFC Summit Lisbon Announces Speaker Lineup",
@@ -175,7 +175,7 @@
           "domain": "lifespan.io",
           "date": "2026-04-23T15:20:19.000Z",
           "source": "Lifespan.io",
-          "summary": "Longevity Day at NFC Summit Lisbon has announced its confirmed speaker lineup ahead of its debut on 4 June 2026 at the Unicorn Factory in Lisbon. The event will bring […]"
+          "summary": "Longevity Day at NFC Summit Lisbon has announced its confirmed speaker lineup ahead of its debut on 4 June 2026 at the Unicorn Factory in Lisbon. The event will bring together […]"
         }
       ]
     },
@@ -278,6 +278,14 @@
       ],
       "articles": [
         {
+          "title": "US CISA adds ‘insane’ Linux Copy Fail flaw to watch list",
+          "url": "https://cointelegraph.com/news/linux-copy-fail-a-trivially-exploitable-bug?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-02T23:07:05.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Malicious actors with code execution capability may gain root access on Linux systems using as few as 10 lines of Python, according to a researcher."
+        },
+        {
           "title": "BlackRock urges OCC to drop tokenized reserve cap idea, expand eligible assets in GENIUS Act comment letter",
           "url": "https://www.theblock.co/post/399812/blackrock-urges-occ-to-drop-tokenized-reserve-cap-idea-expand-eligible-assets-in-genius-act-comment-letter?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
@@ -348,14 +356,6 @@
           "date": "2026-05-02T13:51:00.000Z",
           "source": "CoinTelegraph",
           "summary": "Venture capital firm a16z argues that state crackdowns on platforms like Kalshi and Polymarket conflict with federal law and hurt market access for ordinary users."
-        },
-        {
-          "title": "The $292M crypto hack exposed DeFi's weak spots. Here’s what must change, insiders say",
-          "url": "https://www.coindesk.com/business/2026/05/02/the-usd292m-crypto-hack-exposed-defi-s-weak-spots-here-s-what-must-change-insiders-say",
-          "domain": "coindesk.com",
-          "date": "2026-05-02T13:00:00.000Z",
-          "source": "CoinDesk",
-          "summary": "As Wall Street moves onchain, the year's biggest crypto hack and DeFi crisis is forcing a rethink of risk, security and market structure, industry insiders told CoinDesk."
         }
       ]
     }
