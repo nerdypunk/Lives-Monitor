@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-02T12:36:44.598Z",
+  "updatedAt": "2026-05-02T14:00:05.865Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -103,7 +103,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-01T20:54:29.000Z",
           "source": "Lifespan.io",
-          "summary": "The Longevity Investor Network (LIN) was created to help bridge the gap between promising longevity startups and the investors capable of helping them […]"
+          "summary": "The Longevity Investor Network (LIN) was created to help bridge the gap between promising longevity startups and the investors capable of helping them scale. Through curated monthly pitch […]"
         },
         {
           "title": "Deal between Chrysea, nuBioAge brings spermidine to clinics",
@@ -119,7 +119,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-01T16:05:37.000Z",
           "source": "Lifespan.io",
-          "summary": "Aging is a multifaceted topic, and it’s becoming more and more clear that the only way to deal with it is piece by piece. Here’s what pieces our industry has put together in April. Advocacy and Analysis It’s […]"
+          "summary": "Aging is a multifaceted topic, and it’s becoming more and more clear that the only way to deal with it is piece by piece. Here’s what pieces our industry has put together in April. […]"
         },
         {
           "title": "The implementation gap",
@@ -278,6 +278,22 @@
       ],
       "articles": [
         {
+          "title": "The $292M crypto hack exposed DeFi's weak spots. Here’s what must change, insiders say",
+          "url": "https://www.coindesk.com/business/2026/05/02/the-usd292m-crypto-hack-exposed-defi-s-weak-spots-here-s-what-must-change-insiders-say",
+          "domain": "coindesk.com",
+          "date": "2026-05-02T13:00:00.000Z",
+          "source": "CoinDesk",
+          "summary": "As Wall Street moves onchain, the year's biggest crypto hack and DeFi crisis is forcing a rethink of risk, security and market structure, industry insiders told CoinDesk."
+        },
+        {
+          "title": "Prediction markets are ditching the 'casino' label to become a regular part of how people track the news",
+          "url": "https://www.coindesk.com/markets/2026/05/02/prediction-markets-are-ditching-the-casino-label-to-become-a-regular-part-of-how-people-track-the-news",
+          "domain": "coindesk.com",
+          "date": "2026-05-02T13:00:00.000Z",
+          "source": "CoinDesk",
+          "summary": "A new report from Bitget and Polymarket reveals that prediction markets are evolving into a $240 billion industry driven by retail users who are trading more frequently on everything from crypto to politics."
+        },
+        {
           "title": "Riot posts $167M in Q1 revenue as data center arm pulls in $33M in first quarter",
           "url": "https://cointelegraph.com/news/riot-posts-167m-in-q1-revenue-as-data-center-arm-pulls-in-33m-in-first-quarter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
@@ -340,22 +356,6 @@
           "date": "2026-05-01T21:33:27.000Z",
           "source": "CoinDesk",
           "summary": "The text released Friday blocks crypto firms from offering stablecoin yield offerings that look like bank deposits, but \"bona fide\" transactions are allowed."
-        },
-        {
-          "title": "Three Bitcoin data points suggest a rally to $80K is imminent",
-          "url": "https://cointelegraph.com/markets/3-bitcoin-data-points-suggest-rally-to-80k-is-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-01T21:14:23.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Bitcoin chases $80,000 as rising spot volumes and futures open interest suggest the market has shifted back in the bulls’ favor."
-        },
-        {
-          "title": "Bitcoin miner Riot's shares jump 8% after expanding AMD data center deal, signaling AI pivot",
-          "url": "https://www.coindesk.com/markets/2026/05/01/bitcoin-miner-riot-s-shares-jump-8-after-expanding-amd-data-center-deal-signaling-ai-pivot",
-          "domain": "coindesk.com",
-          "date": "2026-05-01T20:59:09.000Z",
-          "source": "CoinDesk",
-          "summary": "AMD’s expansion and improved financing terms highlight Riot’s shift beyond bitcoin mining and strengthen confidence in its growing data center business."
         }
       ]
     }
