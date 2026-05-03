@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-03T16:10:56.846Z",
+  "updatedAt": "2026-05-03T17:09:49.981Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -103,7 +103,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-01T20:54:29.000Z",
           "source": "Lifespan.io",
-          "summary": "The Longevity Investor Network (LIN) was created to help bridge the gap between promising longevity startups and the investors capable of helping them scale. Through curated monthly pitch sessions, educational […]"
+          "summary": "The Longevity Investor Network (LIN) was created to help bridge the gap between promising longevity startups and the investors capable of helping them scale. Through curated monthly pitch sessions, educational seminars, collaborative diligence, and ecosystem-building events, LIN provides a structured […]"
         },
         {
           "title": "Deal between Chrysea, nuBioAge brings spermidine to clinics",
@@ -119,7 +119,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-01T16:05:37.000Z",
           "source": "Lifespan.io",
-          "summary": "Aging is a multifaceted topic, and it’s becoming more and more clear that the only way to deal with it is piece by piece. Here’s what pieces […]"
+          "summary": "Aging is a multifaceted topic, and it’s becoming more and more clear that the only way to deal with it is piece by piece. Here’s what pieces our industry has put together in […]"
         },
         {
           "title": "The implementation gap",
@@ -187,6 +187,14 @@
         "https://phys.org/rss-feed/biology-news/biotechnology/"
       ],
       "articles": [
+        {
+          "title": "Synthetic biology promised to rewrite life—with the death of its pioneer, J. Craig Venter, how close are scientists?",
+          "url": "https://phys.org/news/2026-05-synthetic-biology-rewrite-life-death.html",
+          "domain": "phys.org",
+          "date": "2026-05-03T17:00:01.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "When scientist J. Craig Venter and his team announced in 2010 that they had created the first cell controlled by a fully synthetic genome, it marked a turning point in how scientists think about life."
+        },
         {
           "title": "How a newly discovered organelle could help reduce cow methane emissions",
           "url": "https://phys.org/news/2026-05-newly-organelle-cow-methane-emissions.html",
@@ -258,14 +266,6 @@
           "date": "2026-04-30T15:00:14.000Z",
           "source": "Phys.org Biotechnology",
           "summary": "Researchers have uncovered a previously hidden layer of complexity in how genes are activated, showing that water molecules play a direct and essential role in one of the most fundamental processes in biology: DNA transcription."
-        },
-        {
-          "title": "A silent robot shadows sperm whales by listening to their clicks",
-          "url": "https://phys.org/news/2026-04-silent-robot-shadows-sperm-whales.html",
-          "domain": "phys.org",
-          "date": "2026-04-30T14:40:01.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "An autonomous underwater glider is giving us a new and effective way to track sperm whales by tuning into their clicks and silently following them. To study these large oceanic predators, researchers need to monitor their movements and social interactions for months at a time. But that's not easy, because they swim deep and stay underwater for long periods, making them hard to reach."
         }
       ]
     },
@@ -277,6 +277,14 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "Bitcoin preps highest weekly close since January as BTC price nears $79K",
+          "url": "https://cointelegraph.com/markets/bitcoin-preps-highest-weekly-close-since-january-as-btc-price-nears-79k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-03T16:26:22.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bitcoin canceled out the week's earlier losses to tease the highest BTC price weekly candle close since the end of January near $79,000."
+        },
         {
           "title": "Crypto is at bottom of U.S. voters' priorities heading into elections, CoinDesk survey shows",
           "url": "https://www.coindesk.com/policy/2026/05/03/crypto-is-at-the-bottom-of-u-s-voters-priorities-heading-into-the-midterm-coindesk-survey-shows",
@@ -348,14 +356,6 @@
           "date": "2026-05-03T05:51:03.000Z",
           "source": "CoinTelegraph",
           "summary": "The efforts of the SEC and CFTC chairmen indicate that the crypto industry will not suffer without the CLARITY Act, according to crypto executive Chris Perkins."
-        },
-        {
-          "title": "Bitcoin logs best monthly performance in 12 months during April",
-          "url": "https://cointelegraph.com/news/bitcoin-posts-its-strongest-monthly-gain-in-12-months-in-april?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-03T03:29:34.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Despite being the best-performing month in the past 12 months, it still came in slightly below its historical average, according to CoinGlass data."
         }
       ]
     }
