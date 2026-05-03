@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-03T10:57:44.871Z",
+  "updatedAt": "2026-05-03T11:53:04.794Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -103,7 +103,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-01T20:54:29.000Z",
           "source": "Lifespan.io",
-          "summary": "The Longevity Investor Network (LIN) was created to help bridge the gap between promising longevity startups and the investors capable of helping them scale. […]"
+          "summary": "The Longevity Investor Network (LIN) was created to help bridge the gap between promising longevity startups and the investors capable of helping them scale. Through curated monthly pitch sessions, educational seminars, collaborative diligence, and […]"
         },
         {
           "title": "Deal between Chrysea, nuBioAge brings spermidine to clinics",
@@ -119,7 +119,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-01T16:05:37.000Z",
           "source": "Lifespan.io",
-          "summary": "Aging is a multifaceted topic, and it’s becoming more and more clear that the only way to deal with it is piece by piece. Here’s what pieces our industry has put together in April. Advocacy and Analysis It’s […]"
+          "summary": "Aging is a multifaceted topic, and it’s becoming more and more clear that the only way to deal with it is piece by piece. Here’s what […]"
         },
         {
           "title": "The implementation gap",
@@ -278,6 +278,14 @@
       ],
       "articles": [
         {
+          "title": "Iran’s largest crypto exchange founded by sons of family tied to supreme leaders: Reuters",
+          "url": "https://cointelegraph.com/news/irans-largest-crypto-exchange-founded-by-sons-of-family-tied-to-supreme-leaders-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-03T11:12:56.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Nobitex, Iran’s largest crypto exchange, was founded by brothers linked to the powerful Kharrazi family, which has ties to the country’s supreme leaders."
+        },
+        {
           "title": "New York forces Uphold to pay $5M over fraudulent crypto investment scheme",
           "url": "https://cointelegraph.com/news/new-york-forces-uphold-to-pay-5m-over-fraudulent-crypto-investment-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
@@ -348,14 +356,6 @@
           "date": "2026-05-02T16:01:01.000Z",
           "source": "CoinDesk",
           "summary": "The agreement necessitates firms restructure reward programs from a \"buy and hold\" to a \"buy and use\" model; however, CCI raised concerns over its broad prohibition."
-        },
-        {
-          "title": "Bitcoin's 'hazardous' airdrop: Why developers are warning against Paul Sztorc’s eCash fork",
-          "url": "https://www.coindesk.com/tech/2026/05/02/bitcoin-s-hazardous-airdrop-why-developers-are-warning-against-paul-sztorc-s-ecash-fork",
-          "domain": "coindesk.com",
-          "date": "2026-05-02T16:00:00.000Z",
-          "source": "CoinDesk",
-          "summary": "Developers and industry figures say the eCash proposal introduces user risk, uneven distribution and philosophical tension."
         }
       ]
     }
