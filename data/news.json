@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-03T21:04:18.072Z",
+  "updatedAt": "2026-05-03T22:02:25.231Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -103,7 +103,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-01T20:54:29.000Z",
           "source": "Lifespan.io",
-          "summary": "The Longevity Investor Network (LIN) was created to help bridge the gap between promising longevity startups and the investors capable of helping them […]"
+          "summary": "The Longevity Investor Network (LIN) was created to help bridge the gap between promising longevity startups and the investors capable of helping them scale. Through curated monthly pitch sessions, educational seminars, collaborative diligence, and ecosystem-building events, LIN provides a […]"
         },
         {
           "title": "Deal between Chrysea, nuBioAge brings spermidine to clinics",
@@ -119,7 +119,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-01T16:05:37.000Z",
           "source": "Lifespan.io",
-          "summary": "Aging is a multifaceted topic, and it’s becoming more and more clear that the only way to deal with it is […]"
+          "summary": "Aging is a multifaceted topic, and it’s becoming more and more clear that the only way to deal with it is piece by piece. Here’s what pieces our industry has put together in April. Advocacy and […]"
         },
         {
           "title": "The implementation gap",
@@ -278,6 +278,14 @@
       ],
       "articles": [
         {
+          "title": "New York AG settles for $5 million with Uphold in first enforcement action against a crypto yield product promoter",
+          "url": "https://www.theblock.co/post/399825/new-york-ag-settles-for-5-million-with-uphold-in-first-enforcement-action-against-a-crypto-yield-product-promoter?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-03T21:26:02.000Z",
+          "source": "The Block",
+          "summary": "The settlement is the first New York enforcement action to target a platform that promoted someone else's crypto yield product rather than its own issuer."
+        },
+        {
           "title": "North Korea terrorism creditors move to seize Arbitrum-frozen Kelp DAO ETH ahead of DeFi United vote",
           "url": "https://www.theblock.co/post/399819/north-korea-terrorism-creditors-move-to-seize-arbitrum-frozen-kelp-dao-eth-ahead-of-defi-united-vote?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
@@ -326,6 +334,14 @@
           "summary": "The new poll suggests the vast majority of people think that government officials should keep their own financial interests separate from the industry."
         },
         {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-03T14:00:00.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
+        },
+        {
           "title": "Mike Cagney’s second act: Turning blockchain into Wall Street’s new plumbing",
           "url": "https://www.coindesk.com/business/2026/05/03/mike-cagney-s-second-act-turning-blockchain-into-wall-street-s-new-plumbing",
           "domain": "coindesk.com",
@@ -340,22 +356,6 @@
           "date": "2026-05-03T13:00:00.000Z",
           "source": "CoinTelegraph",
           "summary": "A new Politico poll finds most Americans distrust crypto and AI, raising questions about whether candidates backed by industry super PACs could face voter backlash."
-        },
-        {
-          "title": "Here’s what happened in crypto today",
-          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-03T13:00:00.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
-        },
-        {
-          "title": "Iran’s largest crypto exchange founded by sons of family tied to supreme leaders: Reuters",
-          "url": "https://cointelegraph.com/news/irans-largest-crypto-exchange-founded-by-sons-of-family-tied-to-supreme-leaders-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-03T11:12:56.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Nobitex, Iran’s largest crypto exchange, was founded by brothers linked to the powerful Kharrazi family, which has ties to the country’s supreme leaders."
         }
       ]
     }
