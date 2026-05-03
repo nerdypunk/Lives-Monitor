@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-03T15:25:36.094Z",
+  "updatedAt": "2026-05-03T16:10:56.846Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -17,20 +17,20 @@
           "summary": "AI Token SkyAI And DeSci Protocol BIO Each Climb 42% In Parallel Rally &nbsp;&nbsp; Yellow.com"
         },
         {
-          "title": "Bio Protocol Multisig Wallet Transfers 80M BIO to CEX Worth $5.15M - Bitget",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvWExuOHNRaVc2aTJvNmRpeEMyUldvZXNXbU9XME8xX0dvc3I5cmRuNWo2NTJ1VjdPQmdXbVlWNHU3T0JPc0QzQk1VUkFMVzdFOWE2UjdQUEMwUnZTUFAyNlpDbkc0bTh3M2fSAWpBVV95cUxQb1hMbjhzUWlXNmkybzZkaXhDMlJXb2VzV21PVzBPMV9Hb3NyOXJkbjVqNjUydVY3T0JnV21ZVjR1N09CT3NEM0JNVVJBTFc3RTlhNlI3UFBDMFJ2U1BQMjZaQ25HNG04dzNn?oc=5",
-          "domain": "bitget.com",
-          "date": "2026-05-03T01:49:12.000Z",
-          "source": "Bitget",
-          "summary": "Bio Protocol Multisig Wallet Transfers 80M BIO to CEX Worth $5.15M &nbsp;&nbsp; Bitget"
-        },
-        {
           "title": "Bio Protocol Jumps 53.85% in Intraday Trading - bloomingbit",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TN0RaS1ExWkVmU1FzMXlsRUJQVmZhQ2lnNEdfcFVVMEloWHFuS3VDdnd5SlpLakNvNzIxdld1LTY5VWlVX2c4U2pZaUlTaHZybXUwag?oc=5",
           "domain": "en.bloomingbit.io",
           "date": "2026-05-02T14:25:15.000Z",
           "source": "bloomingbit",
           "summary": "Bio Protocol Jumps 53.85% in Intraday Trading &nbsp;&nbsp; bloomingbit"
+        },
+        {
+          "title": "Bio Protocol Multisig Wallet Transfers 80M BIO to CEX Worth $5.15M - Bitget",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50N21PS05qNUM3TGtjd1R4eUlfdkp2WW1WVzEwSXNyNzhyWFVJRkMzaF9Mb1N3a3ZvM2RUV0RSd0R3RGR6ZWYwTXI3cEg1YTZJWGxFN1FYTnRDY3Q1eWfSAWNBVV95cUxPcjVSNTNrYko4cVRxY2RMS0dpb0c2dHdKWmQ3SGo2aTdndUlfWmZrMjlnckwxbmVna1B2MnZ0azBoVWIyaDJFRUVGRm1Zcm5ZR0wxc19XcDIycTE3d1VtSGV0bm8?oc=5",
+          "domain": "bitget.com",
+          "date": "2026-05-02T10:36:40.000Z",
+          "source": "Bitget",
+          "summary": "Bio Protocol Multisig Wallet Transfers 80M BIO to CEX Worth $5.15M &nbsp;&nbsp; Bitget"
         },
         {
           "title": "Crypto News Today: Bio Protocol (BIO) Rallies on Upbit Listing Buzz as AlphaPepe Adds 100 Holders Daily Before Listing - StreetInsider",
@@ -103,7 +103,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-01T20:54:29.000Z",
           "source": "Lifespan.io",
-          "summary": "The Longevity Investor Network (LIN) was created to help bridge the gap between promising longevity startups and the investors capable of helping them scale. Through curated monthly pitch sessions, educational seminars, collaborative diligence, […]"
+          "summary": "The Longevity Investor Network (LIN) was created to help bridge the gap between promising longevity startups and the investors capable of helping them scale. Through curated monthly pitch sessions, educational […]"
         },
         {
           "title": "Deal between Chrysea, nuBioAge brings spermidine to clinics",
@@ -119,7 +119,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-01T16:05:37.000Z",
           "source": "Lifespan.io",
-          "summary": "Aging is a multifaceted topic, and it’s becoming more and more clear that the only way to deal with it is piece by piece. Here’s what pieces our industry has […]"
+          "summary": "Aging is a multifaceted topic, and it’s becoming more and more clear that the only way to deal with it is piece by piece. Here’s what pieces […]"
         },
         {
           "title": "The implementation gap",
@@ -187,6 +187,14 @@
         "https://phys.org/rss-feed/biology-news/biotechnology/"
       ],
       "articles": [
+        {
+          "title": "How a newly discovered organelle could help reduce cow methane emissions",
+          "url": "https://phys.org/news/2026-05-newly-organelle-cow-methane-emissions.html",
+          "domain": "phys.org",
+          "date": "2026-05-03T15:40:02.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "When cows burp, they send a substantial amount of methane gas into the air, which makes them a leading contributor to greenhouse gas emissions. According to research published in the journal Science, a newly discovered hydrogen-producing structure within the microbes of cow stomachs may influence how much of that gas is expelled."
+        },
         {
           "title": "AI-powered forecasts sharpen early warning for destructive crop pest",
           "url": "https://phys.org/news/2026-05-ai-powered-sharpen-early-destructive.html",
@@ -258,14 +266,6 @@
           "date": "2026-04-30T14:40:01.000Z",
           "source": "Phys.org Biotechnology",
           "summary": "An autonomous underwater glider is giving us a new and effective way to track sperm whales by tuning into their clicks and silently following them. To study these large oceanic predators, researchers need to monitor their movements and social interactions for months at a time. But that's not easy, because they swim deep and stay underwater for long periods, making them hard to reach."
-        },
-        {
-          "title": "Assessing the impact of drones on whale sharks",
-          "url": "https://phys.org/news/2026-04-impact-drones-whale-sharks.html",
-          "domain": "phys.org",
-          "date": "2026-04-30T11:40:02.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "In recent years, using drones for wildlife research has proven to be a valuable tool in collecting data for population surveys, observing behavior and measuring animals' physical dimensions. A new study led by Murdoch University has found that drones flown above the ocean are unlikely to disturb whale sharks, the world's largest fish. The findings are published in the journal Ecosphere."
         }
       ]
     },
