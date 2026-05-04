@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-04T11:28:02.849Z",
+  "updatedAt": "2026-05-04T13:11:20.806Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -12,7 +12,7 @@
           "title": "DeSci Has Raised Millions For Research No VC Would Ever Touch - Yellow.com",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQzAtQWJmSEtGX1pXdWVOR0RsRnhXWGp4S2VYUEhXREJiM1ljR01reDZfS1hwU0g3eTMzaFdOdnVJb3l2R2lNdmdCVEhuUWExYjB0VTNReUIwUlRxTjhrdmlCV1d5R3VXbGtRWFp3eGQ0VTV0SjhZdGpNOGV2dDNYcnVodm9PWWJHYlE?oc=5",
           "domain": "yellow.com",
-          "date": "2026-05-04T06:44:18.000Z",
+          "date": "2026-05-04T01:44:08.000Z",
           "source": "Yellow.com",
           "summary": "DeSci Has Raised Millions For Research No VC Would Ever Touch &nbsp;&nbsp; Yellow.com"
         },
@@ -119,7 +119,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-01T20:54:29.000Z",
           "source": "Lifespan.io",
-          "summary": "The Longevity Investor Network (LIN) was created to help bridge the gap between promising longevity startups and the investors capable of helping them scale. Through curated monthly pitch sessions, educational seminars, collaborative diligence, […]"
+          "summary": "The Longevity Investor Network (LIN) was created to help bridge the gap between promising longevity startups and the investors capable of helping […]"
         },
         {
           "title": "Deal between Chrysea, nuBioAge brings spermidine to clinics",
@@ -135,7 +135,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-01T16:05:37.000Z",
           "source": "Lifespan.io",
-          "summary": "Aging is a multifaceted topic, and it’s becoming more and more clear that the only way to deal with it is piece by piece. Here’s what pieces our industry has put […]"
+          "summary": "Aging is a multifaceted topic, and it’s becoming more and more clear that the only way to deal with it is piece by piece. Here’s what pieces our industry has put together in April. […]"
         },
         {
           "title": "The implementation gap",
@@ -187,6 +187,14 @@
         "https://phys.org/rss-feed/biology-news/biotechnology/"
       ],
       "articles": [
+        {
+          "title": "Speed 'training' prepares bacteria for complex tasks, like munching plastics",
+          "url": "https://phys.org/news/2026-05-bacteria-complex-tasks-munching-plastics.html",
+          "domain": "phys.org",
+          "date": "2026-05-04T12:20:01.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Millions of tons of plastic waste accumulate in landfills and oceans every year. One promising response is to engineer microbes to break the plastic down into useful chemical building blocks. However, teaching a bacterium to digest plastic efficiently demands fine-tuning not just one gene, but entire clusters of genes working in concert, like upgrading every machine on a factory assembly line rather than swapping out a single part."
+        },
         {
           "title": "Novel wheat hybrids increase resistance to major fungal disease by up to 70%",
           "url": "https://phys.org/news/2026-05-wheat-hybrids-resistance-major-fungal.html",
@@ -258,14 +266,6 @@
           "date": "2026-05-04T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2605.00085v1 Announce Type: new Abstract: Percolation theory from statistical physics has been applied to several aspects of tumor progression. Tumor growth on percolation clusters has been used to model spatial expansion, vascular percolation to describe nutrient supply and transport related percolation to investigate drug and gene delivery. At the molecular level, mutational percolation has been employed to account for the emergence of malignant phenotypes, while inverse percolation to represent treatment-induced structural disruption. We examined whether tumor containment can be interpreted as an anti percolation problem, in which spatial expansion depends on the formation of a connected malignant domain. We implemented a spatial simulation with biologically scaled parameters to represent tissue heterogeneity, local growth, cell movement and clearance. We measured both total malignant area and connectivity metrics, including the largest connected component and the probability of forming a spanning cluster. Our results indicate that tumor size and spatial connectivity are partially independent, with configurations of similar size showing different connectivity patterns. A transition from fragmented to connected structures emerged within a limited parameter range, consistent with a threshold like behavior. Incorporating spatial connectivity into quantitative analysis, our approach provides a complementary way to characterize tumor organization. Potential applications include integration of structural descriptors into computational models of tumor growth, design of experimental systems to probe spatial organization and interpretation of therapeutic approaches via connectivity-based metrics."
-        },
-        {
-          "title": "LNODE: latent dynamics reveal the shared spatiotemporal structure of amyloid-$\\beta$ progression",
-          "url": "https://arxiv.org/abs/2605.00272",
-          "domain": "arxiv.org",
-          "date": "2026-05-04T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2605.00272v1 Announce Type: new Abstract: We introduce LNODE, a mechanism-based phenomenological model for amyloid beta (A$\\beta$) dynamics, calibrated using positron emission tomography (PET) imaging. A$\\beta$ is a key biomarker of Alzheimer's disease. LNODE is designed to support the fusion, harmonization, quantitative analysis, and interpretation of Abeta PET scans. We evaluate LNODE on 1461 subjects in the ADNI cohort and 1070 subjects in the A4 Study, using MUSE and DKT anatomical atlases. LNODE is formulated as a regional neural ordinary differential equation (ODE) model that is jointly calibrated on all available scans within a cohort. The model captures the spatial propagation, proliferation, and clearance of A$\\beta$ and incorporates a latent-state representation that modulates A$\\beta$ dynamics. The temporal evolution of these latent states is governed by cohort-shared parameters, enabling LNODE to represent both population-level trajectories and subject-specific deviations. The proposed model demonstrates strong parameter identifiability and stability properties, supported by synthetic experiments and analytical analysis of the Hessian condition number. To mitigate overfitting and reduce spurious correlations, LNODE is intentionally underparameterized, employing approximately five to ten parameters per subject. Despite this parsimonious parameterization, LNODE achieves $R^2 > 0.99$ in both the ADNI and A4 datasets. LNODE exhibits strong predictive performance: in the A4 cohort, it accurately forecasts the A$\\beta$ PET signal in previously unseen follow-up scans, including cases with inter-scan intervals exceeding four years. Clustering in the learned latent-state space reveals distinct subgroups, consistent with the existence of different subtypes of Alzheimer's disease progression."
         }
       ]
     },
@@ -278,7 +278,71 @@
       ],
       "articles": [
         {
-          "title": "BTC price can 'easily' hit $95K: Five things to know in Bitcoin this week",
+          "title": "A beginner’s guide to stablecoins",
+          "url": "https://www.coindesk.com/learn/2026/05/04/a-beginner-s-guide-to-stablecoins",
+          "domain": "coindesk.com",
+          "date": "2026-05-04T13:05:07.000Z",
+          "source": "CoinDesk",
+          "summary": "From pegs to reserves to regulation, here's what you need to know ahead of Consensus Miami 2026."
+        },
+        {
+          "title": "Bitcoin scaling layer Citrea rolls out CTR token and dual treasury model",
+          "url": "https://www.theblock.co/post/399867/bitcoin-scaling-layer-citrea-rolls-out-ctr-token-and-dual-treasury-model?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-04T13:01:01.000Z",
+          "source": "The Block",
+          "summary": "Only xCTR used for voting will earn additional liquidity emissions, while staked CTR that is inactive will only earn unstaking penalty fees."
+        },
+        {
+          "title": "Kraken's parent company Payward alleges $25 million crypto custody fraud in lawsuit against Etana and firm's CEO",
+          "url": "https://www.coindesk.com/business/2026/05/04/kraken-s-parent-company-payward-alleges-usd25-million-crypto-custody-fraud-in-lawsuit-against-etana-and-firm-s-ceo",
+          "domain": "coindesk.com",
+          "date": "2026-05-04T13:00:00.000Z",
+          "source": "CoinDesk",
+          "summary": "The crypto exchange claims client funds were misused, commingled and concealed in a “Ponzi-like” scheme that unraveled amid a liquidity crisis."
+        },
+        {
+          "title": "SOL Strategies to acquire cross-chain swap aggregator Houdini for $18 million",
+          "url": "https://www.theblock.co/post/399844/sol-strategies-buy-houdini?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-04T12:30:00.000Z",
+          "source": "The Block",
+          "summary": "The acquisition is expected to create a new revenue stream and make SOL Strategies less reliant on market cycles."
+        },
+        {
+          "title": "Kraken parent Payward closes $550 million Bitnomial deal, securing full CFTC derivatives stack",
+          "url": "https://www.coindesk.com/business/2026/05/04/kraken-parent-payward-closes-usd550-million-bitnomial-deal-securing-full-cftc-derivatives-stack",
+          "domain": "coindesk.com",
+          "date": "2026-05-04T12:01:48.000Z",
+          "source": "CoinDesk",
+          "summary": "The deal gives Payward a full CFTC-regulated derivatives stack in the U.S."
+        },
+        {
+          "title": "Laywer pops up on Arbitrum DAO forums seeking funds for victims of decades-old North Korean terrorist acts",
+          "url": "https://www.coindesk.com/markets/2026/05/04/laywer-pops-up-on-arbitrum-dao-forums-seeking-funds-for-victims-of-decades-old-north-korean-terrorist-acts",
+          "domain": "coindesk.com",
+          "date": "2026-05-04T11:53:30.000Z",
+          "source": "CoinDesk",
+          "summary": "Families holding decades-old judgments against North Korea are trying to seize 30,765 ETH frozen after last month’s rsETH exploit, citing alleged links between the attack and DPRK-linked hacking groups such as Lazarus, and invoking a New York restraining notice that could block Arbitrum from releasing the funds."
+        },
+        {
+          "title": "Bitcoin stalls near $80,000. Stocks and ETF inflows still point to a breakout.",
+          "url": "https://www.coindesk.com/daybook-us/2026/05/04/bitcoin-stalls-near-usd80-000-stocks-and-etf-inflows-still-point-to-a-breakout",
+          "domain": "coindesk.com",
+          "date": "2026-05-04T11:33:36.000Z",
+          "source": "CoinDesk",
+          "summary": "Your day-ahead look for May 4, 2026"
+        },
+        {
+          "title": "Iran missile report sends bitcoin back to $79,000, with ETH, SOL, DOGE sharply lower",
+          "url": "https://www.coindesk.com/markets/2026/05/04/iran-missile-report-sends-bitcoin-back-to-usd79-000-with-eth-sol-doge-sharply-lower",
+          "domain": "coindesk.com",
+          "date": "2026-05-04T11:30:04.000Z",
+          "source": "CoinDesk",
+          "summary": "The largest crypto reversed sharply from a $80,594 high after Iran's Fars news agency claimed two missiles hit a U.S. warship, with oil spiking 5% before the U.S. denied the report."
+        },
+        {
+          "title": "BTC price can ‘easily’ hit $95K: Five things to know in Bitcoin this week",
           "url": "https://cointelegraph.com/markets/btc-price-can-easily-hit-95k-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
           "date": "2026-05-04T11:05:33.000Z",
@@ -286,76 +350,12 @@
           "summary": "Bitcoin gained fresh bullish BTC price targets after hitting new three-month highs above $80,000."
         },
         {
-          "title": "Coinbase boosts Solana trading with DFlow integration",
-          "url": "https://www.coindesk.com/business/2026/05/04/coinbase-boosts-solana-trading-with-dflow-integration",
-          "domain": "coindesk.com",
-          "date": "2026-05-04T10:36:12.000Z",
-          "source": "CoinDesk",
-          "summary": "Coinbase adding DFlow as its primary router will mean eight times less trade failures."
-        },
-        {
-          "title": "Crypto bears got it wrong again, losing $300 million in liquidations",
-          "url": "https://www.coindesk.com/markets/2026/05/04/crypto-bears-got-it-wrong-again-losing-usd300-million-in-liquidations",
-          "domain": "coindesk.com",
-          "date": "2026-05-04T10:30:41.000Z",
-          "source": "CoinDesk",
-          "summary": "Bitcoin's move to $80,000 caught bears on the wrong side of the market again, leading to large short liquidations."
-        },
-        {
-          "title": "Capital B raises $1.3M from Adam Back for Bitcoin strategy",
-          "url": "https://cointelegraph.com/news/capital-b-raises-12m-from-adam-back-to-fuel-bitcoin-treasury-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "GameStop makes $55.5B offer to buy eBay in surprise takeover bid",
+          "url": "https://cointelegraph.com/news/gamestop-56-billion-ebay-acquisition-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-05-04T10:05:30.000Z",
+          "date": "2026-05-04T11:00:32.000Z",
           "source": "CoinTelegraph",
-          "summary": "The Blockstream CEO subscribed to 10 million warrants as Capital B pushes ahead with its Bitcoin treasury strategy."
-        },
-        {
-          "title": "North Korea blames ‘reptile media’ over reports of crypto theft",
-          "url": "https://www.theblock.co/post/399854/north-korea-blames-crypto-theft-reports?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-04T08:40:49.000Z",
-          "source": "The Block",
-          "summary": "North Korea rejected U.S. cybercrime claims as 'absurd slander,' blaming media as crypto theft attributed to the country exceeded $6 billion."
-        },
-        {
-          "title": "US law firm attempts to block transfer of frozen ETH from Kelp exploit",
-          "url": "https://cointelegraph.com/news/law-firm-tries-to-claim-kelp-exploit-eth-because-clients-owed-by-dprk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-04T08:27:35.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Gerstein Harrow has filed similar cases in the past, arguing its clients have a claim to funds stolen by the DPRK and frozen by crypto firms."
-        },
-        {
-          "title": "Jobs data, earnings calls: Crypto Week Ahead",
-          "url": "https://www.coindesk.com/markets/2026/05/04/jobs-data-earnings-calls-crypto-week-ahead",
-          "domain": "coindesk.com",
-          "date": "2026-05-04T08:00:00.000Z",
-          "source": "CoinDesk",
-          "summary": "Your look at what's coming in the week starting May 4."
-        },
-        {
-          "title": "Recovery in bitcoin ETF inflows is real. It is just not complete yet.",
-          "url": "https://www.coindesk.com/markets/2026/05/04/the-bitcoin-etf-recovery-in-flows-is-real-it-is-just-not-complete-yet",
-          "domain": "coindesk.com",
-          "date": "2026-05-04T07:14:17.000Z",
-          "source": "CoinDesk",
-          "summary": "While ETF inflows have resumed, the recovery has yet to match last fall’s peak."
-        },
-        {
-          "title": "Kraken parent Payward completes Bitnomial acquisition, unlocking US crypto derivatives offering",
-          "url": "https://www.theblock.co/post/399851/kraken-parent-payward-completes-bitnomial-acquisition?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-04T06:59:34.000Z",
-          "source": "The Block",
-          "summary": "With the deal closed, Payward now holds a full suite of U.S. derivatives licenses issued by the Commodity Futures Trading Commission."
-        },
-        {
-          "title": "Bitcoin climbs past $80K for the first time since January",
-          "url": "https://cointelegraph.com/news/bitcoin-climbs-past-80k-for-the-first-time-since-january?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-04T06:54:18.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Bitcoin soared as the MSCI AC Asia Index rose to a new high on Monday, an early indicator that investors viewed the weekend developments in a reasonably positive light."
+          "summary": "GameStop proposes a $55.5 billion cash-and-stock takeover of eBay, disclosing a 5% stake and says CEO Ryan Cohen would lead the combined company."
         }
       ]
     }
