@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-04T18:57:52.879Z",
+  "updatedAt": "2026-05-04T20:23:49.155Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -135,7 +135,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-04T15:05:42.000Z",
           "source": "Lifespan.io",
-          "summary": "A new study has pit an advanced large language model against human physicians in tasks involving complex reasoning, treatment recommendations, and messy real-world patient records [1]. Testing a “thinking” model The dream […]"
+          "summary": "A new study has pit an advanced large language model against human physicians in tasks involving complex reasoning, treatment recommendations, and messy real-world patient records [1]. […]"
         },
         {
           "title": "Scribe highlights CRISPR advances and STX-1150 data at ASGCT, EAS",
@@ -159,7 +159,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-01T20:54:29.000Z",
           "source": "Lifespan.io",
-          "summary": "The Longevity Investor Network (LIN) was created to help bridge the gap between promising longevity startups and the investors capable of helping them scale. Through […]"
+          "summary": "The Longevity Investor Network (LIN) was created to help bridge the gap between promising longevity startups and the investors capable of helping them […]"
         },
         {
           "title": "Deal between Chrysea, nuBioAge brings spermidine to clinics",
@@ -175,7 +175,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-01T16:05:37.000Z",
           "source": "Lifespan.io",
-          "summary": "Aging is a multifaceted topic, and it’s becoming more and more clear that the only way to deal with it is piece by piece. Here’s what pieces our industry has put together in April. Advocacy and Analysis It’s Springtime and […]"
+          "summary": "Aging is a multifaceted topic, and it’s becoming more and more clear that the only way to deal with it is piece by piece. Here’s what pieces our industry has […]"
         }
       ]
     },
@@ -187,6 +187,14 @@
         "https://phys.org/rss-feed/biology-news/biotechnology/"
       ],
       "articles": [
+        {
+          "title": "DNA-reading AI reconstructs ancestry in minutes, matching top statistical methods",
+          "url": "https://phys.org/news/2026-05-dna-ai-reconstructs-ancestry-minutes.html",
+          "domain": "phys.org",
+          "date": "2026-05-04T20:20:06.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Researchers at the University of Oregon have developed an artificial intelligence tool that can read genetic code the way large language models like ChatGPT read text. Scanning the genome for biological mutation patterns, the computer model traces pairs of genes back in time to their last common ancestor."
+        },
         {
           "title": "How 'digital twins' could help predict the fate of a forest",
           "url": "https://phys.org/news/2026-05-digital-twins-fate-forest.html",
@@ -258,14 +266,6 @@
           "date": "2026-05-04T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2605.00067v1 Announce Type: new Abstract: We present EPITIME (EPidemic Integral models TIMe profile Explorer), a computational framework for the simulation of two classes of integral epidemic models: an age of infection model and an information dependent behavioural model. The framework combines structure preserving Non-Standard Finite Difference discretizations with modular implementations in MATLAB and Python, together with routines for parameter handling, input validation, performance assessment, and graphical interaction. The proposed methods preserve key qualitative properties of the continuous problems, including positivity, boundedness, invariant regions, and correct long term behaviour, independently of the time step. We outline the numerical schemes for both model classes and their main analytical properties, including first order convergence. We then describe the software architecture and illustrate its use through numerical experiments on asymptotic behaviour, inverse reconstruction of an infectivity kernel from COVID 19 incidence data, and behavioural dynamics under different memory kernels. Overall, EPITIME provides a reliable and accessible computational environment for the numerical study of renewal epidemic models."
-        },
-        {
-          "title": "CRC-Screen: Certified DNA-Synthesis Hazard Screening Under Taxonomic Shift",
-          "url": "https://arxiv.org/abs/2605.00074",
-          "domain": "arxiv.org",
-          "date": "2026-05-04T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2605.00074v1 Announce Type: new Abstract: DNA-synthesis providers screen incoming orders by searching the requested sequence against curated hazard lists. We show that this baseline collapses to a 100% false-flag rate when the hazardous sequence comes from a taxonomic family absent from the reference set: under Conformal Risk Control's certified miss-rate constraint, a low-discrimination signal forces the threshold below the entire test-benign mass. We compose three signals derived from a synthesis order's public annotation: $k$-mer Jaccard similarity to known toxins, the trimmed-mean score of a five-LLM judge panel, and cosine similarity to clustered embedding centroids. Fused under a monotone logistic aggregator and calibrated by Conformal Risk Control, the resulting screener certifies $\\mathbb{E}[\\mathrm{FNR}] \\le \\alpha$. Across ten leave-one-taxonomic-family-out folds at $\\alpha=0.05$ on UniProt KW-0800 reviewed toxins, the calibrated screener achieves 0% test miss rate on every fold and 0% test false-flag rate on nine of ten folds. The bound's finite-sample slack $1/(n_{\\mathrm{cal}}+1)$ caps the certifiable miss rate at 1.77% on our 200-hazard subsample; reaching procurement-grade $\\alpha=10^{-3}$ requires an $18\\times$ larger calibration set, which the full reviewed UniProt KW-0800 corpus is large enough to deliver. The binding constraint on certifiable DNA-synthesis screening is calibration data, not algorithms. Code: https://github.com/najmulhasan-code/crc-screen"
         }
       ]
     },
@@ -277,6 +277,30 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "GameStop's $55.5 billion eBay takeover bid puts its $368 million bitcoin stash in the crosshairs",
+          "url": "https://www.coindesk.com/business/2026/05/04/gamestop-s-usd55-5-billion-ebay-takeover-bid-puts-its-usd368-million-bitcoin-stash-in-the-crosshairs",
+          "domain": "coindesk.com",
+          "date": "2026-05-04T20:16:04.000Z",
+          "source": "CoinDesk",
+          "summary": "The video game retailer’s proposed acquisition plan revives question on whether its $368 million bitcoin stash could be sold to fund the expansion."
+        },
+        {
+          "title": "Tether Gold tops $3.3B as demand for bullion-backed tokens rises",
+          "url": "https://cointelegraph.com/news/tether-gold-tops-33b-as-demand-for-bullion-backed-tokens-rises?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-04T19:51:05.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Tether’s XAUt tops $3.3 billion as gold reserves reach 154 tons, with demand rising amid geopolitical tensions and shifting expectations for Federal Reserve policy."
+        },
+        {
+          "title": "Price predictions 5/4: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA",
+          "url": "https://cointelegraph.com/markets/price-predictions-54-spx-dxy-btc-eth-xrp-bnb-sol-doge-hype-ada?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-04T18:39:10.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bitcoin has broken above the $79,500 level, backed by solid buying by institutional investors. Will the altcoins also follow?"
+        },
         {
           "title": "Hut 8 swaps Coinbase loan for cheaper FalconX deal, slashing borrowing costs as it bets big on AI",
           "url": "https://www.coindesk.com/markets/2026/04/28/hut-8-swaps-coinbase-credit-line-for-cheaper-falconx-deal-slashing-borrowing-costs-as-it-bets-big-on-ai",
@@ -332,30 +356,6 @@
           "date": "2026-05-04T17:18:18.000Z",
           "source": "The Block",
           "summary": "Base, launched as an optimistic rollup, is hybridizing its tech stack with Succinct's SP1 zero-knowledge virtual machine."
-        },
-        {
-          "title": "Prediction markets entering institutional era after first block trade — Bernstein",
-          "url": "https://cointelegraph.com/news/bernstein-prediction-markets-institutional-block-trade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-04T16:51:14.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Institutional investors are entering prediction markets as block trades, custom contracts and US regulatory shifts reshape a sector still dominated by retail users."
-        },
-        {
-          "title": "Ethereum holders are back in profit as ETH price chart targets $3K",
-          "url": "https://cointelegraph.com/markets/ethereum-holders-back-in-profit-as-eth-price-gears-for-3k-breakout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-04T16:30:03.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Ethereum investors are no longer in the red, increasing the chances of a rally to $3,000, but resistance at $2,800 may delay recovery."
-        },
-        {
-          "title": "The government should promote innovation, not punish it",
-          "url": "https://www.coindesk.com/opinion/2026/05/04/the-government-should-promote-innovation-not-punish-it",
-          "domain": "coindesk.com",
-          "date": "2026-05-04T16:30:00.000Z",
-          "source": "CoinDesk",
-          "summary": "District Attorney of Sacramento County, Ho argues that ambiguous rules and enforcement practices, such as those for crypto, lead to confusion, rather than seeking clarity in the law to further growth."
         }
       ]
     }
