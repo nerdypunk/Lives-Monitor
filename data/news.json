@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-04T20:23:49.155Z",
+  "updatedAt": "2026-05-04T21:39:11.210Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -8,6 +8,14 @@
         "https://news.google.com/rss/search?q=DeSci%20OR%20%22decentralized%20science%22%20OR%20%22BIO%20Protocol%22&hl=en-US&gl=US&ceid=US:en"
       ],
       "articles": [
+        {
+          "title": "BIO doubled in three days, DeSci blossomed: Can AI Agents revive decentralized science? - PANews",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RQzlROGk0MGx6bDRzSUFwbnlHMTlvTk9SSGx3ek9kdUlSR0xMak00SlppRHBnZDFvVW9BNXRWN1ZTVUxoVFp2d3hJMnhIR1dVTXJRZGhNb09kS3BNTDBpVzdTekJXN082NnhLZzBqLWFISW56TmtoeHlsOU42bTg?oc=5",
+          "domain": "panewslab.com",
+          "date": "2026-05-04T09:15:00.000Z",
+          "source": "PANews",
+          "summary": "BIO doubled in three days, DeSci blossomed: Can AI Agents revive decentralized science? &nbsp;&nbsp; PANews"
+        },
         {
           "title": "DeSci Has Raised Millions For Research No VC Would Ever Touch - Yellow.com",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQzAtQWJmSEtGX1pXdWVOR0RsRnhXWGp4S2VYUEhXREJiM1ljR01reDZfS1hwU0g3eTMzaFdOdnVJb3l2R2lNdmdCVEhuUWExYjB0VTNReUIwUlRxTjhrdmlCV1d5R3VXbGtRWFp3eGQ0VTV0SjhZdGpNOGV2dDNYcnVodm9PWWJHYlE?oc=5",
@@ -79,14 +87,6 @@
           "date": "2026-04-30T12:28:59.000Z",
           "source": "Yellow.com",
           "summary": "Insiders Are Quietly Positioning In DeSci While The Rest Watches BTC &nbsp;&nbsp; Yellow.com"
-        },
-        {
-          "title": "5 Top DeSci Projects That Are Currently Running Real-World Clinical Trials - FinanceFeeds",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVmhGQkY5TGN6a2tmWG94OWFiYXR5Q0EwZHI1WWJIUUFzYTZFcmdhcFVWWVhNSlZSVGdINmhqZ3BTazdsODM0MXZZZE13QzNabHE4cXNoYkV5Wkd4Z3c3eVEzUWtJZFdmYThkY0JJR2xOZ2JxenZxS0hVNVV4aUF5a1NVMml6M2kwX29hamZzcjBqbkdVdjdaQ1VnV3EzREQ1SkE?oc=5",
-          "domain": "financefeeds.com",
-          "date": "2026-04-30T11:29:15.000Z",
-          "source": "FinanceFeeds",
-          "summary": "5 Top DeSci Projects That Are Currently Running Real-World Clinical Trials &nbsp;&nbsp; FinanceFeeds"
         }
       ]
     },
@@ -135,7 +135,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-04T15:05:42.000Z",
           "source": "Lifespan.io",
-          "summary": "A new study has pit an advanced large language model against human physicians in tasks involving complex reasoning, treatment recommendations, and messy real-world patient records [1]. […]"
+          "summary": "A new study has pit an advanced large language model against human physicians in tasks involving complex reasoning, treatment recommendations, and messy real-world patient records [1]. Testing a “thinking” model The […]"
         },
         {
           "title": "Scribe highlights CRISPR advances and STX-1150 data at ASGCT, EAS",
@@ -159,7 +159,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-01T20:54:29.000Z",
           "source": "Lifespan.io",
-          "summary": "The Longevity Investor Network (LIN) was created to help bridge the gap between promising longevity startups and the investors capable of helping them […]"
+          "summary": "The Longevity Investor Network (LIN) was created to help bridge the gap between promising longevity startups and the investors capable of helping them scale. Through curated monthly pitch sessions, educational seminars, collaborative diligence, […]"
         },
         {
           "title": "Deal between Chrysea, nuBioAge brings spermidine to clinics",
@@ -175,7 +175,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-01T16:05:37.000Z",
           "source": "Lifespan.io",
-          "summary": "Aging is a multifaceted topic, and it’s becoming more and more clear that the only way to deal with it is piece by piece. Here’s what pieces our industry has […]"
+          "summary": "Aging is a multifaceted topic, and it’s becoming more and more clear that the only way to deal with it […]"
         }
       ]
     },
@@ -278,6 +278,22 @@
       ],
       "articles": [
         {
+          "title": "Exodus payments pivot hits ‘critical threshold,’ opens new revenue streams: Benchmark",
+          "url": "https://www.theblock.co/post/399948/exodus-payments-pivot-critical-threshold-new-revenue-streams-benchmark?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-04T21:02:25.000Z",
+          "source": "The Block",
+          "summary": "Payments infrastructure from Exodus' W3C deal could see revenue move from crypto swaps into more recurring income streams."
+        },
+        {
+          "title": "Bitcoin short-term cost basis approaches profitability, but $80K must flip to support first",
+          "url": "https://cointelegraph.com/markets/bitcoin-eyes-80k-support-flip-with-key-holder-cost-basis-in-focus?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-04T20:38:43.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Crypto markets turned euphoric as BTC traded above $80,000, but a rally through short-term holders’ cost basis is needed to cement the bull trend."
+        },
+        {
           "title": "GameStop's $55.5 billion eBay takeover bid puts its $368 million bitcoin stash in the crosshairs",
           "url": "https://www.coindesk.com/business/2026/05/04/gamestop-s-usd55-5-billion-ebay-takeover-bid-puts-its-usd368-million-bitcoin-stash-in-the-crosshairs",
           "domain": "coindesk.com",
@@ -340,22 +356,6 @@
           "date": "2026-05-04T17:34:28.000Z",
           "source": "CoinDesk",
           "summary": "The market is starting to price in potential winners as stablecoin yield compromise opens path for passing key U.S. digital asset regulation, one analyst said."
-        },
-        {
-          "title": "Bitcoin bounces around $80K as Iran strike unsettles crypto, risk assets",
-          "url": "https://cointelegraph.com/markets/bitcoin-bounces-around-80k-as-iran-strike-unsettles-crypto-risk-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-04T17:21:37.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Bitcoin faced new volatility and a new struggle to reclaim $80,000 as Iran events added pressure to crypto and risk assets."
-        },
-        {
-          "title": "Coinbase-incubated Base network adopts Succinct’s zero-knowledge tech",
-          "url": "https://www.theblock.co/post/399926/coinbase-incubated-base-network-adopts-succincts-zero-knowledge-tech?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-04T17:18:18.000Z",
-          "source": "The Block",
-          "summary": "Base, launched as an optimistic rollup, is hybridizing its tech stack with Succinct's SP1 zero-knowledge virtual machine."
         }
       ]
     }
