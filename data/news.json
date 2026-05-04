@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-04T07:25:57.860Z",
+  "updatedAt": "2026-05-04T09:38:35.928Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -8,6 +8,14 @@
         "https://news.google.com/rss/search?q=DeSci%20OR%20%22decentralized%20science%22%20OR%20%22BIO%20Protocol%22&hl=en-US&gl=US&ceid=US:en"
       ],
       "articles": [
+        {
+          "title": "DeSci Has Raised Millions For Research No VC Would Ever Touch - Yellow.com",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQzAtQWJmSEtGX1pXdWVOR0RsRnhXWGp4S2VYUEhXREJiM1ljR01reDZfS1hwU0g3eTMzaFdOdnVJb3l2R2lNdmdCVEhuUWExYjB0VTNReUIwUlRxTjhrdmlCV1d5R3VXbGtRWFp3eGQ0VTV0SjhZdGpNOGV2dDNYcnVodm9PWWJHYlE?oc=5",
+          "domain": "yellow.com",
+          "date": "2026-05-04T06:44:18.000Z",
+          "source": "Yellow.com",
+          "summary": "DeSci Has Raised Millions For Research No VC Would Ever Touch &nbsp;&nbsp; Yellow.com"
+        },
         {
           "title": "AI Token SkyAI And DeSci Protocol BIO Each Climb 42% In Parallel Rally - Yellow.com",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03Y01tNmw4bFdQT2t0QU1ySXRCR2s1RG1nSW9rRHpsQm1vREV0dWMxZGFzSjRiSDJfZ2pHbEtLamtlLUwzMmpxNDB3ZldMcWNCaHZUMFRWRVZXR29LbGREaVkxQmlkSk5TYkJz?oc=5",
@@ -79,14 +87,6 @@
           "date": "2026-04-29T23:06:40.000Z",
           "source": "Cryptonews.net",
           "summary": "Bio Protocol BioXP Upgrade: Ignition Sale Empowers USDC Holders with Priority Access &nbsp;&nbsp; Cryptonews.net"
-        },
-        {
-          "title": "BIO (BioProtocol) fluctuates 43.7% in 24 hours: Surge in trading volume and synergy with DeSci sector drive movement - Bitget",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBlQ2FBSnMyVFBFRGxwM0lMT1dZeDNaSzdFMDhVMGhNS0tIa01NZkd5MzhiUlhPWnZBeW5scUdwS3hxSzJYREJtYl9jZWg4aElZNUZXaTBLZDFDMm1makHSAWNBVV95cUxPUTNUSEJKemJPbXlZQjNwOGRBc0Ruc2RkejZEaEp1MXFZZ1RNSTZzWWpjRmZQRzN2aURyVDlKT3lQNGdlbHl4Z21ZZmFuSHY0QlU4ZzAya3FTSnh6VXJfcE5hakU?oc=5",
-          "domain": "bitget.com",
-          "date": "2026-04-29T22:47:05.000Z",
-          "source": "Bitget",
-          "summary": "BIO (BioProtocol) fluctuates 43.7% in 24 hours: Surge in trading volume and synergy with DeSci sector drive movement &nbsp;&nbsp; Bitget"
         }
       ]
     },
@@ -119,7 +119,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-01T20:54:29.000Z",
           "source": "Lifespan.io",
-          "summary": "The Longevity Investor Network (LIN) was created to help bridge the gap between promising longevity startups and the investors capable of helping them scale. […]"
+          "summary": "The Longevity Investor Network (LIN) was created to help bridge the gap between promising longevity startups and the investors capable of helping them scale. Through curated monthly pitch sessions, educational seminars, collaborative diligence, and ecosystem-building events, LIN provides […]"
         },
         {
           "title": "Deal between Chrysea, nuBioAge brings spermidine to clinics",
@@ -135,7 +135,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-01T16:05:37.000Z",
           "source": "Lifespan.io",
-          "summary": "Aging is a multifaceted topic, and it’s becoming more and more clear that the only way to deal with it is piece by piece. Here’s what pieces our […]"
+          "summary": "Aging is a multifaceted topic, and it’s becoming more and more clear that the only way to deal with it is piece by piece. Here’s what pieces our industry has put together in April. Advocacy and Analysis It’s Springtime and […]"
         },
         {
           "title": "The implementation gap",
@@ -187,6 +187,14 @@
         "https://phys.org/rss-feed/biology-news/biotechnology/"
       ],
       "articles": [
+        {
+          "title": "Novel wheat hybrids increase resistance to major fungal disease by up to 70%",
+          "url": "https://phys.org/news/2026-05-wheat-hybrids-resistance-major-fungal.html",
+          "domain": "phys.org",
+          "date": "2026-05-04T08:00:01.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "A new experimental study has identified a novel genetic locus in a common agricultural weed, Elymus repens, that provides significant resistance to the destructive fungal disease Fusarium Head Blight (FHB) and has now been successfully transferred into wheat to produce FHB resistant hybrids."
+        },
         {
           "title": "Neuronal electricality founded in murburn-thermodynamic principles: 2. Comparisons, evidenced explanations, and predictions",
           "url": "https://arxiv.org/abs/2605.00014",
@@ -258,14 +266,6 @@
           "date": "2026-05-04T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2605.00272v1 Announce Type: new Abstract: We introduce LNODE, a mechanism-based phenomenological model for amyloid beta (A$\\beta$) dynamics, calibrated using positron emission tomography (PET) imaging. A$\\beta$ is a key biomarker of Alzheimer's disease. LNODE is designed to support the fusion, harmonization, quantitative analysis, and interpretation of Abeta PET scans. We evaluate LNODE on 1461 subjects in the ADNI cohort and 1070 subjects in the A4 Study, using MUSE and DKT anatomical atlases. LNODE is formulated as a regional neural ordinary differential equation (ODE) model that is jointly calibrated on all available scans within a cohort. The model captures the spatial propagation, proliferation, and clearance of A$\\beta$ and incorporates a latent-state representation that modulates A$\\beta$ dynamics. The temporal evolution of these latent states is governed by cohort-shared parameters, enabling LNODE to represent both population-level trajectories and subject-specific deviations. The proposed model demonstrates strong parameter identifiability and stability properties, supported by synthetic experiments and analytical analysis of the Hessian condition number. To mitigate overfitting and reduce spurious correlations, LNODE is intentionally underparameterized, employing approximately five to ten parameters per subject. Despite this parsimonious parameterization, LNODE achieves $R^2 > 0.99$ in both the ADNI and A4 datasets. LNODE exhibits strong predictive performance: in the A4 cohort, it accurately forecasts the A$\\beta$ PET signal in previously unseen follow-up scans, including cases with inter-scan intervals exceeding four years. Clustering in the learned latent-state space reveals distinct subgroups, consistent with the existence of different subtypes of Alzheimer's disease progression."
-        },
-        {
-          "title": "Intrinsic Brain Networks Underlying the Experience and Expression of Subclinical Anxiety",
-          "url": "https://arxiv.org/abs/2605.00465",
-          "domain": "arxiv.org",
-          "date": "2026-05-04T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2605.00465v1 Announce Type: new Abstract: Anxiety includes behavioural, physiological, and subjective components that do not always align, and it remains unclear whether these dimensions are supported by distinct intrinsic brain networks. Guided by the two-system framework, we tested whether resting-state functional connectivity (rsFC) differentiates these components in subclinical anxiety. Forty-seven young adults spanning a range of subclinical anxiety levels completed a threat anticipation task measuring behavioral responses (reaction time) and physiological arousal (skin conductance), along with the NIH Fear-Affect self-report of anxiety severity. These measures were related to rsFC using region-of-interest analyses. Higher subclinical anxiety was associated with faster responses under temporally uncertain threat, consistent with increased vigilance, while no association was found with physiological arousal. At the neural level, three connectivity patterns emerged and remained significant after sequential family-wise error correction. Behavioural responses modulated by subclinical anxiety were linked to stronger connectivity between the anterior cingulate cortex (ACC) and insula. Physiological modulation was associated with connectivity between the ACC and orbitofrontal cortex (OFC). Subjective anxiety was associated with increased connectivity between the hippocampus and insula. Additional connections were observed but did not survive stricter correction. Overall, the findings indicate that behavioural, physiological, and subjective aspects of subclinical anxiety map onto partially dissociable but overlapping intrinsic brain networks, extending prior task-based results to resting-state connectivity and informing future work on early neural markers of anxiety."
         }
       ]
     },
@@ -278,12 +278,52 @@
       ],
       "articles": [
         {
+          "title": "North Korea blames ‘reptile media’ over reports of crypto theft",
+          "url": "https://www.theblock.co/post/399854/north-korea-blames-crypto-theft-reports?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-04T08:40:49.000Z",
+          "source": "The Block",
+          "summary": "North Korea rejected U.S. cybercrime claims as 'absurd slander,' blaming media as crypto theft attributed to the country exceeded $6 billion."
+        },
+        {
+          "title": "US law firm attempts to block transfer of frozen ETH from Kelp exploit",
+          "url": "https://cointelegraph.com/news/law-firm-tries-to-claim-kelp-exploit-eth-because-clients-owed-by-dprk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-04T08:27:35.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Gerstein Harrow has filed similar cases in the past, arguing its clients have a claim to funds stolen by the DPRK and frozen by crypto firms."
+        },
+        {
+          "title": "Jobs data, earnings calls: Crypto Week Ahead",
+          "url": "https://www.coindesk.com/markets/2026/05/04/jobs-data-earnings-calls-crypto-week-ahead",
+          "domain": "coindesk.com",
+          "date": "2026-05-04T08:00:00.000Z",
+          "source": "CoinDesk",
+          "summary": "Your look at what's coming in the week starting May 4."
+        },
+        {
+          "title": "Recovery in bitcoin ETF inflows is real. It is just not complete yet.",
+          "url": "https://www.coindesk.com/markets/2026/05/04/the-bitcoin-etf-recovery-in-flows-is-real-it-is-just-not-complete-yet",
+          "domain": "coindesk.com",
+          "date": "2026-05-04T07:14:17.000Z",
+          "source": "CoinDesk",
+          "summary": "While ETF inflows have resumed, the recovery has yet to match last fall’s peak."
+        },
+        {
           "title": "Kraken parent Payward completes Bitnomial acquisition, unlocking US crypto derivatives offering",
           "url": "https://www.theblock.co/post/399851/kraken-parent-payward-completes-bitnomial-acquisition?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
           "date": "2026-05-04T06:59:34.000Z",
           "source": "The Block",
           "summary": "With the deal closed, Payward now holds a full suite of U.S. derivatives licenses issued by the Commodity Futures Trading Commission."
+        },
+        {
+          "title": "Bitcoin climbs past $80K for the first time since January",
+          "url": "https://cointelegraph.com/news/bitcoin-climbs-past-80k-for-the-first-time-since-january?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-04T06:54:18.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bitcoin soared as the MSCI AC Asia Index rose to a new high on Monday, an early indicator that investors viewed the weekend developments in a reasonably positive light."
         },
         {
           "title": "CFTC sees mixed responses to prediction market rulemaking",
@@ -310,52 +350,12 @@
           "summary": "DeFi’s latest hack wave is likely to add pressure on liquid and yield-focused crypto funds already navigating a tough market."
         },
         {
-          "title": "‘Stablecoins’ are an outdated term from crypto’s early years: a16z",
+          "title": "‘Stablecoins’ are an outdated term from crypto’s early years: A16z",
           "url": "https://cointelegraph.com/news/stablecoins-are-an-outdated-term-a16z-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
           "date": "2026-05-04T04:44:12.000Z",
           "source": "CoinTelegraph",
-          "summary": "John Palmer, a developer and brand adviser, said it \"feels like a bug\" to call them stablecoins and that they should have a self-defined and non-reactionary name."
-        },
-        {
-          "title": "Veteran trader Peter Brandt sees bitcoin hitting $250,000, but only after a bottom later this year",
-          "url": "https://www.coindesk.com/markets/2026/05/04/veteran-trader-peter-brandt-sees-bitcoin-hitting-usd250-000-but-only-after-a-bottom-later-this-year",
-          "domain": "coindesk.com",
-          "date": "2026-05-04T04:43:46.000Z",
-          "source": "CoinDesk",
-          "summary": "Veteran trader Peter Brandt sees bitcoin rallying to $250,000 in 2029, but only after the market finishes a long drawn-out bottoming process that could last into September 2026."
-        },
-        {
-          "title": "XRP zooms above $1.40 on rising volume, putting focus on further breakout",
-          "url": "https://www.coindesk.com/markets/2026/05/04/xrp-zooms-above-usd1-40-on-rising-volume-putting-focus-on-further-breakout",
-          "domain": "coindesk.com",
-          "date": "2026-05-04T04:40:24.000Z",
-          "source": "CoinDesk",
-          "summary": "Sharp volume surge drives move through $1.40, meaning traders may now watch whether the level holds as support."
-        },
-        {
-          "title": "Dogecoin jumps 4% to lead gains among majors as bitcoin zooms higher",
-          "url": "https://www.coindesk.com/markets/2026/05/04/dogecoin-jumps-4-to-lead-gains-among-majors-as-bitcoin-zooms-higher",
-          "domain": "coindesk.com",
-          "date": "2026-05-04T04:34:58.000Z",
-          "source": "CoinDesk",
-          "summary": "Sharp volume spike drives breakout through resistance, with price now testing whether the level flips to support."
-        },
-        {
-          "title": "Bitcoin reclaims $80,000 as flows build, but traders hedge and doubt a breakout",
-          "url": "https://www.coindesk.com/markets/2026/05/04/bitcoin-reclaims-usd80-000-as-flows-build-but-traders-hedge-and-doubt-a-breakout",
-          "domain": "coindesk.com",
-          "date": "2026-05-04T04:26:44.000Z",
-          "source": "CoinDesk",
-          "summary": "Strong ETF inflows and rising leverage are lifting prices, yet CryptoQuant data shows weak spot demand and Polymarket odds put just a 23% chance on $90,000 this month."
-        },
-        {
-          "title": "Stablecoin firms have a $112B additional opportunity in LATAM remittance: Bybit",
-          "url": "https://cointelegraph.com/news/stablecoin-firms-should-focus-on-non-us-corridors-in-latam-to-capture-opportunities-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-04T04:23:39.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The US-to-Mexico remittance corridor, while still the largest, shrank 4.5% in 2025 as other Latin American corridors grew."
+          "summary": "John Palmer, a developer and brand adviser, agreed, said it \"feels like a bug\" to call them stablecoins and that they should have a self-defined and non-reactionary name."
         }
       ]
     }
