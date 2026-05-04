@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-04T13:11:20.806Z",
+  "updatedAt": "2026-05-04T15:23:47.871Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -98,6 +98,14 @@
       ],
       "articles": [
         {
+          "title": "“Thinking” AI Outperforms Human Doctors on Real-Life Data",
+          "url": "https://lifespan.io/thinking-ai-outperforms-human-doctors-on-real-life-data/?utm_source=rss&utm_medium=rss&utm_campaign=thinking-ai-outperforms-human-doctors-on-real-life-data",
+          "domain": "lifespan.io",
+          "date": "2026-05-04T15:05:42.000Z",
+          "source": "Lifespan.io",
+          "summary": "A new study has pit an advanced large language model against human physicians in tasks involving complex reasoning, treatment recommendations, and messy real-world patient records [1]. Testing a “thinking” model The dream of a ‘computer […]"
+        },
+        {
           "title": "Scribe highlights CRISPR advances and STX-1150 data at ASGCT, EAS",
           "url": "https://longevity.technology/news/scribe-highlights-crispr-advances-and-stx-1150-data-at-asgct-eas/",
           "domain": "longevity.technology",
@@ -119,7 +127,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-01T20:54:29.000Z",
           "source": "Lifespan.io",
-          "summary": "The Longevity Investor Network (LIN) was created to help bridge the gap between promising longevity startups and the investors capable of helping […]"
+          "summary": "The Longevity Investor Network (LIN) was created to help bridge the gap between promising longevity startups and the investors capable of helping them scale. Through curated monthly pitch sessions, educational seminars, collaborative diligence, and ecosystem-building events, LIN provides a structured […]"
         },
         {
           "title": "Deal between Chrysea, nuBioAge brings spermidine to clinics",
@@ -135,7 +143,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-01T16:05:37.000Z",
           "source": "Lifespan.io",
-          "summary": "Aging is a multifaceted topic, and it’s becoming more and more clear that the only way to deal with it is piece by piece. Here’s what pieces our industry has put together in April. […]"
+          "summary": "Aging is a multifaceted topic, and it’s becoming more and more clear that the only way to deal with it is piece by piece. Here’s what pieces our industry has put together in April. Advocacy and Analysis It’s […]"
         },
         {
           "title": "The implementation gap",
@@ -168,14 +176,6 @@
           "date": "2026-05-01T12:46:22.000Z",
           "source": "Longevity.Technology",
           "summary": "A genome pioneer who read life as code – and rewrote the tempo of discovery, commerce and controversy in modern biology. J Craig Venter has died at the age of 79; born in Salt Lake City in 1946, Venter was a figure who rarely moved quietly through science, and who seemed, for much of his […] The post J Craig Venter, PhD: 1946 – 2026 appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "BioCardia allowed Japanese patent for Heart3D fusion imaging",
-          "url": "https://longevity.technology/news/biocardia-allowed-japanese-patent-for-heart3d-fusion-imaging/",
-          "domain": "longevity.technology",
-          "date": "2026-05-01T07:46:09.000Z",
-          "source": "Longevity.Technology",
-          "summary": "BioCardia announced the allowance of a Japanese patent titled “Target Site Selection, Entry, and Update with Automatic Remote Image Annotation” to protect its Heart3D Fusion Imaging software, intended for treatment planning and real-time navigation during CardiAMP Cell Therapy procedures. The patent’s claims cover transposing preoperative three-dimensional CT or MRI heart images onto two orthogonal two-dimensional […] The post BioCardia allowed Japanese patent for Heart3D fusion imaging appeared first on Longevity.Technology ."
         }
       ]
     },
@@ -278,84 +278,84 @@
       ],
       "articles": [
         {
-          "title": "A beginner’s guide to stablecoins",
-          "url": "https://www.coindesk.com/learn/2026/05/04/a-beginner-s-guide-to-stablecoins",
+          "title": "Wall Street giant DTCC plans tokenized securities platform with July pilot, October launch",
+          "url": "https://www.coindesk.com/business/2026/05/04/wall-street-giant-dtcc-plans-tokenized-securities-platform-with-july-pilot-october-launch",
           "domain": "coindesk.com",
-          "date": "2026-05-04T13:05:07.000Z",
+          "date": "2026-05-04T15:16:06.000Z",
           "source": "CoinDesk",
-          "summary": "From pegs to reserves to regulation, here's what you need to know ahead of Consensus Miami 2026."
+          "summary": "Clearing giant's move toward live tokenization market adds weight to Wall Street's blockchain push."
         },
         {
-          "title": "Bitcoin scaling layer Citrea rolls out CTR token and dual treasury model",
-          "url": "https://www.theblock.co/post/399867/bitcoin-scaling-layer-citrea-rolls-out-ctr-token-and-dual-treasury-model?utm_source=rss&utm_medium=rss",
+          "title": "Western Union launches USDPT stablecoin issued by Anchorage on Solana",
+          "url": "https://www.theblock.co/post/399890/western-union-launches-usdpt-stablecoin-anchorage-solana?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-05-04T13:01:01.000Z",
+          "date": "2026-05-04T15:13:28.000Z",
           "source": "The Block",
-          "summary": "Only xCTR used for voting will earn additional liquidity emissions, while staked CTR that is inactive will only earn unstaking penalty fees."
+          "summary": "Western Union launched a dollar stablecoin on Solana for 24/7 settlement across 200+ countries, the company said Monday."
         },
         {
-          "title": "Kraken's parent company Payward alleges $25 million crypto custody fraud in lawsuit against Etana and firm's CEO",
-          "url": "https://www.coindesk.com/business/2026/05/04/kraken-s-parent-company-payward-alleges-usd25-million-crypto-custody-fraud-in-lawsuit-against-etana-and-firm-s-ceo",
-          "domain": "coindesk.com",
-          "date": "2026-05-04T13:00:00.000Z",
-          "source": "CoinDesk",
-          "summary": "The crypto exchange claims client funds were misused, commingled and concealed in a “Ponzi-like” scheme that unraveled amid a liquidity crisis."
-        },
-        {
-          "title": "SOL Strategies to acquire cross-chain swap aggregator Houdini for $18 million",
-          "url": "https://www.theblock.co/post/399844/sol-strategies-buy-houdini?utm_source=rss&utm_medium=rss",
+          "title": "Kraken’s parent company alleges custodian Etana misappropriated $25 million",
+          "url": "https://www.theblock.co/post/399880/krakens-parent-company-alleges-custodian-etana-misappropriated-25-million?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-05-04T12:30:00.000Z",
+          "date": "2026-05-04T15:05:38.000Z",
           "source": "The Block",
-          "summary": "The acquisition is expected to create a new revenue stream and make SOL Strategies less reliant on market cycles."
+          "summary": "Etana is accused of operating a \"Ponzi-like enterprise\" the resulted in using capital to fund expenses and risky investments."
         },
         {
-          "title": "Kraken parent Payward closes $550 million Bitnomial deal, securing full CFTC derivatives stack",
-          "url": "https://www.coindesk.com/business/2026/05/04/kraken-parent-payward-closes-usd550-million-bitnomial-deal-securing-full-cftc-derivatives-stack",
-          "domain": "coindesk.com",
-          "date": "2026-05-04T12:01:48.000Z",
-          "source": "CoinDesk",
-          "summary": "The deal gives Payward a full CFTC-regulated derivatives stack in the U.S."
-        },
-        {
-          "title": "Laywer pops up on Arbitrum DAO forums seeking funds for victims of decades-old North Korean terrorist acts",
-          "url": "https://www.coindesk.com/markets/2026/05/04/laywer-pops-up-on-arbitrum-dao-forums-seeking-funds-for-victims-of-decades-old-north-korean-terrorist-acts",
-          "domain": "coindesk.com",
-          "date": "2026-05-04T11:53:30.000Z",
-          "source": "CoinDesk",
-          "summary": "Families holding decades-old judgments against North Korea are trying to seize 30,765 ETH frozen after last month’s rsETH exploit, citing alleged links between the attack and DPRK-linked hacking groups such as Lazarus, and invoking a New York restraining notice that could block Arbitrum from releasing the funds."
-        },
-        {
-          "title": "Bitcoin stalls near $80,000. Stocks and ETF inflows still point to a breakout.",
-          "url": "https://www.coindesk.com/daybook-us/2026/05/04/bitcoin-stalls-near-usd80-000-stocks-and-etf-inflows-still-point-to-a-breakout",
-          "domain": "coindesk.com",
-          "date": "2026-05-04T11:33:36.000Z",
-          "source": "CoinDesk",
-          "summary": "Your day-ahead look for May 4, 2026"
-        },
-        {
-          "title": "Iran missile report sends bitcoin back to $79,000, with ETH, SOL, DOGE sharply lower",
-          "url": "https://www.coindesk.com/markets/2026/05/04/iran-missile-report-sends-bitcoin-back-to-usd79-000-with-eth-sol-doge-sharply-lower",
-          "domain": "coindesk.com",
-          "date": "2026-05-04T11:30:04.000Z",
-          "source": "CoinDesk",
-          "summary": "The largest crypto reversed sharply from a $80,594 high after Iran's Fars news agency claimed two missiles hit a U.S. warship, with oil spiking 5% before the U.S. denied the report."
-        },
-        {
-          "title": "BTC price can ‘easily’ hit $95K: Five things to know in Bitcoin this week",
-          "url": "https://cointelegraph.com/markets/btc-price-can-easily-hit-95k-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "ZIGChain Summit 2026 marks a defining moment for onchain finance as ecosystem unites around execution, partnerships",
+          "url": "https://cointelegraph.com/press-releases/zigchain-summit-2026-marks-a-defining-moment-for-onchain-finance-as-ecosystem-unites-around-execution-partnerships?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-05-04T11:05:33.000Z",
+          "date": "2026-05-04T15:03:07.000Z",
           "source": "CoinTelegraph",
-          "summary": "Bitcoin gained fresh bullish BTC price targets after hitting new three-month highs above $80,000."
+          "summary": "ZIGChain, the blockchain built to bring regulated investment products onchain for everyday users, today reflected on its second annual ZIGChain Summit, a defining gathering for the future of onchain finance, held on 28 April at the The Meydan Hotel, Dubai."
         },
         {
-          "title": "GameStop makes $55.5B offer to buy eBay in surprise takeover bid",
-          "url": "https://cointelegraph.com/news/gamestop-56-billion-ebay-acquisition-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "FINRA green lights Securitize for tokenized IPO underwriting and custody",
+          "url": "https://www.theblock.co/post/399895/finra-green-lights-securitize-for-tokenized-ipo-underwriting-and-custody?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-04T14:56:39.000Z",
+          "source": "The Block",
+          "summary": "Securitize is the first firm to receive FINRA approval to custody tokenized securities and underwrite onchain IPOs and secondary offerings."
+        },
+        {
+          "title": "Hut 8 refinances Bitcoin-backed loan with $200M FalconX deal",
+          "url": "https://cointelegraph.com/news/hut-8-secures-200m-bitcoin-backed-credit-facility-from-falconx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-05-04T11:00:32.000Z",
+          "date": "2026-05-04T14:40:40.000Z",
           "source": "CoinTelegraph",
-          "summary": "GameStop proposes a $55.5 billion cash-and-stock takeover of eBay, disclosing a 5% stake and says CEO Ryan Cohen would lead the combined company."
+          "summary": "The Bitcoin miner said the FalconX facility lowers its fixed interest rate to 7% and releases about 3,300 BTC from collateral restrictions."
+        },
+        {
+          "title": "BitMine adds 101,745 ETH for $238 million in third straight weekly buy above 100,000 tokens",
+          "url": "https://www.theblock.co/post/399883/bitmine-adds-101745-eth-in-third-straight-weekly-buy-above-100000-tokens?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-04T14:33:11.000Z",
+          "source": "The Block",
+          "summary": "BitMine Immersion's latest weekly buy pushes total ether holdings to 5.18 million tokens worth around $12.1 billion."
+        },
+        {
+          "title": "Tom Lee says 'crypto spring' started as largest Ethereum treasury buys $238 million in ether",
+          "url": "https://www.coindesk.com/business/2026/05/04/tom-lee-says-crypto-spring-started-as-largest-ethereum-treasury-buys-usd238-million-in-ether",
+          "domain": "coindesk.com",
+          "date": "2026-05-04T14:23:18.000Z",
+          "source": "CoinDesk",
+          "summary": "Bitmine's latest ETH purchase comes as Lee cited progress on digital asset regulation CLARITY Act as a key catalyst for crypto markets."
+        },
+        {
+          "title": "Stablecoin startup Rain joins Mastercard as a Principal Member",
+          "url": "https://www.theblock.co/post/399878/stablecoin-startup-rain-joins-mastercard-as-a-principal-member?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-04T14:22:31.000Z",
+          "source": "The Block",
+          "summary": "Rain, which was valued at $1.95 billion during a Series C round announced in January, has an existing relationship with card issuer Visa."
+        },
+        {
+          "title": "Bitcoin in ‘disbelief rally’ as traders spot $84K BTC price target",
+          "url": "https://cointelegraph.com/markets/bitcoin-in-disbelief-rally-as-traders-eye-84k-btc-price-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-04T14:08:41.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bitcoin’s rally on Monday pushed it above $80,000 for the first time since January as analysts say BTC price could rise further to fill the futures gap at $84,000 in the short term."
         }
       ]
     }
