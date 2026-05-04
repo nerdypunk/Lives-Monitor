@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-04T09:38:35.928Z",
+  "updatedAt": "2026-05-04T11:28:02.849Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -119,7 +119,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-01T20:54:29.000Z",
           "source": "Lifespan.io",
-          "summary": "The Longevity Investor Network (LIN) was created to help bridge the gap between promising longevity startups and the investors capable of helping them scale. Through curated monthly pitch sessions, educational seminars, collaborative diligence, and ecosystem-building events, LIN provides […]"
+          "summary": "The Longevity Investor Network (LIN) was created to help bridge the gap between promising longevity startups and the investors capable of helping them scale. Through curated monthly pitch sessions, educational seminars, collaborative diligence, […]"
         },
         {
           "title": "Deal between Chrysea, nuBioAge brings spermidine to clinics",
@@ -135,7 +135,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-01T16:05:37.000Z",
           "source": "Lifespan.io",
-          "summary": "Aging is a multifaceted topic, and it’s becoming more and more clear that the only way to deal with it is piece by piece. Here’s what pieces our industry has put together in April. Advocacy and Analysis It’s Springtime and […]"
+          "summary": "Aging is a multifaceted topic, and it’s becoming more and more clear that the only way to deal with it is piece by piece. Here’s what pieces our industry has put […]"
         },
         {
           "title": "The implementation gap",
@@ -278,6 +278,38 @@
       ],
       "articles": [
         {
+          "title": "BTC price can 'easily' hit $95K: Five things to know in Bitcoin this week",
+          "url": "https://cointelegraph.com/markets/btc-price-can-easily-hit-95k-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-04T11:05:33.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bitcoin gained fresh bullish BTC price targets after hitting new three-month highs above $80,000."
+        },
+        {
+          "title": "Coinbase boosts Solana trading with DFlow integration",
+          "url": "https://www.coindesk.com/business/2026/05/04/coinbase-boosts-solana-trading-with-dflow-integration",
+          "domain": "coindesk.com",
+          "date": "2026-05-04T10:36:12.000Z",
+          "source": "CoinDesk",
+          "summary": "Coinbase adding DFlow as its primary router will mean eight times less trade failures."
+        },
+        {
+          "title": "Crypto bears got it wrong again, losing $300 million in liquidations",
+          "url": "https://www.coindesk.com/markets/2026/05/04/crypto-bears-got-it-wrong-again-losing-usd300-million-in-liquidations",
+          "domain": "coindesk.com",
+          "date": "2026-05-04T10:30:41.000Z",
+          "source": "CoinDesk",
+          "summary": "Bitcoin's move to $80,000 caught bears on the wrong side of the market again, leading to large short liquidations."
+        },
+        {
+          "title": "Capital B raises $1.3M from Adam Back for Bitcoin strategy",
+          "url": "https://cointelegraph.com/news/capital-b-raises-12m-from-adam-back-to-fuel-bitcoin-treasury-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-04T10:05:30.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The Blockstream CEO subscribed to 10 million warrants as Capital B pushes ahead with its Bitcoin treasury strategy."
+        },
+        {
           "title": "North Korea blames ‘reptile media’ over reports of crypto theft",
           "url": "https://www.theblock.co/post/399854/north-korea-blames-crypto-theft-reports?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
@@ -324,38 +356,6 @@
           "date": "2026-05-04T06:54:18.000Z",
           "source": "CoinTelegraph",
           "summary": "Bitcoin soared as the MSCI AC Asia Index rose to a new high on Monday, an early indicator that investors viewed the weekend developments in a reasonably positive light."
-        },
-        {
-          "title": "CFTC sees mixed responses to prediction market rulemaking",
-          "url": "https://cointelegraph.com/news/cftc-mixed-responses-prediction-market-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-04T05:35:44.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The CFTC received more than 1,500 responses to its prediction market rulemaking proposal, with respondents divided on how it should police the platforms."
-        },
-        {
-          "title": "Strategy pauses bitcoin buys before Tuesday earnings",
-          "url": "https://www.coindesk.com/business/2026/05/04/strategy-pauses-bitcoin-buys-before-tuesday-earnings",
-          "domain": "coindesk.com",
-          "date": "2026-05-04T05:14:53.000Z",
-          "source": "CoinDesk",
-          "summary": "Michael Saylor says the company will resume purchases next week, but the pause lands as analysts focus on losses and the growing complexity of Strategy’s preferred-stock funding machine."
-        },
-        {
-          "title": "The Funding: How DeFi hacks could hit crypto funds",
-          "url": "https://www.theblock.co/post/399840/the-funding-how-defi-hacks-could-hit-crypto-funds?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-04T04:46:47.000Z",
-          "source": "The Block",
-          "summary": "DeFi’s latest hack wave is likely to add pressure on liquid and yield-focused crypto funds already navigating a tough market."
-        },
-        {
-          "title": "‘Stablecoins’ are an outdated term from crypto’s early years: A16z",
-          "url": "https://cointelegraph.com/news/stablecoins-are-an-outdated-term-a16z-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-04T04:44:12.000Z",
-          "source": "CoinTelegraph",
-          "summary": "John Palmer, a developer and brand adviser, agreed, said it \"feels like a bug\" to call them stablecoins and that they should have a self-defined and non-reactionary name."
         }
       ]
     }
