@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-04T17:12:28.007Z",
+  "updatedAt": "2026-05-04T18:57:52.879Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -135,7 +135,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-04T15:05:42.000Z",
           "source": "Lifespan.io",
-          "summary": "A new study has pit an advanced large language model against human physicians in tasks involving complex reasoning, treatment recommendations, and messy real-world patient records [1]. Testing a “thinking” model The […]"
+          "summary": "A new study has pit an advanced large language model against human physicians in tasks involving complex reasoning, treatment recommendations, and messy real-world patient records [1]. Testing a “thinking” model The dream […]"
         },
         {
           "title": "Scribe highlights CRISPR advances and STX-1150 data at ASGCT, EAS",
@@ -159,7 +159,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-01T20:54:29.000Z",
           "source": "Lifespan.io",
-          "summary": "The Longevity Investor Network (LIN) was created to help bridge the gap between promising longevity startups and the investors capable of helping them scale. Through curated monthly pitch sessions, educational seminars, collaborative diligence, and ecosystem-building events, LIN provides a […]"
+          "summary": "The Longevity Investor Network (LIN) was created to help bridge the gap between promising longevity startups and the investors capable of helping them scale. Through […]"
         },
         {
           "title": "Deal between Chrysea, nuBioAge brings spermidine to clinics",
@@ -175,7 +175,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-01T16:05:37.000Z",
           "source": "Lifespan.io",
-          "summary": "Aging is a multifaceted topic, and it’s becoming more and more clear that the only way to deal with it is piece by piece. Here’s what […]"
+          "summary": "Aging is a multifaceted topic, and it’s becoming more and more clear that the only way to deal with it is piece by piece. Here’s what pieces our industry has put together in April. Advocacy and Analysis It’s Springtime and […]"
         }
       ]
     },
@@ -278,84 +278,84 @@
       ],
       "articles": [
         {
+          "title": "Hut 8 swaps Coinbase loan for cheaper FalconX deal, slashing borrowing costs as it bets big on AI",
+          "url": "https://www.coindesk.com/markets/2026/04/28/hut-8-swaps-coinbase-credit-line-for-cheaper-falconx-deal-slashing-borrowing-costs-as-it-bets-big-on-ai",
+          "domain": "coindesk.com",
+          "date": "2026-05-04T18:31:44.000Z",
+          "source": "CoinDesk",
+          "summary": "A new $200 million, 364-day bitcoin-backed facility replaces the Coinbase Credit arrangement, cutting debt costs by 200 basis points."
+        },
+        {
+          "title": "Aave fights court-ordered $73 million ETH freeze, argues ‘a thief does not own what he steals’",
+          "url": "https://www.theblock.co/post/399923/aave-fights-73-million-eth-freeze-argues-thief-does-not-own-what-steals?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-04T18:24:34.000Z",
+          "source": "The Block",
+          "summary": "Aave LLC filed an emergency motion in federal court seeking to lift an order that froze ether tied to last month's Kelp DAO exploit."
+        },
+        {
+          "title": "South Korea’s largest crypto exchange Upbit launches Ethereum blockchain with Optimism Foundation support",
+          "url": "https://www.theblock.co/post/399935/south-koreas-largest-crypto-exchange-upbit-launches-ethereum-blockchain-with-optimism-foundation-support?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-04T18:18:21.000Z",
+          "source": "The Block",
+          "summary": "Upbit is the Optimism Foundation's first client on its \"self-managed\" enterprise tier, giving it control over its core rollup architecture."
+        },
+        {
+          "title": "Binance adds protection against physical threats as problems with crypto wrench attacks persist",
+          "url": "https://www.theblock.co/post/399925/binance-adds-protection-against-physical-attacks-crypto-kidnappings-persist?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-04T18:17:09.000Z",
+          "source": "The Block",
+          "summary": "Blockchain analytics firm CertiK said this February that attacks using physical threats to steal crypto rose 75% in 2025."
+        },
+        {
+          "title": "Circle, Coinbase lead crypto stocks rally amid Clarity Act progress, bitcoin hitting $80,000",
+          "url": "https://www.coindesk.com/markets/2026/05/04/circle-coinbase-lead-crypto-stock-rally-amid-clarity-act-progress-bitcoin-above-usd80-000",
+          "domain": "coindesk.com",
+          "date": "2026-05-04T17:34:28.000Z",
+          "source": "CoinDesk",
+          "summary": "The market is starting to price in potential winners as stablecoin yield compromise opens path for passing key U.S. digital asset regulation, one analyst said."
+        },
+        {
+          "title": "Bitcoin bounces around $80K as Iran strike unsettles crypto, risk assets",
+          "url": "https://cointelegraph.com/markets/bitcoin-bounces-around-80k-as-iran-strike-unsettles-crypto-risk-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-04T17:21:37.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bitcoin faced new volatility and a new struggle to reclaim $80,000 as Iran events added pressure to crypto and risk assets."
+        },
+        {
+          "title": "Coinbase-incubated Base network adopts Succinct’s zero-knowledge tech",
+          "url": "https://www.theblock.co/post/399926/coinbase-incubated-base-network-adopts-succincts-zero-knowledge-tech?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-04T17:18:18.000Z",
+          "source": "The Block",
+          "summary": "Base, launched as an optimistic rollup, is hybridizing its tech stack with Succinct's SP1 zero-knowledge virtual machine."
+        },
+        {
+          "title": "Prediction markets entering institutional era after first block trade — Bernstein",
+          "url": "https://cointelegraph.com/news/bernstein-prediction-markets-institutional-block-trade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-04T16:51:14.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Institutional investors are entering prediction markets as block trades, custom contracts and US regulatory shifts reshape a sector still dominated by retail users."
+        },
+        {
+          "title": "Ethereum holders are back in profit as ETH price chart targets $3K",
+          "url": "https://cointelegraph.com/markets/ethereum-holders-back-in-profit-as-eth-price-gears-for-3k-breakout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-04T16:30:03.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Ethereum investors are no longer in the red, increasing the chances of a rally to $3,000, but resistance at $2,800 may delay recovery."
+        },
+        {
           "title": "The government should promote innovation, not punish it",
           "url": "https://www.coindesk.com/opinion/2026/05/04/the-government-should-promote-innovation-not-punish-it",
           "domain": "coindesk.com",
           "date": "2026-05-04T16:30:00.000Z",
           "source": "CoinDesk",
           "summary": "District Attorney of Sacramento County, Ho argues that ambiguous rules and enforcement practices, such as those for crypto, lead to confusion, rather than seeking clarity in the law to further growth."
-        },
-        {
-          "title": "Shopify and National Bank of Canada are among backers of a new digital currency built to settle trades 24/7",
-          "url": "https://www.coindesk.com/business/2026/05/04/shopify-and-national-bank-of-canada-are-among-backers-of-a-new-digital-currency-built-to-settle-trades-24-7",
-          "domain": "coindesk.com",
-          "date": "2026-05-04T16:20:48.000Z",
-          "source": "CoinDesk",
-          "summary": "Tetra Trust's new stablecoin, CADD, is aimed at institutional use for 24/7 cross-border settlement, real-time corporate treasury, and direct fintech transfers, replacing legacy batch systems."
-        },
-        {
-          "title": "DTC to begin tokenized asset rollout in July ahead of full launch as it gets feedback from BlackRock, Circle and others",
-          "url": "https://www.theblock.co/post/399914/dtc-to-begin-tokenized-asset-rollout-in-july-ahead-of-full-launch-as-it-gets-feedback-from-blackrock-circle-and-others?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-04T16:02:46.000Z",
-          "source": "The Block",
-          "summary": "The Depository Trust & Clearing Corporation will roll out its tokenization service as it gathers feedback from firms like BlackRock to Circle."
-        },
-        {
-          "title": "SEC pumps the brakes on prediction market ETFs set to debut this week: Reuters",
-          "url": "https://www.theblock.co/post/399881/sec-pumps-brakes-prediction-market-etfs-set-debut-this-week-reuters?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-04T15:54:36.000Z",
-          "source": "The Block",
-          "summary": "The prediction market ETFs covered U.S. election outcomes, layoffs in the tech sector and the liklihood of a recession."
-        },
-        {
-          "title": "Here’s what happened in crypto today",
-          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-04T15:36:06.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
-        },
-        {
-          "title": "SEC delays prediction market ETFs over mechanics and risk concerns: Report",
-          "url": "https://cointelegraph.com/news/prediction-market-etf-sec-delay-mechanics-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-04T15:35:46.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The regulator reportedly requested more information from Roundhill, GraniteShares and Bitwise about how the event contract funds would work."
-        },
-        {
-          "title": "Crypto VC Haun Ventures raises $1 billion for funds investing in blockchain and AI",
-          "url": "https://www.theblock.co/post/399902/crypto-vc-haun-ventures-raises-1-billion-fund-investing-blockchain-ai?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-04T15:34:55.000Z",
-          "source": "The Block",
-          "summary": "Last year, Haun Ventures was reportedly seeking to raise $1 billion to launch two new crypto-focused funds."
-        },
-        {
-          "title": "Wall Street giant DTCC plans tokenized securities platform with July pilot, October launch",
-          "url": "https://www.coindesk.com/business/2026/05/04/wall-street-giant-dtcc-plans-tokenized-securities-platform-with-july-pilot-october-launch",
-          "domain": "coindesk.com",
-          "date": "2026-05-04T15:16:06.000Z",
-          "source": "CoinDesk",
-          "summary": "Clearing giant's move toward live tokenization market adds weight to Wall Street's blockchain push."
-        },
-        {
-          "title": "Western Union launches USDPT stablecoin issued by Anchorage on Solana",
-          "url": "https://www.theblock.co/post/399890/western-union-launches-usdpt-stablecoin-anchorage-solana?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-04T15:13:28.000Z",
-          "source": "The Block",
-          "summary": "Western Union launched a dollar stablecoin on Solana for 24/7 settlement across 200+ countries, the company said Monday."
-        },
-        {
-          "title": "K Wave Media abandons Bitcoin treasury push for AI infrastructure",
-          "url": "https://cointelegraph.com/news/k-wave-media-shifts-485m-financing-from-bitcoin-treasury-to-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-04T15:10:33.000Z",
-          "source": "CoinTelegraph",
-          "summary": "K Wave Media is redirecting up to $485 million from a Bitcoin treasury strategy into AI infrastructure, alongside debt reduction and restructuring, per a Form 6-K filing."
         }
       ]
     }
