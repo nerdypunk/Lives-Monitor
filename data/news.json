@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-04T22:41:25.335Z",
+  "updatedAt": "2026-05-04T23:38:17.134Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -8,14 +8,6 @@
         "https://news.google.com/rss/search?q=DeSci%20OR%20%22decentralized%20science%22%20OR%20%22BIO%20Protocol%22&hl=en-US&gl=US&ceid=US:en"
       ],
       "articles": [
-        {
-          "title": "BIO doubled in three days, DeSci blossomed: Can AI Agents revive decentralized science? - PANews",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RQzlROGk0MGx6bDRzSUFwbnlHMTlvTk9SSGx3ek9kdUlSR0xMak00SlppRHBnZDFvVW9BNXRWN1ZTVUxoVFp2d3hJMnhIR1dVTXJRZGhNb09kS3BNTDBpVzdTekJXN082NnhLZzBqLWFISW56TmtoeHlsOU42bTg?oc=5",
-          "domain": "panewslab.com",
-          "date": "2026-05-04T09:15:00.000Z",
-          "source": "PANews",
-          "summary": "BIO doubled in three days, DeSci blossomed: Can AI Agents revive decentralized science? &nbsp;&nbsp; PANews"
-        },
         {
           "title": "DeSci Has Raised Millions For Research No VC Would Ever Touch - Yellow.com",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQzAtQWJmSEtGX1pXdWVOR0RsRnhXWGp4S2VYUEhXREJiM1ljR01reDZfS1hwU0g3eTMzaFdOdnVJb3l2R2lNdmdCVEhuUWExYjB0VTNReUIwUlRxTjhrdmlCV1d5R3VXbGtRWFp3eGQ0VTV0SjhZdGpNOGV2dDNYcnVodm9PWWJHYlE?oc=5",
@@ -87,6 +79,14 @@
           "date": "2026-04-30T12:28:59.000Z",
           "source": "Yellow.com",
           "summary": "Insiders Are Quietly Positioning In DeSci While The Rest Watches BTC &nbsp;&nbsp; Yellow.com"
+        },
+        {
+          "title": "5 Top DeSci Projects That Are Currently Running Real-World Clinical Trials - FinanceFeeds",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVmhGQkY5TGN6a2tmWG94OWFiYXR5Q0EwZHI1WWJIUUFzYTZFcmdhcFVWWVhNSlZSVGdINmhqZ3BTazdsODM0MXZZZE13QzNabHE4cXNoYkV5Wkd4Z3c3eVEzUWtJZFdmYThkY0JJR2xOZ2JxenZxS0hVNVV4aUF5a1NVMml6M2kwX29hamZzcjBqbkdVdjdaQ1VnV3EzREQ1SkE?oc=5",
+          "domain": "financefeeds.com",
+          "date": "2026-04-30T11:29:15.000Z",
+          "source": "FinanceFeeds",
+          "summary": "5 Top DeSci Projects That Are Currently Running Real-World Clinical Trials &nbsp;&nbsp; FinanceFeeds"
         }
       ]
     },
@@ -98,12 +98,60 @@
       ],
       "articles": [
         {
+          "title": "Buntanetap gains ground in new Alzheimer’s trial results",
+          "url": "https://longevity.technology/news/buntanetap-gains-ground-in-new-alzheimers-trial-results/",
+          "domain": "longevity.technology",
+          "date": "2026-05-04T17:00:44.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Newly published trial data show cognitive gains in early patients and hint at disease-modifying effects, as Annovis moves towards validation. Big expectations, followed by quiet disappointments. That’s how Alzheimer’s research has been. When Annovis Bio recently published its Phase 2/3 trial results for buntanetap in Nature NPJ Dementia, the headline outcome, “missing its primary endpoints,” […] The post Buntanetap gains ground in new Alzheimer’s trial results appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "Sugar’s hidden role in skin aging revealed",
+          "url": "https://longevity.technology/news/sugars-hidden-role-in-skin-aging-revealed/",
+          "domain": "longevity.technology",
+          "date": "2026-05-04T16:55:41.000Z",
+          "source": "Longevity.Technology",
+          "summary": "New research shows sugar doesn’t just damage skin structure; it disrupts cells from within, opening new paths for longevity-driven skin care. We’ve long been told that sugar is bad for the skin. It “breaks down collagen,” they say, flattening what is actually a complex biological story into something almost cosmetic. However, new research from The […] The post Sugar’s hidden role in skin aging revealed appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "The first personalized brain repair for Parkinson’s",
+          "url": "https://longevity.technology/news/the-first-personalized-brain-repair-for-parkinsons/",
+          "domain": "longevity.technology",
+          "date": "2026-05-04T16:55:10.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Early clinical data from Aspen Neuroscience suggests a future where Parkinson’s is not just managed, but rebuilt using a patient’s own cells. Parkinson’s disease has been a repetitive pattern of tremors, stiffness, slowing movement and an eventual dependence on medications that soften (but never stop) the decline. But what if that script is no longer […] The post The first personalized brain repair for Parkinson’s appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "Alterity’s neurodegenerative drug moves toward Phase 3",
+          "url": "https://longevity.technology/news/alteritys-neurodegenerative-drug-moves-toward-phase-3/",
+          "domain": "longevity.technology",
+          "date": "2026-05-04T16:54:32.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Positive FDA feedback signals momentum for a rare-disease program, offering cautious optimism for neurodegenerative drug development. Melbourne-based biotech Alterity Therapeutics announced it has received positive feedback from the US Food and Drug Administration (FDA) following its second Type C meeting, this time centered on the chemistry, manufacturing and control (CMC) aspects of its lead drug, […] The post Alterity’s neurodegenerative drug moves toward Phase 3 appeared first on Longevity.Technology ."
+        },
+        {
           "title": "“Thinking” AI Outperforms Human Doctors on Real-Life Data",
           "url": "https://lifespan.io/thinking-ai-outperforms-human-doctors-on-real-life-data/?utm_source=rss&utm_medium=rss&utm_campaign=thinking-ai-outperforms-human-doctors-on-real-life-data",
           "domain": "lifespan.io",
           "date": "2026-05-04T15:05:42.000Z",
           "source": "Lifespan.io",
-          "summary": "A new study has pit an advanced large language model against human physicians in tasks involving complex reasoning, treatment recommendations, and messy real-world patient records [1]. Testing a […]"
+          "summary": "A new study has pit an advanced large language model against human physicians in tasks involving complex reasoning, treatment recommendations, and messy real-world patient records [1]. Testing a “thinking” model The dream of a ‘computer doctor’ has […]"
+        },
+        {
+          "title": "Scribe highlights CRISPR advances and STX-1150 data at ASGCT, EAS",
+          "url": "https://longevity.technology/news/scribe-highlights-crispr-advances-and-stx-1150-data-at-asgct-eas/",
+          "domain": "longevity.technology",
+          "date": "2026-05-04T05:31:09.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Scribe Therapeutics will present engineered CRISPR platform advances and lead cardiometabolic programs at the 29th ASGCT Annual Meeting in Boston, 11-15 May, and at the 94th EAS Congress in Athens, 24-27 May 2026, the company announced. At ASGCT, Scribe is scheduled to deliver two oral presentations and a workshop featuring its Epigenetic Long-Term X-Repressor (ELXR) […] The post Scribe highlights CRISPR advances and STX-1150 data at ASGCT, EAS appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "LifespanningRx launches partner program for peptide therapy",
+          "url": "https://longevity.technology/news/lifespanningrx-launches-partner-program-for-peptide-therapy/",
+          "domain": "longevity.technology",
+          "date": "2026-05-04T05:31:08.000Z",
+          "source": "Longevity.Technology",
+          "summary": "LifespanningRx launched a Partner Program that enables clinics, wellness practices, personal trainers, medspas, recovery centers and performance brands to offer clinician-guided peptide programs without managing inventory, prescriptions, fulfillment or regulatory complexity. According to the company, the program provides licensed U.S.-based clinicians for evaluations and prescriptions where appropriate, pharmacy fulfillment with direct-to-patient shipping, no inventory to […] The post LifespanningRx launches partner program for peptide therapy appeared first on Longevity.Technology ."
         },
         {
           "title": "The Longevity Investor Network Looks Back at 2025",
@@ -111,7 +159,15 @@
           "domain": "lifespan.io",
           "date": "2026-05-01T20:54:29.000Z",
           "source": "Lifespan.io",
-          "summary": "The Longevity Investor Network (LIN) was created to help bridge the gap between promising longevity startups and the investors capable of helping them scale. Through curated monthly pitch sessions, […]"
+          "summary": "The Longevity Investor Network (LIN) was created to help bridge the gap between promising longevity startups and the investors capable of helping them scale. Through curated monthly pitch sessions, educational seminars, […]"
+        },
+        {
+          "title": "Deal between Chrysea, nuBioAge brings spermidine to clinics",
+          "url": "https://longevity.technology/news/deal-between-chrysea-nubioage-brings-spermidine-to-clinics/",
+          "domain": "longevity.technology",
+          "date": "2026-05-01T16:24:04.000Z",
+          "source": "Longevity.Technology",
+          "summary": "A new deal moves spermidine from supplements to clinician-guided care, a significant change in how longevity science reaches patients. What happens when longevity leaves the wellness aisle? What if the future of aging well isn’t something you pick up off a shelf, but something your doctor helps you decide on? A new agreement between Chrysea […] The post Deal between Chrysea, nuBioAge brings spermidine to clinics appeared first on Longevity.Technology ."
         },
         {
           "title": "Rejuvenation Roundup April 2026",
@@ -119,63 +175,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-01T16:05:37.000Z",
           "source": "Lifespan.io",
-          "summary": "Aging is a multifaceted topic, and it’s becoming more and more clear that the only way to deal with it is piece by piece. Here’s what […]"
-        },
-        {
-          "title": "Some Researchers Choose Replacement Over Repair in Aging",
-          "url": "https://lifespan.io/some-researchers-choose-replacement-over-repair-in-aging/?utm_source=rss&utm_medium=rss&utm_campaign=some-researchers-choose-replacement-over-repair-in-aging",
-          "domain": "lifespan.io",
-          "date": "2026-04-30T17:00:49.000Z",
-          "source": "Lifespan.io",
-          "summary": "A perspective published in Aging Cell details the replacement-based approaches being investigated by several research organizations. Repair versus replacement This perspective begins by noting the inherent difficulty of rejuvenating the human body because […]"
-        },
-        {
-          "title": "Daytime Napping and Mortality Association in Older Adults",
-          "url": "https://lifespan.io/daytime-napping-and-mortality-association-in-older-adults/?utm_source=rss&utm_medium=rss&utm_campaign=daytime-napping-and-mortality-association-in-older-adults",
-          "domain": "lifespan.io",
-          "date": "2026-04-29T16:12:07.000Z",
-          "source": "Lifespan.io",
-          "summary": "A recent study found an association between longer and more frequent daytime napping and higher mortality risk. The authors suggest using napping frequency […]"
-        },
-        {
-          "title": "A Popular Senolytic Treatment Causes Brain Damage in Mice",
-          "url": "https://lifespan.io/a-popular-senolytic-treatment-causes-brain-damage-in-mice/?utm_source=rss&utm_medium=rss&utm_campaign=a-popular-senolytic-treatment-causes-brain-damage-in-mice",
-          "domain": "lifespan.io",
-          "date": "2026-04-28T19:52:24.000Z",
-          "source": "Lifespan.io",
-          "summary": "A new study calls for caution in using the well-known senolytic treatment of dasatinib and quercetin (D+Q), showing that it causes damage in certain regions of the brain, similar to what is observed in multiple sclerosis [1]. Stem cell […]"
-        },
-        {
-          "title": "Obesity’s Effects on the Immune System May Linger for Years",
-          "url": "https://lifespan.io/obesitys-effects-on-the-immune-system-may-linger-for-years/?utm_source=rss&utm_medium=rss&utm_campaign=obesitys-effects-on-the-immune-system-may-linger-for-years",
-          "domain": "lifespan.io",
-          "date": "2026-04-28T16:02:44.000Z",
-          "source": "Lifespan.io",
-          "summary": "A new study has suggested that T cells might retain a pro-inflammatory phenotype long after normal weight is regained following a period […]"
-        },
-        {
-          "title": "A Robust Senescence Response Helps Wounds Heal",
-          "url": "https://lifespan.io/a-robust-senescence-response-helps-wounds-heal/?utm_source=rss&utm_medium=rss&utm_campaign=a-robust-senescence-response-helps-wounds-heal",
-          "domain": "lifespan.io",
-          "date": "2026-04-27T16:20:15.000Z",
-          "source": "Lifespan.io",
-          "summary": "A team of scientists has examined how younger and older mice heal from wounds and found that more robust senescent cell activation in […]"
-        },
-        {
-          "title": "Reprogrammed Cardiomyocytes Soften the Blow in Heart Attack",
-          "url": "https://lifespan.io/reprogrammed-cardiomyocytes-soften-the-blow-in-heart-attack/?utm_source=rss&utm_medium=rss&utm_campaign=reprogrammed-cardiomyocytes-soften-the-blow-in-heart-attack",
-          "domain": "lifespan.io",
-          "date": "2026-04-24T16:03:15.000Z",
-          "source": "Lifespan.io",
-          "summary": "A new study has found that partial reprogramming mitigates the damage of myocardial infarction in mice by helping heart muscle cells to complete division [1]. When heart cells get stuck […]"
-        },
-        {
-          "title": "It’s Springtime and the Rejuvenation Field Is Flourishing",
-          "url": "https://lifespan.io/its-springtime-and-the-rejuvenation-field-is-flourishing/?utm_source=rss&utm_medium=rss&utm_campaign=its-springtime-and-the-rejuvenation-field-is-flourishing",
-          "domain": "lifespan.io",
-          "date": "2026-04-23T16:15:58.000Z",
-          "source": "Lifespan.io",
-          "summary": "For those of us in the Northern Hemisphere, spring is here. This is a time of renewal and hope for better […]"
+          "summary": "Aging is a multifaceted topic, and it’s becoming more and more clear that the only way to deal with it is piece by piece. Here’s what pieces our industry has put […]"
         }
       ]
     },
@@ -278,6 +278,22 @@
       ],
       "articles": [
         {
+          "title": "SC Ventures named first external shareholder of GSR following strategic investment",
+          "url": "https://www.theblock.co/post/399950/sc-ventures-first-external-shareholder-gsr-strategic-investment?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-04T23:00:00.000Z",
+          "source": "The Block",
+          "summary": "The move deepens a relationship between the firms struck when GSR invested in the SC Ventures-backed tokenization platform Libeara."
+        },
+        {
+          "title": "World Liberty sues Justin Sun for defamation in WLFI dispute",
+          "url": "https://cointelegraph.com/news/trump-linked-wlfi-platform-sues-justin-sun-for-defamation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-04T22:34:41.000Z",
+          "source": "CoinTelegraph",
+          "summary": "World Liberty Financial claimed Sun engaged in defamatory tactics and prohibited token transfers, including shorting the WLFI token and conducting straw sales on behalf of others."
+        },
+        {
           "title": "DTCC eyes October tokenized securities launch with 50 DeFi and TradFi giants",
           "url": "https://cointelegraph.com/news/dtcc-eyes-october-tokenized-securities-launch-with-dozens-of-wall-street-giants?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
@@ -340,22 +356,6 @@
           "date": "2026-05-04T18:31:44.000Z",
           "source": "CoinDesk",
           "summary": "A new $200 million, 364-day bitcoin-backed facility replaces the Coinbase Credit arrangement, cutting debt costs by 200 basis points."
-        },
-        {
-          "title": "Aave fights court-ordered $73 million ETH freeze, argues ‘a thief does not own what he steals’",
-          "url": "https://www.theblock.co/post/399923/aave-fights-73-million-eth-freeze-argues-thief-does-not-own-what-steals?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-04T18:24:34.000Z",
-          "source": "The Block",
-          "summary": "Aave LLC filed an emergency motion in federal court seeking to lift an order that froze ether tied to last month's Kelp DAO exploit."
-        },
-        {
-          "title": "South Korea’s largest crypto exchange Upbit launches Ethereum blockchain with Optimism Foundation support",
-          "url": "https://www.theblock.co/post/399935/south-koreas-largest-crypto-exchange-upbit-launches-ethereum-blockchain-with-optimism-foundation-support?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-04T18:18:21.000Z",
-          "source": "The Block",
-          "summary": "Upbit is the Optimism Foundation's first client on its \"self-managed\" enterprise tier, giving it control over its core rollup architecture."
         }
       ]
     }
