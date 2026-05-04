@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-04T00:05:13.852Z",
+  "updatedAt": "2026-05-04T04:10:52.200Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -103,7 +103,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-01T20:54:29.000Z",
           "source": "Lifespan.io",
-          "summary": "The Longevity Investor Network (LIN) was created to help bridge the gap between promising longevity startups and the investors capable […]"
+          "summary": "The Longevity Investor Network (LIN) was created to help bridge the gap between promising longevity startups and the investors capable of helping them scale. Through curated […]"
         },
         {
           "title": "Deal between Chrysea, nuBioAge brings spermidine to clinics",
@@ -119,7 +119,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-01T16:05:37.000Z",
           "source": "Lifespan.io",
-          "summary": "Aging is a multifaceted topic, and it’s becoming more and more clear that the only way to deal with it is piece by piece. Here’s what pieces our industry […]"
+          "summary": "Aging is a multifaceted topic, and it’s becoming more and more clear that the only way to deal with it is piece by piece. Here’s what pieces our industry has […]"
         },
         {
           "title": "The implementation gap",
@@ -188,84 +188,84 @@
       ],
       "articles": [
         {
-          "title": "Synthetic biology promised to rewrite life—with the death of its pioneer, J. Craig Venter, how close are scientists?",
-          "url": "https://phys.org/news/2026-05-synthetic-biology-rewrite-life-death.html",
-          "domain": "phys.org",
-          "date": "2026-05-03T17:00:01.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "When scientist J. Craig Venter and his team announced in 2010 that they had created the first cell controlled by a fully synthetic genome, it marked a turning point in how scientists think about life."
+          "title": "Neuronal electricality founded in murburn-thermodynamic principles: 2. Comparisons, evidenced explanations, and predictions",
+          "url": "https://arxiv.org/abs/2605.00014",
+          "domain": "arxiv.org",
+          "date": "2026-05-04T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2605.00014v1 Announce Type: new Abstract: The analyses presented herein demonstrate that neuronal electrical activity can be consistently interpreted as a manifestation of murburn redox-mediated electronic dynamics rather than as a process fundamentally driven by transmembrane ionic flux. By integrating comparison with established models, quantitative predictions, and diverse experimental observations, the murburn framework emerges as a unified and chemically grounded description of excitability. A key strength of the model lies in its predictive structure. Unlike phenomenological frameworks that rely on parameter fitting, the murburn formulation links measurable electrophysiological outputs: such as conduction velocity, waveform morphology, and threshold behavior; to physically interpretable variables including redox kinetics, transport efficiency, and environmental conditions. This enables direct experimental validation through perturbations in oxygen availability, redox balance, solvent properties, ionic strength, and external fields. Importantly, the framework extends beyond neurons to a broader class of excitable systems, including cardiac tissue, photoreceptors, and artificial redox-active materials, suggesting that excitability is a general physicochemical phenomenon rooted in reaction-transport dynamics. While the present work establishes the mid-scale dynamics of neuronal electricality, further developments are required to connect quantum-level electron transfer processes with macroscopic electrophysiological signals such as EEG and EMG. These extensions, along with targeted experimental tests, will determine the ultimate scope and applicability of the murburn paradigm."
         },
         {
-          "title": "How a newly discovered organelle could help reduce cow methane emissions",
-          "url": "https://phys.org/news/2026-05-newly-organelle-cow-methane-emissions.html",
-          "domain": "phys.org",
-          "date": "2026-05-03T15:40:02.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "When cows burp, they send a substantial amount of methane gas into the air, which makes them a leading contributor to greenhouse gas emissions. According to research published in the journal Science, a newly discovered hydrogen-producing structure within the microbes of cow stomachs may influence how much of that gas is expelled."
+          "title": "Self-organized criticality enables conscious integration through brain-body resonance",
+          "url": "https://arxiv.org/abs/2605.00024",
+          "domain": "arxiv.org",
+          "date": "2026-05-04T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2605.00024v1 Announce Type: new Abstract: The \"binding problem\" of how distributed neural activity unifies into conscious experience has remained an open challenge since its articulation in 1890. We present evidence that conscious integration relies on self-organized criticality maintained by brain-body resonance, placing human cognition within the universality class of critical systems. Using 64-channel EEG data, we demonstrate that conventional preprocessing inadvertently eliminates the very integrative dynamics it seeks to measure. Removing physiological signals conventionally treated as \"artifacts\" drastically reduces the shared variance between global phase synchronization and stimulus-evoked amplitude, an effect highly specific to physiological components. We trace this to a fundamental brain-body resonance at 78 milliseconds that establishes zero-lag synchronization driven by robust bidirectional causality. Crucially, raw data exhibits heavy-tailed avalanche dynamics indicative of a near-critical regime, whereas conventionally cleaned data definitively rejects power-law distributions, signaling an artificial shift to subcriticality. Finally, we show these critical dynamics enable holographic information encoding, evidenced by a significant emergence of spatial interference patterns post-resonance. Together, these findings indicate that physiological signals actively and selectively support the coupling between large-scale neural coordination and event-related processing."
         },
         {
-          "title": "AI-powered forecasts sharpen early warning for destructive crop pest",
-          "url": "https://phys.org/news/2026-05-ai-powered-sharpen-early-destructive.html",
-          "domain": "phys.org",
-          "date": "2026-05-01T13:20:05.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "What if farmers could see a pest outbreak coming before the insect ever had a chance to damage their crop? New research from Texas A&M AgriLife Research indicates that artificial intelligence can predict outbreaks much more accurately than traditional methods. The tool could dramatically improve how and when insect pest risks are identified and controlled."
+          "title": "MoDAl: Self-Supervised Neural Modality Discovery via Decorrelation for Speech Neuroprosthesis",
+          "url": "https://arxiv.org/abs/2605.00025",
+          "domain": "arxiv.org",
+          "date": "2026-05-04T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2605.00025v1 Announce Type: new Abstract: Speech neuroprosthesis systems decode intended speech from neural activity in the absence of audible output, offering a path to restoring communication for individuals with speech-impairing conditions. Current approaches decode predominantly from motor cortical areas, discarding others -- such as area 44, part of Broca's area -- that may encode complementary linguistic information. We introduce MoDAl (Modality Decorrelation and Alignment), a framework that discovers complementary neural modalities through the interplay of two objectives in a shared projection space. A contrastive loss aligns each of several parallel brain encoders with the text embeddings of a pretrained large language model (LLM), while a decorrelation loss prevents the encoders from coalescing to duplicative representations. We prove that these objectives are in productive tension: Contrastive alignment induces transitive modality coalescence, which decorrelation must counteract for the framework to discover diverse neurolinguistic modalities. On the Brain-to-Text Benchmark '24, MoDAl reduces word error rate (WER) from 26.3% to 21.6% compared to the previous best end-to-end method, with the gain from incorporating previously discarded area 44 signals arising entirely from the decorrelation mechanism. Analysis of the discovered modalities reveals functional specialization: Encoders receiving area 44 input capture structural and syntactic properties (sentence length, grammatical voice, wh-words), consistent with the neurolinguistic understanding of Broca's area."
         },
         {
-          "title": "TxPert: using multiple knowledge graphs for prediction of transcriptomic perturbation effects",
-          "url": "https://www.nature.com/articles/s41587-026-03113-4",
-          "domain": "nature.com",
-          "date": "2026-05-01T00:00:00.000Z",
-          "source": "Nature Biotechnology",
-          "summary": "Nature Biotechnology, Published online: 01 May 2026; doi:10.1038/s41587-026-03113-4 TxPert predicts unseen single transcriptomic perturbations with accuracy approaching split-half experimental reproducibility."
+          "title": "Toward Magnetic-Field-Free Quantum Computing and Quantum Reservoir Computing in Engineered Organic Materials: A Unified Framework from the 3-Layer Quantum Brain Hypothesis",
+          "url": "https://arxiv.org/abs/2605.00026",
+          "domain": "arxiv.org",
+          "date": "2026-05-04T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2605.00026v1 Announce Type: new Abstract: We extend the spin-vortex-induced loop-current (SVILC) qubit [Wakaura2017] and the 3-Layer Quantum Brain Hypothesis to engineered organic materials operated without any applied magnetic field. Four paths are proposed: (P1) a flavin--nitroxide radical-pair reservoir, (P2) a perchlorotriphenylmethyl (PTM) radical array in a covalent organic framework, (P3) the SVILC analogue on $\\kappa$-(BEDT-TTF)$_2$Cu[N(CN)$_2$]Br (conditional on SVILC confirmation), and (P4) a Su--Schrieffer--Heeger soliton on trans-polyacetylene. We verify the eight SVILC conditions and benchmark five algorithms (QKAN, qDRIFT, control-free QPE, Shor--Regev, Bernstein--Vazirani) plus two ML tasks (spike prediction, MNIST) on a covariant-purification CQEC simulator. With up to 100 trials, paired Wilcoxon tests and Bonferroni correction ($\\alpha\\!=\\!0.05/44$), CQEC gains are significant ($p\\!<\\!10^{-5}$) for all 16 path$\\times$algorithm pairs and peak at $\\gamma\\!=\\!0.5$ with $\\Delta F\\!=\\!+0.303$ for Shor--Regev ($d\\!=\\!64$), directly confirming Petz recovery beyond the entanglement-breaking threshold. Bernstein--Vazirani yields a provable quantum advantage: P2--P4 reach CQEC-corrected one-query success rates $\\ge\\!0.95$ versus classical $2^{-n}$, a $7.6$--$31\\times$ advantage for $n\\!=\\!3$--$5$ (toy-scale benchmark). A tight-binding simulation on the anisotropic triangular lattice reproduces the two-SVQ coupling-vs-distance behaviour of [Wakaura2017] and shows that an external feeding current amplifies the coupling by $\\sim\\!1.9\\!\\times\\!10^{3}$, providing theoretical scaffolding for P3. We quantify the diarylethene photoswitch CZ fidelity ($F_\\mathrm{CZ}\\!\\ge\\!0.987$ for P2--P4) and compare projected manufacturing costs against five competing platforms, finding 10--40$\\times$ cost and 10--200$\\times$ power reduction."
         },
         {
-          "title": "DNA-guided CRISPR–Cas12a effectors for programmable RNA recognition and cleavage",
-          "url": "https://www.nature.com/articles/s41587-026-03120-5",
-          "domain": "nature.com",
-          "date": "2026-05-01T00:00:00.000Z",
-          "source": "Nature Biotechnology",
-          "summary": "Nature Biotechnology, Published online: 01 May 2026; doi:10.1038/s41587-026-03120-5 Synthetic DNA guides (crDNA) reprogram Cas12a nucleases for RNA targeting."
+          "title": "Sure About That Line? Approaching Confidence-Based, Real-Time Line Assignment in Reading Gaze Data",
+          "url": "https://arxiv.org/abs/2605.00033",
+          "domain": "arxiv.org",
+          "date": "2026-05-04T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2605.00033v1 Announce Type: new Abstract: Remote and webcam-based eye tracking in multi-line reading suffers from various noise factors and layout ambiguity, precisely where real-time reading support needs reliable, per-fixation line assignment. Prior work largely addresses this challenge post hoc or by restricting behavior (e.g., disallowing re-reading), undermining interactive use. We propose CONF-LA (Confidence-score-based Online Fixation-to-Line Assignment), a principled, low-latency approach that integrates knowledge about reading behavior and Gaussian line likelihoods over fixations to compute a posterior-line-score and defers assignments when uncertainty is high. Evaluated on existing open-source data, CONF-LA demonstrates stable performance in post hoc analysis and closes the online-offline gap (1-2 %) with a mean per-fixation latency of 0.348 ms. Our approach exhibits particular invariance toward regressions, yielding significant improvement in ad hoc median accuracies on children data (approx. 95 %) over all tested algorithms. We encourage further research in this direction and discuss possibilities for future development."
         },
         {
-          "title": "CRISPR speed patterns can identify multiple viruses and variants simultaneously",
-          "url": "https://phys.org/news/2026-04-crispr-patterns-multiple-viruses-variants.html",
-          "domain": "phys.org",
-          "date": "2026-04-30T21:00:01.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "As the spread of infectious diseases accelerates, technologies that can accurately distinguish multiple viruses in a single test are becoming increasingly important. KAIST and an international research team have developed a new diagnostic technology that simultaneously identifies various viruses and variants by controlling the \"speed\" of gene scissors."
+          "title": "EPITIME: A Computational Framework for Integral Epidemic Models with Structure-Preserving Discretizations",
+          "url": "https://arxiv.org/abs/2605.00067",
+          "domain": "arxiv.org",
+          "date": "2026-05-04T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2605.00067v1 Announce Type: new Abstract: We present EPITIME (EPidemic Integral models TIMe profile Explorer), a computational framework for the simulation of two classes of integral epidemic models: an age of infection model and an information dependent behavioural model. The framework combines structure preserving Non-Standard Finite Difference discretizations with modular implementations in MATLAB and Python, together with routines for parameter handling, input validation, performance assessment, and graphical interaction. The proposed methods preserve key qualitative properties of the continuous problems, including positivity, boundedness, invariant regions, and correct long term behaviour, independently of the time step. We outline the numerical schemes for both model classes and their main analytical properties, including first order convergence. We then describe the software architecture and illustrate its use through numerical experiments on asymptotic behaviour, inverse reconstruction of an infectivity kernel from COVID 19 incidence data, and behavioural dynamics under different memory kernels. Overall, EPITIME provides a reliable and accessible computational environment for the numerical study of renewal epidemic models."
         },
         {
-          "title": "Gene circuits reshape DNA folding and affect how genes are expressed, study finds",
-          "url": "https://phys.org/news/2026-04-gene-circuits-reshape-dna-affect.html",
-          "domain": "phys.org",
-          "date": "2026-04-30T20:30:03.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "When a gene is turned on in a cell, it creates a ripple effect along the DNA strand, changing the physical structure of the strand. A new study by MIT researchers, appearing in Science, shows that these ripples can stimulate or suppress neighboring genes. These effects, which result from the winding or unwinding of neighboring DNA, are determined by the order of genes along a strand of DNA. Genes upstream of the active gene are usually turned up, while those downstream are inhibited."
+          "title": "CRC-Screen: Certified DNA-Synthesis Hazard Screening Under Taxonomic Shift",
+          "url": "https://arxiv.org/abs/2605.00074",
+          "domain": "arxiv.org",
+          "date": "2026-05-04T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2605.00074v1 Announce Type: new Abstract: DNA-synthesis providers screen incoming orders by searching the requested sequence against curated hazard lists. We show that this baseline collapses to a 100% false-flag rate when the hazardous sequence comes from a taxonomic family absent from the reference set: under Conformal Risk Control's certified miss-rate constraint, a low-discrimination signal forces the threshold below the entire test-benign mass. We compose three signals derived from a synthesis order's public annotation: $k$-mer Jaccard similarity to known toxins, the trimmed-mean score of a five-LLM judge panel, and cosine similarity to clustered embedding centroids. Fused under a monotone logistic aggregator and calibrated by Conformal Risk Control, the resulting screener certifies $\\mathbb{E}[\\mathrm{FNR}] \\le \\alpha$. Across ten leave-one-taxonomic-family-out folds at $\\alpha=0.05$ on UniProt KW-0800 reviewed toxins, the calibrated screener achieves 0% test miss rate on every fold and 0% test false-flag rate on nine of ten folds. The bound's finite-sample slack $1/(n_{\\mathrm{cal}}+1)$ caps the certifiable miss rate at 1.77% on our 200-hazard subsample; reaching procurement-grade $\\alpha=10^{-3}$ requires an $18\\times$ larger calibration set, which the full reviewed UniProt KW-0800 corpus is large enough to deliver. The binding constraint on certifiable DNA-synthesis screening is calibration data, not algorithms. Code: https://github.com/najmulhasan-code/crc-screen"
         },
         {
-          "title": "Autumn leaves transformed into biodegradable mulch film can curb farm plastic pollution",
-          "url": "https://phys.org/news/2026-04-autumn-biodegradable-mulch-curb-farm.html",
-          "domain": "phys.org",
-          "date": "2026-04-30T20:00:05.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Fallen leaves, which are discarded every year, have been transformed into a resource that can replace waste plastics, a major nuisance in rural areas. A research team at the Korea Advanced Institute of Science and Technology (KAIST) has developed biodegradable agricultural vinyl made from fallen leaves, presenting a new way to solve the problem of conventional plastic vinyl, which is a cause of soil pollution. The study is published in the journal Green Chemistry."
+          "title": "Tumor containment as an anti-percolation process",
+          "url": "https://arxiv.org/abs/2605.00085",
+          "domain": "arxiv.org",
+          "date": "2026-05-04T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2605.00085v1 Announce Type: new Abstract: Percolation theory from statistical physics has been applied to several aspects of tumor progression. Tumor growth on percolation clusters has been used to model spatial expansion, vascular percolation to describe nutrient supply and transport related percolation to investigate drug and gene delivery. At the molecular level, mutational percolation has been employed to account for the emergence of malignant phenotypes, while inverse percolation to represent treatment-induced structural disruption. We examined whether tumor containment can be interpreted as an anti percolation problem, in which spatial expansion depends on the formation of a connected malignant domain. We implemented a spatial simulation with biologically scaled parameters to represent tissue heterogeneity, local growth, cell movement and clearance. We measured both total malignant area and connectivity metrics, including the largest connected component and the probability of forming a spanning cluster. Our results indicate that tumor size and spatial connectivity are partially independent, with configurations of similar size showing different connectivity patterns. A transition from fragmented to connected structures emerged within a limited parameter range, consistent with a threshold like behavior. Incorporating spatial connectivity into quantitative analysis, our approach provides a complementary way to characterize tumor organization. Potential applications include integration of structural descriptors into computational models of tumor growth, design of experimental systems to probe spatial organization and interpretation of therapeutic approaches via connectivity-based metrics."
         },
         {
-          "title": "Light-activated protein illuminates when embryos can cope with disruptions to cell division",
-          "url": "https://phys.org/news/2026-04-protein-illuminates-embryos-cope-disruptions.html",
-          "domain": "phys.org",
-          "date": "2026-04-30T20:00:01.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Cell division during the early stage of embryo development is a trade-off between speed and accuracy; the cells need to divide quickly to enable rapid growth, but it's important not to introduce errors that could be fatal to the developing embryo. But some stages of embryo development might be more tolerant of errors, coping with them without leading to complete failure."
+          "title": "LNODE: latent dynamics reveal the shared spatiotemporal structure of amyloid-$\\beta$ progression",
+          "url": "https://arxiv.org/abs/2605.00272",
+          "domain": "arxiv.org",
+          "date": "2026-05-04T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2605.00272v1 Announce Type: new Abstract: We introduce LNODE, a mechanism-based phenomenological model for amyloid beta (A$\\beta$) dynamics, calibrated using positron emission tomography (PET) imaging. A$\\beta$ is a key biomarker of Alzheimer's disease. LNODE is designed to support the fusion, harmonization, quantitative analysis, and interpretation of Abeta PET scans. We evaluate LNODE on 1461 subjects in the ADNI cohort and 1070 subjects in the A4 Study, using MUSE and DKT anatomical atlases. LNODE is formulated as a regional neural ordinary differential equation (ODE) model that is jointly calibrated on all available scans within a cohort. The model captures the spatial propagation, proliferation, and clearance of A$\\beta$ and incorporates a latent-state representation that modulates A$\\beta$ dynamics. The temporal evolution of these latent states is governed by cohort-shared parameters, enabling LNODE to represent both population-level trajectories and subject-specific deviations. The proposed model demonstrates strong parameter identifiability and stability properties, supported by synthetic experiments and analytical analysis of the Hessian condition number. To mitigate overfitting and reduce spurious correlations, LNODE is intentionally underparameterized, employing approximately five to ten parameters per subject. Despite this parsimonious parameterization, LNODE achieves $R^2 > 0.99$ in both the ADNI and A4 datasets. LNODE exhibits strong predictive performance: in the A4 cohort, it accurately forecasts the A$\\beta$ PET signal in previously unseen follow-up scans, including cases with inter-scan intervals exceeding four years. Clustering in the learned latent-state space reveals distinct subgroups, consistent with the existence of different subtypes of Alzheimer's disease progression."
         },
         {
-          "title": "Water molecules found to actively drive gene transcription process",
-          "url": "https://phys.org/news/2026-04-molecules-gene-transcription.html",
-          "domain": "phys.org",
-          "date": "2026-04-30T15:00:14.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Researchers have uncovered a previously hidden layer of complexity in how genes are activated, showing that water molecules play a direct and essential role in one of the most fundamental processes in biology: DNA transcription."
+          "title": "Intrinsic Brain Networks Underlying the Experience and Expression of Subclinical Anxiety",
+          "url": "https://arxiv.org/abs/2605.00465",
+          "domain": "arxiv.org",
+          "date": "2026-05-04T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2605.00465v1 Announce Type: new Abstract: Anxiety includes behavioural, physiological, and subjective components that do not always align, and it remains unclear whether these dimensions are supported by distinct intrinsic brain networks. Guided by the two-system framework, we tested whether resting-state functional connectivity (rsFC) differentiates these components in subclinical anxiety. Forty-seven young adults spanning a range of subclinical anxiety levels completed a threat anticipation task measuring behavioral responses (reaction time) and physiological arousal (skin conductance), along with the NIH Fear-Affect self-report of anxiety severity. These measures were related to rsFC using region-of-interest analyses. Higher subclinical anxiety was associated with faster responses under temporally uncertain threat, consistent with increased vigilance, while no association was found with physiological arousal. At the neural level, three connectivity patterns emerged and remained significant after sequential family-wise error correction. Behavioural responses modulated by subclinical anxiety were linked to stronger connectivity between the anterior cingulate cortex (ACC) and insula. Physiological modulation was associated with connectivity between the ACC and orbitofrontal cortex (OFC). Subjective anxiety was associated with increased connectivity between the hippocampus and insula. Additional connections were observed but did not survive stricter correction. Overall, the findings indicate that behavioural, physiological, and subjective aspects of subclinical anxiety map onto partially dissociable but overlapping intrinsic brain networks, extending prior task-based results to resting-state connectivity and informing future work on early neural markers of anxiety."
         }
       ]
     },
@@ -277,6 +277,30 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "Bitcoin rises past $80,000, breaking ‘major’ psychological resistance zone",
+          "url": "https://www.theblock.co/post/399835/bitcoin-rises-past-80000-trump-hormuz-mission?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-04T04:04:11.000Z",
+          "source": "The Block",
+          "summary": "Trump said the US will guide stranded ships through the Strait of Hormuz, while an Iranian official warned that this could violate ceasefire."
+        },
+        {
+          "title": "Michael Saylor’s Strategy pauses weekly bitcoin purchases ahead of Q1 earnings release",
+          "url": "https://www.theblock.co/post/399828/strategy-pauses-bitcoin-purchase-q1-earnings?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-04T03:05:49.000Z",
+          "source": "The Block",
+          "summary": "Strategy's Q1 earnings report is set to release on Tuesday, with Wall Street expecting a $18.98 loss per share."
+        },
+        {
+          "title": "Morgan Stanley's Oldenburg: Bitcoin on U.S. bank balance sheets is coming, just not yet",
+          "url": "https://www.coindesk.com/markets/2026/05/03/morgan-stanley-s-oldenburg-bitcoin-on-u-s-bank-balance-sheets-is-coming-just-not-yet",
+          "domain": "coindesk.com",
+          "date": "2026-05-04T00:30:00.000Z",
+          "source": "CoinDesk",
+          "summary": "Morgan Stanley launched the first bank-issued Bitcoin ETP, but Amy Oldenburg said advisors, regulators and balance sheets still have a long way to go."
+        },
         {
           "title": "Strategy takes Bitcoin buying breather ahead of Q1 earnings report",
           "url": "https://cointelegraph.com/news/strategy-takes-a-bitcoin-buying-breather-ahead-of-q1-earnings-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -332,30 +356,6 @@
           "date": "2026-05-03T14:00:00.000Z",
           "source": "CoinDesk",
           "summary": "New polling of voters suggests they aren't yet warming much to crypto, tending to see it as a negative force in the economy, and they have similar distrust of AI."
-        },
-        {
-          "title": "U.S. voters don't trust Trump administration to oversee crypto sector, CoinDesk poll finds",
-          "url": "https://www.coindesk.com/policy/2026/05/03/u-s-voters-don-t-trust-trump-administration-to-oversee-crypto-sector-coindesk-poll-finds",
-          "domain": "coindesk.com",
-          "date": "2026-05-03T14:00:00.000Z",
-          "source": "CoinDesk",
-          "summary": "The new poll suggests the vast majority of people think that government officials should keep their own financial interests separate from the industry."
-        },
-        {
-          "title": "Here’s what happened in crypto today",
-          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-03T14:00:00.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
-        },
-        {
-          "title": "Mike Cagney’s second act: Turning blockchain into Wall Street’s new plumbing",
-          "url": "https://www.coindesk.com/business/2026/05/03/mike-cagney-s-second-act-turning-blockchain-into-wall-street-s-new-plumbing",
-          "domain": "coindesk.com",
-          "date": "2026-05-03T13:00:00.000Z",
-          "source": "CoinDesk",
-          "summary": "Figure’s $1 billion month capped a years-long push to strip out middlemen from credit markets, bringing real-world assets, lending and even equities onchain."
         }
       ]
     }
