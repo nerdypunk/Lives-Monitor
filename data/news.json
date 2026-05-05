@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-05T22:59:14.531Z",
+  "updatedAt": "2026-05-05T23:58:11.801Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -57,6 +57,14 @@
           "summary": "Bio Protocol Multisig Wallet Transfers 80M BIO to CEX Worth $5.15M &nbsp;&nbsp; Bitget"
         },
         {
+          "title": "Crypto News Today: Bio Protocol (BIO) Rallies on Upbit Listing Buzz as AlphaPepe Adds 100 Holders Daily Before Listing - StreetInsider",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNSTFUWUhVRUlScG5EcEppdml3bFllUGE1blBRcDNoZmlxNXBwdmk5LWM5UnYySGtIUldaOE5wZzh3ZHJNRy1JajZPR2tWZFdmZ3lGSWpYZ2xrZTBwemxPcnhZOTZFS1lUSENGSlBjWlcweUVPTXdaMVhDUlRFanFIWS1kWU04SHlrcS0wV0VFSEltRVlYY3BoaDQxOERaM1p1eVdwcFlhaTFWY1Y1VDdRWm9MdGZ4TDZXcVR6cEo1ZDl6cEdJMnA1MXB1ZC1LclBTeERZc1lzU0syaHp0Qm1Xb3hSWDZjQ2FWb25VZzB2YnpmRUZhSWlPejM5OXd1blNtblJleF8xdFkzbE5wX25lTmlB?oc=5",
+          "domain": "streetinsider.com",
+          "date": "2026-05-01T20:06:05.000Z",
+          "source": "StreetInsider",
+          "summary": "Crypto News Today: Bio Protocol (BIO) Rallies on Upbit Listing Buzz as AlphaPepe Adds 100 Holders Daily Before Listing &nbsp;&nbsp; StreetInsider"
+        },
+        {
           "title": "BIO Token Gains 19% As DeSci Narrative Draws Fresh Trader Interest - Yellow.com",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1NWDBRSEdsNWVRSm9RcWl5TGR1QTV4RnMzenZQQXpnMlh0SXNmUDZrZ1d2UzNRZGVDVTFQQnRSYnFGX24yZzdLTzYwSVBDLXkzeGFCeUl2V2R4M19CY2pNUGtQclhSUQ?oc=5",
           "domain": "yellow.com",
@@ -79,14 +87,6 @@
           "date": "2026-04-30T14:23:53.000Z",
           "source": "Bitget",
           "summary": "BIO (BioProtocol) fluctuates 43.7% in 24 hours: Surge in trading volume and synergy with DeSci sector drive movement &nbsp;&nbsp; Bitget"
-        },
-        {
-          "title": "Insiders Are Quietly Positioning In DeSci While The Rest Watches BTC - Yellow.com",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1uV1J3dTNLdXM3MFdQZ3hqSmp6MEpuNUN6TDNrUVk0cXFSSkZMZGpQbHpFTjJKRFRNU3V4YnBLT2hVbnpwV05FRGYyWWRka0ZxVnFXeWdJTTFxa3RsUWhkQ0RFblV5emExMkhjQjVZbVNQTFdIT2gteERmUQ?oc=5",
-          "domain": "yellow.com",
-          "date": "2026-04-30T12:28:59.000Z",
-          "source": "Yellow.com",
-          "summary": "Insiders Are Quietly Positioning In DeSci While The Rest Watches BTC &nbsp;&nbsp; Yellow.com"
         }
       ]
     },
@@ -119,7 +119,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-05T16:13:22.000Z",
           "source": "Lifespan.io",
-          "summary": "In a new study, the popular supplement creatine seemed to add to some of the beneficial effects of power training [1]. Trying the combination in older people Exercise might be the most potent anti-aging intervention known to humans, […]"
+          "summary": "In a new study, the popular supplement creatine seemed to add to some of the beneficial effects of power training [1]. Trying the combination in older people Exercise might be the most potent […]"
         },
         {
           "title": "Longevity.Technology and AND Capital Ventures launch partnership",
@@ -278,12 +278,28 @@
       ],
       "articles": [
         {
+          "title": "Michael Saylor's Strategy signals potential bitcoin sale to fund dividends obligations",
+          "url": "https://www.coindesk.com/business/2026/05/05/michael-saylor-s-strategy-signals-potential-bitcoin-sale-to-fund-dividends-obligations",
+          "domain": "coindesk.com",
+          "date": "2026-05-05T23:43:44.000Z",
+          "source": "CoinDesk",
+          "summary": "Michael Saylor proposes using bitcoin sales to support dividends, as Strategy reported a $12.54 billion Q1 loss."
+        },
+        {
           "title": "Trust in crypto remains biggest barrier to adoption, say Consensus Miami 2026 panelists",
           "url": "https://www.coindesk.com/policy/2026/05/05/trust-in-crypto-remains-biggest-barrier-to-adoption-say-consensus-miami-2026-panelists",
           "domain": "coindesk.com",
           "date": "2026-05-05T22:39:33.000Z",
           "source": "CoinDesk",
           "summary": "Speakers point to complexity, poor user experience and lack of transparency as key obstacles for mainstream users."
+        },
+        {
+          "title": "Forward Industries, RockawayX back OnRe to build onchain reinsurance on Solana",
+          "url": "https://cointelegraph.com/news/forward-industries-rockawayx-onre-solana-reinsurance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-05T22:20:15.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Investors back a model that moves insurance risk and capital flows onto blockchain rails, as onchain reinsurance looks to attract institutional participation."
         },
         {
           "title": "Ripple CEO says market structure bill not a ‘done deal,’ despite stablecoin compromise",
@@ -340,22 +356,6 @@
           "date": "2026-05-05T21:29:52.000Z",
           "source": "The Block",
           "summary": "The CFTC is considering writing rules to further cement its stance on whether software developers should register as brokers with the agency."
-        },
-        {
-          "title": "Kraken eyes IPO as it partners with MoneyGram to bridge crypto-to-cash gap",
-          "url": "https://www.coindesk.com/business/2026/05/05/kraken-eyes-ipo-as-it-partners-with-moneygram-to-bridge-crypto-to-cash-gap",
-          "domain": "coindesk.com",
-          "date": "2026-05-05T21:29:15.000Z",
-          "source": "CoinDesk",
-          "summary": "Payward and Kraken co-CEO Arjun Sethi says the exchange is “80% ready” to go public, as a new partnership with MoneyGram aims to expand access to digital assets by solving last-mile cash conversion."
-        },
-        {
-          "title": "State Street says institutions want improved blockchain security in wake of recent DeFi attacks",
-          "url": "https://www.coindesk.com/business/2026/05/05/state-street-says-institutions-want-improved-blockchain-security-in-wake-of-recent-defi-attacks",
-          "domain": "coindesk.com",
-          "date": "2026-05-05T21:27:36.000Z",
-          "source": "CoinDesk",
-          "summary": "Angus Fletcher, State Street’s head of digital assets said the young crypto industry needs to find solutions now before trillions in RWAs come on-chain."
         }
       ]
     }
