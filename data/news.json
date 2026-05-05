@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-05T09:21:55.933Z",
+  "updatedAt": "2026-05-05T11:02:42.007Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -28,7 +28,7 @@
           "title": "DeSci Has Raised Millions For Research No VC Would Ever Touch - Yellow.com",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQzAtQWJmSEtGX1pXdWVOR0RsRnhXWGp4S2VYUEhXREJiM1ljR01reDZfS1hwU0g3eTMzaFdOdnVJb3l2R2lNdmdCVEhuUWExYjB0VTNReUIwUlRxTjhrdmlCV1d5R3VXbGtRWFp3eGQ0VTV0SjhZdGpNOGV2dDNYcnVodm9PWWJHYlE?oc=5",
           "domain": "yellow.com",
-          "date": "2026-05-04T01:44:08.000Z",
+          "date": "2026-05-04T06:44:18.000Z",
           "source": "Yellow.com",
           "summary": "DeSci Has Raised Millions For Research No VC Would Ever Touch &nbsp;&nbsp; Yellow.com"
         },
@@ -159,7 +159,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-04T15:05:42.000Z",
           "source": "Lifespan.io",
-          "summary": "A new study has pit an advanced large language model against human physicians in tasks involving complex reasoning, treatment recommendations, and messy real-world patient records [1]. Testing a “thinking” model The dream of a ‘computer doctor’ has existed […]"
+          "summary": "A new study has pit an advanced large language model against human physicians in tasks involving complex reasoning, treatment recommendations, and messy real-world patient records [1]. Testing a “thinking” model The dream of a ‘computer doctor’ has existed since at […]"
         },
         {
           "title": "Scribe highlights CRISPR advances and STX-1150 data at ASGCT, EAS",
@@ -278,6 +278,46 @@
       ],
       "articles": [
         {
+          "title": "Ripple shares North Korea-linked threat data as crypto attacks shift to social engineering",
+          "url": "https://www.theblock.co/post/399996/ripple-north-korea-threat-data?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-05T10:30:39.000Z",
+          "source": "The Block",
+          "summary": "The recent $280 million Drift incident has demonstrated a shift toward more sophisticated social engineering tactics."
+        },
+        {
+          "title": "Crypto platform Bullish to buy Equiniti for $4.25 billion, building tokenized securities infrastructure",
+          "url": "https://www.coindesk.com/business/2026/05/05/crypto-platform-bullish-to-buy-equiniti-for-usd4-25-billion-building-tokenized-securities-infrastructure",
+          "domain": "coindesk.com",
+          "date": "2026-05-05T10:25:00.000Z",
+          "source": "CoinDesk",
+          "summary": "The deal brings a regulated transfer agent into the Bullish stack, expanding the firm's end-to-end tokenization capabilities."
+        },
+        {
+          "title": "Bitcoin tops $80,000 as altcoins rally and risk appetite returns",
+          "url": "https://www.coindesk.com/markets/2026/05/05/bitcoin-tops-usd80-000-as-altcoins-rally-and-risk-appetite-returns",
+          "domain": "coindesk.com",
+          "date": "2026-05-05T10:05:51.000Z",
+          "source": "CoinDesk",
+          "summary": "Crypto markets climb Tuesday with BTC above $80,000, altcoins gaining momentum, and investors rotating into higher-risk plays amid improving sentiment."
+        },
+        {
+          "title": "Bitcoin ETFs pull in $532M as BTC reclaims $80K amid ‘post-ceasefire recovery’",
+          "url": "https://cointelegraph.com/news/spot-bitcoin-etfs-pull-in-520m-as-btc-reclaims-80000-amid-post-ceasefire-recovery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-05T09:56:13.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Spot Bitcoin ETFs pulled in over $532 million on Monday as BTC surged past $80,000 amid improved risk sentiment following the US-Iran ceasefire."
+        },
+        {
+          "title": "US spot bitcoin ETFs draw $532 million as inflows extend to a third day, led by BlackRock and Fidelity",
+          "url": "https://www.theblock.co/post/399990/us-spot-bitcoin-etfs-draw-532-million-as-inflows-extend-to-a-third-day-led-by-blackrock-and-fidelity?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-05T09:54:15.000Z",
+          "source": "The Block",
+          "summary": "U.S. spot bitcoin ETFs drew $532 million on Monday, marking a third straight day of inflows, led by BlackRock and Fidelity."
+        },
+        {
           "title": "Coinbase Australia launches crypto support for self-directed retirement funds",
           "url": "https://www.theblock.co/post/399982/coinbase-australia-launches-smsf-support?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
@@ -316,46 +356,6 @@
           "date": "2026-05-05T06:12:38.000Z",
           "source": "CoinDesk",
           "summary": "Ripple said April's $285 million Drift breach revealed a new pattern of long-cycle social engineering replacing traditional smart contract exploits."
-        },
-        {
-          "title": "Haun Ventures raises $1B, adding AI to crypto focus",
-          "url": "https://cointelegraph.com/news/haun-ventures-raises-1b-crypto-ai-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-05T06:12:09.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Haun Ventures founder Katie Haun said AI will “increasingly begin to conduct economic activity on our behalf,\" and services will need to adapt for that world."
-        },
-        {
-          "title": "Polygon rolls out private stablecoin payments targeting institutions",
-          "url": "https://cointelegraph.com/news/polygon-rolls-out-private-payments-for-institutions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-05T06:08:31.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The new wallet feature hides senders, receivers and amounts onchain while maintaining compliance through know your transaction screening and auditable files."
-        },
-        {
-          "title": "Bitcoin crosses $81,000, ETH, SOL, DOGE steady as options desks bid on further price jump",
-          "url": "https://www.coindesk.com/markets/2026/05/05/bitcoin-crosses-usd81-000-eth-sol-doge-steady-as-options-desks-bid-on-further-price-jump",
-          "domain": "coindesk.com",
-          "date": "2026-05-05T05:50:16.000Z",
-          "source": "CoinDesk",
-          "summary": "Bitcoin is back above $80,000 after Monday's brief reversal on the disputed Iran missile claim, with options markets quietly setting up for a breakout even as skew still favors downside protection."
-        },
-        {
-          "title": "XRP slips below $1.40 on heavy volume, tightening range puts breakout in focus",
-          "url": "https://www.coindesk.com/markets/2026/05/05/xrp-slips-below-usd1-40-on-heavy-volume-tightening-range-puts-breakout-in-focus",
-          "domain": "coindesk.com",
-          "date": "2026-05-05T05:16:24.000Z",
-          "source": "CoinDesk",
-          "summary": "High-volume breakdown reset positioning, but compression between $1.38–$1.44 now points to a larger move."
-        },
-        {
-          "title": "Aave files emergency motion to lift restraining notice on frozen ETH",
-          "url": "https://cointelegraph.com/news/aave-asks-court-to-lift-restraining-notice-on-frozen-kelp-exploit-ether?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-05T03:51:15.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Aave argued that a thief doesn’t gain lawful ownership of property by stealing it and that Gerstein Harrow’s legal argument “defies logic, common sense and the law.”"
         }
       ]
     }
