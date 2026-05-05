@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-05T12:13:58.615Z",
+  "updatedAt": "2026-05-05T14:28:17.644Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -98,6 +98,14 @@
       ],
       "articles": [
         {
+          "title": "The molecules you’ve been ignoring might be aging you",
+          "url": "https://longevity.technology/news/the-molecules-youve-been-ignoring-might-be-aging-you/",
+          "domain": "longevity.technology",
+          "date": "2026-05-05T13:06:24.000Z",
+          "source": "Longevity.Technology",
+          "summary": "From overlooked sugar molecules to early disease detection, glycans are emerging as a powerful lens on biological age and personalized health. What if aging isn’t just written in your DNA, but in how your body responds to everything you’ve been through? Stress. Diet. Relationships. Even the way your immune system learns over time. This week’s […] The post The molecules you’ve been ignoring might be aging you appeared first on Longevity.Technology ."
+        },
+        {
           "title": "Lineage presents 3-year OpRegen results in geographic atrophy",
           "url": "https://longevity.technology/news/lineage-presents-3-year-opregen-results-in-geographic-atrophy/",
           "domain": "longevity.technology",
@@ -159,7 +167,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-04T15:05:42.000Z",
           "source": "Lifespan.io",
-          "summary": "A new study has pit an advanced large language model against human physicians in tasks involving complex reasoning, treatment recommendations, and messy real-world patient records [1]. Testing a […]"
+          "summary": "A new study has pit an advanced large language model against human physicians in tasks involving complex reasoning, treatment recommendations, and messy real-world patient records [1]. Testing a “thinking” model The […]"
         },
         {
           "title": "Scribe highlights CRISPR advances and STX-1150 data at ASGCT, EAS",
@@ -168,14 +176,6 @@
           "date": "2026-05-04T05:31:09.000Z",
           "source": "Longevity.Technology",
           "summary": "Scribe Therapeutics will present engineered CRISPR platform advances and lead cardiometabolic programs at the 29th ASGCT Annual Meeting in Boston, 11-15 May, and at the 94th EAS Congress in Athens, 24-27 May 2026, the company announced. At ASGCT, Scribe is scheduled to deliver two oral presentations and a workshop featuring its Epigenetic Long-Term X-Repressor (ELXR) […] The post Scribe highlights CRISPR advances and STX-1150 data at ASGCT, EAS appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "LifespanningRx launches partner program for peptide therapy",
-          "url": "https://longevity.technology/news/lifespanningrx-launches-partner-program-for-peptide-therapy/",
-          "domain": "longevity.technology",
-          "date": "2026-05-04T05:31:08.000Z",
-          "source": "Longevity.Technology",
-          "summary": "LifespanningRx launched a Partner Program that enables clinics, wellness practices, personal trainers, medspas, recovery centers and performance brands to offer clinician-guided peptide programs without managing inventory, prescriptions, fulfillment or regulatory complexity. According to the company, the program provides licensed U.S.-based clinicians for evaluations and prescriptions where appropriate, pharmacy fulfillment with direct-to-patient shipping, no inventory to […] The post LifespanningRx launches partner program for peptide therapy appeared first on Longevity.Technology ."
         }
       ]
     },
@@ -187,6 +187,22 @@
         "https://phys.org/rss-feed/biology-news/biotechnology/"
       ],
       "articles": [
+        {
+          "title": "Life with one less: Engineered bacteria break the 20-amino-acid rule",
+          "url": "https://phys.org/news/2026-05-life-bacteria-amino-acid.html",
+          "domain": "phys.org",
+          "date": "2026-05-05T14:00:02.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "One of life's many mysteries is how it ended up choosing only a set of 20 amino acids to build proteins for its wide catalog of organisms, from single-celled bacteria to behemoth whales. From a chemical standpoint, many of the canonical amino acids share similar chemical structures and properties, which might make them expendable. This raises an intriguing question: could life manage with one less amino acid?"
+        },
+        {
+          "title": "Tiny insect brain discovery offers a blueprint for faster and more efficient AI and robots",
+          "url": "https://phys.org/news/2026-05-tiny-insect-brain-discovery-blueprint.html",
+          "domain": "phys.org",
+          "date": "2026-05-05T13:40:02.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "The secret behind insects' lightning-fast reactions could offer a blueprint for more energy-efficient robots and self-driving cars, according to a new study challenging our understanding of how brains process information. Published in Nature Communications, the University of Sheffield research shows that house flies and fruit flies do not process visual information passively, as previously believed. Rather than simply watching the world, insects twitch their bodies in sync with what they see. These tiny, jerky movements, such as rapid movements of the eyes called saccades, help their brains receive clearer, faster information about the world around them."
+        },
         {
           "title": "Seaweed integration boosts efficiency and cuts waste in aquaculture, study finds",
           "url": "https://phys.org/news/2026-05-seaweed-boosts-efficiency-aquaculture.html",
@@ -250,22 +266,6 @@
           "date": "2026-05-05T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2605.01290v1 Announce Type: new Abstract: Indoor lighting affects cognition, affect, and behavioural regulation, but these effects are often treated as isolated findings rather than as parts of a unified process. This paper proposes an active inference account of shared indoor lighting in multi-user environments such as offices, classrooms, and libraries. It argues that lighting shapes behaviour through three distinct channels: illuminance modulates perceptual precision, correlated colour temperature modulates arousal relative to circadian optimum, and spectral composition biases behavioural disposition toward engagement or rest. The paper formalises this hypothesis through a proof-of-concept POMDP model of agents performing sustained reading over five hours, using both reading performance and eye-tracking observations. The model generates six falsifiable predictions, all confirmed across 20 Monte Carlo simulations."
-        },
-        {
-          "title": "PhenotypeToGeneDownloaderR: automated multi-source retrieval and validation of phenotype-associated genes",
-          "url": "https://arxiv.org/abs/2605.01378",
-          "domain": "arxiv.org",
-          "date": "2026-05-05T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2605.01378v1 Announce Type: new Abstract: Identifying phenotype-associated genes is a common first step in polygenic risk score construction, enrichment testing, target prioritisation and variant interpretation, but relevant evidence is distributed across heterogeneous databases with different interfaces, formats and evidence models. Here, we present PhenotypeToGeneDownloaderR, a phenotype-guided R/Python pipeline for automated gene retrieval, harmonisation, symbol validation and cross-source summary analysis. Given a phenotype term, the pipeline queries integrated biological databases, standardises per-source outputs, combines gene lists, validates retrieved symbols against the NCBI human gene reference and generates summary tables and visualisations. Across 13 clinically relevant phenotypes and 13 databases, PhenotypeToGeneDownloaderR generated 136,487 raw gene retrievals, with at least one source returning genes for every phenotype. Across all 13 phenotypes, 100,175 of 114,345 combined input symbols were retained after direct or synonym-based validation, corresponding to an 87.6\\% validation rate. Cross-source overlap was low, supporting the complementarity of integrated evidence sources. Against an HPO/ClinVar/OMIM-derived gold standard, the pipeline recovered 1,039 of 1,056 known phenotype-associated genes, corresponding to 98.4\\% recall. PhenotypeToGeneDownloaderR provides a lightweight, reproducible upstream framework for generating candidate gene sets for downstream prioritisation and interpretation. The pipeline is implemented in R and Python, released under the MIT licence, and available at https://github.com/MuhammadMuneeb007/PhenotypeToGeneDownloaderR."
-        },
-        {
-          "title": "Measuring Understanding Through Discrete Compositional Knowledge Structures in Hierarchical Automata",
-          "url": "https://arxiv.org/abs/2605.01430",
-          "domain": "arxiv.org",
-          "date": "2026-05-05T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2605.01430v1 Announce Type: new Abstract: How do we measure genuine understanding in artificial cognitive systems? Current approaches face a measurement gap: probabilistic systems refine confidence gradually, practice-based systems compile knowledge through repeated execution, and neural systems distribute understanding across opaque embedding spaces. We propose that making understanding measurable requires architectures where understanding formation produces discrete, inspectable structural signatures. This paper presents hierarchical automata built from finite state machines representing patterns and higher-order automata representing compositions. Constrained inference constructs automata from single observations. Similarity detection clusters related automata, making concept robustness quantifiable. Graph memory makes compositional knowledge directly inspectable. Metacognitive mechanisms enable observable reconfiguration. We demonstrate understanding measurement in a simple geometric domain. Graph evolution tracking reveals five measurable signatures: immediate representation formation, structural knowledge, generalization capacity, compositional awareness, and metacognitive access. These measurements distinguish structural understanding from statistical correlation. Our contribution is a framework for making understanding measurable through discrete compositional knowledge structures. This measurement capability complements perceptual learning in neural systems and task execution in neurosymbolic architectures."
         }
       ]
     },
@@ -278,84 +278,84 @@
       ],
       "articles": [
         {
-          "title": "Coinbase cuts 14% of staff as it navigates downturn, shifts to AI-native operations",
-          "url": "https://www.theblock.co/post/400023/coinbase-cuts-staff?utm_source=rss&utm_medium=rss",
+          "title": "Sequans sells 1,025 bitcoin to fund debt redemption and buybacks as revenue drops 24.8%",
+          "url": "https://www.theblock.co/post/400035/sequans-sells-1025-bitcoin-to-fund-debt-redemption-and-buybacks-as-revenue-drops-24-8?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-05-05T12:04:12.000Z",
+          "date": "2026-05-05T14:24:13.000Z",
           "source": "The Block",
-          "summary": "Coinbase CEO Brian Armstrong confirmed the layoffs on X, saying that the company's business remains \"volatile\" from quarter to quarter."
+          "summary": "Sequans sold 1,025 bitcoin, cutting its treasury reserves to 1,114 BTC, as Q1 revenue fell 24.8% to $6.1 million."
         },
         {
-          "title": "Standard Chartered expands further into crypto with stake in GSR at $1 billion valuation",
-          "url": "https://www.coindesk.com/business/2026/05/05/standard-chartered-expands-further-into-crypto-with-stake-in-gsr-at-usd1-billion-valuation",
-          "domain": "coindesk.com",
-          "date": "2026-05-05T12:00:17.000Z",
-          "source": "CoinDesk",
-          "summary": "SC Ventures, Standard Chartered’s venture capital division takes a $150 million stake in crypto trading firm GSR at a valuation of more than $1 billion, according to Bloomberg."
-        },
-        {
-          "title": "Andreessen Horowitz raises $2.2 billion in a new fund, saying crypto fundamentals are at an 'all-time high'",
-          "url": "https://www.coindesk.com/business/2026/05/05/andreessen-horowitz-raises-usd2-2-billion-in-a-new-fund-saying-crypto-fundamentals-are-at-an-all-time-high",
-          "domain": "coindesk.com",
-          "date": "2026-05-05T12:00:00.000Z",
-          "source": "CoinDesk",
-          "summary": "The new fund arrives as firms like Haun Ventures raise $1 billion and VC firms adapt to an AI-driven shift in capital."
-        },
-        {
-          "title": "a16z crypto raises $2.2 billion for fifth fund, promotes CTO to general partner",
-          "url": "https://www.theblock.co/post/400012/a16z-crypto-raises-2-2-billion-fifth-fund-promotes-cto-general-partner?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-05T12:00:00.000Z",
-          "source": "The Block",
-          "summary": "a16z crypto has raised $2.2 billion for its fifth fund as it points to growing use of stablecoins, onchain finance, and improving regulation."
-        },
-        {
-          "title": "FalconX and Sygnum partner to launch tokenized credit offering for institutional clients",
-          "url": "https://www.theblock.co/post/399947/falconx-sygnum-partner-tokenized-credit-offering-institutional-clients?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-05T11:55:00.000Z",
-          "source": "The Block",
-          "summary": "FalconX’s facility extends credit through a special-purpose vehicle, backed by overcollateralized loans and monitored in real time."
-        },
-        {
-          "title": "Coinbase cuts 14% of staff as AI reshapes how crypto companies operate",
-          "url": "https://www.coindesk.com/business/2026/05/05/coinbase-cuts-14-of-staff-as-ai-reshapes-how-crypto-companies-operate",
-          "domain": "coindesk.com",
-          "date": "2026-05-05T11:38:59.000Z",
-          "source": "CoinDesk",
-          "summary": "Brian Armstrong, the CEO at Coinbase, announced a workforce reduction of roughly 660 from its current 4,700."
-        },
-        {
-          "title": "Bullish to acquire Equiniti in $4.2 billion deal combining transfer agent and tokenization stack",
-          "url": "https://www.theblock.co/post/400004/bullish-to-acquire-equiniti-in-4-2-billion-deal-combining-transfer-agent-and-tokenization-stack?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-05T11:30:21.000Z",
-          "source": "The Block",
-          "summary": "Bullish agreed to acquire Equiniti in a $4.2 billion deal combining its tokenization stack with the global transfer agent’s infrastructure."
-        },
-        {
-          "title": "Bank of Italy calls for EU to explore tokenized SEPA payments",
-          "url": "https://www.theblock.co/post/400001/bank-of-italy-tokenized-sepa?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-05T11:18:23.000Z",
-          "source": "The Block",
-          "summary": "Bank of Italy's Chiara Scotti said the EU should explore a tokenized extension of its payments system as tokenization grows more \"relevant.\""
-        },
-        {
-          "title": "One bank after another scraps Fed rate-cut forecasts. Bitcoin doesn't care.",
-          "url": "https://www.coindesk.com/daybook-us/2026/05/05/one-bank-after-another-scraps-fed-rate-cut-forecasts-bitcoin-doesn-t-care",
-          "domain": "coindesk.com",
-          "date": "2026-05-05T11:16:21.000Z",
-          "source": "CoinDesk",
-          "summary": "Your day-ahead look for May 5, 2026"
-        },
-        {
-          "title": "Bitcoin taps $81K as long-term holders add 330K BTC: How high can price go?",
-          "url": "https://cointelegraph.com/markets/bitcoin-taps-81k-as-long-term-holders-add-330k-btc-how-high-can-price-go?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "Space and Time rolls out virtual vaults for institutional onchain lending",
+          "url": "https://cointelegraph.com/news/space-and-time-rolls-out-virtual-vaults-for-institutional-onchain-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-05-05T11:16:09.000Z",
+          "date": "2026-05-05T14:00:00.000Z",
           "source": "CoinTelegraph",
-          "summary": "Accumulation by long-term Bitcoin holders, buying by institutional investors and a strengthening technical structure could fuel BTC’s price rise to $95,000 or higher."
+          "summary": "The data blockchain securing onchain finance projects looks to provide lenders and borrowers with agreement-specific collateral solution."
+        },
+        {
+          "title": "Binance changes weekend pricing for commodity TradFi futures",
+          "url": "https://cointelegraph.com/news/binance-changes-off-hours-pricing-method-commodity-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-05T13:58:02.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Binance will shift to an orderbook-weighted pricing model for commodity perpetual futures during off-hours, potentially changing margin and liquidation behavior."
+        },
+        {
+          "title": "Crypto.com’s high-rolling head of marketing to leave after almost six years",
+          "url": "https://www.coindesk.com/business/2026/05/05/crypto-com-s-high-rolling-head-of-marketing-taps-out-after-almost-six-years",
+          "domain": "coindesk.com",
+          "date": "2026-05-05T13:48:32.000Z",
+          "source": "CoinDesk",
+          "summary": "Steven Kalifowitz will be moving on from his role as CMO, effective June 30, and will then continue on as advisor to the CEO."
+        },
+        {
+          "title": "Coinbase cuts 14% of workforce, citing market slump and AI shift",
+          "url": "https://cointelegraph.com/news/coinbase-cuts-14-of-workforce-citing-market-slump-and-ai-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-05T13:36:54.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Brian Armstrong said Coinbase will flatten management layers and require leaders to work as “player-coaches” under the new structure."
+        },
+        {
+          "title": "Bitcoin ‘supercycle’ or bear-market rally? BTC breaking $81K has traders at odds",
+          "url": "https://cointelegraph.com/markets/bitcoin-price-retakes-81k-is-btc-in-bear-market-rally-or-supercycle?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-05T13:34:39.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bitcoin bottom calls grow as analysts target $180,000–$250,000 within a year, fueling debate over whether BTC has resumed its broader bull cycle."
+        },
+        {
+          "title": "Consensus Miami Day 1: Sights and sounds",
+          "url": "https://www.coindesk.com/business/2026/05/05/consensus-miami-day-1-sights-and-sounds",
+          "domain": "coindesk.com",
+          "date": "2026-05-05T13:30:00.000Z",
+          "source": "CoinDesk",
+          "summary": "Consensus Miami 2026 launched on Tuesday. Stay tuned for updates throughout the day."
+        },
+        {
+          "title": "Crypto products post 5th straight week of inflows despite mid-week selloff",
+          "url": "https://cointelegraph.com/news/crypto-products-post-5th-straight-week-of-inflows-despite-mid-week-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-05T13:25:23.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Crypto ETPs shed $619 million over four days before a $737 million Friday session rescued the week, extending the inflow streak to $4.02 billion across five weeks."
+        },
+        {
+          "title": "CoinDesk 20 performance update: index jumps 1.3% as all constituents trade higher",
+          "url": "https://www.coindesk.com/coindesk-indices/2026/05/05/coindesk-20-performance-update-index-jumps-1-3-as-all-constituents-trade-higher",
+          "domain": "coindesk.com",
+          "date": "2026-05-05T13:12:13.000Z",
+          "source": "CoinDesk",
+          "summary": "Internet Computer (ICP) rose 5.2% and Chainlink (LINK) gained 4% since Monday."
+        },
+        {
+          "title": "State Street and Galaxy launch tokenized fund to bring cash management onchain",
+          "url": "https://www.coindesk.com/markets/2026/05/05/state-street-and-galaxy-launch-tokenized-fund-to-bring-cash-management-onchain",
+          "domain": "coindesk.com",
+          "date": "2026-05-05T13:07:01.000Z",
+          "source": "CoinDesk",
+          "summary": "The fund lets institutions earn yield on stablecoins while moving cash onchain with round-the-clock access."
         }
       ]
     }
