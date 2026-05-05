@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-04T23:38:17.134Z",
+  "updatedAt": "2026-05-05T01:20:24.409Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -8,6 +8,14 @@
         "https://news.google.com/rss/search?q=DeSci%20OR%20%22decentralized%20science%22%20OR%20%22BIO%20Protocol%22&hl=en-US&gl=US&ceid=US:en"
       ],
       "articles": [
+        {
+          "title": "BIO doubled in three days, DeSci blossomed: Can AI Agents revive decentralized science? - PANews",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RQzlROGk0MGx6bDRzSUFwbnlHMTlvTk9SSGx3ek9kdUlSR0xMak00SlppRHBnZDFvVW9BNXRWN1ZTVUxoVFp2d3hJMnhIR1dVTXJRZGhNb09kS3BNTDBpVzdTekJXN082NnhLZzBqLWFISW56TmtoeHlsOU42bTg?oc=5",
+          "domain": "panewslab.com",
+          "date": "2026-05-04T09:15:00.000Z",
+          "source": "PANews",
+          "summary": "BIO doubled in three days, DeSci blossomed: Can AI Agents revive decentralized science? &nbsp;&nbsp; PANews"
+        },
         {
           "title": "DeSci Has Raised Millions For Research No VC Would Ever Touch - Yellow.com",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQzAtQWJmSEtGX1pXdWVOR0RsRnhXWGp4S2VYUEhXREJiM1ljR01reDZfS1hwU0g3eTMzaFdOdnVJb3l2R2lNdmdCVEhuUWExYjB0VTNReUIwUlRxTjhrdmlCV1d5R3VXbGtRWFp3eGQ0VTV0SjhZdGpNOGV2dDNYcnVodm9PWWJHYlE?oc=5",
@@ -79,14 +87,6 @@
           "date": "2026-04-30T12:28:59.000Z",
           "source": "Yellow.com",
           "summary": "Insiders Are Quietly Positioning In DeSci While The Rest Watches BTC &nbsp;&nbsp; Yellow.com"
-        },
-        {
-          "title": "5 Top DeSci Projects That Are Currently Running Real-World Clinical Trials - FinanceFeeds",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVmhGQkY5TGN6a2tmWG94OWFiYXR5Q0EwZHI1WWJIUUFzYTZFcmdhcFVWWVhNSlZSVGdINmhqZ3BTazdsODM0MXZZZE13QzNabHE4cXNoYkV5Wkd4Z3c3eVEzUWtJZFdmYThkY0JJR2xOZ2JxenZxS0hVNVV4aUF5a1NVMml6M2kwX29hamZzcjBqbkdVdjdaQ1VnV3EzREQ1SkE?oc=5",
-          "domain": "financefeeds.com",
-          "date": "2026-04-30T11:29:15.000Z",
-          "source": "FinanceFeeds",
-          "summary": "5 Top DeSci Projects That Are Currently Running Real-World Clinical Trials &nbsp;&nbsp; FinanceFeeds"
         }
       ]
     },
@@ -135,7 +135,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-04T15:05:42.000Z",
           "source": "Lifespan.io",
-          "summary": "A new study has pit an advanced large language model against human physicians in tasks involving complex reasoning, treatment recommendations, and messy real-world patient records [1]. Testing a “thinking” model The dream of a ‘computer doctor’ has […]"
+          "summary": "A new study has pit an advanced large language model against human physicians in tasks involving complex reasoning, treatment recommendations, and messy real-world patient records [1]. Testing a “thinking” model […]"
         },
         {
           "title": "Scribe highlights CRISPR advances and STX-1150 data at ASGCT, EAS",
@@ -159,7 +159,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-01T20:54:29.000Z",
           "source": "Lifespan.io",
-          "summary": "The Longevity Investor Network (LIN) was created to help bridge the gap between promising longevity startups and the investors capable of helping them scale. Through curated monthly pitch sessions, educational seminars, […]"
+          "summary": "The Longevity Investor Network (LIN) was created to help bridge the gap between promising longevity startups and the investors capable of […]"
         },
         {
           "title": "Deal between Chrysea, nuBioAge brings spermidine to clinics",
@@ -175,7 +175,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-01T16:05:37.000Z",
           "source": "Lifespan.io",
-          "summary": "Aging is a multifaceted topic, and it’s becoming more and more clear that the only way to deal with it is piece by piece. Here’s what pieces our industry has put […]"
+          "summary": "Aging is a multifaceted topic, and it’s becoming more and more clear that the only way to deal with it is piece by piece. Here’s what pieces our industry has put together in April. Advocacy and Analysis […]"
         }
       ]
     },
@@ -278,6 +278,22 @@
       ],
       "articles": [
         {
+          "title": "Bank trade groups say Senate stablecoin reward fix ‘falls short’ amid deposit protection concerns",
+          "url": "https://www.theblock.co/post/399966/bank-trade-groups-stablecoin-reward?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-05T00:40:22.000Z",
+          "source": "The Block",
+          "summary": "Major banking trade groups said a proposed fix to a key sticking point in passing crypto market structure legislation 'falls short.'"
+        },
+        {
+          "title": "Bitcoin turns risk on as stocks hit new highs and miner profits rise: Is $85K BTC next?",
+          "url": "https://cointelegraph.com/markets/bitcoin-turns-risk-on-as-stocks-hit-new-highs-and-miner-profits-rise-is-85k-btc-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-04T23:24:17.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bitcoin’s recent rally to $80,000 amid improving BTC miner and options markets metrics could create a clear path to $85,000."
+        },
+        {
           "title": "SC Ventures named first external shareholder of GSR following strategic investment",
           "url": "https://www.theblock.co/post/399950/sc-ventures-first-external-shareholder-gsr-strategic-investment?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
@@ -340,22 +356,6 @@
           "date": "2026-05-04T19:51:05.000Z",
           "source": "CoinTelegraph",
           "summary": "Tether’s XAUt tops $3.3 billion as gold reserves reach 154 tons, with demand rising amid geopolitical tensions and shifting expectations for Federal Reserve policy."
-        },
-        {
-          "title": "Price predictions 5/4: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA",
-          "url": "https://cointelegraph.com/markets/price-predictions-54-spx-dxy-btc-eth-xrp-bnb-sol-doge-hype-ada?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-04T18:39:10.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Bitcoin has broken above the $79,500 level, backed by solid buying by institutional investors. Will the altcoins also follow?"
-        },
-        {
-          "title": "Hut 8 swaps Coinbase loan for cheaper FalconX deal, slashing borrowing costs as it bets big on AI",
-          "url": "https://www.coindesk.com/markets/2026/04/28/hut-8-swaps-coinbase-credit-line-for-cheaper-falconx-deal-slashing-borrowing-costs-as-it-bets-big-on-ai",
-          "domain": "coindesk.com",
-          "date": "2026-05-04T18:31:44.000Z",
-          "source": "CoinDesk",
-          "summary": "A new $200 million, 364-day bitcoin-backed facility replaces the Coinbase Credit arrangement, cutting debt costs by 200 basis points."
         }
       ]
     }
