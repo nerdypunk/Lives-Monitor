@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-05T11:02:42.007Z",
+  "updatedAt": "2026-05-05T12:13:58.615Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -159,7 +159,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-04T15:05:42.000Z",
           "source": "Lifespan.io",
-          "summary": "A new study has pit an advanced large language model against human physicians in tasks involving complex reasoning, treatment recommendations, and messy real-world patient records [1]. Testing a “thinking” model The dream of a ‘computer doctor’ has existed since at […]"
+          "summary": "A new study has pit an advanced large language model against human physicians in tasks involving complex reasoning, treatment recommendations, and messy real-world patient records [1]. Testing a […]"
         },
         {
           "title": "Scribe highlights CRISPR advances and STX-1150 data at ASGCT, EAS",
@@ -187,6 +187,14 @@
         "https://phys.org/rss-feed/biology-news/biotechnology/"
       ],
       "articles": [
+        {
+          "title": "Seaweed integration boosts efficiency and cuts waste in aquaculture, study finds",
+          "url": "https://phys.org/news/2026-05-seaweed-boosts-efficiency-aquaculture.html",
+          "domain": "phys.org",
+          "date": "2026-05-05T11:40:01.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "A new study found that cultivating seaweed species alongside marine finfish in integrated multi-trophic aquaculture (IMTA) operations, where seaweeds receive nutrient-rich effluent from fish production, can significantly reduce—and even eliminate—key waste products from marine finfish farming."
+        },
         {
           "title": "BioVeil MATRIX: Uncovering and categorizing vulnerabilities of agentic biological AI scientists",
           "url": "https://arxiv.org/abs/2605.00927",
@@ -258,14 +266,6 @@
           "date": "2026-05-05T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2605.01430v1 Announce Type: new Abstract: How do we measure genuine understanding in artificial cognitive systems? Current approaches face a measurement gap: probabilistic systems refine confidence gradually, practice-based systems compile knowledge through repeated execution, and neural systems distribute understanding across opaque embedding spaces. We propose that making understanding measurable requires architectures where understanding formation produces discrete, inspectable structural signatures. This paper presents hierarchical automata built from finite state machines representing patterns and higher-order automata representing compositions. Constrained inference constructs automata from single observations. Similarity detection clusters related automata, making concept robustness quantifiable. Graph memory makes compositional knowledge directly inspectable. Metacognitive mechanisms enable observable reconfiguration. We demonstrate understanding measurement in a simple geometric domain. Graph evolution tracking reveals five measurable signatures: immediate representation formation, structural knowledge, generalization capacity, compositional awareness, and metacognitive access. These measurements distinguish structural understanding from statistical correlation. Our contribution is a framework for making understanding measurable through discrete compositional knowledge structures. This measurement capability complements perceptual learning in neural systems and task execution in neurosymbolic architectures."
-        },
-        {
-          "title": "From Cortical Synchronous Rhythm to Brain Inspired Learning Mechanism: An Oscillatory Spiking Neural Network with Time-Delayed Coordination",
-          "url": "https://arxiv.org/abs/2605.01656",
-          "domain": "arxiv.org",
-          "date": "2026-05-05T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2605.01656v1 Announce Type: new Abstract: Human cognition emerges from coordinated spiking dynamics in distributed neural circuits, where information is encoded via both firing rates and precise spike timing determined by brain rhythms. Inspired by this notion, we propose a brain-inspired learning primitive in which cognition-level neural synchrony emerges through iterative bottom-up and top-down interactions between micro-scale dynamics of spiking neurons and a macro-scale mechanism of oscillatory synchronization. Specifically, we model each parcel (e.g., a cortical region or an image pixel) in the target system as a spiking neuron embedded in a predefined connectivity scaffold. Low-level information is encoded in a spatiotemporal domain, where neurons are selectively grouped and fire spontaneously over time through self-organized dynamics. In the bottom-up route, oscillatory synchronization is formed from past spiking activity accumulated over a finite memory window. Since brain dynamics operate in a regime of partial and transient synchronization rather than global phase locking, we model oscillatory coordination using a time-delayed synchronization formulation, which enables a top-down modulation of heterogeneous neural spiking for a large-scale distributed system. Together, we devise a spiking-by-synchronization neural network (S2-Net) that uses rhythmic timing as a control mechanism for efficient information processing. Promising results have been achieved across a broad range of tasks, including neural activity decoding, energy-efficient signal processing, temporal binding and semantic reasoning."
         }
       ]
     },
@@ -278,84 +278,84 @@
       ],
       "articles": [
         {
-          "title": "Ripple shares North Korea-linked threat data as crypto attacks shift to social engineering",
-          "url": "https://www.theblock.co/post/399996/ripple-north-korea-threat-data?utm_source=rss&utm_medium=rss",
+          "title": "Coinbase cuts 14% of staff as it navigates downturn, shifts to AI-native operations",
+          "url": "https://www.theblock.co/post/400023/coinbase-cuts-staff?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-05-05T10:30:39.000Z",
+          "date": "2026-05-05T12:04:12.000Z",
           "source": "The Block",
-          "summary": "The recent $280 million Drift incident has demonstrated a shift toward more sophisticated social engineering tactics."
+          "summary": "Coinbase CEO Brian Armstrong confirmed the layoffs on X, saying that the company's business remains \"volatile\" from quarter to quarter."
         },
         {
-          "title": "Crypto platform Bullish to buy Equiniti for $4.25 billion, building tokenized securities infrastructure",
-          "url": "https://www.coindesk.com/business/2026/05/05/crypto-platform-bullish-to-buy-equiniti-for-usd4-25-billion-building-tokenized-securities-infrastructure",
+          "title": "Standard Chartered expands further into crypto with stake in GSR at $1 billion valuation",
+          "url": "https://www.coindesk.com/business/2026/05/05/standard-chartered-expands-further-into-crypto-with-stake-in-gsr-at-usd1-billion-valuation",
           "domain": "coindesk.com",
-          "date": "2026-05-05T10:25:00.000Z",
+          "date": "2026-05-05T12:00:17.000Z",
           "source": "CoinDesk",
-          "summary": "The deal brings a regulated transfer agent into the Bullish stack, expanding the firm's end-to-end tokenization capabilities."
+          "summary": "SC Ventures, Standard Chartered’s venture capital division takes a $150 million stake in crypto trading firm GSR at a valuation of more than $1 billion, according to Bloomberg."
         },
         {
-          "title": "Bitcoin tops $80,000 as altcoins rally and risk appetite returns",
-          "url": "https://www.coindesk.com/markets/2026/05/05/bitcoin-tops-usd80-000-as-altcoins-rally-and-risk-appetite-returns",
+          "title": "Andreessen Horowitz raises $2.2 billion in a new fund, saying crypto fundamentals are at an 'all-time high'",
+          "url": "https://www.coindesk.com/business/2026/05/05/andreessen-horowitz-raises-usd2-2-billion-in-a-new-fund-saying-crypto-fundamentals-are-at-an-all-time-high",
           "domain": "coindesk.com",
-          "date": "2026-05-05T10:05:51.000Z",
+          "date": "2026-05-05T12:00:00.000Z",
           "source": "CoinDesk",
-          "summary": "Crypto markets climb Tuesday with BTC above $80,000, altcoins gaining momentum, and investors rotating into higher-risk plays amid improving sentiment."
+          "summary": "The new fund arrives as firms like Haun Ventures raise $1 billion and VC firms adapt to an AI-driven shift in capital."
         },
         {
-          "title": "Bitcoin ETFs pull in $532M as BTC reclaims $80K amid ‘post-ceasefire recovery’",
-          "url": "https://cointelegraph.com/news/spot-bitcoin-etfs-pull-in-520m-as-btc-reclaims-80000-amid-post-ceasefire-recovery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "a16z crypto raises $2.2 billion for fifth fund, promotes CTO to general partner",
+          "url": "https://www.theblock.co/post/400012/a16z-crypto-raises-2-2-billion-fifth-fund-promotes-cto-general-partner?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-05T12:00:00.000Z",
+          "source": "The Block",
+          "summary": "a16z crypto has raised $2.2 billion for its fifth fund as it points to growing use of stablecoins, onchain finance, and improving regulation."
+        },
+        {
+          "title": "FalconX and Sygnum partner to launch tokenized credit offering for institutional clients",
+          "url": "https://www.theblock.co/post/399947/falconx-sygnum-partner-tokenized-credit-offering-institutional-clients?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-05T11:55:00.000Z",
+          "source": "The Block",
+          "summary": "FalconX’s facility extends credit through a special-purpose vehicle, backed by overcollateralized loans and monitored in real time."
+        },
+        {
+          "title": "Coinbase cuts 14% of staff as AI reshapes how crypto companies operate",
+          "url": "https://www.coindesk.com/business/2026/05/05/coinbase-cuts-14-of-staff-as-ai-reshapes-how-crypto-companies-operate",
+          "domain": "coindesk.com",
+          "date": "2026-05-05T11:38:59.000Z",
+          "source": "CoinDesk",
+          "summary": "Brian Armstrong, the CEO at Coinbase, announced a workforce reduction of roughly 660 from its current 4,700."
+        },
+        {
+          "title": "Bullish to acquire Equiniti in $4.2 billion deal combining transfer agent and tokenization stack",
+          "url": "https://www.theblock.co/post/400004/bullish-to-acquire-equiniti-in-4-2-billion-deal-combining-transfer-agent-and-tokenization-stack?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-05T11:30:21.000Z",
+          "source": "The Block",
+          "summary": "Bullish agreed to acquire Equiniti in a $4.2 billion deal combining its tokenization stack with the global transfer agent’s infrastructure."
+        },
+        {
+          "title": "Bank of Italy calls for EU to explore tokenized SEPA payments",
+          "url": "https://www.theblock.co/post/400001/bank-of-italy-tokenized-sepa?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-05T11:18:23.000Z",
+          "source": "The Block",
+          "summary": "Bank of Italy's Chiara Scotti said the EU should explore a tokenized extension of its payments system as tokenization grows more \"relevant.\""
+        },
+        {
+          "title": "One bank after another scraps Fed rate-cut forecasts. Bitcoin doesn't care.",
+          "url": "https://www.coindesk.com/daybook-us/2026/05/05/one-bank-after-another-scraps-fed-rate-cut-forecasts-bitcoin-doesn-t-care",
+          "domain": "coindesk.com",
+          "date": "2026-05-05T11:16:21.000Z",
+          "source": "CoinDesk",
+          "summary": "Your day-ahead look for May 5, 2026"
+        },
+        {
+          "title": "Bitcoin taps $81K as long-term holders add 330K BTC: How high can price go?",
+          "url": "https://cointelegraph.com/markets/bitcoin-taps-81k-as-long-term-holders-add-330k-btc-how-high-can-price-go?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-05-05T09:56:13.000Z",
+          "date": "2026-05-05T11:16:09.000Z",
           "source": "CoinTelegraph",
-          "summary": "Spot Bitcoin ETFs pulled in over $532 million on Monday as BTC surged past $80,000 amid improved risk sentiment following the US-Iran ceasefire."
-        },
-        {
-          "title": "US spot bitcoin ETFs draw $532 million as inflows extend to a third day, led by BlackRock and Fidelity",
-          "url": "https://www.theblock.co/post/399990/us-spot-bitcoin-etfs-draw-532-million-as-inflows-extend-to-a-third-day-led-by-blackrock-and-fidelity?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-05T09:54:15.000Z",
-          "source": "The Block",
-          "summary": "U.S. spot bitcoin ETFs drew $532 million on Monday, marking a third straight day of inflows, led by BlackRock and Fidelity."
-        },
-        {
-          "title": "Coinbase Australia launches crypto support for self-directed retirement funds",
-          "url": "https://www.theblock.co/post/399982/coinbase-australia-launches-smsf-support?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-05T08:42:56.000Z",
-          "source": "The Block",
-          "summary": "Coinbase Australia has launched crypto support for self-directed retirement funds, offering investors another avenue to diversify portfolios."
-        },
-        {
-          "title": "DeFi lender Aave asks court to block $71 million crypto seizure tied to North Korea claims",
-          "url": "https://www.coindesk.com/policy/2026/05/05/defi-lender-aave-asks-court-to-block-usd71-million-crypto-seizure-tied-to-north-korea-claims",
-          "domain": "coindesk.com",
-          "date": "2026-05-05T08:18:23.000Z",
-          "source": "CoinDesk",
-          "summary": "The filing challenges a New York restraining notice that froze ETH on Arbitrum after the rsETH exploit, with Aave arguing the funds belong to users, not North Korea judgment creditors"
-        },
-        {
-          "title": "Stablecoin proposal still ‘falls short’ of protecting bank deposits: US banks",
-          "url": "https://cointelegraph.com/news/bankers-still-says-new-proposal-in-clarity-act-falls-short-of-protecting-bank-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-05T07:07:27.000Z",
-          "source": "CoinTelegraph",
-          "summary": "US Senator Thom Tillis said the current text of the CLARITY Act offers a compromise for the crypto industry and banks and provides a bipartisan path for the bill’s passage."
-        },
-        {
-          "title": "Bitcoin used to hate inflation. Now it might be the opposite",
-          "url": "https://www.coindesk.com/markets/2026/05/05/bitcoin-used-to-hate-inflation-now-it-might-be-the-opposite",
-          "domain": "coindesk.com",
-          "date": "2026-05-05T06:45:26.000Z",
-          "source": "CoinDesk",
-          "summary": "Bitcoin is rallying alongside inflation signals, defying the traditional macro playbook."
-        },
-        {
-          "title": "Ripple to share North Korean threat intelligence with crypto firms",
-          "url": "https://www.coindesk.com/tech/2026/05/05/ripple-to-share-north-korean-threat-intelligence-with-crypto-firms",
-          "domain": "coindesk.com",
-          "date": "2026-05-05T06:12:38.000Z",
-          "source": "CoinDesk",
-          "summary": "Ripple said April's $285 million Drift breach revealed a new pattern of long-cycle social engineering replacing traditional smart contract exploits."
+          "summary": "Accumulation by long-term Bitcoin holders, buying by institutional investors and a strengthening technical structure could fuel BTC’s price rise to $95,000 or higher."
         }
       ]
     }
