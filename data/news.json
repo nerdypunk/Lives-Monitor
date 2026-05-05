@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-05T17:53:31.288Z",
+  "updatedAt": "2026-05-05T19:28:15.769Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -23,14 +23,6 @@
           "date": "2026-05-05T06:48:01.000Z",
           "source": "AMBCrypto",
           "summary": "BIO - Bio Protocol &nbsp;&nbsp; AMBCrypto"
-        },
-        {
-          "title": "BIO doubled in three days, DeSci blossomed: Can AI Agents revive decentralized science? - PANews",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RQzlROGk0MGx6bDRzSUFwbnlHMTlvTk9SSGx3ek9kdUlSR0xMak00SlppRHBnZDFvVW9BNXRWN1ZTVUxoVFp2d3hJMnhIR1dVTXJRZGhNb09kS3BNTDBpVzdTekJXN082NnhLZzBqLWFISW56TmtoeHlsOU42bTg?oc=5",
-          "domain": "panewslab.com",
-          "date": "2026-05-04T09:15:00.000Z",
-          "source": "PANews",
-          "summary": "BIO doubled in three days, DeSci blossomed: Can AI Agents revive decentralized science? &nbsp;&nbsp; PANews"
         },
         {
           "title": "DeSci Has Raised Millions For Research No VC Would Ever Touch - Yellow.com",
@@ -87,6 +79,14 @@
           "date": "2026-05-01T03:37:22.000Z",
           "source": "KuCoin",
           "summary": "DeSci, AI, or Meme: Where Crypto Capital Flows in Mid-2026 &nbsp;&nbsp; KuCoin"
+        },
+        {
+          "title": "BIO (BioProtocol) fluctuates 43.7% in 24 hours: Surge in trading volume and synergy with DeSci sector drive movement - Bitget",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sTE9xaUpIaVlNaDBud3lzZnk1NUI3clBURFY5RjRDbnpiZ3E5NDhkNmIxTTk5VFFoR1k3M0RRNERBM0JwNXZoeW5mWmthTFgwdERwZHRpbzlmZTJ6bE5HM0VBY1ItRVJxZVHSAWpBVV95cUxNbExPcWlKSGlZTWgwbnd5c2Z5NTVCN3JQVERWOUY0Q256YmdxOTQ4ZDZiMU05OVRRaEdZNzNEUTREQTNCcDV2aHluZlprYUxYMHREcGR0aW85ZmUyemxORzNFQWNSLUVScWVR?oc=5",
+          "domain": "bitget.com",
+          "date": "2026-04-30T14:23:53.000Z",
+          "source": "Bitget",
+          "summary": "BIO (BioProtocol) fluctuates 43.7% in 24 hours: Surge in trading volume and synergy with DeSci sector drive movement &nbsp;&nbsp; Bitget"
         }
       ]
     },
@@ -119,7 +119,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-05T16:13:22.000Z",
           "source": "Lifespan.io",
-          "summary": "In a new study, the popular supplement creatine seemed to add to some of the beneficial effects of power training [1]. Trying the […]"
+          "summary": "In a new study, the popular supplement creatine seemed to add to some of the beneficial effects of power training [1]. Trying the combination in older people Exercise might be the most potent anti-aging intervention known to humans, but with […]"
         },
         {
           "title": "Longevity.Technology and AND Capital Ventures launch partnership",
@@ -187,6 +187,14 @@
         "https://phys.org/rss-feed/biology-news/biotechnology/"
       ],
       "articles": [
+        {
+          "title": "As sargassum floods Florida beaches, researchers uncover new use as food-grade ingredient",
+          "url": "https://phys.org/news/2026-05-sargassum-florida-beaches-uncover-food.html",
+          "domain": "phys.org",
+          "date": "2026-05-05T19:20:05.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "As record-breaking amounts of sargassum seaweed drift toward Florida's shores, researchers at Florida International University are exploring how the coastal nuisance could become a valuable ingredient in everyday foods."
+        },
         {
           "title": "Super transformer aims to bring order to biology's data under one AI model",
           "url": "https://phys.org/news/2026-05-super-aims-biology-ai.html",
@@ -258,14 +266,6 @@
           "date": "2026-05-05T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2605.01083v1 Announce Type: new Abstract: Human pluripotent stem cell-derived cardiomyocytes (hPSC-CMs) are a promising therapy for regenerating myocardium after infarction, but their use is limited by graft-related arrhythmias that frequently occur shortly after transplantation. Experimental studies indicate that these arrhythmias can originate within the graft, which may act as an ectopic pacemaker, yet the mechanisms governing successful excitation of host tissue remain poorly understood. In particular, the role of electrical coupling at the graft-host interface is important, but difficult to measure directly or control. Computer modelling can help here. Here, we present a computational framework that enables systematic investigation of graft-host electrical interactions using a physiologically interpretable parameterisation. We model the graft-host interface as an internal boundary with a defined specific conductance, allowing direct control over coupling strength in units that correspond to measurable tissue properties. We formulate the governing equations and implement the computations using both finite-difference and finite-element discretisations in established cardiac modelling platforms. Using representative anatomical and physiological configurations, we demonstrate how variations in interface conductance influence the ability of spontaneous graft activity to initiate propagating excitation in host tissue. This framework provides a reproducible, mechanistically transparent tool for studying graft-related arrhythmogenesis and lays a foundation for evaluating strategies to mitigate arrhythmic risk in cardiac cell therapy."
-        },
-        {
-          "title": "Heat-tree: Cross-platform software for interactive and embeddable phylogenetic tree visualization and editing",
-          "url": "https://arxiv.org/abs/2605.01109",
-          "domain": "arxiv.org",
-          "date": "2026-05-05T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2605.01109v1 Announce Type: new Abstract: Phylogenetic trees are the primary framework for conveying evolutionary relationships. While many tools exist for visualizing phylogenetic trees, most are limited to static graphics, require coding expertise, or are developed for a specific website and not easily reusable or extensible. To address these limitations, we developed heat-tree, a collection of software packages in JavaScript, R, and Python for interactive visualization, manipulation, and editing of phylogenetic trees and their associated metadata. Heat-tree allows for the creation of customizable, web-compatible tree visualizations that can be easily embedded in R Markdown, Jupyter Notebooks, and Quarto documents, as well as directly in HTML/JavaScript applications and websites. The package supports radial and rectangular tree layouts, automated translation of metadata values into visual encodings on the tree, interactive tree editing, and export capabilities for publication-quality figures. All visualization parameters are definable programmatically or interactively using the comprehensive graphical user interface included with each visualization. Heat-tree was designed to be a user-friendly software package for interactive tree viewing, manipulation, editing, and self-contained, embeddable visualization across software environments."
         }
       ]
     },
@@ -277,6 +277,62 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "SoFi to launch its stablecoin on Solana, citing speed and cost",
+          "url": "https://www.theblock.co/post/400098/sofi-to-launch-its-stablecoin-on-solana-citing-speed-and-cost?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-05T19:15:55.000Z",
+          "source": "The Block",
+          "summary": "SoFiUSD is a fully reserved U.S. dollar stablecoin issued by SoFi Bank, nationally chartered bank."
+        },
+        {
+          "title": "Tennessee Bankers Association names Stablecore as preferred digital asset provider",
+          "url": "https://cointelegraph.com/news/tennessee-bankers-association-stablecore-digital-asset-provider?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-05T19:11:47.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Regional lenders gain access to infrastructure for stablecoins, tokenized deposits and crypto-backed lending without building systems in-house, signaling wider bank adoption."
+        },
+        {
+          "title": "Drift outlines a recovery plan for users after $295 million DPRK-linked exploit",
+          "url": "https://www.coindesk.com/business/2026/05/05/drift-outlines-a-recovery-plan-for-users-after-usd295-million-dprk-linked-exploit",
+          "domain": "coindesk.com",
+          "date": "2026-05-05T18:57:18.000Z",
+          "source": "CoinDesk",
+          "summary": "The lending protocol proposed tokenized claims, a revenue-backed pool and a security overhaul as it works with law enforcement to recover the stolen funds."
+        },
+        {
+          "title": "Tokenization won't disrupt banking rails but improve them, Wall Street executives say",
+          "url": "https://www.coindesk.com/business/2026/05/05/tokenization-won-t-disrupt-banking-rails-but-improve-them-wall-street-executives-say",
+          "domain": "coindesk.com",
+          "date": "2026-05-05T18:55:33.000Z",
+          "source": "CoinDesk",
+          "summary": "Executives from Citigroup, JPMorgan and DTCC said at Consensus that genuine client demand is driving real-world use of tokenized assets."
+        },
+        {
+          "title": "Bitcoin extends gains to $81,500 as tokenization push lifts Bullish, Galaxy, Centrifuge",
+          "url": "https://www.coindesk.com/markets/2026/05/05/bitcoin-extends-gains-to-usd81-500-as-tokenization-push-lifts-bullish-galaxy-centrifuge",
+          "domain": "coindesk.com",
+          "date": "2026-05-05T18:52:16.000Z",
+          "source": "CoinDesk",
+          "summary": "Crypto market momentum could extend further unless geopolitical risks flare up again, one analyst said."
+        },
+        {
+          "title": "Crypto Fear and Greed Index turns neutral for first time since January: Is $100K BTC next?",
+          "url": "https://cointelegraph.com/markets/crypto-fear-and-greed-flips-to-neutral-for-the-first-time-since-january?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-05T18:35:46.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Improving investor confidence supports Bitcoin’s hold on $80,000, as the Crypto Fear and Greed Index exited the “Extreme Fear” zone and now reads “neutral.” Are the bulls back in control?"
+        },
+        {
+          "title": "US prosecutors ask for leniency for ex-Celsius exec, citing cooperation",
+          "url": "https://cointelegraph.com/news/us-prosecutors-recommendation-celsius-exec-sentencing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-05T18:01:30.000Z",
+          "source": "CoinTelegraph",
+          "summary": "While Roni Cohen-Pavon’s lawyers have asked for time served, US Attorney Jay Clayton was unspecific in the federal government’s recommendation, requesting the judge defer to sentencing guidelines."
+        },
         {
           "title": "Rep. Steven Horsford pitches PARITY Act as 'durable floor' for crypto tax at Consensus Miami",
           "url": "https://www.coindesk.com/policy/2026/05/05/rep-steven-horsford-pitches-parity-act-as-durable-floor-for-crypto-tax-at-consensus-miami",
@@ -300,62 +356,6 @@
           "date": "2026-05-05T17:24:01.000Z",
           "source": "CoinDesk",
           "summary": "Speaking at Consensus Miami 2026, the Solana co-founder said that he is excited to see 'Alpenglow' upgrade go live later this year, which could come as early as next quarter."
-        },
-        {
-          "title": "Western Union’s Solana-based stablecoin could reshape its payment model, analyst says",
-          "url": "https://www.coindesk.com/business/2026/05/05/western-union-s-solana-based-stablecoin-could-reshape-its-payment-model-analyst-says",
-          "domain": "coindesk.com",
-          "date": "2026-05-05T17:22:22.000Z",
-          "source": "CoinDesk",
-          "summary": "Western Union launched USDPT, a dollar-backed stablecoin on Solana, issued by Anchorage Digital Bank, for 24/7 settlement with agents and partners."
-        },
-        {
-          "title": "MoonPay acquires Solana execution layer firm DFlow used by Coinbase, Phantom",
-          "url": "https://www.theblock.co/post/400078/moonpay-acquires-solana-execution-layer-firm-dflow-used-coinbase-phantom?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-05T17:21:11.000Z",
-          "source": "The Block",
-          "summary": "DFlow is used by both Coinbase and Phantom and has processed over $50 billion in cumulative trading volume."
-        },
-        {
-          "title": "Figure targets Fannie Mae and Freddie Mac in mortgage push, citing massive cost cuts for borrowers",
-          "url": "https://www.coindesk.com/business/2026/05/05/figure-targets-fannie-mae-and-freddie-mac-in-mortgage-push-citing-massive-cost-cuts-for-borrowers",
-          "domain": "coindesk.com",
-          "date": "2026-05-05T17:10:51.000Z",
-          "source": "CoinDesk",
-          "summary": "The firm offers rapid service, targeting the sub-$300,000 loan segment, with HELOC applications approved in 5 minutes and funding in 3 days."
-        },
-        {
-          "title": "Bernstein cites $4T tokenized credit opportunity for Figure Technology stock",
-          "url": "https://cointelegraph.com/news/figure-stock-bernstein-tokenized-credit-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-05T17:06:56.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Bernstein points to Figure’s expansion beyond home equity lending into blockchain-based credit, as tokenization begins to scale across broader loan markets."
-        },
-        {
-          "title": "XRP price copies 2025 chart fractal that last time sparked 66% gains",
-          "url": "https://cointelegraph.com/markets/xrp-replays-2025-fractal-that-sparked-a-66-price-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-05T17:02:42.000Z",
-          "source": "CoinTelegraph",
-          "summary": "XRP price broke out of a multi-month bull flag, while other chart technicals are also supporting more upside in the near term."
-        },
-        {
-          "title": "Ripple CEO Brad Garlinghouse warns next two weeks are critical for crypto legislation",
-          "url": "https://www.theblock.co/post/400073/ripple-ceo-brad-garlinghouse-warns-next-two-weeks-are-critical-for-crypto-legislation?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-05T16:32:28.000Z",
-          "source": "The Block",
-          "summary": "The next two weeks will be pivotal in passing broader cryptocurrency legislation, says Ripple CEO Brad Garlinghouse."
-        },
-        {
-          "title": "Ripple CEO Brad Garlinghouse says Clarity better than chaos as Senate hits key moment",
-          "url": "https://www.coindesk.com/policy/2026/05/05/ripple-ceo-brad-garlinghouse-says-clarity-better-than-chaos-as-senate-hits-key-moment",
-          "domain": "coindesk.com",
-          "date": "2026-05-05T16:28:06.000Z",
-          "source": "CoinDesk",
-          "summary": "The crypto market structure Clarity Act needs to get to its next step, a Senate hearing, this month to have a reasonable chance, Garlinghouse said."
         }
       ]
     }
