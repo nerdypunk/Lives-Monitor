@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-05T04:44:15.006Z",
+  "updatedAt": "2026-05-05T07:07:30.555Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -8,6 +8,14 @@
         "https://news.google.com/rss/search?q=DeSci%20OR%20%22decentralized%20science%22%20OR%20%22BIO%20Protocol%22&hl=en-US&gl=US&ceid=US:en"
       ],
       "articles": [
+        {
+          "title": "BIO - Bio Protocol - AMBCrypto",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE45RjIyV0VEcEVXYldMa0J6Sk03eFh6Q1RTUjdaZjRaU3pSNDIxSjRpS0E0RWhIWFF5LWtCU1ZrV0JacHh2eHEtbWNhcEEtWHN4NXZB?oc=5",
+          "domain": "ambcrypto.com",
+          "date": "2026-05-05T06:48:01.000Z",
+          "source": "AMBCrypto",
+          "summary": "BIO - Bio Protocol &nbsp;&nbsp; AMBCrypto"
+        },
         {
           "title": "BIO doubled in three days, DeSci blossomed: Can AI Agents revive decentralized science? - PANews",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RQzlROGk0MGx6bDRzSUFwbnlHMTlvTk9SSGx3ek9kdUlSR0xMak00SlppRHBnZDFvVW9BNXRWN1ZTVUxoVFp2d3hJMnhIR1dVTXJRZGhNb09kS3BNTDBpVzdTekJXN082NnhLZzBqLWFISW56TmtoeHlsOU42bTg?oc=5",
@@ -79,14 +87,6 @@
           "date": "2026-04-30T14:23:53.000Z",
           "source": "Bitget",
           "summary": "BIO (BioProtocol) fluctuates 43.7% in 24 hours: Surge in trading volume and synergy with DeSci sector drive movement &nbsp;&nbsp; Bitget"
-        },
-        {
-          "title": "Insiders Are Quietly Positioning In DeSci While The Rest Watches BTC - Yellow.com",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1uV1J3dTNLdXM3MFdQZ3hqSmp6MEpuNUN6TDNrUVk0cXFSSkZMZGpQbHpFTjJKRFRNU3V4YnBLT2hVbnpwV05FRGYyWWRka0ZxVnFXeWdJTTFxa3RsUWhkQ0RFblV5emExMkhjQjVZbVNQTFdIT2gteERmUQ?oc=5",
-          "domain": "yellow.com",
-          "date": "2026-04-30T12:28:59.000Z",
-          "source": "Yellow.com",
-          "summary": "Insiders Are Quietly Positioning In DeSci While The Rest Watches BTC &nbsp;&nbsp; Yellow.com"
         }
       ]
     },
@@ -103,7 +103,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-04T15:05:42.000Z",
           "source": "Lifespan.io",
-          "summary": "A new study has pit an advanced large language model against human physicians in tasks involving complex reasoning, treatment recommendations, and messy real-world patient records [1]. Testing a “thinking” model The […]"
+          "summary": "A new study has pit an advanced large language model against human physicians in tasks involving complex reasoning, treatment recommendations, and messy real-world patient records [1]. Testing a […]"
         },
         {
           "title": "The Longevity Investor Network Looks Back at 2025",
@@ -111,7 +111,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-01T20:54:29.000Z",
           "source": "Lifespan.io",
-          "summary": "The Longevity Investor Network (LIN) was created to help bridge the gap between promising longevity startups and the investors capable of helping them scale. Through curated monthly pitch sessions, educational seminars, collaborative […]"
+          "summary": "The Longevity Investor Network (LIN) was created to help bridge the gap between promising longevity startups and the investors capable of helping them scale. Through curated monthly pitch sessions, […]"
         },
         {
           "title": "Rejuvenation Roundup April 2026",
@@ -119,7 +119,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-01T16:05:37.000Z",
           "source": "Lifespan.io",
-          "summary": "Aging is a multifaceted topic, and it’s becoming more and more clear that the only way to deal with it is piece by piece. Here’s what pieces our industry has put together in April. Advocacy and […]"
+          "summary": "Aging is a multifaceted topic, and it’s becoming more and more clear that the only way to deal with it is piece by piece. Here’s what pieces our industry has […]"
         },
         {
           "title": "Some Researchers Choose Replacement Over Repair in Aging",
@@ -127,7 +127,7 @@
           "domain": "lifespan.io",
           "date": "2026-04-30T17:00:49.000Z",
           "source": "Lifespan.io",
-          "summary": "A perspective published in Aging Cell details the replacement-based approaches being investigated by several research organizations. Repair versus replacement This perspective begins by noting the inherent difficulty of rejuvenating the human body because of the vast variety of interventions […]"
+          "summary": "A perspective published in Aging Cell details the replacement-based approaches being investigated by several research organizations. Repair versus replacement This perspective begins by noting the inherent difficulty of rejuvenating […]"
         },
         {
           "title": "Daytime Napping and Mortality Association in Older Adults",
@@ -135,7 +135,7 @@
           "domain": "lifespan.io",
           "date": "2026-04-29T16:12:07.000Z",
           "source": "Lifespan.io",
-          "summary": "A recent study found an association between longer and more frequent daytime napping and higher mortality risk. The authors suggest using napping frequency and duration as behavioral markers of increased mortality risk […]"
+          "summary": "A recent study found an association between longer and more frequent daytime napping and higher mortality risk. The authors suggest using napping frequency and duration as behavioral markers of increased mortality risk [1]. Common […]"
         },
         {
           "title": "A Popular Senolytic Treatment Causes Brain Damage in Mice",
@@ -143,7 +143,7 @@
           "domain": "lifespan.io",
           "date": "2026-04-28T19:52:24.000Z",
           "source": "Lifespan.io",
-          "summary": "A new study calls for caution in using the well-known senolytic treatment of dasatinib and quercetin (D+Q), showing that it causes damage in certain regions of the brain, similar to what is observed in multiple sclerosis [1]. Stem […]"
+          "summary": "A new study calls for caution in using the well-known senolytic treatment of dasatinib and quercetin (D+Q), showing that it causes damage in certain regions of the brain, similar to what is observed in […]"
         },
         {
           "title": "Obesity’s Effects on the Immune System May Linger for Years",
@@ -151,7 +151,7 @@
           "domain": "lifespan.io",
           "date": "2026-04-28T16:02:44.000Z",
           "source": "Lifespan.io",
-          "summary": "A new study has suggested that T cells might retain a pro-inflammatory phenotype long after normal weight is regained following a period of obesity. In mice, the effect lasts for weeks, while […]"
+          "summary": "A new study has suggested that T cells might retain a pro-inflammatory phenotype long after normal weight is regained following a period of obesity. In mice, the effect lasts for weeks, while its existence and duration in humans […]"
         },
         {
           "title": "A Robust Senescence Response Helps Wounds Heal",
@@ -159,7 +159,7 @@
           "domain": "lifespan.io",
           "date": "2026-04-27T16:20:15.000Z",
           "source": "Lifespan.io",
-          "summary": "A team of scientists has examined how younger and older mice heal from wounds and found that more robust senescent cell activation in […]"
+          "summary": "A team of scientists has examined how younger and older mice heal from wounds and found that more robust senescent cell activation in younger animals helps them heal faster. A double-edged […]"
         },
         {
           "title": "Reprogrammed Cardiomyocytes Soften the Blow in Heart Attack",
@@ -167,7 +167,7 @@
           "domain": "lifespan.io",
           "date": "2026-04-24T16:03:15.000Z",
           "source": "Lifespan.io",
-          "summary": "A new study has found that partial reprogramming mitigates the damage of myocardial infarction in mice by helping heart muscle cells to complete division [1]. When heart cells get […]"
+          "summary": "A new study has found that partial reprogramming mitigates the damage of myocardial infarction in mice by helping heart muscle cells to complete division [1]. When heart cells get stuck When a heart attack (myocardial infarction, MI) kills […]"
         },
         {
           "title": "It’s Springtime and the Rejuvenation Field Is Flourishing",
@@ -175,7 +175,7 @@
           "domain": "lifespan.io",
           "date": "2026-04-23T16:15:58.000Z",
           "source": "Lifespan.io",
-          "summary": "For those of us in the Northern Hemisphere, spring is here. This is a time of renewal and hope for better times ahead, echoing what our field is trying to achieve: […]"
+          "summary": "For those of us in the Northern Hemisphere, spring is here. This is a time of renewal and hope for better times ahead, echoing what our field is trying to achieve: the […]"
         }
       ]
     },
@@ -278,6 +278,54 @@
       ],
       "articles": [
         {
+          "title": "Bitcoin used to hate inflation. Now it might be the opposite",
+          "url": "https://www.coindesk.com/markets/2026/05/05/bitcoin-used-to-hate-inflation-now-it-might-be-the-opposite",
+          "domain": "coindesk.com",
+          "date": "2026-05-05T06:45:26.000Z",
+          "source": "CoinDesk",
+          "summary": "Bitcoin is rallying alongside inflation signals, defying the traditional macro playbook."
+        },
+        {
+          "title": "Ripple to share North Korean threat intelligence with crypto firms",
+          "url": "https://www.coindesk.com/tech/2026/05/05/ripple-to-share-north-korean-threat-intelligence-with-crypto-firms",
+          "domain": "coindesk.com",
+          "date": "2026-05-05T06:12:38.000Z",
+          "source": "CoinDesk",
+          "summary": "Ripple said April's $285 million Drift breach revealed a new pattern of long-cycle social engineering replacing traditional smart contract exploits."
+        },
+        {
+          "title": "Haun Ventures raises $1B, adding AI to crypto focus",
+          "url": "https://cointelegraph.com/news/haun-ventures-raises-1b-crypto-ai-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-05T06:12:09.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Haun Ventures founder Katie Haun said AI will “increasingly begin to conduct economic activity on our behalf,\" and services will need to adapt for that world."
+        },
+        {
+          "title": "Polygon rolls out private stablecoin payments targeting institutions",
+          "url": "https://cointelegraph.com/news/polygon-rolls-out-private-payments-for-institutions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-05T06:08:31.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The new wallet feature hides senders, receivers and amounts onchain while maintaining compliance through know your transaction screening and auditable files."
+        },
+        {
+          "title": "Bitcoin crosses $81,000, ETH, SOL, DOGE steady as options desks bid on further price jump",
+          "url": "https://www.coindesk.com/markets/2026/05/05/bitcoin-crosses-usd81-000-eth-sol-doge-steady-as-options-desks-bid-on-further-price-jump",
+          "domain": "coindesk.com",
+          "date": "2026-05-05T05:50:16.000Z",
+          "source": "CoinDesk",
+          "summary": "Bitcoin is back above $80,000 after Monday's brief reversal on the disputed Iran missile claim, with options markets quietly setting up for a breakout even as skew still favors downside protection."
+        },
+        {
+          "title": "XRP slips below $1.40 on heavy volume, tightening range puts breakout in focus",
+          "url": "https://www.coindesk.com/markets/2026/05/05/xrp-slips-below-usd1-40-on-heavy-volume-tightening-range-puts-breakout-in-focus",
+          "domain": "coindesk.com",
+          "date": "2026-05-05T05:16:24.000Z",
+          "source": "CoinDesk",
+          "summary": "High-volume breakdown reset positioning, but compression between $1.38–$1.44 now points to a larger move."
+        },
+        {
           "title": "Aave files emergency motion to lift restraining notice on frozen ETH",
           "url": "https://cointelegraph.com/news/aave-asks-court-to-lift-restraining-notice-on-frozen-kelp-exploit-ether?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
@@ -307,55 +355,7 @@
           "domain": "cointelegraph.com",
           "date": "2026-05-05T02:04:47.000Z",
           "source": "CoinTelegraph",
-          "summary": "Western Union is one of several remittance firms that announced stablecoin plans after the US passed the stablecoin-friendly GENIUS Act in July."
-        },
-        {
-          "title": "Bank trade groups say Senate stablecoin reward fix ‘falls short’ amid deposit protection concerns",
-          "url": "https://www.theblock.co/post/399966/bank-trade-groups-stablecoin-reward?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-05T00:40:22.000Z",
-          "source": "The Block",
-          "summary": "Major banking trade groups said a proposed fix to a key sticking point in passing crypto market structure legislation 'falls short.'"
-        },
-        {
-          "title": "Bitcoin turns risk on as stocks hit new highs and miner profits rise: Is $85K BTC next?",
-          "url": "https://cointelegraph.com/markets/bitcoin-turns-risk-on-as-stocks-hit-new-highs-and-miner-profits-rise-is-85k-btc-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-04T23:24:17.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Bitcoin’s recent rally to $80,000 amid improving BTC miner and options markets metrics could create a clear path to $85,000."
-        },
-        {
-          "title": "SC Ventures named first external shareholder of GSR following strategic investment",
-          "url": "https://www.theblock.co/post/399950/sc-ventures-first-external-shareholder-gsr-strategic-investment?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-04T23:00:00.000Z",
-          "source": "The Block",
-          "summary": "The move deepens a relationship between the firms struck when GSR invested in the SC Ventures-backed tokenization platform Libeara."
-        },
-        {
-          "title": "World Liberty sues Justin Sun for defamation in WLFI dispute",
-          "url": "https://cointelegraph.com/news/trump-linked-wlfi-platform-sues-justin-sun-for-defamation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-04T22:34:41.000Z",
-          "source": "CoinTelegraph",
-          "summary": "World Liberty Financial claimed Sun engaged in defamatory tactics and prohibited token transfers, including shorting the WLFI token and conducting straw sales on behalf of others."
-        },
-        {
-          "title": "DTCC eyes October tokenized securities launch with 50 DeFi and TradFi giants",
-          "url": "https://cointelegraph.com/news/dtcc-eyes-october-tokenized-securities-launch-with-dozens-of-wall-street-giants?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-04T21:55:00.000Z",
-          "source": "CoinTelegraph",
-          "summary": "With $114 trillion in custodied liquid assets, Depository Trust & Clearing Corporation looks to position tokenization as future of existing financial system."
-        },
-        {
-          "title": "Here’s what happened in crypto today",
-          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-04T21:55:00.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
+          "summary": "Western Union is one of several remittance companies that announced stablecoin plans after the US passed the stablecoin-friendly GENIUS Act in July."
         }
       ]
     }
