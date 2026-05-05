@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-05T20:43:04.322Z",
+  "updatedAt": "2026-05-05T21:45:45.767Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -119,7 +119,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-05T16:13:22.000Z",
           "source": "Lifespan.io",
-          "summary": "In a new study, the popular supplement creatine seemed to add to some of the beneficial effects of power training [1]. Trying the combination in older people […]"
+          "summary": "In a new study, the popular supplement creatine seemed to add to some of the beneficial effects of power training [1]. Trying the combination in older people Exercise might be the […]"
         },
         {
           "title": "Longevity.Technology and AND Capital Ventures launch partnership",
@@ -187,6 +187,14 @@
         "https://phys.org/rss-feed/biology-news/biotechnology/"
       ],
       "articles": [
+        {
+          "title": "Digitizing microscope slides can uncover billions of fossils for natural history",
+          "url": "https://phys.org/news/2026-05-digitizing-microscope-uncover-billions-fossils.html",
+          "domain": "phys.org",
+          "date": "2026-05-05T21:30:01.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Approximately 145 million: That's the number of specimens—including plants, animals, minerals, and human artifacts—curators estimate are held in the Smithsonian National Museum of Natural History. However, these estimates do not reflect the billions of tiny individual specimens contained on microscope slides—thin pieces of glass that fix objects in place for observation—each representing a record of a species at a specific place and time."
+        },
         {
           "title": "As sargassum floods Florida beaches, researchers uncover new use as food-grade ingredient",
           "url": "https://phys.org/news/2026-05-sargassum-florida-beaches-uncover-food.html",
@@ -258,14 +266,6 @@
           "date": "2026-05-05T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2605.01056v1 Announce Type: new Abstract: Hill functions, the standard tool for modelling gene regulatory networks, carry three structural flaws when the cooperativity exponent is non-integer: loss of global smoothness, silent complex-valued arithmetic corruption of ODE trajectories, and an identically zero basal production rate that traps bistable models in off-states. Logistic functions $f^\\pm$, being globally $C^\\infty$, real-valued for all arguments, and strictly positive at zero, resolve all three simultaneously. For a two-gene negative-feedback oscillator, local asymptotic stability is established for all positive parameters via the Routh--Hurwitz criterion, and no Hopf bifurcation is possible without time delays. For bistable positive autoregulation, saddle-node thresholds are characterised through explicit transcendental equations; with biophysically grounded \\textit{E.~coli} parameters, basal logistic production drives off-state escape in $\\approx 44$~min while the Hill model remains permanently trapped. The 11-gene Traynard cell-cycle Boolean network is translated automatically via the product-of-logistics De~Morgan formalism and integrated without warnings, all variables remaining bounded and non-negative. The De~Morgan framework places every repressor threshold at a positive measurable concentration, whereas the weighted-sum formulation of Samuilik et al.\\ places repressor critical points at negative concentrations, rendering them biologically inert. On an 80-gene Boolean-derived ODE system with $n = 3.509$, the Hill solver entered silent complex-valued contamination at $t \\approx 52.64$ and terminated near $t \\approx 63$--$65$; the logistic formulation completed $t \\in [0, 200]$ without a single warning. The always-positive production rate ensures full controllability, enabling sliding mode, model predictive, and feedback-linearisation strategies where Hill-based formulations fail."
-        },
-        {
-          "title": "Modelling the electrophysiological interactions between human pluripotent cell-derived cardiomyocite grafts and host ventricular tissue",
-          "url": "https://arxiv.org/abs/2605.01083",
-          "domain": "arxiv.org",
-          "date": "2026-05-05T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2605.01083v1 Announce Type: new Abstract: Human pluripotent stem cell-derived cardiomyocytes (hPSC-CMs) are a promising therapy for regenerating myocardium after infarction, but their use is limited by graft-related arrhythmias that frequently occur shortly after transplantation. Experimental studies indicate that these arrhythmias can originate within the graft, which may act as an ectopic pacemaker, yet the mechanisms governing successful excitation of host tissue remain poorly understood. In particular, the role of electrical coupling at the graft-host interface is important, but difficult to measure directly or control. Computer modelling can help here. Here, we present a computational framework that enables systematic investigation of graft-host electrical interactions using a physiologically interpretable parameterisation. We model the graft-host interface as an internal boundary with a defined specific conductance, allowing direct control over coupling strength in units that correspond to measurable tissue properties. We formulate the governing equations and implement the computations using both finite-difference and finite-element discretisations in established cardiac modelling platforms. Using representative anatomical and physiological configurations, we demonstrate how variations in interface conductance influence the ability of spontaneous graft activity to initiate propagating excitation in host tissue. This framework provides a reproducible, mechanistically transparent tool for studying graft-related arrhythmogenesis and lays a foundation for evaluating strategies to mitigate arrhythmic risk in cardiac cell therapy."
         }
       ]
     },
@@ -278,84 +278,84 @@
       ],
       "articles": [
         {
-          "title": "CME Group to launch cash-settled bitcoin volatility futures",
-          "url": "https://www.theblock.co/post/400121/cme-group-to-launch-cash-settled-bitcoin-volatility-futures?utm_source=rss&utm_medium=rss",
+          "title": "CFTC looks to cement non-custodial software developer protections following Phantom no-action letter",
+          "url": "https://www.theblock.co/post/400133/cftc-looks-to-cement-non-custodial-software-developer-protections-following-phantom-no-action-letter?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-05-05T20:39:36.000Z",
+          "date": "2026-05-05T21:29:52.000Z",
           "source": "The Block",
-          "summary": "Traders use volatility products to speculate on or hedge against swings without having to take a directional bet on prices."
+          "summary": "The CFTC is considering writing rules to further cement its stance on whether software developers should register as brokers with the agency."
         },
         {
-          "title": "‘We do not see a middle ground’: TD Cowen says stablecoin yield fight could still delay crypto bill",
-          "url": "https://www.theblock.co/post/400115/we-do-not-see-a-middle-ground-td-cowen-stablecoin-yield-fight-crypto-bill?utm_source=rss&utm_medium=rss",
+          "title": "Kraken eyes IPO as it partners with MoneyGram to bridge crypto-to-cash gap",
+          "url": "https://www.coindesk.com/business/2026/05/05/kraken-eyes-ipo-as-it-partners-with-moneygram-to-bridge-crypto-to-cash-gap",
+          "domain": "coindesk.com",
+          "date": "2026-05-05T21:29:15.000Z",
+          "source": "CoinDesk",
+          "summary": "Payward and Kraken co-CEO Arjun Sethi says the exchange is “80% ready” to go public, as a new partnership with MoneyGram aims to expand access to digital assets by solving last-mile cash conversion."
+        },
+        {
+          "title": "State Street says institutions want improved blockchain security in wake of recent DeFi attacks",
+          "url": "https://www.coindesk.com/business/2026/05/05/state-street-says-institutions-want-improved-blockchain-security-in-wake-of-recent-defi-attacks",
+          "domain": "coindesk.com",
+          "date": "2026-05-05T21:27:36.000Z",
+          "source": "CoinDesk",
+          "summary": "Angus Fletcher, State Street’s head of digital assets said the young crypto industry needs to find solutions now before trillions in RWAs come on-chain."
+        },
+        {
+          "title": "Crypto's 'barbell': speculation and stablecoin payments drive adoption, Tempo's Romero says",
+          "url": "https://www.coindesk.com/business/2026/05/05/crypto-s-barbell-speculation-and-stablecoin-payments-drive-adoption-tempo-s-romero-says",
+          "domain": "coindesk.com",
+          "date": "2026-05-05T21:25:01.000Z",
+          "source": "CoinDesk",
+          "summary": "Stablecoins are quietly powering real-world money flows as other crypto experiments than speculative trading have failed to scale, Romero said at Consensus 2026."
+        },
+        {
+          "title": "Citi exec says fragmented crypto systems risk repeating old banking problems",
+          "url": "https://www.coindesk.com/business/2026/05/05/citi-exec-says-fragmented-crypto-systems-risk-repeating-old-banking-problems",
+          "domain": "coindesk.com",
+          "date": "2026-05-05T21:23:00.000Z",
+          "source": "CoinDesk",
+          "summary": "Tokenized money efforts face limits as corporate clients demand real-time payments that work seamlessly across banks, Citi’s Ryan Rugg said at Consensus in Miami."
+        },
+        {
+          "title": "Kelp DAO ditches LayerZero for Chainlink’s cross-chain infrastructure following $292 million exploit",
+          "url": "https://www.theblock.co/post/400131/kelp-dao-ditches-layerzero-chainlink-cross-chain-infrastructure-292-million-exploit?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-05-05T20:34:47.000Z",
+          "date": "2026-05-05T21:22:19.000Z",
           "source": "The Block",
-          "summary": "The dispute could still delay the crypto bill and reduce the chances of it passing this year, despite a proposed compromise, the firm said."
+          "summary": "Many onlookers blame LayerZero's default infrastructure setup because the cross-chain bridge that was attacked used a 1-of-1 configuration."
         },
         {
-          "title": "Kelp claims that LayerZero approved the setup it blamed for $292 million bridge hack",
-          "url": "https://www.coindesk.com/web3/2026/05/05/kelp-claims-that-layerzero-approved-the-setup-it-blamed-for-usd292-million-bridge-hack",
+          "title": "Overseas demand for U.S. equities is growing, says Robinhood's Johan Kerbrart",
+          "url": "https://www.coindesk.com/business/2026/05/05/robinhood-vp-johann-kerbrat-recommends-global-portfolios-as-demand-for-u-s-stocks-rises",
           "domain": "coindesk.com",
-          "date": "2026-05-05T20:21:49.000Z",
+          "date": "2026-05-05T21:19:26.000Z",
           "source": "CoinDesk",
-          "summary": "The $292M exploit, linked to North Korean hackers, led Kelp to migrate its rsETH off LayerZero's \"OFT\" standard to Chainlink's \"CCIP.\""
+          "summary": "The trading app's senior vice president said tokenization, 24-hour trading, and regulatory shifts are driving broader investor access beyond domestic markets."
         },
         {
-          "title": "Strategy posts $12.54 billion Q1 loss on declining bitcoin price",
-          "url": "https://www.coindesk.com/markets/2026/05/05/strategy-posts-usd12-54-billion-q1-loss-on-declining-bitcoin-price",
+          "title": "Crypto ETFs go mainstream as traditional finance locks in",
+          "url": "https://www.coindesk.com/business/2026/05/05/crypto-etfs-go-mainstream-as-traditional-finance-locks-in",
           "domain": "coindesk.com",
-          "date": "2026-05-05T20:06:30.000Z",
+          "date": "2026-05-05T21:17:27.000Z",
           "source": "CoinDesk",
-          "summary": "The price of bitcoin fell from about $87,000 to $68,000 during the first three months of 2026."
+          "summary": "As traditional finance deepens its footprint, issuers say ETFs are reshaping access, liquidity, and the global structure of digital asset investing."
         },
         {
-          "title": "SoFi to launch its stablecoin on Solana, citing speed and cost",
-          "url": "https://www.theblock.co/post/400098/sofi-to-launch-its-stablecoin-on-solana-citing-speed-and-cost?utm_source=rss&utm_medium=rss",
+          "title": "Strategy posts $12.5 billion Q1 loss as execs tout STRC ‘big success’",
+          "url": "https://www.theblock.co/post/400096/strategy-posts-12-5-billion-q1-loss-execs-tout-strc-big-success?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-05-05T19:15:55.000Z",
+          "date": "2026-05-05T21:17:02.000Z",
           "source": "The Block",
-          "summary": "SoFiUSD is a fully reserved U.S. dollar stablecoin issued by SoFi Bank, a nationally chartered bank."
+          "summary": "The premier bitcoin treasury company said strong demand for STRC helped it raise $5.58 billion out of a total $11.68 billion so far this year."
         },
         {
-          "title": "Tennessee Bankers Association names Stablecore as preferred digital asset provider",
-          "url": "https://cointelegraph.com/news/tennessee-bankers-association-stablecore-digital-asset-provider?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-05T19:11:47.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Regional lenders gain access to infrastructure for stablecoins, tokenized deposits and crypto-backed lending without building systems in-house, signaling wider bank adoption."
-        },
-        {
-          "title": "Drift outlines a recovery plan for users after $295 million DPRK-linked exploit",
-          "url": "https://www.coindesk.com/business/2026/05/05/drift-outlines-a-recovery-plan-for-users-after-usd295-million-dprk-linked-exploit",
-          "domain": "coindesk.com",
-          "date": "2026-05-05T18:57:18.000Z",
-          "source": "CoinDesk",
-          "summary": "The lending protocol proposed tokenized claims, a revenue-backed pool and a security overhaul as it works with law enforcement to recover the stolen funds."
-        },
-        {
-          "title": "Tokenization won't disrupt banking rails but improve them, Wall Street executives say",
-          "url": "https://www.coindesk.com/business/2026/05/05/tokenization-won-t-disrupt-banking-rails-but-improve-them-wall-street-executives-say",
-          "domain": "coindesk.com",
-          "date": "2026-05-05T18:55:33.000Z",
-          "source": "CoinDesk",
-          "summary": "Executives from Citigroup, JPMorgan and DTCC said at Consensus that genuine client demand is driving real-world use of tokenized assets."
-        },
-        {
-          "title": "Bitcoin extends gains to $81,500 as tokenization push lifts Bullish, Galaxy, Centrifuge",
-          "url": "https://www.coindesk.com/markets/2026/05/05/bitcoin-extends-gains-to-usd81-500-as-tokenization-push-lifts-bullish-galaxy-centrifuge",
-          "domain": "coindesk.com",
-          "date": "2026-05-05T18:52:16.000Z",
-          "source": "CoinDesk",
-          "summary": "Crypto market momentum could extend further unless geopolitical risks flare up again, one analyst said."
-        },
-        {
-          "title": "Crypto Fear and Greed Index turns neutral for first time since January: Is $100K BTC next?",
-          "url": "https://cointelegraph.com/markets/crypto-fear-and-greed-flips-to-neutral-for-the-first-time-since-january?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-05T18:35:46.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Improving investor confidence supports Bitcoin’s hold on $80,000, as the Crypto Fear and Greed Index exited the “Extreme Fear” zone and now reads “neutral.” Are the bulls back in control?"
+          "title": "Ledger integrates Hyperliquid perps trading in its hardware wallets via Yield.xyz",
+          "url": "https://www.theblock.co/post/400110/ledger-hyperliquid-perps-trading-hardware-wallets-yield-xyz?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-05T21:00:00.000Z",
+          "source": "The Block",
+          "summary": "About 20% of Ledger users will be able to access Hyperliquid's onchain perps markets from their hardware wallets."
         }
       ]
     }
