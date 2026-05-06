@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-06T19:04:32.583Z",
+  "updatedAt": "2026-05-06T20:47:46.780Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -9,12 +9,12 @@
       ],
       "articles": [
         {
-          "title": "NanoVita Labs Launches $NANA Token on PancakeSwap – A New Era for AI-Driven Decentralized Science - bitget.com",
+          "title": "NanoVita Labs Launches $NANA Token on PancakeSwap – A New Era for AI-Driven Decentralized Science - Bitget",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB4QUl5bUgzNVlfbEhLZFFKckhLMDVIeUNzd3ZldzcwaEFfVlhuMHpjTWRCQTRuZ2pzZjEzUnFTcFpGU1czbVZpUVlPY1JBdFFSTS13RzhfYXVxUFJsOXBORmpSVdIBY0FVX3lxTFB4QUl5bUgzNVlfbEhLZFFKckhLMDVIeUNzd3ZldzcwaEFfVlhuMHpjTWRCQTRuZ2pzZjEzUnFTcFpGU1czbVZpUVlPY1JBdFFSTS13RzhfYXVxUFJsOXBORmpSVQ?oc=5",
           "domain": "bitget.com",
           "date": "2026-05-06T05:11:58.000Z",
-          "source": "bitget.com",
-          "summary": "NanoVita Labs Launches $NANA Token on PancakeSwap – A New Era for AI-Driven Decentralized Science &nbsp;&nbsp; bitget.com"
+          "source": "Bitget",
+          "summary": "NanoVita Labs Launches $NANA Token on PancakeSwap – A New Era for AI-Driven Decentralized Science &nbsp;&nbsp; Bitget"
         },
         {
           "title": "BIO doubled in three days, DeSci blossomed: Can AI Agents revive decentralized science? - PANews",
@@ -65,12 +65,12 @@
           "summary": "Bio Protocol Jumps 53.85% in Intraday Trading &nbsp;&nbsp; bloomingbit"
         },
         {
-          "title": "Bio Protocol Multisig Wallet Transfers 80M BIO to CEX Worth $5.15M - bitget.com",
+          "title": "Bio Protocol Multisig Wallet Transfers 80M BIO to CEX Worth $5.15M - Bitget",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50N21PS05qNUM3TGtjd1R4eUlfdkp2WW1WVzEwSXNyNzhyWFVJRkMzaF9Mb1N3a3ZvM2RUV0RSd0R3RGR6ZWYwTXI3cEg1YTZJWGxFN1FYTnRDY3Q1eWfSAWNBVV95cUxPcjVSNTNrYko4cVRxY2RMS0dpb0c2dHdKWmQ3SGo2aTdndUlfWmZrMjlnckwxbmVna1B2MnZ0azBoVWIyaDJFRUVGRm1Zcm5ZR0wxc19XcDIycTE3d1VtSGV0bm8?oc=5",
           "domain": "bitget.com",
           "date": "2026-05-02T10:36:40.000Z",
-          "source": "bitget.com",
-          "summary": "Bio Protocol Multisig Wallet Transfers 80M BIO to CEX Worth $5.15M &nbsp;&nbsp; bitget.com"
+          "source": "Bitget",
+          "summary": "Bio Protocol Multisig Wallet Transfers 80M BIO to CEX Worth $5.15M &nbsp;&nbsp; Bitget"
         },
         {
           "title": "Crypto News Today: Bio Protocol (BIO) Rallies on Upbit Listing Buzz as AlphaPepe Adds 100 Holders Daily Before Listing - StreetInsider",
@@ -188,6 +188,14 @@
       ],
       "articles": [
         {
+          "title": "Death-defying protein found in tardigrades preserves synthetic cells",
+          "url": "https://phys.org/news/2026-05-death-defying-protein-tardigrades-synthetic.html",
+          "domain": "phys.org",
+          "date": "2026-05-06T20:00:05.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "A protein found only in microscopic tardigrades, one that allows them to survive extreme conditions like dehydration, can convey similar durability in synthetic cells, according to new research from University of Michigan Engineering and the University of Chicago Pritzker School of Molecular Engineering."
+        },
+        {
           "title": "DNA-guided CRISPR flips gene editing script, opening a new path for precise diagnosis and antivirals",
           "url": "https://phys.org/news/2026-05-dna-crispr-flips-gene-script.html",
           "domain": "phys.org",
@@ -258,14 +266,6 @@
           "date": "2026-05-06T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2605.02952v1 Announce Type: new Abstract: Understanding the development of adolescent behavioral and mental health outcomes requires integrating genetic predisposition, environmental exposures, and neurobiological processes over time. Here, we present a unified quantitative framework that models the human body as a dynamic system, where genetic factors form the foundational state, environmental exposures act as time-varying inputs, the brain might serve as a mediation processor, and behavioral phenotypes emerge as system outputs. Using longitudinal data from the Adolescent Brain Cognitive Development (ABCD) Study, we construct harmonized multi-domain representations across six phenotypes: externalizing behavior, internalizing behavior, and four substance use initiation outcomes (alcohol, nicotine, cannabis, and any substance use). We integrate polygenic risk scores (PRS), multi-domain environmental features, and multimodal neuroimaging representations derived through stability selection and dimensionality reduction. Our framework supports both continuous longitudinal modeling and survival-based event modeling through a unified data structure. We further develop interpretable domain-level representations using principal components, weighted risk scores, and cluster-based summaries. These representations enable downstream modeling using survival analysis, state-space models, and machine learning approaches. This work establishes a scalable and interpretable framework for studying how genetic and environmental factors interact over time to shape behavioral outcomes, providing a foundation for identifying modifiable risk factors and informing early intervention strategies."
-        },
-        {
-          "title": "EFGPP: Exploratory framework for genotype-phenotype prediction",
-          "url": "https://arxiv.org/abs/2605.02954",
-          "domain": "arxiv.org",
-          "date": "2026-05-06T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2605.02954v1 Announce Type: new Abstract: Predicting complex human traits from genetic data is challenging because different genetic, clinical, and molecular data sources often contain different parts of the signal. Here, we present EFGPP, a reproducible framework for generating, ranking, and combining multiple types of data for genotype-to-phenotype prediction. We applied EFGPP to migraine prediction using UK Biobank data from 733 individuals. The framework combined genotype-derived features, principal components, clinical and metabolomic covariates, and polygenic risk scores generated from migraine and depression GWAS using PLINK, PRSice-2, AnnoPred, and LDAK-GWAS. The best single data type achieved a test AUC of 0.644, while combining multiple data types improved performance to 0.688 using migraine-focused inputs and 0.663 using cross-trait depression-derived inputs. Genetic features alone did not outperform the covariates-only baseline, but genotype-derived features performed better than PRS alone, and depression-derived PRS showed useful predictive signal. Overall, EFGPP provides a practical proof-of-concept framework for prioritising and integrating heterogeneous genetic data sources for complex phenotype prediction."
         }
       ]
     },
@@ -277,6 +277,54 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "Aave liquidates Kelp DAO attacker’s remaining rsETH positions",
+          "url": "https://www.theblock.co/post/400315/aave-liquidates-kelp-dao-attackers-remaining-rseth-positions?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-06T20:31:29.000Z",
+          "source": "The Block",
+          "summary": "Aave required a governance process to manipulate its rsETH oracle price to generate a deficit in the attacker’s fraudulent position."
+        },
+        {
+          "title": "Bitcoin whales on Hyperliquid push net long positions to 2026 high",
+          "url": "https://www.theblock.co/post/400302/bitcoin-whales-hyperliquid-net-long-positions-2026-high?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-06T20:05:58.000Z",
+          "source": "The Block",
+          "summary": "Glassnode posted a chart indicating that whales have been aggressively increasing their cumulative long positions in recent weeks."
+        },
+        {
+          "title": "VanEck says Bitcoin could hit $1 million in five years, likens adoption to video games",
+          "url": "https://www.theblock.co/post/400299/vaneck-bitcoin-1-million-five-years-adoption-video-games?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-06T19:49:50.000Z",
+          "source": "The Block",
+          "summary": "The firm's head of digital assets research compared bitcoin adoption to different demographics embracing video games."
+        },
+        {
+          "title": "Bitcoin market dominance moves above 61%: Will altcoins follow?",
+          "url": "https://cointelegraph.com/markets/Bitcoin-market-dominance-moves-above-61%-Will-altcoins-follow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound&",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-06T19:05:31.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bitcoin's market dominance climbed above 61% as BTC led crypto market flows. Data also showed Binance-listed altcoins' share of volume hitting 49% in March."
+        },
+        {
+          "title": "Hut 8 investors shrug off Q1 loss, stoke 33% stock surge",
+          "url": "https://cointelegraph.com/news/hut-8s-stock-surge-q1-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-06T18:58:11.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The company also announced a new AI energy leasing deal as it continues to diversify into adjacent high-performance computing applications."
+        },
+        {
+          "title": "Crypto-backed Republican candidate wins Indiana congressional primary",
+          "url": "https://cointelegraph.com/news/crypto-pac-backed-republican-candidate-indiana-primary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-06T18:31:17.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Representative James Baird won the Republican primary for Indiana's 4th district on Tuesday after receiving an endorsement from Donald Trump and supportive spending from a crypto-backed PAC."
+        },
         {
           "title": "Anthropic signs Elon Musk's SpaceX for Colossus 1 compute ahead of June IPO",
           "url": "https://www.coindesk.com/tech/2026/05/06/anthropic-signs-elon-musk-s-spacex-for-colossus-1-compute-ahead-of-june-ipo",
@@ -308,54 +356,6 @@
           "date": "2026-05-06T17:41:29.000Z",
           "source": "The Block",
           "summary": "The transaction represents an example of crypto firms and Wall Street institutions jointly exploring 24/7 settlement systems."
-        },
-        {
-          "title": "Price predictions 5/6: BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA, BCH, ZEC",
-          "url": "https://cointelegraph.com/markets/price-predictions-56-btc-eth-xrp-bnb-sol-doge-hype-ada-bch-zec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-06T17:34:51.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Bitcoin sellers may show up if BTC hits $84,000, but altcoin charts continue to predict new price highs."
-        },
-        {
-          "title": "Switzerland's Amina becomes first regulated bank to custody Canton Coin",
-          "url": "https://cointelegraph.com/news/amina-becomes-first-regulated-bank-to-custody-canton-coin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-06T17:25:51.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The FINMA-regulated bank's institutional clients will get access to trading and holding Canton Coin through a banking platform instead of crypto-native venues."
-        },
-        {
-          "title": "The time is now: the Senate must act on crypto market structure legislation",
-          "url": "https://www.coindesk.com/opinion/2026/05/06/the-time-is-now-the-senate-must-act-on-crypto-market-structure-legislation",
-          "domain": "coindesk.com",
-          "date": "2026-05-06T17:25:31.000Z",
-          "source": "CoinDesk",
-          "summary": "The United States needs to finally establish a clear framework that the market needs."
-        },
-        {
-          "title": "Bermuda pushes stablecoin payments with USDC airdrop as it courts crypto firms, regulators",
-          "url": "https://www.coindesk.com/policy/2026/05/06/bermuda-pushes-stablecoin-payments-with-usdc-airdrop-as-it-courts-crypto-firms-regulators",
-          "domain": "coindesk.com",
-          "date": "2026-05-06T17:16:29.000Z",
-          "source": "CoinDesk",
-          "summary": "Premier David Burt said Bermuda's \"onchain economy\" plan aims to bring stablecoins into everyday commerce."
-        },
-        {
-          "title": "Crypto bill won't move without a ban on officials' industry ties, says U.S. Senator Gillibrand",
-          "url": "https://www.coindesk.com/policy/2026/05/06/crypto-bill-won-t-move-without-a-ban-on-officials-industry-ties-says-u-s-senator-gillibrand",
-          "domain": "coindesk.com",
-          "date": "2026-05-06T17:08:15.000Z",
-          "source": "CoinDesk",
-          "summary": "The Democratic lawmaker has been a negotiator for the Clarity Act, and one of the final sticking points is the crypto constraint on officials, including the president."
-        },
-        {
-          "title": "The end of ads: Coinbase engineer says AI agents could kill the internet’s favorite business model",
-          "url": "https://www.coindesk.com/tech/2026/05/06/the-end-of-ads-coinbase-engineer-says-ai-agents-could-kill-the-internet-s-favorite-business-model",
-          "domain": "coindesk.com",
-          "date": "2026-05-06T16:44:38.000Z",
-          "source": "CoinDesk",
-          "summary": "Erik Reppel, who created the x402 protocol, said that the web economy depends heavily on advertising revenue generated from humans. AI agents bypass that system entirely."
         }
       ]
     }
