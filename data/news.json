@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-06T11:21:18.368Z",
+  "updatedAt": "2026-05-06T13:15:44.000Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -9,12 +9,12 @@
       ],
       "articles": [
         {
-          "title": "NanoVita Labs Launches $NANA Token on PancakeSwap – A New Era for AI-Driven Decentralized Science - Bitget",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB4QUl5bUgzNVlfbEhLZFFKckhLMDVIeUNzd3ZldzcwaEFfVlhuMHpjTWRCQTRuZ2pzZjEzUnFTcFpGU1czbVZpUVlPY1JBdFFSTS13RzhfYXVxUFJsOXBORmpSVdIBY0FVX3lxTFB4QUl5bUgzNVlfbEhLZFFKckhLMDVIeUNzd3ZldzcwaEFfVlhuMHpjTWRCQTRuZ2pzZjEzUnFTcFpGU1czbVZpUVlPY1JBdFFSTS13RzhfYXVxUFJsOXBORmpSVQ?oc=5",
-          "domain": "bitget.com",
-          "date": "2026-05-06T05:11:58.000Z",
-          "source": "Bitget",
-          "summary": "NanoVita Labs Launches $NANA Token on PancakeSwap – A New Era for AI-Driven Decentralized Science &nbsp;&nbsp; Bitget"
+          "title": "NanoVita Labs Launches $NANA Token on PancakeSwap – A New Era for AI-Driven Decentralized Science - Cryptonews.net",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5xdkZSLWxFMVl6Ti1DQUZjdGxOaHJwdFpEaE1sLUtRaDdYY3dBRGdxbGszbWFhNDhEdlEzNWRkXy1SR2Z0cnBOQVZGMFJHV2VBclpGaEZjWQ?oc=5",
+          "domain": "cryptonews.net",
+          "date": "2026-05-06T11:30:04.000Z",
+          "source": "Cryptonews.net",
+          "summary": "NanoVita Labs Launches $NANA Token on PancakeSwap – A New Era for AI-Driven Decentralized Science &nbsp;&nbsp; Cryptonews.net"
         },
         {
           "title": "BIO doubled in three days, DeSci blossomed: Can AI Agents revive decentralized science? - PANews",
@@ -151,7 +151,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-05T16:13:22.000Z",
           "source": "Lifespan.io",
-          "summary": "In a new study, the popular supplement creatine seemed to add to some of the beneficial effects of power training [1]. Trying the combination in older people Exercise might be the most potent anti-aging intervention known […]"
+          "summary": "In a new study, the popular supplement creatine seemed to add to some of the beneficial effects of power training [1]. Trying the combination in […]"
         },
         {
           "title": "Longevity.Technology and AND Capital Ventures launch partnership",
@@ -187,6 +187,14 @@
         "https://phys.org/rss-feed/biology-news/biotechnology/"
       ],
       "articles": [
+        {
+          "title": "OpenBind's first data and model release marks a milestone for AI enabled drug discovery",
+          "url": "https://phys.org/news/2026-05-openbind-milestone-ai-enabled-drug.html",
+          "domain": "phys.org",
+          "date": "2026-05-06T11:58:25.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "The UK-led OpenBind initiative has reached a major milestone with the release of its first publicly available dataset and predictive AI model, a groundbreaking step toward accelerating the discovery of new medicines using artificial intelligence."
+        },
         {
           "title": "With large DNA fragment assembly, scientists can design microbes that produce countless complex products",
           "url": "https://phys.org/news/2026-05-large-dna-fragment-scientists-microbes.html",
@@ -258,14 +266,6 @@
           "date": "2026-05-06T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2605.03281v1 Announce Type: new Abstract: Donor-level disease classification from single-cell RNA sequencing (scRNA-seq) requires strict donor-aware cross-validation: naive pipelines that split cells randomly conflate training and test donors, inflating reported performance through pseudoreplication. We present a donor-aware benchmark evaluating three feature representations across two independent IBD cohorts: centered log-ratio (CLR) transformed cell-type composition, GatedStructuralCFN dependency embeddings, and scVI variational autoencoder latent embeddings. The cohorts are the SCP259 ulcerative colitis atlas (UC vs. Healthy, n=30 donors, 51 cell types) and the Kong 2023 Crohn's disease atlas (CD vs. Healthy, n=71 donors, 55-68 cell types across three intestinal regions). Compartment-stratified CLR composition achieves AUROC 0.956 +/- 0.061 on SCP259; GatedStructuralCFN on the same features achieves 0.978 +/- 0.050. In the Kong cohort, CFN achieves its best performance in the colon region (0.960 +/- 0.055 after feature filtering), exceeding linear CLR (0.900 +/- 0.100), while terminal ileum classification is dominated by linear models (CatBoost CLR 0.967 +/- 0.075 vs. CFN 0.811 +/- 0.164). Cross-dataset transfer (CD->UC, four shared cell types) achieves AUC 0.833 with XGBoost CLR; the reverse direction performs at chance. CFN edge stability analysis shows that compartment-wise composition eliminates spurious unit-sum-induced instability present in global composition (Jaccard 0.026 vs. top-20 recurrence 1.0). CFN shows a consistent numerical advantage over linear models in the colon region of CD (AUROC 0.960 vs. 0.900), though no inter-method comparison reached statistical significance at n<=34 donors per region. Compartment-aware feature construction is critical for both classification performance and structural interpretability. Code: https://github.com/Jonathan-321/sfn-scrna-study"
-        },
-        {
-          "title": "A-CODE: Fully Atomic Protein Co-Design with Unified Multimodal Diffusion",
-          "url": "https://arxiv.org/abs/2605.03360",
-          "domain": "arxiv.org",
-          "date": "2026-05-06T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2605.03360v1 Announce Type: new Abstract: We present A-CODE, a fully atomic unified one-stage protein co-design model that simultaneously refines discrete atom types and continuous atom coordinates. Unlike predominant two-stage methods that cascade structure design with amino acid-level sequence design, our approach is fully atomic within a unified multimodal diffusion framework, in which residue identities are inferred solely from atom-level predictions. Built upon the powerful all-atom architecture, A-CODE achieves superior designability for unconditional protein generation, outperforming all existing one-stage and two-stage design models. For binder design, A-CODE rivals and even outperforms existing state-of-the-art two-stage design models and, compared with the existing one-stage co-design model, achieves a drastic tenfold improvement in success rate on hard tasks. The inherent flexibility of our atomic formulation enables, for the first time, seamless adaptation to non-canonical amino acid (ncAA) modeling. Our fully atomic framework establishes a new, versatile foundation for all-atom generative modeling that can be naturally extended to complex biomolecular systems."
         }
       ]
     },
@@ -278,84 +278,84 @@
       ],
       "articles": [
         {
-          "title": "Multicoin goes big on zcash as privacy trade returns",
-          "url": "https://www.coindesk.com/markets/2026/05/06/multicoin-goes-big-on-zcash-as-privacy-trade-returns",
+          "title": "Memecoin trades carry rare 'seven-leg' parlay odds, BONK's Nom says at Consensus",
+          "url": "https://www.coindesk.com/markets/2026/05/06/memecoin-trades-carry-rare-seven-leg-parlay-odds-bonk-s-nom-says-at-consensus",
           "domain": "coindesk.com",
-          "date": "2026-05-06T11:05:01.000Z",
+          "date": "2026-05-06T13:07:15.000Z",
           "source": "CoinDesk",
-          "summary": "The purchase marks a shift from Multicoin’s 2019 view, as ZEC has surged over 1,500% in the last year."
+          "summary": "The BONK core contributor argued memecoins skipping ETF and public-company rails end up rinsing retail."
         },
         {
-          "title": "World’s first live map of token concentration: InsightX launches Atlas Live",
-          "url": "https://cointelegraph.com/press-releases/worlds-first-live-map-of-token-concentration-insightx-launches-atlas-live?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-06T11:00:00.000Z",
-          "source": "CoinTelegraph",
-          "summary": "A new era of on-chain trading transparency. Atlas Live enables traders to analyze token concentration and spot potential rug pulls. Now in real time."
-        },
-        {
-          "title": "Bitcoin ETFs add nearly $1B as BTC surges past $80K in multi-day rally",
-          "url": "https://cointelegraph.com/news/bitcoin-etfs-1-billion-inflows-btc-surge-past-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-06T10:40:09.000Z",
-          "source": "CoinTelegraph",
-          "summary": "US spot Bitcoin ETFs posted $999 million in inflows over two trading days as Bitcoin moved back above $80,000."
-        },
-        {
-          "title": "Bitcoin moves above $82,000 while ZEC and DASH post double-digit rallies",
-          "url": "https://www.coindesk.com/markets/2026/05/06/bitcoin-holds-gains-while-zec-and-dash-post-double-digit-rallies",
+          "title": "Colombia wants to mine bitcoin with surplus renewable energy",
+          "url": "https://www.coindesk.com/tech/2026/05/06/colombia-wants-to-mine-bitcoin-with-surplus-renewable-energy",
           "domain": "coindesk.com",
-          "date": "2026-05-06T10:25:43.000Z",
+          "date": "2026-05-06T12:56:45.000Z",
           "source": "CoinDesk",
-          "summary": "BTC climbed above $82,00 as a weaker dollar lifted crypto markets, while privacy coins and AI-linked tokens led an altcoin rally."
+          "summary": "President Gustavo Petro said Colombia's Caribbean coast could host bitcoin mining facilities powered by surplus renewable energy, following a path similar to Paraguay."
         },
         {
-          "title": "Ethereum co-founder Lubin backs ETH treasury firms, calls DATs ‘profound innovation’",
-          "url": "https://www.theblock.co/post/400171/ethereum-co-founder-lubin-backs-eth-treasury-firms-calls-dats-profound-innovation?utm_source=rss&utm_medium=rss",
+          "title": "Zcash bets turn into second-largest liquidations behind bitcoin as ZEC rockets 30%",
+          "url": "https://www.coindesk.com/markets/2026/05/06/zcash-bets-turn-into-second-largest-liquidations-behind-bitcoin-as-zec-rockets-30",
+          "domain": "coindesk.com",
+          "date": "2026-05-06T12:53:44.000Z",
+          "source": "CoinDesk",
+          "summary": "The privacy coin extended its multi-month rally on Tuesday with $46.7 million in shorts liquidated, after Multicoin Capital disclosed a significant ZEC position."
+        },
+        {
+          "title": "Bubblemaps flags MYSTERY token over 90-wallet launch sniping cluster",
+          "url": "https://cointelegraph.com/news/bubblemaps-flags-mystery-over-90-wallet-launch-sniping-cluster?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-06T12:51:53.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bubblemaps said it identified a large wallet cluster that accumulated 90% of the Mystery token’s supply at launch, raising concerns around the token’s distribution."
+        },
+        {
+          "title": "Morgan Stanley brings crypto trading with lower fees than rivals",
+          "url": "https://www.coindesk.com/markets/2026/05/06/morgan-stanley-brings-crypto-trading-with-lower-fees-than-rivals",
+          "domain": "coindesk.com",
+          "date": "2026-05-06T12:39:37.000Z",
+          "source": "CoinDesk",
+          "summary": "The bank is rolling out crypto trading on E*Trade with lower fees than Coinbase, Robinhood and Schwab, according to Bloomberg."
+        },
+        {
+          "title": "Linea contributes ZK rollup stack to Linux Foundation open-source group",
+          "url": "https://cointelegraph.com/news/linea-contributes-zk-rollup-stack-to-linux-foundation-open-source-group?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-06T12:29:44.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Linea Consortium board director Declan Fox said the move gives its technology a neutral, foundation-governed home."
+        },
+        {
+          "title": "Bullish’s Equiniti deal could remake it into a tokenization powerhouse, Clear Street says",
+          "url": "https://www.coindesk.com/markets/2026/05/06/bullish-s-equiniti-deal-could-remake-it-into-a-tokenization-powerhouse-analysts-say",
+          "domain": "coindesk.com",
+          "date": "2026-05-06T12:18:00.000Z",
+          "source": "CoinDesk",
+          "summary": "Compass Point took a more cautious stance, reiterating a Neutral rating and $36 target, saying much of the expected growth is already priced in, though it acknowledged potential upside."
+        },
+        {
+          "title": "Bitcoin short-term holder cost basis eyes $92K as next price target",
+          "url": "https://cointelegraph.com/markets/bitcoins-sth-cost-basis-suggests-92k-is-the-next-stop-for-btc-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-06T12:10:38.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bitcoin’s onchain data suggests that the upside may not be over for BTC price, but resistance at $84,000 could delay the recovery."
+        },
+        {
+          "title": "Coinbase faces lawsuit over frozen funds from $55M crypto theft",
+          "url": "https://cointelegraph.com/news/coinbase-sued-for-withholding-frozen-crypto-linked-to-55m-defi-saver-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-06T12:03:39.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The plaintiff says Coinbase froze traceable assets from a 2024 DAI phishing theft but refused to return them without a court order."
+        },
+        {
+          "title": "Attackers drain $1.4M in wrapped bitcoin from DeFi protocol Ekubo in approval-based exploit",
+          "url": "https://www.theblock.co/post/400189/attackers-drain-1-4m-in-wrapped-bitcoin-from-defi-protocol-ekubo-in-approval-based-exploit?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-05-06T10:20:52.000Z",
+          "date": "2026-05-06T12:00:11.000Z",
           "source": "The Block",
-          "summary": "Joseph Lubin backed ETH treasury firms, confirmed Linea's Linux Foundation move, and highlighted Ethereum's quantum-safe roadmap."
-        },
-        {
-          "title": "OKX Card data shows crypto is paying for everyday life in Europe",
-          "url": "https://cointelegraph.com/news/okx-card-data-shows-crypto-is-paying-for-everyday-life-in-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-06T10:15:42.000Z",
-          "source": "CoinTelegraph",
-          "summary": "OKX Card data shows most crypto spending in Europe is on groceries and dining, signaling growing everyday use over luxury purchases."
-        },
-        {
-          "title": "Bitwise CIO says big tech stablecoin tests could help drive $4 trillion supply by 2030",
-          "url": "https://www.theblock.co/post/400170/bitwise-cio-says-big-tech-stablecoin-tests-could-help-drive-4-trillion-supply-by-2030?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-06T09:44:34.000Z",
-          "source": "The Block",
-          "summary": "Matt Hougan said tech firms like DoorDash and Meta exploring stablecoin payouts could help drive projections of $4 trillion in supply by 2030."
-        },
-        {
-          "title": "Bitcoin approaches $82,000 as oil crashes 6% on fresh Iran peace deal hopes",
-          "url": "https://www.coindesk.com/markets/2026/05/06/bitcoin-nasdaq-futures-rally-as-oil-crashes-6-on-iran-peace-deal-hopes",
-          "domain": "coindesk.com",
-          "date": "2026-05-06T09:26:02.000Z",
-          "source": "CoinDesk",
-          "summary": "Bitcoin climbed toward $82,000 alongside a more than 1% rise in Nasdaq futures amid reports of progress toward a U.S.–Iran memorandum of understanding."
-        },
-        {
-          "title": "OKX joins crypto’s pre-IPO frenzy with OpenAI, SpaceX perpetual futures",
-          "url": "https://www.coindesk.com/markets/2026/05/06/okx-joins-crypto-s-pre-ipo-frenzy-with-openai-spacex-perpetual-futures",
-          "domain": "coindesk.com",
-          "date": "2026-05-06T08:59:36.000Z",
-          "source": "CoinDesk",
-          "summary": "Crypto exchanges are increasingly competing to offer retail traders exposure to Silicon Valley’s most valuable private firms, despite the products conferring neither equity ownership nor shareholder rights."
-        },
-        {
-          "title": "Beyond humans: Lily Liu says Solana is building the payment rails for the 'AI machine economy'",
-          "url": "https://www.coindesk.com/business/2026/05/06/beyond-humans-lily-liu-says-solana-is-building-the-payment-rails-for-the-ai-machine-economy",
-          "domain": "coindesk.com",
-          "date": "2026-05-06T08:35:24.000Z",
-          "source": "CoinDesk",
-          "summary": "At Consensus Miami 2026, Solana Foundation President Lily Liu argued that stablecoin adoption by firms like Western Union validates Solana’s role as financial infrastructure for both human and machine economies."
+          "summary": "Ekubo Protocol lost roughly $1.4 million in WBTC after attackers exploited a flaw in its EVM swap router contracts."
         }
       ]
     }
