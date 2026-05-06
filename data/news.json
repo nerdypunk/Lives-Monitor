@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-06T03:58:14.293Z",
+  "updatedAt": "2026-05-06T06:38:57.715Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -8,6 +8,14 @@
         "https://news.google.com/rss/search?q=DeSci%20OR%20%22decentralized%20science%22%20OR%20%22BIO%20Protocol%22&hl=en-US&gl=US&ceid=US:en"
       ],
       "articles": [
+        {
+          "title": "NanoVita Labs Launches $NANA Token on PancakeSwap – A New Era for AI-Driven Decentralized Science - BlockchainReporter",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeHlHU1lJRDdSQzd0al9xbjZobVdDMTh6MUF1NXhUVUxKbWg1d013TEsyWlktVXVEZ1VLd1V2THg4blZTUXJkQXVFamE5Q1daQnB4alRrMU56VG1QZ1VSSTJpTXoyTGZYemNKeHVwaEdmSXAwb09ia0pqRmViRVA5d2tUMUQtSmdpZmlhT0IyaXRuTjlZNzNUTHZaaUJxWVQwaFg5SEJlWjZ2MlJrZzRqaFRnSU02U01vNENjYXd4Nkh0WC1a?oc=5",
+          "domain": "blockchainreporter.net",
+          "date": "2026-05-06T05:03:40.000Z",
+          "source": "BlockchainReporter",
+          "summary": "NanoVita Labs Launches $NANA Token on PancakeSwap – A New Era for AI-Driven Decentralized Science &nbsp;&nbsp; BlockchainReporter"
+        },
         {
           "title": "BIO doubled in three days, DeSci blossomed: Can AI Agents revive decentralized science? - PANews",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RQzlROGk0MGx6bDRzSUFwbnlHMTlvTk9SSGx3ek9kdUlSR0xMak00SlppRHBnZDFvVW9BNXRWN1ZTVUxoVFp2d3hJMnhIR1dVTXJRZGhNb09kS3BNTDBpVzdTekJXN082NnhLZzBqLWFISW56TmtoeHlsOU42bTg?oc=5",
@@ -23,14 +31,6 @@
           "date": "2026-05-05T16:07:54.000Z",
           "source": "Delphi Digital",
           "summary": "DeSci's Second Coming? &nbsp;&nbsp; Delphi Digital"
-        },
-        {
-          "title": "BIO - Bio Protocol - AMBCrypto",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE45RjIyV0VEcEVXYldMa0J6Sk03eFh6Q1RTUjdaZjRaU3pSNDIxSjRpS0E0RWhIWFF5LWtCU1ZrV0JacHh2eHEtbWNhcEEtWHN4NXZB?oc=5",
-          "domain": "ambcrypto.com",
-          "date": "2026-05-05T06:48:01.000Z",
-          "source": "AMBCrypto",
-          "summary": "BIO - Bio Protocol &nbsp;&nbsp; AMBCrypto"
         },
         {
           "title": "DeSci Has Raised Millions For Research No VC Would Ever Touch - Yellow.com",
@@ -119,7 +119,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-05T16:13:22.000Z",
           "source": "Lifespan.io",
-          "summary": "In a new study, the popular supplement creatine seemed to add to some of the beneficial effects of power training [1]. Trying the combination in older people Exercise might be the most potent anti-aging intervention known to humans, but […]"
+          "summary": "In a new study, the popular supplement creatine seemed to add to some of the beneficial effects of power training [1]. Trying the combination in older people Exercise might be the most potent anti-aging intervention known to humans, but with […]"
         },
         {
           "title": "Longevity.Technology and AND Capital Ventures launch partnership",
@@ -188,84 +188,84 @@
       ],
       "articles": [
         {
-          "title": "Scientists map genetic switches on mosquito reproductive genes, advancing tools to fight disease",
-          "url": "https://phys.org/news/2026-05-scientists-genetic-mosquito-reproductive-genes.html",
-          "domain": "phys.org",
-          "date": "2026-05-05T22:10:01.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Scientists at Keele University have created the first detailed map of the genetic \"switches\" that control reproduction in disease-carrying insects such as Anopheles gambiae, the mosquito species most responsible for malaria transmission, paving the way for more effective methods of genetically controlling these insects."
-        },
-        {
-          "title": "Digitizing microscope slides can uncover billions of fossils for natural history",
-          "url": "https://phys.org/news/2026-05-digitizing-microscope-uncover-billions-fossils.html",
-          "domain": "phys.org",
-          "date": "2026-05-05T21:30:01.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Approximately 145 million: That's the number of specimens—including plants, animals, minerals, and human artifacts—curators estimate are held in the Smithsonian National Museum of Natural History. However, these estimates do not reflect the billions of tiny individual specimens contained on microscope slides—thin pieces of glass that fix objects in place for observation—each representing a record of a species at a specific place and time."
-        },
-        {
-          "title": "As sargassum floods Florida beaches, researchers uncover new use as food-grade ingredient",
-          "url": "https://phys.org/news/2026-05-sargassum-florida-beaches-uncover-food.html",
-          "domain": "phys.org",
-          "date": "2026-05-05T19:20:05.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "As record-breaking amounts of sargassum seaweed drift toward Florida's shores, researchers at Florida International University are exploring how the coastal nuisance could become a valuable ingredient in everyday foods."
-        },
-        {
-          "title": "Super transformer aims to bring order to biology's data under one AI model",
-          "url": "https://phys.org/news/2026-05-super-aims-biology-ai.html",
-          "domain": "phys.org",
-          "date": "2026-05-05T17:40:06.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Modern biology is awash in data. Scientists can sequence DNA, track gene activity cell-by-cell, map proteins in space, and image tissues at microscopic resolution. However, it is a struggle to put all that information together to form a cohesive view."
-        },
-        {
-          "title": "Life with one less: Engineered bacteria break the 20-amino-acid rule",
-          "url": "https://phys.org/news/2026-05-life-bacteria-amino-acid.html",
-          "domain": "phys.org",
-          "date": "2026-05-05T14:00:02.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "One of life's many mysteries is how it ended up choosing only a set of 20 amino acids to build proteins for its wide catalog of organisms, from single-celled bacteria to behemoth whales. From a chemical standpoint, many of the canonical amino acids share similar chemical structures and properties, which might make them expendable. This raises an intriguing question: could life manage with one less amino acid?"
-        },
-        {
-          "title": "Tiny insect brain discovery offers a blueprint for faster and more efficient AI and robots",
-          "url": "https://phys.org/news/2026-05-tiny-insect-brain-discovery-blueprint.html",
-          "domain": "phys.org",
-          "date": "2026-05-05T13:40:02.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "The secret behind insects' lightning-fast reactions could offer a blueprint for more energy-efficient robots and self-driving cars, according to a new study challenging our understanding of how brains process information. Published in Nature Communications, the University of Sheffield research shows that house flies and fruit flies do not process visual information passively, as previously believed. Rather than simply watching the world, insects twitch their bodies in sync with what they see. These tiny, jerky movements, such as rapid movements of the eyes called saccades, help their brains receive clearer, faster information about the world around them."
-        },
-        {
-          "title": "Seaweed integration boosts efficiency and cuts waste in aquaculture, study finds",
-          "url": "https://phys.org/news/2026-05-seaweed-boosts-efficiency-aquaculture.html",
-          "domain": "phys.org",
-          "date": "2026-05-05T11:40:01.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "A new study found that cultivating seaweed species alongside marine finfish in integrated multi-trophic aquaculture (IMTA) operations, where seaweeds receive nutrient-rich effluent from fish production, can significantly reduce—and even eliminate—key waste products from marine finfish farming."
-        },
-        {
-          "title": "BioVeil MATRIX: Uncovering and categorizing vulnerabilities of agentic biological AI scientists",
-          "url": "https://arxiv.org/abs/2605.00927",
+          "title": "A Universal Space of Brain Dynamics for Unveiling Cognitive Transitions and Individual Differences",
+          "url": "https://arxiv.org/abs/2605.02936",
           "domain": "arxiv.org",
-          "date": "2026-05-05T04:00:00.000Z",
+          "date": "2026-05-06T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2605.00927v1 Announce Type: new Abstract: Agentic AI scientists equipped with domain-specific tools are rapidly entering scientific workflows across disciplines, with especially strong uptake in the life sciences where they can be used for literature synthesis, sequence analysis, and experimental planning support. While these systems accelerate biological research, they also introduce risks for dual-use applications that are not captured by current model-centric safety evaluations. We present evidence that current agentic AI scientists, including Biomni and K-Dense, are willing to assist with dual-use tasks that are blocked by base model safeguards. We also found that in a paired evaluation framework for biology and chemistry prompts involving Weapons of Mass Destruction proxies (WMDP), agentic scaffolding of Biomni increased the benchmark performance relative to the underlying standalone model, producing measurable capability uplift. We believe it is necessary to include additional safeguards in existing models and build future tools from the ground up with agentic vulnerabilities in mind. To systematically categorize broader risks, we introduce BioVeil MATRIX, a defensive taxonomy that maps AI-enabled biosecurity risks using 10 tactical categories (TA01--TA10) and 22 different techniques. We propose to use this taxonomy as a baseline for future AI scientist development and generate specialized benchmarks and protocols for red-teaming these vulnerabilities before public deployment. BioVeil MATRIX can be found at: https://bioveilmatrix.com/"
+          "summary": "arXiv:2605.02936v1 Announce Type: new Abstract: Representing dynamical systems through data-driven universal spaces has proven effective; however, achieving this universality for human brain activity remains a significant challenge, further aggravated by diverse cognitive states and individual subjects. Recognizing that spatial properties reflect physical wiring while temporal properties reflect brain function, we develop Universal Brain Dynamics (UBD) to construct a universal space tailored to brain activity and quantify corresponding dynamics using a model-derived Jacobian matrix. Crucially, we validate UBD's universality by accurately predicting functional magnetic resonance imaging (fMRI) signals (Pearson's r > 0.9) across eight states and 963 subjects in the Human Connectome Project (HCP). Through evaluating resting-state fMRI represented within UBD, we gain insight into how infra-slow fluctuation (ISF) underpins brain activity. Furthermore, we reveal a new perspective on structure-function coupling (SFC) by analyzing the temporal sequence of brain dynamics. Extending UBD to task-evoked states, we derive brain dynamics across various cognitive conditions, elucidating the neural mechanisms driving cognitive transitions at a finer granularity. For individual differences, we compare brain dynamics across subjects to identify the neural underpinnings of these variations. Our findings suggest that synergistically integrating spatial and temporal properties of brain activity establishes a universal space for its unfolding, enabling the precise numerical analysis of underlying neural mechanisms across varying conditions."
         },
         {
-          "title": "CellxPert: Inference-Time MCMC Steering of a Multi-Omics Single-Cell Foundation Model for In-Silico Perturbation",
-          "url": "https://arxiv.org/abs/2605.00930",
+          "title": "DynoSys: A Dynamic Systems Framework for Multimodal Integration of Genetic, Environmental, and Neurobiological Signals",
+          "url": "https://arxiv.org/abs/2605.02952",
           "domain": "arxiv.org",
-          "date": "2026-05-05T04:00:00.000Z",
+          "date": "2026-05-06T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2605.00930v1 Announce Type: new Abstract: In this work, we introduce CellxPert, a scalable multimodal foundation model that unifies single-cell and spatial multi-omics within a common representation space. CellxPert jointly encodes transcriptomic (scRNA-seq), chromatin-accessibility (ATAC-seq), and surface-proteomic (CITE-seq) measurements, while directly incorporating MERFISH and imaging mass-cytometry data as 2D or 3D spatial-visual layers. CellxPert facilitates four key downstream tasks out of the box: (i) cell-type annotation across a broad ontology of 154 largely overlapping identities -- the largest label space addressed to date and a stringent test of fine-grained discrimination, (ii) efficient fine-tuning using Low Rank Adaptation (LoRA), (iii) genome-wide transcriptomic response prediction to in-silico perturbations (ISP), and (iv) seamless multi-omic integration across various assays and platforms. Unlike current single-cell foundation models, which approximate gene perturbations by deleting or reordering tokenized gene expression ranks, CellxPert employs a Metropolis-Hastings sampler whose proposal kernel uses the model's masked conditional distributions to transition to new transcriptomic states conditioned on the perturbed genes. This Markov-chain procedure mitigates out-of-distribution artifacts introduced by abrupt token manipulation and produces trajectories that are biologically interpretable. Evaluations on PBMC68K, Replogle Perturb-seq, Systema, and BMMC benchmarks show that CellxPert surpasses classical and state-of-the-art baselines in cell-type annotation, perturbation response prediction, and multi-omic integration."
+          "summary": "arXiv:2605.02952v1 Announce Type: new Abstract: Understanding the development of adolescent behavioral and mental health outcomes requires integrating genetic predisposition, environmental exposures, and neurobiological processes over time. Here, we present a unified quantitative framework that models the human body as a dynamic system, where genetic factors form the foundational state, environmental exposures act as time-varying inputs, the brain might serve as a mediation processor, and behavioral phenotypes emerge as system outputs. Using longitudinal data from the Adolescent Brain Cognitive Development (ABCD) Study, we construct harmonized multi-domain representations across six phenotypes: externalizing behavior, internalizing behavior, and four substance use initiation outcomes (alcohol, nicotine, cannabis, and any substance use). We integrate polygenic risk scores (PRS), multi-domain environmental features, and multimodal neuroimaging representations derived through stability selection and dimensionality reduction. Our framework supports both continuous longitudinal modeling and survival-based event modeling through a unified data structure. We further develop interpretable domain-level representations using principal components, weighted risk scores, and cluster-based summaries. These representations enable downstream modeling using survival analysis, state-space models, and machine learning approaches. This work establishes a scalable and interpretable framework for studying how genetic and environmental factors interact over time to shape behavioral outcomes, providing a foundation for identifying modifiable risk factors and informing early intervention strategies."
         },
         {
-          "title": "Co-Generative De Novo Functional Protein Design",
-          "url": "https://arxiv.org/abs/2605.00948",
+          "title": "EFGPP: Exploratory framework for genotype-phenotype prediction",
+          "url": "https://arxiv.org/abs/2605.02954",
           "domain": "arxiv.org",
-          "date": "2026-05-05T04:00:00.000Z",
+          "date": "2026-05-06T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2605.00948v1 Announce Type: new Abstract: De novo functional protein design aims to generate protein sequences that realize specified biochemical functions without relying on evolutionary templates, enabling broad applications in biotechnology and medicine. Existing approaches adopt either direct function-to-sequence mapping or decoupled structure-sequence generation strategies but often fail to achieve functionality and foldability simultaneously. To address this, we propose CodeFP, a Co-generative protein language model for de novo Functional Protein design that simultaneously decodes sequence and structure tokens, thereby enabling superior simultaneous realization of functionality and foldability. CodeFP utilizes functional local structures to enrich functional semantic encodings, overcoming the suboptimal translation of flat encodings into structure tokens, while introducing auxiliary functional supervision to alleviate training ambiguity stemming from the one-to-many structure-to-token mapping. Extensive experiments show that CodeFP consistently achieves average improvements of 6.1% in functional consistency and 3.2% in foldability over the strongest baseline."
+          "summary": "arXiv:2605.02954v1 Announce Type: new Abstract: Predicting complex human traits from genetic data is challenging because different genetic, clinical, and molecular data sources often contain different parts of the signal. Here, we present EFGPP, a reproducible framework for generating, ranking, and combining multiple types of data for genotype-to-phenotype prediction. We applied EFGPP to migraine prediction using UK Biobank data from 733 individuals. The framework combined genotype-derived features, principal components, clinical and metabolomic covariates, and polygenic risk scores generated from migraine and depression GWAS using PLINK, PRSice-2, AnnoPred, and LDAK-GWAS. The best single data type achieved a test AUC of 0.644, while combining multiple data types improved performance to 0.688 using migraine-focused inputs and 0.663 using cross-trait depression-derived inputs. Genetic features alone did not outperform the covariates-only baseline, but genotype-derived features performed better than PRS alone, and depression-derived PRS showed useful predictive signal. Overall, EFGPP provides a practical proof-of-concept framework for prioritising and integrating heterogeneous genetic data sources for complex phenotype prediction."
+        },
+        {
+          "title": "Equilibrium and Competition in Evolutionary Dynamics",
+          "url": "https://arxiv.org/abs/2605.02956",
+          "domain": "arxiv.org",
+          "date": "2026-05-06T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2605.02956v1 Announce Type: new Abstract: A fundamental problem in protobiological dynamics is to understand how chemically generated polymers can form persistent sequence distributions before the emergence of replication. We study deterministic polymer growth in which each finite sequence is followed along its genealogical structure. The system pictures an open polymerization cascade in which each polymer is produced from a unique precursor and lost by degradation and further extension. Setting fixed activated precursors, we show global well-posedness, positivity, uniqueness of a strictly positive equilibrium, and exponential convergence to an explicit steady state distribution. Under an additional uniform decay condition, this convergence becomes global exponential stability in a uniform norm. We then couple the polymerization to a shared environmental resource with logistic growth and depletion by two activated precursors. In the resulting binary polymerization competition model, the equilibrium structure is governed by a three-dimensional core subsystem. We prove that strictly positive equilibria exist exactly above a sharp resource threshold. At the threshold the equilibrium is unique, while above it two positive branches appear. The lower branch is unstable and the upper branch is locally stable. For the complete infinite system, we exhibit positivity, global componentwise existence, a priori bounds, and under persistence and dominance assumptions, global exponential stability. Finally, we introduce template directed replication through a replicator term. The pre-replicative equilibrium continues only under neutral fitness, and heterogeneous fitness removes it as an equilibrium of the replicated system."
+        },
+        {
+          "title": "Epistatic strength, modularity, and locus heterogeneity shape the number of local optima in fitness landscapes",
+          "url": "https://arxiv.org/abs/2605.03046",
+          "domain": "arxiv.org",
+          "date": "2026-05-06T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2605.03046v1 Announce Type: new Abstract: Fitness landscapes provide a quantitative framework for understanding how natural selection shapes evolutionary trajectories. A central feature of these landscapes is their number of local optima, which determines whether fitness-increasing evolution can proceed towards a global optimum or become trapped on suboptimal peaks. Although multiple peaks are known to require reciprocal sign epistasis, the quantitative relationship between epistasis and number of peaks remains incompletely understood. Here, we show that for a broad class of unstructured fitness landscapes, i.e. isotropic Gaussian random fields, the expected number of local optima is determined by a single local measure of epistasis: the correlation of fitness effects. This provides a baseline prediction for the number of peaks in typical unstructured landscapes and links peak density directly to the amount of reciprocal sign epistasis. This baseline changes when epistatic interactions are structured. We show that clustering interactions within blocks of loci slightly increases the number of local optima. In contrast, strong heterogeneity between loci, where only a small subset of loci participate in epistatic interactions, causes the number of peaks to collapse. These results show that the number of local optima is governed not only by the overall strength of epistasis, but also by how epistatic interactions are distributed across the genotype space. Our framework therefore reconciles the central role of reciprocal sign epistasis with the observation that landscapes with similar amounts of epistasis can differ substantially in ruggedness, and provides a guide to the range of peak numbers expected in typical landscapes."
+        },
+        {
+          "title": "A temperature-driven diffusion model of Usutu virus spread in Germany with spillover into neighbouring countries",
+          "url": "https://arxiv.org/abs/2605.03146",
+          "domain": "arxiv.org",
+          "date": "2026-05-06T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2605.03146v1 Announce Type: new Abstract: Usutu virus (USUV) is a flavivirus of the Japanese encephalitis complex transmitted between \\textit{Culex} mosquitoes and birds, a transmission pattern similar to that of the West Nile virus (WNV). In Germany, the first case of USUV was detected in 2010 in mosquitoes collected in the town of Weinheim, and by 2018 the virus had spread to almost the entire country. Interestingly, the infection front exhibited a clockwise rotational spread pattern throughout the years, a pattern completely different from that of the WNV. This clockwise progression corresponded closely with the spatial temperature gradient, suggesting that warmer regions probably facilitated faster viral amplification and onward transmission. Understanding the drivers that influence the spreading patterns of arboviruses is important as it guides surveillance and implementation of control strategies. In this study, we develop a reaction-diffusion partial differential equation (PDE) model to investigate the spatial spread of USUV in Germany within an extended domain that includes some neighbouring countries (Belgium, the Netherlands, and Luxembourg), thereby capturing cross-border transmission processes. Mosquito parameters, i.e., extrinsic incubation rate, mortality and biting rates, are temperature-driven, as temperature plays an important role in the activity of mosquitoes. Our model qualitatively reproduced the main spatial trends of USUV in Germany and surrounding countries. The heterogeneous spread pattern arises from the interplay of diffusion and spatially varying temperature, which together may influence determine regions with higher transmission potential."
+        },
+        {
+          "title": "NeuralSet: A High-Performing Python Package for Neuro-AI",
+          "url": "https://arxiv.org/abs/2605.03169",
+          "domain": "arxiv.org",
+          "date": "2026-05-06T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2605.03169v1 Announce Type: new Abstract: Artificial intelligence (AI) is increasingly central to understanding how the brain processes information. However, the integration of neuroscience and modern AI is bottlenecked by a fragmented software ecosystem. Current tools are siloed by recording modality and optimized for small-scale, in-memory workflows, limiting the use of massive, naturalistic datasets. Here, we introduce NeuralSet, a Python framework that efficiently unifies the processing of diverse neural recordings (including fMRI, M/EEG, and spikes) and complex experimental stimuli (such as text, audio, and video). By decoupling experimental metadata from lazy, memory-efficient data extraction, NeuralSet harmonizes standard neuroscientific preprocessing pipelines with pretrained deep learning embeddings. This approach provides a single PyTorch-ready interface that scales seamlessly from local prototyping to high-performance cluster execution. By eliminating manual data wrangling and ensuring full computational provenance, NeuralSet establishes a scalable, unified infrastructure for the next generation of neuro-AI research."
+        },
+        {
+          "title": "Donor-Aware scRNA-seq Benchmarks for IBD Classification",
+          "url": "https://arxiv.org/abs/2605.03281",
+          "domain": "arxiv.org",
+          "date": "2026-05-06T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2605.03281v1 Announce Type: new Abstract: Donor-level disease classification from single-cell RNA sequencing (scRNA-seq) requires strict donor-aware cross-validation: naive pipelines that split cells randomly conflate training and test donors, inflating reported performance through pseudoreplication. We present a donor-aware benchmark evaluating three feature representations across two independent IBD cohorts: centered log-ratio (CLR) transformed cell-type composition, GatedStructuralCFN dependency embeddings, and scVI variational autoencoder latent embeddings. The cohorts are the SCP259 ulcerative colitis atlas (UC vs. Healthy, n=30 donors, 51 cell types) and the Kong 2023 Crohn's disease atlas (CD vs. Healthy, n=71 donors, 55-68 cell types across three intestinal regions). Compartment-stratified CLR composition achieves AUROC 0.956 +/- 0.061 on SCP259; GatedStructuralCFN on the same features achieves 0.978 +/- 0.050. In the Kong cohort, CFN achieves its best performance in the colon region (0.960 +/- 0.055 after feature filtering), exceeding linear CLR (0.900 +/- 0.100), while terminal ileum classification is dominated by linear models (CatBoost CLR 0.967 +/- 0.075 vs. CFN 0.811 +/- 0.164). Cross-dataset transfer (CD->UC, four shared cell types) achieves AUC 0.833 with XGBoost CLR; the reverse direction performs at chance. CFN edge stability analysis shows that compartment-wise composition eliminates spurious unit-sum-induced instability present in global composition (Jaccard 0.026 vs. top-20 recurrence 1.0). CFN shows a consistent numerical advantage over linear models in the colon region of CD (AUROC 0.960 vs. 0.900), though no inter-method comparison reached statistical significance at n<=34 donors per region. Compartment-aware feature construction is critical for both classification performance and structural interpretability. Code: https://github.com/Jonathan-321/sfn-scrna-study"
+        },
+        {
+          "title": "A-CODE: Fully Atomic Protein Co-Design with Unified Multimodal Diffusion",
+          "url": "https://arxiv.org/abs/2605.03360",
+          "domain": "arxiv.org",
+          "date": "2026-05-06T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2605.03360v1 Announce Type: new Abstract: We present A-CODE, a fully atomic unified one-stage protein co-design model that simultaneously refines discrete atom types and continuous atom coordinates. Unlike predominant two-stage methods that cascade structure design with amino acid-level sequence design, our approach is fully atomic within a unified multimodal diffusion framework, in which residue identities are inferred solely from atom-level predictions. Built upon the powerful all-atom architecture, A-CODE achieves superior designability for unconditional protein generation, outperforming all existing one-stage and two-stage design models. For binder design, A-CODE rivals and even outperforms existing state-of-the-art two-stage design models and, compared with the existing one-stage co-design model, achieves a drastic tenfold improvement in success rate on hard tasks. The inherent flexibility of our atomic formulation enables, for the first time, seamless adaptation to non-canonical amino acid (ncAA) modeling. Our fully atomic framework establishes a new, versatile foundation for all-atom generative modeling that can be naturally extended to complex biomolecular systems."
+        },
+        {
+          "title": "Connecting IBD tracts and runs of homozygosity: A coalescent framework for inferring effective population size",
+          "url": "https://arxiv.org/abs/2605.03498",
+          "domain": "arxiv.org",
+          "date": "2026-05-06T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2605.03498v1 Announce Type: new Abstract: Identity by descent (IBD) tracts and runs of homozygosity (ROH) are related concepts that refer to the autozygosity in chromosome segments. However the formal relationship between their length distributions remains to be established. Here we present a coalescent framework that unifies these two concepts within a single analytical development. Starting from a Wright-Fisher model, we derive closed-form probability density functions for IBD tract lengths and extend these to the observable distribution of ROH lengths. This is achieved by explicitly modelling the displacement of ROH limits from true recombination breakpoints to the nearest heterozygous marker site. Mutation, gene conversion, finite marker density, and variable marker heterozygosity are incorporated as parameters in the theory that link IBD tracts to ROH. We show that the chromosome segment homozygosity (CSH) statistic emerges as a special case. This enables demographic information from IBD tracts and ROHs to be combined into a framework for inferring effective population size. Finally, we incorporate the quantitative genetic theory of background selection into the IBD length distribution, to show how selection introduces a systematic upward bias in apparent tract lengths. This demonstrates that no single Ne value can account for the entire IBD length distribution under selection. The application of this theory to the detection of selection signatures in the genome is illustrated using the example of the local selective sweep associated with lactase persistence in human populations."
         }
       ]
     },
@@ -278,6 +278,62 @@
       ],
       "articles": [
         {
+          "title": "North Korea terror victims escalate fight to seize $71 million from Aave hack",
+          "url": "https://www.coindesk.com/policy/2026/05/06/north-korea-terror-victims-escalate-fight-to-seize-usd71-million-from-aave-hack",
+          "domain": "coindesk.com",
+          "date": "2026-05-06T05:09:22.000Z",
+          "source": "CoinDesk",
+          "summary": "In a 30-page response filed Tuesday, attorneys for victims of three North Korea terrorism cases reframed the April 18 Aave hack as fraud rather than theft — a distinction that could give the attackers legal title to the borrowed crypto."
+        },
+        {
+          "title": "Kelp DAO to migrate rsETH to Chainlink CCIP as blame game continues",
+          "url": "https://cointelegraph.com/news/kelp-dao-to-migrate-rseth-to-chainlink-as-it-continues-to-blame-layerzero-infrastructure-failure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-06T04:49:19.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bryan Pellegrino, co-founder and CEO of LayerZero, disputes Kelp DAO’s accusations and said a postmortem by external security firms will be published soon."
+        },
+        {
+          "title": "Iggy Azalea faces class lawsuit over MOTHER memecoin",
+          "url": "https://cointelegraph.com/news/iggy-azalea-class-action-lawsuit-mother-memecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-06T04:29:35.000Z",
+          "source": "CoinTelegraph",
+          "summary": "A class-action group has accused rapper Iggy Azalea of not following through on delivering utility and business integrations for her memecoin, Mother Iggy."
+        },
+        {
+          "title": "XRP above $1.42 as traders watch 2025 breakout pattern that led to 66% rally",
+          "url": "https://www.coindesk.com/markets/2026/05/06/xrp-above-usd1-42-as-traders-watch-2025-breakout-pattern-that-led-to-66-rally",
+          "domain": "coindesk.com",
+          "date": "2026-05-06T04:25:26.000Z",
+          "source": "CoinDesk",
+          "summary": "Price compression near $1.42 comes as analysts point to a repeating bull flag structure and thinning liquidity conditions."
+        },
+        {
+          "title": "Crypto whale sues Coinbase for allegedly refusing to return stolen DAI",
+          "url": "https://www.theblock.co/post/400152/crypto-whale-sues-coinbase?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-06T04:25:23.000Z",
+          "source": "The Block",
+          "summary": "The plaintiff fell victim to a phishing scam that drained his DAI holdings, with part of the funds later traced to a Coinbase user account."
+        },
+        {
+          "title": "Bitcoin tops $81,000 as Strategy mulls selling its BTC to fund dividend obligations",
+          "url": "https://www.coindesk.com/markets/2026/05/06/bitcoin-tops-usd81-000-as-strategy-mulls-selling-its-btc-to-fund-dividend-obligations",
+          "domain": "coindesk.com",
+          "date": "2026-05-06T04:11:27.000Z",
+          "source": "CoinDesk",
+          "summary": "Strategy executive chairman Michael Saylor signalling a potential bitcoin sale to cover $1.5 billion in annual dividend obligations sent MSTR down 4% after hours and BTC briefly below $81,000."
+        },
+        {
+          "title": "Strategy could sell Bitcoin ‘to inoculate the market,’ Michael Saylor says",
+          "url": "https://cointelegraph.com/news/strategy-posts-125b-net-loss-in-q1-as-btc-fell-xx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-06T04:09:33.000Z",
+          "source": "CoinTelegraph",
+          "summary": "It marks the first time that Saylor’s company has floated the idea of selling Bitcoin, parting ways with his long-held view that Bitcoin shouldn’t be sold."
+        },
+        {
           "title": "Strategy likely to sell bitcoin to cover STRC dividends, Michael Saylor says",
           "url": "https://www.theblock.co/post/400145/strategy-sell-bitcoin-michael-saylor?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
@@ -286,7 +342,7 @@
           "summary": "Saylor explained that this will eventually help Strategy buy more bitcoin than it sells to cover dividends for its STRC."
         },
         {
-          "title": "Bitcoin holds $81K amid flat derivatives markets: Is the rally sustainable?",
+          "title": "Bitcoin holds $81K amid flat derivatives markets: Is rally sustainable?",
           "url": "https://cointelegraph.com/markets/bitcoin-holds-81k-amid-flat-derivatives-markets-is-the-rally-sustainable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
           "date": "2026-05-06T02:48:53.000Z",
@@ -300,62 +356,6 @@
           "date": "2026-05-05T23:43:44.000Z",
           "source": "CoinDesk",
           "summary": "Michael Saylor proposes using bitcoin sales to support dividends, as Strategy reported a $12.54 billion Q1 loss."
-        },
-        {
-          "title": "Trust in crypto remains biggest barrier to adoption, say Consensus Miami 2026 panelists",
-          "url": "https://www.coindesk.com/policy/2026/05/05/trust-in-crypto-remains-biggest-barrier-to-adoption-say-consensus-miami-2026-panelists",
-          "domain": "coindesk.com",
-          "date": "2026-05-05T22:39:33.000Z",
-          "source": "CoinDesk",
-          "summary": "Speakers point to complexity, poor user experience and lack of transparency as key obstacles for mainstream users."
-        },
-        {
-          "title": "Forward Industries, RockawayX back OnRe to build onchain reinsurance on Solana",
-          "url": "https://cointelegraph.com/news/forward-industries-rockawayx-onre-solana-reinsurance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-05T22:20:15.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Investors back a model that moves insurance risk and capital flows onto blockchain rails, as onchain reinsurance looks to attract institutional participation."
-        },
-        {
-          "title": "Ripple CEO says market structure bill not a ‘done deal,’ despite stablecoin compromise",
-          "url": "https://cointelegraph.com/news/ripple-ceo-market-structure-progress-stablecoin-compromise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-05T22:08:41.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Brad Garlinghouse addressed attendees at a Tuesday crypto conference on the progress of the CLARITY Act after US lawmakers announced a compromise on stablecoin yield that could advance the legislation."
-        },
-        {
-          "title": "The world's entire economy will be tokenized, says Consensys’ Joseph Lubin",
-          "url": "https://www.coindesk.com/business/2026/05/05/the-world-s-entire-economy-will-be-tokenized-says-consensys-joseph-lubin",
-          "domain": "coindesk.com",
-          "date": "2026-05-05T22:06:55.000Z",
-          "source": "CoinDesk",
-          "summary": "The Consensys CEO and founder said tokenization can be traced back to Ethereum, the blockchain he helped co-found."
-        },
-        {
-          "title": "It's transparency, not tech alone, that drives crypto adoption, panelists tell Consensus Miami",
-          "url": "https://www.coindesk.com/business/2026/05/05/it-s-transparency-not-tech-alone-that-drives-crypto-adoption-panelists-tell-consensus-miami",
-          "domain": "coindesk.com",
-          "date": "2026-05-05T22:04:41.000Z",
-          "source": "CoinDesk",
-          "summary": "Execs from PayPal, Robinhood, Public.com and 248 Ventures said the way to move retail into crypto and AI is to slow down, show your work, and put users back in control."
-        },
-        {
-          "title": "Different voices in product, policy and hiring change crypto outcomes, panelists tell Consensus Miami",
-          "url": "https://www.coindesk.com/business/2026/05/05/different-voices-in-product-policy-and-hiring-change-crypto-outcomes-panelists-tell-consensus-miami",
-          "domain": "coindesk.com",
-          "date": "2026-05-05T21:57:20.000Z",
-          "source": "CoinDesk",
-          "summary": "Senior leaders from Mastercard, the Crypto Council for Innovation and Clerisy said the right people in the right rooms can reshape internal decisions, citing examples from stablecoin-linked cards and financial access to staking-policy framing in Washington."
-        },
-        {
-          "title": "AI agents are breaking web economics, but Cloudflare says x402 can help",
-          "url": "https://www.coindesk.com/tech/2026/05/05/ai-agents-are-breaking-web-economics-but-cloudflare-says-x402-can-help",
-          "domain": "coindesk.com",
-          "date": "2026-05-05T21:47:54.000Z",
-          "source": "CoinDesk",
-          "summary": "The company’s Chief Strategy Officer said that more than half of internet traffic is now non-human, but that the x402 Foundation is building the rails for a \"golden age of content.\""
         }
       ]
     }
