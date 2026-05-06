@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-06T20:47:46.780Z",
+  "updatedAt": "2026-05-06T22:01:03.472Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -188,6 +188,14 @@
       ],
       "articles": [
         {
+          "title": "Membrane complex aids rock-eating microbes in converting carbon dioxide to biomass",
+          "url": "https://phys.org/news/2026-05-membrane-complex-aids-microbes-carbon.html",
+          "domain": "phys.org",
+          "date": "2026-05-06T21:40:07.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "So-called rock-eating microorganisms obtain their energy to convert carbon dioxide (CO2) from inorganic sources and make up the vast majority of biomass producers. Using electron microscopy and infrared spectroscopy, a research team from the universities of Potsdam and Marburg has investigated the structure of DAB2 in the sulfur bacterium Halothiobacillus neapolitanus. Their findings have been published in Nature Communications."
+        },
+        {
           "title": "Death-defying protein found in tardigrades preserves synthetic cells",
           "url": "https://phys.org/news/2026-05-death-defying-protein-tardigrades-synthetic.html",
           "domain": "phys.org",
@@ -258,14 +266,6 @@
           "date": "2026-05-06T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2605.02936v1 Announce Type: new Abstract: Representing dynamical systems through data-driven universal spaces has proven effective; however, achieving this universality for human brain activity remains a significant challenge, further aggravated by diverse cognitive states and individual subjects. Recognizing that spatial properties reflect physical wiring while temporal properties reflect brain function, we develop Universal Brain Dynamics (UBD) to construct a universal space tailored to brain activity and quantify corresponding dynamics using a model-derived Jacobian matrix. Crucially, we validate UBD's universality by accurately predicting functional magnetic resonance imaging (fMRI) signals (Pearson's r > 0.9) across eight states and 963 subjects in the Human Connectome Project (HCP). Through evaluating resting-state fMRI represented within UBD, we gain insight into how infra-slow fluctuation (ISF) underpins brain activity. Furthermore, we reveal a new perspective on structure-function coupling (SFC) by analyzing the temporal sequence of brain dynamics. Extending UBD to task-evoked states, we derive brain dynamics across various cognitive conditions, elucidating the neural mechanisms driving cognitive transitions at a finer granularity. For individual differences, we compare brain dynamics across subjects to identify the neural underpinnings of these variations. Our findings suggest that synergistically integrating spatial and temporal properties of brain activity establishes a universal space for its unfolding, enabling the precise numerical analysis of underlying neural mechanisms across varying conditions."
-        },
-        {
-          "title": "DynoSys: A Dynamic Systems Framework for Multimodal Integration of Genetic, Environmental, and Neurobiological Signals",
-          "url": "https://arxiv.org/abs/2605.02952",
-          "domain": "arxiv.org",
-          "date": "2026-05-06T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2605.02952v1 Announce Type: new Abstract: Understanding the development of adolescent behavioral and mental health outcomes requires integrating genetic predisposition, environmental exposures, and neurobiological processes over time. Here, we present a unified quantitative framework that models the human body as a dynamic system, where genetic factors form the foundational state, environmental exposures act as time-varying inputs, the brain might serve as a mediation processor, and behavioral phenotypes emerge as system outputs. Using longitudinal data from the Adolescent Brain Cognitive Development (ABCD) Study, we construct harmonized multi-domain representations across six phenotypes: externalizing behavior, internalizing behavior, and four substance use initiation outcomes (alcohol, nicotine, cannabis, and any substance use). We integrate polygenic risk scores (PRS), multi-domain environmental features, and multimodal neuroimaging representations derived through stability selection and dimensionality reduction. Our framework supports both continuous longitudinal modeling and survival-based event modeling through a unified data structure. We further develop interpretable domain-level representations using principal components, weighted risk scores, and cluster-based summaries. These representations enable downstream modeling using survival analysis, state-space models, and machine learning approaches. This work establishes a scalable and interpretable framework for studying how genetic and environmental factors interact over time to shape behavioral outcomes, providing a foundation for identifying modifiable risk factors and informing early intervention strategies."
         }
       ]
     },
@@ -277,6 +277,54 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "Spot Bitcoin ETFs solved access, but custody, advisors and plumbing still lag, panelists say",
+          "url": "https://www.coindesk.com/business/2026/05/06/spot-bitcoin-etfs-solved-access-but-custody-advisors-and-plumbing-still-lag-panelists-say",
+          "domain": "coindesk.com",
+          "date": "2026-05-06T21:57:41.000Z",
+          "source": "CoinDesk",
+          "summary": "Senior figures from CoinShares, Calamos, ProShares and Flow Traders flagged Coinbase-heavy custody concentration, modest advisor uptake and creation-flow inefficiency as being among the next set of problems to solve."
+        },
+        {
+          "title": "U.S. Bitcoin Reserve update coming in 'next few weeks,\" White House adviser says",
+          "url": "https://www.coindesk.com/policy/2026/05/06/u-s-bitcoin-reserve-update-coming-in-next-few-weeks-white-house-s-adviser-says",
+          "domain": "coindesk.com",
+          "date": "2026-05-06T21:44:42.000Z",
+          "source": "CoinDesk",
+          "summary": "White House digital-assets adviser Patrick Witt cited a recent exploit involving assets held by the U.S. Marshals as proof federal crypto holdings need safeguarding."
+        },
+        {
+          "title": "White House targets July 4 for Clarity Act passage, says crypto adviser Patrick Witt",
+          "url": "https://www.coindesk.com/policy/2026/05/06/white-house-targets-july-4-for-clarity-act-passage-says-crypto-adviser-patrick-witt",
+          "domain": "coindesk.com",
+          "date": "2026-05-06T21:16:54.000Z",
+          "source": "CoinDesk",
+          "summary": "The executive director of the President's Council of Advisors for Digital Assets said the Senate Banking Committee hearing will happen this month on market structure. bill."
+        },
+        {
+          "title": "Dominance of Tether and Circle is a net bad for stablecoins, says Bridge executive",
+          "url": "https://www.coindesk.com/business/2026/05/06/dominance-of-tether-and-circle-is-net-bad-for-stablecoins-says-bridge",
+          "domain": "coindesk.com",
+          "date": "2026-05-06T21:11:57.000Z",
+          "source": "CoinDesk",
+          "summary": "Circle and Tether are going to make it harder for stablecoins to feel like money, said Ben O'Neill, head of money movement at Bridge."
+        },
+        {
+          "title": "US Senator says crypto market structure vote could happen by August",
+          "url": "https://cointelegraph.com/news/kirsten-gillibrand-crypto-market-structure-august-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-06T21:07:09.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Kirsten Gillibrand said that the US Senate had to address lawmakers potentially getting “rich off of these industries because of their insider status“ before any vote on the CLARITY Act."
+        },
+        {
+          "title": "White House aims for July 4 deadline to pass landmark crypto regulation bill",
+          "url": "https://www.theblock.co/post/400320/white-house-aims-for-july-4-deadline-to-pass-landmark-crypto-regulation-bill?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-06T20:50:23.000Z",
+          "source": "The Block",
+          "summary": "The White House's top crypto adviser, Patrick Witt, set a target date for July 4 to pass broad crypto legislation into law."
+        },
         {
           "title": "Aave liquidates Kelp DAO attacker’s remaining rsETH positions",
           "url": "https://www.theblock.co/post/400315/aave-liquidates-kelp-dao-attackers-remaining-rseth-positions?utm_source=rss&utm_medium=rss",
@@ -302,60 +350,12 @@
           "summary": "The firm's head of digital assets research compared bitcoin adoption to different demographics embracing video games."
         },
         {
-          "title": "Bitcoin market dominance moves above 61%: Will altcoins follow?",
-          "url": "https://cointelegraph.com/markets/Bitcoin-market-dominance-moves-above-61%-Will-altcoins-follow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound&",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-06T19:05:31.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Bitcoin's market dominance climbed above 61% as BTC led crypto market flows. Data also showed Binance-listed altcoins' share of volume hitting 49% in March."
-        },
-        {
           "title": "Hut 8 investors shrug off Q1 loss, stoke 33% stock surge",
           "url": "https://cointelegraph.com/news/hut-8s-stock-surge-q1-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
           "date": "2026-05-06T18:58:11.000Z",
           "source": "CoinTelegraph",
           "summary": "The company also announced a new AI energy leasing deal as it continues to diversify into adjacent high-performance computing applications."
-        },
-        {
-          "title": "Crypto-backed Republican candidate wins Indiana congressional primary",
-          "url": "https://cointelegraph.com/news/crypto-pac-backed-republican-candidate-indiana-primary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-06T18:31:17.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Representative James Baird won the Republican primary for Indiana's 4th district on Tuesday after receiving an endorsement from Donald Trump and supportive spending from a crypto-backed PAC."
-        },
-        {
-          "title": "Anthropic signs Elon Musk's SpaceX for Colossus 1 compute ahead of June IPO",
-          "url": "https://www.coindesk.com/tech/2026/05/06/anthropic-signs-elon-musk-s-spacex-for-colossus-1-compute-ahead-of-june-ipo",
-          "domain": "coindesk.com",
-          "date": "2026-05-06T18:20:57.000Z",
-          "source": "CoinDesk",
-          "summary": "The Claude maker said Wednesday it would use all the compute capacity at SpaceX's Colossus 1 data center, the latest partnership stitched onto its AI infrastructure buildout."
-        },
-        {
-          "title": "Eric Trump takes shot at JPMorgan rethinking bitcoin after 'crapping' on asset",
-          "url": "https://www.coindesk.com/policy/2026/05/06/eric-trump-takes-shot-at-jpmorgan-rethinking-bitcoin-after-crapping-on-asset",
-          "domain": "coindesk.com",
-          "date": "2026-05-06T18:07:58.000Z",
-          "source": "CoinDesk",
-          "summary": "The U.S. president's son, who co-founded American Bitcoin, said there's been a turnaround from traditional institutional firms now embracing bitcoin."
-        },
-        {
-          "title": "Project Eleven warns quantum moment could hit ‘all at once,’ pegs Q-Day as early as 2030",
-          "url": "https://www.theblock.co/post/400274/project-eleven-warns-quantum-moment-all-at-once-q-day-early-2030?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-06T18:03:13.000Z",
-          "source": "The Block",
-          "summary": "Roughly 6.9 million BTC could be at risk to quantum computers under certain conditions, Project Eleven estimates."
-        },
-        {
-          "title": "Ripple, JPMorgan and others use XRP Ledger to cash out tokenized Treasurys fund internationally",
-          "url": "https://www.theblock.co/post/400281/ripple-jpmorgan-xrp-ledger-transfer-tokenized-treasury-across-borders?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-06T17:41:29.000Z",
-          "source": "The Block",
-          "summary": "The transaction represents an example of crypto firms and Wall Street institutions jointly exploring 24/7 settlement systems."
         }
       ]
     }
