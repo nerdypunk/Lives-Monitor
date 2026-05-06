@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-06T09:10:28.990Z",
+  "updatedAt": "2026-05-06T11:21:18.368Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -151,7 +151,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-05T16:13:22.000Z",
           "source": "Lifespan.io",
-          "summary": "In a new study, the popular supplement creatine seemed to add to some of the beneficial effects of power training [1]. Trying the combination in older people Exercise might be the most potent anti-aging intervention […]"
+          "summary": "In a new study, the popular supplement creatine seemed to add to some of the beneficial effects of power training [1]. Trying the combination in older people Exercise might be the most potent anti-aging intervention known […]"
         },
         {
           "title": "Longevity.Technology and AND Capital Ventures launch partnership",
@@ -278,6 +278,70 @@
       ],
       "articles": [
         {
+          "title": "Multicoin goes big on zcash as privacy trade returns",
+          "url": "https://www.coindesk.com/markets/2026/05/06/multicoin-goes-big-on-zcash-as-privacy-trade-returns",
+          "domain": "coindesk.com",
+          "date": "2026-05-06T11:05:01.000Z",
+          "source": "CoinDesk",
+          "summary": "The purchase marks a shift from Multicoin’s 2019 view, as ZEC has surged over 1,500% in the last year."
+        },
+        {
+          "title": "World’s first live map of token concentration: InsightX launches Atlas Live",
+          "url": "https://cointelegraph.com/press-releases/worlds-first-live-map-of-token-concentration-insightx-launches-atlas-live?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-06T11:00:00.000Z",
+          "source": "CoinTelegraph",
+          "summary": "A new era of on-chain trading transparency. Atlas Live enables traders to analyze token concentration and spot potential rug pulls. Now in real time."
+        },
+        {
+          "title": "Bitcoin ETFs add nearly $1B as BTC surges past $80K in multi-day rally",
+          "url": "https://cointelegraph.com/news/bitcoin-etfs-1-billion-inflows-btc-surge-past-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-06T10:40:09.000Z",
+          "source": "CoinTelegraph",
+          "summary": "US spot Bitcoin ETFs posted $999 million in inflows over two trading days as Bitcoin moved back above $80,000."
+        },
+        {
+          "title": "Bitcoin moves above $82,000 while ZEC and DASH post double-digit rallies",
+          "url": "https://www.coindesk.com/markets/2026/05/06/bitcoin-holds-gains-while-zec-and-dash-post-double-digit-rallies",
+          "domain": "coindesk.com",
+          "date": "2026-05-06T10:25:43.000Z",
+          "source": "CoinDesk",
+          "summary": "BTC climbed above $82,00 as a weaker dollar lifted crypto markets, while privacy coins and AI-linked tokens led an altcoin rally."
+        },
+        {
+          "title": "Ethereum co-founder Lubin backs ETH treasury firms, calls DATs ‘profound innovation’",
+          "url": "https://www.theblock.co/post/400171/ethereum-co-founder-lubin-backs-eth-treasury-firms-calls-dats-profound-innovation?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-06T10:20:52.000Z",
+          "source": "The Block",
+          "summary": "Joseph Lubin backed ETH treasury firms, confirmed Linea's Linux Foundation move, and highlighted Ethereum's quantum-safe roadmap."
+        },
+        {
+          "title": "OKX Card data shows crypto is paying for everyday life in Europe",
+          "url": "https://cointelegraph.com/news/okx-card-data-shows-crypto-is-paying-for-everyday-life-in-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-06T10:15:42.000Z",
+          "source": "CoinTelegraph",
+          "summary": "OKX Card data shows most crypto spending in Europe is on groceries and dining, signaling growing everyday use over luxury purchases."
+        },
+        {
+          "title": "Bitwise CIO says big tech stablecoin tests could help drive $4 trillion supply by 2030",
+          "url": "https://www.theblock.co/post/400170/bitwise-cio-says-big-tech-stablecoin-tests-could-help-drive-4-trillion-supply-by-2030?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-06T09:44:34.000Z",
+          "source": "The Block",
+          "summary": "Matt Hougan said tech firms like DoorDash and Meta exploring stablecoin payouts could help drive projections of $4 trillion in supply by 2030."
+        },
+        {
+          "title": "Bitcoin approaches $82,000 as oil crashes 6% on fresh Iran peace deal hopes",
+          "url": "https://www.coindesk.com/markets/2026/05/06/bitcoin-nasdaq-futures-rally-as-oil-crashes-6-on-iran-peace-deal-hopes",
+          "domain": "coindesk.com",
+          "date": "2026-05-06T09:26:02.000Z",
+          "source": "CoinDesk",
+          "summary": "Bitcoin climbed toward $82,000 alongside a more than 1% rise in Nasdaq futures amid reports of progress toward a U.S.–Iran memorandum of understanding."
+        },
+        {
           "title": "OKX joins crypto’s pre-IPO frenzy with OpenAI, SpaceX perpetual futures",
           "url": "https://www.coindesk.com/markets/2026/05/06/okx-joins-crypto-s-pre-ipo-frenzy-with-openai-spacex-perpetual-futures",
           "domain": "coindesk.com",
@@ -292,70 +356,6 @@
           "date": "2026-05-06T08:35:24.000Z",
           "source": "CoinDesk",
           "summary": "At Consensus Miami 2026, Solana Foundation President Lily Liu argued that stablecoin adoption by firms like Western Union validates Solana’s role as financial infrastructure for both human and machine economies."
-        },
-        {
-          "title": "Bitcoin's price rally has a hidden rhythm. Here are the hours and days driving gains.",
-          "url": "https://www.coindesk.com/markets/2026/05/06/bitcoin-s-price-rally-has-a-hidden-rhythm-here-are-the-hours-and-days-driving-gains",
-          "domain": "coindesk.com",
-          "date": "2026-05-06T08:29:21.000Z",
-          "source": "CoinDesk",
-          "summary": "Bitcoin’s three-month rally shows a clear internal structure than most traders might expect, with performance clustering around specific trading windows across global sessions."
-        },
-        {
-          "title": "Crypto custodian Taurus moves straight into EU capital markets with MiFID license in Cyprus",
-          "url": "https://www.coindesk.com/policy/2026/05/06/crypto-custody-firm-taurus-granted-mifid-license-in-cyprus",
-          "domain": "coindesk.com",
-          "date": "2026-05-06T08:00:00.000Z",
-          "source": "CoinDesk",
-          "summary": "The license allows the firm to offer tokenized financial instruments to EU banks as well as secondary trading for tokenized bonds, fund shares, equities, and structured products."
-        },
-        {
-          "title": "Colombian president seeks to transform the Caribbean into bitcoin mining hub",
-          "url": "https://www.theblock.co/post/400162/colombias-president-bitcoin-mining?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-06T07:50:43.000Z",
-          "source": "The Block",
-          "summary": "Petro pointed to Venezuela and Paraguay as countries that managed to attract investment in bitcoin mining with abundant clean energy."
-        },
-        {
-          "title": "Law enforcement freezes $41M connected to $150M crypto Ponzi collapse",
-          "url": "https://cointelegraph.com/news/law-enforcement-freezes-millions-connected-to-crypto-ponzi-collapse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-06T07:37:24.000Z",
-          "source": "CoinTelegraph",
-          "summary": "BG Wealth Sharing, according to authorities, claimed to provide guidance on crypto trading, advertised heavily on social media and offered “daily profit opportunities.”"
-        },
-        {
-          "title": "a16z raises $2.2B for new fund backing stablecoins, prediction markets",
-          "url": "https://cointelegraph.com/news/a16z-raises-2-billion-fund-crypto-projects?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-06T07:24:40.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Andreessen Horowitz’s crypto investment arm said its new fund would seek to back projects that “people keep using when the hype fades.”"
-        },
-        {
-          "title": "Crypto derivatives have converged with Wall Street. Equity perps could soon prove it.",
-          "url": "https://www.coindesk.com/markets/2026/05/06/equity-perps-could-become-more-popular-than-crypto-perps-as-the-line-between-crypto-and-wall-street-dissolves",
-          "domain": "coindesk.com",
-          "date": "2026-05-06T07:23:57.000Z",
-          "source": "CoinDesk",
-          "summary": "Crypto and traditional finance are converging fast, with perpetual futures emerging as the strongest bridge between the two."
-        },
-        {
-          "title": "Anchorage launches agentic banking as CEO tips ‘trillion-dollar’ opportunity",
-          "url": "https://cointelegraph.com/news/anchorage-google-cloud-launch-agentic-banking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-06T06:55:26.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Anchorage’s new product enables AI agents to have compliant access to capital across traditional finance and crypto payment rails."
-        },
-        {
-          "title": "Colombian president says Bitcoin mining could transform country's Caribbean coast",
-          "url": "https://cointelegraph.com/news/colombia-president-says-bitcoin-mining-could-transform-its-caribbean-coast?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-06T06:43:07.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The Colombian president pointed to the impact Bitcoin mining has had in Paraguay, which is now the fourth-largest Bitcoin mining country by hashrate."
         }
       ]
     }
