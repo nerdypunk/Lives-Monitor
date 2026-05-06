@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-06T13:15:44.000Z",
+  "updatedAt": "2026-05-06T15:38:58.573Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -57,12 +57,12 @@
           "summary": "Bio Protocol Jumps 53.85% in Intraday Trading &nbsp;&nbsp; bloomingbit"
         },
         {
-          "title": "Bio Protocol Multisig Wallet Transfers 80M BIO to CEX Worth $5.15M - Bitget",
+          "title": "Bio Protocol Multisig Wallet Transfers 80M BIO to CEX Worth $5.15M - bitget.com",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50N21PS05qNUM3TGtjd1R4eUlfdkp2WW1WVzEwSXNyNzhyWFVJRkMzaF9Mb1N3a3ZvM2RUV0RSd0R3RGR6ZWYwTXI3cEg1YTZJWGxFN1FYTnRDY3Q1eWfSAWNBVV95cUxPcjVSNTNrYko4cVRxY2RMS0dpb0c2dHdKWmQ3SGo2aTdndUlfWmZrMjlnckwxbmVna1B2MnZ0azBoVWIyaDJFRUVGRm1Zcm5ZR0wxc19XcDIycTE3d1VtSGV0bm8?oc=5",
           "domain": "bitget.com",
           "date": "2026-05-02T10:36:40.000Z",
-          "source": "Bitget",
-          "summary": "Bio Protocol Multisig Wallet Transfers 80M BIO to CEX Worth $5.15M &nbsp;&nbsp; Bitget"
+          "source": "bitget.com",
+          "summary": "Bio Protocol Multisig Wallet Transfers 80M BIO to CEX Worth $5.15M &nbsp;&nbsp; bitget.com"
         },
         {
           "title": "Crypto News Today: Bio Protocol (BIO) Rallies on Upbit Listing Buzz as AlphaPepe Adds 100 Holders Daily Before Listing - StreetInsider",
@@ -97,6 +97,14 @@
         "https://longevity.technology/feed/"
       ],
       "articles": [
+        {
+          "title": "Allen Law’s moonshot vision for the Longevity Century",
+          "url": "https://longevity.technology/news/allen-laws-moonshot-vision-for-the-longevity-century/",
+          "domain": "longevity.technology",
+          "date": "2026-05-06T13:47:03.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Allen Law shares his blueprint for closing the healthspan–lifespan gap and building the infrastructure for longer, healthier lives. Most people are living longer, but not better. Across much of the world, lifespans have increased dramatically, yet millions of people still spend the final decade of life managing chronic disease, physical decline, or cognitive deterioration. In […] The post Allen Law’s moonshot vision for the Longevity Century appeared first on Longevity.Technology ."
+        },
         {
           "title": "BioAge advances NLRP3 drug for CVD, retinal care",
           "url": "https://longevity.technology/news/bioage-advances-nlrp3-drug-for-cvd-retinal-care/",
@@ -151,7 +159,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-05T16:13:22.000Z",
           "source": "Lifespan.io",
-          "summary": "In a new study, the popular supplement creatine seemed to add to some of the beneficial effects of power training [1]. Trying the combination in […]"
+          "summary": "In a new study, the popular supplement creatine seemed to add to some of the beneficial effects of power training […]"
         },
         {
           "title": "Longevity.Technology and AND Capital Ventures launch partnership",
@@ -168,14 +176,6 @@
           "date": "2026-05-05T13:06:24.000Z",
           "source": "Longevity.Technology",
           "summary": "From overlooked sugar molecules to early disease detection, glycans are emerging as a powerful lens on biological age and personalized health. What if aging isn’t just written in your DNA, but in how your body responds to everything you’ve been through? Stress. Diet. Relationships. Even the way your immune system learns over time. This week’s […] The post The molecules you’ve been ignoring might be aging you appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Lineage presents 3-year OpRegen results in geographic atrophy",
-          "url": "https://longevity.technology/news/lineage-presents-3-year-opregen-results-in-geographic-atrophy/",
-          "domain": "longevity.technology",
-          "date": "2026-05-05T07:36:22.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Lineage Cell Therapeutics presented 36-month results from its Phase 1/2a study (NCT02286089) of RG6501 (OpRegen) in patients with geographic atrophy secondary to age-related macular degeneration at the Foundation Fighting Blindness Retinal Therapeutics Innovation Summit 2026. The company reported that Cohort 4 patients who completed three-year follow-up (n=10) showed a mean gain of +6.2 ETDRS letters […] The post Lineage presents 3-year OpRegen results in geographic atrophy appeared first on Longevity.Technology ."
         }
       ]
     },
@@ -187,6 +187,22 @@
         "https://phys.org/rss-feed/biology-news/biotechnology/"
       ],
       "articles": [
+        {
+          "title": "Dark proteome yields 1,785 new microproteins that could reshape disease research",
+          "url": "https://phys.org/news/2026-05-dark-proteome-yields-microproteins-reshape.html",
+          "domain": "phys.org",
+          "date": "2026-05-06T15:00:10.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Scientists have uncovered more than 1,700 new proteins that could have implications for human diseases, including cancer. Mostly very small, these proteins were found in what's called the \"dark proteome,\" which covers gene products from previously overlooked sections of DNA. These proteins have unusual properties, motivating scientists to coin a new concept, peptideins, to help understand their potentially unique biology."
+        },
+        {
+          "title": "A new kind of CRISPR could treat viral infection and cancer by shredding sick cells' DNA",
+          "url": "https://phys.org/news/2026-05-kind-crispr-viral-infection-cancer.html",
+          "domain": "phys.org",
+          "date": "2026-05-06T15:00:08.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "A new kind of CRISPR that destroys cells rather than gene editing them has shown potential for killing sick cells while leaving healthy cells untouched. The technology has largely been tested in cells in a dish, but if it can be applied to organisms, it could be a powerful tool to treat disease and advance research."
+        },
         {
           "title": "OpenBind's first data and model release marks a milestone for AI enabled drug discovery",
           "url": "https://phys.org/news/2026-05-openbind-milestone-ai-enabled-drug.html",
@@ -250,22 +266,6 @@
           "date": "2026-05-06T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2605.03146v1 Announce Type: new Abstract: Usutu virus (USUV) is a flavivirus of the Japanese encephalitis complex transmitted between \\textit{Culex} mosquitoes and birds, a transmission pattern similar to that of the West Nile virus (WNV). In Germany, the first case of USUV was detected in 2010 in mosquitoes collected in the town of Weinheim, and by 2018 the virus had spread to almost the entire country. Interestingly, the infection front exhibited a clockwise rotational spread pattern throughout the years, a pattern completely different from that of the WNV. This clockwise progression corresponded closely with the spatial temperature gradient, suggesting that warmer regions probably facilitated faster viral amplification and onward transmission. Understanding the drivers that influence the spreading patterns of arboviruses is important as it guides surveillance and implementation of control strategies. In this study, we develop a reaction-diffusion partial differential equation (PDE) model to investigate the spatial spread of USUV in Germany within an extended domain that includes some neighbouring countries (Belgium, the Netherlands, and Luxembourg), thereby capturing cross-border transmission processes. Mosquito parameters, i.e., extrinsic incubation rate, mortality and biting rates, are temperature-driven, as temperature plays an important role in the activity of mosquitoes. Our model qualitatively reproduced the main spatial trends of USUV in Germany and surrounding countries. The heterogeneous spread pattern arises from the interplay of diffusion and spatially varying temperature, which together may influence determine regions with higher transmission potential."
-        },
-        {
-          "title": "NeuralSet: A High-Performing Python Package for Neuro-AI",
-          "url": "https://arxiv.org/abs/2605.03169",
-          "domain": "arxiv.org",
-          "date": "2026-05-06T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2605.03169v1 Announce Type: new Abstract: Artificial intelligence (AI) is increasingly central to understanding how the brain processes information. However, the integration of neuroscience and modern AI is bottlenecked by a fragmented software ecosystem. Current tools are siloed by recording modality and optimized for small-scale, in-memory workflows, limiting the use of massive, naturalistic datasets. Here, we introduce NeuralSet, a Python framework that efficiently unifies the processing of diverse neural recordings (including fMRI, M/EEG, and spikes) and complex experimental stimuli (such as text, audio, and video). By decoupling experimental metadata from lazy, memory-efficient data extraction, NeuralSet harmonizes standard neuroscientific preprocessing pipelines with pretrained deep learning embeddings. This approach provides a single PyTorch-ready interface that scales seamlessly from local prototyping to high-performance cluster execution. By eliminating manual data wrangling and ensuring full computational provenance, NeuralSet establishes a scalable, unified infrastructure for the next generation of neuro-AI research."
-        },
-        {
-          "title": "Donor-Aware scRNA-seq Benchmarks for IBD Classification",
-          "url": "https://arxiv.org/abs/2605.03281",
-          "domain": "arxiv.org",
-          "date": "2026-05-06T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2605.03281v1 Announce Type: new Abstract: Donor-level disease classification from single-cell RNA sequencing (scRNA-seq) requires strict donor-aware cross-validation: naive pipelines that split cells randomly conflate training and test donors, inflating reported performance through pseudoreplication. We present a donor-aware benchmark evaluating three feature representations across two independent IBD cohorts: centered log-ratio (CLR) transformed cell-type composition, GatedStructuralCFN dependency embeddings, and scVI variational autoencoder latent embeddings. The cohorts are the SCP259 ulcerative colitis atlas (UC vs. Healthy, n=30 donors, 51 cell types) and the Kong 2023 Crohn's disease atlas (CD vs. Healthy, n=71 donors, 55-68 cell types across three intestinal regions). Compartment-stratified CLR composition achieves AUROC 0.956 +/- 0.061 on SCP259; GatedStructuralCFN on the same features achieves 0.978 +/- 0.050. In the Kong cohort, CFN achieves its best performance in the colon region (0.960 +/- 0.055 after feature filtering), exceeding linear CLR (0.900 +/- 0.100), while terminal ileum classification is dominated by linear models (CatBoost CLR 0.967 +/- 0.075 vs. CFN 0.811 +/- 0.164). Cross-dataset transfer (CD->UC, four shared cell types) achieves AUC 0.833 with XGBoost CLR; the reverse direction performs at chance. CFN edge stability analysis shows that compartment-wise composition eliminates spurious unit-sum-induced instability present in global composition (Jaccard 0.026 vs. top-20 recurrence 1.0). CFN shows a consistent numerical advantage over linear models in the colon region of CD (AUROC 0.960 vs. 0.900), though no inter-method comparison reached statistical significance at n<=34 donors per region. Compartment-aware feature construction is critical for both classification performance and structural interpretability. Code: https://github.com/Jonathan-321/sfn-scrna-study"
         }
       ]
     },
@@ -278,84 +278,84 @@
       ],
       "articles": [
         {
-          "title": "Memecoin trades carry rare 'seven-leg' parlay odds, BONK's Nom says at Consensus",
-          "url": "https://www.coindesk.com/markets/2026/05/06/memecoin-trades-carry-rare-seven-leg-parlay-odds-bonk-s-nom-says-at-consensus",
+          "title": "The legal risks and practical considerations of digital asset blacklisting",
+          "url": "https://www.coindesk.com/opinion/2026/05/06/the-legal-risks-and-practical-considerations-of-digital-asset-blacklisting",
           "domain": "coindesk.com",
-          "date": "2026-05-06T13:07:15.000Z",
+          "date": "2026-05-06T15:30:00.000Z",
           "source": "CoinDesk",
-          "summary": "The BONK core contributor argued memecoins skipping ETF and public-company rails end up rinsing retail."
+          "summary": "When digital assets are frozen, holders can suddenly be deprived of access to their legitimate assets or income. Here’s what to know to keep your digital holdings safe."
         },
         {
-          "title": "Colombia wants to mine bitcoin with surplus renewable energy",
-          "url": "https://www.coindesk.com/tech/2026/05/06/colombia-wants-to-mine-bitcoin-with-surplus-renewable-energy",
-          "domain": "coindesk.com",
-          "date": "2026-05-06T12:56:45.000Z",
-          "source": "CoinDesk",
-          "summary": "President Gustavo Petro said Colombia's Caribbean coast could host bitcoin mining facilities powered by surplus renewable energy, following a path similar to Paraguay."
-        },
-        {
-          "title": "Zcash bets turn into second-largest liquidations behind bitcoin as ZEC rockets 30%",
-          "url": "https://www.coindesk.com/markets/2026/05/06/zcash-bets-turn-into-second-largest-liquidations-behind-bitcoin-as-zec-rockets-30",
-          "domain": "coindesk.com",
-          "date": "2026-05-06T12:53:44.000Z",
-          "source": "CoinDesk",
-          "summary": "The privacy coin extended its multi-month rally on Tuesday with $46.7 million in shorts liquidated, after Multicoin Capital disclosed a significant ZEC position."
-        },
-        {
-          "title": "Bubblemaps flags MYSTERY token over 90-wallet launch sniping cluster",
-          "url": "https://cointelegraph.com/news/bubblemaps-flags-mystery-over-90-wallet-launch-sniping-cluster?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-06T12:51:53.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Bubblemaps said it identified a large wallet cluster that accumulated 90% of the Mystery token’s supply at launch, raising concerns around the token’s distribution."
-        },
-        {
-          "title": "Morgan Stanley brings crypto trading with lower fees than rivals",
-          "url": "https://www.coindesk.com/markets/2026/05/06/morgan-stanley-brings-crypto-trading-with-lower-fees-than-rivals",
-          "domain": "coindesk.com",
-          "date": "2026-05-06T12:39:37.000Z",
-          "source": "CoinDesk",
-          "summary": "The bank is rolling out crypto trading on E*Trade with lower fees than Coinbase, Robinhood and Schwab, according to Bloomberg."
-        },
-        {
-          "title": "Linea contributes ZK rollup stack to Linux Foundation open-source group",
-          "url": "https://cointelegraph.com/news/linea-contributes-zk-rollup-stack-to-linux-foundation-open-source-group?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-06T12:29:44.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Linea Consortium board director Declan Fox said the move gives its technology a neutral, foundation-governed home."
-        },
-        {
-          "title": "Bullish’s Equiniti deal could remake it into a tokenization powerhouse, Clear Street says",
-          "url": "https://www.coindesk.com/markets/2026/05/06/bullish-s-equiniti-deal-could-remake-it-into-a-tokenization-powerhouse-analysts-say",
-          "domain": "coindesk.com",
-          "date": "2026-05-06T12:18:00.000Z",
-          "source": "CoinDesk",
-          "summary": "Compass Point took a more cautious stance, reiterating a Neutral rating and $36 target, saying much of the expected growth is already priced in, though it acknowledged potential upside."
-        },
-        {
-          "title": "Bitcoin short-term holder cost basis eyes $92K as next price target",
-          "url": "https://cointelegraph.com/markets/bitcoins-sth-cost-basis-suggests-92k-is-the-next-stop-for-btc-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-06T12:10:38.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Bitcoin’s onchain data suggests that the upside may not be over for BTC price, but resistance at $84,000 could delay the recovery."
-        },
-        {
-          "title": "Coinbase faces lawsuit over frozen funds from $55M crypto theft",
-          "url": "https://cointelegraph.com/news/coinbase-sued-for-withholding-frozen-crypto-linked-to-55m-defi-saver-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-06T12:03:39.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The plaintiff says Coinbase froze traceable assets from a 2024 DAI phishing theft but refused to return them without a court order."
-        },
-        {
-          "title": "Attackers drain $1.4M in wrapped bitcoin from DeFi protocol Ekubo in approval-based exploit",
-          "url": "https://www.theblock.co/post/400189/attackers-drain-1-4m-in-wrapped-bitcoin-from-defi-protocol-ekubo-in-approval-based-exploit?utm_source=rss&utm_medium=rss",
+          "title": "Solana Company, Jito Foundation target institutional Solana staking expansion in Asia",
+          "url": "https://www.theblock.co/post/400244/solana-company-jito-foundation-target-institutional-solana-staking-expansion-in-asia?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-05-06T12:00:11.000Z",
+          "date": "2026-05-06T15:29:59.000Z",
           "source": "The Block",
-          "summary": "Ekubo Protocol lost roughly $1.4 million in WBTC after attackers exploited a flaw in its EVM swap router contracts."
+          "summary": "The two companies will build institutional-grade validator infrastructure, optimize yield, and drive Solana adoption in Asia."
+        },
+        {
+          "title": "The Protocol: AI Agents form their own firm",
+          "url": "https://www.coindesk.com/tech/2026/05/06/the-protocol-ai-agents-form-their-own-firm",
+          "domain": "coindesk.com",
+          "date": "2026-05-06T15:18:23.000Z",
+          "source": "CoinDesk",
+          "summary": "Also: Alpenglow upgrade update, Ripple on North Korea hacking threat, Cloudflare on AI agents and web economics"
+        },
+        {
+          "title": "Morgan Stanley takes on crypto trading rivals with E*Trade pilot",
+          "url": "https://cointelegraph.com/news/morgan-stanley-emerges-as-crypto-exchange-competitor-with-low-fee-trading-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-06T15:08:47.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The Wall Street bank is charging 50 basis points per crypto trade, below basic retail pricing at Coinbase, Robinhood and Charles Schwab."
+        },
+        {
+          "title": "Y Combinator to hold crypto startup interviews in New York for first time",
+          "url": "https://www.theblock.co/post/400239/y-combinator-crypto-startup-interviews-new-york-first-time?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-06T15:00:00.000Z",
+          "source": "The Block",
+          "summary": "Y Combinator is set to host interviews in New York City for the first time, focusing specifically on fintech and crypto startups."
+        },
+        {
+          "title": "Hut 8 shares jump over 30% on news of $9.8 billion AI data center lease",
+          "url": "https://www.coindesk.com/business/2026/05/06/hut-8-shares-jump-nearly-30-on-news-of-usd9-8-billion-ai-data-center-lease",
+          "domain": "coindesk.com",
+          "date": "2026-05-06T14:56:37.000Z",
+          "source": "CoinDesk",
+          "summary": "Bitcoin miner expands into AI infrastructure with long-term hyperscale contract in Texas, which includes options that could increase the total value of the agreement to over $25 billion."
+        },
+        {
+          "title": "Consensus Miami Day 2: Real-time coverage and highlights from on the ground",
+          "url": "https://www.coindesk.com/business/2026/05/06/consensus-miami-day-2-real-time-coverage-and-highlights-from-on-the-ground",
+          "domain": "coindesk.com",
+          "date": "2026-05-06T14:56:09.000Z",
+          "source": "CoinDesk",
+          "summary": "It's day two of Consensus Miami 2026 on Wednesday. Stay tuned for updates throughout the day."
+        },
+        {
+          "title": "Stablecoin industry opposes Bank of England’s unhosted wallet ban",
+          "url": "https://cointelegraph.com/features/stablecoin-industry-opposes-bank-of-englands-unhosted-wallet-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-06T14:55:00.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The crypto industry in the UK has come out against the Bank of England’s proposed policy that would ban custodial wallets for stablecoins."
+        },
+        {
+          "title": "‘Clarity Act will pass this summer’: Coinbase CLO Grewal backs stablecoin compromise, urges banks to accept deal",
+          "url": "https://www.theblock.co/post/400230/clarity-act-will-pass-this-summer-coinbase-clo-grewal-backs-stablecoin-compromise-urges-banks-to-accept-deal?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-06T14:46:59.000Z",
+          "source": "The Block",
+          "summary": "Coinbase CLO Paul Grewal says the Clarity Act will pass this summer, backing the Tillis-Alsobrooks stablecoin compromise."
+        },
+        {
+          "title": "Core Scientific to acquire bitcoin miner Polaris in $421 million deal to expand Oklahoma AI data center campus",
+          "url": "https://www.theblock.co/post/400226/core-scientific-acquire-bitcoin-miner-polaris-421-million-oklahoma-ai-data-center?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-06T14:14:40.000Z",
+          "source": "The Block",
+          "summary": "Polaris’ 40-acre campus is energized and actively operating with 40 megawatts of contracted power through Oklahoma Gas & Electric."
         }
       ]
     }
