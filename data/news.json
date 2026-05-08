@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-07T23:37:59.929Z",
+  "updatedAt": "2026-05-08T01:26:38.191Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -81,12 +81,12 @@
           "summary": "Bio Protocol jumps 5% on Upbit amid extreme greed and high trading volume &nbsp;&nbsp; Pluang"
         },
         {
-          "title": "BIO Token Gains 19% As DeSci Narrative Draws Fresh Trader Interest - Yellow.com",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1NWDBRSEdsNWVRSm9RcWl5TGR1QTV4RnMzenZQQXpnMlh0SXNmUDZrZ1d2UzNRZGVDVTFQQnRSYnFGX24yZzdLTzYwSVBDLXkzeGFCeUl2V2R4M19CY2pNUGtQclhSUQ?oc=5",
-          "domain": "yellow.com",
-          "date": "2026-05-01T18:51:15.000Z",
-          "source": "Yellow.com",
-          "summary": "BIO Token Gains 19% As DeSci Narrative Draws Fresh Trader Interest &nbsp;&nbsp; Yellow.com"
+          "title": "Bio Protocol moves 80M BIO tokens worth $5.15M to exchange, signaling potential market activity. - Pluang",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcmc1NXB4dTh3bEtGSDMtQ3p3UnNod1h3Y0drbk92NFFQRWVkUVViNHp6RklocDJXMmcxLUxjMTl5WEtqYnlONnU0LUtVRkFycUhqeVhaSWVOVUU0TzBGUmVPTjVDRVZxTEhSN2VoTVJVand5SEpiQUNlOEpPWmxXM0dVYmhwRV9wMkk4c0szRE1RaTNSVFo0TVRR?oc=5",
+          "domain": "pluang.com",
+          "date": "2026-05-02T07:00:00.000Z",
+          "source": "Pluang",
+          "summary": "Bio Protocol moves 80M BIO tokens worth $5.15M to exchange, signaling potential market activity. &nbsp;&nbsp; Pluang"
         }
       ]
     },
@@ -103,7 +103,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-07T19:09:58.000Z",
           "source": "Lifespan.io",
-          "summary": "In Aging Cell, researchers have elucidated the relationship between intestinal aging and age-related changes to the gut microbiome. Two interdependent biologies […]"
+          "summary": "In Aging Cell, researchers have elucidated the relationship between intestinal aging and age-related changes to the gut microbiome. Two interdependent biologies The human gut works through the interaction of two entirely different sets of cells. The first […]"
         },
         {
           "title": "Heart drug vutrisiran shows steady profile in new analyses",
@@ -188,6 +188,14 @@
       ],
       "articles": [
         {
+          "title": "AI tool unifies fragmented cell maps into spatial atlases across tissues",
+          "url": "https://phys.org/news/2026-05-ai-tool-fragmented-cell-spatial.html",
+          "domain": "phys.org",
+          "date": "2026-05-07T23:40:05.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "A new computational method could dramatically accelerate efforts to map the body's cells in space, according to a study published in Nature Genetics. Spatial multi-omics technologies—often described as ultra-high-resolution maps of tissues—allow scientists to see not only which genes or proteins are active in a cell, but exactly where that activity occurs. That spatial context is critical for understanding complex organs such as the brain, immune tissues and developing embryos."
+        },
+        {
           "title": "Ultrasound waves rupture COVID-19 and flu viruses without damaging cells",
           "url": "https://phys.org/news/2026-05-ultrasound-rupture-covid-flu-viruses.html",
           "domain": "phys.org",
@@ -258,14 +266,6 @@
           "date": "2026-05-07T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2605.04326v1 Announce Type: new Abstract: Cognitive neuroscience is fragmented into specialized models, each tailored to specific experimental paradigms, hence preventing a unified model of cognition in the human brain. Here, we introduce TRIBE v2, a tri-modal (video, audio and language) foundation model capable of predicting human brain activity in a variety of naturalistic and experimental conditions. Leveraging a unified dataset of over 1,000 hours of fMRI across 720 subjects, we demonstrate that our model accurately predicts high-resolution brain responses for novel stimuli, tasks and subjects, superseding traditional linear encoding models, delivering several-fold improvements in accuracy. Critically, TRIBE v2 enables in silico experimentation: tested on seminal visual and neuro-linguistic paradigms, it recovers a variety of results established by decades of empirical research. Finally, by extracting interpretable latent features, TRIBE v2 reveals the fine-grained topography of multisensory integration. These results establish artificial intelligence as a unifying framework for exploring the functional organization of the human brain."
-        },
-        {
-          "title": "Genotype specificity and spatial arrangement govern the direction and magnitude of selection in variable environments",
-          "url": "https://arxiv.org/abs/2605.04339",
-          "domain": "arxiv.org",
-          "date": "2026-05-07T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2605.04339v1 Announce Type: new Abstract: Spatial environmental variation can either amplify or suppress the fixation of beneficial mutants in structured populations, yet the interplay of ecological factors and spatial structure in determining which outcome occurs remains theoretically unresolved. Here, we develop a unified framework for selection on lattice graphs with environmental heterogeneity, in which mutant and resident fitness depend on the local environmental state. Across three common classes of genotype-environment interactions and a wide range of spatial arrangements of environmental states, we identify two governing principles. Genotype specificity determines the direction of the effect: heterogeneity amplifies selection when it modulates resident fitness, but suppresses selection when it modulates mutant fitness, with genotype-symmetric modulation producing weaker amplification. Spatial arrangement determines the magnitude: intermixed versus clustered environments tune the strength of amplification or suppression without reversing the direction of the effect. Together, these principles reconcile disparate theoretical results and provide predictive criteria for adaptation in heterogeneous landscapes, from microbial communities to somatic evolution and cancer."
         }
       ]
     },
@@ -277,6 +277,22 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "Hyperliquid Strategies posts $165 million net loss for nine months ended March 31 as HYPE treasury grows",
+          "url": "https://www.theblock.co/post/400512/hyperliquid-strategies-net-loss?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-08T00:19:55.000Z",
+          "source": "The Block",
+          "summary": "The firm has deployed $216 million to acquire approximately 7.3 million HYPE tokens since its inception in December 2025."
+        },
+        {
+          "title": "Bitcoin bulls target $115K by December: Does data back the expectation?",
+          "url": "https://cointelegraph.com/markets/bitcoin-bulls-target-115k-by-december-does-data-back-the-expectation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-07T23:56:15.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bitcoin options show bulls targeting $115,000 by year-end but are traders becoming overly optimistic?"
+        },
         {
           "title": "US Treasury ‘privately demanded’ Binance comply with monitoring deal: Report",
           "url": "https://cointelegraph.com/news/us-treasury-binance-monitoring-program-reminder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -340,22 +356,6 @@
           "date": "2026-05-07T21:11:09.000Z",
           "source": "The Block",
           "summary": "Alongside the AI infrastructure expansion, Nvidia took warrants that may eventually convert into a $2.1 billion stake in IREN."
-        },
-        {
-          "title": "AI agents and large corporates will lead the next stablecoin boom, executives say",
-          "url": "https://www.coindesk.com/business/2026/05/07/ai-agents-and-large-corporates-will-lead-the-next-stablecoin-boom-executives-say",
-          "domain": "coindesk.com",
-          "date": "2026-05-07T21:10:50.000Z",
-          "source": "CoinDesk",
-          "summary": "Stablecoins are entering a new phase of adoption, with large corporations using them for cross-border treasury flows while AI agents begin using blockchain rails for autonomous payments, Bridge and Deus X Capital executives said at Consensus 2026."
-        },
-        {
-          "title": "Fund managers double down on Bitcoin as crypto sentiment rebounds — CoinShares",
-          "url": "https://cointelegraph.com/news/fund-managers-boost-bitcoin-exposure-crypto-sentiment-rebounds-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-07T20:55:08.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Institutional investors are gradually increasing crypto exposure as Bitcoin leads allocation preferences amid rising fund inflows and improving market sentiment."
         }
       ]
     }
