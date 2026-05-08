@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-08T19:25:11.056Z",
+  "updatedAt": "2026-05-08T20:34:59.473Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -41,14 +41,6 @@
           "summary": "DeSci's Second Coming? &nbsp;&nbsp; Delphi Digital"
         },
         {
-          "title": "BIO - Bio Protocol - AMBCrypto",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE45RjIyV0VEcEVXYldMa0J6Sk03eFh6Q1RTUjdaZjRaU3pSNDIxSjRpS0E0RWhIWFF5LWtCU1ZrV0JacHh2eHEtbWNhcEEtWHN4NXZB?oc=5",
-          "domain": "ambcrypto.com",
-          "date": "2026-05-05T06:48:01.000Z",
-          "source": "AMBCrypto",
-          "summary": "BIO - Bio Protocol &nbsp;&nbsp; AMBCrypto"
-        },
-        {
           "title": "DeSci Has Raised Millions For Research No VC Would Ever Touch - Yellow.com",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQzAtQWJmSEtGX1pXdWVOR0RsRnhXWGp4S2VYUEhXREJiM1ljR01reDZfS1hwU0g3eTMzaFdOdnVJb3l2R2lNdmdCVEhuUWExYjB0VTNReUIwUlRxTjhrdmlCV1d5R3VXbGtRWFp3eGQ0VTV0SjhZdGpNOGV2dDNYcnVodm9PWWJHYlE?oc=5",
           "domain": "yellow.com",
@@ -87,6 +79,14 @@
           "date": "2026-05-02T07:00:00.000Z",
           "source": "Pluang",
           "summary": "Bio Protocol jumps 5% on Upbit amid extreme greed and high trading volume &nbsp;&nbsp; Pluang"
+        },
+        {
+          "title": "Bio Protocol moves 80M BIO tokens worth $5.15M to exchange, signaling potential market activity. - Pluang",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcmc1NXB4dTh3bEtGSDMtQ3p3UnNod1h3Y0drbk92NFFQRWVkUVViNHp6RklocDJXMmcxLUxjMTl5WEtqYnlONnU0LUtVRkFycUhqeVhaSWVOVUU0TzBGUmVPTjVDRVZxTEhSN2VoTVJVand5SEpiQUNlOEpPWmxXM0dVYmhwRV9wMkk4c0szRE1RaTNSVFo0TVRR?oc=5",
+          "domain": "pluang.com",
+          "date": "2026-05-02T07:00:00.000Z",
+          "source": "Pluang",
+          "summary": "Bio Protocol moves 80M BIO tokens worth $5.15M to exchange, signaling potential market activity. &nbsp;&nbsp; Pluang"
         }
       ]
     },
@@ -135,7 +135,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-08T16:09:48.000Z",
           "source": "Lifespan.io",
-          "summary": "Dr. Junyue Cao is a professor at the Rockefeller University, and his lab develops ultra-high-throughput single-cell technologies and applies them to the biology of aging. In a recent paper published in Science, his team […]"
+          "summary": "Dr. Junyue Cao is a professor at the Rockefeller University, and his lab develops ultra-high-throughput single-cell technologies and applies them to the biology of aging. In a recent paper […]"
         },
         {
           "title": "AI meets ALS in £7.5 million Longitude Prize",
@@ -278,6 +278,14 @@
       ],
       "articles": [
         {
+          "title": "‘Shifted the vibes:’ Stablecoin deal revives crypto bill despite lingering ethics disputes",
+          "url": "https://www.theblock.co/post/400608/shifted-vibes-stablecoin-deal-revives-crypto-bill-despite-lingering-ethics-disputes?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-08T20:20:38.000Z",
+          "source": "The Block",
+          "summary": "Vibes are on the upswing a week after lawmakers reached a compromise on what had become a major sticking point in passing crypto legislation."
+        },
+        {
           "title": "AI agents fueled a frenzy of startup building at the Consensus Miami EasyA hackathon",
           "url": "https://www.coindesk.com/tech/2026/05/08/ai-agents-fueled-a-frenzy-of-startup-building-at-the-consensus-miami-easya-hackathon",
           "domain": "coindesk.com",
@@ -348,14 +356,6 @@
           "date": "2026-05-08T17:36:31.000Z",
           "source": "The Block",
           "summary": "The SEC needs to clear up how its regulatory framework applies to software applications, said its Chair Paul Atkins on Friday."
-        },
-        {
-          "title": "Crypto Biz: Wall Street wants more than just Bitcoin",
-          "url": "https://cointelegraph.com/news/crypto-biz-institutions-crypto-bitcoin-etfs-prediction-markets-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-08T17:14:58.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Institutional capital is returning to crypto as Bitcoin ETFs surge, prediction markets mature and banks accelerate tokenized finance adoption."
         }
       ]
     }
