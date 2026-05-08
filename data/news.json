@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-08T21:42:34.306Z",
+  "updatedAt": "2026-05-08T22:39:58.546Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -135,7 +135,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-08T16:09:48.000Z",
           "source": "Lifespan.io",
-          "summary": "Dr. Junyue Cao is a professor at the Rockefeller University, and his lab develops ultra-high-throughput single-cell technologies and applies them to the biology […]"
+          "summary": "Dr. Junyue Cao is a professor at the Rockefeller University, and his lab develops ultra-high-throughput single-cell technologies and applies them to the biology of aging. In a recent paper […]"
         },
         {
           "title": "AI meets ALS in £7.5 million Longitude Prize",
@@ -278,6 +278,22 @@
       ],
       "articles": [
         {
+          "title": "Estonia's FSA issues investor warning about Zondacrypto",
+          "url": "https://cointelegraph.com/news/estonia-fsa-investor-warning-zondacrypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-08T21:34:29.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The news follows an investigation into the crypto exchange by Polish law enforcement officials and reports of customer withdrawal issues."
+        },
+        {
+          "title": "Swiss Bitcoin reserve campaign set to lapse after failing to gather signatures",
+          "url": "https://cointelegraph.com/news/swiss-bitcoin-reserve-campaign-to-lapse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-08T21:21:42.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Organizers failed to collect enough signatures to trigger a referendum that would have required the Swiss National Bank to hold Bitcoin in its reserves."
+        },
+        {
           "title": "Duke law lecturer argues Trump-connected World Liberty Financial issued a security",
           "url": "https://www.theblock.co/post/400616/duke-law-lecturer-trump-connected-world-liberty-financial-issued-security?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
@@ -340,22 +356,6 @@
           "date": "2026-05-08T18:53:06.000Z",
           "source": "The Block",
           "summary": "There has been 34 verified incidents globally, a 41% increase from the same period in 2025, CertiK said in a report published Friday."
-        },
-        {
-          "title": "Exodus launches AI agent-focused stablecoin on Solana",
-          "url": "https://cointelegraph.com/news/exodus-launches-ai-agent-focused-stablecoin-on-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-08T18:38:02.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The crypto wallet company pairs the XO Cash token with software tools that let AI agents transact using preset spending controls and stablecoin payments."
-        },
-        {
-          "title": "SEC chair Atkins signals new rules for onchain markets, AI-driven finance",
-          "url": "https://www.coindesk.com/policy/2026/05/08/sec-chair-atkins-signals-new-rules-for-onchain-markets-ai-driven-finance",
-          "domain": "coindesk.com",
-          "date": "2026-05-08T18:32:23.000Z",
-          "source": "CoinDesk",
-          "summary": "The SEC chair linked the rise of AI-powered financial systems with growing demand for blockchain-based market infrastructure and automated settlement."
         }
       ]
     }
