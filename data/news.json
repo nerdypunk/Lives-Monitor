@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-08T06:23:29.816Z",
+  "updatedAt": "2026-05-08T08:10:29.934Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -103,7 +103,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-07T19:09:58.000Z",
           "source": "Lifespan.io",
-          "summary": "In Aging Cell, researchers have elucidated the relationship between intestinal aging and age-related changes to the gut microbiome. Two interdependent biologies The human gut works through the interaction […]"
+          "summary": "In Aging Cell, researchers have elucidated the relationship between intestinal aging and age-related changes to the gut microbiome. Two interdependent biologies The […]"
         },
         {
           "title": "Heart drug vutrisiran shows steady profile in new analyses",
@@ -278,6 +278,38 @@
       ],
       "articles": [
         {
+          "title": "Arbitrum DAO approves $70 million ETH release for Kelp DAO recovery",
+          "url": "https://www.theblock.co/post/400527/arbitrum-dao-approves-eth-release?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-08T07:25:40.000Z",
+          "source": "The Block",
+          "summary": "However, a May 1 court order restricted Arbitrum DAO from moving the recovered funds, prompting Aave to file an emergency motion against it."
+        },
+        {
+          "title": "Aptos Foundation, Aptos Labs commit $50M to development as it eyes AI agent future",
+          "url": "https://cointelegraph.com/news/aptos-foundation-labs-commit-50m-sees-opportunity-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-08T07:08:53.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The Aptos Foundation said building infrastructure that enables sub-second finality without the need for human intervention is a key to supporting the next wave of AI agent adoption."
+        },
+        {
+          "title": "Consensus panelists explain why Perp DEXes remain a tough sell for institutional investors",
+          "url": "https://www.coindesk.com/markets/2026/05/08/perp-dexs-still-don-t-work-for-institutions-consensus-panelists-explain-why",
+          "domain": "coindesk.com",
+          "date": "2026-05-08T06:44:34.000Z",
+          "source": "CoinDesk",
+          "summary": "Panelists at Consensus Miami said institutional investors are still largely absent from perp DEXs, citing security risks and KYC friction as key barriers."
+        },
+        {
+          "title": "AWS Northern Virginia data center overheats, impacting Coinbase",
+          "url": "https://cointelegraph.com/news/aws-data-center-overheating-impacting-coinbase-others?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-08T06:25:52.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Coinbase said on Friday its markets are being placed in “cancel only” mode but will begin to re-enable trading “shortly.”"
+        },
+        {
           "title": "AI agents could solve crypto’s user problem",
           "url": "https://www.coindesk.com/markets/2026/05/08/ai-agents-could-solve-crypto-s-user-problem",
           "domain": "coindesk.com",
@@ -324,38 +356,6 @@
           "date": "2026-05-08T03:20:03.000Z",
           "source": "CoinTelegraph",
           "summary": "Block’s Q1 earnings beat estimates despite Bitcoin revenue falling 26% on changing Bitcoin “trading dynamics” and reducing fees on Cash App transactions."
-        },
-        {
-          "title": "Solv Protocol drops LayerZero in favor of Chainlink for $700 million tokenized bitcoin",
-          "url": "https://www.theblock.co/post/400520/solv-protocol-layerzero-chainlink?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-08T02:17:09.000Z",
-          "source": "The Block",
-          "summary": "It cited security as the core reason for the migration, in an apparent response to the recent exploit of LayerZero-powered Kelp DAO."
-        },
-        {
-          "title": "Hyperliquid Strategies posts $165 million net loss for nine months ended March 31 as HYPE treasury grows",
-          "url": "https://www.theblock.co/post/400512/hyperliquid-strategies-net-loss?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-08T00:19:55.000Z",
-          "source": "The Block",
-          "summary": "The firm has deployed $216 million to acquire approximately 7.3 million HYPE tokens since its inception in December 2025."
-        },
-        {
-          "title": "Bitcoin bulls target $115K by December: Does data back the expectation?",
-          "url": "https://cointelegraph.com/markets/bitcoin-bulls-target-115k-by-december-does-data-back-the-expectation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-07T23:56:15.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Bitcoin options show bulls targeting $115,000 by year-end but are traders becoming overly optimistic?"
-        },
-        {
-          "title": "US Treasury ‘privately demanded’ Binance comply with monitoring deal: Report",
-          "url": "https://cointelegraph.com/news/us-treasury-binance-monitoring-program-reminder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-07T22:55:00.000Z",
-          "source": "CoinTelegraph",
-          "summary": "US Treasury officials reportedly sent a letter to Binance pressing the crypto exchange on compliance with a 2023 deal, after reports circulated that the company had facilitated transactions linked to Iran."
         }
       ]
     }
