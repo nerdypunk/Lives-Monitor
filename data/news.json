@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-09T17:05:33.675Z",
+  "updatedAt": "2026-05-09T18:06:06.482Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -135,7 +135,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-08T16:09:48.000Z",
           "source": "Lifespan.io",
-          "summary": "Dr. Junyue Cao is a professor at the Rockefeller University, and his lab develops ultra-high-throughput single-cell technologies and applies them to the biology of aging. In […]"
+          "summary": "Dr. Junyue Cao is a professor at the Rockefeller University, and his lab develops ultra-high-throughput single-cell technologies and applies them to the biology of aging. In a recent paper published in Science, his team used a technique called EasySci-ATAC to […]"
         },
         {
           "title": "AI meets ALS in £7.5 million Longitude Prize",
@@ -278,6 +278,14 @@
       ],
       "articles": [
         {
+          "title": "Trump Media’s Q1 loss widens to $406 million on bitcoin, CRO markdowns",
+          "url": "https://www.coindesk.com/business/2026/05/09/trump-media-s-q1-loss-widens-to-usd406-million-on-bitcoin-cro-markdowns",
+          "domain": "coindesk.com",
+          "date": "2026-05-09T17:28:08.000Z",
+          "source": "CoinDesk",
+          "summary": "The loss was primarily driven by $244 million in unrealized losses on cryptocurrency holdings and an additional $108.2 million investment loss."
+        },
+        {
           "title": "Sports betting should be regulated as a financial product, not gambling, aspiring prediction market provider says",
           "url": "https://www.coindesk.com/policy/2026/05/09/sports-betting-should-be-regulated-as-a-financial-product-not-gambling-aspiring-prediction-market-provider-says",
           "domain": "coindesk.com",
@@ -348,14 +356,6 @@
           "date": "2026-05-09T14:30:00.000Z",
           "source": "CoinDesk",
           "summary": "DeFi is quietly shifting from niche crypto experiment to a legitimate financial tool across the region, explains Serrano."
-        },
-        {
-          "title": "TeraWulf doubles AI revenue but posts $427M quarterly loss as mining income declines",
-          "url": "https://cointelegraph.com/news/terawulf-doubles-ai-revenue-but-posts-427m-quarterly-loss-as-mining-income-declines?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-09T14:23:38.000Z",
-          "source": "CoinTelegraph",
-          "summary": "TeraWulf’s HPC lease revenue jumped 117% quarter-on-quarter to $21 million, but a $427 million net loss highlights the costs of transitioning from Bitcoin mining to AI infrastructure."
         }
       ]
     }
