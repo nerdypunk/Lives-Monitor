@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-09T15:58:25.135Z",
+  "updatedAt": "2026-05-09T17:05:33.675Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -57,20 +57,20 @@
           "summary": "AI Token SkyAI And DeSci Protocol BIO Each Climb 42% In Parallel Rally &nbsp;&nbsp; Yellow.com"
         },
         {
-          "title": "Bio Protocol Multisig Wallet Transfers 80M BIO to CEX Worth $5.15M - Bitget",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvWExuOHNRaVc2aTJvNmRpeEMyUldvZXNXbU9XME8xX0dvc3I5cmRuNWo2NTJ1VjdPQmdXbVlWNHU3T0JPc0QzQk1VUkFMVzdFOWE2UjdQUEMwUnZTUFAyNlpDbkc0bTh3M2fSAWpBVV95cUxQb1hMbjhzUWlXNmkybzZkaXhDMlJXb2VzV21PVzBPMV9Hb3NyOXJkbjVqNjUydVY3T0JnV21ZVjR1N09CT3NEM0JNVVJBTFc3RTlhNlI3UFBDMFJ2U1BQMjZaQ25HNG04dzNn?oc=5",
-          "domain": "bitget.com",
-          "date": "2026-05-03T01:49:12.000Z",
-          "source": "Bitget",
-          "summary": "Bio Protocol Multisig Wallet Transfers 80M BIO to CEX Worth $5.15M &nbsp;&nbsp; Bitget"
-        },
-        {
           "title": "Bio Protocol Jumps 53.85% in Intraday Trading - bloomingbit",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TN0RaS1ExWkVmU1FzMXlsRUJQVmZhQ2lnNEdfcFVVMEloWHFuS3VDdnd5SlpLakNvNzIxdld1LTY5VWlVX2c4U2pZaUlTaHZybXUwag?oc=5",
           "domain": "en.bloomingbit.io",
           "date": "2026-05-02T14:25:15.000Z",
           "source": "bloomingbit",
           "summary": "Bio Protocol Jumps 53.85% in Intraday Trading &nbsp;&nbsp; bloomingbit"
+        },
+        {
+          "title": "Bio Protocol Multisig Wallet Transfers 80M BIO to CEX Worth $5.15M - Bitget",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50N21PS05qNUM3TGtjd1R4eUlfdkp2WW1WVzEwSXNyNzhyWFVJRkMzaF9Mb1N3a3ZvM2RUV0RSd0R3RGR6ZWYwTXI3cEg1YTZJWGxFN1FYTnRDY3Q1eWfSAWNBVV95cUxPcjVSNTNrYko4cVRxY2RMS0dpb0c2dHdKWmQ3SGo2aTdndUlfWmZrMjlnckwxbmVna1B2MnZ0azBoVWIyaDJFRUVGRm1Zcm5ZR0wxc19XcDIycTE3d1VtSGV0bm8?oc=5",
+          "domain": "bitget.com",
+          "date": "2026-05-02T10:36:40.000Z",
+          "source": "Bitget",
+          "summary": "Bio Protocol Multisig Wallet Transfers 80M BIO to CEX Worth $5.15M &nbsp;&nbsp; Bitget"
         },
         {
           "title": "Bio Protocol jumps 5% on Upbit amid extreme greed and high trading volume - Pluang",
@@ -135,7 +135,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-08T16:09:48.000Z",
           "source": "Lifespan.io",
-          "summary": "Dr. Junyue Cao is a professor at the Rockefeller University, and his lab develops ultra-high-throughput single-cell technologies and applies them to the biology of aging. In a recent […]"
+          "summary": "Dr. Junyue Cao is a professor at the Rockefeller University, and his lab develops ultra-high-throughput single-cell technologies and applies them to the biology of aging. In […]"
         },
         {
           "title": "AI meets ALS in £7.5 million Longitude Prize",
@@ -187,6 +187,14 @@
         "https://phys.org/rss-feed/biology-news/biotechnology/"
       ],
       "articles": [
+        {
+          "title": "Bee more specific: New radar tech could improve identification and tracking of key pollinators",
+          "url": "https://phys.org/news/2026-05-bee-specific-radar-tech-identification.html",
+          "domain": "phys.org",
+          "date": "2026-05-09T17:00:03.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Scientists from Trinity and Technical University of Denmark have developed a new radar-based technique that could address a critical gap in global conservation efforts, by transforming how we identify and track the insects that are actually responsible for pollinating plants."
+        },
         {
           "title": "AI cuts wildlife tracking time from months to days",
           "url": "https://phys.org/news/2026-05-ai-wildlife-tracking-months-days.html",
@@ -258,14 +266,6 @@
           "date": "2026-05-06T18:00:01.000Z",
           "source": "Phys.org Biotechnology",
           "summary": "An international research team has developed a roadmap for an emerging field of technology called ecotech, which aims to create scalable solutions to urgent environmental, social and economic challenges. The team describes this field, providing a comprehensive framework for its adoption and expansion, in the journal Science Advances."
-        },
-        {
-          "title": "Dark proteome yields 1,785 new microproteins that could reshape disease research",
-          "url": "https://phys.org/news/2026-05-dark-proteome-yields-microproteins-reshape.html",
-          "domain": "phys.org",
-          "date": "2026-05-06T15:00:10.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Scientists have uncovered more than 1,700 new proteins that could have implications for human diseases, including cancer. Mostly very small, these proteins were found in what's called the \"dark proteome,\" which covers gene products from previously overlooked sections of DNA. These proteins have unusual properties, motivating scientists to coin a new concept, peptideins, to help understand their potentially unique biology."
         }
       ]
     },
@@ -277,6 +277,30 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "Sports betting should be regulated as a financial product, not gambling, aspiring prediction market provider says",
+          "url": "https://www.coindesk.com/policy/2026/05/09/sports-betting-should-be-regulated-as-a-financial-product-not-gambling-aspiring-prediction-market-provider-says",
+          "domain": "coindesk.com",
+          "date": "2026-05-09T17:00:00.000Z",
+          "source": "CoinDesk",
+          "summary": "Novig CEO Jacob Fortinsky said his company will transition to a federal Designated Contract Market framework this summer to launch in all 50 states, while 57 Maiden's Adam Mastrelli said he was banned from two major sportsbooks within two months for being “sharp.\""
+        },
+        {
+          "title": "LayerZero issues public apology for Kelp DAO exploit response, admits fault in single-verifier setup",
+          "url": "https://www.theblock.co/post/400629/layerzero-issues-public-apology-for-kelp-dao-exploit-response-admits-fault-in-single-verifier-setup?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-09T16:35:35.000Z",
+          "source": "The Block",
+          "summary": "LayerZero also disclosed a previously unreported incident in which a multisig signer used their production hardware wallet to execute a personal trade."
+        },
+        {
+          "title": "It might be too late for bitcoin’s quantum migration, Project Eleven report argues",
+          "url": "https://www.coindesk.com/business/2026/05/09/it-might-be-too-late-for-bitcoin-s-quantum-migration-project-eleven-report-argues",
+          "domain": "coindesk.com",
+          "date": "2026-05-09T16:00:00.000Z",
+          "source": "CoinDesk",
+          "summary": "Quantum computing does not only pose a risk to up to $3 trillion in digital assets, it also threatens the security of banking systems, military communications, digital identities and more, Project Eleven’s report warns."
+        },
         {
           "title": "Crypto industry cheers Senate Clarity Act markup date as market structure push resumes",
           "url": "https://www.coindesk.com/policy/2026/05/09/crypto-industry-cheers-senate-clarity-act-markup-date-as-market-structure-push-resumes",
@@ -292,6 +316,14 @@
           "date": "2026-05-09T15:41:38.000Z",
           "source": "CoinDesk",
           "summary": "One point three billion adults lack financial services, 4.7 billion lack credit, and 1.4 billion savers in low-income nations earn no deposit interest, Binance said."
+        },
+        {
+          "title": "Why a 2017 Linux bug is now a major concern for the crypto industry",
+          "url": "https://cointelegraph.com/features/copy-fail-linux-vulnerability-crypto-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-09T15:30:00.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The “Copy Fail” Linux bug could impact crypto infrastructure that relies on Linux servers, highlighting growing cybersecurity risks in the digital asset industry. Format: Explained"
         },
         {
           "title": "Swiss central bank bitcoin reserve push fails over signature shortfall",
@@ -324,38 +356,6 @@
           "date": "2026-05-09T14:23:38.000Z",
           "source": "CoinTelegraph",
           "summary": "TeraWulf’s HPC lease revenue jumped 117% quarter-on-quarter to $21 million, but a $427 million net loss highlights the costs of transitioning from Bitcoin mining to AI infrastructure."
-        },
-        {
-          "title": "Here’s what happened in crypto today",
-          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-09T14:16:00.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
-        },
-        {
-          "title": "Crypto wallets are being rebuilt for AI agents, Trust Wallet and Mesh executives say at Consensus Miami",
-          "url": "https://www.coindesk.com/business/2026/05/09/crypto-wallets-are-being-rebuilt-for-ai-agents-trust-wallet-and-mesh-executives-say-at-consensus-miami",
-          "domain": "coindesk.com",
-          "date": "2026-05-09T14:00:00.000Z",
-          "source": "CoinDesk",
-          "summary": "Trust Wallet CEO Felix Fan and Mesh CTO Arjun Mukherjee said AI agents are creating a new role for crypto wallets."
-        },
-        {
-          "title": "BlackRock deepens tokenization push with new onchain fund offerings",
-          "url": "https://www.coindesk.com/business/2026/05/09/blackrock-deepens-tokenization-push-with-new-onchain-fund-offerings",
-          "domain": "coindesk.com",
-          "date": "2026-05-09T13:57:07.000Z",
-          "source": "CoinDesk",
-          "summary": "The world's largest asset manager filed paperwork to expand its tokenized fund lineup as real-world assets grow 200% year over year."
-        },
-        {
-          "title": "LayerZero says it ‘made a mistake’ in $292 Million Kelp exploit",
-          "url": "https://www.coindesk.com/tech/2026/05/09/layerzero-says-it-made-a-mistake-in-usd292-million-kelp-exploit",
-          "domain": "coindesk.com",
-          "date": "2026-05-09T13:53:07.000Z",
-          "source": "CoinDesk",
-          "summary": "After initially framing the exploit as a developer configuration failure, LayerZero said it “owns” the decision to let its own verifier secure high-value transfers in a vulnerable setup."
         }
       ]
     }
