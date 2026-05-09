@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-09T07:10:38.086Z",
+  "updatedAt": "2026-05-09T08:53:24.913Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -135,7 +135,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-08T16:09:48.000Z",
           "source": "Lifespan.io",
-          "summary": "Dr. Junyue Cao is a professor at the Rockefeller University, and his lab develops ultra-high-throughput single-cell technologies and applies them to the biology of aging. In a recent paper published in Science, his team […]"
+          "summary": "Dr. Junyue Cao is a professor at the Rockefeller University, and his lab develops ultra-high-throughput single-cell technologies and applies them to the biology of aging. In a recent paper published in Science, his team used a technique […]"
         },
         {
           "title": "AI meets ALS in £7.5 million Longitude Prize",
@@ -278,6 +278,14 @@
       ],
       "articles": [
         {
+          "title": "Strike CEO Jack Mallers dismisses idea that Wall Street threatens Bitcoin",
+          "url": "https://cointelegraph.com/news/jack-mallers-shuts-down-the-idea-that-wall-street-is-a-threat-to-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-09T07:16:33.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Strike CEO Jack Mallers argued that if Wall Street “kills” Bitcoin, then the asset was never going to succeed in the first place."
+        },
+        {
           "title": "Judge clears path for Aave to move $71 million in ETH linked to North Korea hack",
           "url": "https://www.coindesk.com/policy/2026/05/09/judge-clears-path-for-aave-to-move-usd71-million-in-eth-linked-to-north-korea-hack",
           "domain": "coindesk.com",
@@ -348,14 +356,6 @@
           "date": "2026-05-08T21:03:42.000Z",
           "source": "The Block",
           "summary": "Lee Reiners argues World Liberty's so-called governance token is not a so-called digital commodity or pure governance tool."
-        },
-        {
-          "title": "Coinbase rebounds as altcoins surge with bitcoin holding above $80,000",
-          "url": "https://www.coindesk.com/markets/2026/05/08/coinbase-rebounds-as-altcoins-surge-with-bitcoin-holding-above-usd80-000",
-          "domain": "coindesk.com",
-          "date": "2026-05-08T20:59:25.000Z",
-          "source": "CoinDesk",
-          "summary": "Tokenization and digital asset-infrastructure stocks climbed as SEC Chair Paul Atkins signaled support for onchain finance rules."
         }
       ]
     }
