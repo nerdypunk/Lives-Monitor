@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-10T16:13:36.243Z",
+  "updatedAt": "2026-05-10T17:16:18.808Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -135,7 +135,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-08T16:09:48.000Z",
           "source": "Lifespan.io",
-          "summary": "Dr. Junyue Cao is a professor at the Rockefeller University, and his lab develops ultra-high-throughput single-cell technologies and applies them to the biology of aging. In a recent paper […]"
+          "summary": "Dr. Junyue Cao is a professor at the Rockefeller University, and his lab develops ultra-high-throughput single-cell technologies and applies them to the biology of aging. In a recent paper published in Science, his team used a technique called EasySci-ATAC […]"
         },
         {
           "title": "AI meets ALS in £7.5 million Longitude Prize",
@@ -278,6 +278,14 @@
       ],
       "articles": [
         {
+          "title": "Ethereum down 35% versus Bitcoin in a year: Will the ETH price downtrend continue?",
+          "url": "https://cointelegraph.com/markets/ethereum-down-35-versus-bitcoin-in-year-will-eth-downtrend-continue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-10T16:13:27.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Ethereum’s ongoing downtrend against Bitcoin mirrors the bearish structure seen in 2024–2025, raising the risk of another 40% decline."
+        },
+        {
           "title": "Bitcoin holds $80K into weekly close as traders say BTC price dip not yet over",
           "url": "https://cointelegraph.com/markets/bitcoin-price-holds-80k-into-weekly-close-traders-say-dips-not-over-yet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
@@ -348,14 +356,6 @@
           "date": "2026-05-10T05:33:59.000Z",
           "source": "CoinTelegraph",
           "summary": "The increase in bullish versus bearish crypto commentary on social media has Santiment warning that the recent crypto market rally may be short-lived."
-        },
-        {
-          "title": "CZ says crypto exchange rivals opposed his pardon bid",
-          "url": "https://cointelegraph.com/news/cz-says-crypto-exchange-rivals-opposed-his-pardon-bid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-10T00:17:23.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Binance co-founder Changpeng “CZ” Zhao said rival crypto exchanges were concerned a pardon could pave the way for Binance to return to the US market."
         }
       ]
     }
