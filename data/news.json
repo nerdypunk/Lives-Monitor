@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-10T00:06:00.530Z",
+  "updatedAt": "2026-05-10T04:17:03.271Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -57,14 +57,6 @@
           "summary": "DeSci Has Raised Millions For Research No VC Would Ever Touch &nbsp;&nbsp; Yellow.com"
         },
         {
-          "title": "Bio Protocol price outlook: $0.045 rebound possible amid extended consolidation - MSN",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU2hKMjkwUThjUmkwTkY4enY2TFhPN0NNVWVoTmM5c2JzbVl6UmN4dVBHU0VsdlBSck55TUEwbi1fRDVvamZlRjdWYlF2NlpoSU9HTkZvOEN2MHRjbzhmUmVvN2tBODhLZnBab2pYNnhWUUU0Vl9CZTZsN3k2SGROem1TVDJUMTU1SkFyMl9xOElhNkVZY0l4RVZTVjZ6aXRzX3VVTWMwT093WGJCdzltMnBMNHBxdTNGMzQyN2ROdF9RLVU?oc=5",
-          "domain": "msn.com",
-          "date": "2026-05-03T06:31:07.000Z",
-          "source": "MSN",
-          "summary": "Bio Protocol price outlook: $0.045 rebound possible amid extended consolidation &nbsp;&nbsp; MSN"
-        },
-        {
           "title": "AI Token SkyAI And DeSci Protocol BIO Each Climb 42% In Parallel Rally - Yellow.com",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03Y01tNmw4bFdQT2t0QU1ySXRCR2s1RG1nSW9rRHpsQm1vREV0dWMxZGFzSjRiSDJfZ2pHbEtLamtlLUwzMmpxNDB3ZldMcWNCaHZUMFRWRVZXR29LbGREaVkxQmlkSk5TYkJz?oc=5",
           "domain": "yellow.com",
@@ -87,6 +79,14 @@
           "date": "2026-05-02T10:36:40.000Z",
           "source": "Bitget",
           "summary": "Bio Protocol Multisig Wallet Transfers 80M BIO to CEX Worth $5.15M &nbsp;&nbsp; Bitget"
+        },
+        {
+          "title": "Bio Protocol jumps 5% on Upbit amid extreme greed and high trading volume - Pluang",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZlE3d1Yza0ZaOEVSRk02djZydnRtOW1zTlZFY2xHSU85bXZrbVYtY0xzREF4RVlXNE9yYkUxby1rQndJc0FLaFJvOTZkQU5EU0tZUFpmbXhuNC14NDFYYWdxSHlFU3FpalBIZE43N1NqbHItMDVVRFJReXdwX3hiU0duUmdfQ1NSNmJEMnJjQmRVV1ltSFE?oc=5",
+          "domain": "pluang.com",
+          "date": "2026-05-02T07:00:00.000Z",
+          "source": "Pluang",
+          "summary": "Bio Protocol jumps 5% on Upbit amid extreme greed and high trading volume &nbsp;&nbsp; Pluang"
         }
       ]
     },
@@ -135,7 +135,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-08T16:09:48.000Z",
           "source": "Lifespan.io",
-          "summary": "Dr. Junyue Cao is a professor at the Rockefeller University, and his lab develops ultra-high-throughput single-cell technologies and applies them to the biology of aging. In a recent paper published in Science, his team used a […]"
+          "summary": "Dr. Junyue Cao is a professor at the Rockefeller University, and his lab develops ultra-high-throughput single-cell technologies and applies them to the biology of […]"
         },
         {
           "title": "AI meets ALS in £7.5 million Longitude Prize",
@@ -187,6 +187,14 @@
         "https://phys.org/rss-feed/biology-news/biotechnology/"
       ],
       "articles": [
+        {
+          "title": "Researchers develop a biodegradable wash that can remove pesticides and keep fruit fresh longer",
+          "url": "https://phys.org/news/2026-05-biodegradable-pesticides-fruit-fresh-longer.html",
+          "domain": "phys.org",
+          "date": "2026-05-10T00:30:01.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Many grocery shoppers know the routine: bring fruit and vegetables home, rinse them, dry them and hope they stay fresh long enough to be eaten. But fresh produce is delicate. Grapes shrivel, apple slices brown and berries can spoil quickly."
+        },
         {
           "title": "CRISPR safeguard changes how engineered microbes can be controlled",
           "url": "https://phys.org/news/2026-05-crispr-safeguard-microbes.html",
@@ -258,14 +266,6 @@
           "date": "2026-05-06T19:00:05.000Z",
           "source": "Phys.org Biotechnology",
           "summary": "A research team led by Prof. Hsing I-Ming, Professor of the Department of Chemical and Biological Engineering (CBE) at The Hong Kong University of Science and Technology (HKUST), in collaboration with Prof. Zhai Yuanliang, Associate Professor of the Division of Life Science (LIFS), has successfully developed the world's first DNA-guided CRISPR-Cas system capable of programmable RNA targeting and cleavage."
-        },
-        {
-          "title": "Light without electricity? Glowing algae could make it possible",
-          "url": "https://phys.org/news/2026-05-electricity-algae.html",
-          "domain": "phys.org",
-          "date": "2026-05-06T18:00:07.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Imagine a sea of glowing blue lights pulsing to the beat of the music. But instead of glow sticks filled with toxic chemicals, the luminescence comes from living algae, shimmering on demand. In a new study published in Science Advances, researchers at the University of Colorado Boulder and collaborators unveil a new technology that could make it possible."
         }
       ]
     },
@@ -277,6 +277,14 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "CZ says crypto exchange rivals opposed his pardon bid",
+          "url": "https://cointelegraph.com/news/cz-says-crypto-exchange-rivals-opposed-his-pardon-bid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-10T00:17:23.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Binance co-founder Changpeng “CZ” Zhao said rival crypto exchanges were concerned a pardon could pave the way for Binance to return to the US market."
+        },
         {
           "title": "7 major Bitcoin mining pools join Stratum V2, working group",
           "url": "https://cointelegraph.com/news/seven-major-bitcoin-mining-pools-stratum-v2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -348,14 +356,6 @@
           "date": "2026-05-09T16:35:35.000Z",
           "source": "The Block",
           "summary": "LayerZero also disclosed a previously unreported incident in which a multisig signer used their production hardware wallet to execute a personal trade."
-        },
-        {
-          "title": "It might be too late for bitcoin’s quantum migration, Project Eleven report argues",
-          "url": "https://www.coindesk.com/business/2026/05/09/it-might-be-too-late-for-bitcoin-s-quantum-migration-project-eleven-report-argues",
-          "domain": "coindesk.com",
-          "date": "2026-05-09T16:00:00.000Z",
-          "source": "CoinDesk",
-          "summary": "Quantum computing does not only pose a risk to up to $3 trillion in digital assets, it also threatens the security of banking systems, military communications, digital identities and more, Project Eleven’s report warns."
         }
       ]
     }
