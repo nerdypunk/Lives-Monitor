@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-10T17:16:18.808Z",
+  "updatedAt": "2026-05-10T18:32:42.827Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -10,9 +10,9 @@
       "articles": [
         {
           "title": "NanoVita Launches NANA Token On KTX Exchange, Enabling DeSci Network Access To DeFi Users - MEXC Exchange",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5majJkOG9RYXRlTGJpYzlvN1R1ekR3RVlKNlg5d3FWVHFDM0ZSbEs3bHJmdERHZVZIR1NkNXdpVm5CcVVBRnpna0xYalZzalk?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9UMkc1dF9NRWlCbVB2RXdsa0FCeWFWcGhKVEVuQnVyd1lTczFFWGZ3RDB6ZXZwWFlHMXhxS2ZfVmpmaUNuZWdR?oc=5",
           "domain": "mexc.co",
-          "date": "2026-05-10T10:03:35.000Z",
+          "date": "2026-05-10T10:35:20.000Z",
           "source": "MEXC Exchange",
           "summary": "NanoVita Launches NANA Token On KTX Exchange, Enabling DeSci Network Access To DeFi Users &nbsp;&nbsp; MEXC Exchange"
         },
@@ -135,7 +135,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-08T16:09:48.000Z",
           "source": "Lifespan.io",
-          "summary": "Dr. Junyue Cao is a professor at the Rockefeller University, and his lab develops ultra-high-throughput single-cell technologies and applies them to the biology of aging. In a recent paper published in Science, his team used a technique called EasySci-ATAC […]"
+          "summary": "Dr. Junyue Cao is a professor at the Rockefeller University, and his lab develops ultra-high-throughput single-cell technologies and applies them to the biology of aging. In a recent paper published […]"
         },
         {
           "title": "AI meets ALS in £7.5 million Longitude Prize",
@@ -278,6 +278,14 @@
       ],
       "articles": [
         {
+          "title": "Policy at Consensus Miami: State of Crypto",
+          "url": "https://www.coindesk.com/policy/2026/05/10/policy-at-consensus-miami-state-of-crypto",
+          "domain": "coindesk.com",
+          "date": "2026-05-10T18:30:00.000Z",
+          "source": "CoinDesk",
+          "summary": "This was a hectic week."
+        },
+        {
           "title": "Ethereum down 35% versus Bitcoin in a year: Will the ETH price downtrend continue?",
           "url": "https://cointelegraph.com/markets/ethereum-down-35-versus-bitcoin-in-year-will-eth-downtrend-continue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
@@ -348,14 +356,6 @@
           "date": "2026-05-10T08:30:00.000Z",
           "source": "CoinTelegraph",
           "summary": "Trump Media’s $405.9 million net loss was driven mostly by unrealized losses on Bitcoin bought at last summer’s peak and Cronos tokens acquired through a Crypto.com deal."
-        },
-        {
-          "title": "Santiment flags risk as crypto bullish talk spikes while BTC holds $80K",
-          "url": "https://cointelegraph.com/news/santiment-flags-risk-as-crypto-bullish-talk-spikes-while-btc-holds-near-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-10T05:33:59.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The increase in bullish versus bearish crypto commentary on social media has Santiment warning that the recent crypto market rally may be short-lived."
         }
       ]
     }
