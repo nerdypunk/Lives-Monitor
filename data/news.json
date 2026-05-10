@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-10T18:32:42.827Z",
+  "updatedAt": "2026-05-10T19:46:39.436Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -135,7 +135,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-08T16:09:48.000Z",
           "source": "Lifespan.io",
-          "summary": "Dr. Junyue Cao is a professor at the Rockefeller University, and his lab develops ultra-high-throughput single-cell technologies and applies them to the biology of aging. In a recent paper published […]"
+          "summary": "Dr. Junyue Cao is a professor at the Rockefeller University, and his lab develops ultra-high-throughput single-cell technologies and applies them to the […]"
         },
         {
           "title": "AI meets ALS in £7.5 million Longitude Prize",
@@ -278,6 +278,14 @@
       ],
       "articles": [
         {
+          "title": "Saylor signals another Bitcoin buy, after hinting at selling in Q1 earnings call",
+          "url": "https://cointelegraph.com/news/saylor-bitcoin-buy-sale-announcement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-10T18:40:00.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Strategy's average cost per Bitcoin is about $75,537, and its BTC investment is up about 7.6% at the time of this writing, according to data from the company."
+        },
+        {
           "title": "Policy at Consensus Miami: State of Crypto",
           "url": "https://www.coindesk.com/policy/2026/05/10/policy-at-consensus-miami-state-of-crypto",
           "domain": "coindesk.com",
@@ -348,14 +356,6 @@
           "date": "2026-05-10T10:47:20.000Z",
           "source": "CoinTelegraph",
           "summary": "BTC’s rising wedge points to a possible drop toward $70,000 as Strategy pauses buying and inflation cools Fed rate-cut hopes."
-        },
-        {
-          "title": "Trump Media posts $406M quarterly loss as crypto bets turn sour",
-          "url": "https://cointelegraph.com/news/trump-media-posts-406m-quarterly-loss-as-crypto-bets-turn-sour?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-10T08:30:00.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Trump Media’s $405.9 million net loss was driven mostly by unrealized losses on Bitcoin bought at last summer’s peak and Cronos tokens acquired through a Crypto.com deal."
         }
       ]
     }
