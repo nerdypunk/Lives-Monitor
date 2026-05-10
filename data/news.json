@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-10T04:17:03.271Z",
+  "updatedAt": "2026-05-10T07:13:25.807Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -17,14 +17,6 @@
           "summary": "Delphi Digital: Is DeSci ushering in a second wave of opportunities? &nbsp;&nbsp; PANews"
         },
         {
-          "title": "NanoVita Labs Launches $NANA Token on PancakeSwap – A New Era for AI-Driven Decentralized Science - Bitget",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB4QUl5bUgzNVlfbEhLZFFKckhLMDVIeUNzd3ZldzcwaEFfVlhuMHpjTWRCQTRuZ2pzZjEzUnFTcFpGU1czbVZpUVlPY1JBdFFSTS13RzhfYXVxUFJsOXBORmpSVdIBY0FVX3lxTFB4QUl5bUgzNVlfbEhLZFFKckhLMDVIeUNzd3ZldzcwaEFfVlhuMHpjTWRCQTRuZ2pzZjEzUnFTcFpGU1czbVZpUVlPY1JBdFFSTS13RzhfYXVxUFJsOXBORmpSVQ?oc=5",
-          "domain": "bitget.com",
-          "date": "2026-05-06T05:11:58.000Z",
-          "source": "Bitget",
-          "summary": "NanoVita Labs Launches $NANA Token on PancakeSwap – A New Era for AI-Driven Decentralized Science &nbsp;&nbsp; Bitget"
-        },
-        {
           "title": "BIO doubled in three days, DeSci blossomed: Can AI Agents revive decentralized science? - PANews",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RQzlROGk0MGx6bDRzSUFwbnlHMTlvTk9SSGx3ek9kdUlSR0xMak00SlppRHBnZDFvVW9BNXRWN1ZTVUxoVFp2d3hJMnhIR1dVTXJRZGhNb09kS3BNTDBpVzdTekJXN082NnhLZzBqLWFISW56TmtoeHlsOU42bTg?oc=5",
           "domain": "panewslab.com",
@@ -39,6 +31,14 @@
           "date": "2026-05-05T16:07:54.000Z",
           "source": "Delphi Digital",
           "summary": "DeSci's Second Coming? &nbsp;&nbsp; Delphi Digital"
+        },
+        {
+          "title": "NanoVita Labs Launches $NANA Token on PancakeSwap – A New Era for AI-Driven Decentralized Science - MEXC Exchange",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBpczV1SndGbVltSkVRRFpZSkJWQjA3bHFQcWVFc1FmbW9QZVgzRTJkSXVrZmlyaEZObnpHNnMyUHc3SDQzSTBz?oc=5",
+          "domain": "mexc.co",
+          "date": "2026-05-05T07:00:00.000Z",
+          "source": "MEXC Exchange",
+          "summary": "NanoVita Labs Launches $NANA Token on PancakeSwap – A New Era for AI-Driven Decentralized Science &nbsp;&nbsp; MEXC Exchange"
         },
         {
           "title": "desci Crypto Market & Spot Trading Pairs | Prices, Charts & Liquidity | MEXC - MEXC",
@@ -135,7 +135,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-08T16:09:48.000Z",
           "source": "Lifespan.io",
-          "summary": "Dr. Junyue Cao is a professor at the Rockefeller University, and his lab develops ultra-high-throughput single-cell technologies and applies them to the biology of […]"
+          "summary": "Dr. Junyue Cao is a professor at the Rockefeller University, and his lab develops ultra-high-throughput single-cell technologies and applies them to the biology of aging. […]"
         },
         {
           "title": "AI meets ALS in £7.5 million Longitude Prize",
@@ -278,6 +278,14 @@
       ],
       "articles": [
         {
+          "title": "Santiment flags risk as crypto bullish talk spikes while BTC holds $80K",
+          "url": "https://cointelegraph.com/news/santiment-flags-risk-as-crypto-bullish-talk-spikes-while-btc-holds-near-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-10T05:33:59.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The increase in bullish versus bearish crypto commentary on social media has Santiment warning that the recent crypto market rally may be short-lived."
+        },
+        {
           "title": "CZ says crypto exchange rivals opposed his pardon bid",
           "url": "https://cointelegraph.com/news/cz-says-crypto-exchange-rivals-opposed-his-pardon-bid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
@@ -348,14 +356,6 @@
           "date": "2026-05-09T17:00:00.000Z",
           "source": "CoinDesk",
           "summary": "Novig CEO Jacob Fortinsky said his company will transition to a federal Designated Contract Market framework this summer to launch in all 50 states, while 57 Maiden's Adam Mastrelli said he was banned from two major sportsbooks within two months for being “sharp.\""
-        },
-        {
-          "title": "LayerZero issues public apology for Kelp DAO exploit response, admits fault in single-verifier setup",
-          "url": "https://www.theblock.co/post/400629/layerzero-issues-public-apology-for-kelp-dao-exploit-response-admits-fault-in-single-verifier-setup?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-09T16:35:35.000Z",
-          "source": "The Block",
-          "summary": "LayerZero also disclosed a previously unreported incident in which a multisig signer used their production hardware wallet to execute a personal trade."
         }
       ]
     }
