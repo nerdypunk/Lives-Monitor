@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-11T14:05:47.389Z",
+  "updatedAt": "2026-05-11T16:48:18.614Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -9,12 +9,12 @@
       ],
       "articles": [
         {
-          "title": "NanoVita Launches NANA Token On KTX Exchange, Enabling DeSci Network Access To DeFi Users - MEXC Exchange",
-          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9UMkc1dF9NRWlCbVB2RXdsa0FCeWFWcGhKVEVuQnVyd1lTczFFWGZ3RDB6ZXZwWFlHMXhxS2ZfVmpmaUNuZWdR?oc=5",
-          "domain": "mexc.co",
-          "date": "2026-05-10T10:35:20.000Z",
-          "source": "MEXC Exchange",
-          "summary": "NanoVita Launches NANA Token On KTX Exchange, Enabling DeSci Network Access To DeFi Users &nbsp;&nbsp; MEXC Exchange"
+          "title": "NanoVita Launches NANA Token On KTX Exchange, Enabling DeSci Network Access To DeFi Users - MEXC",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5wZWJkWWZsNmdSY2ZJdmkzSW1zTkZnMWRKMlo2TmpFSTZYZXRkcF9VQ1IwOHNGQWk0LTRHUmc1RFlJTlUxZC1qbQ?oc=5",
+          "domain": "mexc.com",
+          "date": "2026-05-10T10:14:57.000Z",
+          "source": "MEXC",
+          "summary": "NanoVita Launches NANA Token On KTX Exchange, Enabling DeSci Network Access To DeFi Users &nbsp;&nbsp; MEXC"
         },
         {
           "title": "Delphi Digital: Is DeSci ushering in a second wave of opportunities? - PANews",
@@ -278,84 +278,84 @@
       ],
       "articles": [
         {
+          "title": "Galaxy-backed Boundary to launch ‘verifiable’ institutional stablecoin USBD",
+          "url": "https://www.theblock.co/post/400791/galaxy-backed-boundary-to-launch-verifiable-institutional-stablecoin-usbd?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-11T16:33:20.000Z",
+          "source": "The Block",
+          "summary": "The project has raised $2 million in pre-seed funding led by Galaxy Ventures and plans to launch USBD on Ethereum in early summer 2026."
+        },
+        {
+          "title": "Anchorage is stepping back from Robinhood and Kraken-backed stablecoin group",
+          "url": "https://www.coindesk.com/business/2026/05/11/anchorage-is-stepping-back-from-robinhood-and-kraken-backed-stablecoin-group",
+          "domain": "coindesk.com",
+          "date": "2026-05-11T16:30:09.000Z",
+          "source": "CoinDesk",
+          "summary": "Anchorage Digital co-founder and CEO Nathan McCauley said there will be ‘increased neutrality’ from his firm on stablecoins."
+        },
+        {
+          "title": "Why the TradFi takeover of crypto might not be the death blow analysts expect",
+          "url": "https://www.coindesk.com/business/2026/05/11/why-the-tradfi-takeover-of-crypto-might-not-be-the-death-blow-analysts-expect",
+          "domain": "coindesk.com",
+          "date": "2026-05-11T16:29:48.000Z",
+          "source": "CoinDesk",
+          "summary": "Gate’s CBO argues that Bloomberg’s warning of a TradFi takeover is \"oversimplified,\" noting that global exchanges evolved past fee-only models years ago."
+        },
+        {
+          "title": "MoonPay launching AI agent tool for prediction market trading after acquiring Dawn Labs",
+          "url": "https://www.theblock.co/post/400758/moonpay-launching-ai-agent-tool-prediction-market-trading-acquiring-dawn-labs?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-11T15:45:01.000Z",
+          "source": "The Block",
+          "summary": "The new AI-powered tool is designed to help \"non-technical users\" craft prediction market trading strategies."
+        },
+        {
+          "title": "Banking groups escalate fight over stablecoin yield ahead of Senate vote",
+          "url": "https://www.coindesk.com/policy/2026/05/11/banking-groups-escalate-fight-over-stablecoin-yield-ahead-of-senate-vote",
+          "domain": "coindesk.com",
+          "date": "2026-05-11T14:43:29.000Z",
+          "source": "CoinDesk",
+          "summary": "The American Bankers Association amplified warnings the Senate’s Clarity Act could push deposit flight into stablecoins unless lawmakers tighten yield limits."
+        },
+        {
+          "title": "Corpay taps BVNK to bring stablecoin wallets to corporate payments",
+          "url": "https://www.coindesk.com/business/2026/05/11/corpay-taps-bvnk-to-bring-stablecoin-wallets-to-corporate-payments",
+          "domain": "coindesk.com",
+          "date": "2026-05-11T14:34:29.000Z",
+          "source": "CoinDesk",
+          "summary": "Corpay will use stablecoin rails in its treasury operations to improve capital efficiency, reduce reliance on pre-funded accounts, and move funds across its global footprint."
+        },
+        {
+          "title": "Crypto and AI could be dirty words on 2026 midterm campaign trail",
+          "url": "https://cointelegraph.com/features/crypto-and-ai-could-be-dirty-words-on-2026-midterm-campaign-trail?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-11T14:19:52.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Voter attitudes toward the AI and crypto industries aren’t favorable in the US, and a spotlight on how much they’re spending could further alienate them ahead of the 2026 midterms."
+        },
+        {
+          "title": "The biggest consensus overhaul in Solana history is officially live for testing",
+          "url": "https://www.coindesk.com/tech/2026/05/11/the-biggest-consensus-overhaul-in-solana-history-is-officially-live-for-testing",
+          "domain": "coindesk.com",
+          "date": "2026-05-11T14:18:58.000Z",
+          "source": "CoinDesk",
+          "summary": "The upgrade, known as Alpenglow, is live on a community test cluster, said Solana core developer Anza."
+        },
+        {
+          "title": "American Bankers Association CEO makes final-hour push for tightened limits on stablecoin rewards ahead of Senate committee vote",
+          "url": "https://www.theblock.co/post/400757/american-bankers-association-ceo-makes-final-hour-push-for-tightened-limits-on-stablecoin-rewards-ahead-of-senate-committee-vote?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-11T14:18:50.000Z",
+          "source": "The Block",
+          "summary": "Days before a key Senate committee to vote on crypto legislation, ABA CEO Rob Nichols sent a letter to bank executives."
+        },
+        {
           "title": "‘Groundbreaking’ prediction market ETFs launch delayed again as SEC reviews more: analyst",
           "url": "https://www.theblock.co/post/400745/groundbreaking-prediction-market-etfs-launch-delayed-again-as-sec-reviews-more-analyst?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
           "date": "2026-05-11T14:04:55.000Z",
           "source": "The Block",
           "summary": "ETFs would offer investors a way to wager on the outcome of elections and economic events using the publicly-traded financial instruments."
-        },
-        {
-          "title": "Ripple raises $200 million from Neuberger Berman to expand its Ripple Prime platform",
-          "url": "https://www.coindesk.com/business/2026/05/11/ripple-raises-usd200-million-from-neuberger-berman-to-expand-its-ripple-prime-platform",
-          "domain": "coindesk.com",
-          "date": "2026-05-11T13:47:38.000Z",
-          "source": "CoinDesk",
-          "summary": "Ripple announced its agreement with the global investment firm Monday, noting that Ripple Prime’s revenue has tripled in the last year, when. it acquired it for $1.25 billion."
-        },
-        {
-          "title": "From hack to OP Stack: Ronin to migrate from gaming sidechain to Ethereum Layer 2 four years after Lazarus attack",
-          "url": "https://www.theblock.co/post/400732/from-hack-to-op-stack-ronin-to-migrate-from-gaming-sidechain-to-ethereum-layer-2-four-years-after-lazarus-attack?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-11T13:21:51.000Z",
-          "source": "The Block",
-          "summary": "Ronin migrates from an Ethereum sidechain to an OP Stack Layer 2 on May 12, four years after Lazarus hackers stole over $600M in crypto."
-        },
-        {
-          "title": "‘Crypto spring has commenced,’ Tom Lee says as Bitmine’s weekly accumulation slows below 100,000 ETH pace",
-          "url": "https://www.theblock.co/post/400735/crypto-spring-tom-lee-bitmine-weekly-accumulation-slows-100000-eth?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-11T13:19:41.000Z",
-          "source": "The Block",
-          "summary": "Bitmine Immersion bought another 26,659 ETH ($62 million) last week and now holds more than 5.2 million ETH in total."
-        },
-        {
-          "title": "CoinDesk 20 performance update: SUI surges 25% over weekend",
-          "url": "https://www.coindesk.com/coindesk-indices/2026/05/11/coindesk-20-performance-update-sui-surges-25-over-weekend",
-          "domain": "coindesk.com",
-          "date": "2026-05-11T13:17:36.000Z",
-          "source": "CoinDesk",
-          "summary": "Cronos (CRO), up 9.7% from Friday, joined Sui (SUI) as a top performer."
-        },
-        {
-          "title": "Neuberger backs Ripple Prime with $200 million debt line for margin lending expansion: Bloomberg",
-          "url": "https://www.theblock.co/post/400731/neuberger-backs-ripple-prime-with-200-million-debt-line-for-margin-lending-expansion-bloomberg?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-11T13:13:54.000Z",
-          "source": "The Block",
-          "summary": "Ripple Prime secured a $200 million Neuberger Berman facility to expand margin lending across equities, fixed income and crypto."
-        },
-        {
-          "title": "USDC issuer Circle raises $222M in Arc token presale valued at $3B",
-          "url": "https://cointelegraph.com/news/circle-raise-222-million-arc-token-presale-3-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-11T13:00:50.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Circle raised $222 million in an ARC token presale led by a16z crypto as Q1 revenue hit $694 million and USDC circulation climbed to $77 billion."
-        },
-        {
-          "title": "Tom Lee's Bitmine slows down ether purchases after already buying 1 million tokens this year",
-          "url": "https://www.coindesk.com/business/2026/05/11/tom-lee-s-bitmine-slows-down-ether-purchases-after-already-buying-1-million-tokens-this-year",
-          "domain": "coindesk.com",
-          "date": "2026-05-11T12:56:58.000Z",
-          "source": "CoinDesk",
-          "summary": "The firm bought roughly 26,000 ether last week, a sharp decline from the average of the previous weeks' 100,000."
-        },
-        {
-          "title": "XRP metrics line up bull signals for ‘full-scale rally’ to $2",
-          "url": "https://cointelegraph.com/markets/xrp-metrics-line-up-bull-signals-full-scale-rally-2-dollars?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-11T12:46:15.000Z",
-          "source": "CoinTelegraph",
-          "summary": "XRP is giving hints that a price breakout may be underway, based on several technical and onchain indicators, with bulls eyeing $2 as the first stop."
-        },
-        {
-          "title": "‘Crypto at the crossroads’: Analysts say Iran tensions and whale selling cloud outlook as bitcoin holds above $81K",
-          "url": "https://www.theblock.co/post/400723/crypto-at-the-crossroads-analysts-say-iran-tensions-and-whale-selling-cloud-crypto-outlook-as-bitcoin-holds-above-81k?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-11T12:36:47.000Z",
-          "source": "The Block",
-          "summary": "Bitcoin holds above $81K as Iran rejects US peace terms, Brent tops $104, and a $1B whale's ETH selling clouds an otherwise bullish backdrop."
         }
       ]
     }
