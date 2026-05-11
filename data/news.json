@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-11T19:00:03.014Z",
+  "updatedAt": "2026-05-11T20:51:00.143Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -188,6 +188,14 @@
       ],
       "articles": [
         {
+          "title": "New AI tool predicts how cells choose their future—helping uncover hidden drivers of development",
+          "url": "https://phys.org/news/2026-05-ai-tool-cells-future-uncover.html",
+          "domain": "phys.org",
+          "date": "2026-05-11T20:20:06.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "What are the first steps that chart the path for a cell to become a blood cell, neuron cell, or pigment cell? Scientists have developed increasingly powerful tools to track those changes, but one challenge has persisted: understanding not just where cells are headed, but which regulators steer them to their final fate."
+        },
+        {
           "title": "A roadmap for safer, explainable protein-design AI",
           "url": "https://phys.org/news/2026-05-roadmap-safer-protein-ai.html",
           "domain": "phys.org",
@@ -258,14 +266,6 @@
           "date": "2026-05-11T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2605.07035v1 Announce Type: new Abstract: A central challenge in the origin of life is understanding how catalytic peptide-like polymers and information-bearing nucleic acid-like polymers emerged as an interde-pendent system. This study constructs a primordial cognitive model incorporating two internal Lotka-Volterra chemical oscillators to investigate, through simulation, whether a catalytic loop, primordial tRNAs, and nucleic acids that record and amplify them, can form through the interaction of polymers represented by binary (0/1) sequences. In this model, a mechanism was introduced where the synthesis of internal oscillations pro-vides a temporal bias for 0/1 selection during polymer elongation, while generated functional sequences are protected, recorded, and re-amplified. Simulation results demonstrated that the proposed cognitive model significantly outperformed a contrast model based on random 0/1 selection in terms of the establishment rate of catalytic loops, the accumulation of functional molecules, polymer elongation, and the reduction of Shannon entropy in sequence distribution. Furthermore, this superiority was generally maintained across sensitivity analyses, including batch calculations with different ran-dom seeds. While this study is a computational model based on abstract binary se-quences and simplified translation/replication rules rather than a direct reconstruction of life's origin, it provides a working hypothesis for the interdependent emergence of catalytic function and information retention by demonstrating that internal oscillations can bias sequence exploration within a framework linking autocatalytic networks, re-cording, and group selection. Future research must verify the generality and empirical validity of this framework by expanding monomer types, evolving into multi-oscillator systems, and establishing correspondences with compartmentalized experimental sys-tems."
-        },
-        {
-          "title": "Inference of Qualitative Models from Steady-State Data via Weighted MaxSMT",
-          "url": "https://arxiv.org/abs/2605.07433",
-          "domain": "arxiv.org",
-          "date": "2026-05-11T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2605.07433v1 Announce Type: new Abstract: Qualitative models provide crucial instruments for modelling complex biological systems. While advances in automated reasoning and symbolic encodings have enabled rigorous inference of these models from data, the process remains highly fragile. First, biological measurement errors inevitably propagate into formal model specifications. Second, when a specification becomes unsatisfiable, distinguishing between fundamental design flaws and minor technical errors is notoriously difficult. This uncertainty often leads to under-specification, as it is unclear which observations are still ``safe'' to incorporate. To overcome these challenges, we introduce a robust inference method based on weighted MaxSMT. By encoding uncertain biological observations as weighted soft constraints, our approach enables the solver to identify a model best reflecting the observations, even with some conflicting constraints. Our method allows for Boolean and multi-valued variable domains, alongside observations derived from discretisation (level constraints) and differential expression (ordering constraints). We show our approach can be used to successfully infer neural cell differentiation models from prior-knowledge networks with 200--1300 genes using ordering constraints on all included genes."
         }
       ]
     },
@@ -277,6 +277,62 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "'A big nothing burger': A Q&A with Strategy's Michael Saylor on selling bitcoin",
+          "url": "https://www.coindesk.com/markets/2026/05/11/a-big-nothing-burger-a-q-and-a-with-strategy-s-michael-saylor-on-selling-bitcoin",
+          "domain": "coindesk.com",
+          "date": "2026-05-11T20:21:44.000Z",
+          "source": "CoinDesk",
+          "summary": "Michael Saylor sat down with CoinDesk on selling bitcoin for dividends, retiring debt with STRC proceeds, and why critics who say Strategy buys the weekly top are missing the point."
+        },
+        {
+          "title": "Price predictions 5/11: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA",
+          "url": "https://cointelegraph.com/markets/price-predictions-511-spx-dxy-btc-eth-xrp-bnb-sol-doge-hype-ada?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-11T20:12:42.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bitcoin looks set for another blockbuster week, but potential resistance at $84,000 could complicate the rally. Will altcoin consolidation continue?"
+        },
+        {
+          "title": "Ripple receives $200M credit line to expand institutional prime brokerage",
+          "url": "https://cointelegraph.com/news/ripple-secures-200m-credit-facility-expand-institutional-prime-brokerage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-11T20:12:35.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Financing from Neuberger Berman will increase Ripple Prime’s capacity to offer margin lending and other brokerage services to institutional clients trading across crypto and traditional markets."
+        },
+        {
+          "title": "'I don’t think that’s crazy': Here is why Circle is betting on new $3 billion blockchain",
+          "url": "https://www.coindesk.com/business/2026/05/11/i-don-t-think-that-s-crazy-here-is-why-circle-is-betting-on-new-usd3-billion-blockchain",
+          "domain": "coindesk.com",
+          "date": "2026-05-11T19:51:09.000Z",
+          "source": "CoinDesk",
+          "summary": "The USDC stablecoin issuer is betting Arc can become Wall Street’s blockchain rail for payments and tokenized finance, though analysts still see it as speculative."
+        },
+        {
+          "title": "MoonPay makes prediction markets push with Dawn Labs buy, AI tool launch",
+          "url": "https://cointelegraph.com/news/moonpay-dawn-labs-ai-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-11T19:46:59.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The payments company acquired Dawn Labs for an undisclosed amount, immediately announcing the creation of an AI tool that would provide “custom strategies” for trading on prediction markets."
+        },
+        {
+          "title": "Upcoming crypto bill vote shifts fight to full Senate, ‘major obstacles’ remain TD Cowen says",
+          "url": "https://www.theblock.co/post/400812/crypto-bill-vote-major-obstacles-td-cowen?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-11T19:39:02.000Z",
+          "source": "The Block",
+          "summary": "The Senate Banking Committee is set to vote on the crypto bill, or Clarity Act, on Thursday despite objections from banks and Democrats."
+        },
+        {
+          "title": "Binance says AI security systems prevented $10.5 billion in user losses from crypto scams, phishing",
+          "url": "https://www.theblock.co/post/400813/binance-ai-security-prevented-10-5-billion-user-losses-crypto-scams-phishing?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-11T19:30:07.000Z",
+          "source": "The Block",
+          "summary": "In Q1 2026 alone, Binance claims to have safeguarded $1.98 billion in funds protected from 22.9 million scam and phishing attempts."
+        },
         {
           "title": "Kraken parent Payward seeks fresh funding at $20 billion valuation ahead of planned IPO",
           "url": "https://www.coindesk.com/business/2026/05/08/kraken-parent-payward-seeks-fresh-funding-at-usd20-billion-valuation-ahead-of-potential-ipo",
@@ -300,62 +356,6 @@
           "date": "2026-05-11T17:26:07.000Z",
           "source": "CoinTelegraph",
           "summary": "Sharplink will contribute $100 million in staked Ether to a Galaxy-managed fund as institutions seek to earn yield from crypto holdings without selling ETH."
-        },
-        {
-          "title": "Sharplink Q1 revenue tops $12 million as it pursues ‘singles and doubles’ hits in ETH yield",
-          "url": "https://www.theblock.co/post/400752/sharplink-q1-revenue-12-million-expands-eth-productivity-staking?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-11T16:52:17.000Z",
-          "source": "The Block",
-          "summary": "Sharplink said its new Galaxy Digital partnership will deploy roughly $125 million into onchain liquidity and DeFi opportunities."
-        },
-        {
-          "title": "Galaxy-backed Boundary to launch ‘verifiable’ institutional stablecoin USBD",
-          "url": "https://www.theblock.co/post/400791/galaxy-backed-boundary-to-launch-verifiable-institutional-stablecoin-usbd?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-11T16:33:20.000Z",
-          "source": "The Block",
-          "summary": "The project has raised $2 million in pre-seed funding led by Galaxy Ventures and plans to launch USBD on Ethereum in early summer 2026."
-        },
-        {
-          "title": "Anchorage is stepping back from Robinhood and Kraken-backed stablecoin group",
-          "url": "https://www.coindesk.com/business/2026/05/11/anchorage-is-stepping-back-from-robinhood-and-kraken-backed-stablecoin-group",
-          "domain": "coindesk.com",
-          "date": "2026-05-11T16:30:09.000Z",
-          "source": "CoinDesk",
-          "summary": "Anchorage Digital co-founder and CEO Nathan McCauley said there will be ‘increased neutrality’ from his firm on stablecoins."
-        },
-        {
-          "title": "Why the TradFi takeover of crypto might not be the death blow analysts expect",
-          "url": "https://www.coindesk.com/business/2026/05/11/why-the-tradfi-takeover-of-crypto-might-not-be-the-death-blow-analysts-expect",
-          "domain": "coindesk.com",
-          "date": "2026-05-11T16:29:48.000Z",
-          "source": "CoinDesk",
-          "summary": "Gate’s CBO argues that Bloomberg’s warning of a TradFi takeover is \"oversimplified,\" noting that global exchanges evolved past fee-only models years ago."
-        },
-        {
-          "title": "MoonPay launching AI agent tool for prediction market trading after acquiring Dawn Labs",
-          "url": "https://www.theblock.co/post/400758/moonpay-launching-ai-agent-tool-prediction-market-trading-acquiring-dawn-labs?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-11T15:45:01.000Z",
-          "source": "The Block",
-          "summary": "The new AI-powered tool is designed to help \"non-technical users\" craft prediction market trading strategies."
-        },
-        {
-          "title": "Banking groups escalate fight over stablecoin yield ahead of Senate vote",
-          "url": "https://www.coindesk.com/policy/2026/05/11/banking-groups-escalate-fight-over-stablecoin-yield-ahead-of-senate-vote",
-          "domain": "coindesk.com",
-          "date": "2026-05-11T14:43:29.000Z",
-          "source": "CoinDesk",
-          "summary": "The American Bankers Association amplified warnings the Senate’s Clarity Act could push deposit flight into stablecoins unless lawmakers tighten yield limits."
-        },
-        {
-          "title": "Corpay taps BVNK to bring stablecoin wallets to corporate payments",
-          "url": "https://www.coindesk.com/business/2026/05/11/corpay-taps-bvnk-to-bring-stablecoin-wallets-to-corporate-payments",
-          "domain": "coindesk.com",
-          "date": "2026-05-11T14:34:29.000Z",
-          "source": "CoinDesk",
-          "summary": "Corpay will use stablecoin rails in its treasury operations to improve capital efficiency, reduce reliance on pre-funded accounts, and move funds across its global footprint."
         }
       ]
     }
