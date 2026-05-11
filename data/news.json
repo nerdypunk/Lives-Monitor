@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-11T20:51:00.143Z",
+  "updatedAt": "2026-05-11T22:10:36.131Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,6 +278,30 @@
       ],
       "articles": [
         {
+          "title": "Ethereum Foundation names three new co-leads to major Protocol cluster",
+          "url": "https://www.theblock.co/post/400835/ethereum-foundation-names-three-new-co-leads-major-protocol-cluster?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-11T21:26:16.000Z",
+          "source": "The Block",
+          "summary": "The EF's Protocol team, formerly Protocol R&D, is the core group responsible for designing and developing the Ethereum base layer."
+        },
+        {
+          "title": "MARA Q1 revenue drops 18%, says bitcoin mining remains ‘operational foundation’",
+          "url": "https://www.theblock.co/post/400824/mara-q1-revenue-drops-18-bitcoin-mining-operational-foundation?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-11T21:14:02.000Z",
+          "source": "The Block",
+          "summary": "MARA Holdings sold roughly $1.5 billion worth of bitcoin during the quarter to retire debt and improve liquidity."
+        },
+        {
+          "title": "Bitcoin miner CleanSpark’s Q2 losses swell after losing $224 million on BTC holdings",
+          "url": "https://www.theblock.co/post/400823/bitcoin-miner-cleansparks-q2-losses-swell-after-losing-224-million-on-btc-holdings?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-11T21:05:02.000Z",
+          "source": "The Block",
+          "summary": "CleanSpark said Q2 bitcoin mining revenue came in at $136.4 million, a 25% decrease from a year ago when it posted $181.7 million."
+        },
+        {
           "title": "'A big nothing burger': A Q&A with Strategy's Michael Saylor on selling bitcoin",
           "url": "https://www.coindesk.com/markets/2026/05/11/a-big-nothing-burger-a-q-and-a-with-strategy-s-michael-saylor-on-selling-bitcoin",
           "domain": "coindesk.com",
@@ -332,30 +356,6 @@
           "date": "2026-05-11T19:30:07.000Z",
           "source": "The Block",
           "summary": "In Q1 2026 alone, Binance claims to have safeguarded $1.98 billion in funds protected from 22.9 million scam and phishing attempts."
-        },
-        {
-          "title": "Kraken parent Payward seeks fresh funding at $20 billion valuation ahead of planned IPO",
-          "url": "https://www.coindesk.com/business/2026/05/08/kraken-parent-payward-seeks-fresh-funding-at-usd20-billion-valuation-ahead-of-potential-ipo",
-          "domain": "coindesk.com",
-          "date": "2026-05-11T18:42:27.000Z",
-          "source": "CoinDesk",
-          "summary": "The crypto exchange operator is pursuing a new fundraising round as it ramps up acquisitions across derivatives and stablecoins while laying the groundwork for a future public listing."
-        },
-        {
-          "title": "Bitcoin ‘golden cross’ appears for the first time since 2023: Will BTC price rally?",
-          "url": "https://cointelegraph.com/markets/bitcoin-golden-cross-appears-first-time-since-2023-will-btc-price-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-11T17:35:04.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Bitcoin’s MVRV suggests a shift to bullish momentum as BTC's market structure strengthens, which may be an early sign of a new bull market."
-        },
-        {
-          "title": "Galaxy, Sharplink plan $125M institutional DeFi yield fund backed by ETH treasury",
-          "url": "https://cointelegraph.com/news/galaxy-sharplink-125m-institutional-defi-fund-eth-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-11T17:26:07.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Sharplink will contribute $100 million in staked Ether to a Galaxy-managed fund as institutions seek to earn yield from crypto holdings without selling ETH."
         }
       ]
     }
