@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-12T20:16:00.435Z",
+  "updatedAt": "2026-05-12T21:50:32.983Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -15,6 +15,14 @@
           "date": "2026-05-12T11:00:47.000Z",
           "source": "TradingView",
           "summary": "Bio Protocol (BIO) - AI Scientist Demo - 12 May 2026 &nbsp;&nbsp; TradingView"
+        },
+        {
+          "title": "Bio Protocol 多签钱包向 CEX 转入 8000 万枚 BIO，约 515 万美元 - CryptoRank",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vSFZtczd0ZWlHd0JnWnI4ZlM0MmlHUmFrZDRMbGUtSmJ3Nzd1TVZyMHZzVzg3TlNWNFJZWjExUWoxcWNSbWZ1OTQzZGRrNEh3NEp6ZERlRUY?oc=5",
+          "domain": "cryptorank.io",
+          "date": "2026-05-10T17:23:31.000Z",
+          "source": "CryptoRank",
+          "summary": "Bio Protocol 多签钱包向 CEX 转入 8000 万枚 BIO，约 515 万美元 &nbsp;&nbsp; CryptoRank"
         },
         {
           "title": "NanoVita Launches NANA Token On KTX Exchange, Enabling DeSci Network Access To DeFi Users - MEXC Exchange",
@@ -39,14 +47,6 @@
           "date": "2026-05-06T07:04:55.000Z",
           "source": "MEXC",
           "summary": "NanoVita Labs Launches $NANA Token on PancakeSwap – A New Era for AI-Driven Decentralized Science &nbsp;&nbsp; MEXC"
-        },
-        {
-          "title": "BIO doubled in three days, DeSci blossomed: Can AI Agents revive decentralized science? - PANews",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RQzlROGk0MGx6bDRzSUFwbnlHMTlvTk9SSGx3ek9kdUlSR0xMak00SlppRHBnZDFvVW9BNXRWN1ZTVUxoVFp2d3hJMnhIR1dVTXJRZGhNb09kS3BNTDBpVzdTekJXN082NnhLZzBqLWFISW56TmtoeHlsOU42bTg?oc=5",
-          "domain": "panewslab.com",
-          "date": "2026-05-06T01:02:00.000Z",
-          "source": "PANews",
-          "summary": "BIO doubled in three days, DeSci blossomed: Can AI Agents revive decentralized science? &nbsp;&nbsp; PANews"
         },
         {
           "title": "DeSci's Second Coming? - Delphi Digital",
@@ -143,7 +143,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-12T16:00:07.000Z",
           "source": "Lifespan.io",
-          "summary": "We are super excited to share with you that today we released AI4L – “AI for Practical Longevity”, an open-source system that enables anyone to […]"
+          "summary": "We are super excited to share with you that today we released AI4L – “AI for Practical Longevity”, an open-source system that enables anyone to produce rigorous, evidence-based reviews of health and longevity interventions using frontier AI models. Our novel […]"
         },
         {
           "title": "GLP-1 Drugs’ Muscle Effects Similar to Ordinary Weight Loss",
@@ -151,7 +151,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-12T15:17:49.000Z",
           "source": "Lifespan.io",
-          "summary": "A new study suggests that GLP-1 receptor agonists do not affect muscle mass any more than weight loss caused by caloric restriction, and this appears to be true […]"
+          "summary": "A new study suggests that GLP-1 receptor agonists do not affect muscle mass any more than weight loss caused by caloric restriction, and this appears to be true for strength as well [1]. What do we lose when we lose […]"
         },
         {
           "title": "LifespanningRx expands regenerative offering with RegenTherapy",
@@ -278,7 +278,39 @@
       ],
       "articles": [
         {
-          "title": "JPMorgan launching tokenized money market fund on Ethereum",
+          "title": "JPMorgan files to launch new tokenized fund as Wall Street tokenization race heats up",
+          "url": "https://www.coindesk.com/business/2026/05/12/jpmorgan-files-to-launch-new-tokenized-fund-as-wall-street-tokenization-race-heats-up",
+          "domain": "coindesk.com",
+          "date": "2026-05-12T21:18:10.000Z",
+          "source": "CoinDesk",
+          "summary": "The global banking giant is expanding its tokenized money market lineup, following BlackRock's similar move just a few days ago."
+        },
+        {
+          "title": "Senate confirms Kevin Warsh as Federal Reserve governor, with chair vote expected",
+          "url": "https://cointelegraph.com/news/kevin-warsh-fed-governor-confirmation-us-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-12T20:58:56.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The US Senate voted largely along partisan lines to confirm Kevin Warsh as a member of the Fed's Board of Governors, despite many Democrats’ concerns about the central bank’s independence."
+        },
+        {
+          "title": "Benchmark joins others in reiterating Buy rating on Coinbase stock despite lackluster Q1 earnings",
+          "url": "https://www.theblock.co/post/400981/benchmark-joins-others-in-reiterating-buy-rating-on-coinbase-stock-despite-lackluster-q1-earnings?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-12T20:56:01.000Z",
+          "source": "The Block",
+          "summary": "Benchmark equities analysts have reiterated their Buy rating for Coinbase's stock, raising their price target for COIN to $270 from $260."
+        },
+        {
+          "title": "CFTC backs Kalshi in Ohio fight over prediction markets jurisdictional battle",
+          "url": "https://www.theblock.co/post/401039/cftc-backs-kalshi-in-ohio-fight-over-prediction-markets-jurisdictional-battle?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-12T20:40:43.000Z",
+          "source": "The Block",
+          "summary": "The CFTC is weighing in on another legal battle over states’ authority to regulate prediction markets — this time in Ohio."
+        },
+        {
+          "title": "JPMorgan launching second tokenized money market fund on Ethereum",
           "url": "https://www.theblock.co/post/401028/jpmorgan-launching-tokenized-money-market-fund-ethereum?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
           "date": "2026-05-12T20:00:21.000Z",
@@ -324,38 +356,6 @@
           "date": "2026-05-12T18:17:25.000Z",
           "source": "The Block",
           "summary": "eToro's cost of revenue from cryptoassets fell substantially to $2.1 billion from $3.5 billion as trading activity cooled."
-        },
-        {
-          "title": "XRP traders say bullishness ‘growing’ as ETFs log largest inflow since January",
-          "url": "https://cointelegraph.com/markets/xrp-traders-bullishness-growing-etfs-log-largest-inflow-since-january?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-12T17:54:24.000Z",
-          "source": "CoinTelegraph",
-          "summary": "XRP analysts highlighted the potential for a sustained price rally, fueled by strong institutional demand and a strong technical structure."
-        },
-        {
-          "title": "Ethereum Foundation rolls out support for Clear Signing crypto security solution",
-          "url": "https://www.theblock.co/post/401001/ethereum-foundation-rolls-out-support-for-clear-signing-crypto-security-solution?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-12T17:32:10.000Z",
-          "source": "The Block",
-          "summary": "Clear Signing is a crypto security feature that aims to simplify transaction descriptions so humans can understand what they're approving."
-        },
-        {
-          "title": "The Ethereum Foundation unveils new 'Clear Signing' standard to stop users from approving malicious crypto transactions",
-          "url": "https://www.coindesk.com/tech/2026/05/12/the-ethereum-foundation-unveils-new-clear-signing-standard-to-stop-users-from-approving-malicious-crypto-transactions",
-          "domain": "coindesk.com",
-          "date": "2026-05-12T17:31:53.000Z",
-          "source": "CoinDesk",
-          "summary": "The move comes after billions in losses from phishing attacks and wallet drains, with Ethereum pushing to make transaction approvals safer and easier to understand."
-        },
-        {
-          "title": "Senate confirms Kevin Warsh to Fed board ahead of expected Chair vote",
-          "url": "https://www.coindesk.com/policy/2026/05/12/senate-confirms-kevin-warsh-to-fed-board-ahead-of-expected-chair-vote",
-          "domain": "coindesk.com",
-          "date": "2026-05-12T17:29:09.000Z",
-          "source": "CoinDesk",
-          "summary": "Warsh’s confirmation to the Fed board positions the crypto-linked investor to replace Jerome Powell as chair amid inflation and digital asset policy debates."
         }
       ]
     }
