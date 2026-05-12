@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-12T13:26:58.516Z",
+  "updatedAt": "2026-05-12T16:03:58.650Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -98,6 +98,22 @@
       ],
       "articles": [
         {
+          "title": "Forever Healthy Releases AI4L 1.0 for Practical Longevity",
+          "url": "https://lifespan.io/forever-healthy-releases-ai4l-1-0-for-practical-longevity/?utm_source=rss&utm_medium=rss&utm_campaign=forever-healthy-releases-ai4l-1-0-for-practical-longevity",
+          "domain": "lifespan.io",
+          "date": "2026-05-12T16:00:07.000Z",
+          "source": "Lifespan.io",
+          "summary": "We are super excited to share with you that today we released AI4L – “AI for Practical Longevity”, an open-source system that enables […]"
+        },
+        {
+          "title": "GLP-1 Drugs’ Muscle Effects Similar to Ordinary Weight Loss",
+          "url": "https://lifespan.io/glp-1-drugs-muscle-effects-similar-to-ordinary-weight-loss/?utm_source=rss&utm_medium=rss&utm_campaign=glp-1-drugs-muscle-effects-similar-to-ordinary-weight-loss",
+          "domain": "lifespan.io",
+          "date": "2026-05-12T15:17:49.000Z",
+          "source": "Lifespan.io",
+          "summary": "A new study suggests that GLP-1 receptor agonists do not affect muscle mass any more than weight loss caused by caloric restriction, and this appears to be true for strength as well [1]. What do we […]"
+        },
+        {
           "title": "LifespanningRx expands regenerative offering with RegenTherapy",
           "url": "https://longevity.technology/news/lifespanningrx-expands-regenerative-offering-with-regentherapy/",
           "domain": "longevity.technology",
@@ -160,22 +176,6 @@
           "date": "2026-05-11T16:55:12.000Z",
           "source": "Longevity.Technology",
           "summary": "Lab-grown universal red blood cells survive in vivo as long as donated blood, signaling step toward scalable therapeutic “living drugs.” Red blood cells carry oxygen, circulate for roughly four months and then quietly retire without much attention. Yet behind that simplicity sits one of medicine’s most fragile supply chains: donor availability, blood-type matching, storage limits […] The post Scarlet raises $4m as lab-grown blood matches donor cell survival appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "AI regenerative medicine targets skin recovery",
-          "url": "https://longevity.technology/news/ai-regenerative-medicine-targets-skin-recovery/",
-          "domain": "longevity.technology",
-          "date": "2026-05-11T16:54:52.000Z",
-          "source": "Longevity.Technology",
-          "summary": "ROKIT Healthcare shares two-year skin cancer reconstruction data at EWMA 2026, signaling a wider future for regenerative longevity medicine. Skin cancer is often described as one of the “easier” cancers to treat. In many cases, doctors can remove the tumor surgically, stitch the wound and send the patient home the same day. However, that description […] The post AI regenerative medicine targets skin recovery appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Abu Dhabi’s “Future Health” initiative targets longevity, predictive care",
-          "url": "https://longevity.technology/news/abu-dhabis-future-health-initiative-targets-longevity-predictive-care/",
-          "domain": "longevity.technology",
-          "date": "2026-05-11T06:41:11.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Abu Dhabi’s Department of Health invited global partners, investors and innovators at the Milken Institute Global Conference on 7 May 2026 to use the emirate as a living lab to build, test and scale next-generation health solutions. The announcement frames Abu Dhabi as a global test bed for AI-enabled real-world health innovation supported by an […] The post Abu Dhabi’s “Future Health” initiative targets longevity, predictive care appeared first on Longevity.Technology ."
         }
       ]
     },
@@ -187,6 +187,14 @@
         "https://phys.org/rss-feed/biology-news/biotechnology/"
       ],
       "articles": [
+        {
+          "title": "One drug, two cleanup crews: A built-in backup for targeted protein degradation",
+          "url": "https://phys.org/news/2026-05-drug-cleanup-crews-built-backup.html",
+          "domain": "phys.org",
+          "date": "2026-05-12T16:00:06.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Most drugs work by inhibition: they block a protein's activity but leave the protein itself intact. Targeted protein degradation takes a fundamentally different approach, harnessing the cell's own quality-control machinery to remove proteins entirely."
+        },
         {
           "title": "Water-based nanocrystal provides a sticky solution to a pesky agricultural problem",
           "url": "https://phys.org/news/2026-05-based-nanocrystal-sticky-solution-pesky.html",
@@ -258,14 +266,6 @@
           "date": "2026-05-12T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2605.09981v1 Announce Type: new Abstract: Multimodal models that jointly reason over protein sequences, structures, and function annotations within a unified representation hold immense potential for integrating multimodal data and generating new proteins with designed functional properties. To utilize transformer architectures, such models require a tokenizer that converts protein structure from continuous atomic coordinates into discrete representations suitable for scalable multimodal training. The quality of such models are fundamentally upper bounded by the fidelity and expressiveness of the underlying tokenized structure. However, existing tokenizers prioritize reconstruction over generative abilities. To address these gaps, we introduce Yeti, a simple and compact protein structure tokenizer based on lookup free quantization and trained end to end with a flow matching objective for multimodal learning. Compared to existing models, Yeti generally achieves the best codebook utilization and token diversity, and second best reconstruction accuracy (with 10x fewer parameters than ESM3) on diverse datasets. To validate Yeti's generative capability, we trained a compact multimodal model jointly over its structure tokens and amino acid sequence entirely from scratch, with no pretrained initialization. The resulting multimodal model generates plausible structures under unconditional cogeneration of protein sequence and structures, achieving comparable results to 10x larger models. Together, these results demonstrate that Yeti is a compact and expressive protein structure tokenizer suitable for training multimodal models that cogenerates highly plausible sequences and structures."
-        },
-        {
-          "title": "Joint sparse coding and temporal dynamics support context reconfiguration",
-          "url": "https://arxiv.org/abs/2605.10178",
-          "domain": "arxiv.org",
-          "date": "2026-05-12T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2605.10178v1 Announce Type: new Abstract: Adaptive behavior requires the brain to transition between distinct contexts while maintaining representations of prior experience. The ability to reconfigure neural representations without erasing previously acquired knowledge is central to learning in dynamic environments, yet the neural mechanisms that support this balance remain unclear. Understanding these mechanisms is also critical for addressing catastrophic forgetting in artificial systems designed for lifelong learning. Here, we identify joint sparse coding and temporal dynamics in both the mouse medial prefrontal cortex (mPFC) and computational networks as mechanisms that help preserve prior representations during context transitions. Specifically, sparsity in context-dependent representations reduces cross-context interference, whereas temporal dynamics within the network activity further enhance context separability across time. Strikingly, networks endowed with both properties, such as spiking neural networks, exhibit improved retention during lifelong learning without auxiliary heuristics. These findings establish joint sparse coding and temporal dynamics as a core mechanism supporting flexible context reconfiguration in lifelong learning and, through their activity constraining nature, as an energy-efficient architectural principle for stable adaptation. Together, they provide a mechanistic framework for understanding how the brain preserves prior knowledge while flexibly adapting to new contexts."
         }
       ]
     },
@@ -278,84 +278,84 @@
       ],
       "articles": [
         {
-          "title": "CoinDesk 20 performance update: SUI drops 4.9%, as index trades lower",
-          "url": "https://www.coindesk.com/coindesk-indices/2026/05/12/coindesk-20-performance-update-sui-drops-4-9-as-index-trades-lower",
+          "title": "Coinbase adds Solana-backed loans through Morpho, letting users borrow up to $100,000",
+          "url": "https://www.theblock.co/post/400980/coinbase-solana-loans-morpho-borrow-100000?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-12T16:00:02.000Z",
+          "source": "The Block",
+          "summary": "Coinbase users can now borrow up to $100,000 against their SOL holdings through the exchange's Morpho integration on Base."
+        },
+        {
+          "title": "U.S. CFTC in talks with every major pro sports league on policing prediction markets",
+          "url": "https://www.coindesk.com/policy/2026/05/12/the-cftc-is-in-talks-with-every-major-pro-sports-league-to-crack-down-on-insider-trading",
           "domain": "coindesk.com",
-          "date": "2026-05-12T13:16:24.000Z",
+          "date": "2026-05-12T15:38:56.000Z",
           "source": "CoinDesk",
-          "summary": "Bittensor (TAO), down 4.4% from Monday, joined Sui (SUI) as an underperformer."
+          "summary": "Chairman Michael Selig says the agency has already taken several states to court to prove that sports contracts aren't just betting but that they're derivatives."
         },
         {
-          "title": "‘Favorable setup’: TD Cowen sees 106% upside in Sharplink as Galaxy yield fund, broadening Ethereum demand shift risk-reward",
-          "url": "https://www.theblock.co/post/400920/favorable-setup-td-cowen-sees-106-upside-in-sharplink-as-galaxy-yield-fund-broadening-ethereum-demand-shift-risk-reward?utm_source=rss&utm_medium=rss",
+          "title": "Bitcoin’s bull-bear cycle indicator turns green for first time since March 2023",
+          "url": "https://www.coindesk.com/markets/2026/05/12/bitcoin-s-bull-bear-cycle-turns-green-for-first-time-since-march-2023",
+          "domain": "coindesk.com",
+          "date": "2026-05-12T15:31:31.000Z",
+          "source": "CoinDesk",
+          "summary": "While some experts point to $90,000 as the next explosive level, others caution that this new \"early bull\" signal isn't a guaranteed crystal ball."
+        },
+        {
+          "title": "Binance's chief marketing officer Rachel Conlan to leave the exchange",
+          "url": "https://www.coindesk.com/business/2026/05/12/binance-s-chief-marketing-officer-rachel-conlan-is-leaving-the-exchange",
+          "domain": "coindesk.com",
+          "date": "2026-05-12T15:25:46.000Z",
+          "source": "CoinDesk",
+          "summary": "Eowyn Chen, former CEO of Trust Wallet, will serve as her interim replacement."
+        },
+        {
+          "title": "Live markets: What's next as bitcoin holds $80,000, while stocks sink, yields rise on ugly inflation print",
+          "url": "https://www.coindesk.com/markets/2026/05/12/live-markets-bitcoin-holds-usd80-000-as-stocks-sink-yields-rise-on-ugly-inflation-print",
+          "domain": "coindesk.com",
+          "date": "2026-05-12T15:04:41.000Z",
+          "source": "CoinDesk",
+          "summary": "Inflation rose to a three-year high in April, according to this morning's Consumer Price Index report."
+        },
+        {
+          "title": "Sky Ecosystem leads $13.5 million round for Stablewatch-incubated stablecoin yield startup Osero",
+          "url": "https://www.theblock.co/post/400948/sky-ecosystem-stablewatch-stablecoin-yield-startup-osero-funding?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-05-12T13:07:53.000Z",
+          "date": "2026-05-12T15:00:03.000Z",
           "source": "The Block",
-          "summary": "TD Cowen reiterates a $16 target on Sharplink after Q1 earnings, citing Galaxy partnership and 0.8x NAV discount as a \"favorable setup.\""
+          "summary": "Osero, a stablecoin yield project incubated by Stablewatch, has raised $13.5 million in a funding round led by the Sky Ecosystem."
         },
         {
-          "title": "Labor unions oppose Senate crypto bill ahead of Thursday committee markup: report",
-          "url": "https://www.theblock.co/post/400917/labor-unions-oppose-senate-crypto-bill-ahead-of-thursday-committee-markup-report?utm_source=rss&utm_medium=rss",
+          "title": "Poland lawmakers debate crypto bills as PiS party submits separate ban proposal",
+          "url": "https://www.theblock.co/post/400947/poland-lawmakers-debate-crypto-bills-as-pis-party-submits-separate-ban-proposal?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-05-12T13:07:42.000Z",
+          "date": "2026-05-12T14:47:27.000Z",
           "source": "The Block",
-          "summary": "Labor unions warned senators that a pending crypto bill jeopardizes worker retirement plans, CNBC reported."
+          "summary": "Poland lawmakers debated four cryptoasset bills as PiS submitted a separate proposal seeking a nationwide ban on crypto activity."
         },
         {
-          "title": "Istanbul Blockchain Week returns in June 2026 amid surging crypto adoption in Türkiye",
-          "url": "https://cointelegraph.com/press-releases/istanbul-blockchain-week-returns-in-june-2026-amid-surging-crypto-adoption-in-trkiye?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-05-12T12:56:36.000Z",
+          "date": "2026-05-12T14:37:33.000Z",
           "source": "CoinTelegraph",
-          "summary": "Istanbul Blockchain Week, organized by Web3 marketing agency EAK Digital is set to return for its fifth edition on June 2nd-3rd, 2026, at the Hilton Bomonti Hotel."
+          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
         },
         {
-          "title": "Hot inflation data pours cold water on Federal Reserve rate cut hopes",
-          "url": "https://www.coindesk.com/markets/2026/05/12/hot-inflation-data-pours-cold-water-on-federal-reserve-rate-cut-hopes",
-          "domain": "coindesk.com",
-          "date": "2026-05-12T12:47:06.000Z",
-          "source": "CoinDesk",
-          "summary": "Bitcoin was trading at $80,814 following the news, down 1.2% over the past 24 hours."
-        },
-        {
-          "title": "Bernstein reiterates $67 Figure target after Q1 loan volumes double, sees 72% upside from tokenization thesis",
-          "url": "https://www.theblock.co/post/400906/bernstein-reiterates-67-figure-target-after-q1-loan-volumes-double-sees-72-upside-from-tokenization-thesis?utm_source=rss&utm_medium=rss",
+          "title": "Blockchain analytics firm Elliptic closes $120 million Series D as Deutsche Bank, Nasdaq deepen crypto bets",
+          "url": "https://www.theblock.co/post/400939/blockchain-analytics-firm-elliptic-closes-120-million-series-d-as-deutsche-bank-nasdaq-deepen-crypto-bets?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-05-12T12:46:05.000Z",
+          "date": "2026-05-12T14:34:50.000Z",
           "source": "The Block",
-          "summary": "Bernstein reiterates $67 Figure target with 72% upside after Q1 loan volumes jump 113% year-over-year to $2.9 billion."
+          "summary": "Elliptic raised $120M in a Series D at $670M valuation backed by Deutsche Bank and Nasdaq Ventures as TradFi splurges more on crypto bets."
         },
         {
-          "title": "CleanSpark stock slides 9% as quarterly earnings miss estimates on bitcoin holdings loss",
-          "url": "https://www.coindesk.com/business/2026/05/12/cleanspark-s-stocks-slides-9-as-firm-reports-usd378-3-million-quarterly-loss",
-          "domain": "coindesk.com",
-          "date": "2026-05-12T12:35:20.000Z",
-          "source": "CoinDesk",
-          "summary": "CleanSpark reported a net loss of $378.3 million for the quarter ending on March 31, a steep increase from the $138.8 million loss reported the same period last year."
-        },
-        {
-          "title": "DTCC builds out blockchain-based collateral system with Chainlink integration",
-          "url": "https://www.coindesk.com/business/2026/05/12/dtcc-taps-chainlink-for-its-tokenized-collateral-platform-ahead-of-q4-launch",
-          "domain": "coindesk.com",
-          "date": "2026-05-12T12:15:00.000Z",
-          "source": "CoinDesk",
-          "summary": "The platform tokenizes collateral on blockchain rails and uses smart contracts to enable 24/7 automated collateral management across financial markets."
-        },
-        {
-          "title": "Former bitcoin miner Bitfarms reports $145 million Q1 net loss amid Keel rebrand, AI transition",
-          "url": "https://www.theblock.co/post/400900/former-bitcoin-miner-bitfarms-reports-145-million-q1-net-loss-amid-keel-rebrand-ai-transition?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-12T12:05:29.000Z",
-          "source": "The Block",
-          "summary": "Keel Infrastructure posted a $145 million Q1 net loss as the Bitfarms successor pivots from bitcoin mining to AI infrastructure."
-        },
-        {
-          "title": "Starknet launches strkBTC to bring ZK-powered shielded bitcoin to its Layer 2 network",
-          "url": "https://www.theblock.co/post/400903/starknet-launches-strkbtc-to-bring-zk-powered-shielded-bitcoin-to-its-layer-2-network?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-12T12:00:00.000Z",
-          "source": "The Block",
-          "summary": "The asset functions as a shielded bitcoin wrapper operating on Starknet rather than on the Bitcoin base layer itself."
+          "title": "Bitcoin digests highest US CPI since 2023 as Fed rate hike woes return",
+          "url": "https://cointelegraph.com/markets/bitcoin-digests-highest-us-cpi-print-since-2023-fed-rate-hike-nerves-return?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-12T14:33:51.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bitcoin showed fresh signs of volatility as US CPI inflation saw new multiyear highs on oil price hikes thanks to the US-Iran war."
         }
       ]
     }
