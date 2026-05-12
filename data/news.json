@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-12T21:50:32.983Z",
+  "updatedAt": "2026-05-12T23:05:51.684Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -143,7 +143,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-12T16:00:07.000Z",
           "source": "Lifespan.io",
-          "summary": "We are super excited to share with you that today we released AI4L – “AI for Practical Longevity”, an open-source system that enables anyone to produce rigorous, evidence-based reviews of health and longevity interventions using frontier AI models. Our novel […]"
+          "summary": "We are super excited to share with you that today we released AI4L – “AI for Practical Longevity”, an open-source system that enables anyone to produce rigorous, evidence-based reviews of health and […]"
         },
         {
           "title": "GLP-1 Drugs’ Muscle Effects Similar to Ordinary Weight Loss",
@@ -151,7 +151,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-12T15:17:49.000Z",
           "source": "Lifespan.io",
-          "summary": "A new study suggests that GLP-1 receptor agonists do not affect muscle mass any more than weight loss caused by caloric restriction, and this appears to be true for strength as well [1]. What do we lose when we lose […]"
+          "summary": "A new study suggests that GLP-1 receptor agonists do not affect muscle mass any more than weight loss caused by caloric restriction, and this appears to […]"
         },
         {
           "title": "LifespanningRx expands regenerative offering with RegenTherapy",
@@ -278,6 +278,14 @@
       ],
       "articles": [
         {
+          "title": "First-ever Hyperliquid ETF launches, posts ‘very solid’ first day of trading: analyst",
+          "url": "https://www.theblock.co/post/401047/first-ever-hyperliquid-etf-launches-posts-very-solid-first-day-of-trading-analyst?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-12T22:08:00.000Z",
+          "source": "The Block",
+          "summary": "Investors buying shares in the instrument gain exposure to the HYPE token without having to own the cryptocurrency."
+        },
+        {
           "title": "JPMorgan files to launch new tokenized fund as Wall Street tokenization race heats up",
           "url": "https://www.coindesk.com/business/2026/05/12/jpmorgan-files-to-launch-new-tokenized-fund-as-wall-street-tokenization-race-heats-up",
           "domain": "coindesk.com",
@@ -348,14 +356,6 @@
           "date": "2026-05-12T18:31:22.000Z",
           "source": "CoinTelegraph",
           "summary": "Some lawmakers continue to push for ethics provision in the bill as bipartisan support is necessary for the CLARITY Act to pass a Senate floor vote."
-        },
-        {
-          "title": "eToro Q1 crypto revenue drops to $2.15 billion from last year’s $3.5 billion",
-          "url": "https://www.theblock.co/post/401008/etoro-q1-crypto-revenue-drops-to-2-15-billion-from-last-years-3-5-billion?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-12T18:17:25.000Z",
-          "source": "The Block",
-          "summary": "eToro's cost of revenue from cryptoassets fell substantially to $2.1 billion from $3.5 billion as trading activity cooled."
         }
       ]
     }
