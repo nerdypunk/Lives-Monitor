@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-12T18:18:48.092Z",
+  "updatedAt": "2026-05-12T20:16:00.435Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -143,7 +143,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-12T16:00:07.000Z",
           "source": "Lifespan.io",
-          "summary": "We are super excited to share with you that today we released AI4L – “AI for Practical Longevity”, an open-source system that enables anyone to produce rigorous, evidence-based reviews of health and longevity interventions using frontier AI models. Our […]"
+          "summary": "We are super excited to share with you that today we released AI4L – “AI for Practical Longevity”, an open-source system that enables anyone to […]"
         },
         {
           "title": "GLP-1 Drugs’ Muscle Effects Similar to Ordinary Weight Loss",
@@ -151,7 +151,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-12T15:17:49.000Z",
           "source": "Lifespan.io",
-          "summary": "A new study suggests that GLP-1 receptor agonists do not affect muscle mass any more than weight loss caused by caloric restriction, and this appears to be true for strength as well [1]. […]"
+          "summary": "A new study suggests that GLP-1 receptor agonists do not affect muscle mass any more than weight loss caused by caloric restriction, and this appears to be true […]"
         },
         {
           "title": "LifespanningRx expands regenerative offering with RegenTherapy",
@@ -187,6 +187,14 @@
         "https://phys.org/rss-feed/biology-news/biotechnology/"
       ],
       "articles": [
+        {
+          "title": "Gentle, laser-driven flows enable precise 3D imaging of delicate samples",
+          "url": "https://phys.org/news/2026-05-gentle-laser-driven-enable-precise.html",
+          "domain": "phys.org",
+          "date": "2026-05-12T18:40:04.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Until now, it has been technically nearly impossible to rotate highly sensitive samples in all directions under a microscope without making contact. Researchers at the Karlsruhe Institute of Technology (KIT) have developed a new laser-based technique that allows microscopic samples such as cells to be rotated contact-free in all three spatial directions. The laser creates tiny temperature differences in the liquid, which trigger gentle fluid flows that move the sample. This protects delicate samples and enables more accurate three-dimensional images—an important step for basic medical research."
+        },
         {
           "title": "One drug, two cleanup crews: A built-in backup for targeted protein degradation",
           "url": "https://phys.org/news/2026-05-drug-cleanup-crews-built-backup.html",
@@ -258,14 +266,6 @@
           "date": "2026-05-12T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2605.09810v1 Announce Type: new Abstract: Protein function is often controlled by ligands that bias the direction of state transitions, such as agonists and antagonists, rather than stabilizing a single conformation. This is especially important for clinically relevant G protein-coupled receptors (GPCRs), where therapeutic efficacy depends on functional directionality. Structure-based design methods optimize binding to static conformations and cannot represent non-reversible, directional effects or systematically distinguish agonist from antagonist behavior. To address this gap, we introduce Transition-Directed Discrete Diffusion for Allosteric Binder Design (TD3B), a sequence-based generative framework that designs binders with specified agonist or antagonist behavior via a directional transition control objective. TD3B combines a target-aware Direction Oracle, a soft binding-affinity gate, and amortized fine-tuning of a pre-trained discrete diffusion model, enabling targeted agonist and antagonist generation decoupled from binding affinity and unattainable by equilibrium-based or inference-only guidance baselines. The code and checkpoints are available at https://huggingface.co/ChatterjeeLab/TD3B."
-        },
-        {
-          "title": "Yeti: A compact protein structure tokenizer for reconstruction and multi-modal generation",
-          "url": "https://arxiv.org/abs/2605.09981",
-          "domain": "arxiv.org",
-          "date": "2026-05-12T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2605.09981v1 Announce Type: new Abstract: Multimodal models that jointly reason over protein sequences, structures, and function annotations within a unified representation hold immense potential for integrating multimodal data and generating new proteins with designed functional properties. To utilize transformer architectures, such models require a tokenizer that converts protein structure from continuous atomic coordinates into discrete representations suitable for scalable multimodal training. The quality of such models are fundamentally upper bounded by the fidelity and expressiveness of the underlying tokenized structure. However, existing tokenizers prioritize reconstruction over generative abilities. To address these gaps, we introduce Yeti, a simple and compact protein structure tokenizer based on lookup free quantization and trained end to end with a flow matching objective for multimodal learning. Compared to existing models, Yeti generally achieves the best codebook utilization and token diversity, and second best reconstruction accuracy (with 10x fewer parameters than ESM3) on diverse datasets. To validate Yeti's generative capability, we trained a compact multimodal model jointly over its structure tokens and amino acid sequence entirely from scratch, with no pretrained initialization. The resulting multimodal model generates plausible structures under unconditional cogeneration of protein sequence and structures, achieving comparable results to 10x larger models. Together, these results demonstrate that Yeti is a compact and expressive protein structure tokenizer suitable for training multimodal models that cogenerates highly plausible sequences and structures."
         }
       ]
     },
@@ -277,6 +277,46 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "JPMorgan launching tokenized money market fund on Ethereum",
+          "url": "https://www.theblock.co/post/401028/jpmorgan-launching-tokenized-money-market-fund-ethereum?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-12T20:00:21.000Z",
+          "source": "The Block",
+          "summary": "The new fund will invest in U.S. Treasurys and overnight repurchase agreements collateralized by Treasurys or cash."
+        },
+        {
+          "title": "Bitcoin dominance rebounds above 58% signaling crypto market consolidation phase",
+          "url": "https://www.theblock.co/post/400801/bitcoin-dominance-rebounds-above-58-crypto-market-consolidation-phase?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-12T19:05:44.000Z",
+          "source": "The Block",
+          "summary": "Dominance peaked near 62%–63% last year before a sustained drawdown through late 2025, bottoming near 54%–55%."
+        },
+        {
+          "title": "DTCC to use Chainlink to power 24/7 collateral management network",
+          "url": "https://cointelegraph.com/news/dtcc-to-use-chainlink-to-power-247-collateral-management-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-12T18:45:10.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The world’s largest post-trade infrastructure provider will integrate Chainlink technology into its tokenized collateral platform ahead of a Q4 2026 launch."
+        },
+        {
+          "title": "WAIB Summit Monaco 2026 returns: the world’s most exclusive gathering for digital assets & AI",
+          "url": "https://cointelegraph.com/press-releases/waib-summit-monaco-2026-returns-the-worlds-most-exclusive-gathering-for-digital-assets-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-12T18:40:14.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Following the resounding success of its 2025 edition, WAIB Summit Monaco proudly announces its return on June 9–10, 2026, at the prestigious One Monte-Carlo, located in the heart of Monaco’s iconic Casino Square."
+        },
+        {
+          "title": "Latest version of crypto market structure bill raises eyebrows ahead of Senate markup",
+          "url": "https://cointelegraph.com/news/us-senate-banking-committee-draft-crypto-market-structure-bill-markup?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-12T18:31:22.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Some lawmakers continue to push for ethics provision in the bill as bipartisan support is necessary for the CLARITY Act to pass a Senate floor vote."
+        },
         {
           "title": "eToro Q1 crypto revenue drops to $2.15 billion from last year’s $3.5 billion",
           "url": "https://www.theblock.co/post/401008/etoro-q1-crypto-revenue-drops-to-2-15-billion-from-last-years-3-5-billion?utm_source=rss&utm_medium=rss",
@@ -316,46 +356,6 @@
           "date": "2026-05-12T17:29:09.000Z",
           "source": "CoinDesk",
           "summary": "Warsh’s confirmation to the Fed board positions the crypto-linked investor to replace Jerome Powell as chair amid inflation and digital asset policy debates."
-        },
-        {
-          "title": "Bitcoin Fog appeal tests DOJ theory that global crypto services fall under D.C. law",
-          "url": "https://www.theblock.co/post/400983/bitcoin-fog-appeal-tests-doj-theory-global-crypto-services-d-c-law?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-12T17:14:29.000Z",
-          "source": "The Block",
-          "summary": "The panel also scrutinized the reliability of the \"IP overlap\" analysis used to link Sterlingov to Bitcoin Fog."
-        },
-        {
-          "title": "Ethereum derivatives unfazed by DeFi hacks: Can ETH hit $2.6K next?",
-          "url": "https://cointelegraph.com/markets/eth-derivatives-unfazed-defi-hacks-eth-hit-2600-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-12T17:14:28.000Z",
-          "source": "CoinTelegraph",
-          "summary": "ETH futures and options signal quiet confidence among pros despite macro headwinds and DeFi exploits, keeping the $2,600 price target in play."
-        },
-        {
-          "title": "Stablecoin yield infrastructure project raises $13.5M in round led by Sky Ecosystem",
-          "url": "https://www.coindesk.com/business/2026/05/12/stablecoin-yield-infrastructure-project-raises-usd13-5m-in-round-led-by-sky-ecosystem",
-          "domain": "coindesk.com",
-          "date": "2026-05-12T16:35:02.000Z",
-          "source": "CoinDesk",
-          "summary": "Osero is coming with three products: Earn, App, and Foundry."
-        },
-        {
-          "title": "Privacy emerges as crypto’s next 'killer app,' with Arc, Canton and Tempo topping $1 billion in funding",
-          "url": "https://www.coindesk.com/business/2026/05/12/privacy-emerges-as-crypto-s-next-killer-app-with-arc-canton-and-tempo-topping-usd1-billion-in-funding",
-          "domain": "coindesk.com",
-          "date": "2026-05-12T16:33:42.000Z",
-          "source": "CoinDesk",
-          "summary": "New fundraising rounds for three institution-focused blockchains show how regulation, privacy and corporate competition are reshaping crypto infrastructure, according to Bitwise CIO Matt Hougan."
-        },
-        {
-          "title": "Coinbase adds Solana-backed loans through Morpho, letting users borrow up to $100,000",
-          "url": "https://www.theblock.co/post/400980/coinbase-solana-loans-morpho-borrow-100000?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-12T16:00:02.000Z",
-          "source": "The Block",
-          "summary": "Coinbase users can now borrow up to $100,000 against their SOL holdings through the exchange's Morpho integration on Base."
         }
       ]
     }
