@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-12T11:44:41.531Z",
+  "updatedAt": "2026-05-12T13:26:58.516Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -18,9 +18,9 @@
         },
         {
           "title": "NanoVita Launches NANA Token On KTX Exchange, Enabling DeSci Network Access To DeFi Users - MEXC Exchange",
-          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9UMkc1dF9NRWlCbVB2RXdsa0FCeWFWcGhKVEVuQnVyd1lTczFFWGZ3RDB6ZXZwWFlHMXhxS2ZfVmpmaUNuZWdR?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9VcWhZazJBQkU0b0JyQ2ZSTWxCelhva2UxdHI5N2xienNsZUhaVXpLVGpkWDdTQ1NrTVVNSmRZTzVfc1ZuSWhoZjVyZEVxMzg?oc=5",
           "domain": "mexc.co",
-          "date": "2026-05-10T10:35:20.000Z",
+          "date": "2026-05-10T10:03:32.000Z",
           "source": "MEXC Exchange",
           "summary": "NanoVita Launches NANA Token On KTX Exchange, Enabling DeSci Network Access To DeFi Users &nbsp;&nbsp; MEXC Exchange"
         },
@@ -81,12 +81,12 @@
           "summary": "AI Token SkyAI And DeSci Protocol BIO Each Climb 42% In Parallel Rally &nbsp;&nbsp; Yellow.com"
         },
         {
-          "title": "Bio Protocol Multisig Wallet Transfers 80M BIO to CEX Worth $5.15M - Bitget",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50N21PS05qNUM3TGtjd1R4eUlfdkp2WW1WVzEwSXNyNzhyWFVJRkMzaF9Mb1N3a3ZvM2RUV0RSd0R3RGR6ZWYwTXI3cEg1YTZJWGxFN1FYTnRDY3Q1eWfSAWNBVV95cUxPcjVSNTNrYko4cVRxY2RMS0dpb0c2dHdKWmQ3SGo2aTdndUlfWmZrMjlnckwxbmVna1B2MnZ0azBoVWIyaDJFRUVGRm1Zcm5ZR0wxc19XcDIycTE3d1VtSGV0bm8?oc=5",
-          "domain": "bitget.com",
-          "date": "2026-05-02T10:36:40.000Z",
-          "source": "Bitget",
-          "summary": "Bio Protocol Multisig Wallet Transfers 80M BIO to CEX Worth $5.15M &nbsp;&nbsp; Bitget"
+          "title": "Bio Protocol BioXP Upgrade: Ignition Sale Empowers USDC Holders with Priority Access - Dailyhunt",
+          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNdjBmUFRPTFRFU05IYmZhSmQ3VlRtanBXRk5GbkZvOGhYTk1fdElxdmlhd05HZE00b2tENUlXNWRMZ1N4WkppQmhQbkxQWmwtaGdodHVsRTRJZXkwOXkwMHNWd0lpR2hLV3l4OUxmRGJJckRPX2JmSlZHNmgwWVFVX1FfdEEtZmc1MEMyOUxOalpienk1ZHhDbVlYWWV3dTNhaG9ZTDJBT3NsUWRyaDlwcUc5RzBNVWZwdzIySkFNQWNFbW4yaFBZNFl3WDY3eUlxQ3dDaUpkd2xxem5TZmQwNEpfd0kxTUtubndBbmFKd3k3bzFqekJuZ0d3OFpUdHJ6M1p0S0F2NVhPUQ?oc=5",
+          "domain": "m.dailyhunt.in",
+          "date": "2026-05-02T17:15:29.000Z",
+          "source": "Dailyhunt",
+          "summary": "Bio Protocol BioXP Upgrade: Ignition Sale Empowers USDC Holders with Priority Access &nbsp;&nbsp; Dailyhunt"
         }
       ]
     },
@@ -188,6 +188,22 @@
       ],
       "articles": [
         {
+          "title": "Water-based nanocrystal provides a sticky solution to a pesky agricultural problem",
+          "url": "https://phys.org/news/2026-05-based-nanocrystal-sticky-solution-pesky.html",
+          "domain": "phys.org",
+          "date": "2026-05-12T13:20:10.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "A water-based formulation developed at the University of Waterloo using nanotechnology is both greener and more effective than conventional methods for delivering agricultural pesticides."
+        },
+        {
+          "title": "Super-resolution microscopy provides real-time picture of bacteria degrading biomass with enzyme complexes",
+          "url": "https://phys.org/news/2026-05-super-resolution-microscopy-real-picture.html",
+          "domain": "phys.org",
+          "date": "2026-05-12T12:40:02.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "To the untrained eye, they look like blobs blotching the otherwise smooth surface of rod-like bacteria. But if you ask a microbiologist about \"cellulosomes,\" they will likely tell you that those blobs are actually sophisticated cellulolytic machines."
+        },
+        {
           "title": "An Explainable Unsupervised-to-Supervised Machine Learning Framework for Dietary Pattern Discovery Using UK National Dietary Survey Data",
           "url": "https://arxiv.org/abs/2605.08242",
           "domain": "arxiv.org",
@@ -250,22 +266,6 @@
           "date": "2026-05-12T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2605.10178v1 Announce Type: new Abstract: Adaptive behavior requires the brain to transition between distinct contexts while maintaining representations of prior experience. The ability to reconfigure neural representations without erasing previously acquired knowledge is central to learning in dynamic environments, yet the neural mechanisms that support this balance remain unclear. Understanding these mechanisms is also critical for addressing catastrophic forgetting in artificial systems designed for lifelong learning. Here, we identify joint sparse coding and temporal dynamics in both the mouse medial prefrontal cortex (mPFC) and computational networks as mechanisms that help preserve prior representations during context transitions. Specifically, sparsity in context-dependent representations reduces cross-context interference, whereas temporal dynamics within the network activity further enhance context separability across time. Strikingly, networks endowed with both properties, such as spiking neural networks, exhibit improved retention during lifelong learning without auxiliary heuristics. These findings establish joint sparse coding and temporal dynamics as a core mechanism supporting flexible context reconfiguration in lifelong learning and, through their activity constraining nature, as an energy-efficient architectural principle for stable adaptation. Together, they provide a mechanistic framework for understanding how the brain preserves prior knowledge while flexibly adapting to new contexts."
-        },
-        {
-          "title": "Cortico-cerebellar modularity as an architectural inductive bias for efficient temporal learning",
-          "url": "https://arxiv.org/abs/2605.10356",
-          "domain": "arxiv.org",
-          "date": "2026-05-12T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2605.10356v1 Announce Type: new Abstract: The cerebellum and cerebral cortex form tightly coupled circuits thought to support flexible and efficient temporal processing. How this interaction shapes cortical learning dynamics, and whether such heterogeneous modularity can benefit artificial systems, remains unclear. Here, we augment a recurrent neural network (RNN) with a cerebellar-inspired feedforward module and evaluate the resulting architecture on temporal tasks of varying difficulty. The cortico-cerebellar RNN (CB-RNN) learns faster and reaches higher maximum performance than parameter-matched fully recurrent baselines across a variety of regimes. Crucially, freezing the recurrent core after minimal training and delegating subsequent learning to the cerebellar module preserves superior learning efficiency, suggesting the cerebellar module is a primary driver of efficiency and that the cortical network can largely function as a fixed reservoir. Our results suggest that heterogeneous modular architectures can act as a powerful structural inductive bias in neural systems."
-        },
-        {
-          "title": "Travelling waves of invasion in microbial communities with phenotypic switching",
-          "url": "https://arxiv.org/abs/2605.10420",
-          "domain": "arxiv.org",
-          "date": "2026-05-12T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2605.10420v1 Announce Type: new Abstract: Complex microbial habitats see the spatial competition of different clonal bacterial populations that switch between different phenotypes. Here, we determine the effect of this subpopulation structure on the invasion of one species by another in a minimal model of two competing species: one species switches, both stochastically and in response to its competitor, to a persister phenotype resilient to competition. Surprisingly, our combined analytical and numerical results show that this phenotypic switching has no effect on the speed of the travelling wave by which the competitors invade the first population. Conversely, we discover that phenotypic switching can speed up the wave by which this population invades their competitors. Our results thus suggest, counterintuitively, that bacterial persistence can be an offensive, rather than defensive ecological strategy."
         }
       ]
     },
@@ -278,84 +278,84 @@
       ],
       "articles": [
         {
-          "title": "Exodus dumps 1,000 bitcoin: Why the crypto wallet is cashing out to fund a payments empire",
-          "url": "https://www.coindesk.com/business/2026/05/12/exodus-dumps-1-000-bitcoin-why-the-crypto-wallet-is-cashing-out-to-fund-a-payments-empire",
+          "title": "CoinDesk 20 performance update: SUI drops 4.9%, as index trades lower",
+          "url": "https://www.coindesk.com/coindesk-indices/2026/05/12/coindesk-20-performance-update-sui-drops-4-9-as-index-trades-lower",
           "domain": "coindesk.com",
-          "date": "2026-05-12T11:39:15.000Z",
+          "date": "2026-05-12T13:16:24.000Z",
           "source": "CoinDesk",
-          "summary": "Exodus sold $73.2M in crypto, causing cash, cash equivalents, and stablecoins to jump from $5.2M to $74.4M by the end of Q1 2026."
+          "summary": "Bittensor (TAO), down 4.4% from Monday, joined Sui (SUI) as an underperformer."
         },
         {
-          "title": "Crypto markets stalls before inflation data as XRP, SOL rebuffed from key price levels",
-          "url": "https://www.coindesk.com/daybook-us/2026/05/12/crypto-markets-stalls-before-inflation-data-as-xrp-sol-rebuffed-from-key-price-levels",
-          "domain": "coindesk.com",
-          "date": "2026-05-12T11:15:56.000Z",
-          "source": "CoinDesk",
-          "summary": "Your day-ahead look for May 12, 2026"
-        },
-        {
-          "title": "Bakkt pivots into stablecoin infrastructure as revenue tumbles 77% in Q1",
-          "url": "https://cointelegraph.com/news/bakkt-pivots-into-stablecoin-infrastructure-as-revenue-tumbles-77-in-q1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-12T11:10:00.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Bakkt posted a net loss of $0.41 per share in Q1 as revenue fell 77% to $243.6 million on lower crypto trading volumes."
-        },
-        {
-          "title": "Bhutan’s GMC offers quick licenses, bank accounts to lure crypto firms",
-          "url": "https://cointelegraph.com/news/bhutans-gelephu-offers-quick-licences-bank-accounts-crypto-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-12T11:00:00.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Gelephu Mindfulness City in Bhutan is offering a faster licensing track with banking and zero‑tax incentives to attract regulated crypto firms willing to build long‑term operations."
-        },
-        {
-          "title": "Bitcoin hovers above key support as equities, crypto retreat",
-          "url": "https://www.coindesk.com/markets/2026/05/12/bitcoin-hovers-above-key-support-as-equities-and-crypto-retreat",
-          "domain": "coindesk.com",
-          "date": "2026-05-12T10:40:05.000Z",
-          "source": "CoinDesk",
-          "summary": "Bitcoin and ether fell as escalating Middle East tensions lifted oil and the dollar, though BTC continued to hold above a key bull market level."
-        },
-        {
-          "title": "Rewardy Wallet launches global multi-chain swap campaign with incentives",
-          "url": "https://cointelegraph.com/press-releases/rewardy-wallet-launches-global-multi-chain-swap-campaign-with-incentives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-12T10:23:25.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Self-custody wallet by Chainwith opens two-week user activation across Ethereum, BNB Chain, Solana, and Aptos, with prizes starting at $100."
-        },
-        {
-          "title": "ETH/BTC ratio falls to 10-month low as ether continues to underperform bitcoin",
-          "url": "https://www.coindesk.com/markets/2026/05/12/eth-btc-ratio-falls-to-10-month-low-as-ether-continues-to-underperform-bitcoin",
-          "domain": "coindesk.com",
-          "date": "2026-05-12T10:20:51.000Z",
-          "source": "CoinDesk",
-          "summary": "Widely followed crypto market gauge signals weakening risk appetite as investors continue favoring bitcoin over ether."
-        },
-        {
-          "title": "Beyond IBIT: Bitcoin’s surprising link to sports betting ETF is getting harder to ignore",
-          "url": "https://www.coindesk.com/markets/2026/05/12/beyond-ibit-a-betting-and-sports-etf-bitcoin-traders-may-want-to-watch",
-          "domain": "coindesk.com",
-          "date": "2026-05-12T10:11:26.000Z",
-          "source": "CoinDesk",
-          "summary": "The Roundhill Sports Betting & iGaming ETF (BETZ) and bitcoin share a strong positive correlation, with an interesting twist."
-        },
-        {
-          "title": "CleanSpark shares slide after reporting $378M fiscal second quarter loss",
-          "url": "https://cointelegraph.com/news/cleanspark-posts-378m-in-quarterly-losses-largely-driven-by-bitcoin-price-drop?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-12T10:08:28.000Z",
-          "source": "CoinTelegraph",
-          "summary": "CleanSpark posted a $378.3 million net loss in its fiscal second-quarter results, more than double the prior year, with nearly 60% tied to Bitcoin price declines."
-        },
-        {
-          "title": "Bhutan government moves another 100 BTC as 2026 bitcoin outflows top $230 million: Arkham",
-          "url": "https://www.theblock.co/post/400888/bhutan-government-moves-100-btc-arkham?utm_source=rss&utm_medium=rss",
+          "title": "‘Favorable setup’: TD Cowen sees 106% upside in Sharplink as Galaxy yield fund, broadening Ethereum demand shift risk-reward",
+          "url": "https://www.theblock.co/post/400920/favorable-setup-td-cowen-sees-106-upside-in-sharplink-as-galaxy-yield-fund-broadening-ethereum-demand-shift-risk-reward?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-05-12T09:55:48.000Z",
+          "date": "2026-05-12T13:07:53.000Z",
           "source": "The Block",
-          "summary": "Bhutan appears to have sold around $50 million in BTC per month this year, Arkham said, but still has $252 million in bitcoin remaining."
+          "summary": "TD Cowen reiterates a $16 target on Sharplink after Q1 earnings, citing Galaxy partnership and 0.8x NAV discount as a \"favorable setup.\""
+        },
+        {
+          "title": "Labor unions oppose Senate crypto bill ahead of Thursday committee markup: report",
+          "url": "https://www.theblock.co/post/400917/labor-unions-oppose-senate-crypto-bill-ahead-of-thursday-committee-markup-report?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-12T13:07:42.000Z",
+          "source": "The Block",
+          "summary": "Labor unions warned senators that a pending crypto bill jeopardizes worker retirement plans, CNBC reported."
+        },
+        {
+          "title": "Istanbul Blockchain Week returns in June 2026 amid surging crypto adoption in Türkiye",
+          "url": "https://cointelegraph.com/press-releases/istanbul-blockchain-week-returns-in-june-2026-amid-surging-crypto-adoption-in-trkiye?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-12T12:56:36.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Istanbul Blockchain Week, organized by Web3 marketing agency EAK Digital is set to return for its fifth edition on June 2nd-3rd, 2026, at the Hilton Bomonti Hotel."
+        },
+        {
+          "title": "Hot inflation data pours cold water on Federal Reserve rate cut hopes",
+          "url": "https://www.coindesk.com/markets/2026/05/12/hot-inflation-data-pours-cold-water-on-federal-reserve-rate-cut-hopes",
+          "domain": "coindesk.com",
+          "date": "2026-05-12T12:47:06.000Z",
+          "source": "CoinDesk",
+          "summary": "Bitcoin was trading at $80,814 following the news, down 1.2% over the past 24 hours."
+        },
+        {
+          "title": "Bernstein reiterates $67 Figure target after Q1 loan volumes double, sees 72% upside from tokenization thesis",
+          "url": "https://www.theblock.co/post/400906/bernstein-reiterates-67-figure-target-after-q1-loan-volumes-double-sees-72-upside-from-tokenization-thesis?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-12T12:46:05.000Z",
+          "source": "The Block",
+          "summary": "Bernstein reiterates $67 Figure target with 72% upside after Q1 loan volumes jump 113% year-over-year to $2.9 billion."
+        },
+        {
+          "title": "CleanSpark stock slides 9% as quarterly earnings miss estimates on bitcoin holdings loss",
+          "url": "https://www.coindesk.com/business/2026/05/12/cleanspark-s-stocks-slides-9-as-firm-reports-usd378-3-million-quarterly-loss",
+          "domain": "coindesk.com",
+          "date": "2026-05-12T12:35:20.000Z",
+          "source": "CoinDesk",
+          "summary": "CleanSpark reported a net loss of $378.3 million for the quarter ending on March 31, a steep increase from the $138.8 million loss reported the same period last year."
+        },
+        {
+          "title": "DTCC builds out blockchain-based collateral system with Chainlink integration",
+          "url": "https://www.coindesk.com/business/2026/05/12/dtcc-taps-chainlink-for-its-tokenized-collateral-platform-ahead-of-q4-launch",
+          "domain": "coindesk.com",
+          "date": "2026-05-12T12:15:00.000Z",
+          "source": "CoinDesk",
+          "summary": "The platform tokenizes collateral on blockchain rails and uses smart contracts to enable 24/7 automated collateral management across financial markets."
+        },
+        {
+          "title": "Former bitcoin miner Bitfarms reports $145 million Q1 net loss amid Keel rebrand, AI transition",
+          "url": "https://www.theblock.co/post/400900/former-bitcoin-miner-bitfarms-reports-145-million-q1-net-loss-amid-keel-rebrand-ai-transition?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-12T12:05:29.000Z",
+          "source": "The Block",
+          "summary": "Keel Infrastructure posted a $145 million Q1 net loss as the Bitfarms successor pivots from bitcoin mining to AI infrastructure."
+        },
+        {
+          "title": "Starknet launches strkBTC to bring ZK-powered shielded bitcoin to its Layer 2 network",
+          "url": "https://www.theblock.co/post/400903/starknet-launches-strkbtc-to-bring-zk-powered-shielded-bitcoin-to-its-layer-2-network?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-12T12:00:00.000Z",
+          "source": "The Block",
+          "summary": "The asset functions as a shielded bitcoin wrapper operating on Starknet rather than on the Bitcoin base layer itself."
         }
       ]
     }
