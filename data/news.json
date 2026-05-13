@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-13T15:25:22.839Z",
+  "updatedAt": "2026-05-13T17:36:18.575Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -8,6 +8,14 @@
         "https://news.google.com/rss/search?q=DeSci%20OR%20%22decentralized%20science%22%20OR%20%22BIO%20Protocol%22&hl=en-US&gl=US&ceid=US:en"
       ],
       "articles": [
+        {
+          "title": "Delphi Digital: Is DeSci ushering in a second wave of opportunities? - PANews",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53OU5fbDgyQ1k0enAxLXI1VkhoamNRcUpiUmxPYzQ3Nk5HMmZQQXAwTS16S3VoZVhhQk1LMGkyQ21vOU1fY3FuaTZjcDRmYWZ1TWNYaVFsdWhkS2NjUEpGR2ExenJCZnRhdy1lV2swUEtuMHBIUFBtS3BKMTFTMGc?oc=5",
+          "domain": "panewslab.com",
+          "date": "2026-05-13T15:59:49.000Z",
+          "source": "PANews",
+          "summary": "Delphi Digital: Is DeSci ushering in a second wave of opportunities? &nbsp;&nbsp; PANews"
+        },
         {
           "title": "Bio Protocol (BIO) - AI Scientist Demo - 12 May 2026 - TradingView",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVTRrclRTRGRCaENleE5sYUpwQ3JxaGxYWHptOFFmbGljSEJwTFhYMVlVV0h1cV91cjY0MVE3S19CMVpVOTJHR1VsVnJHSVEyMF94em1BS09jd2FzZHZBYzlodDZncHoxSmVyWktBb0h4RE1ZR2hvSXdzUGlnS2NjVjB0M250bUVOU1ZKeHlra0N3SXhWZFd4MHhRRUVhQ0xoejNrS2p2c0t6SjhxY29n?oc=5",
@@ -33,28 +41,20 @@
           "summary": "NanoVita Launches NANA Token On KTX Exchange, Enabling DeSci Network Access To DeFi Users &nbsp;&nbsp; MEXC Exchange"
         },
         {
-          "title": "Delphi Digital: Is DeSci ushering in a second wave of opportunities? - PANews",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53OU5fbDgyQ1k0enAxLXI1VkhoamNRcUpiUmxPYzQ3Nk5HMmZQQXAwTS16S3VoZVhhQk1LMGkyQ21vOU1fY3FuaTZjcDRmYWZ1TWNYaVFsdWhkS2NjUEpGR2ExenJCZnRhdy1lV2swUEtuMHBIUFBtS3BKMTFTMGc?oc=5",
-          "domain": "panewslab.com",
-          "date": "2026-05-07T06:45:32.000Z",
-          "source": "PANews",
-          "summary": "Delphi Digital: Is DeSci ushering in a second wave of opportunities? &nbsp;&nbsp; PANews"
-        },
-        {
-          "title": "NanoVita Labs Launches $NANA Token on PancakeSwap – A New Era for AI-Driven Decentralized Science - Cryptonews.net",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5xdkZSLWxFMVl6Ti1DQUZjdGxOaHJwdFpEaE1sLUtRaDdYY3dBRGdxbGszbWFhNDhEdlEzNWRkXy1SR2Z0cnBOQVZGMFJHV2VBclpGaEZjWQ?oc=5",
-          "domain": "cryptonews.net",
-          "date": "2026-05-06T11:32:55.000Z",
-          "source": "Cryptonews.net",
-          "summary": "NanoVita Labs Launches $NANA Token on PancakeSwap – A New Era for AI-Driven Decentralized Science &nbsp;&nbsp; Cryptonews.net"
-        },
-        {
           "title": "DeSci's Second Coming? - Delphi Digital",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxekJCVU5kTFJ2YTV3Ny1uZmE0NVJzQUVHQno2bUV3dWVwVGttLVozTDlsMk93dWw2Nl9OLXktYkYtbkFyQ285bXF4eEo1dDFEWkd6ZVNIWG52NU5fREFNTTRfNlVET25nMmc?oc=5",
           "domain": "members.delphidigital.io",
           "date": "2026-05-05T16:07:54.000Z",
           "source": "Delphi Digital",
           "summary": "DeSci's Second Coming? &nbsp;&nbsp; Delphi Digital"
+        },
+        {
+          "title": "NanoVita Labs Launches $NANA Token on PancakeSwap – A New Era for AI-Driven Decentralized Science - MEXC Exchange",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBpczV1SndGbVltSkVRRFpZSkJWQjA3bHFQcWVFc1FmbW9QZVgzRTJkSXVrZmlyaEZObnpHNnMyUHc3SDQzSTBz?oc=5",
+          "domain": "mexc.co",
+          "date": "2026-05-05T07:00:00.000Z",
+          "source": "MEXC Exchange",
+          "summary": "NanoVita Labs Launches $NANA Token on PancakeSwap – A New Era for AI-Driven Decentralized Science &nbsp;&nbsp; MEXC Exchange"
         },
         {
           "title": "DeSci Has Raised Millions For Research No VC Would Ever Touch - Yellow.com",
@@ -98,6 +98,46 @@
       ],
       "articles": [
         {
+          "title": "Longevity Academy expands clinical curriculum",
+          "url": "https://longevity.technology/news/longevity-academy-expands-clinical-curriculum/",
+          "domain": "longevity.technology",
+          "date": "2026-05-13T16:22:38.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Advanced certification program aims to translate longevity science into practical patient care for medical professionals. As longevity medicine edges further into the clinical mainstream, a familiar problem continues to surface: enthusiasm for the science is growing considerably faster than the infrastructure needed to teach it responsibly. Against that backdrop, Longevity Academy – the educational platform […] The post Longevity Academy expands clinical curriculum appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "WHOOP moves into clinical care as Fitbit rebrands to Google Health",
+          "url": "https://longevity.technology/news/whoop-moves-into-clinical-care-as-fitbit-rebrands-to-google-health/",
+          "domain": "longevity.technology",
+          "date": "2026-05-13T16:21:32.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Wearables are moving beyond fitness tracking as WHOOP pushes deeper into preventative healthcare and personalized longevity. Is the wellness app era over? Health apps have mostly lived in the margins of our lives. They counted steps, nudged us to stand up and collected sleep data most of us never looked at twice. That era may […] The post WHOOP moves into clinical care as Fitbit rebrands to Google Health appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "Monthly obesity shot moves closer to reality",
+          "url": "https://longevity.technology/news/monthly-obesity-shot-moves-closer-to-reality/",
+          "domain": "longevity.technology",
+          "date": "2026-05-13T16:20:21.000Z",
+          "source": "Longevity.Technology",
+          "summary": "MBX Biosciences says early data suggest its experimental obesity drug could be taken just once a month, with fewer side effects. The obesity drug market has quickly become one of the most crowded (and lucrative) areas in biotech. However, while much of the industry has focused on making weight-loss drugs more powerful, Indiana-based biopharma company […] The post Monthly obesity shot moves closer to reality appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "Restore taps into consumer NAD+ interest",
+          "url": "https://longevity.technology/news/restore-taps-into-consumer-nad-interest/",
+          "domain": "longevity.technology",
+          "date": "2026-05-13T16:19:04.000Z",
+          "source": "Longevity.Technology",
+          "summary": "The wellness company is turning May into “NAD+ Month” as consumer interest in cellular health and longevity continues to climb. We are already past the time when conversations about NAD+ lived mostly inside longevity and wellness podcasts, Reddit forums and expensive wellness clinics catering to executives trying to outpace aging. Now, the molecule is everywhere. […] The post Restore taps into consumer NAD+ interest appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "Current Clinical Trials of Alzheimer’s Drugs",
+          "url": "https://lifespan.io/current-clinical-trials-of-alzheimers-drugs/?utm_source=rss&utm_medium=rss&utm_campaign=current-clinical-trials-of-alzheimers-drugs",
+          "domain": "lifespan.io",
+          "date": "2026-05-13T16:18:25.000Z",
+          "source": "Lifespan.io",
+          "summary": "This month, a group of researchers published an annual report on the clinical trials that are testing drugs for Alzheimer’s disease. Overall, they reported an increase in the number of trials, with 158 drugs investigated across 192 trials [1]. […]"
+        },
+        {
           "title": "Sironax receives FDA fast track status for neuroprotective SARM1 inhibitor",
           "url": "https://longevity.technology/news/sironax-receives-fda-fast-track-status-for-neuroprotective-sarm1-inhibitor/",
           "domain": "longevity.technology",
@@ -136,46 +176,6 @@
           "date": "2026-05-13T09:36:10.000Z",
           "source": "Longevity.Technology",
           "summary": "MetaVia Inc. announced that a late-breaking abstract on DA-1726 has been accepted for a poster presentation at the European Association for the Study of the Liver Congress 2026 in Barcelona, scheduled May 27–30, with the presentation set for 27 May at 8:30 am CET. The poster, titled Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of DA-1726, an […] The post MetaVia to present high-dose obesity drug data at major liver congress appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Ribo, Insilico partner to accelerate siRNA drug development using AI",
-          "url": "https://longevity.technology/news/ribo-insilico-partner-to-accelerate-sirna-drug-development-using-ai/",
-          "domain": "longevity.technology",
-          "date": "2026-05-13T09:31:10.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Suzhou-based Ribo has entered a strategic collaboration with Insilico Medicine to accelerate development of siRNA therapeutics, the companies announced 12 May 2026. Under the agreement Ribo (06938.HK) and Insilico Medicine (03696.HK) will combine Ribo’s siRNA development capabilities and Insilico Medicine’s ai-powered Pharma.AI platform to collaborate on target discovery, drug molecule design and optimization, ai-assisted development […] The post Ribo, Insilico partner to accelerate siRNA drug development using AI appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "NAD+ webinar set to examine delivery dilemma",
-          "url": "https://longevity.technology/news/nad-webinar-set-to-examine-delivery-dilemma/",
-          "domain": "longevity.technology",
-          "date": "2026-05-12T17:15:38.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Longevity.Technology and Bio Atelier will host a discussion on injections, pens and pills – and why delivery may matter more than branding. NAD Explained: Pills vs Injections vs Pens – What Actually Works?Webinar – Wednesday 20th May 3pm BST NAD+ has become one of longevity medicine’s most commercially visible molecules, found everywhere from high-end clinics […] The post NAD+ webinar set to examine delivery dilemma appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Abu Dhabi opens a real-world test lab for longevity",
-          "url": "https://longevity.technology/news/abu-dhabi-opens-a-real-world-test-lab-for-longevity/",
-          "domain": "longevity.technology",
-          "date": "2026-05-12T17:14:58.000Z",
-          "source": "Longevity.Technology",
-          "summary": "The UAE capital wants startups, investors and scientists to build the future of preventive healthcare in real time. Healthcare systems usually change slowly. Abu Dhabi wants to see what happens when one doesn’t. At the Milken Institute Global Conference this month, Abu Dhabi made a direct appeal to the global health and longevity industry: come […] The post Abu Dhabi opens a real-world test lab for longevity appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Clene gets FDA nod for ALS accelerated path",
-          "url": "https://longevity.technology/news/clene-gets-fda-nod-for-als-accelerated-path/",
-          "domain": "longevity.technology",
-          "date": "2026-05-12T17:05:44.000Z",
-          "source": "Longevity.Technology",
-          "summary": "FDA signals Clene’s ALS therapy may qualify for accelerated approval pathway supported by biomarker-based evidence. A small regulatory sentence that could carry outsized weight for ALS patients waiting for the time they don’t have. In biotech, the most important developments can arrive in the form of carefully worded regulatory language. That seems to be the […] The post Clene gets FDA nod for ALS accelerated path appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Longevity risk at the individual level",
-          "url": "https://longevity.technology/news/longevity-risk-at-the-individual-level/",
-          "domain": "longevity.technology",
-          "date": "2026-05-12T16:39:58.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Wellthspan Advisory’s Nadine Esposito explains why living longer does not automatically mean living securely. We celebrate longer lives. In the EU, life expectancy has climbed above 81 years, and reaching 90 is no longer exceptional. Yet beneath this achievement lies an uncomfortable reality: longevity extends time, and time increases exposure. Exposure to health shocks. Exposure […] The post Longevity risk at the individual level appeared first on Longevity.Technology ."
         }
       ]
     },
@@ -187,6 +187,22 @@
         "https://phys.org/rss-feed/biology-news/biotechnology/"
       ],
       "articles": [
+        {
+          "title": "AI tool boosts imperfect antibiotic candidates, with 85% working in lab tests",
+          "url": "https://phys.org/news/2026-05-ai-tool-boosts-imperfect-antibiotic.html",
+          "domain": "phys.org",
+          "date": "2026-05-13T17:23:45.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Researchers at the University of Pennsylvania have developed ApexGO, a novel, AI-powered method for turning promising but imperfect antibiotic candidates into more potent ones. Unlike many existing AI approaches to antibiotic discovery, which screen large databases for molecules that might work, ApexGO starts with a small number of imperfect candidates and improves them step by step, using a predictive algorithm to evaluate each modification and guide the next."
+        },
+        {
+          "title": "Microalgae can photosynthetically produce and secrete biofuel precursors",
+          "url": "https://phys.org/news/2026-05-microalgae-photosynthetically-secrete-biofuel-precursors.html",
+          "domain": "phys.org",
+          "date": "2026-05-13T17:20:59.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Microalgae have attracted growing attention as a promising platform for sustainable biofuel production because they can use photosynthesis to convert carbon dioxide into energy-rich compounds without competing with food crops. However, practical use of algal biofuels has long faced major obstacles."
+        },
         {
           "title": "A marine-inspired sunscreen ingredient made by E. coli",
           "url": "https://phys.org/news/2026-05-marine-sunscreen-ingredient-coli.html",
@@ -250,22 +266,6 @@
           "date": "2026-05-13T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2605.11197v1 Announce Type: new Abstract: Regression to the Mean and Regression Dilution are often viewed as unrelated issues in the clinical and ecological literatures. In reality, they are different names for the same problem: measurement error in an independent variable that biases the perceived relationship between two factors. This study unifies these traditions by comparing specialized clinical tools, like the Berry correction, with standard structural estimators such as Major Axis and Reduced Major Axis regression. Using an analytical framework, we evaluate how these methods perform across various noise levels and sample sizes. Our results show that the Berry method is a specialized tool designed for clinical scenarios where a 1:1 relationship is expected. However, applying it to ecological trade-offs with negative slopes can lead to severe errors. We provide maps of optimality to identify which estimator most accurately recovers the true biological signal under different conditions. By reconciling these disparate methods, we offer a principled guide for researchers to choose the correct tool based on their data's noise profile rather than their disciplinary tradition."
-        },
-        {
-          "title": "Beyond Manual Curation: Augmenting Targeted Protein Degradation Databases via Agentic Literature Extraction Workflows",
-          "url": "https://arxiv.org/abs/2605.11221",
-          "domain": "arxiv.org",
-          "date": "2026-05-13T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2605.11221v1 Announce Type: new Abstract: Predictive models in biomedicine depend on structured assay data locked in the text, tables, and supplements of primary publications. This bottleneck is especially acute in targeted protein degradation (TPD), where each assay record must combine compound identity, degradation target, recruiter, assay context, and endpoint values reported across sections, tables, and supplementary files. Inconsistent compound identifiers and incomplete or implicit assay context further demand domain-specific logic that generic LLM pipelines do not provide. Existing molecular glue and PROTAC databases are manually curated and often lack the experimental context required for downstream modeling. We formulate TPD database extraction as a domain-specific curation task and present an expert-in-the-loop LLM workflow, evaluated through a triangular comparison among LLM predictions, standardized baseline records, and expert-annotated ground truth. A lightweight cross-validated prompt-refinement module adapts extraction instructions from scarce expert annotations. With only seven annotated molecular glue publications, the workflow achieved record-level $F_1 = 0.98$ and transferred to PROTACs by terminology substitution alone, maintaining record-level $F_1 > 0.93$. Applied at scale, it expanded molecular glue and PROTAC databases by 81% and 92% records, respectively, with 92% and 82.5% of newly recovered records validated as correct upon expert review. The workflow also recovered kinetic and assay-context information essential for cross-study potency comparison and condition-aware degradation modeling. We release the workflow, prompts, evaluation code, and extracted datasets as resources for TPD data curation and AI-assisted scientific curation more broadly."
-        },
-        {
-          "title": "Scalable vertex guided filtrations identify structurally relevant genes in cancer networks",
-          "url": "https://arxiv.org/abs/2605.11450",
-          "domain": "arxiv.org",
-          "date": "2026-05-13T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2605.11450v1 Announce Type: new Abstract: Topological data analysis (TDA) has established itself as a useful tool for capturing multiscale structures in complex networks, such as connected components, cycles, and cavities. Although Vietoris-Rips (VR) filtering is widely used in network analysis, it tends to be computationally expensive, especially for large networks. This work explores vertex function-based (VFB) filtering based on network measures, applying persistent homology to identify relevant topological structures in cancer-associated protein networks, and compares its effectiveness with the VR approach. The results show that VFB reproduces the second-order structures (Betti-2) identified by VR, recovering previously reported essential genes. In addition, VFB detected new driver genes, confirmed in databases such as IntOGen and NCG, and allowed analysis of third-order structures (Betti-3) that was not feasible with VR. Thus, VFB represents a scalable alternative to VR, preserving biological interpretability and complementing classical network metrics."
         }
       ]
     },
@@ -278,84 +278,84 @@
       ],
       "articles": [
         {
-          "title": "Telecom giant KDDI to acquire 14.9% stake in Coincheck Group in $65 million deal",
-          "url": "https://www.coindesk.com/business/2026/05/13/telecom-giant-kddi-to-acquire-14-9-stake-in-coincheck-group-in-usd65-million-deal",
-          "domain": "coindesk.com",
-          "date": "2026-05-13T15:11:44.000Z",
-          "source": "CoinDesk",
-          "summary": "The companies signed a business alliance for revenue sharing, referral fees and customer referrals to expand crypto access in Japan."
-        },
-        {
-          "title": "Clarity Act amendments would remake key parts of crypto bill but have doubtful future",
-          "url": "https://www.coindesk.com/policy/2026/05/13/clarity-act-amendments-would-remake-key-parts-of-crypto-bill-but-have-doubtful-future",
-          "domain": "coindesk.com",
-          "date": "2026-05-13T15:01:25.000Z",
-          "source": "CoinDesk",
-          "summary": "The U.S. crypto market structure bill is being targeted with dozens of amendments aiming to change or add to the text as its Senate hearing approaches."
-        },
-        {
-          "title": "Animoca-backed NUVA connects Figure's $19 billion of tokenized assets to Ethereum",
-          "url": "https://www.coindesk.com/business/2026/05/13/animoca-backed-nuva-connects-figure-s-usd19-billion-of-tokenized-assets-to-ethereum",
-          "domain": "coindesk.com",
-          "date": "2026-05-13T15:00:00.000Z",
-          "source": "CoinDesk",
-          "summary": "The protocol, led by veteran BNY executive Anthony Moro, aims to connect real-world assets with DeFi markets, starting with home equity lines of credit and Treasuries."
-        },
-        {
-          "title": "Brickken and Magma partner to deliver Net Asset Value (NAV) oracle for tokenized real estate",
-          "url": "https://cointelegraph.com/press-releases/brickken-and-magma-partner-to-deliver-net-asset-value-nav-oracle-for-tokenized-real-estate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "Fidelity International launches Moody’s-rated tokenized fund on Chainlink",
+          "url": "https://cointelegraph.com/news/fidelity-filq-tokenized-fund-chainlink-sygnum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-05-13T15:00:00.000Z",
+          "date": "2026-05-13T16:59:16.000Z",
           "source": "CoinTelegraph",
-          "summary": "Built on Magma's Digital Twin Token (DTT) and Brickken's institutional tokenization infrastructure to close the data gap that has held tokenized real estate back."
+          "summary": "The Bermuda-based asset manager launched a tokenized liquidity fund using Chainlink and Sygnum infrastructure, with JPMorgan providing daily NAV data for pricing."
         },
         {
-          "title": "Paybis secures MiCA, payment licenses in Latvia for EU crypto expansion",
-          "url": "https://cointelegraph.com/news/crypto-exchange-paybis-secures-mica-and-psd2-licenses-in-latvia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "The Protocol: Solana’s ‘Alpenglow’ upgrade is live for testing",
+          "url": "https://www.coindesk.com/tech/2026/05/13/the-protocol-solana-s-alpenglow-upgrade-is-live-for-testing",
+          "domain": "coindesk.com",
+          "date": "2026-05-13T16:48:39.000Z",
+          "source": "CoinDesk",
+          "summary": "Also: LayerZero apology, Ronin layer-2 transition and ‘Clear Signing’"
+        },
+        {
+          "title": "Tea Protocol announces June 4 mainnet launch and TGE on Aerodrome to secure open-source development in the AI era",
+          "url": "https://cointelegraph.com/press-releases/tea-protocol-announces-june-4-mainnet-launch-and-tge-on-aerodrome-to-secure-open-source-development-in-the-ai-era?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-05-13T14:55:22.000Z",
+          "date": "2026-05-13T16:47:34.000Z",
           "source": "CoinTelegraph",
-          "summary": "Paybis has secured both a MiCA crypto licence and a PSD2 payment institution licence from Latvia’s central bank, becoming the first company in the country to hold both simultaneously."
+          "summary": "This quarter, AI started writing its own exploits. Tea is shipping the trust layer underneath it. Code Is Abundant. Trust Is Not."
         },
         {
-          "title": "Bitcoin pinned near critical support as hot PPI spike compounds rate hike fears: analysts",
-          "url": "https://www.theblock.co/post/401169/bitcoin-pinned-near-critical-support-as-hot-ppi-spike-compounds-rate-hike-fears-analysts?utm_source=rss&utm_medium=rss",
+          "title": "Metaplanet delays preferred share listing amid challenging Japanese market structure",
+          "url": "https://www.coindesk.com/markets/2026/05/13/metaplanet-delays-preferred-share-listing-amid-challenging-japanese-market-structure",
+          "domain": "coindesk.com",
+          "date": "2026-05-13T16:43:49.000Z",
+          "source": "CoinDesk",
+          "summary": "CEO Simon Gerovich says regulatory and infrastructure challenges are slowing the launch of Metaplanet's perpetual preferred share."
+        },
+        {
+          "title": "UK parliament to probe Nigel Farage’s $6.8 million donation from crypto billionaire",
+          "url": "https://www.coindesk.com/policy/2026/05/13/uk-parliament-to-probe-nigel-farage-s-usd6-8-million-donation-from-crypto-billionaire",
+          "domain": "coindesk.com",
+          "date": "2026-05-13T16:34:14.000Z",
+          "source": "CoinDesk",
+          "summary": "If found guilty of violating the Parliamentary code of conduct, the Reform UK party leader could be suspended from the House of Commons."
+        },
+        {
+          "title": "Traders say Ethereum ready for a 'strong move' after ETH price taps $2.3K",
+          "url": "https://cointelegraph.com/markets/traders-say-ethereum-ready-strong-move-eth-price-taps-2-3k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-13T16:29:27.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Market analysts eye fresh Ethereum upside, fueled by JPMorgan and BlackRock tokenized fund moves plus looming CLARITY Act catalyst."
+        },
+        {
+          "title": "Immunefi to absorb Code4rena bug bounty customers after shutdown decision",
+          "url": "https://www.theblock.co/post/401179/immufefi-absorb-code4rena-bug-bounty-customers-shutdown-decision?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-05-13T14:51:34.000Z",
+          "date": "2026-05-13T16:23:08.000Z",
           "source": "The Block",
-          "summary": "Bitcoin floats around $80,000 after April core PPI surges 1% MoM — hottest since 2022 — as crypto ETFs bleed and rate-hike odds climb."
+          "summary": "Immunefi said it will help migrate Code4rena’s bounty programs, rewards and researchers onto its platform."
         },
         {
-          "title": "Crypto wallet provider Ledger puts U.S. IPO plans on hold due to market conditions",
-          "url": "https://www.coindesk.com/business/2026/05/13/crypto-wallet-provider-ledger-puts-u-s-ipo-plans-on-hold-due-to-market-conditions",
+          "title": "Bitcoin buyers with long-term 'conviction' surges 300% with most recent buyers sitting on profits",
+          "url": "https://www.coindesk.com/markets/2026/05/13/bitcoin-s-available-supply-is-shrinking-as-long-term-hoarding-hits-record-4-million-btc",
           "domain": "coindesk.com",
-          "date": "2026-05-13T14:42:20.000Z",
+          "date": "2026-05-13T16:00:12.000Z",
           "source": "CoinDesk",
-          "summary": "The French crypto security firm, which is said to have explored a potential $4 billion U.S. listing, is reassessing its public market plans as volatile conditions weigh on investor appetite for crypto IPOs."
+          "summary": "Bitcoin held by so-called conviction buyers has surged to nearly 4 million BTC, a roughly 300% increase since late 2025."
         },
         {
-          "title": "It’s time for clarity for America’s digital asset markets",
-          "url": "https://www.coindesk.com/opinion/2026/05/13/it-s-time-for-clarity-for-america-s-digital-asset-markets",
-          "domain": "coindesk.com",
-          "date": "2026-05-13T14:17:35.000Z",
-          "source": "CoinDesk",
-          "summary": "Recent polls have shown that registered voters want America to set the rules for global finance, reinforcing why the Senate must act now, explains Smith."
-        },
-        {
-          "title": "Anchorage and Mexican billionaire’s Grupo Salinas ink cross-border payments partnership",
-          "url": "https://www.theblock.co/post/401066/anchorage-grupo-salinas-partnership?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-13T14:00:00.000Z",
-          "source": "The Block",
-          "summary": "Grupo Salinas is set to integrate Anchorage Digital's stablecoin infrastructure into its cross-border payment flows."
-        },
-        {
-          "title": "Farage faces UK standards probe over $7M gift from crypto billionaire",
-          "url": "https://cointelegraph.com/news/farage-uk-standards-probe-7m-gift-crypto-billionaire?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "Bitcoin price targets $79K as US PPI inflation hits highest since 2022",
+          "url": "https://cointelegraph.com/markets/bitcoin-risks-80k-loss-us-ppi-inflation-hits-highest-since-2022?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-05-13T13:42:31.000Z",
+          "date": "2026-05-13T15:46:25.000Z",
           "source": "CoinTelegraph",
-          "summary": "UK Reform Party leader Nigel Farage is reportedly facing a probe over an undeclared donation from crypto billionaire Christopher Harborne that he received before becoming an MP in 2024."
+          "summary": "Bitcoin slipped further below the $80,000 mark as US PPI data compounded the inflation problem from the US-Iran war and associated high oil prices."
+        },
+        {
+          "title": "Crypto Long & Short: Bitcoin vs. gold: 26% relative undervaluation",
+          "url": "https://www.coindesk.com/coindesk-indices/2026/05/13/crypto-long-and-short-bitcoin-vs-gold-26-relative-undervaluation",
+          "domain": "coindesk.com",
+          "date": "2026-05-13T15:44:26.000Z",
+          "source": "CoinDesk",
+          "summary": "In this week’s Crypto Long & Short Newsletter, Dovile Silenskyte provides an alternative to the “bitcoin as a risk asset” narrative. Then, Joshua de Vos shares insights and analysis on global exchanges."
         }
       ]
     }
