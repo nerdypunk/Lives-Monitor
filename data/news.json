@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-12T23:05:51.684Z",
+  "updatedAt": "2026-05-13T00:14:17.295Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -41,20 +41,20 @@
           "summary": "Delphi Digital: Is DeSci ushering in a second wave of opportunities? &nbsp;&nbsp; PANews"
         },
         {
-          "title": "NanoVita Labs Launches $NANA Token on PancakeSwap – A New Era for AI-Driven Decentralized Science - MEXC",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1FZklEUldQZnFHY0tfNUhsX0ZKYjhLalB5QkVvMVJrUGQ1bXpqR0o5TUtDSldESXRMM3VjZVVjeHUwRmJCZnhReQ?oc=5",
-          "domain": "mexc.com",
-          "date": "2026-05-06T07:04:55.000Z",
-          "source": "MEXC",
-          "summary": "NanoVita Labs Launches $NANA Token on PancakeSwap – A New Era for AI-Driven Decentralized Science &nbsp;&nbsp; MEXC"
-        },
-        {
           "title": "DeSci's Second Coming? - Delphi Digital",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxekJCVU5kTFJ2YTV3Ny1uZmE0NVJzQUVHQno2bUV3dWVwVGttLVozTDlsMk93dWw2Nl9OLXktYkYtbkFyQ285bXF4eEo1dDFEWkd6ZVNIWG52NU5fREFNTTRfNlVET25nMmc?oc=5",
           "domain": "members.delphidigital.io",
           "date": "2026-05-05T16:07:54.000Z",
           "source": "Delphi Digital",
           "summary": "DeSci's Second Coming? &nbsp;&nbsp; Delphi Digital"
+        },
+        {
+          "title": "NanoVita Labs Launches $NANA Token on PancakeSwap – A New Era for AI-Driven Decentralized Science - MEXC Exchange",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBpczV1SndGbVltSkVRRFpZSkJWQjA3bHFQcWVFc1FmbW9QZVgzRTJkSXVrZmlyaEZObnpHNnMyUHc3SDQzSTBz?oc=5",
+          "domain": "mexc.co",
+          "date": "2026-05-05T07:00:00.000Z",
+          "source": "MEXC Exchange",
+          "summary": "NanoVita Labs Launches $NANA Token on PancakeSwap – A New Era for AI-Driven Decentralized Science &nbsp;&nbsp; MEXC Exchange"
         },
         {
           "title": "desci Crypto Market & Spot Trading Pairs | Prices, Charts & Liquidity | MEXC - MEXC",
@@ -143,7 +143,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-12T16:00:07.000Z",
           "source": "Lifespan.io",
-          "summary": "We are super excited to share with you that today we released AI4L – “AI for Practical Longevity”, an open-source system that enables anyone to produce rigorous, evidence-based reviews of health and […]"
+          "summary": "We are super excited to share with you that today we released AI4L – “AI for Practical Longevity”, an open-source system that enables anyone to produce rigorous, evidence-based reviews of health […]"
         },
         {
           "title": "GLP-1 Drugs’ Muscle Effects Similar to Ordinary Weight Loss",
@@ -151,7 +151,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-12T15:17:49.000Z",
           "source": "Lifespan.io",
-          "summary": "A new study suggests that GLP-1 receptor agonists do not affect muscle mass any more than weight loss caused by caloric restriction, and this appears to […]"
+          "summary": "A new study suggests that GLP-1 receptor agonists do not affect muscle mass any more than weight loss caused by caloric restriction, […]"
         },
         {
           "title": "LifespanningRx expands regenerative offering with RegenTherapy",
@@ -187,6 +187,14 @@
         "https://phys.org/rss-feed/biology-news/biotechnology/"
       ],
       "articles": [
+        {
+          "title": "How can low-value agricultural waste be transformed into high-value products?",
+          "url": "https://phys.org/news/2026-05-agricultural-high-products.html",
+          "domain": "phys.org",
+          "date": "2026-05-12T23:20:01.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "With plastic pollution at an all-time high, the need for biodegradable materials has never been higher. Most packaging is \"single use\" and is made from sources, like natural gas, that take hundreds of years to decompose in the environment. This is greatly contributing to the plastic pollution buildup in parks, street corners and shelterbelts."
+        },
         {
           "title": "Gentle, laser-driven flows enable precise 3D imaging of delicate samples",
           "url": "https://phys.org/news/2026-05-gentle-laser-driven-enable-precise.html",
@@ -258,14 +266,6 @@
           "date": "2026-05-12T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2605.09409v1 Announce Type: new Abstract: Adults vary greatly in how effectively they learn a new language, but the signals driving the learning processes and individual differences remain unclear. Over seven days, we tracked behavioral learning and collected fMRI data from 102 adults as they learned an artificial language with corrective feedback. We trained matched transformer models with prediction, feedback, or combined objectives and compared their internal representations to brain activity. Representations derived from the prediction-focused model accounted for the largest share of unique neural variance at the group level, despite the human task being feedback-based. Throughout model training, both objectives showed a shift in brain-model alignment from sensory to higher-order language and associative networks, indicating abstraction processing. Conversely, neural patterns related to the feedback model were most useful for predicting individual generalization outcomes on Day 7. These findings support a multi-signal model of adult language learning, in which prediction shapes a common neural learning architecture across learners, whereas feedback-related mechanisms better explain individual differences over time."
-        },
-        {
-          "title": "TD3B: Transition-Directed Discrete Diffusion for Allosteric Binder Generation",
-          "url": "https://arxiv.org/abs/2605.09810",
-          "domain": "arxiv.org",
-          "date": "2026-05-12T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2605.09810v1 Announce Type: new Abstract: Protein function is often controlled by ligands that bias the direction of state transitions, such as agonists and antagonists, rather than stabilizing a single conformation. This is especially important for clinically relevant G protein-coupled receptors (GPCRs), where therapeutic efficacy depends on functional directionality. Structure-based design methods optimize binding to static conformations and cannot represent non-reversible, directional effects or systematically distinguish agonist from antagonist behavior. To address this gap, we introduce Transition-Directed Discrete Diffusion for Allosteric Binder Design (TD3B), a sequence-based generative framework that designs binders with specified agonist or antagonist behavior via a directional transition control objective. TD3B combines a target-aware Direction Oracle, a soft binding-affinity gate, and amortized fine-tuning of a pre-trained discrete diffusion model, enabling targeted agonist and antagonist generation decoupled from binding affinity and unattainable by equilibrium-based or inference-only guidance baselines. The code and checkpoints are available at https://huggingface.co/ChatterjeeLab/TD3B."
         }
       ]
     },
@@ -277,6 +277,14 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "Bermuda to transition ‘key’ financial services to Stellar blockchain",
+          "url": "https://cointelegraph.com/news/bermuda-financial-services-stellar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-12T22:39:11.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bermuda Premier David Burt announced several crypto-related initiatives to bring the island nation closer to the industry, including accepting and investing in digital assets and on-chain financial services."
+        },
         {
           "title": "First-ever Hyperliquid ETF launches, posts ‘very solid’ first day of trading: analyst",
           "url": "https://www.theblock.co/post/401047/first-ever-hyperliquid-etf-launches-posts-very-solid-first-day-of-trading-analyst?utm_source=rss&utm_medium=rss",
@@ -348,14 +356,6 @@
           "date": "2026-05-12T18:40:14.000Z",
           "source": "CoinTelegraph",
           "summary": "Following the resounding success of its 2025 edition, WAIB Summit Monaco proudly announces its return on June 9–10, 2026, at the prestigious One Monte-Carlo, located in the heart of Monaco’s iconic Casino Square."
-        },
-        {
-          "title": "Latest version of crypto market structure bill raises eyebrows ahead of Senate markup",
-          "url": "https://cointelegraph.com/news/us-senate-banking-committee-draft-crypto-market-structure-bill-markup?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-12T18:31:22.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Some lawmakers continue to push for ethics provision in the bill as bipartisan support is necessary for the CLARITY Act to pass a Senate floor vote."
         }
       ]
     }
