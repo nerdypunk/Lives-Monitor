@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-13T12:25:25.653Z",
+  "updatedAt": "2026-05-13T15:25:22.839Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -188,6 +188,22 @@
       ],
       "articles": [
         {
+          "title": "A marine-inspired sunscreen ingredient made by E. coli",
+          "url": "https://phys.org/news/2026-05-marine-sunscreen-ingredient-coli.html",
+          "domain": "phys.org",
+          "date": "2026-05-13T15:00:27.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "How do fish survive relentless sunlight in the open waters without getting burned? They make their own natural sunscreen—and now, humans could be one step closer to using it too."
+        },
+        {
+          "title": "AI generates first complete models of proteins in motion",
+          "url": "https://phys.org/news/2026-05-ai-generates-proteins-motion.html",
+          "domain": "phys.org",
+          "date": "2026-05-13T14:58:39.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Many drug and antibody discovery pathways focus on intricately folded cell membrane proteins. When molecules of a drug candidate bind to these proteins, like a key going into a lock, they trigger chemical cascades that alter cellular behavior. Understanding how proteins fold and move is therefore essential for developing drugs that interact well with their targets."
+        },
+        {
           "title": "VibeProteinBench: An Evaluation Benchmark for Language-interfaced Vibe Protein Design",
           "url": "https://arxiv.org/abs/2605.10978",
           "domain": "arxiv.org",
@@ -250,22 +266,6 @@
           "date": "2026-05-13T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2605.11450v1 Announce Type: new Abstract: Topological data analysis (TDA) has established itself as a useful tool for capturing multiscale structures in complex networks, such as connected components, cycles, and cavities. Although Vietoris-Rips (VR) filtering is widely used in network analysis, it tends to be computationally expensive, especially for large networks. This work explores vertex function-based (VFB) filtering based on network measures, applying persistent homology to identify relevant topological structures in cancer-associated protein networks, and compares its effectiveness with the VR approach. The results show that VFB reproduces the second-order structures (Betti-2) identified by VR, recovering previously reported essential genes. In addition, VFB detected new driver genes, confirmed in databases such as IntOGen and NCG, and allowed analysis of third-order structures (Betti-3) that was not feasible with VR. Thus, VFB represents a scalable alternative to VR, preserving biological interpretability and complementing classical network metrics."
-        },
-        {
-          "title": "NORI: Fast probabilistic inference for ambiguous observation-entity mappings",
-          "url": "https://arxiv.org/abs/2605.11648",
-          "domain": "arxiv.org",
-          "date": "2026-05-13T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2605.11648v1 Announce Type: new Abstract: NORI performs probabilistic inference to resolve ambiguous mappings between experimental observations and biological entities orders of magnitude faster than state-of-the-art methods. This makes large-scale analysis and extensive hyperparameter optimization possible, and supports a broader range of bioinformatics applications, including protein inference, taxonomic and functional analysis in omics-fields."
-        },
-        {
-          "title": "Accounting for Missed Events in the Bayesian Modeling of IP3R Multimodal Gating",
-          "url": "https://arxiv.org/abs/2605.11675",
-          "domain": "arxiv.org",
-          "date": "2026-05-13T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2605.11675v1 Announce Type: new Abstract: The Inositol 1,4,5-trisphosphate receptor channel (IP 3 R) is an important calcium channel involved in calcium-induced calcium release, playing a prominent role in intracellular calcium signaling. However, accurately characterizing its gating behavior remains a challenge, particularly due to the temporal resolution of patch clamp techniques that is not large enough to detect all short-lived events. This limitation can significantly bias the inference of kinetic models describing the receptor activity. To address this issue, we focused on the quantitative analysis of IP 3 R gating behavior using patch clamp data, with particular attention to missed events. We modeled IP 3 R channel gating using Hierarchical Markov chains and used a Bayesian approach that integrates missed event correction directly into the likelihood function, enabling more accurate parameter inference and model evaluation. We show that accounting for missed events deeply clarifies the multi-modal model that emerges from model selection. In this new model, the Park and Drive modes both consist of the same 3-state Markov model, with mode-dependent kinetic parameters: the Drive mode stabilizes the closed state directly connected to the open one, whereas the Park mode stabilizes the other closed state, that is not connected to the open one. Intermediate Ca 2+ concentrations are found to strongly depress the Drive to Park transition rate, so that the IP 3 R channel undergoes frequent transitions to the Park mode only for __ 50 nM or micromolar Ca 2+ concentrations. Overall, our approach provides a refined perspective on IP 3 R channel modeling and highlights the critical importance of accounting for missed events upon model selection based on single-channel recordings."
         }
       ]
     },
@@ -278,84 +278,84 @@
       ],
       "articles": [
         {
-          "title": "The 2020 signal returns: Why the copper-to-gold breakout could point to bitcoin breakout",
-          "url": "https://www.coindesk.com/markets/2026/05/13/the-2020-signal-returns-why-the-copper-to-gold-breakout-could-point-to-bitcoin-breakout",
+          "title": "Telecom giant KDDI to acquire 14.9% stake in Coincheck Group in $65 million deal",
+          "url": "https://www.coindesk.com/business/2026/05/13/telecom-giant-kddi-to-acquire-14-9-stake-in-coincheck-group-in-usd65-million-deal",
           "domain": "coindesk.com",
-          "date": "2026-05-13T12:18:07.000Z",
+          "date": "2026-05-13T15:11:44.000Z",
           "source": "CoinDesk",
-          "summary": "The ratio has climbed above its 200-day moving average for the first time meaningfully since September 2020, a move that has historically preceded major bitcoin rallies."
+          "summary": "The companies signed a business alliance for revenue sharing, referral fees and customer referrals to expand crypto access in Japan."
         },
         {
-          "title": "Coinbase-backed x402 adds batch settlement for AI agent payments",
-          "url": "https://cointelegraph.com/news/coinbase-launches-x402-batch-settlement-ai-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "Clarity Act amendments would remake key parts of crypto bill but have doubtful future",
+          "url": "https://www.coindesk.com/policy/2026/05/13/clarity-act-amendments-would-remake-key-parts-of-crypto-bill-but-have-doubtful-future",
+          "domain": "coindesk.com",
+          "date": "2026-05-13T15:01:25.000Z",
+          "source": "CoinDesk",
+          "summary": "The U.S. crypto market structure bill is being targeted with dozens of amendments aiming to change or add to the text as its Senate hearing approaches."
+        },
+        {
+          "title": "Animoca-backed NUVA connects Figure's $19 billion of tokenized assets to Ethereum",
+          "url": "https://www.coindesk.com/business/2026/05/13/animoca-backed-nuva-connects-figure-s-usd19-billion-of-tokenized-assets-to-ethereum",
+          "domain": "coindesk.com",
+          "date": "2026-05-13T15:00:00.000Z",
+          "source": "CoinDesk",
+          "summary": "The protocol, led by veteran BNY executive Anthony Moro, aims to connect real-world assets with DeFi markets, starting with home equity lines of credit and Treasuries."
+        },
+        {
+          "title": "Brickken and Magma partner to deliver Net Asset Value (NAV) oracle for tokenized real estate",
+          "url": "https://cointelegraph.com/press-releases/brickken-and-magma-partner-to-deliver-net-asset-value-nav-oracle-for-tokenized-real-estate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-05-13T12:05:10.000Z",
+          "date": "2026-05-13T15:00:00.000Z",
           "source": "CoinTelegraph",
-          "summary": "Coinbase-backed x402 adds batch settlement, letting AI agents authorize many small payments offchain before settling them later onchain."
+          "summary": "Built on Magma's Digital Twin Token (DTT) and Brickken's institutional tokenization infrastructure to close the data gap that has held tokenized real estate back."
         },
         {
-          "title": "Metaplanet posts $725 million Q1 net loss as bitcoin markdowns outweigh operating gains",
-          "url": "https://www.theblock.co/post/401138/metaplanet-q1-net-loss-bitcoin-markdowns-outweigh-operating-gains?utm_source=rss&utm_medium=rss",
+          "title": "Paybis secures MiCA, payment licenses in Latvia for EU crypto expansion",
+          "url": "https://cointelegraph.com/news/crypto-exchange-paybis-secures-mica-and-psd2-licenses-in-latvia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-13T14:55:22.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Paybis has secured both a MiCA crypto licence and a PSD2 payment institution licence from Latvia’s central bank, becoming the first company in the country to hold both simultaneously."
+        },
+        {
+          "title": "Bitcoin pinned near critical support as hot PPI spike compounds rate hike fears: analysts",
+          "url": "https://www.theblock.co/post/401169/bitcoin-pinned-near-critical-support-as-hot-ppi-spike-compounds-rate-hike-fears-analysts?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-05-13T12:03:32.000Z",
+          "date": "2026-05-13T14:51:34.000Z",
           "source": "The Block",
-          "summary": "Metaplanet posted a $725.6 million net loss driven by bitcoin mark-to-market valuation markdowns even as operating profit rose 283%."
+          "summary": "Bitcoin floats around $80,000 after April core PPI surges 1% MoM — hottest since 2022 — as crypto ETFs bleed and rate-hike odds climb."
         },
         {
-          "title": "Tokenized Treasuries hit $15 billion as bitcoin stalls, Fed rate-rise concerns build",
-          "url": "https://www.coindesk.com/daybook-us/2026/05/13/tokenized-treasuries-hit-usd15-billion-as-bitcoin-stalls-fed-rate-rise-concerns-build",
+          "title": "Crypto wallet provider Ledger puts U.S. IPO plans on hold due to market conditions",
+          "url": "https://www.coindesk.com/business/2026/05/13/crypto-wallet-provider-ledger-puts-u-s-ipo-plans-on-hold-due-to-market-conditions",
           "domain": "coindesk.com",
-          "date": "2026-05-13T11:51:41.000Z",
+          "date": "2026-05-13T14:42:20.000Z",
           "source": "CoinDesk",
-          "summary": "Your day-ahead look for May 13, 2026"
+          "summary": "The French crypto security firm, which is said to have explored a potential $4 billion U.S. listing, is reassessing its public market plans as volatile conditions weigh on investor appetite for crypto IPOs."
         },
         {
-          "title": "Arkham maps Iran central bank wallets after $344M USDT freeze",
-          "url": "https://cointelegraph.com/news/iran-central-banks-crypto-wallets-get-public-map-after-ofac-designation-arkham?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-13T11:46:02.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Arkham’s new map links OFAC‑sanctioned Tron wallets to Iran’s central bank, putting Tehran’s alleged onchain reserves and counterparties in full public view."
-        },
-        {
-          "title": "Bitcoin holds below $81,000 with Trump-Xi talks on the horizon",
-          "url": "https://www.coindesk.com/markets/2026/05/13/bitcoin-holds-below-usd81-000-with-trump-xi-talks-on-the-horizon",
+          "title": "It’s time for clarity for America’s digital asset markets",
+          "url": "https://www.coindesk.com/opinion/2026/05/13/it-s-time-for-clarity-for-america-s-digital-asset-markets",
           "domain": "coindesk.com",
-          "date": "2026-05-13T11:14:24.000Z",
+          "date": "2026-05-13T14:17:35.000Z",
           "source": "CoinDesk",
-          "summary": "Bitcoin held steady before President Donald Trump's with his Chinese counterpart, Xi Jinping."
+          "summary": "Recent polls have shown that registered voters want America to set the rules for global finance, reinforcing why the Senate must act now, explains Smith."
         },
         {
-          "title": "Stork promises ‘true’ 24/7 price discovery for stocks and gold tapping Binance and other perps markets",
-          "url": "https://www.theblock.co/post/401053/stork-24-7-price-discovery?utm_source=rss&utm_medium=rss",
+          "title": "Anchorage and Mexican billionaire’s Grupo Salinas ink cross-border payments partnership",
+          "url": "https://www.theblock.co/post/401066/anchorage-grupo-salinas-partnership?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-05-13T11:05:02.000Z",
+          "date": "2026-05-13T14:00:00.000Z",
           "source": "The Block",
-          "summary": "Stork launches the first 24/7 oracle that switches to perpetual futures markets for 'true' price discovery."
+          "summary": "Grupo Salinas is set to integrate Anchorage Digital's stablecoin infrastructure into its cross-border payment flows."
         },
         {
-          "title": "Bitcoin price history suggests 77% odds of new all-time high within a year",
-          "url": "https://cointelegraph.com/markets/bitcoin-price-repeats-move-with-77-all-time-high-odds-within-a-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "Farage faces UK standards probe over $7M gift from crypto billionaire",
+          "url": "https://cointelegraph.com/news/farage-uk-standards-probe-7m-gift-crypto-billionaire?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-05-13T10:58:38.000Z",
+          "date": "2026-05-13T13:42:31.000Z",
           "source": "CoinTelegraph",
-          "summary": "Bitcoin reduces its drop from all-time highs to 35% in a move that sparked new BTC price all-time highs \"within a year\" on seven occasions in the past."
-        },
-        {
-          "title": "Vietnam eyes Q3 launch for regulated crypto asset market: Report",
-          "url": "https://cointelegraph.com/news/vietnam-plans-crypto-market-launch-q3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-13T10:49:01.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Vietnam’s deputy minister of finance reportedly said the country is planning to launch its regulated cryptocurrency market in the third quarter of 2026 to answer the growing demand for digital assets."
-        },
-        {
-          "title": "Jane Street slashes Bitcoin ETF holdings, adds Ether funds in Q1 2026",
-          "url": "https://cointelegraph.com/news/jane-street-slashes-bitcoin-etfs-adds-ether-funds-q1-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-13T10:32:13.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Jane Street cut Bitcoin ETF holdings sharply in Q1 2026, including IBIT and FBTC, while adding at least $82 million in Ether ETF exposure."
+          "summary": "UK Reform Party leader Nigel Farage is reportedly facing a probe over an undeclared donation from crypto billionaire Christopher Harborne that he received before becoming an MP in 2024."
         }
       ]
     }
