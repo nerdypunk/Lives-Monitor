@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-13T21:12:34.903Z",
+  "updatedAt": "2026-05-13T22:39:40.378Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -135,7 +135,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-13T16:18:25.000Z",
           "source": "Lifespan.io",
-          "summary": "This month, a group of researchers published an annual report on the clinical trials that are testing drugs for Alzheimer’s disease. Overall, they reported an increase in the number […]"
+          "summary": "This month, a group of researchers published an annual report on the clinical trials that are testing drugs for Alzheimer’s disease. Overall, they […]"
         },
         {
           "title": "Sironax receives FDA fast track status for neuroprotective SARM1 inhibitor",
@@ -278,6 +278,22 @@
       ],
       "articles": [
         {
+          "title": "Coinbase CEO Brian Armstrong gets behind CLARITY Act ahead of Thursday markup",
+          "url": "https://cointelegraph.com/news/coinbase-ceo-brian-armstrong-clarity-act-thursday-markup?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-13T21:56:58.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Armstrong said the bill is \"closer than ever\" to advancing in the US Congress after months of negotiations between the crypto industry and banks."
+        },
+        {
+          "title": "Senate confirms Kevin Warsh to lead Federal Reserve",
+          "url": "https://cointelegraph.com/news/kevin-warsh-fed-governor-confirmation-us-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-13T21:33:00.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The US Senate voted largely along party lines to confirm Kevin Warsh to lead the Fed’s Board of Governors, despite many Democrats’ concerns about the central bank’s independence."
+        },
+        {
           "title": "Fidelity International’s first tokenized fund receives top-tier AAA-mf rating from Moody’s",
           "url": "https://www.theblock.co/post/401196/fidelity-internationals-first-tokenized-fund-receives-top-tier-aaa-mf-rating-from-moodys?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
@@ -297,7 +313,7 @@
           "title": "Polymarket's monthly volume declines for first time since August",
           "url": "https://cointelegraph.com/news/polymarket-volume-declines-first-time-august-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-05-13T19:29:55.000Z",
+          "date": "2026-05-13T19:31:00.000Z",
           "source": "CoinTelegraph",
           "summary": "Prediction markets trading volume had been tracking monthly gains as the sector gains popularity among short-term traders, but competition is also increasing."
         },
@@ -340,22 +356,6 @@
           "date": "2026-05-13T18:09:17.000Z",
           "source": "CoinTelegraph",
           "summary": "Bitcoin’s pullback is expected to find support near $79,000, but every recovery attempt is likely to be sold into."
-        },
-        {
-          "title": "Societe Generale deploys stablecoins on Canton for tokenized finance",
-          "url": "https://cointelegraph.com/news/societe-generale-expands-tokenized-collateral-and-stablecoin-push-on-canton-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-13T17:51:42.000Z",
-          "source": "CoinTelegraph",
-          "summary": "France's SocGen plans to use its EURCV and USDCV stablecoins for tokenized collateral, repo financing and institutional settlement activity on the Canton blockchain network."
-        },
-        {
-          "title": "Jupiter taps Bitwise to curate institutional-grade Solana-based USDe lending market",
-          "url": "https://www.theblock.co/post/401187/jupiter-taps-bitwise-to-curate-institutional-grade-solana-based-usde-lending-market?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-13T17:41:51.000Z",
-          "source": "The Block",
-          "summary": "Jupiter Lend, together with Fluid and Bitwise, will provide an avenue to earn yield on the USDe synthetic stablecoin."
         }
       ]
     }
