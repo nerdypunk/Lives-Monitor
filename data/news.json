@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-13T22:39:40.378Z",
+  "updatedAt": "2026-05-13T23:43:22.308Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -135,7 +135,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-13T16:18:25.000Z",
           "source": "Lifespan.io",
-          "summary": "This month, a group of researchers published an annual report on the clinical trials that are testing drugs for Alzheimer’s disease. Overall, they […]"
+          "summary": "This month, a group of researchers published an annual report on the clinical trials that are testing drugs for Alzheimer’s disease. Overall, they reported an […]"
         },
         {
           "title": "Sironax receives FDA fast track status for neuroprotective SARM1 inhibitor",
@@ -278,6 +278,14 @@
       ],
       "articles": [
         {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-13T22:40:00.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
+        },
+        {
           "title": "Coinbase CEO Brian Armstrong gets behind CLARITY Act ahead of Thursday markup",
           "url": "https://cointelegraph.com/news/coinbase-ceo-brian-armstrong-clarity-act-thursday-markup?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
@@ -348,14 +356,6 @@
           "date": "2026-05-13T18:30:00.000Z",
           "source": "CoinTelegraph",
           "summary": "Bitcoin traders eye a possible move higher as short-term selling pressure fades and the CLARITY Act vote boosts crypto market focus."
-        },
-        {
-          "title": "Price predictions 5/13: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH",
-          "url": "https://cointelegraph.com/markets/price-predictions-513-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-13T18:09:17.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Bitcoin’s pullback is expected to find support near $79,000, but every recovery attempt is likely to be sold into."
         }
       ]
     }
