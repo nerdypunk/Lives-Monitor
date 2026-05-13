@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-13T00:14:17.295Z",
+  "updatedAt": "2026-05-13T04:16:29.526Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -143,7 +143,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-12T16:00:07.000Z",
           "source": "Lifespan.io",
-          "summary": "We are super excited to share with you that today we released AI4L – “AI for Practical Longevity”, an open-source system that enables anyone to produce rigorous, evidence-based reviews of health […]"
+          "summary": "We are super excited to share with you that today we released AI4L – “AI for Practical Longevity”, an open-source system that enables anyone to produce rigorous, evidence-based reviews of health and longevity interventions using frontier AI […]"
         },
         {
           "title": "GLP-1 Drugs’ Muscle Effects Similar to Ordinary Weight Loss",
@@ -151,7 +151,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-12T15:17:49.000Z",
           "source": "Lifespan.io",
-          "summary": "A new study suggests that GLP-1 receptor agonists do not affect muscle mass any more than weight loss caused by caloric restriction, […]"
+          "summary": "A new study suggests that GLP-1 receptor agonists do not affect muscle mass any more than weight loss caused by caloric restriction, and […]"
         },
         {
           "title": "LifespanningRx expands regenerative offering with RegenTherapy",
@@ -188,84 +188,84 @@
       ],
       "articles": [
         {
-          "title": "How can low-value agricultural waste be transformed into high-value products?",
-          "url": "https://phys.org/news/2026-05-agricultural-high-products.html",
-          "domain": "phys.org",
-          "date": "2026-05-12T23:20:01.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "With plastic pollution at an all-time high, the need for biodegradable materials has never been higher. Most packaging is \"single use\" and is made from sources, like natural gas, that take hundreds of years to decompose in the environment. This is greatly contributing to the plastic pollution buildup in parks, street corners and shelterbelts."
-        },
-        {
-          "title": "Gentle, laser-driven flows enable precise 3D imaging of delicate samples",
-          "url": "https://phys.org/news/2026-05-gentle-laser-driven-enable-precise.html",
-          "domain": "phys.org",
-          "date": "2026-05-12T18:40:04.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Until now, it has been technically nearly impossible to rotate highly sensitive samples in all directions under a microscope without making contact. Researchers at the Karlsruhe Institute of Technology (KIT) have developed a new laser-based technique that allows microscopic samples such as cells to be rotated contact-free in all three spatial directions. The laser creates tiny temperature differences in the liquid, which trigger gentle fluid flows that move the sample. This protects delicate samples and enables more accurate three-dimensional images—an important step for basic medical research."
-        },
-        {
-          "title": "One drug, two cleanup crews: A built-in backup for targeted protein degradation",
-          "url": "https://phys.org/news/2026-05-drug-cleanup-crews-built-backup.html",
-          "domain": "phys.org",
-          "date": "2026-05-12T16:00:06.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Most drugs work by inhibition: they block a protein's activity but leave the protein itself intact. Targeted protein degradation takes a fundamentally different approach, harnessing the cell's own quality-control machinery to remove proteins entirely."
-        },
-        {
-          "title": "Water-based nanocrystal provides a sticky solution to a pesky agricultural problem",
-          "url": "https://phys.org/news/2026-05-based-nanocrystal-sticky-solution-pesky.html",
-          "domain": "phys.org",
-          "date": "2026-05-12T13:20:10.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "A water-based formulation developed at the University of Waterloo using nanotechnology is both greener and more effective than conventional methods for delivering agricultural pesticides."
-        },
-        {
-          "title": "Super-resolution microscopy provides real-time picture of bacteria degrading biomass with enzyme complexes",
-          "url": "https://phys.org/news/2026-05-super-resolution-microscopy-real-picture.html",
-          "domain": "phys.org",
-          "date": "2026-05-12T12:40:02.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "To the untrained eye, they look like blobs blotching the otherwise smooth surface of rod-like bacteria. But if you ask a microbiologist about \"cellulosomes,\" they will likely tell you that those blobs are actually sophisticated cellulolytic machines."
-        },
-        {
-          "title": "An Explainable Unsupervised-to-Supervised Machine Learning Framework for Dietary Pattern Discovery Using UK National Dietary Survey Data",
-          "url": "https://arxiv.org/abs/2605.08242",
+          "title": "VibeProteinBench: An Evaluation Benchmark for Language-interfaced Vibe Protein Design",
+          "url": "https://arxiv.org/abs/2605.10978",
           "domain": "arxiv.org",
-          "date": "2026-05-12T04:00:00.000Z",
+          "date": "2026-05-13T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2605.08242v1 Announce Type: new Abstract: Clinical dietary assessment can generate detailed but high-dimensional nutrient and food-group information that is difficult to translate quickly into counselling priorities. This paper proposes an explainable unsupervised-to-supervised machine learning framework for discovering, reproducing and interpreting dietary patterns using public UK National Diet and Nutrition Survey data. Adult participants aged 19 years and above from NDNS Years 12-15 were represented using 25 energy-adjusted nutrient and food-group features. K-means, Gaussian Mixture Models and Agglomerative Clustering were compared across k = 2-8, with stability and dietetic interpretability used alongside internal validation metrics. The selected K-means k = 4 solution identified four interpretable dietary patterns: high fat/meat and sodium, higher fibre fruit-vegetable micronutrient, high free-sugar snacks and sugary drinks, and dairy/cereal calcium-rich saturated-fat. A supervised surrogate classifier reproduced held-out cluster membership with high test performance (macro-F1 = 0.963), but was interpreted only as an explanatory surrogate rather than as an independent clinical prediction model. SHAP analysis linked predictions to dietetically meaningful drivers, suggesting potential value for dietitian-in-the-loop assessment, counselling prioritisation and follow-up monitoring."
+          "summary": "arXiv:2605.10978v1 Announce Type: new Abstract: Protein design aims to compose amino-acid sequences that fold into stable three-dimensional structures while satisfying targeted functional properties. The field is increasingly shifting toward vibe protein design, where a single model is expected to generate novel sequences, engineer existing proteins, and reason about protein characteristics through flexible natural-language constraints. Large language models (LLMs) have emerged as a leading paradigm in this space. However, existing evaluation benchmarks often limit their scope to a partial aspect of protein design, while others restrict design objectives to structured input schemas, lacking an integrated framework that evaluates the broad spectrum of protein design competence under open-ended intents. To this end, we present Vibe Protein design Benchmark (VibeProteinBench), a language-interfaced benchmark that probes generalist capabilities through three complementary stages mirroring a computational protein design workflow: recognition, engineering, and generation. Each stage is grounded in expert-curated mechanistic rationales and multi-faceted in silico validation, to computationally verify whether model outputs are biologically plausible. Evaluations across diverse general-purpose and domain-specialized LLMs reveal that no model achieves strong performance across all three stages, suggesting that generalist protein design remains a substantial open challenge for current LLMs."
         },
         {
-          "title": "MeTime: An R package for reproducible longitudinal metabolomics data analysis",
-          "url": "https://arxiv.org/abs/2605.08497",
+          "title": "Statin Recommendations among US Adults with the 2026 Dyslipidemia Guidelines",
+          "url": "https://arxiv.org/abs/2605.10979",
           "domain": "arxiv.org",
-          "date": "2026-05-12T04:00:00.000Z",
+          "date": "2026-05-13T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2605.08497v1 Announce Type: new Abstract: MeTime is an opensource R package for reproducible analysis of longitudinal metabolomics data. It builds upon a central S4 container, metime_analyser, that stores multiple datasets, associated metadata and analysis outputs, enabling unified handling of complex longitudinal studies. Analyses are constructed by piping modular functions, beginning with data transformations (mod_), followed by calculations (calc_), and optional meta-analysis (meta_), so entire workflows remain transparent and easy to modify. MeTime wraps numerous existing methods within a consistent interface, including sample and metabolite distributions, correlation and distance matrices, dimensionality reduction (PCA, UMAP, tSNE), random forest imputation and feature selection via Boruta, eigenmetabolites and WGCNA based clustering, conservation index analysis, regression models (linear, mixed effects, and generalized additive), and partial correlation networks. By retaining all intermediate results and provenance within the container, MeTime facilitates iterative exploration and ensures reproducible reporting via automatically generated HTML and PDF outputs. Comprehensive user guides, case studies and reference documentation accompany the package, making MeTime a versatile platform for longitudinal omics workflows."
+          "summary": "arXiv:2605.10979v1 Announce Type: new Abstract: Importance: The 2026 multisociety dyslipidemia guideline recommended the PREVENT equations in place of the PCE equations, introduced 30-year risk assessment as a new treatment pathway, and lowered risk-based treatment thresholds. The net population impact of these concurrent changes on statin recommendations is unknown. Objective: To estimate changes in statin recommendations under 2026 PREVENT-based dyslipidemia guidelines compared with 2018 PCE-based guidelines. Design and Participants: Cross-sectional analysis of pooled data from NHANES, spanning 2011-2023 and comprising 24,199 participants aged 30-79 years. Main Outcomes and Measures: Number and proportion of US adults receiving or recommended for statin therapy. Results: At the class 1 threshold, the number of US adults receiving or recommended for statin therapy decreased by an estimated 3.0 million (95% CI, 2.3 million to 3.6 million), with larger reductions among Black adults (-4.2 percentage points [pp]), men (-4.0pp), and adults aged 50-69 years (-5.6pp). At the class 2 threshold--which additionally recommends statins for adults aged 30-59 years based on 30-year risk--the number of adults recommended increased by an estimated 20.8 million (95% CI, 19.6 million to 22.0 million), or +11.6pp. The increase was largest among adults aged 50-59 years (+19.7pp) and 40-49 years (+14.8pp). Conclusions: The net population impact of the 2026 dyslipidemia guidelines depends critically on which recommendation class is applied. At the class 1 threshold, statin recommendations decreased modestly; at the class 2 threshold, inclusion of 30-year risk assessment substantially expanded recommendations, particularly among younger adults. These divergent effects underscore the importance of the 30-year risk criterion as a major driver of new eligibility and the need for outcomes and equity monitoring during guideline implementation."
         },
         {
-          "title": "A putative, computationally stable structure of homotrimeric BP180/collagen XVII",
-          "url": "https://arxiv.org/abs/2605.08953",
+          "title": "Internally triggered retrospective learning in neural networks",
+          "url": "https://arxiv.org/abs/2605.10994",
           "domain": "arxiv.org",
-          "date": "2026-05-12T04:00:00.000Z",
+          "date": "2026-05-13T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2605.08953v1 Announce Type: new Abstract: Background: BP180, also known as collagen XVII and BPAG2 (bullous pemphigoid antigen 2), is a 180-kDa transmembrane protein within the hemidesmosomal plaque complex, and which is known to be a major antigen in bullous pemphigoid, gestational pemphigoid, cicatricial (mucous membrane) pemphigoid, and linear IgA bullous disease. Objective: At present, the 3D structure of BP180 is not known. The goal is to predict a reasonable structure for BP180 through machine learning and molecular dynamics. Methods: In this work, we use the recent Boltz-2 model to predict a putative structure for the intracellular, transmembrane, and proximal extracellular domains, including the NC16A antigenic region and a portion of its first extracellular collagenous domain, Col-15. We computationally embed BP180 in a simple phospholipid bilayer, demonstrate that the putative structure is stable using molecular dynamics, and analyze its allosteric properties. Results: The structures presented satisfy symmetry and secondary structure properties which are expected from homology modelling. Over three 500 ns trajectories, there is minor instability of the predicted globular head domain, but the homotrimer otherwise stays mostly folded. The putative NC16A domain is stiff, whereas the truncated Col-15 domain is highly flexible. There does not appear to be a nearby stable conformation distinct from the initial state. Conclusion: The structure presented is a useful starting point for targeting BP180 pharmacologically, for further experimental characterization of BP180, and for generating hypotheses regarding the relevant epitopes contributing to bullous disease. Diffusion models such as Boltz-2 and AlphaFold3 are useful, but their results must be evaluated carefully."
+          "summary": "arXiv:2605.10994v1 Announce Type: new Abstract: Learning in artificial neural networks usually relies on continuous, externally driven weight updates, in which parameters are modified at every step in response to incoming data, error signals or reward feedback. In this setting, routine and informative inputs contribute similarly to parameter adjustment. We introduce a learning approach in which parameter updates are governed by internally generated events arising from the network own representational dynamics. During ongoing activity, synaptic interactions are accumulated as latent traces encoding recent coactivation patterns, without immediately modifying the underlying parameters. In parallel, an internal predictive process estimates the evolving latent state, while a scalar measure of discrepancy between predicted and observed states is continuously computed. When discrepancy exceeds an adaptive threshold derived from recent error statistics, a learning event is triggered, inducing a retrospective update selectively integrating past activity into the current configuration. We performed simulations using a minimal neural network exposed to structured sequential inputs with transient perturbations. We found that learning occurs through sparse, temporally localized events associated with increases in prediction error, leading to stepwise changes in synaptic efficacy and discrete transitions in latent state organization. By selectively reorganizing parameters in response to internally detected discrepancies, our episodic updating may reduce unnecessary parameter drift while preserving informative patterns. Potential applications include systems requiring selective adaptation to rare or informative inputs such as physiological, industrial or environmental monitoring, edge computing under limited energy budgets, autonomous systems operating in dynamic conditions and sequential computational data processing."
         },
         {
-          "title": "Dual Fear Mechanisms Shaping Stochastic Population Dynamics under the Allee Effect",
-          "url": "https://arxiv.org/abs/2605.09255",
+          "title": "SCOPE: Siamese Contrastive Operon Pair Embeddings for Functional Sequence Representation and Classification",
+          "url": "https://arxiv.org/abs/2605.11022",
           "domain": "arxiv.org",
-          "date": "2026-05-12T04:00:00.000Z",
+          "date": "2026-05-13T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2605.09255v1 Announce Type: new Abstract: Traditional population models that include predator-prey interactions attribute demographic changes directly to predation-related effects. However, predator-induced fear in prey has increasingly been recognised as an important factor shaping population dynamics. In this study, we propose a cubic population model in which fear acts through two distinct functional channels for a single-species population exhibiting the Allee effect. In this model, fear reduces the intrinsic growth rate through a multiplicative suppression mechanism while also playing an integrated role in modulating the growth and interaction dynamics by rescaling the saturation structure of the Holling type III interaction term. The stochastic extension of the model is described by a Langevin formalism containing correlated additive and multiplicative Gaussian noise, and the steady state probability distribution (SSPD) is analytically obtained using the corresponding Fokker-Planck equation. The analytical solution is validated by numerical simulations. The SSPD reveals both noise-induced transitions and fear-controlled regime changes between low- and high-density states, with the two-channel effect of fear producing structural competition and non-monotonic changes in the distribution. These are analysed through phenomenological bifurcation (P-bifurcation) diagrams and three-dimensional distribution surfaces. Additionally, statistical properties, parameter sensitivity, and escape dynamics are investigated through normalised moments, Fisher information, and mean first-passage time (MFPT) calculations. Notably, our model treats fear as an independent control parameter and provides a natural explanation for several conflicting empirical findings in the literature on fear-mediated population dynamics, while also offering an analytical basis for conservation biology and ecosystem management."
+          "summary": "arXiv:2605.11022v1 Announce Type: new Abstract: Identifying operons is a fundamental step in understanding prokaryotic gene regulation, as classifying genes into operons supports the reconstruction of regulatory networks, functional annotation of unannotated genes, and drug candidate development. Experimental approaches such as RT-PCR and RNA-seq provide precise evidence of operon structure, but are laborious and largely limited to well-studied model organisms, making scalable computational methods essential for genome-wide operon identification. Prior computational approaches have employed traditional classifiers such as logistic regression and decision trees, motivating our use of these as physicochemical baselines. The DGEB benchmark evaluates operonic pair classification by embedding each sequence independently with a pre-trained protein language model and computing pairwise cosine similarity. In contrast, our Siamese MLP learns a classifier over the fused embedding space, which is theoretically better motivated for binary classification, as cosine similarity can yield meaningless scores depending on the regularization of the embedding model. While protein language model embeddings substantially outperform physicochemical features in ROC-AUC, a learned Siamese MLP head does not significantly improve over unsupervised cosine similarity in Average Precision, suggesting that the geometry of the embedding space already captures the functional relationships needed for this task. Nonetheless, our Siamese MLP achieves a ROC-AUC of 0.71, competitive with state-of-the-art models on the DGEB leaderboard. These findings indicate that protein language model embeddings are a viable, scalable foundation for operonic pair classification across diverse microbial genomes, with implications for automated genome annotation, regulatory network reconstruction, and characterization of organisms lacking experimental operon annotations."
         },
         {
-          "title": "Predictive and feedback signals differently shape the formation of group-level and individualized language representations",
-          "url": "https://arxiv.org/abs/2605.09409",
+          "title": "Morpho-Physiological and Genetic Diversity of Crataegus Taxa (Rosaceae) in Selected Locations of Iraqi Kurdistan-Region",
+          "url": "https://arxiv.org/abs/2605.11028",
           "domain": "arxiv.org",
-          "date": "2026-05-12T04:00:00.000Z",
+          "date": "2026-05-13T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2605.09409v1 Announce Type: new Abstract: Adults vary greatly in how effectively they learn a new language, but the signals driving the learning processes and individual differences remain unclear. Over seven days, we tracked behavioral learning and collected fMRI data from 102 adults as they learned an artificial language with corrective feedback. We trained matched transformer models with prediction, feedback, or combined objectives and compared their internal representations to brain activity. Representations derived from the prediction-focused model accounted for the largest share of unique neural variance at the group level, despite the human task being feedback-based. Throughout model training, both objectives showed a shift in brain-model alignment from sensory to higher-order language and associative networks, indicating abstraction processing. Conversely, neural patterns related to the feedback model were most useful for predicting individual generalization outcomes on Day 7. These findings support a multi-signal model of adult language learning, in which prediction shapes a common neural learning architecture across learners, whereas feedback-related mechanisms better explain individual differences over time."
+          "summary": "arXiv:2605.11028v1 Announce Type: new Abstract: One of the great phytogeography zones of semi-arid lands in the world is the Kurdistan region of Iraq which hosts many important fruit species due to its geographical location and ecology. Mountain Hawthorn (Crataegus spp.) is a vital wild edible deciduous fruit tree of the genus Crataegus for the region, which is highly beneficial for ornamental, economical, industrial and medicinal uses. In the present study, morphological, phytochemical and molecular marker systems were applied on sixty-one Hawthorn accessions from different locations in the Iraqi Kurdistan region during April 2022 to September 2023. Phenotypic markers have proven to be extremely useful in studies of genetic diversity in Hawthorn genotypes, the results of the present morphological study showed that there are seven taxa (five species, two hybrids) were observed including, Crataegus azarolus, Crataegus meyrei, Crataegus monogyna, Crataegus orientalists, Crataegus pentagyna, Crataegus azarolus x Crataegus meyrei and Crataegus azarolus x Crataegus pentagyna. There was significant variation among different ecotypes in terms of plant type, reproductive stage, and fruit morphology and production uses. Fruit Physio-morphological data revealed a high level of significant variability (P 0.01) among accessions based on the analysis of variance. The most important characteristics for explaining fruit morphological variability `were 11 varbales including fruit weight (FW), fruit length (FL), fruit width (FW), seed length (SL), seed width (SW), number of seeds per fruits (NSF), volume solution (VS), fruit fresh weight (WOF), seed weight (WS), Potentional of hydrogen (pH) and mositure content (MC). They all are significantly different for all the traits measured for the studied accessions."
+        },
+        {
+          "title": "The Same Problem by Different Names: Unifying Regression Dilution and Regression to the Mean",
+          "url": "https://arxiv.org/abs/2605.11197",
+          "domain": "arxiv.org",
+          "date": "2026-05-13T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2605.11197v1 Announce Type: new Abstract: Regression to the Mean and Regression Dilution are often viewed as unrelated issues in the clinical and ecological literatures. In reality, they are different names for the same problem: measurement error in an independent variable that biases the perceived relationship between two factors. This study unifies these traditions by comparing specialized clinical tools, like the Berry correction, with standard structural estimators such as Major Axis and Reduced Major Axis regression. Using an analytical framework, we evaluate how these methods perform across various noise levels and sample sizes. Our results show that the Berry method is a specialized tool designed for clinical scenarios where a 1:1 relationship is expected. However, applying it to ecological trade-offs with negative slopes can lead to severe errors. We provide maps of optimality to identify which estimator most accurately recovers the true biological signal under different conditions. By reconciling these disparate methods, we offer a principled guide for researchers to choose the correct tool based on their data's noise profile rather than their disciplinary tradition."
+        },
+        {
+          "title": "Beyond Manual Curation: Augmenting Targeted Protein Degradation Databases via Agentic Literature Extraction Workflows",
+          "url": "https://arxiv.org/abs/2605.11221",
+          "domain": "arxiv.org",
+          "date": "2026-05-13T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2605.11221v1 Announce Type: new Abstract: Predictive models in biomedicine depend on structured assay data locked in the text, tables, and supplements of primary publications. This bottleneck is especially acute in targeted protein degradation (TPD), where each assay record must combine compound identity, degradation target, recruiter, assay context, and endpoint values reported across sections, tables, and supplementary files. Inconsistent compound identifiers and incomplete or implicit assay context further demand domain-specific logic that generic LLM pipelines do not provide. Existing molecular glue and PROTAC databases are manually curated and often lack the experimental context required for downstream modeling. We formulate TPD database extraction as a domain-specific curation task and present an expert-in-the-loop LLM workflow, evaluated through a triangular comparison among LLM predictions, standardized baseline records, and expert-annotated ground truth. A lightweight cross-validated prompt-refinement module adapts extraction instructions from scarce expert annotations. With only seven annotated molecular glue publications, the workflow achieved record-level $F_1 = 0.98$ and transferred to PROTACs by terminology substitution alone, maintaining record-level $F_1 > 0.93$. Applied at scale, it expanded molecular glue and PROTAC databases by 81% and 92% records, respectively, with 92% and 82.5% of newly recovered records validated as correct upon expert review. The workflow also recovered kinetic and assay-context information essential for cross-study potency comparison and condition-aware degradation modeling. We release the workflow, prompts, evaluation code, and extracted datasets as resources for TPD data curation and AI-assisted scientific curation more broadly."
+        },
+        {
+          "title": "Scalable vertex guided filtrations identify structurally relevant genes in cancer networks",
+          "url": "https://arxiv.org/abs/2605.11450",
+          "domain": "arxiv.org",
+          "date": "2026-05-13T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2605.11450v1 Announce Type: new Abstract: Topological data analysis (TDA) has established itself as a useful tool for capturing multiscale structures in complex networks, such as connected components, cycles, and cavities. Although Vietoris-Rips (VR) filtering is widely used in network analysis, it tends to be computationally expensive, especially for large networks. This work explores vertex function-based (VFB) filtering based on network measures, applying persistent homology to identify relevant topological structures in cancer-associated protein networks, and compares its effectiveness with the VR approach. The results show that VFB reproduces the second-order structures (Betti-2) identified by VR, recovering previously reported essential genes. In addition, VFB detected new driver genes, confirmed in databases such as IntOGen and NCG, and allowed analysis of third-order structures (Betti-3) that was not feasible with VR. Thus, VFB represents a scalable alternative to VR, preserving biological interpretability and complementing classical network metrics."
+        },
+        {
+          "title": "NORI: Fast probabilistic inference for ambiguous observation-entity mappings",
+          "url": "https://arxiv.org/abs/2605.11648",
+          "domain": "arxiv.org",
+          "date": "2026-05-13T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2605.11648v1 Announce Type: new Abstract: NORI performs probabilistic inference to resolve ambiguous mappings between experimental observations and biological entities orders of magnitude faster than state-of-the-art methods. This makes large-scale analysis and extensive hyperparameter optimization possible, and supports a broader range of bioinformatics applications, including protein inference, taxonomic and functional analysis in omics-fields."
+        },
+        {
+          "title": "Accounting for Missed Events in the Bayesian Modeling of IP3R Multimodal Gating",
+          "url": "https://arxiv.org/abs/2605.11675",
+          "domain": "arxiv.org",
+          "date": "2026-05-13T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2605.11675v1 Announce Type: new Abstract: The Inositol 1,4,5-trisphosphate receptor channel (IP 3 R) is an important calcium channel involved in calcium-induced calcium release, playing a prominent role in intracellular calcium signaling. However, accurately characterizing its gating behavior remains a challenge, particularly due to the temporal resolution of patch clamp techniques that is not large enough to detect all short-lived events. This limitation can significantly bias the inference of kinetic models describing the receptor activity. To address this issue, we focused on the quantitative analysis of IP 3 R gating behavior using patch clamp data, with particular attention to missed events. We modeled IP 3 R channel gating using Hierarchical Markov chains and used a Bayesian approach that integrates missed event correction directly into the likelihood function, enabling more accurate parameter inference and model evaluation. We show that accounting for missed events deeply clarifies the multi-modal model that emerges from model selection. In this new model, the Park and Drive modes both consist of the same 3-state Markov model, with mode-dependent kinetic parameters: the Drive mode stabilizes the closed state directly connected to the open one, whereas the Park mode stabilizes the other closed state, that is not connected to the open one. Intermediate Ca 2+ concentrations are found to strongly depress the Drive to Park transition rate, so that the IP 3 R channel undergoes frequent transitions to the Park mode only for __ 50 nM or micromolar Ca 2+ concentrations. Overall, our approach provides a refined perspective on IP 3 R channel modeling and highlights the critical importance of accounting for missed events upon model selection based on single-channel recordings."
         }
       ]
     },
@@ -277,6 +277,38 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "Iran war, AI spending could push Bitcoin back to $126K this year: Hayes",
+          "url": "https://cointelegraph.com/news/arthur-hayes-bitcoin-ai-race-iran-war-money-printing-126k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-13T04:10:05.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Hayes said military spending and the prioritization of AI infrastructure over US Treasurys and equities will lead to further fiat printing and benefit crypto."
+        },
+        {
+          "title": "Senators file over 100 amendments to crypto bill ahead of markup",
+          "url": "https://cointelegraph.com/news/senators-file-over-100-amendments-to-crypto-bill-ahead-of-markup?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-13T03:59:47.000Z",
+          "source": "CoinTelegraph",
+          "summary": "A leaked list shows Senate Banking Committee members have filed more than 100 amendments to a crypto bill, highlighting the issues likely to be debated at a markup on Thursday."
+        },
+        {
+          "title": "Kelp DAO, Aave to resume rsETH operations as recovery from $292 million exploit progresses",
+          "url": "https://www.theblock.co/post/401060/kelp-dao-aave-resume-rseth?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-13T02:24:43.000Z",
+          "source": "The Block",
+          "summary": "Kelp was exploited on April 18 for $292 million from attackers suspected to be part of North Korea's Lazarus Group."
+        },
+        {
+          "title": "JPMorgan to launch tokenized money market fund for stablecoin issuers",
+          "url": "https://cointelegraph.com/news/jpmorgan-files-second-tokenized-money-market-fund-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-13T02:14:13.000Z",
+          "source": "CoinTelegraph",
+          "summary": "JPMorgan’s filing comes nearly three weeks after rival investment bank Morgan Stanley launched its own money market fund, the Stablecoin Reserves Portfolio."
+        },
         {
           "title": "Bermuda to transition ‘key’ financial services to Stellar blockchain",
           "url": "https://cointelegraph.com/news/bermuda-financial-services-stellar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -324,38 +356,6 @@
           "date": "2026-05-12T20:40:43.000Z",
           "source": "The Block",
           "summary": "The CFTC is weighing in on another legal battle over states’ authority to regulate prediction markets — this time in Ohio."
-        },
-        {
-          "title": "JPMorgan launching second tokenized money market fund on Ethereum",
-          "url": "https://www.theblock.co/post/401028/jpmorgan-launching-tokenized-money-market-fund-ethereum?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-12T20:00:21.000Z",
-          "source": "The Block",
-          "summary": "The new fund will invest in U.S. Treasurys and overnight repurchase agreements collateralized by Treasurys or cash."
-        },
-        {
-          "title": "Bitcoin dominance rebounds above 58% signaling crypto market consolidation phase",
-          "url": "https://www.theblock.co/post/400801/bitcoin-dominance-rebounds-above-58-crypto-market-consolidation-phase?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-12T19:05:44.000Z",
-          "source": "The Block",
-          "summary": "Dominance peaked near 62%–63% last year before a sustained drawdown through late 2025, bottoming near 54%–55%."
-        },
-        {
-          "title": "DTCC to use Chainlink to power 24/7 collateral management network",
-          "url": "https://cointelegraph.com/news/dtcc-to-use-chainlink-to-power-247-collateral-management-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-12T18:45:10.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The world’s largest post-trade infrastructure provider will integrate Chainlink technology into its tokenized collateral platform ahead of a Q4 2026 launch."
-        },
-        {
-          "title": "WAIB Summit Monaco 2026 returns: the world’s most exclusive gathering for digital assets & AI",
-          "url": "https://cointelegraph.com/press-releases/waib-summit-monaco-2026-returns-the-worlds-most-exclusive-gathering-for-digital-assets-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-12T18:40:14.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Following the resounding success of its 2025 edition, WAIB Summit Monaco proudly announces its return on June 9–10, 2026, at the prestigious One Monte-Carlo, located in the heart of Monaco’s iconic Casino Square."
         }
       ]
     }
