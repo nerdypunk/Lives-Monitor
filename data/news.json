@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-13T17:36:18.575Z",
+  "updatedAt": "2026-05-13T19:26:03.867Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -135,7 +135,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-13T16:18:25.000Z",
           "source": "Lifespan.io",
-          "summary": "This month, a group of researchers published an annual report on the clinical trials that are testing drugs for Alzheimer’s disease. Overall, they reported an increase in the number of trials, with 158 drugs investigated across 192 trials [1]. […]"
+          "summary": "This month, a group of researchers published an annual report on the clinical trials that are testing drugs for Alzheimer’s disease. Overall, they reported an increase in the number of trials, […]"
         },
         {
           "title": "Sironax receives FDA fast track status for neuroprotective SARM1 inhibitor",
@@ -278,6 +278,70 @@
       ],
       "articles": [
         {
+          "title": "Ethereum app builder Consensys has delayed its potential IPO until fall",
+          "url": "https://www.coindesk.com/business/2026/05/13/ethereum-app-builder-consensys-has-delayed-its-potential-ipo-until-fall",
+          "domain": "coindesk.com",
+          "date": "2026-05-13T19:01:56.000Z",
+          "source": "CoinDesk",
+          "summary": "The MetaMask wallet builder had reportedly engaged bankers from JPMorgan and Goldman Sachs to lead the process."
+        },
+        {
+          "title": "Senate votes to confirm Trump-pick Kevin Warsh to succeed Jerome Powell as Fed Chair",
+          "url": "https://www.theblock.co/post/400974/senate-confirm-trump-federal-reserve-chair-kevin-warsh?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-13T18:56:16.000Z",
+          "source": "The Block",
+          "summary": "On Wednesday, the Senate voted to confirm President Donald Trump's pick for Federal Reserve Chair Kevin Warsh."
+        },
+        {
+          "title": "Hyperliquid dominates weekly blockchain fee revenue as vertical chains gain ground",
+          "url": "https://www.theblock.co/post/400803/hyperliquid-dominates-weekly-blockchain-fee-revenue-vertical-chains-gain-ground?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-13T18:38:02.000Z",
+          "source": "The Block",
+          "summary": "Looking at last week's fee distribution across major chains, the rankings tell a different story than raw activity metrics might suggest."
+        },
+        {
+          "title": "Bitcoin traders expect ‘fast move’ to $90K following CLARITY Act vote",
+          "url": "https://cointelegraph.com/markets/bitcoin-traders-expect-fast-move-90k-following-clarity-act-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-13T18:30:00.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bitcoin traders eye a possible move higher as short-term selling pressure fades and the CLARITY Act vote boosts crypto market focus."
+        },
+        {
+          "title": "Price predictions 5/13: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH",
+          "url": "https://cointelegraph.com/markets/price-predictions-513-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-13T18:09:17.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bitcoin’s pullback is expected to find support near $79,000, but every recovery attempt is likely to be sold into."
+        },
+        {
+          "title": "Societe Generale deploys stablecoins on Canton for tokenized finance",
+          "url": "https://cointelegraph.com/news/societe-generale-expands-tokenized-collateral-and-stablecoin-push-on-canton-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-13T17:51:42.000Z",
+          "source": "CoinTelegraph",
+          "summary": "France's SocGen plans to use its EURCV and USDCV stablecoins for tokenized collateral, repo financing and institutional settlement activity on the Canton blockchain network."
+        },
+        {
+          "title": "Jupiter taps Bitwise to curate institutional-grade Solana-based USDe lending market",
+          "url": "https://www.theblock.co/post/401187/jupiter-taps-bitwise-to-curate-institutional-grade-solana-based-usde-lending-market?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-13T17:41:51.000Z",
+          "source": "The Block",
+          "summary": "Jupiter Lend, together with Fluid and Bitwise, will provide an avenue to earn yield on the USDe synthetic stablecoin."
+        },
+        {
+          "title": "US government asks for $1M forfeiture from ex-Celsius exec ahead of sentencing",
+          "url": "https://cointelegraph.com/news/us-government-forfeiture-celsius-roni-cohen-pavon-sentencing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-13T17:41:22.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Former Celsius chief revenue officer Roni Cohen-Pavon, scheduled to be sentenced on Thursday after a guilty plea, agreed to a judgment of $1 million that he obtained as a result of his crimes."
+        },
+        {
           "title": "Fidelity International launches Moody’s-rated tokenized fund on Chainlink",
           "url": "https://cointelegraph.com/news/fidelity-filq-tokenized-fund-chainlink-sygnum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
@@ -292,70 +356,6 @@
           "date": "2026-05-13T16:48:39.000Z",
           "source": "CoinDesk",
           "summary": "Also: LayerZero apology, Ronin layer-2 transition and ‘Clear Signing’"
-        },
-        {
-          "title": "Tea Protocol announces June 4 mainnet launch and TGE on Aerodrome to secure open-source development in the AI era",
-          "url": "https://cointelegraph.com/press-releases/tea-protocol-announces-june-4-mainnet-launch-and-tge-on-aerodrome-to-secure-open-source-development-in-the-ai-era?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-13T16:47:34.000Z",
-          "source": "CoinTelegraph",
-          "summary": "This quarter, AI started writing its own exploits. Tea is shipping the trust layer underneath it. Code Is Abundant. Trust Is Not."
-        },
-        {
-          "title": "Metaplanet delays preferred share listing amid challenging Japanese market structure",
-          "url": "https://www.coindesk.com/markets/2026/05/13/metaplanet-delays-preferred-share-listing-amid-challenging-japanese-market-structure",
-          "domain": "coindesk.com",
-          "date": "2026-05-13T16:43:49.000Z",
-          "source": "CoinDesk",
-          "summary": "CEO Simon Gerovich says regulatory and infrastructure challenges are slowing the launch of Metaplanet's perpetual preferred share."
-        },
-        {
-          "title": "UK parliament to probe Nigel Farage’s $6.8 million donation from crypto billionaire",
-          "url": "https://www.coindesk.com/policy/2026/05/13/uk-parliament-to-probe-nigel-farage-s-usd6-8-million-donation-from-crypto-billionaire",
-          "domain": "coindesk.com",
-          "date": "2026-05-13T16:34:14.000Z",
-          "source": "CoinDesk",
-          "summary": "If found guilty of violating the Parliamentary code of conduct, the Reform UK party leader could be suspended from the House of Commons."
-        },
-        {
-          "title": "Traders say Ethereum ready for a 'strong move' after ETH price taps $2.3K",
-          "url": "https://cointelegraph.com/markets/traders-say-ethereum-ready-strong-move-eth-price-taps-2-3k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-13T16:29:27.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Market analysts eye fresh Ethereum upside, fueled by JPMorgan and BlackRock tokenized fund moves plus looming CLARITY Act catalyst."
-        },
-        {
-          "title": "Immunefi to absorb Code4rena bug bounty customers after shutdown decision",
-          "url": "https://www.theblock.co/post/401179/immufefi-absorb-code4rena-bug-bounty-customers-shutdown-decision?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-13T16:23:08.000Z",
-          "source": "The Block",
-          "summary": "Immunefi said it will help migrate Code4rena’s bounty programs, rewards and researchers onto its platform."
-        },
-        {
-          "title": "Bitcoin buyers with long-term 'conviction' surges 300% with most recent buyers sitting on profits",
-          "url": "https://www.coindesk.com/markets/2026/05/13/bitcoin-s-available-supply-is-shrinking-as-long-term-hoarding-hits-record-4-million-btc",
-          "domain": "coindesk.com",
-          "date": "2026-05-13T16:00:12.000Z",
-          "source": "CoinDesk",
-          "summary": "Bitcoin held by so-called conviction buyers has surged to nearly 4 million BTC, a roughly 300% increase since late 2025."
-        },
-        {
-          "title": "Bitcoin price targets $79K as US PPI inflation hits highest since 2022",
-          "url": "https://cointelegraph.com/markets/bitcoin-risks-80k-loss-us-ppi-inflation-hits-highest-since-2022?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-13T15:46:25.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Bitcoin slipped further below the $80,000 mark as US PPI data compounded the inflation problem from the US-Iran war and associated high oil prices."
-        },
-        {
-          "title": "Crypto Long & Short: Bitcoin vs. gold: 26% relative undervaluation",
-          "url": "https://www.coindesk.com/coindesk-indices/2026/05/13/crypto-long-and-short-bitcoin-vs-gold-26-relative-undervaluation",
-          "domain": "coindesk.com",
-          "date": "2026-05-13T15:44:26.000Z",
-          "source": "CoinDesk",
-          "summary": "In this week’s Crypto Long & Short Newsletter, Dovile Silenskyte provides an alternative to the “bitcoin as a risk asset” narrative. Then, Joshua de Vos shares insights and analysis on global exchanges."
         }
       ]
     }
