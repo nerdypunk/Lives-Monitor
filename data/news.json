@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-14T08:43:05.266Z",
+  "updatedAt": "2026-05-14T11:04:53.946Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -8,6 +8,14 @@
         "https://news.google.com/rss/search?q=DeSci%20OR%20%22decentralized%20science%22%20OR%20%22BIO%20Protocol%22&hl=en-US&gl=US&ceid=US:en"
       ],
       "articles": [
+        {
+          "title": "5 Top DeSci Projects that are currently fighting rare diseases in 2026 - FinanceFeeds",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWGZnZG9ReVJES1U0ZHBBRC1pRHZqcG45RjVTQjJfaXRLX2k0LTA5XzdZclIteVlfZ1ZDYlpyMEc4UWk0VHZXc0tQNmxqaGdvRWFJb2JxZDl1cE4tTkpiN3I0NlFaLUVqTndzTFlEdnNZUlpNVmdCN3pCQmE1X2JiYzNwQmxFcVVhMEg1TzREc2JfbUM1dzJSU1pKdk8?oc=5",
+          "domain": "financefeeds.com",
+          "date": "2026-05-14T10:48:18.000Z",
+          "source": "FinanceFeeds",
+          "summary": "5 Top DeSci Projects that are currently fighting rare diseases in 2026 &nbsp;&nbsp; FinanceFeeds"
+        },
         {
           "title": "Delphi Digital: Is DeSci ushering in a second wave of opportunities? - PANews",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53OU5fbDgyQ1k0enAxLXI1VkhoamNRcUpiUmxPYzQ3Nk5HMmZQQXAwTS16S3VoZVhhQk1LMGkyQ21vOU1fY3FuaTZjcDRmYWZ1TWNYaVFsdWhkS2NjUEpGR2ExenJCZnRhdy1lV2swUEtuMHBIUFBtS3BKMTFTMGc?oc=5",
@@ -79,14 +87,6 @@
           "date": "2026-05-02T10:36:40.000Z",
           "source": "Bitget",
           "summary": "Bio Protocol Multisig Wallet Transfers 80M BIO to CEX Worth $5.15M &nbsp;&nbsp; Bitget"
-        },
-        {
-          "title": "Bio Protocol jumps 5% on Upbit amid extreme greed and high trading volume - Pluang",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZlE3d1Yza0ZaOEVSRk02djZydnRtOW1zTlZFY2xHSU85bXZrbVYtY0xzREF4RVlXNE9yYkUxby1rQndJc0FLaFJvOTZkQU5EU0tZUFpmbXhuNC14NDFYYWdxSHlFU3FpalBIZE43N1NqbHItMDVVRFJReXdwX3hiU0duUmdfQ1NSNmJEMnJjQmRVV1ltSFE?oc=5",
-          "domain": "pluang.com",
-          "date": "2026-05-02T07:00:00.000Z",
-          "source": "Pluang",
-          "summary": "Bio Protocol jumps 5% on Upbit amid extreme greed and high trading volume &nbsp;&nbsp; Pluang"
         }
       ]
     },
@@ -97,6 +97,30 @@
         "https://longevity.technology/feed/"
       ],
       "articles": [
+        {
+          "title": "CereVance completes Phase 3 Parkinson’s trial enrollment, secures $20M",
+          "url": "https://longevity.technology/news/cerevance-completes-phase-3-parkinsons-trial-enrollment-secures-20m/",
+          "domain": "longevity.technology",
+          "date": "2026-05-14T08:42:43.000Z",
+          "source": "Longevity.Technology",
+          "summary": "CereVance completed enrollment in its pivotal Phase 3 ARISE trial of solengepras in Parkinson’s disease and closed an oversubscribed $20 million Series C financing. The randomized, double-blind, placebo-controlled ARISE study enrolled 341 patients across the United States, Europe, United Kingdom and Australia, enrolling adults age 30 and older with motor fluctuations and an average of […] The post CereVance completes Phase 3 Parkinson’s trial enrollment, secures $20M appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "Single dose of VY1706 safely lowers Alzheimer’s-linked protein in primate trials",
+          "url": "https://longevity.technology/news/single-dose-of-vy1706-safely-lowers-alzheimers-linked-protein-in-primate-trials/",
+          "domain": "longevity.technology",
+          "date": "2026-05-14T08:37:43.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Voyager Therapeutics presented three-month GLP toxicology data at ASGCT showing its investigational tau-silencing gene therapy VY1706 was well tolerated and reduced tau protein up to 64% in key brain regions of non-human primates 13 weeks after a single IV dose. The GLP study reported no adverse clinical pathology or histopathological findings up to the highest […] The post Single dose of VY1706 safely lowers Alzheimer’s-linked protein in primate trials appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "Hengrui and Kailera to present ribupatide weight loss data at ADA 2026",
+          "url": "https://longevity.technology/news/hengrui-and-kailera-to-present-ribupatide-weight-loss-data-at-ada-2026/",
+          "domain": "longevity.technology",
+          "date": "2026-05-14T08:32:43.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Hengrui Pharma and Kailera Therapeutics will present clinical data at the American Diabetes Association 86th Scientific Sessions in New Orleans, 5–8 June 2026. The two abstracts focus on ribupatide, a GLP-1/GIP receptor dual agonist being developed as a once-weekly injection and a once-daily oral tablet for the treatment of obesity and overweight. Hengrui will present […] The post Hengrui and Kailera to present ribupatide weight loss data at ADA 2026 appeared first on Longevity.Technology ."
+        },
         {
           "title": "Longevity Academy expands clinical curriculum",
           "url": "https://longevity.technology/news/longevity-academy-expands-clinical-curriculum/",
@@ -135,7 +159,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-13T16:18:25.000Z",
           "source": "Lifespan.io",
-          "summary": "This month, a group of researchers published an annual report on the clinical trials that are testing drugs for Alzheimer’s disease. Overall, they reported an increase in the number of trials, with 158 drugs investigated across 192 […]"
+          "summary": "This month, a group of researchers published an annual report on the clinical trials that are testing drugs for Alzheimer’s disease. Overall, they reported an increase in the number of trials, with 158 drugs investigated across […]"
         },
         {
           "title": "Sironax receives FDA fast track status for neuroprotective SARM1 inhibitor",
@@ -152,30 +176,6 @@
           "date": "2026-05-13T09:51:10.000Z",
           "source": "Longevity.Technology",
           "summary": "Lysoway Therapeutics announced that the first participant was dosed on 5 May 2026 in its Phase I clinical trial of LW-1017, a small-molecule TRPML1 agonist being developed for neurodegenerative diseases including Alzheimer’s disease and Parkinson’s disease. According to the company, LW-1017 is a potent, selective and highly brain-penetrant therapy designed to restore autophagy–lysosomal function. The […] The post Lysoway begins Phase 1 trial for neurodegenerative disease treatment appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Function acquires SuppCo to add independent supplement testing and tracking",
-          "url": "https://longevity.technology/news/function-acquires-suppco-to-add-independent-supplement-testing-and-tracking/",
-          "domain": "longevity.technology",
-          "date": "2026-05-13T09:46:10.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Function announced that it has acquired SuppCo, a platform that organizes and rates supplements, to integrate an independent trust layer with Function’s lab, imaging and clinician-guided offerings, according to the company. SuppCo’s consumer app is described as consistently ranked among the App Store’s Health & Fitness category and the company claims it maintains ratings across […] The post Function acquires SuppCo to add independent supplement testing and tracking appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "New ALS therapy COYA 302 moves toward expedited FDA review",
-          "url": "https://longevity.technology/news/new-als-therapy-coya-302-moves-toward-expedited-fda-review/",
-          "domain": "longevity.technology",
-          "date": "2026-05-13T09:41:10.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Coya Therapeutics announced that the U.S. Food and Drug Administration has granted Fast Track designation to COYA 302 for the treatment of amyotrophic lateral sclerosis. COYA 302 is an investigational, proprietary biologic combination intended to enhance anti-inflammatory regulatory T cell function and to suppress inflammation from activated monocytes and macrophages; it comprises low dose interleukin-2 […] The post New ALS therapy COYA 302 moves toward expedited FDA review appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "MetaVia to present high-dose obesity drug data at major liver congress",
-          "url": "https://longevity.technology/news/metavia-to-present-high-dose-obesity-drug-data-at-major-liver-congress/",
-          "domain": "longevity.technology",
-          "date": "2026-05-13T09:36:10.000Z",
-          "source": "Longevity.Technology",
-          "summary": "MetaVia Inc. announced that a late-breaking abstract on DA-1726 has been accepted for a poster presentation at the European Association for the Study of the Liver Congress 2026 in Barcelona, scheduled May 27–30, with the presentation set for 27 May at 8:30 am CET. The poster, titled Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of DA-1726, an […] The post MetaVia to present high-dose obesity drug data at major liver congress appeared first on Longevity.Technology ."
         }
       ]
     },
@@ -278,6 +278,54 @@
       ],
       "articles": [
         {
+          "title": "‘Rally without conviction’: Bitcoin ETFs see $630M in outflows as corporate treasury demand drops and resistance builds",
+          "url": "https://www.theblock.co/post/401247/rally-without-conviction-bitcoin-etfs-see-630m-in-outflows-as-corporate-treasury-demand-drops-and-resistance-builds?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-14T11:02:51.000Z",
+          "source": "The Block",
+          "summary": "Bitcoin ETFs posted $630M in outflows on May 13 as corporate treasury buying slumps and a $2B gamma cluster threatens volatility near $82K."
+        },
+        {
+          "title": "Cerebras, OpenAI, SpaceX: The IPO pipeline that could drain crypto",
+          "url": "https://www.coindesk.com/markets/2026/05/14/cerebras-openai-spacex-the-ipo-pipeline-that-could-drain-crypto",
+          "domain": "coindesk.com",
+          "date": "2026-05-14T10:58:22.000Z",
+          "source": "CoinDesk",
+          "summary": "Cerebras Systems’ $5.5 billion IPO and soaring semiconductor stocks underscore how investor attention has shifted from bitcoin to artificial intelligence in 2026."
+        },
+        {
+          "title": "Bitcoin stuck below $80,000 as leveraged longs unwind, altcoins slide",
+          "url": "https://www.coindesk.com/markets/2026/05/14/bitcoin-stuck-below-usd80-000-as-leveraged-longs-unwind-altcoins-slide",
+          "domain": "coindesk.com",
+          "date": "2026-05-14T10:42:58.000Z",
+          "source": "CoinDesk",
+          "summary": "Crypto markets weakened as inflation fears hit risk assets, triggering long liquidations, negative derivatives flows and renewed pressure on altcoins."
+        },
+        {
+          "title": "Bank of England set to ease sterling stablecoin rules amid industry concerns: FT",
+          "url": "https://www.theblock.co/post/401239/boe-reconsiders-stablecoin-rules?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-14T10:10:54.000Z",
+          "source": "The Block",
+          "summary": "Deputy Governor Sarah Breeden said the central bank is \"looking very hard\" at re-examining its proposed stablecoin rules."
+        },
+        {
+          "title": "BitGo posts wider Q1 loss despite revenue more than doubling",
+          "url": "https://cointelegraph.com/news/bitgo-posts-38b-in-revenue-but-losses-double-amid-bitcoin-decline-ipo-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-14T09:15:12.000Z",
+          "source": "CoinTelegraph",
+          "summary": "BitGo’s headline revenue figure doubled year-over-year to $3.8 billion, but a Bitcoin price decline and IPO-related costs pushed net losses to $60.7 million in the first quarter."
+        },
+        {
+          "title": "Moody’s awards top rating to Fidelity and BlackRock's tokenized money market funds",
+          "url": "https://www.coindesk.com/markets/2026/05/14/moody-s-awards-top-rating-to-fidelity-and-blackrock-s-tokenized-money-market-funds",
+          "domain": "coindesk.com",
+          "date": "2026-05-14T08:49:07.000Z",
+          "source": "CoinDesk",
+          "summary": "The AAA rating signals the highest level of credit quality, liquidity and capital preservation."
+        },
+        {
           "title": "David Bailey’s Nakamoto reports $239 million Q1 loss as bitcoin treasury value slides",
           "url": "https://www.theblock.co/post/401225/nakamoto-reports-q1-loss?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
@@ -308,54 +356,6 @@
           "date": "2026-05-14T07:11:12.000Z",
           "source": "The Block",
           "summary": "The CFTC published the no-action letter to remove uncertainty regarding event contracts, which technically qualify as swaps."
-        },
-        {
-          "title": "Bitcoin firm Nakamoto records net loss in Q1 despite sixfold revenue growth",
-          "url": "https://cointelegraph.com/news/bitcoin-treasury-nakamoto-reports-238m-net-loss-q1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-14T07:02:44.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Nakamoto CEO David Bailey said the company is focused on scaling its Bitcoin treasury, services and trading strategies for the remainder of 2026."
-        },
-        {
-          "title": "Bitcoin risks slump after hitting ‘major bear market resistance’: CryptoQuant",
-          "url": "https://cointelegraph.com/news/bitcoin-at-risk-of-falling-after-hitting-major-bear-market-resistance-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-14T06:55:13.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Bitcoin’s rally may reverse as its price has hit a historic resistance level and traders appear to already be taking profits, said CryptoQuant in a note on Wednesday."
-        },
-        {
-          "title": "Bitcoin investors yanked $635 million from spot ETFs in a day. Here's what it means for price",
-          "url": "https://www.coindesk.com/markets/2026/05/14/bitcoin-investors-yanked-usd635-million-from-spot-etfs-in-a-day-here-s-what-it-means-for-price",
-          "domain": "coindesk.com",
-          "date": "2026-05-14T06:08:19.000Z",
-          "source": "CoinDesk",
-          "summary": "The single-largest outflow since late January comes as bitcoin turns lower from the 200-day moving average."
-        },
-        {
-          "title": "Claude helps recover $395,000 in bitcoin trapped on a computer for years",
-          "url": "https://www.coindesk.com/tech/2026/05/14/claude-helps-recover-usd395-000-in-bitcoin-trapped-on-a-computer-for-years",
-          "domain": "coindesk.com",
-          "date": "2026-05-14T05:34:15.000Z",
-          "source": "CoinDesk",
-          "summary": "The owner had been trying for eight weeks to brute-force the password on their current Blockchain.com wallet, testing roughly 3.5 trillion combinations using the btcrecover service on a rented computing chip."
-        },
-        {
-          "title": "BitGo doubles revenue to $3.8 billion but net loss widens in Q1",
-          "url": "https://www.theblock.co/post/401205/bitgo-doubles-q1-revenue?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-14T05:03:11.000Z",
-          "source": "The Block",
-          "summary": "The NYSE-listed crypto infrastructure firm generated $3.8 billion in revenue in the first quarter, up 112.6% year-on-year."
-        },
-        {
-          "title": "TRUMP token down 5% as namesake handset begins shipping next week",
-          "url": "https://www.coindesk.com/markets/2026/05/14/trump-token-down-5-as-namesake-handset-begins-shipping-next-week",
-          "domain": "coindesk.com",
-          "date": "2026-05-14T04:52:40.000Z",
-          "source": "CoinDesk",
-          "summary": "Trump Mobile's T1 handset appears to be a re-skinned HTC U24 with assembly done in the U.S."
         }
       ]
     }
