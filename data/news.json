@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-14T19:21:46.635Z",
+  "updatedAt": "2026-05-14T20:54:08.832Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -135,7 +135,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-14T15:58:28.000Z",
           "source": "Lifespan.io",
-          "summary": "Most cardiovascular trials focus on lowering LDL cholesterol or reducing inflammation to slow disease progression. UDP-003 targets the root cause: toxic 7-ketocholesterol (7KC) inside macrophages and soft plaques. It is designed to convert bloated […]"
+          "summary": "Most cardiovascular trials focus on lowering LDL cholesterol or reducing inflammation to slow disease progression. UDP-003 targets the root cause: toxic 7-ketocholesterol (7KC) inside macrophages and soft plaques. It is designed to convert bloated foam cells back into healthy macrophages […]"
         },
         {
           "title": "Cyclarity Unveils Oxidized Cholesterol Excretion Data",
@@ -143,7 +143,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-14T14:31:28.000Z",
           "source": "Lifespan.io",
-          "summary": "Cyclarity Therapeutics, Inc., a clinical stage biopharmaceutical company engineering cyclodextrin molecules into simple, scalable, and affordable therapies that bind and remove toxic targets to address root causes […]"
+          "summary": "Cyclarity Therapeutics, Inc., a clinical stage biopharmaceutical company engineering cyclodextrin molecules into simple, scalable, and affordable therapies that bind and remove toxic targets to address root causes of age-related disease, has […]"
         },
         {
           "title": "CereVance completes Phase 3 Parkinson’s trial enrollment, secures $20M",
@@ -187,6 +187,22 @@
         "https://phys.org/rss-feed/biology-news/biotechnology/"
       ],
       "articles": [
+        {
+          "title": "Engineered proteins store digital files with 30 times density at one-tenth cost",
+          "url": "https://phys.org/news/2026-05-proteins-digital-density-tenth.html",
+          "domain": "phys.org",
+          "date": "2026-05-14T20:28:33.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Massive volumes of digital data are generated every day from AI training, big data analytics and smart devices. As conventional hard drives and cloud storage are increasingly constrained by high costs, limited capacity, high power consumption and short lifespans, molecular data storage has emerged as a breakthrough storage alternative."
+        },
+        {
+          "title": "Biodegradable sensors attached to plants detect pesticides in 3 minutes",
+          "url": "https://phys.org/news/2026-05-biodegradable-sensors-pesticides-minutes.html",
+          "domain": "phys.org",
+          "date": "2026-05-14T19:40:02.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Researchers at the São Carlos Institute of Physics at the University of São Paulo (IFSC-USP) in Brazil, led by Paulo Augusto Raymundo-Pereira, have created biodegradable, \"wearable\" sensors for plants to monitor their health, including the presence of pesticides. The sensors are made from carbon ink and are screen-printed onto transparent cellulose acetate bioplastics."
+        },
         {
           "title": "A fresh approach to peppermint: 250 new variants could boost flavor and fight disease",
           "url": "https://phys.org/news/2026-05-fresh-approach-peppermint-variants-boost.html",
@@ -250,22 +266,6 @@
           "date": "2026-05-14T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2605.12992v1 Announce Type: new Abstract: Neural population models, which predict the joint firing of many simultaneously recorded neurons forward in time, are typically evaluated by a single aggregate Pearson correlation $r$ between predicted and actual spike counts, a number that masks critical structure. We argue that how we evaluate spike forecasting matters as much as what we build, and introduce SpikeProphecy, the first large-scale benchmark for causal, autoregressive spike-count forecasting on real electrophysiology recordings. Our core contribution is a population metric decomposition that separates aggregate performance into temporal fidelity, spatial pattern accuracy, and magnitude-invariant alignment. The decomposition surfaces aspects of the underlying data that an aggregate scalar collapses together. We apply the protocol to 105 Neuropixels sessions (Steinmetz 2019 + IBL Repeated Site; ~89,800 neurons) with seven architecture baselines spanning four structural families: four SSMs (three diagonal and one non-diagonal), a Transformer, an LSTM, and a spiking network. The decomposition surfaces a brain-region predictability ranking that reproduces across all seven baselines and survives ANCOVA correction for firing-statistics constraints (region $\\Delta R^2 = 0.018$ above the firing-statistics covariates). It also exposes a sub-Poisson evaluation floor where rigorous metrics combine with genuine biophysical constraints on regular spike trains, and yields a negative result on KL-on-output-rates distillation for ANN-to-SNN transfer in this Poisson count domain."
-        },
-        {
-          "title": "Implicit Behavioral Decoding from Next-Step Spike Forecasts at Population Scale",
-          "url": "https://arxiv.org/abs/2605.12999",
-          "domain": "arxiv.org",
-          "date": "2026-05-14T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2605.12999v1 Announce Type: new Abstract: Closed-loop brain-computer interfaces often require both a forecast of upcoming neural population activity and a readout of the animal's behavioral state. A single Mamba forecaster, trained only on next-step spike counts at Neuropixels scale, can deliver both in one forward pass. A lightweight per-session linear head reading the model's predicted rates decodes behavior better than the same linear classifier reading the raw spike counts, under matched temporal context. We test on the Steinmetz visual-discrimination benchmark, which spans 39 sessions, roughly 27,000 neurons, and 1,994 held-out trials. Across three training seeds, Mamba's predicted rates decode mouse choice at 75.7$\\pm$0.2% trial vote, roughly 2.3 times chance level, and stimulus side at 66.1$\\pm$0.6%, about twice chance. Compared to a matched 500 ms-context linear decoder on the raw spike counts, Mamba wins at trial vote by 4-6 pp on response and 4-6 pp on stimulus side. A session-start calibration block of about 100-150 trials brings the readout within 1-2 pp of asymptote, and the full pipeline fits inside the 50 ms bin budget on workstation-class GPUs typical of tethered chronic Neuropixels recordings."
-        },
-        {
-          "title": "Conditioning as a route to stereotyped behavior in growing populations",
-          "url": "https://arxiv.org/abs/2605.13009",
-          "domain": "arxiv.org",
-          "date": "2026-05-14T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2605.13009v1 Announce Type: new Abstract: Biological systems perform complex multi-step processes in a reproducible way despite underlying stochasticity. The standard explanation is micromanagement by molecular machinery that recognizes and corrects specific errors. Here we study conditioning, a qualitatively different strategy in which attempts failing a coarse criterion are destroyed and do not leave a physical record. The surviving, i.e., conditioned, ensemble is narrower and therefore more ordered. We model conditioning through stochastic resets in a ''socks-before-shoes'' model of a growing population, where $n$ actions must be completed in any order to replicate and any replication attempt not finished by a threshold time is discarded. We find that resets impose hierarchical temporal ordering of the $n$ actions without microscopic control over which action happens when. When disorder carries a sufficient time penalty, this ordering is free: the fastest-growing population is automatically the most ordered, with no direct selection for order required. Save points, at which verified progress is preserved across resets, allow conditioning to scale to complex multi-step processes. Conditioning provides a minimal route to reliable behavior, requiring only a clock rather than molecular machinery that recognizes specific errors. For the right class of processes, it pays for itself."
         }
       ]
     },
@@ -277,6 +277,38 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "Here is why Wall Street is racing to tokenize the entire stock market",
+          "url": "https://www.coindesk.com/business/2026/05/14/here-is-why-wall-street-is-racing-to-tokenize-the-entire-stock-market",
+          "domain": "coindesk.com",
+          "date": "2026-05-14T20:36:13.000Z",
+          "source": "CoinDesk",
+          "summary": "Tokenization has been the narrative of 2026. Executing on that narrative is trickier, but proponents say the benefits are massive if they pull it off."
+        },
+        {
+          "title": "Ex-Celsius exec sentenced to time served after guilty plea",
+          "url": "https://cointelegraph.com/news/celsius-roni-cohen-pavon-sentenced-guilty-plea?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-14T19:46:55.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Celsius‘ former chief revenue officer received a lenient sentence after his 2023 guilty plea for fraud and conspiracy to commit price manipulation."
+        },
+        {
+          "title": "‘It’s an unfair game’: CertiK CEO says DeFi attackers using AI to outspend defenders",
+          "url": "https://www.theblock.co/post/401280/unfair-game-certik-ceo-defi-attackers-using-ai-outspend-defenders?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-14T19:46:02.000Z",
+          "source": "The Block",
+          "summary": "CertiK says DeFi attackers are increasingly targeting operational security and supply-chain weaknesses instead of smart contract bugs."
+        },
+        {
+          "title": "Bitcoin trades at a 'discount' on Coinbase: Is a $76K retest next?",
+          "url": "https://cointelegraph.com/markets/bitcoin-trades-discount-coinbase-is-76k-retest-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-14T19:42:44.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bitcoin’s $79,000 defense proves that the Coinbase discount is driven by stablecoin volatility rather than a lack of institutional demand."
+        },
         {
           "title": "Crypto losses from North Korea hackers in 2025 rose 51% YoY: Report",
           "url": "https://cointelegraph.com/news/losses-dprk-hacks-2025-rose-51-year-over-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -324,38 +356,6 @@
           "date": "2026-05-14T17:42:55.000Z",
           "source": "The Block",
           "summary": "That is \"unlikely to change unless we see meaningful improvements in network activity, DeFi and real world applications,\" the analysts said."
-        },
-        {
-          "title": "Crypto exchange Bullish reports $604.9 million net loss in Q1, with growth on adjusted basis",
-          "url": "https://www.theblock.co/post/401336/crypto-exchange-bullish-reports-604-9-million-net-loss-in-q1-with-growth-on-adjusted-basis?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-14T17:13:46.000Z",
-          "source": "The Block",
-          "summary": "“We're pleased with our Q1 results and we're even more excited about what comes next,” CEO Tom Farley said."
-        },
-        {
-          "title": "Cerebras shares skyrocket 100% after $5.5B IPO amid AI stock frenzy",
-          "url": "https://www.coindesk.com/markets/2026/05/14/cerebras-shares-skyrocket-100-after-usd5-5b-ipo-amid-ai-stock-frenzy",
-          "domain": "coindesk.com",
-          "date": "2026-05-14T17:12:17.000Z",
-          "source": "CoinDesk",
-          "summary": "The AI infrastructure company began trading Thursday as investors continue pouring capital into artificial intelligence stocks."
-        },
-        {
-          "title": "Clarity Act clears U.S. Senate committee, on its way to a final test in Congress",
-          "url": "https://www.coindesk.com/policy/2026/05/14/clarity-act-clears-u-s-senate-committee-on-its-way-to-a-final-test-in-congress",
-          "domain": "coindesk.com",
-          "date": "2026-05-14T17:08:07.000Z",
-          "source": "CoinDesk",
-          "summary": "After a bipartisan approval in the Senate Banking Committee, the crypto market structure bill now advances to a final overhaul aimed at Senate and House passage."
-        },
-        {
-          "title": "Senate Banking Committee advances landmark crypto market structure bill, garners some Democratic support",
-          "url": "https://www.theblock.co/post/401341/senate-banking-committee-advances-landmark-crypto-market-structure-bill-garners-some-democratic-support?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-14T17:02:22.000Z",
-          "source": "The Block",
-          "summary": "Landmark legislation to regulate the digital asset industry at large squeezed past a committee following months of strained deliberations."
         }
       ]
     }
