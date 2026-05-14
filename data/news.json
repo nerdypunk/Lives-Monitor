@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-14T01:47:50.742Z",
+  "updatedAt": "2026-05-14T05:52:09.758Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -135,7 +135,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-13T16:18:25.000Z",
           "source": "Lifespan.io",
-          "summary": "This month, a group of researchers published an annual report on the clinical trials that are testing drugs for Alzheimer’s disease. Overall, they reported an increase in the number of […]"
+          "summary": "This month, a group of researchers published an annual report on the clinical trials that are testing drugs for Alzheimer’s disease. Overall, they reported an increase in the number of trials, with 158 drugs investigated across 192 trials [1]. […]"
         },
         {
           "title": "Sironax receives FDA fast track status for neuroprotective SARM1 inhibitor",
@@ -188,84 +188,84 @@
       ],
       "articles": [
         {
-          "title": "Fungus-powered farming delivers higher yields and better-tasting crops, says study",
-          "url": "https://phys.org/news/2026-05-fungus-powered-farming-higher-yields.html",
-          "domain": "phys.org",
-          "date": "2026-05-13T20:04:41.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Can we have higher yields and better taste? Using a natural extract from the fungus Pseudozyma aphidis, this method improves the firmness and natural sugar content of crops like tomatoes and melons while significantly boosting production. This discovery offers a practical path to meeting global food demands without compromising the health of the planet or produce quality. Furthermore, because the approach uses stable microbial secretions instead of live cultures, it ensures consistent and reliable performance across various agricultural environments and climates."
-        },
-        {
-          "title": "AI tool boosts imperfect antibiotic candidates, with 85% working in lab tests",
-          "url": "https://phys.org/news/2026-05-ai-tool-boosts-imperfect-antibiotic.html",
-          "domain": "phys.org",
-          "date": "2026-05-13T17:23:45.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Researchers at the University of Pennsylvania have developed ApexGO, a novel, AI-powered method for turning promising but imperfect antibiotic candidates into more potent ones. Unlike many existing AI approaches to antibiotic discovery, which screen large databases for molecules that might work, ApexGO starts with a small number of imperfect candidates and improves them step by step, using a predictive algorithm to evaluate each modification and guide the next."
-        },
-        {
-          "title": "Microalgae can photosynthetically produce and secrete biofuel precursors",
-          "url": "https://phys.org/news/2026-05-microalgae-photosynthetically-secrete-biofuel-precursors.html",
-          "domain": "phys.org",
-          "date": "2026-05-13T17:20:59.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Microalgae have attracted growing attention as a promising platform for sustainable biofuel production because they can use photosynthesis to convert carbon dioxide into energy-rich compounds without competing with food crops. However, practical use of algal biofuels has long faced major obstacles."
-        },
-        {
-          "title": "A marine-inspired sunscreen ingredient made by E. coli",
-          "url": "https://phys.org/news/2026-05-marine-sunscreen-ingredient-coli.html",
-          "domain": "phys.org",
-          "date": "2026-05-13T15:00:27.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "How do fish survive relentless sunlight in the open waters without getting burned? They make their own natural sunscreen—and now, humans could be one step closer to using it too."
-        },
-        {
-          "title": "AI generates first complete models of proteins in motion",
-          "url": "https://phys.org/news/2026-05-ai-generates-proteins-motion.html",
-          "domain": "phys.org",
-          "date": "2026-05-13T14:58:39.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Many drug and antibody discovery pathways focus on intricately folded cell membrane proteins. When molecules of a drug candidate bind to these proteins, like a key going into a lock, they trigger chemical cascades that alter cellular behavior. Understanding how proteins fold and move is therefore essential for developing drugs that interact well with their targets."
-        },
-        {
-          "title": "VibeProteinBench: An Evaluation Benchmark for Language-interfaced Vibe Protein Design",
-          "url": "https://arxiv.org/abs/2605.10978",
+          "title": "Information as Maximum-Caliber Deviation: A bridge between Integrated Information Theory and the Free Energy Principle",
+          "url": "https://arxiv.org/abs/2605.12536",
           "domain": "arxiv.org",
-          "date": "2026-05-13T04:00:00.000Z",
+          "date": "2026-05-14T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2605.10978v1 Announce Type: new Abstract: Protein design aims to compose amino-acid sequences that fold into stable three-dimensional structures while satisfying targeted functional properties. The field is increasingly shifting toward vibe protein design, where a single model is expected to generate novel sequences, engineer existing proteins, and reason about protein characteristics through flexible natural-language constraints. Large language models (LLMs) have emerged as a leading paradigm in this space. However, existing evaluation benchmarks often limit their scope to a partial aspect of protein design, while others restrict design objectives to structured input schemas, lacking an integrated framework that evaluates the broad spectrum of protein design competence under open-ended intents. To this end, we present Vibe Protein design Benchmark (VibeProteinBench), a language-interfaced benchmark that probes generalist capabilities through three complementary stages mirroring a computational protein design workflow: recognition, engineering, and generation. Each stage is grounded in expert-curated mechanistic rationales and multi-faceted in silico validation, to computationally verify whether model outputs are biologically plausible. Evaluations across diverse general-purpose and domain-specialized LLMs reveal that no model achieves strong performance across all three stages, suggesting that generalist protein design remains a substantial open challenge for current LLMs."
+          "summary": "arXiv:2605.12536v1 Announce Type: new Abstract: The Free Energy Principle (FEP) is a leading framework for mathematically modeling self-organization and learning, while Integrated Information Theory (IIT) is a computational ontology of consciousness oriented around irreducible cause and effect. While conceptual unifications have been proposed and appear to be supported by empirical findings, the absence of a rigorous mathematical mapping places upper bounds on their precision and testability. This work proposes that information can be defined as the deviation $\\psi$ of realized dynamics from a constrained maximum-caliber (MaxCal) path ensemble over a finite time horizon. Under this definition, each of the cause/effect repertoires central to IIT 3.0 emerge directly from MaxCal variational principles, allowing IIT's phenomenological calculus to be re-derived from constrained entropy-maximization (CMEP). This framework supplies a theoretical bridge to active inference, which is mathematically dual to CMEP under Langevin dynamics, and offers a principled route for extending IIT to new dynamical regimes. When the approach is applied under the Central Limit Theorem (CLT) for Markov chains and via large deviations theory (LDT) to Ising models, information $\\psi$ is shown to be equivalent to prediction error under accompanying predictive coding models. This may hold relevance to the ``hill-shaped trajectory'' of $\\Phi$ observed in neuronal cultures adapting to sensory inputs. Together, these results provide a physically and mathematically grounded rationale for studying the convergence of FEP, IIT, and thermodynamic frameworks of cognition such as recent work grounding consciousness in violations of the Fluctuation-Dissipation Theorem (FDT)."
         },
         {
-          "title": "Statin Recommendations among US Adults with the 2026 Dyslipidemia Guidelines",
-          "url": "https://arxiv.org/abs/2605.10979",
+          "title": "Why the Unfinished Keeps Returning: Canxianization and the Dynamics of Conscious Priority",
+          "url": "https://arxiv.org/abs/2605.12543",
           "domain": "arxiv.org",
-          "date": "2026-05-13T04:00:00.000Z",
+          "date": "2026-05-14T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2605.10979v1 Announce Type: new Abstract: Importance: The 2026 multisociety dyslipidemia guideline recommended the PREVENT equations in place of the PCE equations, introduced 30-year risk assessment as a new treatment pathway, and lowered risk-based treatment thresholds. The net population impact of these concurrent changes on statin recommendations is unknown. Objective: To estimate changes in statin recommendations under 2026 PREVENT-based dyslipidemia guidelines compared with 2018 PCE-based guidelines. Design and Participants: Cross-sectional analysis of pooled data from NHANES, spanning 2011-2023 and comprising 24,199 participants aged 30-79 years. Main Outcomes and Measures: Number and proportion of US adults receiving or recommended for statin therapy. Results: At the class 1 threshold, the number of US adults receiving or recommended for statin therapy decreased by an estimated 3.0 million (95% CI, 2.3 million to 3.6 million), with larger reductions among Black adults (-4.2 percentage points [pp]), men (-4.0pp), and adults aged 50-69 years (-5.6pp). At the class 2 threshold--which additionally recommends statins for adults aged 30-59 years based on 30-year risk--the number of adults recommended increased by an estimated 20.8 million (95% CI, 19.6 million to 22.0 million), or +11.6pp. The increase was largest among adults aged 50-59 years (+19.7pp) and 40-49 years (+14.8pp). Conclusions: The net population impact of the 2026 dyslipidemia guidelines depends critically on which recommendation class is applied. At the class 1 threshold, statin recommendations decreased modestly; at the class 2 threshold, inclusion of 30-year risk assessment substantially expanded recommendations, particularly among younger adults. These divergent effects underscore the importance of the 30-year risk criterion as a major driver of new eligibility and the need for outcomes and equity monitoring during guideline implementation."
+          "summary": "arXiv:2605.12543v1 Announce Type: new Abstract: Some conscious contents disappear after access; others return repeatedly, long after their triggering conditions have ceased. We propose Canxianization as the process by which a perturbation becomes closure-resistant self-relevant unfinishedness and thereby acquires recurrent conscious priority. The theory distinguishes this phenomenon from emotional arousal, memory strength, the Zeigarnik effect, curiosity, prediction error, and intrusive thought. A perturbation becomes canxianized when it is attributed to the self-world boundary, value-marked, blocked from causal or action closure, and metacognitively coupled to the self-model. We distinguish latent canxian strength from observed conscious recurrence, and introduce a Recurrent Priority Index and a Canxian Update Index to separate productive from pathological recurrence. Cold Canxianization, recurrence driven by structural incompleteness rather than affective arousal, is identified as a critical discriminant. Reset Resistance and Stake Transfer tests are proposed for artificial systems. Canxianization is not memory persistence; it is failed self-world repair. The unfinished does not merely remain. When it concerns the self and resists closure, it returns."
         },
         {
-          "title": "Internally triggered retrospective learning in neural networks",
-          "url": "https://arxiv.org/abs/2605.10994",
+          "title": "Human face perception reflects inverse-generative and naturalistic discriminative objectives",
+          "url": "https://arxiv.org/abs/2605.12619",
           "domain": "arxiv.org",
-          "date": "2026-05-13T04:00:00.000Z",
+          "date": "2026-05-14T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2605.10994v1 Announce Type: new Abstract: Learning in artificial neural networks usually relies on continuous, externally driven weight updates, in which parameters are modified at every step in response to incoming data, error signals or reward feedback. In this setting, routine and informative inputs contribute similarly to parameter adjustment. We introduce a learning approach in which parameter updates are governed by internally generated events arising from the network own representational dynamics. During ongoing activity, synaptic interactions are accumulated as latent traces encoding recent coactivation patterns, without immediately modifying the underlying parameters. In parallel, an internal predictive process estimates the evolving latent state, while a scalar measure of discrepancy between predicted and observed states is continuously computed. When discrepancy exceeds an adaptive threshold derived from recent error statistics, a learning event is triggered, inducing a retrospective update selectively integrating past activity into the current configuration. We performed simulations using a minimal neural network exposed to structured sequential inputs with transient perturbations. We found that learning occurs through sparse, temporally localized events associated with increases in prediction error, leading to stepwise changes in synaptic efficacy and discrete transitions in latent state organization. By selectively reorganizing parameters in response to internally detected discrepancies, our episodic updating may reduce unnecessary parameter drift while preserving informative patterns. Potential applications include systems requiring selective adaptation to rare or informative inputs such as physiological, industrial or environmental monitoring, edge computing under limited energy budgets, autonomous systems operating in dynamic conditions and sequential computational data processing."
+          "summary": "arXiv:2605.12619v1 Announce Type: new Abstract: The perceptual representations supporting our ability to recognize faces remain a computational mystery. Deep neural networks offer mechanistic hypotheses for human face perception, but theoretically distinct models often make indistinguishable representational predictions for randomly sampled faces. To expose diagnostic differences among these hypotheses, we compared six neural network models sharing an architecture but trained on distinct tasks, using face pairs optimized to elicit contrasting model predictions (\"controversial\" pairs) alongside randomly sampled pairs. We tested model predictions against face-dissimilarity judgments from 864 human participants across stimulus sets differing in realism and pose variation. Models prioritizing high-level, invariant structures (trained via inverse rendering, face identification, or object classification) most robustly matched human judgments. Furthermore, models trained on natural images typically outperformed synthetic-trained counterparts. Together, these findings suggest that human face perception is shaped by mechanisms that infer latent causes of facial appearance, discount nuisance variation, and are tuned by natural image statistics."
         },
         {
-          "title": "SCOPE: Siamese Contrastive Operon Pair Embeddings for Functional Sequence Representation and Classification",
-          "url": "https://arxiv.org/abs/2605.11022",
+          "title": "Predictive Coding Light+: learning to predict visual sequences with spike timing-dependent plasticity and synaptic delays",
+          "url": "https://arxiv.org/abs/2605.12732",
           "domain": "arxiv.org",
-          "date": "2026-05-13T04:00:00.000Z",
+          "date": "2026-05-14T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2605.11022v1 Announce Type: new Abstract: Identifying operons is a fundamental step in understanding prokaryotic gene regulation, as classifying genes into operons supports the reconstruction of regulatory networks, functional annotation of unannotated genes, and drug candidate development. Experimental approaches such as RT-PCR and RNA-seq provide precise evidence of operon structure, but are laborious and largely limited to well-studied model organisms, making scalable computational methods essential for genome-wide operon identification. Prior computational approaches have employed traditional classifiers such as logistic regression and decision trees, motivating our use of these as physicochemical baselines. The DGEB benchmark evaluates operonic pair classification by embedding each sequence independently with a pre-trained protein language model and computing pairwise cosine similarity. In contrast, our Siamese MLP learns a classifier over the fused embedding space, which is theoretically better motivated for binary classification, as cosine similarity can yield meaningless scores depending on the regularization of the embedding model. While protein language model embeddings substantially outperform physicochemical features in ROC-AUC, a learned Siamese MLP head does not significantly improve over unsupervised cosine similarity in Average Precision, suggesting that the geometry of the embedding space already captures the functional relationships needed for this task. Nonetheless, our Siamese MLP achieves a ROC-AUC of 0.71, competitive with state-of-the-art models on the DGEB leaderboard. These findings indicate that protein language model embeddings are a viable, scalable foundation for operonic pair classification across diverse microbial genomes, with implications for automated genome annotation, regulatory network reconstruction, and characterization of organisms lacking experimental operon annotations."
+          "summary": "arXiv:2605.12732v1 Announce Type: new Abstract: The ability to predict the future is of great value for biological and artificial cognitive systems alike. However, successfully predicting the future typically requires maintaining a memory of the recent past. It is currently unclear how biological or artificial spiking neural networks can learn to maintain past sensory information to help predict the future. Here we propose Predictive Coding Light+ (PCL+), a spiking neural network architecture for unsupervised sequence processing that learns recurrent excitatory connections with delays to enable short-term retention of information. We show that the PCL+ network reproduces classic findings on sequence learning in visual cortex. Furthermore, it learns to ``fill in'' missing input in a challenging gesture recognition task. Overall, our work shows how spiking neural networks can learn recurrent excitatory connections with delays to maintain a record of the recent past and successfully predict the future."
         },
         {
-          "title": "Morpho-Physiological and Genetic Diversity of Crataegus Taxa (Rosaceae) in Selected Locations of Iraqi Kurdistan-Region",
-          "url": "https://arxiv.org/abs/2605.11028",
+          "title": "The interplay of network structure and correlated infectious traits in epidemic models",
+          "url": "https://arxiv.org/abs/2605.12773",
           "domain": "arxiv.org",
-          "date": "2026-05-13T04:00:00.000Z",
+          "date": "2026-05-14T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2605.11028v1 Announce Type: new Abstract: One of the great phytogeography zones of semi-arid lands in the world is the Kurdistan region of Iraq which hosts many important fruit species due to its geographical location and ecology. Mountain Hawthorn (Crataegus spp.) is a vital wild edible deciduous fruit tree of the genus Crataegus for the region, which is highly beneficial for ornamental, economical, industrial and medicinal uses. In the present study, morphological, phytochemical and molecular marker systems were applied on sixty-one Hawthorn accessions from different locations in the Iraqi Kurdistan region during April 2022 to September 2023. Phenotypic markers have proven to be extremely useful in studies of genetic diversity in Hawthorn genotypes, the results of the present morphological study showed that there are seven taxa (five species, two hybrids) were observed including, Crataegus azarolus, Crataegus meyrei, Crataegus monogyna, Crataegus orientalists, Crataegus pentagyna, Crataegus azarolus x Crataegus meyrei and Crataegus azarolus x Crataegus pentagyna. There was significant variation among different ecotypes in terms of plant type, reproductive stage, and fruit morphology and production uses. Fruit Physio-morphological data revealed a high level of significant variability (P 0.01) among accessions based on the analysis of variance. The most important characteristics for explaining fruit morphological variability `were 11 varbales including fruit weight (FW), fruit length (FL), fruit width (FW), seed length (SL), seed width (SW), number of seeds per fruits (NSF), volume solution (VS), fruit fresh weight (WOF), seed weight (WS), Potentional of hydrogen (pH) and mositure content (MC). They all are significantly different for all the traits measured for the studied accessions."
+          "summary": "arXiv:2605.12773v1 Announce Type: new Abstract: Individual contributions to the spread of an epidemic vary widely due to an individual's location in a social network and their intrinsic ability to spread or contract diseases. While the effect of heterogeneous population structure and infection rates is well-understood, less studied is the impact of population-level covariance between susceptibility and transmissibility, despite empirical evidence showing that both susceptibility and transmission vary across individuals. We introduce a mathematical modeling framework incorporating population subgroups, each with its own joint distribution of susceptibility and transmissibility. We apply this framework to the susceptible-infected-recovered (SIR) model to examine the effect of community structure and degree heterogeneity. We derive analytical expressions for the basic reproduction number, which, when reduced, corroborates prior results and validate these results with numerical simulations. We pair these estimates with simulations exploring first, the temporal dynamics of this model with the homogeneous SIR model, and second, implications for effective social intervention. This analysis provides a foundation for future studies exploring the interplay between structural and dynamical heterogeneity in infectious disease transmission."
+        },
+        {
+          "title": "SpikeProphecy: A Large-Scale Benchmark for Autoregressive Neural Population Forecasting",
+          "url": "https://arxiv.org/abs/2605.12992",
+          "domain": "arxiv.org",
+          "date": "2026-05-14T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2605.12992v1 Announce Type: new Abstract: Neural population models, which predict the joint firing of many simultaneously recorded neurons forward in time, are typically evaluated by a single aggregate Pearson correlation $r$ between predicted and actual spike counts, a number that masks critical structure. We argue that how we evaluate spike forecasting matters as much as what we build, and introduce SpikeProphecy, the first large-scale benchmark for causal, autoregressive spike-count forecasting on real electrophysiology recordings. Our core contribution is a population metric decomposition that separates aggregate performance into temporal fidelity, spatial pattern accuracy, and magnitude-invariant alignment. The decomposition surfaces aspects of the underlying data that an aggregate scalar collapses together. We apply the protocol to 105 Neuropixels sessions (Steinmetz 2019 + IBL Repeated Site; ~89,800 neurons) with seven architecture baselines spanning four structural families: four SSMs (three diagonal and one non-diagonal), a Transformer, an LSTM, and a spiking network. The decomposition surfaces a brain-region predictability ranking that reproduces across all seven baselines and survives ANCOVA correction for firing-statistics constraints (region $\\Delta R^2 = 0.018$ above the firing-statistics covariates). It also exposes a sub-Poisson evaluation floor where rigorous metrics combine with genuine biophysical constraints on regular spike trains, and yields a negative result on KL-on-output-rates distillation for ANN-to-SNN transfer in this Poisson count domain."
+        },
+        {
+          "title": "Implicit Behavioral Decoding from Next-Step Spike Forecasts at Population Scale",
+          "url": "https://arxiv.org/abs/2605.12999",
+          "domain": "arxiv.org",
+          "date": "2026-05-14T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2605.12999v1 Announce Type: new Abstract: Closed-loop brain-computer interfaces often require both a forecast of upcoming neural population activity and a readout of the animal's behavioral state. A single Mamba forecaster, trained only on next-step spike counts at Neuropixels scale, can deliver both in one forward pass. A lightweight per-session linear head reading the model's predicted rates decodes behavior better than the same linear classifier reading the raw spike counts, under matched temporal context. We test on the Steinmetz visual-discrimination benchmark, which spans 39 sessions, roughly 27,000 neurons, and 1,994 held-out trials. Across three training seeds, Mamba's predicted rates decode mouse choice at 75.7$\\pm$0.2% trial vote, roughly 2.3 times chance level, and stimulus side at 66.1$\\pm$0.6%, about twice chance. Compared to a matched 500 ms-context linear decoder on the raw spike counts, Mamba wins at trial vote by 4-6 pp on response and 4-6 pp on stimulus side. A session-start calibration block of about 100-150 trials brings the readout within 1-2 pp of asymptote, and the full pipeline fits inside the 50 ms bin budget on workstation-class GPUs typical of tethered chronic Neuropixels recordings."
+        },
+        {
+          "title": "Conditioning as a route to stereotyped behavior in growing populations",
+          "url": "https://arxiv.org/abs/2605.13009",
+          "domain": "arxiv.org",
+          "date": "2026-05-14T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2605.13009v1 Announce Type: new Abstract: Biological systems perform complex multi-step processes in a reproducible way despite underlying stochasticity. The standard explanation is micromanagement by molecular machinery that recognizes and corrects specific errors. Here we study conditioning, a qualitatively different strategy in which attempts failing a coarse criterion are destroyed and do not leave a physical record. The surviving, i.e., conditioned, ensemble is narrower and therefore more ordered. We model conditioning through stochastic resets in a ''socks-before-shoes'' model of a growing population, where $n$ actions must be completed in any order to replicate and any replication attempt not finished by a threshold time is discarded. We find that resets impose hierarchical temporal ordering of the $n$ actions without microscopic control over which action happens when. When disorder carries a sufficient time penalty, this ordering is free: the fastest-growing population is automatically the most ordered, with no direct selection for order required. Save points, at which verified progress is preserved across resets, allow conditioning to scale to complex multi-step processes. Conditioning provides a minimal route to reliable behavior, requiring only a clock rather than molecular machinery that recognizes specific errors. For the right class of processes, it pays for itself."
+        },
+        {
+          "title": "3D mechano-geometric multicellular model of apical stem cell-driven plant morphogenesis",
+          "url": "https://arxiv.org/abs/2605.13070",
+          "domain": "arxiv.org",
+          "date": "2026-05-14T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2605.13070v1 Announce Type: new Abstract: The orientation of cell division is a major determinant of three-dimensional plant morphogenesis. Whether and how a simple division orientation rule explains the establishment of symmetric body plans is a fundamental question. Testing such hypotheses is facilitated by a modeling framework that combines realistic three-dimensional cell mechanics, irreversible cell-wall growth, and a deformable tissue geometry. We recently introduced such a framework, a 3D mechano-geometric multicellular model of apical stem cell-driven morphogenesis. Here we document how the model is built from physiological and computational perspectives. We describe the triangulated thin-shell representation of cells, the treatment of turgor pressure, cell-wall elasticity and strain-driven wall growth, the cell-division algorithm together with its two pluggable division-rule implementations, and the remeshing operations that keep the triangulation well-conditioned as cells grow, divide, and deform. The aim of this paper is to make the present model accessible and customizable to experimental plant biologists."
+        },
+        {
+          "title": "Predicting Endocrine Disruptors: A Deep Learning QSAR Model for Estrogen Receptor Activity",
+          "url": "https://arxiv.org/abs/2605.13364",
+          "domain": "arxiv.org",
+          "date": "2026-05-14T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2605.13364v1 Announce Type: new Abstract: Endocrine-disrupting chemicals (EDCs) threaten human health, ecosystems, and biodiversity by interfering with hormonal signaling pathways conserved across vertebrates. Traditional in vivo assays are costly and time-consuming, limiting their capacity to screen the growing number of chemicals. To address this, we developed a deep learning-based QSAR model to predict estrogen receptor (ER) binding molecules. Using a curated dataset of 224 compounds and 2,944 molecular descriptors and fingerprints, a deep neural network (DNN) incorporating dropout and batch normalization was trained and validated. The model achieved training and test accuracies of 96.65% and 91.30%, respectively, with an ROC-AUC of 0.81, a precision of 0.82, and a recall of 0.88 for the active class. Molecular docking against estrogen receptor (PDB ID: 5TOA) confirmed that several predicted compounds exhibited binding comparable to Estradiol, sharing key interactions. This model enables rapid screening of potential EDCs, supporting efficient chemical risk assessment and contributing to biodiversity conservation by identifying compounds that may disrupt reproduction and population stability in humans and wildlife."
         }
       ]
     },
@@ -277,6 +277,70 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "Claude helps recover $395,000 in bitcoin trapped on a computer for years",
+          "url": "https://www.coindesk.com/tech/2026/05/14/claude-helps-recover-usd395-000-in-bitcoin-trapped-on-a-computer-for-years",
+          "domain": "coindesk.com",
+          "date": "2026-05-14T05:34:15.000Z",
+          "source": "CoinDesk",
+          "summary": "The owner had been trying for eight weeks to brute-force the password on their current Blockchain.com wallet, testing roughly 3.5 trillion combinations using the btcrecover service on a rented computing chip."
+        },
+        {
+          "title": "BitGo doubles revenue to $3.8 billion but net loss widens in Q1",
+          "url": "https://www.theblock.co/post/401205/bitgo-doubles-q1-revenue?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-14T05:03:11.000Z",
+          "source": "The Block",
+          "summary": "The NYSE-listed crypto infrastructure firm generated $3.8 billion in revenue in the first quarter, up 112.6% year-on-year."
+        },
+        {
+          "title": "TRUMP token down 5% as namesake handset begins shipping next week",
+          "url": "https://www.coindesk.com/markets/2026/05/14/trump-token-down-5-as-namesake-handset-begins-shipping-next-week",
+          "domain": "coindesk.com",
+          "date": "2026-05-14T04:52:40.000Z",
+          "source": "CoinDesk",
+          "summary": "Trump Mobile's T1 handset appears to be a re-skinned HTC U24 with assembly done in the U.S."
+        },
+        {
+          "title": "Solana drops 5%, bitcoin below $80,000 as Xi warns Trump on Taiwan conflict",
+          "url": "https://www.coindesk.com/markets/2026/05/14/solana-drops-5-bitcoin-below-usd80-000-as-xi-warns-trump-on-taiwan-conflict",
+          "domain": "coindesk.com",
+          "date": "2026-05-14T04:43:44.000Z",
+          "source": "CoinDesk",
+          "summary": "Chinese President Xi Jinping warned Donald Trump of potential conflict over Taiwan during the first U.S. presidential visit to China in nearly a decade."
+        },
+        {
+          "title": "US banks expect ‘slow, then fast’ shift to digitized finance: Moody's",
+          "url": "https://cointelegraph.com/news/moodys-us-banks-tokenized-finance-transition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-14T04:42:45.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Traditional financial institutions are actively preparing for a surge in adoption to avoid being caught flat-footed by a sudden shift in market demand, according to Moody’s."
+        },
+        {
+          "title": "AI chatbot Claude helps man recover 5 Bitcoin after finding old seed phrase",
+          "url": "https://cointelegraph.com/news/ai-chatbot-claude-helps-man-recover-5-bitcoin-after-finding-old-seed-phrase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-14T03:47:33.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The crypto investor made Claude search through two Macs, two external hard drives, an Apple Notes export, iCloud Mail, Gmail inbox and X messages to help retrieve the Bitcoin."
+        },
+        {
+          "title": "Only 4% of Americans weigh crypto when placing their votes: Poll",
+          "url": "https://cointelegraph.com/news/4-percent-americans-weigh-crypto-policy-when-voting-poll?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-14T03:38:10.000Z",
+          "source": "CoinTelegraph",
+          "summary": "US adults are largely wary of crypto and consider it the least important policy issue when picking who to vote for, according to a poll by POLITICO."
+        },
+        {
+          "title": "Solana treasury firm DeFi Development Corp reports 108% yearly growth in SOL per share",
+          "url": "https://www.theblock.co/post/401200/defi-development-corp-growth-sol-per-share?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-14T02:53:15.000Z",
+          "source": "The Block",
+          "summary": "DeFi Development Corp attributed the growth to 'unconventional' strategies that aligned the company better with the Solana ecosystem."
+        },
         {
           "title": "Here’s what happened in crypto today",
           "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -292,70 +356,6 @@
           "date": "2026-05-13T21:56:58.000Z",
           "source": "CoinTelegraph",
           "summary": "Armstrong said the bill is \"closer than ever\" to advancing in the US Congress after months of negotiations between the crypto industry and banks."
-        },
-        {
-          "title": "Senate confirms Kevin Warsh to lead Federal Reserve",
-          "url": "https://cointelegraph.com/news/kevin-warsh-fed-governor-confirmation-us-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-13T21:33:00.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The US Senate voted largely along party lines to confirm Kevin Warsh to lead the Fed’s Board of Governors, despite many Democrats’ concerns about the central bank’s independence."
-        },
-        {
-          "title": "Fidelity International’s first tokenized fund receives top-tier AAA-mf rating from Moody’s",
-          "url": "https://www.theblock.co/post/401196/fidelity-internationals-first-tokenized-fund-receives-top-tier-aaa-mf-rating-from-moodys?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-13T21:05:36.000Z",
-          "source": "The Block",
-          "summary": "FILQ, modeled off Fidelity's existing low-volatility net asset value (LVNAV) fund, will provide 24/7 redemptions and settlements."
-        },
-        {
-          "title": "Whale shorts $70M in crypto and tech: Should Bitcoin traders worry?",
-          "url": "https://cointelegraph.com/markets/whale-shorts-70m-in-crypto-tech-should-bitcoin-traders-worry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-13T19:44:43.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Despite short-term bearish bets from a successful Hyperliquid whale, a growing US Fed balance sheet and rising inflation support Bitcoin in the long term."
-        },
-        {
-          "title": "Polymarket's monthly volume declines for first time since August",
-          "url": "https://cointelegraph.com/news/polymarket-volume-declines-first-time-august-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-13T19:31:00.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Prediction markets trading volume had been tracking monthly gains as the sector gains popularity among short-term traders, but competition is also increasing."
-        },
-        {
-          "title": "Ethereum app builder Consensys has delayed its potential IPO until fall",
-          "url": "https://www.coindesk.com/business/2026/05/13/ethereum-app-builder-consensys-has-delayed-its-potential-ipo-until-fall",
-          "domain": "coindesk.com",
-          "date": "2026-05-13T19:01:56.000Z",
-          "source": "CoinDesk",
-          "summary": "The MetaMask wallet builder had reportedly engaged bankers from JPMorgan and Goldman Sachs to lead the process."
-        },
-        {
-          "title": "Senate votes to confirm Trump-pick Kevin Warsh to succeed Jerome Powell as Fed Chair",
-          "url": "https://www.theblock.co/post/400974/senate-confirm-trump-federal-reserve-chair-kevin-warsh?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-13T18:56:16.000Z",
-          "source": "The Block",
-          "summary": "On Wednesday, the Senate voted to confirm President Donald Trump's pick for Federal Reserve Chair Kevin Warsh."
-        },
-        {
-          "title": "Hyperliquid dominates weekly blockchain fee revenue as vertical chains gain ground",
-          "url": "https://www.theblock.co/post/400803/hyperliquid-dominates-weekly-blockchain-fee-revenue-vertical-chains-gain-ground?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-13T18:38:02.000Z",
-          "source": "The Block",
-          "summary": "Looking at last week's fee distribution across major chains, the rankings tell a different story than raw activity metrics might suggest."
-        },
-        {
-          "title": "Bitcoin traders expect ‘fast move’ to $90K following CLARITY Act vote",
-          "url": "https://cointelegraph.com/markets/bitcoin-traders-expect-fast-move-90k-following-clarity-act-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-13T18:30:00.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Bitcoin traders eye a possible move higher as short-term selling pressure fades and the CLARITY Act vote boosts crypto market focus."
         }
       ]
     }
