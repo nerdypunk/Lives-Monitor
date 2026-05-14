@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-14T17:28:00.402Z",
+  "updatedAt": "2026-05-14T19:21:46.635Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -135,7 +135,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-14T15:58:28.000Z",
           "source": "Lifespan.io",
-          "summary": "Most cardiovascular trials focus on lowering LDL cholesterol or reducing inflammation to slow disease progression. UDP-003 targets the root cause: toxic 7-ketocholesterol (7KC) inside macrophages […]"
+          "summary": "Most cardiovascular trials focus on lowering LDL cholesterol or reducing inflammation to slow disease progression. UDP-003 targets the root cause: toxic 7-ketocholesterol (7KC) inside macrophages and soft plaques. It is designed to convert bloated […]"
         },
         {
           "title": "Cyclarity Unveils Oxidized Cholesterol Excretion Data",
@@ -143,7 +143,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-14T14:31:28.000Z",
           "source": "Lifespan.io",
-          "summary": "Cyclarity Therapeutics, Inc., a clinical stage biopharmaceutical company engineering cyclodextrin molecules into simple, scalable, and affordable therapies that bind and remove toxic targets to address root […]"
+          "summary": "Cyclarity Therapeutics, Inc., a clinical stage biopharmaceutical company engineering cyclodextrin molecules into simple, scalable, and affordable therapies that bind and remove toxic targets to address root causes […]"
         },
         {
           "title": "CereVance completes Phase 3 Parkinson’s trial enrollment, secures $20M",
@@ -187,6 +187,22 @@
         "https://phys.org/rss-feed/biology-news/biotechnology/"
       ],
       "articles": [
+        {
+          "title": "A fresh approach to peppermint: 250 new variants could boost flavor and fight disease",
+          "url": "https://phys.org/news/2026-05-fresh-approach-peppermint-variants-boost.html",
+          "domain": "phys.org",
+          "date": "2026-05-14T19:17:26.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "The genomics of peppermint are not as fresh as their flavor but scientists from the University of California, Davis, have found a way to breathe new genetic variation into the species. The findings, published in the Proceedings of the National Academy of Sciences, could help the mint industry develop new varieties of peppermint and provide a roadmap for improving clonal crops more generally."
+        },
+        {
+          "title": "A new method could help Washington shellfish farmers control a pesky shrimp",
+          "url": "https://phys.org/news/2026-05-method-washington-shellfish-farmers-pesky.html",
+          "domain": "phys.org",
+          "date": "2026-05-14T18:11:28.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Burrowing shrimp are small marine excavators native to Washington. They make their homes deep in the sediment by digging, turning the ground to Swiss cheese. This presents a problem for shellfish farmers, whose clams and oysters are often smothered under layers of displaced sediment."
+        },
         {
           "title": "Information as Maximum-Caliber Deviation: A bridge between Integrated Information Theory and the Free Energy Principle",
           "url": "https://arxiv.org/abs/2605.12536",
@@ -250,22 +266,6 @@
           "date": "2026-05-14T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2605.13009v1 Announce Type: new Abstract: Biological systems perform complex multi-step processes in a reproducible way despite underlying stochasticity. The standard explanation is micromanagement by molecular machinery that recognizes and corrects specific errors. Here we study conditioning, a qualitatively different strategy in which attempts failing a coarse criterion are destroyed and do not leave a physical record. The surviving, i.e., conditioned, ensemble is narrower and therefore more ordered. We model conditioning through stochastic resets in a ''socks-before-shoes'' model of a growing population, where $n$ actions must be completed in any order to replicate and any replication attempt not finished by a threshold time is discarded. We find that resets impose hierarchical temporal ordering of the $n$ actions without microscopic control over which action happens when. When disorder carries a sufficient time penalty, this ordering is free: the fastest-growing population is automatically the most ordered, with no direct selection for order required. Save points, at which verified progress is preserved across resets, allow conditioning to scale to complex multi-step processes. Conditioning provides a minimal route to reliable behavior, requiring only a clock rather than molecular machinery that recognizes specific errors. For the right class of processes, it pays for itself."
-        },
-        {
-          "title": "3D mechano-geometric multicellular model of apical stem cell-driven plant morphogenesis",
-          "url": "https://arxiv.org/abs/2605.13070",
-          "domain": "arxiv.org",
-          "date": "2026-05-14T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2605.13070v1 Announce Type: new Abstract: The orientation of cell division is a major determinant of three-dimensional plant morphogenesis. Whether and how a simple division orientation rule explains the establishment of symmetric body plans is a fundamental question. Testing such hypotheses is facilitated by a modeling framework that combines realistic three-dimensional cell mechanics, irreversible cell-wall growth, and a deformable tissue geometry. We recently introduced such a framework, a 3D mechano-geometric multicellular model of apical stem cell-driven morphogenesis. Here we document how the model is built from physiological and computational perspectives. We describe the triangulated thin-shell representation of cells, the treatment of turgor pressure, cell-wall elasticity and strain-driven wall growth, the cell-division algorithm together with its two pluggable division-rule implementations, and the remeshing operations that keep the triangulation well-conditioned as cells grow, divide, and deform. The aim of this paper is to make the present model accessible and customizable to experimental plant biologists."
-        },
-        {
-          "title": "Predicting Endocrine Disruptors: A Deep Learning QSAR Model for Estrogen Receptor Activity",
-          "url": "https://arxiv.org/abs/2605.13364",
-          "domain": "arxiv.org",
-          "date": "2026-05-14T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2605.13364v1 Announce Type: new Abstract: Endocrine-disrupting chemicals (EDCs) threaten human health, ecosystems, and biodiversity by interfering with hormonal signaling pathways conserved across vertebrates. Traditional in vivo assays are costly and time-consuming, limiting their capacity to screen the growing number of chemicals. To address this, we developed a deep learning-based QSAR model to predict estrogen receptor (ER) binding molecules. Using a curated dataset of 224 compounds and 2,944 molecular descriptors and fingerprints, a deep neural network (DNN) incorporating dropout and batch normalization was trained and validated. The model achieved training and test accuracies of 96.65% and 91.30%, respectively, with an ROC-AUC of 0.81, a precision of 0.82, and a recall of 0.88 for the active class. Molecular docking against estrogen receptor (PDB ID: 5TOA) confirmed that several predicted compounds exhibited binding comparable to Estradiol, sharing key interactions. This model enables rapid screening of potential EDCs, supporting efficient chemical risk assessment and contributing to biodiversity conservation by identifying compounds that may disrupt reproduction and population stability in humans and wildlife."
         }
       ]
     },
@@ -277,6 +277,54 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "Crypto losses from North Korea hackers in 2025 rose 51% YoY: Report",
+          "url": "https://cointelegraph.com/news/losses-dprk-hacks-2025-rose-51-year-over-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-14T19:01:17.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The cybersecurity threats from North Korea are perpetrated by a myriad of small hacker groups deploying malware and executing social engineering scams."
+        },
+        {
+          "title": "Chainlink CCIP gains over $2.5 billion in TVL from protocols migrating from LayerZero, with Kraken Bitcoin the latest to join",
+          "url": "https://www.theblock.co/post/401368/chainlink-ccip-gains-over-2-5-billion-tvl-from-protocols-migrating-layerzero-kraken-bitcoin-latest?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-14T18:33:27.000Z",
+          "source": "The Block",
+          "summary": "Kraken Bitcoin is at least the fourth product to deprecate its LayerZero cross-chain tech following the Kelp DAO attack."
+        },
+        {
+          "title": "US Senate Banking Committee votes to advance CLARITY Act",
+          "url": "https://cointelegraph.com/news/us-senate-banking-committee-advance-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-14T18:18:01.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Lawmakers debated amendments on ethics and other issues for a digital asset market structure bill before advancing the legislation, setting up a Senate floor vote."
+        },
+        {
+          "title": "Strive shares jump on ‘daily dividend company’ strategy as firm goes debt free",
+          "url": "https://www.theblock.co/post/401332/strive-shares-7-daily-dividend-company-strategy-firm-debt-free?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-14T17:54:48.000Z",
+          "source": "The Block",
+          "summary": "Strive said SATA will become the first U.S.-listed security to pay cash dividends every business day as its BTC holdings climb."
+        },
+        {
+          "title": "Bitcoin hits $82,000, Coinbase leads crypto stock gains as Clarity Act advances",
+          "url": "https://www.coindesk.com/markets/2026/05/14/bitcoin-hits-usd82-000-coinbase-leads-crypto-stock-gains-as-clarity-act-advances",
+          "domain": "coindesk.com",
+          "date": "2026-05-14T17:51:00.000Z",
+          "source": "CoinDesk",
+          "summary": "The upbeat public debut of AI chipmaker Cerebras is also helping to lift both crypto and traditional markets."
+        },
+        {
+          "title": "JPMorgan says ether and altcoins could keep underperforming bitcoin without stronger activity",
+          "url": "https://www.theblock.co/post/401349/jpmorgan-bitcoin-ether-altcoins-crypto?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-14T17:42:55.000Z",
+          "source": "The Block",
+          "summary": "That is \"unlikely to change unless we see meaningful improvements in network activity, DeFi and real world applications,\" the analysts said."
+        },
         {
           "title": "Crypto exchange Bullish reports $604.9 million net loss in Q1, with growth on adjusted basis",
           "url": "https://www.theblock.co/post/401336/crypto-exchange-bullish-reports-604-9-million-net-loss-in-q1-with-growth-on-adjusted-basis?utm_source=rss&utm_medium=rss",
@@ -308,54 +356,6 @@
           "date": "2026-05-14T17:02:22.000Z",
           "source": "The Block",
           "summary": "Landmark legislation to regulate the digital asset industry at large squeezed past a committee following months of strained deliberations."
-        },
-        {
-          "title": "Sharplink CEO says ETH treasury firms are diverging from Strategy model as Ethereum’s tokenization role expands",
-          "url": "https://www.theblock.co/post/401288/sharplink-ceo-says-eth-treasury-firms-are-diverging-from-strategy-model-as-ethereums-tokenization-role-expands?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-14T16:46:01.000Z",
-          "source": "The Block",
-          "summary": "Joseph Chalom said growing institutional adoption of tokenization could strengthen Ethereum's role as infrastructure for onchain assets."
-        },
-        {
-          "title": "XRP whale wallets hit all-time highs: Will it push price above $1.50?",
-          "url": "https://cointelegraph.com/markets/xrp-whale-wallets-all-time-highs-will-it-push-price-above-1-50?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-14T16:41:36.000Z",
-          "source": "CoinTelegraph",
-          "summary": "XRP whales are accumulating at record levels, increasing the chances of XRP price rise toward $2, fueled by growing XRPL activity and a bullish technical setup."
-        },
-        {
-          "title": "CME dives further into $85 trillion digital assets market with Nasdaq CME Crypto Index futures",
-          "url": "https://www.coindesk.com/markets/2026/05/14/cme-dives-further-into-usd85-trillion-digital-assets-market-with-nasdaq-cme-crypto-index-futures",
-          "domain": "coindesk.com",
-          "date": "2026-05-14T16:25:45.000Z",
-          "source": "CoinDesk",
-          "summary": "A CME group executive said the demand grew with average daily trading volume in his firms’ suite increasing by 43% year-to date."
-        },
-        {
-          "title": "CoinList expands into tokenized asset distribution with ‘Passage’ as token sales slow",
-          "url": "https://www.theblock.co/post/401315/coinlist-passage-tokenized-asset-distribution-token-sales-slow?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-14T16:00:02.000Z",
-          "source": "The Block",
-          "summary": "CoinList has launched Passage. The move marks its expansion beyond token sales, which have slowed across the crypto industry in recent years."
-        },
-        {
-          "title": "Crypto data firm Dune cuts 25% of staff citing AI efficiencies",
-          "url": "https://www.theblock.co/post/401322/crypto-data-firm-dune-cuts-25-of-staff-citing-ai-efficiencies?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-14T15:58:42.000Z",
-          "source": "The Block",
-          "summary": "Dune CEO Fredrik Haga said the firm \"let 25% of the team go this week\" on X, in part citing its heavy investment in AI-powered tools."
-        },
-        {
-          "title": "U.S. senators lament failure to win bipartisan support, yet, on crypto Clarity Act",
-          "url": "https://www.coindesk.com/policy/2026/05/14/u-s-senators-lament-failure-to-win-bipartisan-support-yet-on-crypto-clarity-act",
-          "domain": "coindesk.com",
-          "date": "2026-05-14T15:57:34.000Z",
-          "source": "CoinDesk",
-          "summary": "In the hearing to advance the market structure bill to its next stage, lawmakers from both parties granted lengthy talks hadn't yet found needed common ground."
         }
       ]
     }
