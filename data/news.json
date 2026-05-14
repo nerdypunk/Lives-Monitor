@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-14T22:14:30.718Z",
+  "updatedAt": "2026-05-14T23:14:02.953Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -9,12 +9,12 @@
       ],
       "articles": [
         {
-          "title": "Bio Protocol announces the launch of PEPTAI, with a total supply of 20% allocated to BIO stakers - Bitget",
+          "title": "Bio Protocol announces the launch of PEPTAI, with a total supply of 20% allocated to BIO stakers - Exchange Bitget",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9IbG10T09OeUdRUXRTNGpGcVM1c2ZQdDFqeTBITFdjdlpDMjN1WGlJNEN3NEFqUUlPSnQzcXl0V2pLRWhqT1BUTEpHVDJvaXFobHhlNk81NlpkVDk1MVBJalhna9IBY0FVX3lxTE9IbG10T09OeUdRUXRTNGpGcVM1c2ZQdDFqeTBITFdjdlpDMjN1WGlJNEN3NEFqUUlPSnQzcXl0V2pLRWhqT1BUTEpHVDJvaXFobHhlNk81NlpkVDk1MVBJalhnaw?oc=5",
           "domain": "bitget.com",
           "date": "2026-05-14T13:34:19.000Z",
-          "source": "Bitget",
-          "summary": "Bio Protocol announces the launch of PEPTAI, with a total supply of 20% allocated to BIO stakers &nbsp;&nbsp; Bitget"
+          "source": "Exchange Bitget",
+          "summary": "Bio Protocol announces the launch of PEPTAI, with a total supply of 20% allocated to BIO stakers &nbsp;&nbsp; Exchange Bitget"
         },
         {
           "title": "5 Top DeSci Projects that are currently fighting rare diseases in 2026 - FinanceFeeds",
@@ -135,7 +135,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-14T15:58:28.000Z",
           "source": "Lifespan.io",
-          "summary": "Most cardiovascular trials focus on lowering LDL cholesterol or reducing inflammation to slow disease progression. UDP-003 targets the root cause: toxic 7-ketocholesterol (7KC) inside macrophages and soft plaques. It is designed to convert bloated […]"
+          "summary": "Most cardiovascular trials focus on lowering LDL cholesterol or reducing inflammation to slow disease progression. UDP-003 targets the root cause: toxic 7-ketocholesterol (7KC) inside macrophages and soft plaques. It is designed to […]"
         },
         {
           "title": "Cyclarity Unveils Oxidized Cholesterol Excretion Data",
@@ -143,7 +143,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-14T14:31:28.000Z",
           "source": "Lifespan.io",
-          "summary": "Cyclarity Therapeutics, Inc., a clinical stage biopharmaceutical company engineering cyclodextrin molecules into simple, scalable, and affordable therapies that bind and remove toxic targets to address root causes of age-related disease, has just unveiled data from a […]"
+          "summary": "Cyclarity Therapeutics, Inc., a clinical stage biopharmaceutical company engineering cyclodextrin molecules into simple, scalable, and affordable therapies that bind and remove toxic targets to address root […]"
         },
         {
           "title": "CereVance completes Phase 3 Parkinson’s trial enrollment, secures $20M",
@@ -278,6 +278,14 @@
       ],
       "articles": [
         {
+          "title": "Dartmouth endowment invests in Solana ETF, holds $14M in crypto exposure",
+          "url": "https://cointelegraph.com/news/dartmouth-endowment-crypto-investments-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-14T22:04:12.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The unversity’s endowment disclosed holdings in the Bitwise Solana staking ETF, Grayscale Ethereum staking ETF and BlackRock’s iShares Bitcoin ETF."
+        },
+        {
           "title": "Gemini shares soar after reporting 42% revenue growth, first prediction market metrics",
           "url": "https://www.theblock.co/post/401376/gemini-shares-soar-42-revenue-growth-first-prediction-market-metrics?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
@@ -348,14 +356,6 @@
           "date": "2026-05-14T18:33:27.000Z",
           "source": "The Block",
           "summary": "Kraken Bitcoin is at least the fourth product to deprecate its LayerZero cross-chain tech following the Kelp DAO attack."
-        },
-        {
-          "title": "US Senate Banking Committee votes to advance CLARITY Act",
-          "url": "https://cointelegraph.com/news/us-senate-banking-committee-advance-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-14T18:18:01.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Lawmakers debated amendments on ethics and other issues for a digital asset market structure bill before advancing the legislation, setting up a Senate floor vote."
         }
       ]
     }
