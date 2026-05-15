@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-15T04:31:04.408Z",
+  "updatedAt": "2026-05-15T07:46:13.930Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -15,14 +15,6 @@
           "date": "2026-05-14T13:34:19.000Z",
           "source": "Bitget",
           "summary": "Bio Protocol announces the launch of PEPTAI, with a total supply of 20% allocated to BIO stakers &nbsp;&nbsp; Bitget"
-        },
-        {
-          "title": "What is DeSci (Decentralized Science)? - Bitget",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSSU5kRjVUMHZtQlBQSkdYSFV0UG5na0s5NUp4X0c4MDEzXzVFcTZONHZzaEE5WEF6QlNUZnQ1ZXlfTkFqVzFHVWs4a1BKLVRtLU1Nd3Z4VExHeWoydzlLUFFteGU5Z9IBZkFVX3lxTFBSSU5kRjVUMHZtQlBQSkdYSFV0UG5na0s5NUp4X0c4MDEzXzVFcTZONHZzaEE5WEF6QlNUZnQ1ZXlfTkFqVzFHVWs4a1BKLVRtLU1Nd3Z4VExHeWoydzlLUFFteGU5Zw?oc=5",
-          "domain": "bitget.com",
-          "date": "2026-05-14T13:22:28.000Z",
-          "source": "Bitget",
-          "summary": "What is DeSci (Decentralized Science)? &nbsp;&nbsp; Bitget"
         },
         {
           "title": "5 Top DeSci Projects that are currently fighting rare diseases in 2026 - FinanceFeeds",
@@ -87,6 +79,14 @@
           "date": "2026-05-04T06:44:18.000Z",
           "source": "Yellow.com",
           "summary": "DeSci Has Raised Millions For Research No VC Would Ever Touch &nbsp;&nbsp; Yellow.com"
+        },
+        {
+          "title": "AI Token SkyAI And DeSci Protocol BIO Each Climb 42% In Parallel Rally - Yellow.com",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03Y01tNmw4bFdQT2t0QU1ySXRCR2s1RG1nSW9rRHpsQm1vREV0dWMxZGFzSjRiSDJfZ2pHbEtLamtlLUwzMmpxNDB3ZldMcWNCaHZUMFRWRVZXR29LbGREaVkxQmlkSk5TYkJz?oc=5",
+          "domain": "yellow.com",
+          "date": "2026-05-03T03:50:24.000Z",
+          "source": "Yellow.com",
+          "summary": "AI Token SkyAI And DeSci Protocol BIO Each Climb 42% In Parallel Rally &nbsp;&nbsp; Yellow.com"
         }
       ]
     },
@@ -135,7 +135,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-14T15:58:28.000Z",
           "source": "Lifespan.io",
-          "summary": "Most cardiovascular trials focus on lowering LDL cholesterol or reducing inflammation to slow disease progression. UDP-003 targets the root cause: toxic […]"
+          "summary": "Most cardiovascular trials focus on lowering LDL cholesterol or reducing inflammation to slow disease progression. UDP-003 targets the root cause: toxic 7-ketocholesterol (7KC) inside macrophages and […]"
         },
         {
           "title": "Cyclarity Unveils Oxidized Cholesterol Excretion Data",
@@ -143,7 +143,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-14T14:31:28.000Z",
           "source": "Lifespan.io",
-          "summary": "Cyclarity Therapeutics, Inc., a clinical stage biopharmaceutical company engineering cyclodextrin molecules into simple, scalable, and affordable therapies that bind and remove toxic targets to address root causes of […]"
+          "summary": "Cyclarity Therapeutics, Inc., a clinical stage biopharmaceutical company engineering cyclodextrin molecules into simple, scalable, and affordable therapies that bind and remove toxic targets to address root causes of age-related disease, has just unveiled data from a […]"
         },
         {
           "title": "CereVance completes Phase 3 Parkinson’s trial enrollment, secures $20M",
@@ -278,84 +278,84 @@
       ],
       "articles": [
         {
+          "title": "Bit Digital reports 14% revenue drop in Q1, driven by lower ETH staking rewards",
+          "url": "https://www.theblock.co/post/401420/bit-digital-reports-lower-q1-revenue?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-15T07:22:53.000Z",
+          "source": "The Block",
+          "summary": "Bit Digital generated $27.9 million in total revenue in the first quarter of this year, down 13.6% from Q4 2025."
+        },
+        {
+          "title": "B2C2 secures MiCA license in Luxembourg to offer OTC trading services across EU",
+          "url": "https://www.theblock.co/post/401427/b2c2-secures-mica-license?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-15T07:20:57.000Z",
+          "source": "The Block",
+          "summary": "The license allows B2C2 to extend OTC spot trading services across all EU member states and three EEA countries."
+        },
+        {
+          "title": "Kraken joins LayerZero exodus as it switches to Chainlink CCIP",
+          "url": "https://cointelegraph.com/news/kraken-joins-layerzero-exodus-switching-chainlink-ccip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-15T07:10:56.000Z",
+          "source": "CoinTelegraph",
+          "summary": "LayerZero has come under scrutiny since it was exploited in April, as crypto protocols reevaluate their cross-chain providers and seek safer alternatives."
+        },
+        {
+          "title": "Strategy’s STRC hits record $1.5B trading volume",
+          "url": "https://cointelegraph.com/news/strategys-strc-attracts-record-1b-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-15T06:58:36.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Strategy has leaned on Stretch to fund Bitcoin buys over the past 12 months as funding through senior convertible notes and at-the-market equity offerings has tightened."
+        },
+        {
+          "title": "Bullish shares dip on Q1 earnings miss, $605M loss",
+          "url": "https://cointelegraph.com/news/bullish-shares-dip-on-q1-earnings-miss-605m-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-15T06:56:44.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bullish stock dropped in trading with the crypto exchange’s first-quarter earnings miss, adding to the crypto companies that have underperformed in the quarter."
+        },
+        {
+          "title": "CLARITY will strengthen dollar stablecoins, but Asia wins on yield: HashKey Research",
+          "url": "https://www.coindesk.com/policy/2026/05/15/clarity-will-strengthen-dollar-stablecoins-but-asia-wins-on-yield-hashkey-research",
+          "domain": "coindesk.com",
+          "date": "2026-05-15T06:47:42.000Z",
+          "source": "CoinDesk",
+          "summary": "HashKey says U.S. regulatory clarity may unlock institutional adoption of crypto and reinforce USD stablecoins globally, though stricter yield rules could push capital toward Asian markets offering higher returns."
+        },
+        {
+          "title": "Cardano whales now hold 67% of ADA supply in highest share since 2020",
+          "url": "https://www.coindesk.com/markets/2026/05/15/cardano-whales-now-hold-67-of-ada-supply-in-highest-share-since-2020",
+          "domain": "coindesk.com",
+          "date": "2026-05-15T05:28:29.000Z",
+          "source": "CoinDesk",
+          "summary": "Wallets holding at least one million ADA now control 25.09 billion tokens, the highest share since July 2020, even as Cardano's TVL has bled to $137 million from a December 2024 peak of $686 million, per Santiment and DefiLlama data."
+        },
+        {
+          "title": "Lawyer behind Arbitrum crypto seizure fight now targets Tether for $344 million",
+          "url": "https://www.coindesk.com/policy/2026/05/15/lawyer-behind-arbitrum-crypto-seizure-fight-now-targets-tether-for-usd344-million",
+          "domain": "coindesk.com",
+          "date": "2026-05-15T05:04:13.000Z",
+          "source": "CoinDesk",
+          "summary": "Charles Gerstein wants a federal judge to order Tether to transfer OFAC-frozen USDT tied to Iran’s Revolutionary Guard to victims holding unpaid terrorism judgments"
+        },
+        {
+          "title": "Bitcoin is still stuck below its 200-day average. Treasury yields may be the reason.",
+          "url": "https://www.coindesk.com/markets/2026/05/15/the-two-and-ten-year-treasury-yields-hit-a-12-month-high-bitcoin-is-still-stuck-below-its-200-day-average",
+          "domain": "coindesk.com",
+          "date": "2026-05-15T04:54:43.000Z",
+          "source": "CoinDesk",
+          "summary": "Rising yields may act as a headwind for assets like bitcoin and gold while potentially benefiting tokenized Treasury markets."
+        },
+        {
           "title": "XRP, DOGE surge 5%, bitcoin above $81,000 as CLARITY Act clears Senate banking panel",
           "url": "https://www.coindesk.com/markets/2026/05/15/xrp-doge-surge-5-bitcoin-above-usd81-000-as-clarity-act-clears-senate-banking-panel",
           "domain": "coindesk.com",
           "date": "2026-05-15T04:27:49.000Z",
           "source": "CoinDesk",
           "summary": "Crypto majors bid higher Friday after the Digital Asset Market Clarity Act cleared the Senate Banking Committee in a 15-9 bipartisan vote, with XRP and dogecoin leading the cohort even as broader risk assets sold off on Trump's comments that the US does not need to reopen the Strait of Hormuz."
-        },
-        {
-          "title": "Crypto data company Dune cuts 25% of staff in restructuring",
-          "url": "https://cointelegraph.com/news/crypto-data-company-dune-cuts-25-of-staff-ai-use-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-15T04:04:18.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Dune co-founder and CEO Fredrik Haga says the company’s staff cuts come as it shifts focus and is “all-in” on AI and institutional interest in crypto."
-        },
-        {
-          "title": "Hana Bank acquires $670 million stake in Upbit parent Dunamu",
-          "url": "https://www.theblock.co/post/401413/hana-bank-upbit-dunamu?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-15T03:46:02.000Z",
-          "source": "The Block",
-          "summary": "The acquisition of 2.28 million shares will give Hana Bank a 6.55% stake in Dunamu, making it the fourth-largest shareholder."
-        },
-        {
-          "title": "Trump’s latest disclosure shows Coinbase, Strategy, MARA purchases in Q1",
-          "url": "https://www.theblock.co/post/401406/trump-coinbase-strategy-mara?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-15T02:59:31.000Z",
-          "source": "The Block",
-          "summary": "Among the Coinbase-related purchases, the largest transaction was a Feb. 10 purchase valued between $100,001 and $250,000."
-        },
-        {
-          "title": "Strive rallies 5.8% as it clears debt in Q1, unveils daily dividends",
-          "url": "https://cointelegraph.com/news/strive-rallies-5-percent-daily-dividends-clearing-all-debt-q1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-15T02:34:46.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Strive reported a net loss of $265.9 million for Q1, which it attributed to the fall in market value of its Bitcoin holdings, but saw its shares on its move to pay SATA holders dividends every business day starting in June."
-        },
-        {
-          "title": "UK politician Nigel Farage bought $1.8M house after a $6.7M crypto gift",
-          "url": "https://cointelegraph.com/news/nigel-farage-house-crypto-gift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-14T22:32:33.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The news follows growing calls from UK lawmakers and government officials to curb or temporarily ban crypto political donations in the country."
-        },
-        {
-          "title": "Dartmouth endowment invests in Solana ETF, holds $14M in crypto exposure",
-          "url": "https://cointelegraph.com/news/dartmouth-endowment-crypto-investments-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-14T22:04:12.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The unversity’s endowment disclosed holdings in the Bitwise Solana staking ETF, Grayscale Ethereum staking ETF and BlackRock’s iShares Bitcoin ETF."
-        },
-        {
-          "title": "Gemini shares soar after reporting 42% revenue growth, first prediction market metrics",
-          "url": "https://www.theblock.co/post/401376/gemini-shares-soar-42-revenue-growth-first-prediction-market-metrics?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-14T21:26:14.000Z",
-          "source": "The Block",
-          "summary": "Gemini posted $50.3 million in total revenue in Q1, pointing to growth in services, OTC trading and its crypto-linked credit card segment."
-        },
-        {
-          "title": "Bitwise Hyperliquid ETF to start trading on NYSE this Friday",
-          "url": "https://www.theblock.co/post/401384/bitwise-hyperliquid-etf-to-start-trading-on-nyse-this-friday?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-14T21:07:37.000Z",
-          "source": "The Block",
-          "summary": "The Bitwise Hyperliquid ETF will offer staking through the company’s in-house staking division Bitwise Onchain Solutions."
-        },
-        {
-          "title": "‘Decisive turning point’: Crypto industry cheers Clarity Act’s progress as ethics questions linger ahead of next vote",
-          "url": "https://www.theblock.co/post/401375/decisive-turning-point-crypto-industry-cheers-clarity-act-progress-ethics-questions-linger-next-vote?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-14T20:56:44.000Z",
-          "source": "The Block",
-          "summary": "In a whirlwind of events to advance landmark crypto legislation in a Senate committee, the cryptocurrency industry is celebrating."
         }
       ]
     }
