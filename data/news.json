@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-15T20:18:38.789Z",
+  "updatedAt": "2026-05-15T21:35:07.767Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -111,7 +111,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-15T16:04:15.000Z",
           "source": "Lifespan.io",
-          "summary": "Scientists have found a way to drastically ramp up mouse immune responses to cancer along with flu and COVID-19 [1]. How […]"
+          "summary": "Scientists have found a way to drastically ramp up mouse immune responses to cancer along with flu and COVID-19 [1]. How to wake up the immune system Modern cancer immunotherapies only work for a […]"
         },
         {
           "title": "New research advances non-opioid osteoarthritis pain relief",
@@ -278,6 +278,30 @@
       ],
       "articles": [
         {
+          "title": "Solayer launches Visa-compatible card for USDC payments",
+          "url": "https://cointelegraph.com/news/solayer-launches-visa-compatible-card-for-usdc-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-15T21:11:19.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The new card lets users spend USDC balances through online, in-store and contactless transactions while accessing ATM withdrawals in supported regions."
+        },
+        {
+          "title": "Crypto market structure bill still faces significant hurdles despite Senate committee win: analysts",
+          "url": "https://www.theblock.co/post/401528/crypto-market-structure-bill-significant-hurdles-despite-senate-committee-win-analysts?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-15T20:47:49.000Z",
+          "source": "The Block",
+          "summary": "TD Cowen raised the probability of the bill passing to 40% from 33% while Benchmark said the Clarity Act will need more Democratic support."
+        },
+        {
+          "title": "It’s a ‘new era’ for crypto users who ‘trade anything and everything’ as Jito goes consumer, CEO Bruder says",
+          "url": "https://www.theblock.co/post/401530/new-era-for-crypto-users-who-trade-anything-everything-jito-goes-consumer-ceo-says?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-15T20:41:09.000Z",
+          "source": "The Block",
+          "summary": "Jito founder Lucas Bruder told The Block that there's a new class of users coming onchain who \"want to trade anything and everything.\""
+        },
+        {
           "title": "SpaceX targets June 11 IPO pricing, picks Nasdaq for historic market debut",
           "url": "https://www.coindesk.com/markets/2026/05/15/spacex-targets-june-11-ipo-pricing-picks-nasdaq-for-historic-market-debut",
           "domain": "coindesk.com",
@@ -332,30 +356,6 @@
           "date": "2026-05-15T16:37:31.000Z",
           "source": "CoinDesk",
           "summary": "The chairman of droppRWA has secured $12.5 billion in mandates to tokenized real estate and his plans are to go beyond properties to bring trillions of dollars onchain."
-        },
-        {
-          "title": "OpenSea CMO sees tokenized Pokémon cards, Rolexes and tickets driving next NFT wave",
-          "url": "https://www.theblock.co/post/401504/opensea-cmo-tokenized-pokemon-cards-rolexes-tickets-driving-next-nft-wave?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-15T16:08:00.000Z",
-          "source": "The Block",
-          "summary": "OpenSea's Adam Hollander sees advancements in AI making it easier for people to make innovative tokenized assets."
-        },
-        {
-          "title": "Lombard joins LayerZero exodus as $4 billion in assets switch to Chainlink's bridge",
-          "url": "https://www.coindesk.com/business/2026/05/15/lombard-joins-layerzero-exodus-as-usd4-billion-in-assets-switch-to-chainlink-s-bridge",
-          "domain": "coindesk.com",
-          "date": "2026-05-15T16:00:00.000Z",
-          "source": "CoinDesk",
-          "summary": "The shift comes after the Kelp DAO exploit drained $292 million from its LayerZero-powered bridge, increasing concerns over the security of cross-chain infrastructure."
-        },
-        {
-          "title": "Ethereum analysts see ‘downside risks’ as bears eye 20% ETH price drop",
-          "url": "https://cointelegraph.com/markets/ethereum-analysts-see-downside-risks-bears-20-eth-price-drop?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-15T15:55:05.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Ethereum analysts said that increasing supply on exchanges and declining ETF demand put ETH at risk of another leg down to $1,700."
         }
       ]
     }
