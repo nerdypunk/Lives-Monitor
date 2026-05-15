@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-15T21:35:07.767Z",
+  "updatedAt": "2026-05-15T22:38:56.518Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -111,7 +111,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-15T16:04:15.000Z",
           "source": "Lifespan.io",
-          "summary": "Scientists have found a way to drastically ramp up mouse immune responses to cancer along with flu and COVID-19 [1]. How to wake up the immune system Modern cancer immunotherapies only work for a […]"
+          "summary": "Scientists have found a way to drastically ramp up mouse immune responses to cancer along with flu and COVID-19 [1]. How to wake up the immune system Modern cancer immunotherapies only work […]"
         },
         {
           "title": "New research advances non-opioid osteoarthritis pain relief",
@@ -278,6 +278,22 @@
       ],
       "articles": [
         {
+          "title": "ICE, CME press US regulators to 'rein in' Hyperliquid energy trading: Report",
+          "url": "https://cointelegraph.com/news/ice-cme-press-us-regulators-rein-hyperliquid-dex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-15T21:42:18.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The Hyperliquid decentralized exchange allows anyone who stakes 500,000 HYPE tokens, valued at roughly $22.2 million, to deploy new markets."
+        },
+        {
+          "title": "U.S. House lawmakers who oversee the CFTC are urging Trump to fill the commission",
+          "url": "https://www.coindesk.com/policy/2026/05/15/u-s-house-lawmakers-who-oversee-the-cftc-are-urging-trump-to-fill-the-commission",
+          "domain": "coindesk.com",
+          "date": "2026-05-15T21:35:57.000Z",
+          "source": "CoinDesk",
+          "summary": "As the Commodity Futures Trading Commission takes on a growing task to police U.S. crypto trading, senior lawmakers are saying it needs bipartisan leadership."
+        },
+        {
           "title": "Solayer launches Visa-compatible card for USDC payments",
           "url": "https://cointelegraph.com/news/solayer-launches-visa-compatible-card-for-usdc-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
@@ -340,22 +356,6 @@
           "date": "2026-05-15T17:08:51.000Z",
           "source": "CoinTelegraph",
           "summary": "The text of Myanmar’s Anti-Online Fraud Bill said that anyone who was convicted of committing “digital currency fraud” could face from ten years to life in prison, and possibly the death penalty."
-        },
-        {
-          "title": "Hyperliquid Policy Center argues onchain perps offer efficiency, transparency as ICE and CME reportedly press for CFTC oversight",
-          "url": "https://www.theblock.co/post/401512/hyperliquid-onchain-perps-offer-efficiency-transparency-ice-cme-cftc-oversight?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-15T16:48:14.000Z",
-          "source": "The Block",
-          "summary": "Bloomberg reported that ICE and CME are pressing for Hyperliquid to register with the CFTC, raising concerns about market stability."
-        },
-        {
-          "title": "Saudi Arabia is tokenizing its multi-trillion dollar economy to protect its wealth from global shocks",
-          "url": "https://www.coindesk.com/business/2026/05/15/saudi-arabia-is-tokenizing-its-multi-trillion-dollar-economy-to-protect-its-wealth-from-global-shocks",
-          "domain": "coindesk.com",
-          "date": "2026-05-15T16:37:31.000Z",
-          "source": "CoinDesk",
-          "summary": "The chairman of droppRWA has secured $12.5 billion in mandates to tokenized real estate and his plans are to go beyond properties to bring trillions of dollars onchain."
         }
       ]
     }
