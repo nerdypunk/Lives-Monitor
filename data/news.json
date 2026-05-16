@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-16T10:39:29.767Z",
+  "updatedAt": "2026-05-16T11:37:57.194Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -9,12 +9,20 @@
       ],
       "articles": [
         {
-          "title": "PEPTAI Price Swings Wild As Base Integration Fuels DeSci Hype - MEXC",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9OeUpfQU1xdlpoV2JtM1JwazI0b2UxTWZMTXFNMEk1emVzMFo3elQ1bzZCTDBhOW1KNXp3Y0RCWl80VjFxZS15Yg?oc=5",
+          "title": "BIO to CDF: Convert BIO Protocol to Congolese Franc | Live BIO Price in CDF | MEXC - MEXC",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55ZEtQOXpvQ2ZlSERPb0RhdnUyNDVXOEdVb24wb3B3dmVweGU1cy1FWGtESTNiVHJaNktOeUd0bGpWQkE5VGV0TGdDODJEX1FYSlE?oc=5",
           "domain": "mexc.com",
-          "date": "2026-05-16T06:00:00.000Z",
+          "date": "2026-05-15T20:14:23.000Z",
           "source": "MEXC",
-          "summary": "PEPTAI Price Swings Wild As Base Integration Fuels DeSci Hype &nbsp;&nbsp; MEXC"
+          "summary": "BIO to CDF: Convert BIO Protocol to Congolese Franc | Live BIO Price in CDF | MEXC &nbsp;&nbsp; MEXC"
+        },
+        {
+          "title": "PEPTAI Price Swings Wild As Base Integration Fuels DeSci Hype - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcGQzeE80ejg2UlYwZEl0NDgxVWZGdHd6QzY3VGZmOW1UdjREYU5Kd0dEYjNQdnVuZlRiOEFaOHdVTDlndHVxeE82aUpuZmpTQ09qQkEycmRLdFA1YjRnMlVhX2lKV0NGTFpTM1ZxbndRN0h2czJUU0JUQXp3Y0VRM0NoVlNPME5fb0xUOWlQdEhRbzA4TU45U3VRaXp4LTJYbkF0WDVvWVZtb0pLdm9pUG03NDRTZ2dKaURKVA?oc=5",
+          "domain": "fr.tradingview.com",
+          "date": "2026-05-15T10:33:20.000Z",
+          "source": "TradingView",
+          "summary": "PEPTAI Price Swings Wild As Base Integration Fuels DeSci Hype &nbsp;&nbsp; TradingView"
         },
         {
           "title": "Bio Protocol announces the launch of PEPTAI, with a total supply of 20% allocated to BIO stakers - Bitget",
@@ -79,14 +87,6 @@
           "date": "2026-05-05T16:07:54.000Z",
           "source": "Delphi Digital",
           "summary": "DeSci's Second Coming? &nbsp;&nbsp; Delphi Digital"
-        },
-        {
-          "title": "DeSci Has Raised Millions For Research No VC Would Ever Touch - Yellow.com",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQzAtQWJmSEtGX1pXdWVOR0RsRnhXWGp4S2VYUEhXREJiM1ljR01reDZfS1hwU0g3eTMzaFdOdnVJb3l2R2lNdmdCVEhuUWExYjB0VTNReUIwUlRxTjhrdmlCV1d5R3VXbGtRWFp3eGQ0VTV0SjhZdGpNOGV2dDNYcnVodm9PWWJHYlE?oc=5",
-          "domain": "yellow.com",
-          "date": "2026-05-04T06:44:18.000Z",
-          "source": "Yellow.com",
-          "summary": "DeSci Has Raised Millions For Research No VC Would Ever Touch &nbsp;&nbsp; Yellow.com"
         }
       ]
     },
@@ -111,7 +111,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-15T16:04:15.000Z",
           "source": "Lifespan.io",
-          "summary": "Scientists have found a way to drastically ramp up mouse immune responses to cancer along with flu and COVID-19 [1]. How to wake up the immune system Modern cancer immunotherapies only work for […]"
+          "summary": "Scientists have found a way to drastically ramp up mouse immune responses to cancer along with flu and COVID-19 [1]. How to wake up the immune system Modern cancer immunotherapies […]"
         },
         {
           "title": "New research advances non-opioid osteoarthritis pain relief",
@@ -278,6 +278,14 @@
       ],
       "articles": [
         {
+          "title": "XRP beat bitcoin gains as CLARITY Act advanced, but a real bullrun still needs Congress",
+          "url": "https://www.coindesk.com/markets/2026/05/15/xrp-beat-bitcoin-gains-as-clarity-act-advanced-but-a-real-bullrun-still-needs-congress",
+          "domain": "coindesk.com",
+          "date": "2026-05-16T11:30:00.000Z",
+          "source": "CoinDesk",
+          "summary": "The token jumped 5% after a Senate committee moved the market-structure bill forward, reviving hopes that legal clarity can pull deeper institutional money into XRP products."
+        },
+        {
           "title": "THORChain confirms $10M exploit, rolls out recovery portal for affected users",
           "url": "https://cointelegraph.com/news/thorchain-confirms-10m-exploit-rolls-out-recovery-portal-for-affected-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
@@ -348,14 +356,6 @@
           "date": "2026-05-15T21:42:18.000Z",
           "source": "CoinTelegraph",
           "summary": "The Hyperliquid decentralized exchange allows anyone who stakes 500,000 HYPE tokens, valued at roughly $22.2 million, to deploy new markets."
-        },
-        {
-          "title": "U.S. House lawmakers who oversee the CFTC are urging Trump to fill the commission",
-          "url": "https://www.coindesk.com/policy/2026/05/15/u-s-house-lawmakers-who-oversee-the-cftc-are-urging-trump-to-fill-the-commission",
-          "domain": "coindesk.com",
-          "date": "2026-05-15T21:35:57.000Z",
-          "source": "CoinDesk",
-          "summary": "As the Commodity Futures Trading Commission takes on a growing task to police U.S. crypto trading, senior lawmakers are saying it needs bipartisan leadership."
         }
       ]
     }
