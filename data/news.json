@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-16T09:12:41.359Z",
+  "updatedAt": "2026-05-16T10:39:29.767Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -9,12 +9,12 @@
       ],
       "articles": [
         {
-          "title": "PEPTAI Price Swings Wild As Base Integration Fuels DeSci Hype - TradingView",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQa1VYdWRzSWVnU2QwQXQ4NDFvcGlwalI4VzI2TmdqbXdMQkxTM2JER1MweVJYbjVRR19yQnpyZlBMNlc4c3psNG9zZ0UyQnQ1MEJQeUstcU9rMWdDZVp3aU9oNTVmOXdKbExWTkhFNTNIMVlHeHlIVmExWmhPR3oxRm8zMVAtN29TTDRuR21vOF9wckU1OVlSakpqUGtobDNKTzRLM1JxMHVxcDhPa3VOTkRzbVl2TE56azNNUlRwLVg3dw?oc=5",
-          "domain": "fr.tradingview.com",
-          "date": "2026-05-15T10:33:20.000Z",
-          "source": "TradingView",
-          "summary": "PEPTAI Price Swings Wild As Base Integration Fuels DeSci Hype &nbsp;&nbsp; TradingView"
+          "title": "PEPTAI Price Swings Wild As Base Integration Fuels DeSci Hype - MEXC",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9OeUpfQU1xdlpoV2JtM1JwazI0b2UxTWZMTXFNMEk1emVzMFo3elQ1bzZCTDBhOW1KNXp3Y0RCWl80VjFxZS15Yg?oc=5",
+          "domain": "mexc.com",
+          "date": "2026-05-16T06:00:00.000Z",
+          "source": "MEXC",
+          "summary": "PEPTAI Price Swings Wild As Base Integration Fuels DeSci Hype &nbsp;&nbsp; MEXC"
         },
         {
           "title": "Bio Protocol announces the launch of PEPTAI, with a total supply of 20% allocated to BIO stakers - Bitget",
@@ -111,7 +111,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-15T16:04:15.000Z",
           "source": "Lifespan.io",
-          "summary": "Scientists have found a way to drastically ramp up mouse immune responses to cancer along with flu and COVID-19 [1]. How […]"
+          "summary": "Scientists have found a way to drastically ramp up mouse immune responses to cancer along with flu and COVID-19 [1]. How to wake up the immune system Modern cancer immunotherapies only work for […]"
         },
         {
           "title": "New research advances non-opioid osteoarthritis pain relief",
@@ -278,6 +278,30 @@
       ],
       "articles": [
         {
+          "title": "THORChain confirms $10M exploit, rolls out recovery portal for affected users",
+          "url": "https://cointelegraph.com/news/thorchain-confirms-10m-exploit-rolls-out-recovery-portal-for-affected-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-16T09:47:44.000Z",
+          "source": "CoinTelegraph",
+          "summary": "THORChain has launched a recovery portal following a $10 million exploit, allowing affected users across four chains to revoke malicious approvals and claim refunds."
+        },
+        {
+          "title": "Sharplink CEO points out 3 catalysts for Ethereum's price to surge higher",
+          "url": "https://cointelegraph.com/news/sharplink-ceo-points-out-these-3-catalysts-for-ethereum-to-reach-new-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-16T09:00:52.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The rest of the world is “really closely” watching the US CLARITY Act as the nation moves further away from the previous “hostile stance,” according to Sharplink’s chief."
+        },
+        {
+          "title": "Spot Bitcoin ETFs bleed $1B in a week, snapping six-week inflow run",
+          "url": "https://cointelegraph.com/news/spot-bitcoin-etfs-bleed-1b-in-a-week-snapping-six-week-inflow-run?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-16T08:19:20.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Spot Bitcoin ETFs shed $1 billion in a single week as capital rotated toward AI stocks and macro uncertainty weighed on sentiment, ending a six-week run that had pulled in $3.4 billion."
+        },
+        {
           "title": "Crypto longs lose $500 million as bitcoin slides to $78,000, SOL and XRP down 5%",
           "url": "https://www.coindesk.com/markets/2026/05/16/crypto-longs-lose-usd500-million-as-bitcoin-slides-to-usd78-000-sol-and-xrp-down-5",
           "domain": "coindesk.com",
@@ -332,30 +356,6 @@
           "date": "2026-05-15T21:35:57.000Z",
           "source": "CoinDesk",
           "summary": "As the Commodity Futures Trading Commission takes on a growing task to police U.S. crypto trading, senior lawmakers are saying it needs bipartisan leadership."
-        },
-        {
-          "title": "Solayer launches Visa-compatible card for USDC payments",
-          "url": "https://cointelegraph.com/news/solayer-launches-visa-compatible-card-for-usdc-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-15T21:11:19.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The new card lets users spend USDC balances through online, in-store and contactless transactions while accessing ATM withdrawals in supported regions."
-        },
-        {
-          "title": "Crypto market structure bill still faces significant hurdles despite Senate committee win: analysts",
-          "url": "https://www.theblock.co/post/401528/crypto-market-structure-bill-significant-hurdles-despite-senate-committee-win-analysts?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-15T20:47:49.000Z",
-          "source": "The Block",
-          "summary": "TD Cowen raised the probability of the bill passing to 40% from 33% while Benchmark said the Clarity Act will need more Democratic support."
-        },
-        {
-          "title": "It’s a ‘new era’ for crypto users who ‘trade anything and everything’ as Jito goes consumer, CEO Bruder says",
-          "url": "https://www.theblock.co/post/401530/new-era-for-crypto-users-who-trade-anything-everything-jito-goes-consumer-ceo-says?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-15T20:41:09.000Z",
-          "source": "The Block",
-          "summary": "Jito founder Lucas Bruder told The Block that there's a new class of users coming onchain who \"want to trade anything and everything.\""
         }
       ]
     }
