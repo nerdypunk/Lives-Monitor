@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-16T11:37:57.194Z",
+  "updatedAt": "2026-05-16T12:46:24.890Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -8,14 +8,6 @@
         "https://news.google.com/rss/search?q=DeSci%20OR%20%22decentralized%20science%22%20OR%20%22BIO%20Protocol%22&hl=en-US&gl=US&ceid=US:en"
       ],
       "articles": [
-        {
-          "title": "BIO to CDF: Convert BIO Protocol to Congolese Franc | Live BIO Price in CDF | MEXC - MEXC",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55ZEtQOXpvQ2ZlSERPb0RhdnUyNDVXOEdVb24wb3B3dmVweGU1cy1FWGtESTNiVHJaNktOeUd0bGpWQkE5VGV0TGdDODJEX1FYSlE?oc=5",
-          "domain": "mexc.com",
-          "date": "2026-05-15T20:14:23.000Z",
-          "source": "MEXC",
-          "summary": "BIO to CDF: Convert BIO Protocol to Congolese Franc | Live BIO Price in CDF | MEXC &nbsp;&nbsp; MEXC"
-        },
         {
           "title": "PEPTAI Price Swings Wild As Base Integration Fuels DeSci Hype - TradingView",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcGQzeE80ejg2UlYwZEl0NDgxVWZGdHd6QzY3VGZmOW1UdjREYU5Kd0dEYjNQdnVuZlRiOEFaOHdVTDlndHVxeE82aUpuZmpTQ09qQkEycmRLdFA1YjRnMlVhX2lKV0NGTFpTM1ZxbndRN0h2czJUU0JUQXp3Y0VRM0NoVlNPME5fb0xUOWlQdEhRbzA4TU45U3VRaXp4LTJYbkF0WDVvWVZtb0pLdm9pUG03NDRTZ2dKaURKVA?oc=5",
@@ -87,6 +79,14 @@
           "date": "2026-05-05T16:07:54.000Z",
           "source": "Delphi Digital",
           "summary": "DeSci's Second Coming? &nbsp;&nbsp; Delphi Digital"
+        },
+        {
+          "title": "DeSci Has Raised Millions For Research No VC Would Ever Touch - Yellow.com",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQzAtQWJmSEtGX1pXdWVOR0RsRnhXWGp4S2VYUEhXREJiM1ljR01reDZfS1hwU0g3eTMzaFdOdnVJb3l2R2lNdmdCVEhuUWExYjB0VTNReUIwUlRxTjhrdmlCV1d5R3VXbGtRWFp3eGQ0VTV0SjhZdGpNOGV2dDNYcnVodm9PWWJHYlE?oc=5",
+          "domain": "yellow.com",
+          "date": "2026-05-04T06:44:18.000Z",
+          "source": "Yellow.com",
+          "summary": "DeSci Has Raised Millions For Research No VC Would Ever Touch &nbsp;&nbsp; Yellow.com"
         }
       ]
     },
@@ -111,7 +111,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-15T16:04:15.000Z",
           "source": "Lifespan.io",
-          "summary": "Scientists have found a way to drastically ramp up mouse immune responses to cancer along with flu and COVID-19 [1]. How to wake up the immune system Modern cancer immunotherapies […]"
+          "summary": "Scientists have found a way to drastically ramp up mouse immune responses to cancer along with flu and COVID-19 [1]. How […]"
         },
         {
           "title": "New research advances non-opioid osteoarthritis pain relief",
