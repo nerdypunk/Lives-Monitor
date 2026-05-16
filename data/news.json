@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-16T22:52:17.262Z",
+  "updatedAt": "2026-05-16T23:57:24.125Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -73,12 +73,12 @@
           "summary": "NanoVita Launches NANA Token On KTX Exchange, Enabling DeSci Network Access To DeFi Users &nbsp;&nbsp; MEXC"
         },
         {
-          "title": "NanoVita Labs Launches $NANA Token on PancakeSwap – A New Era for AI-Driven Decentralized Science - Cryptonews.net",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5xdkZSLWxFMVl6Ti1DQUZjdGxOaHJwdFpEaE1sLUtRaDdYY3dBRGdxbGszbWFhNDhEdlEzNWRkXy1SR2Z0cnBOQVZGMFJHV2VBclpGaEZjWQ?oc=5",
-          "domain": "cryptonews.net",
-          "date": "2026-05-06T07:00:00.000Z",
-          "source": "Cryptonews.net",
-          "summary": "NanoVita Labs Launches $NANA Token on PancakeSwap – A New Era for AI-Driven Decentralized Science &nbsp;&nbsp; Cryptonews.net"
+          "title": "NanoVita Labs Launches $NANA Token on PancakeSwap – A New Era for AI-Driven Decentralized Science - MEXC",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1FZklEUldQZnFHY0tfNUhsX0ZKYjhLalB5QkVvMVJrUGQ1bXpqR0o5TUtDSldESXRMM3VjZVVjeHUwRmJCZnhReQ?oc=5",
+          "domain": "mexc.com",
+          "date": "2026-05-06T07:04:55.000Z",
+          "source": "MEXC",
+          "summary": "NanoVita Labs Launches $NANA Token on PancakeSwap – A New Era for AI-Driven Decentralized Science &nbsp;&nbsp; MEXC"
         },
         {
           "title": "DeSci's Second Coming? - Delphi Digital",
@@ -111,7 +111,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-15T16:04:15.000Z",
           "source": "Lifespan.io",
-          "summary": "Scientists have found a way to drastically ramp up mouse immune responses to cancer along with flu and COVID-19 [1]. How to wake up the immune system Modern cancer immunotherapies only work for a minority […]"
+          "summary": "Scientists have found a way to drastically ramp up mouse immune responses to cancer along with flu and COVID-19 [1]. How to wake up the immune system […]"
         },
         {
           "title": "New research advances non-opioid osteoarthritis pain relief",
@@ -278,6 +278,14 @@
       ],
       "articles": [
         {
+          "title": "STRC preferred stock investors are mispricing major 'dislocation' risk: Analyst",
+          "url": "https://cointelegraph.com/news/strc-preferred-investors-misprice-dislocation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-16T22:50:56.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Potential liquidity contractions in secondary markets and surging government bond yields could spell trouble for preferred perpetual stockholders."
+        },
+        {
           "title": "House Agriculture leaders press Trump to appoint CFTC commissioners as CLARITY Act advances in Senate",
           "url": "https://www.theblock.co/post/401558/house-agriculture-leaders-press-trump-to-appoint-cftc-commissioners-as-clarity-act-advances-in-senate?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
@@ -348,14 +356,6 @@
           "date": "2026-05-16T14:00:00.000Z",
           "source": "CoinDesk",
           "summary": "DeFi insurance protocols debuted with huge ambitions during the 2020 crypto boom. But as hacks evolved and users chased yields over protection, most of the sector collapsed under the same risks it was built to cover."
-        },
-        {
-          "title": "The $293 million KelpDAO hack shows why DeFi is finally being forced to grow up",
-          "url": "https://www.coindesk.com/tech/2026/05/16/the-usd293-million-kelpdao-hack-shows-why-defi-is-finally-being-forced-to-grow-up",
-          "domain": "coindesk.com",
-          "date": "2026-05-16T13:00:00.000Z",
-          "source": "CoinDesk",
-          "summary": "For protocol founders and security researchers, the incident reinforced a broader shift underway across crypto: DeFi is no longer primarily battling coding bugs. It’s battling complexity."
         }
       ]
     }
