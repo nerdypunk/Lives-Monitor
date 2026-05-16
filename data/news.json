@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-16T07:20:01.733Z",
+  "updatedAt": "2026-05-16T09:12:41.359Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -9,12 +9,12 @@
       ],
       "articles": [
         {
-          "title": "PEPTAI Price Swings Wild As Base Integration Fuels DeSci Hype - Coinpedia",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNDRJRkdCMjNnYjd2b1RaTkhXczc3NjRaRGlidHFuVnNQZlVzaWxxaDlFdEJXZHNTc2Jqc01MV3lxU0lhOVFFY2RyejNrNnNfM3I4MlJndUR6S2ZmVlVfWHNtRHFyaFR6cXMxN2hob1hIeGVocW5SeGJZMU5TWTNVMzlOXzNQWU5GendYRGdoWE1rZlFSX1luQtIBmAFBVV95cUxNNDRJRkdCMjNnYjd2b1RaTkhXczc3NjRaRGlidHFuVnNQZlVzaWxxaDlFdEJXZHNTc2Jqc01MV3lxU0lhOVFFY2RyejNrNnNfM3I4MlJndUR6S2ZmVlVfWHNtRHFyaFR6cXMxN2hob1hIeGVocW5SeGJZMU5TWTNVMzlOXzNQWU5GendYRGdoWE1rZlFSX1luQg?oc=5",
-          "domain": "coinpedia.org",
-          "date": "2026-05-15T10:45:37.000Z",
-          "source": "Coinpedia",
-          "summary": "PEPTAI Price Swings Wild As Base Integration Fuels DeSci Hype &nbsp;&nbsp; Coinpedia"
+          "title": "PEPTAI Price Swings Wild As Base Integration Fuels DeSci Hype - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQa1VYdWRzSWVnU2QwQXQ4NDFvcGlwalI4VzI2TmdqbXdMQkxTM2JER1MweVJYbjVRR19yQnpyZlBMNlc4c3psNG9zZ0UyQnQ1MEJQeUstcU9rMWdDZVp3aU9oNTVmOXdKbExWTkhFNTNIMVlHeHlIVmExWmhPR3oxRm8zMVAtN29TTDRuR21vOF9wckU1OVlSakpqUGtobDNKTzRLM1JxMHVxcDhPa3VOTkRzbVl2TE56azNNUlRwLVg3dw?oc=5",
+          "domain": "fr.tradingview.com",
+          "date": "2026-05-15T10:33:20.000Z",
+          "source": "TradingView",
+          "summary": "PEPTAI Price Swings Wild As Base Integration Fuels DeSci Hype &nbsp;&nbsp; TradingView"
         },
         {
           "title": "Bio Protocol announces the launch of PEPTAI, with a total supply of 20% allocated to BIO stakers - Bitget",
@@ -111,7 +111,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-15T16:04:15.000Z",
           "source": "Lifespan.io",
-          "summary": "Scientists have found a way to drastically ramp up mouse immune responses to cancer along with flu and COVID-19 [1]. How to wake up the immune system Modern cancer immunotherapies only work for a minority of patients. The […]"
+          "summary": "Scientists have found a way to drastically ramp up mouse immune responses to cancer along with flu and COVID-19 [1]. How […]"
         },
         {
           "title": "New research advances non-opioid osteoarthritis pain relief",
@@ -188,6 +188,14 @@
       ],
       "articles": [
         {
+          "title": "Student-built system unlocks fully autonomous electroporation for 96- and 384-well workflows",
+          "url": "https://phys.org/news/2026-05-student-built-fully-autonomous-electroporation.html",
+          "domain": "phys.org",
+          "date": "2026-05-16T09:03:58.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Inside the California NanoSystems Institute at UCLA, where some of the most advanced and technical automated infrastructure on campus resides, two students saw an opportunity hiding in plain sight."
+        },
+        {
           "title": "Single-molecule RNA mapping may reveal how shape shifts steer health and disease",
           "url": "https://phys.org/news/2026-05-molecule-rna-reveal-shifts-health.html",
           "domain": "phys.org",
@@ -258,14 +266,6 @@
           "date": "2026-05-14T20:28:33.000Z",
           "source": "Phys.org Biotechnology",
           "summary": "Massive volumes of digital data are generated every day from AI training, big data analytics and smart devices. As conventional hard drives and cloud storage are increasingly constrained by high costs, limited capacity, high power consumption and short lifespans, molecular data storage has emerged as a breakthrough storage alternative."
-        },
-        {
-          "title": "Biodegradable sensors attached to plants detect pesticides in 3 minutes",
-          "url": "https://phys.org/news/2026-05-biodegradable-sensors-pesticides-minutes.html",
-          "domain": "phys.org",
-          "date": "2026-05-14T19:40:02.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Researchers at the São Carlos Institute of Physics at the University of São Paulo (IFSC-USP) in Brazil, led by Paulo Augusto Raymundo-Pereira, have created biodegradable, \"wearable\" sensors for plants to monitor their health, including the presence of pesticides. The sensors are made from carbon ink and are screen-printed onto transparent cellulose acetate bioplastics."
         }
       ]
     },
@@ -277,6 +277,14 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "Crypto longs lose $500 million as bitcoin slides to $78,000, SOL and XRP down 5%",
+          "url": "https://www.coindesk.com/markets/2026/05/16/crypto-longs-lose-usd500-million-as-bitcoin-slides-to-usd78-000-sol-and-xrp-down-5",
+          "domain": "coindesk.com",
+          "date": "2026-05-16T07:36:02.000Z",
+          "source": "CoinDesk",
+          "summary": "A long-skewed liquidation cascade flushed leverage across the major tokens overnight, with the move tracking a global bond selloff and the worst session for U.S. stocks since March."
+        },
         {
           "title": "Bhutan ‘doesn’t recall’ selling any bitcoin, disputing widely-tracked $1 billion BTC drawdown",
           "url": "https://www.coindesk.com/markets/2026/05/16/bhutan-doesn-t-recall-selling-any-bitcoin-disputing-widely-tracked-usd1-billion-btc-drawdown",
@@ -348,14 +356,6 @@
           "date": "2026-05-15T20:41:09.000Z",
           "source": "The Block",
           "summary": "Jito founder Lucas Bruder told The Block that there's a new class of users coming onchain who \"want to trade anything and everything.\""
-        },
-        {
-          "title": "SpaceX targets June 11 IPO pricing, picks Nasdaq for historic market debut",
-          "url": "https://www.coindesk.com/markets/2026/05/15/spacex-targets-june-11-ipo-pricing-picks-nasdaq-for-historic-market-debut",
-          "domain": "coindesk.com",
-          "date": "2026-05-15T19:50:00.000Z",
-          "source": "CoinDesk",
-          "summary": "Elon Musk’s rocket and satellite company has accelerated plans for its blockbuster public offering, with trading expected to begin as early as June 12 after a faster-than-expected SEC review."
         }
       ]
     }
