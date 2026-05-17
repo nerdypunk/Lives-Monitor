@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-17T13:58:13.020Z",
+  "updatedAt": "2026-05-17T15:07:22.395Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -8,6 +8,14 @@
         "https://news.google.com/rss/search?q=DeSci%20OR%20%22decentralized%20science%22%20OR%20%22BIO%20Protocol%22&hl=en-US&gl=US&ceid=US:en"
       ],
       "articles": [
+        {
+          "title": "NanoVita Integrates ARPA RNG for Secure DeSci Apps - MEXC Exchange",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1XeTlGcmZSeGlLMWZqLWtNd0ZNYTRxTXdJM3NkdTFHT255eW1fU1d0R0VrQUgwLUZycTNCSEhNb3VMcDBjRTFB?oc=5",
+          "domain": "mexc.co",
+          "date": "2026-05-17T11:37:57.000Z",
+          "source": "MEXC Exchange",
+          "summary": "NanoVita Integrates ARPA RNG for Secure DeSci Apps &nbsp;&nbsp; MEXC Exchange"
+        },
         {
           "title": "BIO to CDF: Convert BIO Protocol to Congolese Franc | Live BIO Price in CDF | MEXC - MEXC",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55ZEtQOXpvQ2ZlSERPb0RhdnUyNDVXOEdVb24wb3B3dmVweGU1cy1FWGtESTNiVHJaNktOeUd0bGpWQkE5VGV0TGdDODJEX1FYSlE?oc=5",
@@ -79,14 +87,6 @@
           "date": "2026-05-06T07:00:00.000Z",
           "source": "Cryptonews.net",
           "summary": "NanoVita Labs Launches $NANA Token on PancakeSwap – A New Era for AI-Driven Decentralized Science &nbsp;&nbsp; Cryptonews.net"
-        },
-        {
-          "title": "DeSci's Second Coming? - Delphi Digital",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxekJCVU5kTFJ2YTV3Ny1uZmE0NVJzQUVHQno2bUV3dWVwVGttLVozTDlsMk93dWw2Nl9OLXktYkYtbkFyQ285bXF4eEo1dDFEWkd6ZVNIWG52NU5fREFNTTRfNlVET25nMmc?oc=5",
-          "domain": "members.delphidigital.io",
-          "date": "2026-05-05T16:07:54.000Z",
-          "source": "Delphi Digital",
-          "summary": "DeSci's Second Coming? &nbsp;&nbsp; Delphi Digital"
         }
       ]
     },
@@ -111,7 +111,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-15T16:04:15.000Z",
           "source": "Lifespan.io",
-          "summary": "Scientists have found a way to drastically ramp up mouse immune responses to cancer along with flu and COVID-19 [1]. How to wake up the immune system Modern cancer immunotherapies only […]"
+          "summary": "Scientists have found a way to drastically ramp up mouse immune responses to cancer along with flu and COVID-19 [1]. How to wake up the immune system Modern cancer immunotherapies only work for a minority of patients. The reason, broadly, […]"
         },
         {
           "title": "New research advances non-opioid osteoarthritis pain relief",
@@ -188,6 +188,14 @@
       ],
       "articles": [
         {
+          "title": "Hidden cell networks emerge in 3D as new nanoscopy tracks living bridges",
+          "url": "https://phys.org/news/2026-05-hidden-cell-networks-emerge-3d.html",
+          "domain": "phys.org",
+          "date": "2026-05-17T14:00:04.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "A new nanoscopy technique developed at The Australian National University (ANU) has uncovered hidden networks used for communication between cells, opening new ways to understand human diseases. Described in an article published in Nature Communications, the method allows researchers to observe how living cells interact with their environment over several days, revealing three-dimensional behaviors that were previously invisible to conventional microscopes."
+        },
+        {
           "title": "Student-built system unlocks fully autonomous electroporation for 96- and 384-well workflows",
           "url": "https://phys.org/news/2026-05-student-built-fully-autonomous-electroporation.html",
           "domain": "phys.org",
@@ -258,14 +266,6 @@
           "date": "2026-05-15T00:00:00.000Z",
           "source": "Nature Biotechnology",
           "summary": "Nature Biotechnology, Published online: 15 May 2026; doi:10.1038/s41587-026-03130-3 Many long noncoding RNA–DNA binding peaks detected using common assays arise from technical artifacts."
-        },
-        {
-          "title": "Engineered proteins store digital files with 30 times density at one-tenth cost",
-          "url": "https://phys.org/news/2026-05-proteins-digital-density-tenth.html",
-          "domain": "phys.org",
-          "date": "2026-05-14T20:28:33.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Massive volumes of digital data are generated every day from AI training, big data analytics and smart devices. As conventional hard drives and cloud storage are increasingly constrained by high costs, limited capacity, high power consumption and short lifespans, molecular data storage has emerged as a breakthrough storage alternative."
         }
       ]
     },
@@ -277,6 +277,14 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-17T14:00:00.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
+        },
         {
           "title": "DeFi's new front: VerifiedX bets bitcoin's next chapter is programmable, private",
           "url": "https://www.coindesk.com/tech/2026/05/17/defi-s-new-front-verifiedx-bets-bitcoin-s-next-chapter-is-programmable-private",
@@ -348,14 +356,6 @@
           "date": "2026-05-16T22:50:56.000Z",
           "source": "CoinTelegraph",
           "summary": "Potential liquidity contractions in secondary markets and surging government bond yields could spell trouble for preferred perpetual stockholders."
-        },
-        {
-          "title": "House Agriculture leaders press Trump to appoint CFTC commissioners as CLARITY Act advances in Senate",
-          "url": "https://www.theblock.co/post/401558/house-agriculture-leaders-press-trump-to-appoint-cftc-commissioners-as-clarity-act-advances-in-senate?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-16T20:57:27.000Z",
-          "source": "The Block",
-          "summary": "Chair Michael Selig has been the agency's sole commissioner since December, with four seats sitting empty, as Trump has not nominated replacements."
         }
       ]
     }
