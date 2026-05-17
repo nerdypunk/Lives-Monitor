@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-17T18:35:41.038Z",
+  "updatedAt": "2026-05-17T19:51:55.949Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -15,14 +15,6 @@
           "date": "2026-05-17T11:37:57.000Z",
           "source": "MEXC Exchange",
           "summary": "NanoVita Integrates ARPA RNG for Secure DeSci Apps &nbsp;&nbsp; MEXC Exchange"
-        },
-        {
-          "title": "What is DeSci (Decentralized Science)? - bitget.com",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13ZHZGN0VEaTV2MXZfYm5jNWdhOEt1ZHRGdUd6by1nY184UjdtcEdhd0VkLTlYanBBU3liNjZHWnFmRTByN2hrYWdNZHA5bm44djR4QUpJR3VEU013MnhkTNIBZkFVX3lxTE8xMzhNaEVrLU00R1dvRDZrNmswaVBkMmpsbVlUekNtd1ExOGwxc3dyaHZ4SDlhamxaTGRRTk9PNThESy1xeVdNN2VVNG9aUkwtNDZKY1RycWJkSkRhd3VzR2kxT0VFQQ?oc=5",
-          "domain": "bitget.com",
-          "date": "2026-05-17T11:16:41.000Z",
-          "source": "bitget.com",
-          "summary": "What is DeSci (Decentralized Science)? &nbsp;&nbsp; bitget.com"
         },
         {
           "title": "BIO to CDF: Convert BIO Protocol to Congolese Franc | Live BIO Price in CDF | MEXC - MEXC",
@@ -47,6 +39,14 @@
           "date": "2026-05-14T13:34:19.000Z",
           "source": "bitget.com",
           "summary": "Bio Protocol announces the launch of PEPTAI, with a total supply of 20% allocated to BIO stakers &nbsp;&nbsp; bitget.com"
+        },
+        {
+          "title": "What is DeSci (Decentralized Science)? - bitget.com",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSSU5kRjVUMHZtQlBQSkdYSFV0UG5na0s5NUp4X0c4MDEzXzVFcTZONHZzaEE5WEF6QlNUZnQ1ZXlfTkFqVzFHVWs4a1BKLVRtLU1Nd3Z4VExHeWoydzlLUFFteGU5Z9IBZkFVX3lxTFBSSU5kRjVUMHZtQlBQSkdYSFV0UG5na0s5NUp4X0c4MDEzXzVFcTZONHZzaEE5WEF6QlNUZnQ1ZXlfTkFqVzFHVWs4a1BKLVRtLU1Nd3Z4VExHeWoydzlLUFFteGU5Zw?oc=5",
+          "domain": "bitget.com",
+          "date": "2026-05-14T13:22:28.000Z",
+          "source": "bitget.com",
+          "summary": "What is DeSci (Decentralized Science)? &nbsp;&nbsp; bitget.com"
         },
         {
           "title": "5 Top DeSci Projects that are currently fighting rare diseases in 2026 - FinanceFeeds",
@@ -111,7 +111,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-15T16:04:15.000Z",
           "source": "Lifespan.io",
-          "summary": "Scientists have found a way to drastically ramp up mouse immune responses to cancer along with flu and COVID-19 [1]. How to wake up the immune system Modern […]"
+          "summary": "Scientists have found a way to drastically ramp up mouse immune responses to cancer along with flu and COVID-19 [1]. How […]"
         },
         {
           "title": "New research advances non-opioid osteoarthritis pain relief",
@@ -278,6 +278,14 @@
       ],
       "articles": [
         {
+          "title": "Japan’s SBI, Rakuten developing crypto investment trusts in-house: Nikkei",
+          "url": "https://www.theblock.co/post/401561/japans-sbi-rakuten-developing-crypto-investment-trusts-in-house-nikkei?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-17T18:44:53.000Z",
+          "source": "The Block",
+          "summary": "The push comes after Japan's cabinet approved a bill last month that would reclassify crypto under the Financial Instruments and Exchange Act."
+        },
+        {
           "title": "The Clarity Act took a step forward: State of Crypto",
           "url": "https://www.coindesk.com/policy/2026/05/17/the-clarity-act-took-a-step-forward-state-of-crypto",
           "domain": "coindesk.com",
@@ -348,14 +356,6 @@
           "date": "2026-05-17T08:00:00.000Z",
           "source": "CoinDesk",
           "summary": "A7A5, the Russia-linked stablecoin built to move money around banking restrictions, says faster trade settlement, yield and regional crypto infrastructure could keep it relevant even if geopolitical tensions ease."
-        },
-        {
-          "title": "Michael Saylor floated Bitcoin sales idea to avoid 'impairing' the asset",
-          "url": "https://cointelegraph.com/news/strategy-mstr-michael-saylor-bitcoin-sell-statement-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-17T05:27:23.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Strategy executive chairman Michael Saylor said that continuing to use the “never sell” Bitcoin mantra could ultimately undermine the very asset his company is built around."
         }
       ]
     }
