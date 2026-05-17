@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-17T07:16:19.788Z",
+  "updatedAt": "2026-05-17T09:19:47.551Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -111,7 +111,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-15T16:04:15.000Z",
           "source": "Lifespan.io",
-          "summary": "Scientists have found a way to drastically ramp up mouse immune responses to cancer along with flu and COVID-19 [1]. How to wake up the immune system Modern cancer immunotherapies only work for a minority of […]"
+          "summary": "Scientists have found a way to drastically ramp up mouse immune responses to cancer along with flu and COVID-19 [1]. How to wake up the immune system Modern cancer immunotherapies only […]"
         },
         {
           "title": "New research advances non-opioid osteoarthritis pain relief",
@@ -278,6 +278,30 @@
       ],
       "articles": [
         {
+          "title": "Bitcoin slides below $79K on macro fears: Can fixed-income outflows save it?",
+          "url": "https://cointelegraph.com/markets/bitcoin-slides-below-79k-macro-fears-can-fixed-income-outflows-save-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-17T08:50:02.000Z",
+          "source": "CoinTelegraph",
+          "summary": "While macro pain and Iran war uncertainty drag Bitcoin below $79K, fixed-income market outflows could trigger a medium-term Bitcoin rebound."
+        },
+        {
+          "title": "Italy’s largest bank more than doubles crypto holdings to $235M in Q1: Report",
+          "url": "https://cointelegraph.com/news/italys-largest-bank-more-than-doubles-crypto-holdings-to-235m-in-q1-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-17T08:31:02.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Intesa Sanpaolo grew its crypto holdings from $100 million to $235 million in Q1 2026, making first-time moves into Ethereum and XRP while nearly exiting Solana entirely."
+        },
+        {
+          "title": "A Russian stablecoin built to dodge sanctions says it can survive even if they're lifted",
+          "url": "https://www.coindesk.com/policy/2026/05/24/a-russian-stablecoin-built-to-dodge-sanctions-says-it-can-survive-even-if-they-re-lifted",
+          "domain": "coindesk.com",
+          "date": "2026-05-17T08:00:00.000Z",
+          "source": "CoinDesk",
+          "summary": "A7A5, the Russia-linked stablecoin built to move money around banking restrictions, says faster trade settlement, yield and regional crypto infrastructure could keep it relevant even if geopolitical tensions ease."
+        },
+        {
           "title": "Michael Saylor floated Bitcoin sales idea to avoid 'impairing' the asset",
           "url": "https://cointelegraph.com/news/strategy-mstr-michael-saylor-bitcoin-sell-statement-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
@@ -332,30 +356,6 @@
           "date": "2026-05-16T17:14:20.000Z",
           "source": "The Block",
           "summary": "Abu Dhabi-based Mubadala added over $90 million to its already sizeable position in BlackRock’s iShares Bitcoin Trust ETF."
-        },
-        {
-          "title": "Bitcoin analysis sees 'bear trap' as BTC price passes two-week lows under $78K",
-          "url": "https://cointelegraph.com/markets/bitcoin-analysis-bear-trap-btc-price-passes-two-week-lows-under-78k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-16T17:07:39.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Bitcoin fell below $78,000 for the first time since the start of May, but traders refused to give up hope of a BTC price rebound coming next."
-        },
-        {
-          "title": "Here’s what happened in crypto today",
-          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-16T15:30:00.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
-        },
-        {
-          "title": "Jump Crypto’s ‘Firedancer’ is taking a slow and steady approach to its long-awaited Solana infrastructure rollout",
-          "url": "https://www.coindesk.com/tech/2026/05/16/jump-crypto-s-firedancer-is-taking-a-slow-and-steady-approach-to-its-long-awaited-solana-infrastructure-rollout",
-          "domain": "coindesk.com",
-          "date": "2026-05-16T15:00:00.000Z",
-          "source": "CoinDesk",
-          "summary": "In an interview with CoinDesk, the lead engineer at Firedancer gives an update on how the new client, also known as a software, is fairing in the Solana ecosystem."
         }
       ]
     }
