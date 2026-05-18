@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-18T18:12:33.940Z",
+  "updatedAt": "2026-05-18T20:03:27.270Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -127,7 +127,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-18T16:36:44.000Z",
           "source": "Lifespan.io",
-          "summary": "We have spoken with Reason from Repair Biotechnologies about his company’s lead candidate, REP-0004, a drug targeting the liver to reduce […]"
+          "summary": "We have spoken with Reason from Repair Biotechnologies about his company’s lead candidate, REP-0004, a drug targeting the liver to reduce excess intracellular free cholesterol. The FDA has granted Repair […]"
         },
         {
           "title": "The case for fasting as regenerative medicine",
@@ -278,6 +278,54 @@
       ],
       "articles": [
         {
+          "title": "Ostium’s onchain perpetuals exchange to be ‘powered’ by Nasdaq data",
+          "url": "https://www.theblock.co/post/401743/ostiums-onchain-perpetuals-exchange-nasdaq-data?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-18T19:56:30.000Z",
+          "source": "The Block",
+          "summary": "Ostium says this tie-up makes it the \"first onchain trading venue to offer equity perpetual products powered by Nasdaq data.\""
+        },
+        {
+          "title": "Zerohash secures first EMI license under MiCA for stablecoin and brokerage services in Europe",
+          "url": "https://www.theblock.co/post/401741/zerohash-first-emi-license-mica-stablecoin-brokerage-services-europe?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-18T19:27:36.000Z",
+          "source": "The Block",
+          "summary": "Zerohash Europe is the first firm licensed under Europe’s flagship MiCA crypto regulation to also hold full EMI status."
+        },
+        {
+          "title": "Revolut wants to take Dogecoin mainstream with its new physical payment card",
+          "url": "https://www.coindesk.com/markets/2026/05/18/revolut-wants-to-take-dogecoin-mainstream-with-its-new-physical-payment-card",
+          "domain": "coindesk.com",
+          "date": "2026-05-18T18:30:15.000Z",
+          "source": "CoinDesk",
+          "summary": "The European fintech giant is launching a physical debit card that lets users spend the popular meme coin anywhere Visa and Mastercard are accepted with zero extra exchange fees."
+        },
+        {
+          "title": "Galaxy scores New York BitLicense to offer digital asset services in the state",
+          "url": "https://www.theblock.co/post/401732/galaxy-new-york-bitlicense-offer-digital-asset-services-state?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-18T18:25:07.000Z",
+          "source": "The Block",
+          "summary": "Mike Novogratz' Galaxy Digital said the approval expands its regulatory footprint to more than 50 licenses worldwide."
+        },
+        {
+          "title": "Price predictions 5/18: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA",
+          "url": "https://cointelegraph.com/markets/price-predictions-518-spx-dxy-btc-eth-xrp-bnb-sol-doge-hype-ada?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-18T17:58:29.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bitcoin dropped to the crucial $76,000 support level while large-cap altcoins sold off sharply. Do technical charts suggest that traders will buy the dip?"
+        },
+        {
+          "title": "Minnesota legalizes crypto custody services for banks, credit unions",
+          "url": "https://cointelegraph.com/news/minnesota-crypto-custody-services-banks-credit-unions-law?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-18T17:45:18.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Minnesota-based banking institutions and credit unions will be authorized to provide digital asset custody services in a nonfiduciary capacity as of Aug. 1."
+        },
+        {
           "title": "Solana is shedding its memecoin reputation as big banks move billions into its ecosystem",
           "url": "https://www.coindesk.com/markets/2026/05/18/solana-is-shedding-its-memecoin-reputation-as-big-banks-move-billions-into-its-ecosystem",
           "domain": "coindesk.com",
@@ -308,54 +356,6 @@
           "date": "2026-05-18T17:01:32.000Z",
           "source": "CoinDesk",
           "summary": "Galaxy Digital became the second company this year to secure a New York BitLicense, following Strike’s approval in March."
-        },
-        {
-          "title": "Crypto funds see $1B in outflows as Iran tensions revive risk-off sentiment",
-          "url": "https://cointelegraph.com/news/crypto-funds-1b-outflows-iran-tensions-risk-off-bitcoin-ether?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-18T17:01:07.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Institutional investors pulled capital from Bitcoin and Ether products as Iran tension and rising inflation rattled markets, while XRP and Solana funds continued to attract fresh inflows."
-        },
-        {
-          "title": "Two more Ethereum Foundation researchers resign amid wave of departures",
-          "url": "https://www.theblock.co/post/401718/two-more-ethereum-foundation-researchers-resign-amid-wave-of-departures?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-18T16:50:23.000Z",
-          "source": "The Block",
-          "summary": "Carl Beek and Julian Ma announced they were leaving the Ethereum Foundation on Monday, the latest employees to publicly resign."
-        },
-        {
-          "title": "Bitwise to add HYPE to balance sheet using fees from Hyperliquid ETF",
-          "url": "https://www.theblock.co/post/401688/bitwise-add-hype-balance-sheet-fees-hyperliquid-etf?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-18T16:42:19.000Z",
-          "source": "The Block",
-          "summary": "Hyperliquid now regularly beats out Ethereum and Solana in weekly blockchain fee generation, driven largely by perpetual futures."
-        },
-        {
-          "title": "Stripe-backed Tempo taps $7.5 billion DeFi lender Morpho to expand beyond payments",
-          "url": "https://www.coindesk.com/business/2026/05/18/stripe-backed-tempo-taps-usd7-5-billion-defi-lender-morpho-to-expand-beyond-payments",
-          "domain": "coindesk.com",
-          "date": "2026-05-18T16:27:32.000Z",
-          "source": "CoinDesk",
-          "summary": "The move brings onchain yield and lending to the payments-focused chain in a bid to offer full-stack onchain finance platform to companies building on it."
-        },
-        {
-          "title": "Kraken co-CEO says exchange revenue, up 3% to $507 million, is a ‘more resilient’ mix amid spending spree",
-          "url": "https://www.theblock.co/post/401702/kraken-co-ceo-says-exchange-revenue-up-3-to-507-million-is-a-more-resilient-mix-amid-spending-spree?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-18T16:03:11.000Z",
-          "source": "The Block",
-          "summary": "Payward filed confidentially for an IPO in November, but may be delaying plans amid a fluctuating valuation and uncertain market."
-        },
-        {
-          "title": "Ethereum traders say bears ‘in control’ after ETH price drop to $2K",
-          "url": "https://cointelegraph.com/markets/ethereum-traders-say-bears-in-control-eth-price-drop-2k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-18T15:36:04.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Ether price fell sharply below $2,100 as increasing sell pressure on Binance and persistent ETF outflows fueled bearish momentum."
         }
       ]
     }
