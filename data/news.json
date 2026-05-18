@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-18T20:03:27.270Z",
+  "updatedAt": "2026-05-18T21:38:54.944Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -127,7 +127,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-18T16:36:44.000Z",
           "source": "Lifespan.io",
-          "summary": "We have spoken with Reason from Repair Biotechnologies about his company’s lead candidate, REP-0004, a drug targeting the liver to reduce excess intracellular free cholesterol. The FDA has granted Repair […]"
+          "summary": "We have spoken with Reason from Repair Biotechnologies about his company’s lead candidate, REP-0004, a drug targeting the liver to reduce excess intracellular free cholesterol. The FDA has […]"
         },
         {
           "title": "The case for fasting as regenerative medicine",
@@ -278,6 +278,38 @@
       ],
       "articles": [
         {
+          "title": "Ohio man sentenced to 9 years for running $10 million crypto Ponzi scheme",
+          "url": "https://www.theblock.co/post/401761/ohio-man-sentenced-to-9-years-for-running-10-million-crypto-ponzi-scheme?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-18T21:33:27.000Z",
+          "source": "The Block",
+          "summary": "The CFTC filed an enforcement action against Rathnakishore Giri in August 2022 for running the fraudulent investment scheme."
+        },
+        {
+          "title": "Minnesotan banks and credit unions set to provide crypto custody August 1",
+          "url": "https://www.coindesk.com/policy/2026/05/18/minnesotan-banks-and-credit-unions-set-to-provide-crypto-custody-august-1",
+          "domain": "coindesk.com",
+          "date": "2026-05-18T21:07:08.000Z",
+          "source": "CoinDesk",
+          "summary": "Minnesota established the midwest’s first unified digital asset safety net for banks and credit unions."
+        },
+        {
+          "title": "Hyperliquid's USDC deal could supercharge HYPE, pressure Circle, Coinbase margins, analysts say",
+          "url": "https://www.coindesk.com/markets/2026/05/18/hyperliquid-s-usdc-deal-could-supercharge-hype-pressure-circle-coinbase-margins-analysts-say",
+          "domain": "coindesk.com",
+          "date": "2026-05-18T20:18:37.000Z",
+          "source": "CoinDesk",
+          "summary": "The revenue share deal could shift an estimated $160 million in revenue from Coinbase and Circle into Hyperliquid's ecosystem, Compass Point analysts said."
+        },
+        {
+          "title": "Bitcoin’s trend defining battle starts at the $74K support: Analyst",
+          "url": "https://cointelegraph.com/markets/bitcoin-analyst-flags-74k-as-btcs-biggest-support-battle?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-18T19:57:20.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bitcoin traders are closely watching the $74,000-$75,000 support zone as exchange inflows rise and market signals weaken following BTC's loss of momentum above $82,000."
+        },
+        {
           "title": "Ostium’s onchain perpetuals exchange to be ‘powered’ by Nasdaq data",
           "url": "https://www.theblock.co/post/401743/ostiums-onchain-perpetuals-exchange-nasdaq-data?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
@@ -321,41 +353,9 @@
           "title": "Minnesota legalizes crypto custody services for banks, credit unions",
           "url": "https://cointelegraph.com/news/minnesota-crypto-custody-services-banks-credit-unions-law?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-05-18T17:45:18.000Z",
+          "date": "2026-05-18T17:52:00.000Z",
           "source": "CoinTelegraph",
           "summary": "Minnesota-based banking institutions and credit unions will be authorized to provide digital asset custody services in a nonfiduciary capacity as of Aug. 1."
-        },
-        {
-          "title": "Solana is shedding its memecoin reputation as big banks move billions into its ecosystem",
-          "url": "https://www.coindesk.com/markets/2026/05/18/solana-is-shedding-its-memecoin-reputation-as-big-banks-move-billions-into-its-ecosystem",
-          "domain": "coindesk.com",
-          "date": "2026-05-18T17:35:27.000Z",
-          "source": "CoinDesk",
-          "summary": "Wall Street and payment giants are quietly taking over Solana, moving billions onto the network for tokenized funds and global payments even as the broader crypto market cools down, according to a new report by Messari."
-        },
-        {
-          "title": "The Ethereum Foundation is facing a wave of high-profile departures as its internal shakeup deepens",
-          "url": "https://www.coindesk.com/tech/2026/05/18/the-ethereum-foundation-is-facing-a-wave-of-high-profile-departures-as-its-internal-shakeup-deepens",
-          "domain": "coindesk.com",
-          "date": "2026-05-18T17:34:36.000Z",
-          "source": "CoinDesk",
-          "summary": "The turnover comes as the foundation undergoes an internal transition tied to a new organizational mandate aimed at redefining its role within Ethereum."
-        },
-        {
-          "title": "Revolut unveils first physical crypto card as industry-wide card usage grows",
-          "url": "https://www.theblock.co/post/401726/revolut-first-physical-crypto-card-industry-usage-grows?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-18T17:30:14.000Z",
-          "source": "The Block",
-          "summary": "The card will be usable anywhere Visa and Mastercard are accepted, and will first roll out firm in the UK and EEA."
-        },
-        {
-          "title": "Mike Novogratz’s Galaxy receives New York BitLicense for institutional crypto push",
-          "url": "https://www.coindesk.com/business/2026/05/18/mike-novogratz-s-galaxy-receives-new-york-bitlicense-for-institutional-crypto-push",
-          "domain": "coindesk.com",
-          "date": "2026-05-18T17:01:32.000Z",
-          "source": "CoinDesk",
-          "summary": "Galaxy Digital became the second company this year to secure a New York BitLicense, following Strike’s approval in March."
         }
       ]
     }
