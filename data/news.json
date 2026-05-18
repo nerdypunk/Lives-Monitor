@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-18T21:38:54.944Z",
+  "updatedAt": "2026-05-18T22:41:10.793Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -127,7 +127,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-18T16:36:44.000Z",
           "source": "Lifespan.io",
-          "summary": "We have spoken with Reason from Repair Biotechnologies about his company’s lead candidate, REP-0004, a drug targeting the liver to reduce excess intracellular free cholesterol. The FDA has […]"
+          "summary": "We have spoken with Reason from Repair Biotechnologies about his company’s lead candidate, REP-0004, a drug targeting the liver to reduce […]"
         },
         {
           "title": "The case for fasting as regenerative medicine",
@@ -278,12 +278,52 @@
       ],
       "articles": [
         {
+          "title": "SEC to propose tokenized stock framework as Wall Street efforts deepen: Bloomberg",
+          "url": "https://www.coindesk.com/policy/2026/05/18/sec-to-propose-tokenized-stock-framework-as-wall-street-efforts-deepen-bloomberg",
+          "domain": "coindesk.com",
+          "date": "2026-05-18T22:20:27.000Z",
+          "source": "CoinDesk",
+          "summary": "The U.S. Securities and Exchange Commission is reportedly poised to release a major crypto proposal as it seeks to institute its digital assets agenda."
+        },
+        {
+          "title": "Ethereum’s onchain conviction grows as staked ETH rises, even as price underperforms",
+          "url": "https://www.theblock.co/post/401709/ethereum-onchain-conviction-grows-staked-eth-rises-price-underperforms?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-18T21:51:04.000Z",
+          "source": "The Block",
+          "summary": "A contracting float against any meaningful demand recovery has historically been a constructive setup for price."
+        },
+        {
+          "title": "Bitcoin lost its hold on $80K, but three events may send it back sooner than markets expect",
+          "url": "https://cointelegraph.com/markets/bitcoin-lost-its-hold-on-80k-but-three-events-may-send-it-back-sooner-than-markets-expect?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-18T21:47:48.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bitcoin positions itself for a rally above $80,000 after Strategy's $2 billion BTC buy, crumbling investor confidence in the US Treasury and a potential US-Iran deal."
+        },
+        {
           "title": "Ohio man sentenced to 9 years for running $10 million crypto Ponzi scheme",
           "url": "https://www.theblock.co/post/401761/ohio-man-sentenced-to-9-years-for-running-10-million-crypto-ponzi-scheme?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
           "date": "2026-05-18T21:33:27.000Z",
           "source": "The Block",
           "summary": "The CFTC filed an enforcement action against Rathnakishore Giri in August 2022 for running the fraudulent investment scheme."
+        },
+        {
+          "title": "Soluna revenue jumps 58% as hosting business offsets weaker Bitcoin mining",
+          "url": "https://cointelegraph.com/news/soluna-q1-revenue-rises-58-data-center-hosting-surpasses-crypto-mining?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-18T21:28:02.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Hosting revenue outpaced mining as new capacity came online, highlighting Soluna’s shift toward data centers for AI and high-performance computing."
+        },
+        {
+          "title": "Georgia primary to test crypto PAC’s support for Democratic candidate",
+          "url": "https://cointelegraph.com/news/georgia-primary-jasmine-clark-crypto-pacs-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-18T21:20:00.000Z",
+          "source": "CoinTelegraph",
+          "summary": "A political action committee aligned with crypto interest groups reported spending more than $4 million in support of Democratic US House candidate Jasmine Clark in Georgia."
         },
         {
           "title": "Minnesotan banks and credit unions set to provide crypto custody August 1",
@@ -316,46 +356,6 @@
           "date": "2026-05-18T19:56:30.000Z",
           "source": "The Block",
           "summary": "Ostium says this tie-up makes it the \"first onchain trading venue to offer equity perpetual products powered by Nasdaq data.\""
-        },
-        {
-          "title": "Zerohash secures first EMI license under MiCA for stablecoin and brokerage services in Europe",
-          "url": "https://www.theblock.co/post/401741/zerohash-first-emi-license-mica-stablecoin-brokerage-services-europe?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-18T19:27:36.000Z",
-          "source": "The Block",
-          "summary": "Zerohash Europe is the first firm licensed under Europe’s flagship MiCA crypto regulation to also hold full EMI status."
-        },
-        {
-          "title": "Revolut wants to take Dogecoin mainstream with its new physical payment card",
-          "url": "https://www.coindesk.com/markets/2026/05/18/revolut-wants-to-take-dogecoin-mainstream-with-its-new-physical-payment-card",
-          "domain": "coindesk.com",
-          "date": "2026-05-18T18:30:15.000Z",
-          "source": "CoinDesk",
-          "summary": "The European fintech giant is launching a physical debit card that lets users spend the popular meme coin anywhere Visa and Mastercard are accepted with zero extra exchange fees."
-        },
-        {
-          "title": "Galaxy scores New York BitLicense to offer digital asset services in the state",
-          "url": "https://www.theblock.co/post/401732/galaxy-new-york-bitlicense-offer-digital-asset-services-state?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-18T18:25:07.000Z",
-          "source": "The Block",
-          "summary": "Mike Novogratz' Galaxy Digital said the approval expands its regulatory footprint to more than 50 licenses worldwide."
-        },
-        {
-          "title": "Price predictions 5/18: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA",
-          "url": "https://cointelegraph.com/markets/price-predictions-518-spx-dxy-btc-eth-xrp-bnb-sol-doge-hype-ada?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-18T17:58:29.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Bitcoin dropped to the crucial $76,000 support level while large-cap altcoins sold off sharply. Do technical charts suggest that traders will buy the dip?"
-        },
-        {
-          "title": "Minnesota legalizes crypto custody services for banks, credit unions",
-          "url": "https://cointelegraph.com/news/minnesota-crypto-custody-services-banks-credit-unions-law?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-18T17:52:00.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Minnesota-based banking institutions and credit unions will be authorized to provide digital asset custody services in a nonfiduciary capacity as of Aug. 1."
         }
       ]
     }
