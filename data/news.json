@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-18T00:12:03.556Z",
+  "updatedAt": "2026-05-18T04:44:32.864Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -111,7 +111,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-15T16:04:15.000Z",
           "source": "Lifespan.io",
-          "summary": "Scientists have found a way to drastically ramp up mouse immune responses to cancer along with flu and COVID-19 [1]. How to wake up the immune system Modern […]"
+          "summary": "Scientists have found a way to drastically ramp up mouse immune responses to cancer along with flu and COVID-19 [1]. How to […]"
         },
         {
           "title": "New research advances non-opioid osteoarthritis pain relief",
@@ -188,84 +188,84 @@
       ],
       "articles": [
         {
-          "title": "Hidden cell networks emerge in 3D as new nanoscopy tracks living bridges",
-          "url": "https://phys.org/news/2026-05-hidden-cell-networks-emerge-3d.html",
-          "domain": "phys.org",
-          "date": "2026-05-17T14:00:04.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "A new nanoscopy technique developed at The Australian National University (ANU) has uncovered hidden networks used for communication between cells, opening new ways to understand human diseases. Described in an article published in Nature Communications, the method allows researchers to observe how living cells interact with their environment over several days, revealing three-dimensional behaviors that were previously invisible to conventional microscopes."
+          "title": "Do Biological Structural Guarantees Earn Their Complexity?",
+          "url": "https://arxiv.org/abs/2605.15225",
+          "domain": "arxiv.org",
+          "date": "2026-05-18T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2605.15225v1 Announce Type: new Abstract: Biologically-inspired AI agent frameworks claim reliability benefits through structural guarantees adapted from gene regulatory networks, immune systems, and metabolic control. These claims are rarely tested empirically against simpler alternatives. We present three deep benchmarks: metabolic priority gating, autoinducer-based quorum sensing, and Bayesian stagnation detection, each comparing a biologically-grounded implementation against a naive non-biological alternative and an ablated control, across 1,000 trials per seed and 10 seeds (10M+ data points total)."
         },
         {
-          "title": "Student-built system unlocks fully autonomous electroporation for 96- and 384-well workflows",
-          "url": "https://phys.org/news/2026-05-student-built-fully-autonomous-electroporation.html",
-          "domain": "phys.org",
-          "date": "2026-05-16T09:03:58.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Inside the California NanoSystems Institute at UCLA, where some of the most advanced and technical automated infrastructure on campus resides, two students saw an opportunity hiding in plain sight."
+          "title": "A geometry-dependent, force balance-driven model of Staphylococcus epidermidis biofilm cell cluster detachment",
+          "url": "https://arxiv.org/abs/2605.15364",
+          "domain": "arxiv.org",
+          "date": "2026-05-18T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2605.15364v1 Announce Type: new Abstract: Biofilms, bacteria cells surrounded by a self-produced polymeric matrix, are common on medical devices and lead to many hospital infections. The biofilm lifecycle includes disassembly and dispersion, where bacteria clusters detach from the biofilm, circulate in the bloodstream, and potentially colonize secondary infection sites. Existing models often simplify detachment to a function of biofilm thickness or extracellular polymeric substance (EPS) density, without tracking properties of detached clusters that impact their biological fate, including cluster size and morphology. Addressing this gap, our detachment model accounts for drag and adhesion in tagged sections of the biofilm determined by the cluster geometry and local arrangement of bacteria and EPS. A stickiness parameter controls local EPS adhesion strength, which is modulated to disrupt (or compromise) EPS biomass. We specifically model the detachment of clusters from a Staphylococcus epidermidis biofilm grown for 24 hours. Experimental data for biofilm microstructural features are utilized to benchmark the simulated biofilm, which is then subjected to different EPS disruption levels. We examine parameters that influence detached biofilm cell cluster frequency, size, and shape, providing mechanistic insights into how compromised EPS influences detachment dynamics. This integrated modeling framework is a significant advance in the predictive capabilities for biofilm detachment processes."
         },
         {
-          "title": "Single-molecule RNA mapping may reveal how shape shifts steer health and disease",
-          "url": "https://phys.org/news/2026-05-molecule-rna-reveal-shifts-health.html",
-          "domain": "phys.org",
-          "date": "2026-05-15T18:20:03.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Researchers from A*STAR Genome Institute of Singapore (A*STAR GIS) have developed a new method to study individual RNA molecules and reveal how their structures influence gene regulation, a fundamental process that affects how cells function in health and disease. Their work was published in Nature Methods."
+          "title": "Beyond Flickering: Introducing Code-Modulated Motion Visual Evoked Potentials for Brain-Computer Interfacing",
+          "url": "https://arxiv.org/abs/2605.15801",
+          "domain": "arxiv.org",
+          "date": "2026-05-18T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2605.15801v1 Announce Type: new Abstract: A code-modulated motion visual evoked potential (c-MVEP) for brain-computer interfacing (BCI) is presented in this study. This paradigm uses pseudo-random sequences to visually stimulate objects using motion as an alternative to flickering. In an offline experiment of this study, EEG data were recorded and compared during sequential stimulation of a single object under four conditions: c-MVEP, code-modulated visual evoked potential (c-VEP), steady-state motion visual evoked potential (SSMVEP), and steady-state visual evoked potential (SSVEP). c-MVEP showed similar time-domain characteristics as c-VEP, and also in the frequency domain c-MVEP evoked a broadband response similar to c-VEP, with a comparable signal-to-noise ratio (SNR), albeit more focused in the lower frequency range. Both SSMVEP and SSVEP showed clear oscillatory responses at the stimulation frequency and harmonics, with a higher SNR for SSVEP than SSMVEP. The spatial distribution of c-MVEP showed the main activation at Oz and spread across multiple electrodes, whereas c-VEP showed less spreading and was more focused at Oz. Similar observations were made for SSMVEP and SSVEP. From subjective ratings, there was no clear preference for the motion-based stimulation of SSMVEP or c-MVEP over flicker-based stimulation of SSVEP or c-VEP. The online experiment of this study, evaluated a 4-class BCI with the same four conditions, testing the practical feasibility of the c-MVEP paradigm. The c-MVEP BCI reached a mean accuracy of 85.67% with an average selection time of 2.61s, which was significantly lower than c-VEP (97.81%; 1.15s) and SSVEP (93.42%; 1.94s), but significantly higher than SSMVEP (64.91%; 4.18s). Overall, this study shows the great potential of the newly proposed c-MVEP paradigm using motion stimulation for BCI applications, providing a valuable alternative to the c-VEP paradigm using flickering stimulation."
         },
         {
-          "title": "Implantable bacteria can now be safely contained, clearing a major hurdle for fighting infection and cancer",
-          "url": "https://phys.org/news/2026-05-implantable-bacteria-safely-major-hurdle.html",
-          "domain": "phys.org",
-          "date": "2026-05-15T17:01:47.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Researchers have long known that bacteria could potentially be used to deliver therapeutic drugs inside the human body. However, safely and successfully carrying out such a feat in humans has been a challenge. But now, researchers from Harvard have made another step forward toward the goal of using microbes as medicine. Their recent study, published in Science, details a novel method for containing engineered bacteria to keep them from infecting their host while still successfully delivering potentially life-saving medications."
+          "title": "How nature discovers rare Turing islands: exploration by common limit cycles",
+          "url": "https://arxiv.org/abs/2605.15839",
+          "domain": "arxiv.org",
+          "date": "2026-05-18T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2605.15839v1 Announce Type: new Abstract: Turing patterns are a cornerstone of biological self-organization, yet their emergence typically requires finely tuned parameters occupying narrow regions of high-dimensional space. This poses a fundamental challenge: how can evolving biological systems reliably find and exploit such rare conditions? In this work, we propose that common biochemical limit cycles, such as those arising from genetic feedback loops, can act as natural explorers of Turing space. By coupling a reaction-diffusion system to an orbit that modulates some of its parameters, we show that the system can dynamically sweep through Turing-permissive regimes and generate transient spatial patterns. We use an entropy-based measure in Fourier space to quantify pattern formation and demonstrate how cycles enhance the detectability and robustness of Turing islands. We further explore how coupling to positional gradients increases reproducibility, suggesting a route from oscillatory dynamics to stable developmental programs. Our results highlight a powerful mechanism by which nature might bootstrap complex spatial structure from simple temporal motifs."
         },
         {
-          "title": "Bacterial energy enzyme reveals dual-trigger sodium pump mechanism, offering antibiotic clues",
-          "url": "https://phys.org/news/2026-05-bacterial-energy-enzyme-reveals-dual.html",
-          "domain": "phys.org",
-          "date": "2026-05-15T16:00:03.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "The Na+-NQR enzyme is vital for energy production in pathogenic bacteria like the one that causes cholera, making it a highly promising target for new antibiotics. Researchers combined modified artificial intelligence techniques with extensive supercomputer simulations to visualize the hidden, dynamic movements of this enzyme during sodium transport."
+          "title": "The Impact of Heatwaves on Population Health: A Large Language Model-Enhanced Agent-Based Simulation",
+          "url": "https://arxiv.org/abs/2605.15918",
+          "domain": "arxiv.org",
+          "date": "2026-05-18T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2605.15918v1 Announce Type: new Abstract: Extreme heat events are increasing in frequency and intensity under climate change, but the socio-behavioral mechanisms that shape community resilience remain insufficiently understood. This study uses a Large Language Model-enhanced agent-based model to simulate responses to a prolonged heatwave in a virtual society. One hundred heterogeneous agents were assigned a Heat Vulnerability Index based on demographic risk factors and observed over 13 simulated days covering baseline, heatwave, and recovery periods. The simulation shows that heat-related impacts are primarily psychosocial and unequally distributed. Agents with higher vulnerability experienced larger declines in perceived safety and social connection than agents with lower vulnerability. Vulnerability also shaped adaptive capacity. More resilient agents maintained routine self-care and protective behaviors, whereas highly vulnerable agents showed behavioral constriction, marked by reduced engagement in protective actions. At the collective level, risk-information diffusion followed a pattern of complex contagion, with adoption driven more by repeated social reinforcement within cohesive networks than by broad exposure alone. These findings suggest that LLM-enhanced simulation can help identify behavioral and social mechanisms of climate resilience and inform heat-risk interventions that combine targeted support for vulnerable groups with community-based information pathways."
         },
         {
-          "title": "Experimentally validated AI model predicts virulence of tomato yellow leaf curl virus",
-          "url": "https://phys.org/news/2026-05-experimentally-validated-ai-virulence-tomato.html",
-          "domain": "phys.org",
-          "date": "2026-05-15T12:53:26.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "A CBBL research team led by Professor Balachandran Manavalan from the Department of Integrative Biotechnology at Sungkyunkwan University has developed DeepTYLCV, an accurate and interpretable artificial intelligence model for predicting the virulence of tomato yellow leaf curl virus (TYLCV)."
+          "title": "StateXDiff: Cell State-Contextualized Multimodal Diffusion for Single-Cell Perturbation Prediction",
+          "url": "https://arxiv.org/abs/2605.16104",
+          "domain": "arxiv.org",
+          "date": "2026-05-18T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2605.16104v1 Announce Type: new Abstract: Predicting drug-induced cellular state changes at single-cell resolution remains a central challenge in virtual cell modeling, particularly under out-of-distribution (OOD) conditions. Current approaches predominantly rely on RNA-based assays, which often fail to adequately capture the diverse cellular states underlying drug responses. Moreover, conditional distribution shifts and low signal-to-noise ratios frequently cause models to learn spurious correlations rather than genuine state transitions. To address these limitations, we introduce StateXDiff, a cell State-contextualized multimodal (X) Diffusion framework for predicting single-cell responses to drug perturbations. The framework operates sequentially: first, it learns a disentangled, multimodal representation of cellular state by integrating transcriptomic profiles with inferred protein features; second, it employs a conditional diffusion model to generate perturbation-specific changes. Our approach introduces a Virtual Multimodal Cell State, which augments RNA-based representations with protein-level context, and a Mechanism-aware Drug-Gene Template, which consolidates multi-source biological knowledge for accurate drug representation. Generation is driven by a latent-space diffusion Transformer, regularized through quality-aware triplet constraints, including positive drug-protein pairs or protein-drug mismatched pairs, and explicit protein-reliability weighting. Extensive evaluation demonstrates that StateXDiff consistently enhances generalization performance across three challenging settings: unseen cell lines, unseen drugs, and combinatorial perturbations."
         },
         {
-          "title": "Discovery could reshape RNA editing with DNA-guided CRISPR",
-          "url": "https://phys.org/news/2026-05-discovery-reshape-rna-dna-crispr.html",
-          "domain": "phys.org",
-          "date": "2026-05-15T09:00:02.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "A team of engineers at the University of Florida has developed a new form of CRISPR technology that could make diagnostics and treatments safer, more precise, and more affordable, while opening the door to entirely new ways of controlling disease."
+          "title": "The Complex Brain Hypothesis: Resolving the Entropy-Content Conundrum in Minimal Phenomenal Experience",
+          "url": "https://arxiv.org/abs/2605.16146",
+          "domain": "arxiv.org",
+          "date": "2026-05-18T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2605.16146v1 Announce Type: new Abstract: Minimal Phenomenal Experiences (MPEs) are states of consciousness in which wakefulness is preserved but phenomenal content is low or absent. The Entropic Brain Hypothesis (EBH) is a model of conscious processes that regards the entropy of spontaneous brain activity as a marker of 'phenomenal richness', exemplified by high-content psychedelic experiences (HCPEs). Yet recent human neuroimaging studies of MPEs induced by meditation -- and possibly 5-MeO-DMT -- suggest that these states, defined by their phenomenological simplicity, also show signs of increased neurophysiological entropy. This presents a conundrum for the EBH: brain entropy is elevated with increased and decreased richness of the phenomenal experience. Here, we put forward the Complex Brain Hypothesis (CBH), which proposes that the richness of experience differentiating MPEs from HCPEs is better indexed by complexity than by entropy. We argue that brain complexity is modulated by the grain of inference through which the brain resolves uncertainty: some HCPEs exemplify a fine-grained regime, in which loosened constraints amplify fluctuations into proliferating content, whereas some MPEs exemplify a coarse-grained regime, in which a simpler model dissolves variety into an experience of 'contentless' awareness. Both regimes can be associated with elevated brain entropy, but they diverge in phenomenology and perturbational signatures. By resolving the entropy-content conundrum, the CBH refines the EBH and highlights MPEs as an important test case for computational theories of consciousness."
         },
         {
-          "title": "Guide DNA — not RNA — expands the CRISPR toolkit",
-          "url": "https://www.nature.com/articles/s41587-026-03138-9",
-          "domain": "nature.com",
-          "date": "2026-05-15T00:00:00.000Z",
-          "source": "Nature Biotechnology",
-          "summary": "Nature Biotechnology, Published online: 15 May 2026; doi:10.1038/s41587-026-03138-9 Cas12 nucleases can use guide DNA instead of guide RNA, which switches their targets from DNA to RNA."
+          "title": "From Clever Hans to Scientific Discovery: Interpreting EEG Foundational Transformers with LRP",
+          "url": "https://arxiv.org/abs/2605.11885",
+          "domain": "arxiv.org",
+          "date": "2026-05-18T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2605.11885v1 Announce Type: cross Abstract: Emerging foundation models (FMs) in electroencephalography (EEG) promise a path to scale deep learning in diagnostics and brain-computer interfaces despite data scarcity, yet their opaque nature remains a barrier to wider adoption. We investigate attention-aware Layer-wise relevance propagation (LRP) as a post-hoc attribution method for EEG-FMs, extending LRP's use on convolutional neural network (CNN)-based EEG models to the Transformer architectures that current FMs are based on. We find that LRP can both verify EEG-FM decisions and surface novel, biologically plausible hypotheses from them. In motor imagery, it unmasks 'Clever Hans' behavior where models prioritize task correlated ocular signals over the intended motor correlates. In a naturalistic paradigm for affect prediction, it reveals a recurring reliance on a central electrode cluster, suggesting a candidate sensorimotor signature of arousal. Though heatmap interpretation remains ambiguous in this complex domain, the results position LRP as a tool for both verification and exploration of EEG-FMs, a role that will grow in both importance and discovery potential as the underlying models mature."
         },
         {
-          "title": "DNA-guided CRISPR–Cas12 for cellular RNA targeting",
-          "url": "https://www.nature.com/articles/s41587-026-03129-w",
-          "domain": "nature.com",
-          "date": "2026-05-15T00:00:00.000Z",
-          "source": "Nature Biotechnology",
-          "summary": "Nature Biotechnology, Published online: 15 May 2026; doi:10.1038/s41587-026-03129-w ΨDNA guides are used with Cas12 for precise, programmable targeting of cellular RNA."
+          "title": "Reading the Cell, Designing the Cure: Perturbation-Conditioned Molecular Diffusion for Function-Oriented Drug Design",
+          "url": "https://arxiv.org/abs/2605.15243",
+          "domain": "arxiv.org",
+          "date": "2026-05-18T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2605.15243v1 Announce Type: cross Abstract: When reliable target structures are unavailable at scale or phenotypes arise from dysregulated pathways, transcriptomic perturbations provide a system-level functional readout for drug action. In this work, we formalize \\emph{Transcriptome-based Drug Design (TBDD)} as a generative inverse problem: designing drug molecules conditioned on desired transcriptomic state transitions. We analyze the inherently ill-posed nature of this task, which is further complicated by the profound domain gap between biology and chemistry and by the sparsity of transcriptomic signals. To address these challenges, we propose \\textbf{\\themodel{}} (A \\textbf{C}ell\\textbf{U}lar \\textbf{R}esponse \\textbf{E}ngine), a multi-resolution transcriptome-guided diffusion framework. \\themodel{} features a specialized \\textbf{Transcriptome Perturbation Functional Feature Extractor (TFE)} that (1) distills function-oriented perturbation embeddings from pre/post states, (2) aligns these signatures to dual chemical views to bridge the cross-modal gap, and (3) performs heterogeneity-aware aggregation to extract robust state-specific signals from noisy transcriptomic data. Extensive evaluations on both standard benchmarks and rigorous out-of-distribution protocols demonstrate that \\themodel{} consistently outperforms strong baselines in structural quality and functional consistency. Furthermore, we validate its practical utility via a zero-shot gene-inhibitor design task, highlighting the potential of phenotype-driven generative discovery."
         },
         {
-          "title": "Widespread DNA off-targeting confounds RNA chromatin occupancy studies",
-          "url": "https://www.nature.com/articles/s41587-026-03130-3",
-          "domain": "nature.com",
-          "date": "2026-05-15T00:00:00.000Z",
-          "source": "Nature Biotechnology",
-          "summary": "Nature Biotechnology, Published online: 15 May 2026; doi:10.1038/s41587-026-03130-3 Many long noncoding RNA–DNA binding peaks detected using common assays arise from technical artifacts."
+          "title": "PACER: Acyclic Causal Discovery from Large-Scale Interventional Data",
+          "url": "https://arxiv.org/abs/2605.15353",
+          "domain": "arxiv.org",
+          "date": "2026-05-18T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2605.15353v1 Announce Type: cross Abstract: Inferring the structure of directed acyclic graphs (DAGs) from data is a central challenge in causal discovery, particularly in modern high-dimensional settings where large-scale interventional data are increasingly available. While interventional data can improve identifiability, existing methods remain limited by soft acyclicity constraints, leading to optimization over invalid cyclic graphs, numerical instability, and reduced scalability. We introduce PACER (Perturbation-driven Acyclic Causal Edge Recovery), a scalable framework for causal discovery that guarantees acyclicity by construction. PACER parameterizes a distribution over DAGs through a joint model of variable permutations and edge probabilities, enabling direct optimization over valid causal structures without surrogate penalties. The framework supports a unified likelihood-based treatment of observational and interventional data, flexible conditional density models, and the incorporation of structural prior knowledge. For linear-Gaussian mechanisms, we derive closed-form expressions for the expected interventional log-likelihood and its gradients, yielding substantial computational gains. Empirically, PACER matches or exceeds state-of-the-art methods on protein signaling and large-scale genetic perturbation benchmarks, while scaling efficiently to networks with thousands of variables and achieving up to two orders of magnitude speedups over penalty-based differentiable approaches. These results demonstrate that exact and scalable causal discovery from high-dimensional perturbation data is achievable through principled search space design."
         }
       ]
     },
@@ -277,6 +277,54 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "Yet another crypto bridge falls victim to an $11 million hack",
+          "url": "https://www.coindesk.com/markets/2026/05/18/yet-another-crypto-bridge-falls-victim-to-an-usd11-million-hack",
+          "domain": "coindesk.com",
+          "date": "2026-05-18T04:37:06.000Z",
+          "source": "CoinDesk",
+          "summary": "The latest attack adds to growing string of cross-chain infrastructure exploits."
+        },
+        {
+          "title": "Bitcoin slides under $77,000 as oil shock and Treasury yields hit risk assets",
+          "url": "https://www.coindesk.com/markets/2026/05/18/bitcoin-slides-under-usd77-000-as-oil-shock-and-treasury-yields-hit-risk-assets",
+          "domain": "coindesk.com",
+          "date": "2026-05-18T03:52:10.000Z",
+          "source": "CoinDesk",
+          "summary": "Long-term holders are still sitting tight and exchange balances remain near six-year lows, Binance Research data shows, but underwater short-term holders leave BTC vulnerable to macro shocks."
+        },
+        {
+          "title": "Bitcoin drops below $77,000 on Trump’s Iran threat, renewed inflation fears: analysts",
+          "url": "https://www.theblock.co/post/401583/bitcoin-drops-below-77000?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-18T03:37:36.000Z",
+          "source": "The Block",
+          "summary": "Investors are concerned that high oil prices could fuel inflation to the point where the Fed may raise interest rates, analysts say."
+        },
+        {
+          "title": "The Funding: As SpaceX’s listing nears, are pre-IPO perps crypto’s next big market?",
+          "url": "https://www.theblock.co/post/401570/spacex-ipo-pre-ipo-perps-crypto?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-18T03:03:34.000Z",
+          "source": "The Block",
+          "summary": "Pre-IPO perpetual futures just had their proof of concept moment with the Cerebras market on TradeXYZ. Here's where they go from here."
+        },
+        {
+          "title": "Ongoing exploit drains $11.6 million from Verus-Ethereum bridge: Blockaid",
+          "url": "https://www.theblock.co/post/401571/verus-ethereum-bridge-exploit?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-18T02:54:38.000Z",
+          "source": "The Block",
+          "summary": "Peckshield flagged that the Verus-Ethereum bridge has been drained for 103.6 tBTC, 1,625 ETH, and 147,000 USDC."
+        },
+        {
+          "title": "Grayscale, VanEck amend US spot BNB ETF filings, stepping closer to a potential launch",
+          "url": "https://cointelegraph.com/news/grayscale-vaneck-advance-bnb-etf-filings-for-potential-sec-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-18T02:40:22.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The US securities regulator approved 21Shares’ Hyperliquid ETF last week, adding to a growing number of cryptocurrencies converted into ETF wrappers in the US."
+        },
         {
           "title": "Here’s what happened in crypto today",
           "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -308,54 +356,6 @@
           "date": "2026-05-17T18:44:53.000Z",
           "source": "The Block",
           "summary": "The push comes after Japan's cabinet approved a bill last month that would reclassify crypto under the Financial Instruments and Exchange Act."
-        },
-        {
-          "title": "The Clarity Act took a step forward: State of Crypto",
-          "url": "https://www.coindesk.com/policy/2026/05/17/the-clarity-act-took-a-step-forward-state-of-crypto",
-          "domain": "coindesk.com",
-          "date": "2026-05-17T18:30:00.000Z",
-          "source": "CoinDesk",
-          "summary": "Unpacking Thursday's at-times contentious markup hearing."
-        },
-        {
-          "title": "Saylor signals BTC buy as retail holders get push on STRC dividend vote",
-          "url": "https://cointelegraph.com/news/saylor-signals-btc-buy-as-retail-holders-get-push-on-strc-dividend-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-17T18:01:00.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Michael Saylor signaled another Bitcoin buy on Sunday while urging retail investors to vote on a proxy measure enabling semi-monthly STRC dividend payouts."
-        },
-        {
-          "title": "DeFi's new front: VerifiedX bets bitcoin's next chapter is programmable, private",
-          "url": "https://www.coindesk.com/tech/2026/05/17/defi-s-new-front-verifiedx-bets-bitcoin-s-next-chapter-is-programmable-private",
-          "domain": "coindesk.com",
-          "date": "2026-05-17T12:00:00.000Z",
-          "source": "CoinDesk",
-          "summary": "VerifiedX says its Bitcoin sidechain enables programmable, privacy-preserving transactions without synthetic wrappers, targeting growing institutional demand for native DeFi on the original blockchain system."
-        },
-        {
-          "title": "Japan's SBI Securities, Rakuten Securities plan to offer crypto investment trusts",
-          "url": "https://www.coindesk.com/business/2026/05/17/japan-s-sbi-securities-rakuten-securities-plan-to-offer-crypto-investment-trusts",
-          "domain": "coindesk.com",
-          "date": "2026-05-17T11:41:31.000Z",
-          "source": "CoinDesk",
-          "summary": "Another 11 companies responded to a survey saying they would consider offering crypto funds once the regulatory environment becomes clear."
-        },
-        {
-          "title": "SBI, Rakuten, Nomura line up to launch crypto investment trusts: Report",
-          "url": "https://cointelegraph.com/news/sbi-rakuten-nomura-line-up-to-launch-crypto-investment-trusts-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-17T10:51:22.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Japan’s biggest brokerages are racing to bring crypto investment trusts to retail investors, as regulators move to formally allow crypto-holding funds by 2028."
-        },
-        {
-          "title": "Bitcoin slides below $79K on macro fears: Can fixed-income outflows save it?",
-          "url": "https://cointelegraph.com/markets/bitcoin-slides-below-79k-macro-fears-can-fixed-income-outflows-save-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-17T08:50:02.000Z",
-          "source": "CoinTelegraph",
-          "summary": "While macro pain and Iran war uncertainty drag Bitcoin below $79K, fixed-income market outflows could trigger a medium-term Bitcoin rebound."
         }
       ]
     }
