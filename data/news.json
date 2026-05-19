@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-19T19:27:10.197Z",
+  "updatedAt": "2026-05-19T21:04:32.255Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -111,7 +111,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-19T16:27:53.000Z",
           "source": "Lifespan.io",
-          "summary": "Scientists have devised a CRISPR-based tool that can kill cells carrying a specific strand of RNA. The tested targets include cancerous and virus-infected cells [1]. Targeted […]"
+          "summary": "Scientists have devised a CRISPR-based tool that can kill cells carrying a specific strand of RNA. The tested targets include cancerous and virus-infected cells [1]. Targeted assassination of cells CRISPR-based […]"
         },
         {
           "title": "‘Rebuilding the human immune system is possible’",
@@ -188,6 +188,14 @@
       ],
       "articles": [
         {
+          "title": "Field-ready tool identifies rare and zoonotic parasitic worms missed by standard tests",
+          "url": "https://phys.org/news/2026-05-field-ready-tool-rare-zoonotic.html",
+          "domain": "phys.org",
+          "date": "2026-05-19T20:40:03.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Parasitic nematodes (commonly known as roundworms) are a large, diverse and poorly studied group of disease-causing organisms that severely impact the health of humans and animals. They infect almost one-quarter of the global population and significantly impair child growth and development. Diagnosing these parasites is challenging as many species look identical, meaning common identification techniques typically miss species."
+        },
+        {
           "title": "Molecular net boosts the power of natural biopesticides",
           "url": "https://phys.org/news/2026-05-molecular-net-boosts-power-natural.html",
           "domain": "phys.org",
@@ -258,14 +266,6 @@
           "date": "2026-05-19T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2605.16480v1 Announce Type: new Abstract: Molecules are graphs, but large language models~(LLMs) are usually asked to reason about them through linear strings. The most popular molecular representation, SMILES, compresses atoms, bonds, branches and rings into a compact sequence in which topology is implicit, forcing LLMs to reconstruct molecular structure before performing the requested chemical operation. Here we introduce MoleCode, an LLM-native, training-free, graph-explicit molecular language in which all molecular components are represented as typed entities with persistent identifiers and explicit relations. MoleCode makes molecular topology directly readable, editable and auditable within the language context, allowing an LLM to operate on structure rather than recover it from syntax. Across molecular reasoning, editing, generation and analysis tasks, this representational shift improves frontier LLMs most strongly when structural access is limiting: unfamiliar molecules, topology-sensitive operations, larger structures and repetitive polymers. It also changes how inference is allocated, replacing long reasoning traces devoted to implicit structural reconstruction with shorter, more chemically directed reasoning over explicit atoms and bonds. In molecular optimization, this enables localized, property-aligned edits that preserve structural similarity to the starting compounds. The same Subgraph--Node--Edge grammar extends beyond small molecules to polymers, Markush structures, mechanism-style transformations and interleaved scientific documents, including research articles and patent disclosures in which chemical information is distributed across text and images. These results suggest that the interface between scientific objects and LLMs should not treat structure as something to be decoded from text. When the object of reasoning is relational, the structure itself should be part of the language."
-        },
-        {
-          "title": "Branching under First-Passage Resetting",
-          "url": "https://arxiv.org/abs/2605.16693",
-          "domain": "arxiv.org",
-          "date": "2026-05-19T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2605.16693v1 Announce Type: new Abstract: Many biological processes, from cell division to viral lysis, are triggered when an internal stochastic variable reaches a threshold. Here we introduce Branching under First-Passage Resetting, a general framework in which replication events arise endogenously from first-passage dynamics rather than from externally imposed lifetime clocks. We show that the resulting population dynamics obey an exact renewal equation linking single-trajectory first-passage statistics to the population growth rate. This mapping shows that, for fixed offspring number and fixed mean replication time, stochastic timing fluctuations necessarily enhance growth relative to a deterministic clock. When offspring yield depends on the first-passage time, however, fluctuations have non-trivial effects and expose a fundamental yield-delay trade-off: waiting longer can increase the number of descendants, but delays all future lineages. Our framework allows us to address this optimization problem analytically, and upon application to bacteriophage lysis, gives an optimal lysis time and growth rate consistent with empirical data."
         }
       ]
     },
@@ -277,6 +277,54 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "Bitwise calls HYPE a ‘Gen 2’ crypto token, says its undervalued",
+          "url": "https://www.theblock.co/post/401934/bitwise-calls-hype-a-gen-2-crypto-token-says-its-undervalued?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-19T20:58:07.000Z",
+          "source": "The Block",
+          "summary": "The asset manager recently launched a HYPE-based exchange-traded fund and said it will use some of the fees generated to buy the token."
+        },
+        {
+          "title": "Even a mountain of T-bills won't save Tether and Circle from a sudden liquidity crisis, expert says",
+          "url": "https://www.coindesk.com/business/2026/05/19/even-a-mountain-of-t-bills-won-t-save-tether-and-circle-from-a-sudden-liquidity-crisis-expert-says",
+          "domain": "coindesk.com",
+          "date": "2026-05-19T20:47:28.000Z",
+          "source": "CoinDesk",
+          "summary": "The head of digital assets and tokenization at one of Germany’s largest asset managers said that USDT and USDC are not stablecoins, from his perspective."
+        },
+        {
+          "title": "Tokenized equities daily volume hits all-time high of $3.57 billion",
+          "url": "https://www.theblock.co/post/401935/tokenized-equities-daily-volume-hits-all-time-high-of-3-57-billion?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-19T20:45:30.000Z",
+          "source": "The Block",
+          "summary": "The Block's data shows onchain equities trading volume growing since the start of the year, and hitting an all-time high on Monday."
+        },
+        {
+          "title": "This bitcoin bear market is different with 'uniquely pessimistic' traders limiting downside, K33 says",
+          "url": "https://www.coindesk.com/markets/2026/05/19/this-bitcoin-bear-market-is-different-with-uniquely-pessimistic-traders-limiting-downside-k33-says",
+          "domain": "coindesk.com",
+          "date": "2026-05-19T20:30:21.000Z",
+          "source": "CoinDesk",
+          "summary": "The research firm said bitcoin traders remain unusually defensive, reducing the risk of the kind of leverage-driven collapse seen in prior downturns."
+        },
+        {
+          "title": "Polymarket partners with Nasdaq to list private company contracts",
+          "url": "https://cointelegraph.com/news/polymarket-partners-with-nasdaq-to-launch-private-company-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-19T19:14:47.000Z",
+          "source": "CoinTelegraph",
+          "summary": "New markets will let users trade on fundraising, valuation and other startup milestones using data from Nasdaq Private Market, extending forecasting into private capital."
+        },
+        {
+          "title": "Zcash Foundation ends Q1 with $36.69M in liquid assets and operating expenses of $817K",
+          "url": "https://www.theblock.co/post/401924/zcash-foundation-ends-q1-with-36-69m-in-liquid-assets-and-operating-expenses-of-817k?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-19T18:49:48.000Z",
+          "source": "The Block",
+          "summary": "Zcash Foundation Q1 operating expenses came in at about $817,000, with team compensation as the largest category."
+        },
         {
           "title": "Zerohash pursues new funding at more than $1.5 billion valuation after Mastercard drops investment plans",
           "url": "https://www.coindesk.com/business/2026/05/19/zerohash-pursues-new-funding-at-more-than-usd1-5-billion-valuation-after-mastercard-drops-investment-plans",
@@ -308,54 +356,6 @@
           "date": "2026-05-19T17:26:05.000Z",
           "source": "CoinTelegraph",
           "summary": "The Massachusetts lawmaker asked the US Comptroller of the Currency to provide all communications between the agency and Donald Trump potentially related to the charter approvals."
-        },
-        {
-          "title": "Stablecoin supply tops $300 billion but growth stalls as Tether gains at rivals’ expense",
-          "url": "https://www.theblock.co/post/401707/stablecoin-supply-300-billion-growth-stalls-tether-gains-rivals-expense?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-19T17:16:02.000Z",
-          "source": "The Block",
-          "summary": "The bank-issued and GENIUS Act-compliant stablecoin entrants have had a harder start than many expected."
-        },
-        {
-          "title": "The SEC wants to let newly public companies raise cash instantly in its biggest rule change in decades",
-          "url": "https://www.coindesk.com/markets/2026/05/19/the-sec-wants-to-let-newly-public-companies-raise-cash-instantly-in-its-biggest-rule-change-in-decades",
-          "domain": "coindesk.com",
-          "date": "2026-05-19T17:04:07.000Z",
-          "source": "CoinDesk",
-          "summary": "The agency is proposing its largest overhaul of public listing rules in over 20 years, cutting compliance costs and giving crypto firms a much easier path to raise cash on Wall Street."
-        },
-        {
-          "title": "BoE deputy says tokenization could cut costs, boost competition",
-          "url": "https://cointelegraph.com/news/boe-breeden-sees-value-supporting-tokenized-uk-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-19T16:54:43.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The UK central bank said digital money should remain trusted and interoperable as it weighs stablecoin reforms and near-24/7 settlement to support tokenized markets."
-        },
-        {
-          "title": "Deloitte absorbs Blocknative team as crypto infra firm winds down APIs and Gas Network",
-          "url": "https://www.theblock.co/post/401912/deloitte-absorbs-blocknative-team-as-crypto-infra-firm-winds-down-apis-and-gas-network?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-19T16:52:27.000Z",
-          "source": "The Block",
-          "summary": "The Blocknative website now returns a post noting that the firm is “now in the process of ceasing operations.\""
-        },
-        {
-          "title": "The U.S. can’t lose the bitcoin race to China",
-          "url": "https://www.coindesk.com/opinion/2026/05/19/the-u-s-can-t-lose-the-bitcoin-race-to-china",
-          "domain": "coindesk.com",
-          "date": "2026-05-19T16:36:30.000Z",
-          "source": "CoinDesk",
-          "summary": "The next global power competition is not being fought over missiles alone. It’s being fought over money, and right now, China is moving aggressively to shape the future of it, argues Gooden."
-        },
-        {
-          "title": "XRP price risks 50% drop despite 9-day ETF inflow streak",
-          "url": "https://cointelegraph.com/markets/xrp-price-risks-50-drop-despite-9-day-etf-inflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-19T16:20:35.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Spot XRP ETFs record net inflows for nine days, absorbing sell pressure and potentially supporting an XRP price recovery over time."
         }
       ]
     }
