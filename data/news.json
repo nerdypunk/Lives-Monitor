@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-19T03:57:18.857Z",
+  "updatedAt": "2026-05-19T07:53:36.174Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -8,6 +8,14 @@
         "https://news.google.com/rss/search?q=DeSci%20OR%20%22decentralized%20science%22%20OR%20%22BIO%20Protocol%22&hl=en-US&gl=US&ceid=US:en"
       ],
       "articles": [
+        {
+          "title": "Manadia Partners With NanoVita To Advance AI-Powered DeSci Infrastructure - BlockchainReporter",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeE5GVzFSdmhuMXh5RjhwS1lLQmdGR1ZhYndON1RROU5NZ2s2b0FZTmtKaFItYnZqTzBlblMySDFVWG8tenlzaTBzd1U2Q2NILXRTaTVFUDk3Z2JsczFDcVd0VWR4U3lpY2Y3VmJnMzlqQjllOEJKcDBWWFhmNHFyWTBFWGFkWlg3NC1fVmthRGYwS3VRQXZJZ0UwQVpab1NhRWJZRlU3blc?oc=5",
+          "domain": "blockchainreporter.net",
+          "date": "2026-05-19T07:00:54.000Z",
+          "source": "BlockchainReporter",
+          "summary": "Manadia Partners With NanoVita To Advance AI-Powered DeSci Infrastructure &nbsp;&nbsp; BlockchainReporter"
+        },
         {
           "title": "NanoVita Integrates ARPA RNG for Secure DeSci Apps - MEXC Exchange",
           "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1XeTlGcmZSeGlLMWZqLWtNd0ZNYTRxTXdJM3NkdTFHT255eW1fU1d0R0VrQUgwLUZycTNCSEhNb3VMcDBjRTFB?oc=5",
@@ -79,14 +87,6 @@
           "date": "2026-05-10T10:03:32.000Z",
           "source": "MEXC Exchange",
           "summary": "NanoVita Launches NANA Token On KTX Exchange, Enabling DeSci Network Access To DeFi Users &nbsp;&nbsp; MEXC Exchange"
-        },
-        {
-          "title": "NanoVita Labs Launches $NANA Token on PancakeSwap – A New Era for AI-Driven Decentralized Science - Cryptonews.net",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5xdkZSLWxFMVl6Ti1DQUZjdGxOaHJwdFpEaE1sLUtRaDdYY3dBRGdxbGszbWFhNDhEdlEzNWRkXy1SR2Z0cnBOQVZGMFJHV2VBclpGaEZjWQ?oc=5",
-          "domain": "cryptonews.net",
-          "date": "2026-05-06T07:00:00.000Z",
-          "source": "Cryptonews.net",
-          "summary": "NanoVita Labs Launches $NANA Token on PancakeSwap – A New Era for AI-Driven Decentralized Science &nbsp;&nbsp; Cryptonews.net"
         }
       ]
     },
@@ -127,7 +127,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-18T16:36:44.000Z",
           "source": "Lifespan.io",
-          "summary": "We have spoken with Reason from Repair Biotechnologies about his company’s lead candidate, REP-0004, a drug targeting the liver to reduce excess intracellular free cholesterol. The FDA has granted Repair Bio an orphan drug […]"
+          "summary": "We have spoken with Reason from Repair Biotechnologies about his company’s lead candidate, REP-0004, a drug targeting the liver to reduce excess intracellular free cholesterol. The FDA has granted Repair […]"
         },
         {
           "title": "The case for fasting as regenerative medicine",
@@ -188,84 +188,84 @@
       ],
       "articles": [
         {
-          "title": "Bioengineers condense protein engineering and testing to a single day",
-          "url": "https://phys.org/news/2026-05-bioengineers-condense-protein-day.html",
-          "domain": "phys.org",
-          "date": "2026-05-18T23:40:02.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Proteins are critical to life—and to industry. There are countless proteins that could be engineered to treat and even cure serious diseases and cellular dysfunctions. Industrial applications are similarly promising, with proteins increasingly used as enzymes in food manufacturing and in consumer detergents."
-        },
-        {
-          "title": "Dust reveals 54 viruses in buildings, pointing to new outbreak warning tool",
-          "url": "https://phys.org/news/2026-05-reveals-viruses-outbreak-tool.html",
-          "domain": "phys.org",
-          "date": "2026-05-18T15:39:01.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Gathering dust from buildings may hold promise as a more efficient way to track viral outbreaks in indoor settings, according to a new study published in Building and Environment by researchers from the Ohio State University. After collecting nearly 30 vacuumed dust samples from places like schools, university residence halls and office buildings, the team simultaneously identified the presence of 54 distinct viruses, including SARS-CoV-2, influenza, norovirus, Epstein-Barr virus, and others."
-        },
-        {
-          "title": "Do Biological Structural Guarantees Earn Their Complexity?",
-          "url": "https://arxiv.org/abs/2605.15225",
+          "title": "A Machine Learning Framework for EEG-Based Prediction of Treatment Efficacy in Chronic Neck Pain",
+          "url": "https://arxiv.org/abs/2605.16326",
           "domain": "arxiv.org",
-          "date": "2026-05-18T04:00:00.000Z",
+          "date": "2026-05-19T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2605.15225v1 Announce Type: new Abstract: Biologically-inspired AI agent frameworks claim reliability benefits through structural guarantees adapted from gene regulatory networks, immune systems, and metabolic control. These claims are rarely tested empirically against simpler alternatives. We present three deep benchmarks: metabolic priority gating, autoinducer-based quorum sensing, and Bayesian stagnation detection, each comparing a biologically-grounded implementation against a naive non-biological alternative and an ablated control, across 1,000 trials per seed and 10 seeds (10M+ data points total)."
+          "summary": "arXiv:2605.16326v1 Announce Type: new Abstract: Chronic neck pain is a leading cause of disability worldwide, and current treatment selection remains largely trial and error. We present a machine learning framework that uses electroencephalography to predict treatment efficacy in patients with chronic neck pain, with the goal of supporting individualized therapy and reducing the burden on healthcare systems. The framework centers on a rigorous data preprocessing stage tailored to the characteristics of each EEG recording type. For resting-state EEG, the preprocessing pipeline comprises baseline signal removal, bad channel identification and exclusion, re-referencing, bandpass and notch filtering, Independent Component Analysis, and power spectral density analysis. For motor execution and motor imagery recordings, the same initial steps are applied, after which signals are aligned to trigger events so that event-related desynchronization (ERD) and event-related synchronization (ERS) can be quantified. Synchronously recorded electromyography data are bandpass filtered and smoothed with a moving average, then correlated with the corresponding EEG channels to characterize the EEG EMG relationship during attempted movement. In parallel, we performed an extensive literature review of machine learning models applied to clinical EEG (763 records initially screened, 16 patient and 47 healthy-control studies retained), to inform the post-processing strategy. Through this combined preprocessing and review effort, we aim to develop a robust predictive model that can support personalized healthcare strategies in chronic pain management."
         },
         {
-          "title": "A geometry-dependent, force balance-driven model of Staphylococcus epidermidis biofilm cell cluster detachment",
-          "url": "https://arxiv.org/abs/2605.15364",
+          "title": "Retrieval and competition: how a protein foundation model starts a protein",
+          "url": "https://arxiv.org/abs/2605.16331",
           "domain": "arxiv.org",
-          "date": "2026-05-18T04:00:00.000Z",
+          "date": "2026-05-19T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2605.15364v1 Announce Type: new Abstract: Biofilms, bacteria cells surrounded by a self-produced polymeric matrix, are common on medical devices and lead to many hospital infections. The biofilm lifecycle includes disassembly and dispersion, where bacteria clusters detach from the biofilm, circulate in the bloodstream, and potentially colonize secondary infection sites. Existing models often simplify detachment to a function of biofilm thickness or extracellular polymeric substance (EPS) density, without tracking properties of detached clusters that impact their biological fate, including cluster size and morphology. Addressing this gap, our detachment model accounts for drag and adhesion in tagged sections of the biofilm determined by the cluster geometry and local arrangement of bacteria and EPS. A stickiness parameter controls local EPS adhesion strength, which is modulated to disrupt (or compromise) EPS biomass. We specifically model the detachment of clusters from a Staphylococcus epidermidis biofilm grown for 24 hours. Experimental data for biofilm microstructural features are utilized to benchmark the simulated biofilm, which is then subjected to different EPS disruption levels. We examine parameters that influence detached biofilm cell cluster frequency, size, and shape, providing mechanistic insights into how compromised EPS influences detachment dynamics. This integrated modeling framework is a significant advance in the predictive capabilities for biofilm detachment processes."
+          "summary": "arXiv:2605.16331v1 Announce Type: new Abstract: Protein language models are increasingly used to guide experimental and clinical decisions, yet it is often unclear whether a confident prediction reflects recognition of biological evidence or retrieval of a statistical default. We examine this distinction for a near-universal biological rule, that proteins begin with methionine, by tracing the computational pathway through which ESM2-8M produces this prediction. The model does not detect methionine at the masked position. Instead, it retrieves a methionine-favouring signal from a reference representation at the beginning-of-sequence token via a position-specific query assembled across layers, with the final output emerging through competition with context-dependent circuits. To understand how positional information reaches the readout, we introduce a norm-direction decomposition of attention scores within rotary frequency bands. Positional encoding operates through coupled changes in query norm and angular alignment distributed across these bands. On sequences whose true N-terminus is not methionine, where the biological question matters, the model predicts methionine anyway. This is not a correct prediction produced by an unexpected mechanism, but the output of a positional-prior retrieval circuit that matches the statistical average and fails where biology diverges from it. Distinguishing the two requires resolution at the level of individual circuits, frequency bands, and query composition, suggesting that mechanistic verification will be necessary, and challenging, for predictions where the biological stakes are higher. Even for the simplest biological rule, the model's prediction is mediated by a distributed computational circuit rather than direct recognition, suggesting that increasing task complexity will further obscure the relationship between model confidence and underlying biological evidence."
         },
         {
-          "title": "Beyond Flickering: Introducing Code-Modulated Motion Visual Evoked Potentials for Brain-Computer Interfacing",
-          "url": "https://arxiv.org/abs/2605.15801",
+          "title": "Microdroplets Fail to Retain Exhaled Volatile Biomarkers within a Single Breath",
+          "url": "https://arxiv.org/abs/2605.16356",
           "domain": "arxiv.org",
-          "date": "2026-05-18T04:00:00.000Z",
+          "date": "2026-05-19T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2605.15801v1 Announce Type: new Abstract: A code-modulated motion visual evoked potential (c-MVEP) for brain-computer interfacing (BCI) is presented in this study. This paradigm uses pseudo-random sequences to visually stimulate objects using motion as an alternative to flickering. In an offline experiment of this study, EEG data were recorded and compared during sequential stimulation of a single object under four conditions: c-MVEP, code-modulated visual evoked potential (c-VEP), steady-state motion visual evoked potential (SSMVEP), and steady-state visual evoked potential (SSVEP). c-MVEP showed similar time-domain characteristics as c-VEP, and also in the frequency domain c-MVEP evoked a broadband response similar to c-VEP, with a comparable signal-to-noise ratio (SNR), albeit more focused in the lower frequency range. Both SSMVEP and SSVEP showed clear oscillatory responses at the stimulation frequency and harmonics, with a higher SNR for SSVEP than SSMVEP. The spatial distribution of c-MVEP showed the main activation at Oz and spread across multiple electrodes, whereas c-VEP showed less spreading and was more focused at Oz. Similar observations were made for SSMVEP and SSVEP. From subjective ratings, there was no clear preference for the motion-based stimulation of SSMVEP or c-MVEP over flicker-based stimulation of SSVEP or c-VEP. The online experiment of this study, evaluated a 4-class BCI with the same four conditions, testing the practical feasibility of the c-MVEP paradigm. The c-MVEP BCI reached a mean accuracy of 85.67% with an average selection time of 2.61s, which was significantly lower than c-VEP (97.81%; 1.15s) and SSVEP (93.42%; 1.94s), but significantly higher than SSMVEP (64.91%; 4.18s). Overall, this study shows the great potential of the newly proposed c-MVEP paradigm using motion stimulation for BCI applications, providing a valuable alternative to the c-VEP paradigm using flickering stimulation."
+          "summary": "arXiv:2605.16356v1 Announce Type: new Abstract: Exhaled breath condensate (EBC) contains volatile metabolites and is promising for non-invasive disease diagnosis, but after decades of research spanning over 100 biomarkers and 10 diseases, no EBC-based test has reached clinical use. The measurement variability that can span orders of magnitude, far exceeding the clinically required 10%, has long been attributed to biological factors. Here, we reveal a fundamentally different origin: the collected microdroplets themselves fail to retain volatile biomarkers. By isolating volatile co-condensation and transient evaporation from biological interference, we show that EBC microdroplets smaller than 100 {\\mu}m lose clinically significant volatile content within a single breath cycle. This challenges the implicit assumption underlying decades of EBC research, that condensate faithfully reflects airway lining fluid. We develop and validate a physics-based model that predicts this loss across disease-relevant biomarkers and establishes the conditions for reliable EBC sampling. This work reframes EBC variability as a solvable engineering problem rather than an inherent biological limitation."
         },
         {
-          "title": "How nature discovers rare Turing islands: exploration by common limit cycles",
-          "url": "https://arxiv.org/abs/2605.15839",
+          "title": "Bridging the Modality Bottleneck in Pathology MIL through Virtual Molecular Staining",
+          "url": "https://arxiv.org/abs/2605.16392",
           "domain": "arxiv.org",
-          "date": "2026-05-18T04:00:00.000Z",
+          "date": "2026-05-19T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2605.15839v1 Announce Type: new Abstract: Turing patterns are a cornerstone of biological self-organization, yet their emergence typically requires finely tuned parameters occupying narrow regions of high-dimensional space. This poses a fundamental challenge: how can evolving biological systems reliably find and exploit such rare conditions? In this work, we propose that common biochemical limit cycles, such as those arising from genetic feedback loops, can act as natural explorers of Turing space. By coupling a reaction-diffusion system to an orbit that modulates some of its parameters, we show that the system can dynamically sweep through Turing-permissive regimes and generate transient spatial patterns. We use an entropy-based measure in Fourier space to quantify pattern formation and demonstrate how cycles enhance the detectability and robustness of Turing islands. We further explore how coupling to positional gradients increases reproducibility, suggesting a route from oscillatory dynamics to stable developmental programs. Our results highlight a powerful mechanism by which nature might bootstrap complex spatial structure from simple temporal motifs."
+          "summary": "arXiv:2605.16392v1 Announce Type: new Abstract: Multiple instance learning (MIL) is the dominant framework for whole-slide image analysis in computational pathology, typically combining a frozen patch encoder, a projection layer, and a slide-level aggregator. While encoders and aggregators have been extensively studied, the projection layer remains a largely morphology-only bottleneck. This limits endpoints such as biomarker status and survival, which are governed by a molecular state that is not fully captured by H&E morphology. We introduce Molecularly Informed Staining Transform (MIST), a plug-in replacement for the MIL projection layer that uses paired spatial transcriptomics only during training to construct virtual molecular stains. MIST clusters gene expression profiles into cross-modal prototypes, anchors them in the frozen foundation model feature space, and uses them to reorganize H&E patch features along molecularly guided axes. It requires no transcriptomics at inference and can be inserted before standard MIL aggregators. We evaluate MIST across 23 downstream tasks and 8 MIL aggregators. MIST improves 240 of 256 configurations over the standard projection layer, with an average gain of +3.5%, observed consistently across endpoint types: +5.2% on survival prediction, +3.3% on tissue subtyping, and +2.6% on biomarker prediction. Ablations confirm that gene-derived prototypes are the primary source of the gains, while spatial, biological, and pathological analyses show that cross-modal prototype affinities capture spatially coherent molecular programs from H&E alone."
         },
         {
-          "title": "The Impact of Heatwaves on Population Health: A Large Language Model-Enhanced Agent-Based Simulation",
-          "url": "https://arxiv.org/abs/2605.15918",
+          "title": "An exponential logarithmic measure of drug receptor binding and saturation",
+          "url": "https://arxiv.org/abs/2605.16466",
           "domain": "arxiv.org",
-          "date": "2026-05-18T04:00:00.000Z",
+          "date": "2026-05-19T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2605.15918v1 Announce Type: new Abstract: Extreme heat events are increasing in frequency and intensity under climate change, but the socio-behavioral mechanisms that shape community resilience remain insufficiently understood. This study uses a Large Language Model-enhanced agent-based model to simulate responses to a prolonged heatwave in a virtual society. One hundred heterogeneous agents were assigned a Heat Vulnerability Index based on demographic risk factors and observed over 13 simulated days covering baseline, heatwave, and recovery periods. The simulation shows that heat-related impacts are primarily psychosocial and unequally distributed. Agents with higher vulnerability experienced larger declines in perceived safety and social connection than agents with lower vulnerability. Vulnerability also shaped adaptive capacity. More resilient agents maintained routine self-care and protective behaviors, whereas highly vulnerable agents showed behavioral constriction, marked by reduced engagement in protective actions. At the collective level, risk-information diffusion followed a pattern of complex contagion, with adoption driven more by repeated social reinforcement within cohesive networks than by broad exposure alone. These findings suggest that LLM-enhanced simulation can help identify behavioral and social mechanisms of climate resilience and inform heat-risk interventions that combine targeted support for vulnerable groups with community-based information pathways."
+          "summary": "arXiv:2605.16466v1 Announce Type: new Abstract: Ligand receptor interactions are commonly assessed through equilibrium occupancy and pharmacodynamic measures that describe binding and saturation by means of bounded response curves. Thermodynamic approaches relate binding affinity to logarithmic concentration scaling, while probabilistic descriptions of occupancy arise from exponential relations. We introduce an exponential logarithmic descriptor (ELD) that integrates ligand availability and thermodynamic binding propensity within a single quantity. The logarithmic component corresponds to a thermodynamic term derived from concentration dependent free energy relations, whereas the exponential component is represented through an inverse normalized concentration term corresponding to the reciprocal of the exponential occupancy factor emerging from Boltzmann type binding formulations. We explored ELD behavior through numerical simulations spanning sub affinity, transition and saturating concentration regimes under multiple affinity conditions and time dependent exposure profiles. Compared with conventional occupancy curves, ELD retained a broader dynamic range and revealed asymmetric sensitivity across concentration scales, particularly at low exposure and near saturation, where bounded occupancy measures progressively compress variability. The resulting behavior reflects the coexistence of amplification and constraint processes within ligand receptor dynamics. ELD may provide quantitative representation for biological systems in which exponential and logarithmic processes coexist across different scales. Potential applications include characterization of dose response transitions, identification of subtherapeutic and saturating exposure states, comparison of compounds with different affinities, normalization across heterogeneous datasets and continuous tracking of pharmacodynamic regimes during time dependent exposure."
         },
         {
-          "title": "StateXDiff: Cell State-Contextualized Multimodal Diffusion for Single-Cell Perturbation Prediction",
-          "url": "https://arxiv.org/abs/2605.16104",
+          "title": "MoleCode unlocks structural intelligence in large language models",
+          "url": "https://arxiv.org/abs/2605.16480",
           "domain": "arxiv.org",
-          "date": "2026-05-18T04:00:00.000Z",
+          "date": "2026-05-19T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2605.16104v1 Announce Type: new Abstract: Predicting drug-induced cellular state changes at single-cell resolution remains a central challenge in virtual cell modeling, particularly under out-of-distribution (OOD) conditions. Current approaches predominantly rely on RNA-based assays, which often fail to adequately capture the diverse cellular states underlying drug responses. Moreover, conditional distribution shifts and low signal-to-noise ratios frequently cause models to learn spurious correlations rather than genuine state transitions. To address these limitations, we introduce StateXDiff, a cell State-contextualized multimodal (X) Diffusion framework for predicting single-cell responses to drug perturbations. The framework operates sequentially: first, it learns a disentangled, multimodal representation of cellular state by integrating transcriptomic profiles with inferred protein features; second, it employs a conditional diffusion model to generate perturbation-specific changes. Our approach introduces a Virtual Multimodal Cell State, which augments RNA-based representations with protein-level context, and a Mechanism-aware Drug-Gene Template, which consolidates multi-source biological knowledge for accurate drug representation. Generation is driven by a latent-space diffusion Transformer, regularized through quality-aware triplet constraints, including positive drug-protein pairs or protein-drug mismatched pairs, and explicit protein-reliability weighting. Extensive evaluation demonstrates that StateXDiff consistently enhances generalization performance across three challenging settings: unseen cell lines, unseen drugs, and combinatorial perturbations."
+          "summary": "arXiv:2605.16480v1 Announce Type: new Abstract: Molecules are graphs, but large language models~(LLMs) are usually asked to reason about them through linear strings. The most popular molecular representation, SMILES, compresses atoms, bonds, branches and rings into a compact sequence in which topology is implicit, forcing LLMs to reconstruct molecular structure before performing the requested chemical operation. Here we introduce MoleCode, an LLM-native, training-free, graph-explicit molecular language in which all molecular components are represented as typed entities with persistent identifiers and explicit relations. MoleCode makes molecular topology directly readable, editable and auditable within the language context, allowing an LLM to operate on structure rather than recover it from syntax. Across molecular reasoning, editing, generation and analysis tasks, this representational shift improves frontier LLMs most strongly when structural access is limiting: unfamiliar molecules, topology-sensitive operations, larger structures and repetitive polymers. It also changes how inference is allocated, replacing long reasoning traces devoted to implicit structural reconstruction with shorter, more chemically directed reasoning over explicit atoms and bonds. In molecular optimization, this enables localized, property-aligned edits that preserve structural similarity to the starting compounds. The same Subgraph--Node--Edge grammar extends beyond small molecules to polymers, Markush structures, mechanism-style transformations and interleaved scientific documents, including research articles and patent disclosures in which chemical information is distributed across text and images. These results suggest that the interface between scientific objects and LLMs should not treat structure as something to be decoded from text. When the object of reasoning is relational, the structure itself should be part of the language."
         },
         {
-          "title": "The Complex Brain Hypothesis: Resolving the Entropy-Content Conundrum in Minimal Phenomenal Experience",
-          "url": "https://arxiv.org/abs/2605.16146",
+          "title": "Branching under First-Passage Resetting",
+          "url": "https://arxiv.org/abs/2605.16693",
           "domain": "arxiv.org",
-          "date": "2026-05-18T04:00:00.000Z",
+          "date": "2026-05-19T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2605.16146v1 Announce Type: new Abstract: Minimal Phenomenal Experiences (MPEs) are states of consciousness in which wakefulness is preserved but phenomenal content is low or absent. The Entropic Brain Hypothesis (EBH) is a model of conscious processes that regards the entropy of spontaneous brain activity as a marker of 'phenomenal richness', exemplified by high-content psychedelic experiences (HCPEs). Yet recent human neuroimaging studies of MPEs induced by meditation -- and possibly 5-MeO-DMT -- suggest that these states, defined by their phenomenological simplicity, also show signs of increased neurophysiological entropy. This presents a conundrum for the EBH: brain entropy is elevated with increased and decreased richness of the phenomenal experience. Here, we put forward the Complex Brain Hypothesis (CBH), which proposes that the richness of experience differentiating MPEs from HCPEs is better indexed by complexity than by entropy. We argue that brain complexity is modulated by the grain of inference through which the brain resolves uncertainty: some HCPEs exemplify a fine-grained regime, in which loosened constraints amplify fluctuations into proliferating content, whereas some MPEs exemplify a coarse-grained regime, in which a simpler model dissolves variety into an experience of 'contentless' awareness. Both regimes can be associated with elevated brain entropy, but they diverge in phenomenology and perturbational signatures. By resolving the entropy-content conundrum, the CBH refines the EBH and highlights MPEs as an important test case for computational theories of consciousness."
+          "summary": "arXiv:2605.16693v1 Announce Type: new Abstract: Many biological processes, from cell division to viral lysis, are triggered when an internal stochastic variable reaches a threshold. Here we introduce Branching under First-Passage Resetting, a general framework in which replication events arise endogenously from first-passage dynamics rather than from externally imposed lifetime clocks. We show that the resulting population dynamics obey an exact renewal equation linking single-trajectory first-passage statistics to the population growth rate. This mapping shows that, for fixed offspring number and fixed mean replication time, stochastic timing fluctuations necessarily enhance growth relative to a deterministic clock. When offspring yield depends on the first-passage time, however, fluctuations have non-trivial effects and expose a fundamental yield-delay trade-off: waiting longer can increase the number of descendants, but delays all future lineages. Our framework allows us to address this optimization problem analytically, and upon application to bacteriophage lysis, gives an optimal lysis time and growth rate consistent with empirical data."
         },
         {
-          "title": "From Clever Hans to Scientific Discovery: Interpreting EEG Foundational Transformers with LRP",
-          "url": "https://arxiv.org/abs/2605.11885",
+          "title": "Discovering interpretable low-dimensional dynamics using maximum entropy",
+          "url": "https://arxiv.org/abs/2605.16724",
           "domain": "arxiv.org",
-          "date": "2026-05-18T04:00:00.000Z",
+          "date": "2026-05-19T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2605.11885v1 Announce Type: cross Abstract: Emerging foundation models (FMs) in electroencephalography (EEG) promise a path to scale deep learning in diagnostics and brain-computer interfaces despite data scarcity, yet their opaque nature remains a barrier to wider adoption. We investigate attention-aware Layer-wise relevance propagation (LRP) as a post-hoc attribution method for EEG-FMs, extending LRP's use on convolutional neural network (CNN)-based EEG models to the Transformer architectures that current FMs are based on. We find that LRP can both verify EEG-FM decisions and surface novel, biologically plausible hypotheses from them. In motor imagery, it unmasks 'Clever Hans' behavior where models prioritize task correlated ocular signals over the intended motor correlates. In a naturalistic paradigm for affect prediction, it reveals a recurring reliance on a central electrode cluster, suggesting a candidate sensorimotor signature of arousal. Though heatmap interpretation remains ambiguous in this complex domain, the results position LRP as a tool for both verification and exploration of EEG-FMs, a role that will grow in both importance and discovery potential as the underlying models mature."
+          "summary": "arXiv:2605.16724v1 Announce Type: new Abstract: Models (i.e., governing equations) are fundamental to science and engineering. Advances in data acquisition now make it possible to extract interpretable, low dimensional descriptions from high dimensional observations. However, existing approaches sacrifice either interpretability for reconstruction accuracy or infer symbolic dynamics without relating latent coordinates to physically meaningful observables. Here we present Edwin (maximum entropy driven compression with interpretable nonlinear model discovery), a unified framework that simultaneously performs dimensionality reduction using the dynamic maximum entropy (DME) principle and discovers sparse symbolic models governing latent dynamics, as well as the coupling between learned features and external metadata. We validate Edwin on diverse simulated systems, including stochastic diffusion, the Ornstein-Uhlenbeck process, self assembling particles, spiking neural populations, and low rank recurrent neural networks, as well as on a noisy experimental time series of aggregating RNA-liposome complexes. Across all systems, Edwin recovers low dimensional symbolic models that are physically interpretable and generalize to unseen conditions. Together, these results establish Edwin as a powerful framework for inferring interpretable, low dimensional dynamics directly from high dimensional data."
+        },
+        {
+          "title": "Viability Space Decomposition: A geometric partition of survival outcomes in single- and multi-agent systems",
+          "url": "https://arxiv.org/abs/2605.16753",
+          "domain": "arxiv.org",
+          "date": "2026-05-19T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2605.16753v1 Announce Type: new Abstract: What determines whether an organism or collective will survive under particular conditions? This question is asked across the life sciences when determining adaptive fit, developing efficacious treatments for diseases, and assessing the risks posed by ecological shifts. To aid their investigations, researchers employ models of agents which must respect particular constraints to remain alive. By constraining the dynamics of these agents to bounded viability regions, these models form a class of extended dynamical systems where transient dynamics can lead to death, making traditional attractors and separatrices insufficient for characterizing the global space of possible behaviors. To remedy this, we develop viability space decomposition, an analysis framework for ordinary differential equation models of agents with viability constraints. We first introduce the general theory, revealing how several new classes of manifolds (mortality, ordering, and collapse) permit a complete decomposition of state space into regions of qualitatively similar survival outcomes: a viability portrait. We then demonstrate the method by completely analyzing the global behavior of three models: a subcellular network, a behaving cell with the same physiology, and two coupled cell networks. Finally, we finish by discussing how the framework scales and future directions for its development and application."
+        },
+        {
+          "title": "Control Laws in Aging and Longevity",
+          "url": "https://arxiv.org/abs/2605.16781",
+          "domain": "arxiv.org",
+          "date": "2026-05-19T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2605.16781v1 Announce Type: new Abstract: Aging research has produced powerful explanatory frameworks -- evolutionary theories, the Hallmarks of Aging, SENS, geroscience, hyperfunction, and information-loss models -- yet none provides quantitative rules for determining which intervention, in which biological state, at what dose, time, and sequence, will safely restore function. Existing frameworks characterize what changes during aging; they do not define equations of motion, safety constraints, or optimality conditions for drug discovery. We propose a control-theoretic framework in which aging is defined as progressive loss of safe controllability: the increasing cost and decreasing feasibility of returning a biological system to a functional viability set. Biological age is the minimum safe control cost required to restore or maintain function. Drugs are vector fields on biological state space; targets are ranked by expected cost reduction; combinations by their expansion of the reachable safe set; sequences matter because intervention vector fields do not commute. We provide a five-dimensional ODE model with analytic Lie-bracket derivation of order dependence; a modality-aware control layer distinguishing small molecules, biologics, gene therapy, and reprogramming by reversibility and safety envelope; three translational case studies (thymus, sarcopenia, ovarian aging); an implementation architecture with power analysis; and empirical scoring of 110 aging interventions across five biological epochs. The framework generates twenty falsifiable predictions. The central empirical claim is that control-value reduction predicts translational success better than Hallmark annotation or static biomarker reversal."
         }
       ]
     },
@@ -277,6 +277,70 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "Republican lawmakers call for permanent CBDC ban as House vote approaches",
+          "url": "https://cointelegraph.com/news/us-lawmakers-permanent-cbdc-ban-housing-bill-debate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-19T07:08:10.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Tom Emmer, the House majority whip, is also advocating for his Anti-CBDC Surveillance State Act, which has passed the House but has yet to pass the Senate."
+        },
+        {
+          "title": "Ethereum Foundation sees 2 more high-profile departures",
+          "url": "https://cointelegraph.com/news/ethereum-foundation-sees-2-more-high-profile-departures-amid-wave-of-resignations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-19T07:04:27.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Ethereum Foundation researchers Julian Ma and Carl Beek have resigned, bringing the total number of major departures from the nonprofit to at least eight in 2026."
+        },
+        {
+          "title": "Spot bitcoin ETFs log $649 million in net outflows, largest since January",
+          "url": "https://www.theblock.co/post/401780/spot-bitcoin-etf-649-million-outflows?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-19T06:39:13.000Z",
+          "source": "The Block",
+          "summary": "Bitcoin is trading below $77,000 due to geopolitical tensions, inflation fears, and higher U.S. Treasury yields, analysts said."
+        },
+        {
+          "title": "Bitcoin has shed $5,000 within days. ETF flows, derivatives say the selloff could worsen",
+          "url": "https://www.coindesk.com/markets/2026/05/19/bitcoin-has-shed-usd5-000-within-days-the-data-says-this-selloff-could-worsen",
+          "domain": "coindesk.com",
+          "date": "2026-05-19T06:08:22.000Z",
+          "source": "CoinDesk",
+          "summary": "Bitcoin has fallen about 6% from $82,000 to $76,800, and underlying data point to the drop being more than a routine pullback."
+        },
+        {
+          "title": "World Liberty Financial treasury company AI Financial warns in SEC filing that it may not survive the year",
+          "url": "https://www.coindesk.com/markets/2026/05/19/world-liberty-financial-wlfi-treasury-company-ai-financial-warns-in-sec-filing-that-it-may-not-survive-the-year",
+          "domain": "coindesk.com",
+          "date": "2026-05-19T05:35:32.000Z",
+          "source": "CoinDesk",
+          "summary": "The former Alt5 Sigma marked its 7.28 billion WLFI tokens at $706 million, down from a roughly $1.46 billion cost basis, while disclosing that the holdings remain locked amid liquidity concerns."
+        },
+        {
+          "title": "About 10% of Americans used crypto in 2025, highest level since 2022: Fed",
+          "url": "https://cointelegraph.com/news/10-percent-of-americans-invested-or-used-crypto-in-2025-federal-reserve?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-19T05:13:57.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Among those who used crypto for payments, over 25% said they did so because the business preferred crypto, citing speed, privacy and lower cost advantages."
+        },
+        {
+          "title": "Echo Protocol's eBTC exploited for $77M in admin key compromise",
+          "url": "https://cointelegraph.com/news/echo-protocols-ebtc-exploited-for-76m-in-admin-key-compromise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-19T04:52:25.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The hacker has already laundered nearly 5% of the loot through Tornado Cash and is still holding the remaining 955 eBTC."
+        },
+        {
+          "title": "Ether pullback was ‘attractive opportunity’ for 71,672 ETH buy: Bitmine’s Lee",
+          "url": "https://cointelegraph.com/news/tom-lee-bitmine-buys-71672-eth-during-price-pullback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-19T04:21:57.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bitmine chairman Tom Lee said the company is expected to have accumulated 5% of Ether's total supply before the end of the year."
+        },
         {
           "title": "Minnesota signs law allowing banks, credit unions to offer crypto custody services",
           "url": "https://www.theblock.co/post/401775/minnesota-bank-crypto-custody?utm_source=rss&utm_medium=rss",
@@ -292,70 +356,6 @@
           "date": "2026-05-19T02:49:27.000Z",
           "source": "The Block",
           "summary": "BTCFi protocol Echo was exploited, with the attacker minting 1,000 eBTC on Monad and using it as collateral to borrow WBTC."
-        },
-        {
-          "title": "SEC’s innovation exemption for tokenized stocks to come as early as this week: Bloomberg",
-          "url": "https://www.theblock.co/post/401766/sec-innovation-exemption-tokenized-securities-this-week?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-19T01:49:57.000Z",
-          "source": "The Block",
-          "summary": "The SEC has approved several entities to move forward with tokenized stock initiatives, including the NYSE and Nasdaq."
-        },
-        {
-          "title": "Retail Bitcoin investor demand falls by 73% as futures selling tops $2B: Are the bears back?",
-          "url": "https://cointelegraph.com/markets/bitcoin-retail-demand-on-binance-drops-73-as-futures-selling-tops-2b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-18T23:40:51.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Bitcoin retail inflows to Binance remained at record lows as aggressive BTC futures selling and weakening spot demand pressured BTC below $77,000."
-        },
-        {
-          "title": "Odds against rate cuts high as new US Fed chair set for swearing in",
-          "url": "https://cointelegraph.com/news/interest-rates-fed-chair-kevin-warsh-sworn-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-18T22:49:27.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Many experts voiced concerns that the confirmation of Kevin Warsh as Federal Reserve chair would lead to uncertainty about the central bank’s independence, particularly in setting interest rates."
-        },
-        {
-          "title": "Galaxy secures New York BitLicense to expand institutional crypto services",
-          "url": "https://cointelegraph.com/news/galaxy-secures-new-york-bitlicense-institutional-crypto-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-18T22:20:31.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The NYDFS approvals allow GalaxyOne Prime NY to offer trading and financing services to institutional investors in one of the most tightly regulated US crypto markets."
-        },
-        {
-          "title": "SEC to propose tokenized stock framework as Wall Street efforts deepen: Bloomberg",
-          "url": "https://www.coindesk.com/policy/2026/05/18/sec-to-propose-tokenized-stock-framework-as-wall-street-efforts-deepen-bloomberg",
-          "domain": "coindesk.com",
-          "date": "2026-05-18T22:20:27.000Z",
-          "source": "CoinDesk",
-          "summary": "The U.S. Securities and Exchange Commission is reportedly poised to release a major crypto proposal as it seeks to institute its digital assets agenda."
-        },
-        {
-          "title": "Ethereum’s onchain conviction grows as staked ETH rises, even as price underperforms",
-          "url": "https://www.theblock.co/post/401709/ethereum-onchain-conviction-grows-staked-eth-rises-price-underperforms?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-18T21:51:04.000Z",
-          "source": "The Block",
-          "summary": "A contracting float against any meaningful demand recovery has historically been a constructive setup for price."
-        },
-        {
-          "title": "Bitcoin lost its hold on $80K, but three events may send it back sooner than markets expect",
-          "url": "https://cointelegraph.com/markets/bitcoin-lost-its-hold-on-80k-but-three-events-may-send-it-back-sooner-than-markets-expect?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-18T21:47:48.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Bitcoin positions itself for a rally above $80,000 after Strategy's $2 billion BTC buy, crumbling investor confidence in the US Treasury and a potential US-Iran deal."
-        },
-        {
-          "title": "Ohio man sentenced to 9 years for running $10 million crypto Ponzi scheme",
-          "url": "https://www.theblock.co/post/401761/ohio-man-sentenced-to-9-years-for-running-10-million-crypto-ponzi-scheme?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-18T21:33:27.000Z",
-          "source": "The Block",
-          "summary": "The CFTC filed an enforcement action against Rathnakishore Giri in August 2022 for running the fraudulent investment scheme."
         }
       ]
     }
