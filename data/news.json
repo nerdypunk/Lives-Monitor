@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-19T17:16:12.620Z",
+  "updatedAt": "2026-05-19T19:27:10.197Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -9,20 +9,12 @@
       ],
       "articles": [
         {
-          "title": "Manadia Partners with NanoVita to Advance AI-Powered DeSci Infrastructure - Cryptonews.net",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE44ZEczTDNpVHBqNHNnMjhCVEJKY2pXVW5yZjRYa1B1aXRFOHBHNmlnLXJYYnV1X2dNRlEzcGVWeTZyeHZibFJJVFpaREdKczgySndpbFJ5NTZqeUdu?oc=5",
-          "domain": "cryptonews.net",
-          "date": "2026-05-18T07:00:00.000Z",
-          "source": "Cryptonews.net",
-          "summary": "Manadia Partners with NanoVita to Advance AI-Powered DeSci Infrastructure &nbsp;&nbsp; Cryptonews.net"
-        },
-        {
-          "title": "Bio Protocol Price () - Binance",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mb0tWdjRWTlQ4SE9SUk9fM2YxVTBieUVYT29IOHp3cG1BQXd0M0FKZzQxbmNzekpqUmlhT0hxT2hWUGtRQXVIeG92UDhlVU1USWg5TExR?oc=5",
-          "domain": "binance.com",
-          "date": "2026-05-16T07:47:00.000Z",
-          "source": "Binance",
-          "summary": "Bio Protocol Price () &nbsp;&nbsp; Binance"
+          "title": "Manadia Partners With NanoVita To Advance AI-Powered DeSci Infrastructure - BlockchainReporter",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeE5GVzFSdmhuMXh5RjhwS1lLQmdGR1ZhYndON1RROU5NZ2s2b0FZTmtKaFItYnZqTzBlblMySDFVWG8tenlzaTBzd1U2Q2NILXRTaTVFUDk3Z2JsczFDcVd0VWR4U3lpY2Y3VmJnMzlqQjllOEJKcDBWWFhmNHFyWTBFWGFkWlg3NC1fVmthRGYwS3VRQXZJZ0UwQVpab1NhRWJZRlU3blc?oc=5",
+          "domain": "blockchainreporter.net",
+          "date": "2026-05-19T07:00:54.000Z",
+          "source": "BlockchainReporter",
+          "summary": "Manadia Partners With NanoVita To Advance AI-Powered DeSci Infrastructure &nbsp;&nbsp; BlockchainReporter"
         },
         {
           "title": "PEPTAI Price Swings Wild As Base Integration Fuels DeSci Hype - coinpedia.org",
@@ -87,6 +79,14 @@
           "date": "2026-05-06T07:00:00.000Z",
           "source": "Cryptonews.net",
           "summary": "NanoVita Labs Launches $NANA Token on PancakeSwap – A New Era for AI-Driven Decentralized Science &nbsp;&nbsp; Cryptonews.net"
+        },
+        {
+          "title": "DeSci's Second Coming? - Delphi Digital",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxekJCVU5kTFJ2YTV3Ny1uZmE0NVJzQUVHQno2bUV3dWVwVGttLVozTDlsMk93dWw2Nl9OLXktYkYtbkFyQ285bXF4eEo1dDFEWkd6ZVNIWG52NU5fREFNTTRfNlVET25nMmc?oc=5",
+          "domain": "members.delphidigital.io",
+          "date": "2026-05-05T16:07:54.000Z",
+          "source": "Delphi Digital",
+          "summary": "DeSci's Second Coming? &nbsp;&nbsp; Delphi Digital"
         }
       ]
     },
@@ -111,7 +111,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-19T16:27:53.000Z",
           "source": "Lifespan.io",
-          "summary": "Scientists have devised a CRISPR-based tool that can kill cells carrying a specific strand of RNA. The tested targets include cancerous and virus-infected cells [1]. Targeted assassination of cells CRISPR-based systems work by cutting or changing DNA at a […]"
+          "summary": "Scientists have devised a CRISPR-based tool that can kill cells carrying a specific strand of RNA. The tested targets include cancerous and virus-infected cells [1]. Targeted […]"
         },
         {
           "title": "‘Rebuilding the human immune system is possible’",
@@ -188,6 +188,14 @@
       ],
       "articles": [
         {
+          "title": "Molecular net boosts the power of natural biopesticides",
+          "url": "https://phys.org/news/2026-05-molecular-net-boosts-power-natural.html",
+          "domain": "phys.org",
+          "date": "2026-05-19T18:00:14.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Scientists at VIB and Vrije Universiteit Brussel have uncovered a previously unknown mechanism that helps a widely used biological pesticide become more effective. The study, published in Nature Communications, reveals how bacteria produce ultra-strong protein fibers that form a molecular net, trapping infectious spores and toxins into a sticky film that enhances their ability to kill insect pests."
+        },
+        {
           "title": "Proteins that create ice inspire 'cool' applications, from cryomedicine to artificial snow",
           "url": "https://phys.org/news/2026-05-proteins-ice-cool-applications-cryomedicine.html",
           "domain": "phys.org",
@@ -258,14 +266,6 @@
           "date": "2026-05-19T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2605.16693v1 Announce Type: new Abstract: Many biological processes, from cell division to viral lysis, are triggered when an internal stochastic variable reaches a threshold. Here we introduce Branching under First-Passage Resetting, a general framework in which replication events arise endogenously from first-passage dynamics rather than from externally imposed lifetime clocks. We show that the resulting population dynamics obey an exact renewal equation linking single-trajectory first-passage statistics to the population growth rate. This mapping shows that, for fixed offspring number and fixed mean replication time, stochastic timing fluctuations necessarily enhance growth relative to a deterministic clock. When offspring yield depends on the first-passage time, however, fluctuations have non-trivial effects and expose a fundamental yield-delay trade-off: waiting longer can increase the number of descendants, but delays all future lineages. Our framework allows us to address this optimization problem analytically, and upon application to bacteriophage lysis, gives an optimal lysis time and growth rate consistent with empirical data."
-        },
-        {
-          "title": "Discovering interpretable low-dimensional dynamics using maximum entropy",
-          "url": "https://arxiv.org/abs/2605.16724",
-          "domain": "arxiv.org",
-          "date": "2026-05-19T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2605.16724v1 Announce Type: new Abstract: Models (i.e., governing equations) are fundamental to science and engineering. Advances in data acquisition now make it possible to extract interpretable, low dimensional descriptions from high dimensional observations. However, existing approaches sacrifice either interpretability for reconstruction accuracy or infer symbolic dynamics without relating latent coordinates to physically meaningful observables. Here we present Edwin (maximum entropy driven compression with interpretable nonlinear model discovery), a unified framework that simultaneously performs dimensionality reduction using the dynamic maximum entropy (DME) principle and discovers sparse symbolic models governing latent dynamics, as well as the coupling between learned features and external metadata. We validate Edwin on diverse simulated systems, including stochastic diffusion, the Ornstein-Uhlenbeck process, self assembling particles, spiking neural populations, and low rank recurrent neural networks, as well as on a noisy experimental time series of aggregating RNA-liposome complexes. Across all systems, Edwin recovers low dimensional symbolic models that are physically interpretable and generalize to unseen conditions. Together, these results establish Edwin as a powerful framework for inferring interpretable, low dimensional dynamics directly from high dimensional data."
         }
       ]
     },
@@ -277,6 +277,46 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "Zerohash pursues new funding at more than $1.5 billion valuation after Mastercard drops investment plans",
+          "url": "https://www.coindesk.com/business/2026/05/19/zerohash-pursues-new-funding-at-more-than-usd1-5-billion-valuation-after-mastercard-drops-investment-plans",
+          "domain": "coindesk.com",
+          "date": "2026-05-19T18:46:18.000Z",
+          "source": "CoinDesk",
+          "summary": "Crypto infrastructure providers are drawing renewed investor interest as Wall Street deepens its push into digital assets."
+        },
+        {
+          "title": "Hyperliquid’s HYPE one of crypto’s most undervalued assets, says Bitwise",
+          "url": "https://www.coindesk.com/markets/2026/05/19/hyperliquid-s-hype-one-of-crypto-s-most-undervalued-assets-says-bitwise",
+          "domain": "coindesk.com",
+          "date": "2026-05-19T18:33:58.000Z",
+          "source": "CoinDesk",
+          "summary": "The crypto asset manager argued the market is mispricing Hyperliquid as a niche derivatives exchange instead of a fast-growing “super-app” for global trading markets."
+        },
+        {
+          "title": "CFTC sues Minnesota over first explicit state ban on prediction markets",
+          "url": "https://www.theblock.co/post/401917/cftc-sues-minnesota-first-explicit-state-ban-prediction-markets?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-19T18:22:02.000Z",
+          "source": "The Block",
+          "summary": "Minnesota’s law could expose exchanges, payment providers, media partners, and sports leagues to criminal liability."
+        },
+        {
+          "title": "Senator Warren questions OCC chief on approval of ‘ineligible’ crypto trust charters",
+          "url": "https://cointelegraph.com/news/elizabeth-warren-seeks-occ-communications-crypto-trust-charters-eyeing-trump-links?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-19T17:26:05.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The Massachusetts lawmaker asked the US Comptroller of the Currency to provide all communications between the agency and Donald Trump potentially related to the charter approvals."
+        },
+        {
+          "title": "Stablecoin supply tops $300 billion but growth stalls as Tether gains at rivals’ expense",
+          "url": "https://www.theblock.co/post/401707/stablecoin-supply-300-billion-growth-stalls-tether-gains-rivals-expense?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-19T17:16:02.000Z",
+          "source": "The Block",
+          "summary": "The bank-issued and GENIUS Act-compliant stablecoin entrants have had a harder start than many expected."
+        },
         {
           "title": "The SEC wants to let newly public companies raise cash instantly in its biggest rule change in decades",
           "url": "https://www.coindesk.com/markets/2026/05/19/the-sec-wants-to-let-newly-public-companies-raise-cash-instantly-in-its-biggest-rule-change-in-decades",
@@ -316,46 +356,6 @@
           "date": "2026-05-19T16:20:35.000Z",
           "source": "CoinTelegraph",
           "summary": "Spot XRP ETFs record net inflows for nine days, absorbing sell pressure and potentially supporting an XRP price recovery over time."
-        },
-        {
-          "title": "Bitcoin price stays under $77K as US bond yields near 20-year highs",
-          "url": "https://cointelegraph.com/markets/bitcoin-price-stays-under-77k-as-us-bond-yields-near-20-year-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-19T16:00:27.000Z",
-          "source": "CoinTelegraph",
-          "summary": "BTC price stayed pinned below $77,000 amid rising US bond yields and oil prices, with market analysts saying Bitcoin is now at a \"crucial level of support.\""
-        },
-        {
-          "title": "Stablecoin infrastructure startup Checker raises $8 million from Galaxy Ventures and others",
-          "url": "https://www.theblock.co/post/401906/stablecoin-infrastructure-startup-checker-funding?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-19T16:00:02.000Z",
-          "source": "The Block",
-          "summary": "Stablecoin infrastructure startup Checker has raised $8 million in funding from a range of investors including Galaxy and Framework."
-        },
-        {
-          "title": "A viral hedgehog, Vitalik Buterin, and a bow: the GraphDex launch that crypto won't forget",
-          "url": "https://cointelegraph.com/press-releases/a-viral-hedgehog-vitalik-buterin-and-a-bow-the-graphdex-launch-that-crypto-wont-forget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-19T16:00:00.000Z",
-          "source": "CoinTelegraph",
-          "summary": "5,800 users in two hours. One QR code. One bow that went viral."
-        },
-        {
-          "title": "Tor Project to lead Web3 crowdfunding to support internet freedom",
-          "url": "https://cointelegraph.com/news/privacy-coalition-turns-to-crypto-to-fund-anti-censorship-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-19T16:00:00.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Global internet freedom has declined for 15 consecutive years, with more countries restricting access to more of the internet, according to Freedom House."
-        },
-        {
-          "title": "‘What's happening at the EF?’ Ethereum community looking for answers after high-profile departures",
-          "url": "https://www.coindesk.com/tech/2026/05/19/what-s-happening-at-the-ef-ethereum-community-looking-for-answers-after-high-profile-departures",
-          "domain": "coindesk.com",
-          "date": "2026-05-19T15:45:26.000Z",
-          "source": "CoinDesk",
-          "summary": "A wave of recent high-profile departures at the Ethereum Foundation has reignited longstanding questions from community members about what is going on inside the organization."
         }
       ]
     }
