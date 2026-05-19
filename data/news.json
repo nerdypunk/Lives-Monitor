@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-19T22:39:22.108Z",
+  "updatedAt": "2026-05-19T23:46:20.990Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -111,7 +111,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-19T16:27:53.000Z",
           "source": "Lifespan.io",
-          "summary": "Scientists have devised a CRISPR-based tool that can kill cells carrying a specific strand of RNA. The tested targets include cancerous and […]"
+          "summary": "Scientists have devised a CRISPR-based tool that can kill cells carrying a specific strand of RNA. The tested targets include […]"
         },
         {
           "title": "‘Rebuilding the human immune system is possible’",
@@ -278,6 +278,14 @@
       ],
       "articles": [
         {
+          "title": "Trump orders government, Fed to review crypto firms' access to payment rails",
+          "url": "https://www.coindesk.com/policy/2026/05/19/trump-orders-government-fed-to-review-crypto-firms-access-to-payment-rails",
+          "domain": "coindesk.com",
+          "date": "2026-05-19T22:54:08.000Z",
+          "source": "CoinDesk",
+          "summary": "Donald Trump's executive order asks the Fed to review how depository institutions may be granted access to payment services, an area the crypto industry is deeply involved with."
+        },
+        {
           "title": "Ethereum leads $65 billion RWA race as blockchains compete for institutional tokenization flows",
           "url": "https://www.theblock.co/post/401711/ethereum-leads-65-billion-rwa-race-blockchains-compete-institutional-tokenization-flows?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
@@ -348,14 +356,6 @@
           "date": "2026-05-19T18:49:48.000Z",
           "source": "The Block",
           "summary": "Zcash Foundation Q1 operating expenses came in at about $817,000, with team compensation as the largest category."
-        },
-        {
-          "title": "Zerohash pursues new funding at more than $1.5 billion valuation after Mastercard drops investment plans",
-          "url": "https://www.coindesk.com/business/2026/05/19/zerohash-pursues-new-funding-at-more-than-usd1-5-billion-valuation-after-mastercard-drops-investment-plans",
-          "domain": "coindesk.com",
-          "date": "2026-05-19T18:46:18.000Z",
-          "source": "CoinDesk",
-          "summary": "Crypto infrastructure providers are drawing renewed investor interest as Wall Street deepens its push into digital assets."
         }
       ]
     }
