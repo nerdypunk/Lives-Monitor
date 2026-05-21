@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-21T04:45:34.811Z",
+  "updatedAt": "2026-05-21T08:24:17.824Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -119,7 +119,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-20T16:58:33.000Z",
           "source": "Lifespan.io",
-          "summary": "In Aging Cell, researchers have described the differences between primary and secondary senescent cells, comparing radiation-induced senescence to senescence induced by the senescence-associated secretory phenotype (SASP). Heterogeneity on top of heterogeneity It is well-known that senescent cells are […]"
+          "summary": "In Aging Cell, researchers have described the differences between primary and secondary senescent cells, comparing radiation-induced senescence to senescence induced by the senescence-associated secretory phenotype (SASP). Heterogeneity on top of heterogeneity It is well-known that senescent cells are highly heterogenous […]"
         },
         {
           "title": "The medical wearable making BP cuffs look old",
@@ -135,7 +135,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-20T14:41:45.000Z",
           "source": "Lifespan.io",
-          "summary": "Beijing, China — In response to the growing healthcare demands of a rapidly ageing population, China has launched its first national competency-based education programme in […]"
+          "summary": "Beijing, China — In response to the growing healthcare demands of a rapidly ageing population, China has launched its first national competency-based education programme in longevity medicine, marking a significant […]"
         },
         {
           "title": "Worth an unfiltered look: The people powering longevity",
@@ -278,84 +278,84 @@
       ],
       "articles": [
         {
-          "title": "SEC reviewing implications of delayed prediction market ETFs, Atkins says",
-          "url": "https://www.theblock.co/post/402125/sec-reviewing-prediction-market-etfs?utm_source=rss&utm_medium=rss",
+          "title": "IG Europe taps Bitpanda to expand crypto offerings in EU citing client demand",
+          "url": "https://www.theblock.co/post/402104/ig-europe-bitpanda-expand-crypto-offering-eu-citing-client-demand?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-05-21T03:45:13.000Z",
+          "date": "2026-05-21T08:00:00.000Z",
           "source": "The Block",
-          "summary": "SEC Chair Paul Atkins said he instructed the agency's staff to seek public input on prediction market ETFs."
+          "summary": "\"Our clients want crypto exposure from a platform they trust. This partnership delivers it,\" IG Europe Managing Director Esteve Jane said."
         },
         {
-          "title": "Hyperliquid ETFs attract record $25.5 million in net inflows as institutions pile in",
-          "url": "https://www.theblock.co/post/402120/hyperliquid-etfs-25-million-inflows?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-21T03:10:44.000Z",
-          "source": "The Block",
-          "summary": "U.S. spot HYPE ETFs saw $25.5 million in net inflows on Wednesday, marking their largest positive flows since launch."
-        },
-        {
-          "title": "Fed seeks input on expanding master account access following Trump’s executive order",
-          "url": "https://www.theblock.co/post/402114/fed-input-master-account?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-21T02:20:39.000Z",
-          "source": "The Block",
-          "summary": "Trump signed an order on Tuesday requesting the Fed to review and update regulations to integrate digital assets into traditional systems."
-        },
-        {
-          "title": "SpaceX reveals larger-than-expected Bitcoin holdings in IPO filing",
-          "url": "https://cointelegraph.com/news/spacex-filing-reveals-larger-than-expected-bitcoin-holdings-ahead-of-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "Silvergate’s Fraher breaks silence on settlement with Gensler’s SEC",
+          "url": "https://cointelegraph.com/news/silvergates-fraher-breaks-silence-on-settlement-with-genslers-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-05-21T02:08:30.000Z",
+          "date": "2026-05-21T07:38:46.000Z",
           "source": "CoinTelegraph",
-          "summary": "SpaceX is expected to go public next month, which would make its 18,712 Bitcoin holdings rank seventh among public companies."
+          "summary": "Former Silvergate executive Kate Fraher said the rule that prevented her from sharing her side of the story was unconstitutional. It was finally lifted by the SEC this week."
         },
         {
-          "title": "Polymarket moves to list parlays while SEC seeks public input on prediction market ETFs",
-          "url": "https://www.coindesk.com/policy/2026/05/20/polymarket-moves-to-list-parlays-while-sec-seeks-public-input-on-prediction-market-etfs",
+          "title": "Tax evaders are trying ‘novel digital assets’ to dodge authorities: Chainalysis",
+          "url": "https://cointelegraph.com/news/criminals-attempt-to-use-bitcoin-ordinals-to-evade-authorities-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-21T07:34:52.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Italian authorities uncovered a tax evasion scheme in which an individual allegedly used Bitcoin Ordinals and the BRC-20 token standard to generate and conceal $1.1 million."
+        },
+        {
+          "title": "Syndicate Labs winds down after 5 years, citing shrinking rollup market",
+          "url": "https://cointelegraph.com/news/ethereum-infrastructure-firm-syndicate-labs-closes-citing-shift-in-rollup-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-21T07:30:06.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The Ethereum rollup market is dominated by Arbitrum and Base, which have a combined 68% market share, according to L2Beat."
+        },
+        {
+          "title": "Binance launches SpaceX pre-IPO perps amid $2 trillion valuation bets",
+          "url": "https://www.coindesk.com/markets/2026/05/21/binance-launches-spacex-pre-ipo-perps",
           "domain": "coindesk.com",
-          "date": "2026-05-20T22:55:53.000Z",
+          "date": "2026-05-21T07:03:20.000Z",
           "source": "CoinDesk",
-          "summary": "The \"combinatorial outcome contracts\" would resolve if every part of an underlying contract resolved, according to a filing."
+          "summary": "Binance looks to democratize pre-IPO markets, starting with SpaceX perpetual futures."
         },
         {
-          "title": "Key Bitcoin price metric used by bulls falls to six-week low, but there’s a silver lining",
-          "url": "https://cointelegraph.com/markets/bitcoin-coinbase-premium-slidse-to-six-week-lows-but-there-is-a-silver-lining?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "SEC seeks public comment as it weighs prediction market ETFs",
+          "url": "https://cointelegraph.com/news/sec-seeks-public-comment-as-it-weighs-prediction-market-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-05-20T22:53:48.000Z",
+          "date": "2026-05-21T05:44:37.000Z",
           "source": "CoinTelegraph",
-          "summary": "Profit-taking by Bitcoin traders pushed the Coinbase BTC premium to a six-week low, but demand from longer-term traders put a clear support under the range lows."
+          "summary": "Bitwise, Roundhill Investments and GraniteShares had their prediction market ETF applications put on hold by the SEC earlier this month."
         },
         {
-          "title": "Bitcoin miners tied to AI rise as Nvidia posts big earnings beat and strong outlook",
-          "url": "https://www.coindesk.com/markets/2026/05/20/bitcoin-miners-rise-as-nvidia-posts-blowout-earnings-and-strong-outlook",
+          "title": "Don't call us just a WLFI treasury company, says AI Financial",
+          "url": "https://www.coindesk.com/markets/2026/05/21/don-t-call-us-just-a-wlfi-treasury-company-says-ai-financial",
           "domain": "coindesk.com",
-          "date": "2026-05-20T22:22:52.000Z",
+          "date": "2026-05-21T05:20:35.000Z",
           "source": "CoinDesk",
-          "summary": "Nvidia's stronger-than-expected results and bullish AI outlook lifted crypto mining stocks tied to data center and high-performance computing demand, even as the chipmaker's shares fell due to growth concerns."
+          "summary": "The company says it is building a broader fintech, tokenization and digital infrastructure business, but its latest SEC filing shows WLFI still dominates the balance sheet."
         },
         {
-          "title": "Federal Reserve proposes limited master accounts long pursued by crypto firms",
-          "url": "https://www.coindesk.com/policy/2026/05/20/federal-reserve-proposes-limited-master-accounts-long-pursued-by-crypto-firms",
+          "title": "Here's why bitcoin turned lower from the 200-day average",
+          "url": "https://www.coindesk.com/markets/2026/05/21/bitcoin-s-rebound-has-a-buyer-problem-as-etf-coinbase-and-korea-demand-fade",
           "domain": "coindesk.com",
-          "date": "2026-05-20T22:11:10.000Z",
+          "date": "2026-05-21T04:52:32.000Z",
           "source": "CoinDesk",
-          "summary": "The U.S. Fed issued a revised proposal on the structure of payment accounts, taking the next step to build on an earlier pitch for so-called skinny accounts."
+          "summary": "BTC recently turned lower from the 200-day average, a barometer of long-term trends. CryptoQuant explains why."
         },
         {
-          "title": "Missouri AG sues crypto ATM operator CoinFlip ‘for enabling scams’",
-          "url": "https://cointelegraph.com/news/missouri-attorney-general-lawsuit-coinflip-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "Hyperliquid ETFs surprise with 50% volume jump after slow launch",
+          "url": "https://cointelegraph.com/news/hyperliquid-etfs-see-50-volume-jump-with-perfectly-timed-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-05-20T22:03:44.000Z",
+          "date": "2026-05-21T04:36:42.000Z",
           "source": "CoinTelegraph",
-          "summary": "The lawsuit followed the launch of a December 2025 investigation by Missouri authorities into several crypto ATM companies, citing “deceptive fee structures” and scams."
+          "summary": "ETF analyst Eric Balchunas says crypto and traditional assets are trading down while Hyperliquid is up, leading to a boon for ETFs tied to the token."
         },
         {
-          "title": "Coinbase expands branded stablecoin infrastructure business with Flipcash USDF launch",
-          "url": "https://cointelegraph.com/news/coinbase-powers-flipcash-stablecoin-launch-with-usdc-backed-usdf-on-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "Map Protocol token plummets 96% after a quadrillion token mint exploit",
+          "url": "https://cointelegraph.com/news/map-protocol-loses-96-of-its-value-after-quadrillion-token-mint-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-05-20T21:37:09.000Z",
+          "date": "2026-05-21T04:35:52.000Z",
           "source": "CoinTelegraph",
-          "summary": "The launch marks Coinbase’s latest push into white-label stablecoin infrastructure for businesses building branded digital payment and settlement systems."
+          "summary": "The attacker tricked the Butter Network cross-chain bridge into minting millions more tokens than the legitimate supply of MAPO."
         }
       ]
     }
