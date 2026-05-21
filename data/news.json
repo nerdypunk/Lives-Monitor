@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-21T00:12:42.325Z",
+  "updatedAt": "2026-05-21T04:45:34.811Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -65,6 +65,14 @@
           "summary": "Bio Protocol (BIO) - AI Scientist Demo - 12 May 2026 &nbsp;&nbsp; TradingView"
         },
         {
+          "title": "Bio Protocol 多签钱包向 CEX 转入 8000 万枚 BIO，约 515 万美元 - CryptoRank",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vSFZtczd0ZWlHd0JnWnI4ZlM0MmlHUmFrZDRMbGUtSmJ3Nzd1TVZyMHZzVzg3TlNWNFJZWjExUWoxcWNSbWZ1OTQzZGRrNEh3NEp6ZERlRUY?oc=5",
+          "domain": "cryptorank.io",
+          "date": "2026-05-10T17:23:31.000Z",
+          "source": "CryptoRank",
+          "summary": "Bio Protocol 多签钱包向 CEX 转入 8000 万枚 BIO，约 515 万美元 &nbsp;&nbsp; CryptoRank"
+        },
+        {
           "title": "NanoVita Launches NANA Token On KTX Exchange, Enabling DeSci Network Access To DeFi Users - MEXC",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5wZWJkWWZsNmdSY2ZJdmkzSW1zTkZnMWRKMlo2TmpFSTZYZXRkcF9VQ1IwOHNGQWk0LTRHUmc1RFlJTlUxZC1qbQ?oc=5",
           "domain": "mexc.com",
@@ -79,14 +87,6 @@
           "date": "2026-05-06T07:00:00.000Z",
           "source": "Cryptonews.net",
           "summary": "NanoVita Labs Launches $NANA Token on PancakeSwap – A New Era for AI-Driven Decentralized Science &nbsp;&nbsp; Cryptonews.net"
-        },
-        {
-          "title": "DeSci's Second Coming? - Delphi Digital",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxekJCVU5kTFJ2YTV3Ny1uZmE0NVJzQUVHQno2bUV3dWVwVGttLVozTDlsMk93dWw2Nl9OLXktYkYtbkFyQ285bXF4eEo1dDFEWkd6ZVNIWG52NU5fREFNTTRfNlVET25nMmc?oc=5",
-          "domain": "members.delphidigital.io",
-          "date": "2026-05-05T16:07:54.000Z",
-          "source": "Delphi Digital",
-          "summary": "DeSci's Second Coming? &nbsp;&nbsp; Delphi Digital"
         }
       ]
     },
@@ -119,7 +119,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-20T16:58:33.000Z",
           "source": "Lifespan.io",
-          "summary": "In Aging Cell, researchers have described the differences between primary and secondary senescent cells, comparing radiation-induced senescence to senescence induced by the senescence-associated secretory phenotype […]"
+          "summary": "In Aging Cell, researchers have described the differences between primary and secondary senescent cells, comparing radiation-induced senescence to senescence induced by the senescence-associated secretory phenotype (SASP). Heterogeneity on top of heterogeneity It is well-known that senescent cells are […]"
         },
         {
           "title": "The medical wearable making BP cuffs look old",
@@ -135,7 +135,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-20T14:41:45.000Z",
           "source": "Lifespan.io",
-          "summary": "Beijing, China — In response to the growing healthcare demands of a rapidly ageing population, China has launched its first national competency-based […]"
+          "summary": "Beijing, China — In response to the growing healthcare demands of a rapidly ageing population, China has launched its first national competency-based education programme in […]"
         },
         {
           "title": "Worth an unfiltered look: The people powering longevity",
@@ -188,84 +188,84 @@
       ],
       "articles": [
         {
-          "title": "New research offers practical biosecurity tools to limit poultry disease spread",
-          "url": "https://phys.org/news/2026-05-biosecurity-tools-limit-poultry-disease.html",
-          "domain": "phys.org",
-          "date": "2026-05-21T00:00:01.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "New research from a Texas A&M College of Agriculture and Life Sciences doctoral graduate could help producers better protect poultry flocks from disease outbreaks while reducing costs."
-        },
-        {
-          "title": "Glowing fungi expose final enzyme that could make bioluminescent tools more efficient",
-          "url": "https://phys.org/news/2026-05-fungi-expose-enzyme-bioluminescent-tools.html",
-          "domain": "phys.org",
-          "date": "2026-05-20T07:10:01.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Like fireflies and many deep-sea creatures, certain fungi can naturally emit light through bioluminescence pathways in which specialized enzymes convert chemical energy into visible light. Medical researchers have used fungal light-producing enzymes in the fungal bioluminescence pathway (FBP) to visually track processes like tumor progression and inflammatory responses. New research published in The FEBS Journal provides insights that may help improve and expand such bioluminescence-based tools and applications."
-        },
-        {
-          "title": "Features have life history. And we should care",
-          "url": "https://arxiv.org/abs/2605.18789",
+          "title": "Platonic Representations in the Human Brain: Unsupervised Recovery of Universal Geometry",
+          "url": "https://arxiv.org/abs/2605.20496",
           "domain": "arxiv.org",
-          "date": "2026-05-20T04:00:00.000Z",
+          "date": "2026-05-21T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2605.18789v1 Announce Type: new Abstract: Features in language models have life history: they emerge, persist, and die during training, yet the importance of that history remains largely unexplored. We find evidence of a persistent representational backbone, which we identify in Pythia-160M and -410M as the carrier scaffold: ${\\sim}50$ sparse features with stable life histories, around which the model's representational structure organises. It has four properties. \\emph{(i)}~\\emph{It assembles early:} features emerge, die, and reorganise ${\\sim}40\\!\\times$ faster in the first $1\\%$ of training than afterwards, and the scaffold is already largely fixed by then. \\emph{(ii)}~\\emph{It is load-bearing:} joint cross-layer ablation identifies the carriers as far more load-bearing than any count-matched non-scaffold population, a gap invisible to per-firing single-feature methods. \\emph{(iii)}~\\emph{Function precedes direction:} which features will become carriers is already predictable from training-onset firing patterns alone, correctly distinguishing future carriers from non-carriers in $4$ of $5$ cases, before the geometry has settled. \\emph{(iv)}~\\emph{It seeds subsequent development:} by the end of training, scaffold carriers have recruited $64\\%$ of all active features into the scaffold hierarchy. Life history is consistent with a two-phase account of training: selection appears to largely determine the scaffold in the first $1\\%$; the remaining $99\\%$ appears to calibrate geometry around a substrate already set."
+          "summary": "arXiv:2605.20496v1 Announce Type: new Abstract: The Strong Platonic Representation Hypothesis suggests that representational convergence in artificial neural networks can be harnessed constructively: embeddings can be translated across models through a universal latent space without paired data. We ask whether an analogous geometry can be recovered across human brains. Using fMRI data from the Natural Scenes Dataset, we propose a self-supervised encoder that learns subject-specific embeddings from brain data alone by exploiting repeated stimulus presentations. We show that these independently learned spaces can be translated across subjects using unsupervised orthogonal rotations, without paired cross-subject samples or intermediate model representations. Synchronizing pairwise rotations into a single shared latent space further improves cross-subject retrieval, indicating that subject-specific spaces are mutually compatible with a common coordinate system. These results provide evidence for a shared neural geometry in the human visual cortex: subject-specific fMRI representations are approximately isometric across individuals and can be translated through purely geometric transformations."
         },
         {
-          "title": "Towards Discovery of Polymers for Insulin Delivery via Physics-Grounded Agentic Workflows",
-          "url": "https://arxiv.org/abs/2605.18831",
+          "title": "Multi-Modal Machine Learning for Population- and Subject-Specific lncRNA-Type 2 Diabetes Association Analysis",
+          "url": "https://arxiv.org/abs/2605.20747",
           "domain": "arxiv.org",
-          "date": "2026-05-20T04:00:00.000Z",
+          "date": "2026-05-21T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2605.18831v1 Announce Type: new Abstract: Cold-chain storage limits access to insulin for hundreds of millions of people; a thermally protective patch polymer could help, but the design space is too large for exhaustive experiment. Starting from that problem, we narrow to an agentic workflow: a large language model (LLM) calls physics-based tools through the Model Context Protocol (MCP), searching the discrete PSMILES space under a budget of OpenMM Packmol-matrix evaluations. The LLM acts as an implicit acquisition function conditioned on a persistent \"discovery world\": hypotheses, literature claims, and simulation outcomes updated each iteration. Under matched oracle budgets, the best autonomous campaign reaches an insulin-polymer interaction energy of -2263 kJ/mol, outperforming reinforcement-learning baselines by 68% and Bayesian optimization by 19%. Three independent campaigns converge on one structural motif (dense hydrogen-bond donors and acceptors per repeat unit) while physics checks reject infeasible packings and name-structure mismatches before they steer the next step. The science stage is CPU-bound and runs on commodity hardware. More broadly, the same architecture and workflow designed here applies to other protein-stabilization tasks whenever a tractable screening oracle is available."
+          "summary": "arXiv:2605.20747v1 Announce Type: new Abstract: Long non-coding RNAs (lncRNAs) are emerging regulatory molecules implicated in chronic disease pathogenesis, including Type 2 Diabetes Mellitus (T2D). We investigated ten literature reported lncRNAs associated with T2D: MALAT1, MEG3, MIAT, ANRIL, GAS5, KCNQ1OT1, H19, BCYRN1, XIST, and HOTAIR across two independent population-based RNA-seq cohorts. Single-omics approaches provide an incomplete view of disease biology, therefore, an integrative multi-feature framework was developed, extracting expression, secondary-structure, and sequence features for each lncRNA. Eight machine learning (ML) classifiers were evaluated under stratified k-fold, leave-one-out cross-validation (LOOCV), and repeated hold-out schemes to ensure robust performance estimation. SHAP analysis was applied for subject-level association interpretation. In one cohort, GAS5 and XIST expression features, along with GAS5, MEG3, and ANRIL sequence features, were found to be associated with T2D, while MALAT1 expression and KCNQ1OT1, ANRIL, and MEG3 sequence features were found to be associated in the second cohort. MEG3 was identified by SHAP as the dominant lncRNA in both cohorts. ML results were consistent with established statistical methods while additionally providing population- and subject-level disease association profiles linked to specific molecular feature types. The proposed framework advances mechanistic understanding of T2D and supports lncRNA-based precision medicine."
         },
         {
-          "title": "A Logistic Regression Model to Predict Malaria Severity in Children",
-          "url": "https://arxiv.org/abs/2605.18900",
+          "title": "Stimulus symmetries can confound representational similarity analyses",
+          "url": "https://arxiv.org/abs/2605.21324",
           "domain": "arxiv.org",
-          "date": "2026-05-20T04:00:00.000Z",
+          "date": "2026-05-21T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2605.18900v1 Announce Type: new Abstract: One of the main causes of death around the globe is malaria. Researchers have sought to develop predictive models for malaria outbreaks based on meteorological data, climate data and the breeding cycle of Plasmodium, the causative agent of malaria. This study predicts the severity of malaria based on environmental and biological factors. A logistic regression model was developed in this study to predict the severity of malaria based on such factors as sickle cell disease, stagnant water, garbage dump, wet lawns, and the use of treated mosquito nets, with an 83.3% accuracy rate. The study was carried out in the Bosomtwe District of Ghana with 417 respondents. It was deduced that although children in the District are highly prone to malaria infection, the severity is very low. The study recommends that not just having a good sample size alone is important during machine learning model development, but also having a good sample representation of the various class labels is equally important."
+          "summary": "arXiv:2605.21324v1 Announce Type: new Abstract: What can representational similarity matrices (RSMs) tell us about a neural code? As the popularity of these summary statistics grows, so too does the need for a more complete characterization of their properties. Here, we show that symmetries in network inputs can confound RSM-based analyses. Stimulus symmetries render many representations functionally equivalent, but these different configurations can lead to different RSMs. These different RSMs reflect qualitatively different representational geometries. We show that stochastic gradient descent or energetic regularization can generate sparse, drifting codes, leading in turn to drifting RSMs. Moreover, we demonstrate that these phenomena are present in networks trained to encode image data, where the symmetry is latent. Our results illustrate the challenges inherent in comparing nonlinear neural codes, when functionally-equivalent representations are not related by a simple rotation."
         },
         {
-          "title": "Conserved Kinematic Representations enable Zero-Shot Decoding in Handwriting BCIs",
-          "url": "https://arxiv.org/abs/2605.19048",
+          "title": "A simple model of co-emergence of grid and place fields",
+          "url": "https://arxiv.org/abs/2605.21356",
           "domain": "arxiv.org",
-          "date": "2026-05-20T04:00:00.000Z",
+          "date": "2026-05-21T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2605.19048v1 Announce Type: new Abstract: While intracortical Brain-Computer Interfaces (iBCIs) that decode imagined handwriting have achieved high communication rates for Latin scripts, they rely on observing every character in the alphabet during training. This poses a challenge in scaling to logographic languages (e.g., Chinese, Japanese), where the character set exceeds thousands of classes. The limitation highlights a fundamental question in motor neuroscience: does the motor cortex represent handwriting through the composition of shared kinematic primitives, that can be exploited by decoders? We introduce a computational framework for aligning neural activity to imagined kinematics in large datasets, enabling the training of a zero-shot capable machine learning algorithm for decoding unseen characters. Our model achieves 64% hits@3 retrieval on unseen letters, suggesting that neural representations of kinematic strokes are robustly conserved across different character contexts. This study provides a framework for dissecting conserved neural dynamics in large-scale intracortical datasets and offers strong evidence for a compositional basis of complex motor control. It also establishes a new paradigm for open-vocabulary iBCI communication with minimal recalibration burden on the user, crucial to increasing adoption of neuroprosthetics in logographic languages."
+          "summary": "arXiv:2605.21356v1 Announce Type: new Abstract: Grid cells in the medial entorhinal cortex and place cells in the hippocampus together support spatial navigation. The two regions are reciprocally connected, and there is a chicken-and-egg problem for how both arise and reinforce each other during development. Current computational accounts either derive one type from the other or use network dynamics to model the emergence of one type in isolation. We introduce a unified recurrent network model that instantiates Dale's Law (every neuron is either excitatory or inhibitory), and is trained to predict the next sensory observation from masked previous sensory observations and egocentric motion. To our knowledge, this is the first single-objective model in which grid and place cells co-emerge without supervision of either type, or reliance on pre-existing spatial-cell representations. The two kinds of spatial codes coexist across 1,000 different training configurations, with their balance set by the amount of sensory noise and masking. Without retraining, the network qualitatively reproduces experimentally observed grid fragmentation in hairpin mazes, grid merging after wall removal, lattice alignment across connected rooms, locally ordered 3D fields observed in freely flying bats, as well as the developmental order in which place cells precede grid cells. We interpret these results in terms of two complementary encoding pressures within a single sensory-prediction objective: (1) correcting errors or reconstructing missing components of sensory observations, and (2) prediction of the next sensory state during navigation. Our results suggest a circuit-level account of the co-emergence of grid and place cells, and experimentally testable predictions for the two kinds of spatial codes."
         },
         {
-          "title": "Computational Auditory Periphery Models: the Return of the Rodent",
-          "url": "https://arxiv.org/abs/2605.19070",
+          "title": "Perceptual misalignment of texture representations in convolutional neural networks",
+          "url": "https://arxiv.org/abs/2604.01341",
           "domain": "arxiv.org",
-          "date": "2026-05-20T04:00:00.000Z",
+          "date": "2026-05-21T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2605.19070v1 Announce Type: new Abstract: Animal experiments have provided many insights on auditory function, notably in cases of sensorineural hearing loss (SNHL). However, it is not always clear how these findings translate to the human auditory system in clinically relevant contexts. Cross-species computational models of the auditory periphery can help bridge the gap between non-invasive human diagnostics and experimental evidence from animal studies. In this work we adapted a 1-D nonlinear cochlear transmission-line model designed for the human auditory periphery to mouse and gerbil, enabling a single computational framework for cross-species research on SNHL. Species-specific anatomical and physiological parameters - including basilar membrane (BM) length and width, stapes area, middle-ear transfer functions, and frequency range - were adjusted to match each species' auditory periphery and hearing range. Other cochlear parameters were calibrated to reproduce realistic cochlear tuning and compression. The adapted mouse and gerbil models were validated against experimental BM velocity level-growth characteristics, auditory-nerve (AN) tuning curves, and DPOAEs. Simulated AN outputs reasonably matched empirical measurements, including realistic AN thresholds and frequency selectivity. However, the discrepancy between simulations and measurements became larger for cochlear sections closer to the base or apex. Simulations of cochlear synaptopathy reproduced observed differences in recorded auditory brainstem and envelope following responses from mice and gerbils with SNHL. OHC individualization of the mouse model based on DPOAEs failed to faithfully reproduce individual measurements, although intergroup differences in OHC damage were captured. Our findings demonstrate that biophysically grounded auditory models can be translated across species while preserving realistic sound-coding properties and pathophysiological alterations."
+          "summary": "arXiv:2604.01341v2 Announce Type: cross Abstract: Mathematical modeling of visual textures traces back to Julesz's intuition that texture perception in humans is based on local correlations between image features. An influential approach for texture analysis and generation generalizes this notion to linear correlations between the nonlinear features computed by convolutional neural networks (CNNs), compiled into Gram matrices. Given that CNNs are often used as models for the visual system, it is natural to ask whether such \"texture representations\" spontaneously align with the textures' perceptual content, and in particular whether those CNNs that are regarded as better models for the visual system also possess more human-like texture representations. Here we quantify the perceptual content captured by feature correlations computed for a diverse pool of CNNs, and we compare it to the models' perceptual alignment with the mammalian visual system as measured by Brain-Score. Surprisingly, we find that there is no connection between conventional measures of CNN quality as a model of the visual system and its alignment with human texture perception. We conclude that texture perception involves mechanisms that are distinct from those that are commonly modeled using approaches based on CNNs trained on object recognition, possibly depending on the integration of contextual information."
         },
         {
-          "title": "Informational blueprints reveal condition-dependent gene regulatory architectures",
-          "url": "https://arxiv.org/abs/2605.19071",
+          "title": "Artificial Pancreas Implantables -- How Healthcare Professionals May Deal With DIY Bio Cases",
+          "url": "https://arxiv.org/abs/2605.20208",
           "domain": "arxiv.org",
-          "date": "2026-05-20T04:00:00.000Z",
+          "date": "2026-05-21T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2605.19071v1 Announce Type: new Abstract: While coding regions in the genome have a direct interpretation in terms of protein products, significant fractions are non-coding and yet control essential biological functions. Unlike the genetic code, there is no \"lookup table\" that identifies where regulatory proteins, known as transcription factors (TFs), bind. Here, we extract these binding sites by distilling sequences of nucleotide letters into collective coordinates (hyperletters) representing the binding sites that are active under specific environmental conditions. Going beyond local information footprints between individual bases and expression levels, our $\\textit{information blueprint}$ algorithm compresses the global information by optimising filters that simultaneously scan an entire promoter sequence. Inspired by renormalisation-group techniques, we identify TF binding sites as coarse-grained variables combining groups of correlated mutations with the highest collective impact on gene expression. We validate our approach on experimental data for $\\textit{E. coli}$ and discover novel regulatory elements illustrating its deployment at scale across growth conditions."
+          "summary": "arXiv:2605.20208v1 Announce Type: cross Abstract: Automated insulin delivery (AID) and artificial pancreas systems increasingly serve as safety-critical cyber-physical technologies in clinical care, integrating sensors, algorithms, software, and insulin-delivery hardware to automate a life-sustaining therapy. While regulated commercial systems are supported by formal approval pathways, manufacturer governance, and post-market surveillance, clinicians are also encountering patients who rely on do-it-yourself (DIY) artificial pancreas systems that operate outside conventional regulatory and institutional control structures. This paper examines how routine clinical handling practices intersect with cyberbiosecurity risk across both regulated and DIY AID systems. When insulin delivery systems are fundamentally reconfigured into a bespoke AID system, with the patient-user becoming the primary threat vector by assuming manufacturer-level roles without mandated governance, the entire ecosystem of stakeholders is placed in legal and clinical uncertainty."
         },
         {
-          "title": "A putative model of the gut-muscle axis in aged livestock",
-          "url": "https://arxiv.org/abs/2605.19171",
+          "title": "Sparse Contextual Coupling Reshapes Diffusion Geometry in Multilayer Hypergraphs",
+          "url": "https://arxiv.org/abs/2605.20454",
           "domain": "arxiv.org",
-          "date": "2026-05-20T04:00:00.000Z",
+          "date": "2026-05-21T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2605.19171v1 Announce Type: new Abstract: The gut-muscle axis has been proposed to link gut microbiota with skeletal muscle physiology, yet its universality across livestock species remains unclear. Using aged laying hens, a livestock model with a relatively short digestive tract, we examined the gut microbiota, faecal metabolome, and breast-muscle metabolome by integrative multi-omics analyses in hens fed a Caldifermentibacillus hisashii-containing fermented feed or a control diet. Non-metric multidimensional scaling revealed clear separation of the microbial community between groups (stress = 0.0097), characterised by a marked expansion of Lactobacillus with the administration of the fermented feed. Variance partitioning showed that the 16S microbiota shared substantial variance with both the faecal (shared R2 adj = 0.54) and muscle (shared R2 adj = 0.48) metabolomes, and partial dbRDA demonstrated that the faecal-to-muscle metabolite association was largely retained after controlling for 16S (direct R2 = 0.538, partial R2 = 0.485), consistent with faecal metabolites acting as an integral layer linking microbiota to muscle. Cliff's delta-based selection showed depletion of proteolytic taxa and faecal amino acids, and reduced muscle Ornithine and uric acid alongside elevated Hypoxanthine. Because both groups were processed identically post-slaughter, these differences reflect in vivo states: amino acid depletion despite reduced bacterial proteolytic capacity points to enhanced host utilisation, and reduced uric acid, a post-mortem-stable purine end-product in uricotelic chickens, indicates efficient nitrogen turnover rather than accumulation. Collectively, these findings support a putative tripartite model of the gut-muscle axis in aged laying hens, providing a statistically grounded framework for understanding microbial contributions to muscle physiology in aged livestock."
+          "summary": "arXiv:2605.20454v1 Announce Type: cross Abstract: Many complex systems combine dense background structure with sparse contextual information. We introduce a diffusion-based framework for analyzing how sparse condition-specific layers reshape diffusion geometry in multilayer hypergraphs. Each layer is represented as a weighted hypergraph, layers are coupled through shared entities, and random walks on the coupled system induce multiscale diffusion distances between nodes. We apply the framework to disease-conditioned gene networks by coupling a dense MSigDB functional gene-set layer to sparse disease-specific DGIdb drug-gene hypergraphs, with disease-associated drugs selected from DDDB and HumanNet-GSP used to define external gene weights. Across Bipolar Disorder, Schizophrenia, Leukemia, and Breast Cancer, the disease-specific layer contains less than 2 percent of genes in the coupled system, yet substantially changes diffusion distances and community structure. Centrality analysis suggests that this disproportionate effect arises because DGIdb-associated genes occupy influential positions in the MSigDB-derived functional network. The resulting diffusion-derived communities are stable under subsampling and show coherent post hoc functional enrichment, including signaling and neurotransmission categories in neuropsychiatric diseases and immune, translational, and metabolic categories in cancer-associated diseases. Community-level comparisons further reveal disease similarities not reducible to direct DGIdb gene overlap, including a Breast Cancer-Schizophrenia relationship consistent with recent biomedical evidence. These results show that sparse contextual layers can induce interpretable nonlocal changes in higher-order network geometry."
         },
         {
-          "title": "Elemental Stoichiometry as an Ecological Biosignature with Applications to Life Detection",
-          "url": "https://arxiv.org/abs/2605.19252",
+          "title": "Machine-Learning-Enhanced Non-Invasive Testing for MASLD Fibrosis: Shallow-Deep Neural Networks Versus FIB-4, Tabular Foundation Models, and Large Language Models",
+          "url": "https://arxiv.org/abs/2605.20523",
           "domain": "arxiv.org",
-          "date": "2026-05-20T04:00:00.000Z",
+          "date": "2026-05-21T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2605.19252v1 Announce Type: new Abstract: The vast chemical space of possible small molecules, estimated at 10^60 compounds for molecules composed of just C, N, O, and S, is only sparsely occupied by biology. We propose that where life selects molecules within this space constitutes a detectable ecological signature: a fingerprint not of specific compounds, but of the statistical structure of elemental composition across molecules sam-pled from ecological systems. Here we introduce a framework combining Van Krevelen diagrams and element scaling laws to characterize the elemental composition of regions of chemical space occupied by biological systems and contrast them with other chemical systems. Applying this framework to 11,834 microbial metagenomic samples, we show that microbial metabolisms occupy a region of chemical space, which is enriched in heteroatoms such as P, S, N, and O relative to C, shifted toward higher O:C and H:C ratios. We observe sublinear element scaling with system size, yielding insights into how elemental constraints dictate how biological systems occupy chemical space. These patterns are distinct from a sample of 18,000 compounds from the comprehensive Reaxys synthetic chemical database. Critically, datasets from molecules detected in planetary science mission data occupy statistically distinct regions from both terrestrial biological and Reaxys distributions, demonstrating that with standardized methods for data collection, the approach could be developed to discriminate biotic from abiotic chemical signatures in small molecule data from planetary science missions. Our work shows how a combination of Van Krevelen fingerprinting and elemental scaling laws can provide a new class of ecological biosignatures for life detection leveraging mass spectrometric data from planetary missions, which could generalize beyond Earth's specific biochemistry."
+          "summary": "arXiv:2605.20523v1 Announce Type: cross Abstract: Advanced fibrosis is a major determinant of liver-related morbidity in metabolic dysfunction-associated steatotic liver disease (MASLD). FIB-4 is widely used as a first-line non-invasive test, but its fixed formula may underuse diagnostic information contained in age, aspartate aminotransferase, alanine aminotransferase, and platelet count. We evaluated whether machine-learning-enhanced non-invasive testing (MLE-NIT) can improve advanced fibrosis detection while preserving this FIB-4 variable space. We used three biopsy-confirmed MASLD cohorts from China, Malaysia, and India (n=784). The Chinese cohort was split into 486 training and 54 internal validation/tuning patients; final performance was reported only on the Malaysian and Indian external cohorts. Models used five variables: age, FIB-4, aspartate aminotransferase, platelet count, and alanine aminotransferase. We compared FIB-4 with a shallow-deep neural network (s-DNN), TabPFN, and gpt-4o-2024-08-06. FIB-4 achieved external ROC-AUCs of 0.75 and 0.60 in Malaysia and India, respectively. TabPFN achieved 0.69 and 0.66, fine-tuned GPT-4o achieved 0.75 and 0.63, and the s-DNN achieved 0.77 and 0.67, respectively. The s-DNN contained only 354 trainable parameters, compared with 7,244,554 for TabPFN, yet provided a more balanced external operating profile. Calibration showed s-DNN Brier scores of 0.18 and 0.22, and permutation importance identified AST and FIB-4 as dominant variables. Compact non-linear MLE-NITs may enhance FIB-4-based fibrosis assessment without increasing clinical data requirements."
+        },
+        {
+          "title": "Inferring infectiousness: a joint model of the within-host viral kinetics of SARS-CoV-2",
+          "url": "https://arxiv.org/abs/2605.20692",
+          "domain": "arxiv.org",
+          "date": "2026-05-21T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2605.20692v1 Announce Type: cross Abstract: During an infectious disease outbreak, providing accurate answers to policy questions about transmission requires a detailed model of the natural history of infectiousness. Unfortunately, direct measures of infectiousness are generally unavailable. Instead, we often rely on indirect proxies, such as viral load measured by PCR or antigen tests, viral culture to detect replication-competent virus, or symptom onset, each of which reflects different aspects of viral dynamics or host response. However, these proxies vary in terms of the ease of collection, scalability, and their relationship to viral shedding and therefore underlying infectiousness. Here, we use data from five prospective, densely sampled cohorts with longitudinal data on multiple proxies of viral shedding for approximately 2,000 infections to develop a Bayesian joint model for the within-host viral kinetics of SARS-CoV-2 infection. Modeling the joint distribution allows us to infer the trajectory of infectious virus shedding -- the most direct correlate of infectiousness -- for individuals who contribute only PCR data, and to compute derived quantities that are inaccessible from any single proxy alone. These include the population-level probability and expected duration of ongoing infectiousness as a function of time since diagnosis, stratified by variant, vaccination status, and infection history; the residual risk of releasing an individual from isolation; and personalized, real-time estimates of infectiousness that are sequentially updated as new test results become available."
+        },
+        {
+          "title": "Training distribution determines the ceiling of drug-blind cancer sensitivity prediction",
+          "url": "https://arxiv.org/abs/2605.20885",
+          "domain": "arxiv.org",
+          "date": "2026-05-21T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2605.20885v1 Announce Type: cross Abstract: Precision oncology requires predicting which drugs will suppress a specific tumor from its molecular profile, but drug-blind sensitivity prediction has plateaued despite increasingly complex drug representations. Here we show that this stagnation reflects a metric artifact rather than a representational bottleneck. The standard benchmark, global Pearson r, is dominated by between-drug potency differences that a trivial drug-mean predictor captures without any cell-specific learning. Per-drug Pearson r, which isolates within-drug cell ranking, reveals that no drug encoding improves over cell-only features across four independent datasets. A controlled experiment channeling mechanism-of-action identity as either a drug feature or a training-distribution constraint identifies the cause. Supplying MoA as a feature yields negligible benefit, whereas using it to stratify training raises per-drug r substantially for targeted kinase inhibitors, because pan-cancer co-training suppresses pathway-specific sensitivity signals. Mechanism-stratified training and response matching from pilot observations provide two deployable strategies that together recover the principal sources of predictive gain in drug-blind sensitivity prediction."
         }
       ]
     },
@@ -277,6 +277,38 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "SEC reviewing implications of delayed prediction market ETFs, Atkins says",
+          "url": "https://www.theblock.co/post/402125/sec-reviewing-prediction-market-etfs?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-21T03:45:13.000Z",
+          "source": "The Block",
+          "summary": "SEC Chair Paul Atkins said he instructed the agency's staff to seek public input on prediction market ETFs."
+        },
+        {
+          "title": "Hyperliquid ETFs attract record $25.5 million in net inflows as institutions pile in",
+          "url": "https://www.theblock.co/post/402120/hyperliquid-etfs-25-million-inflows?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-21T03:10:44.000Z",
+          "source": "The Block",
+          "summary": "U.S. spot HYPE ETFs saw $25.5 million in net inflows on Wednesday, marking their largest positive flows since launch."
+        },
+        {
+          "title": "Fed seeks input on expanding master account access following Trump’s executive order",
+          "url": "https://www.theblock.co/post/402114/fed-input-master-account?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-21T02:20:39.000Z",
+          "source": "The Block",
+          "summary": "Trump signed an order on Tuesday requesting the Fed to review and update regulations to integrate digital assets into traditional systems."
+        },
+        {
+          "title": "SpaceX reveals larger-than-expected Bitcoin holdings in IPO filing",
+          "url": "https://cointelegraph.com/news/spacex-filing-reveals-larger-than-expected-bitcoin-holdings-ahead-of-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-21T02:08:30.000Z",
+          "source": "CoinTelegraph",
+          "summary": "SpaceX is expected to go public next month, which would make its 18,712 Bitcoin holdings rank seventh among public companies."
+        },
         {
           "title": "Polymarket moves to list parlays while SEC seeks public input on prediction market ETFs",
           "url": "https://www.coindesk.com/policy/2026/05/20/polymarket-moves-to-list-parlays-while-sec-seeks-public-input-on-prediction-market-etfs",
@@ -324,38 +356,6 @@
           "date": "2026-05-20T21:37:09.000Z",
           "source": "CoinTelegraph",
           "summary": "The launch marks Coinbase’s latest push into white-label stablecoin infrastructure for businesses building branded digital payment and settlement systems."
-        },
-        {
-          "title": "Elon Musk's SpaceX held 18,712 bitcoin at fair value of $1.29 billion at end of Q1, IPO filing shows",
-          "url": "https://www.coindesk.com/markets/2026/05/20/elon-musk-s-spacex-holds-18-712-bitcoin-at-fair-value-of-usd1-29-billion-ipo-filing-shows",
-          "domain": "coindesk.com",
-          "date": "2026-05-20T21:32:50.000Z",
-          "source": "CoinDesk",
-          "summary": "The rocket and satellite company is looking to go public at a valuation of more than $1.5 trillion."
-        },
-        {
-          "title": "Elon Musk’s SpaceX holds $1.45 billion worth of bitcoin as firm looks to go public",
-          "url": "https://www.theblock.co/post/402110/elon-musks-spacex-holds-1-45-billion-worth-of-bitcoin-as-firm-looks-to-go-public?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-20T21:24:18.000Z",
-          "source": "The Block",
-          "summary": "A stockpile of over 18,000 would make Elon Musk's SpaceX the seventh-largest Bitcoin holder, ahead of Coinbase."
-        },
-        {
-          "title": "Bitcoin rallies through $77K despite spot BTC ETF outflows topping $2B",
-          "url": "https://cointelegraph.com/markets/bitcoin-rallies-through-77k-despite-spot-btc-etf-outflows-topping-2b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-20T21:22:03.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Bitcoin finds footing above $77,000 despite investors’ worry over BigTech earnings results and billion-dollar outflows from the BTC ETFs."
-        },
-        {
-          "title": "SEC’s ‘Crypto Mom’ to join law school, signaling end of time at regulator",
-          "url": "https://cointelegraph.com/news/secs-hester-peirce-regent-law-faculty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-20T20:46:03.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Hester Peirce will become an associate professor at a Virginia law school some 18 months after her term at the SEC expired, leaving another empty seat in the agency’s leadership."
         }
       ]
     }
