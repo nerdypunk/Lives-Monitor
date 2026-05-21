@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-21T19:58:52.719Z",
+  "updatedAt": "2026-05-21T21:44:25.509Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -25,12 +25,12 @@
           "summary": "Manadia Partners With NanoVita To Advance AI-Powered DeSci Infrastructure &nbsp;&nbsp; BlockchainReporter"
         },
         {
-          "title": "desci | all\" Market Price, Charts & Spot Trading | MEXC - MEXC",
+          "title": "desci | all\" Market Price, Charts & Spot Trading | MEXC - MEXC Exchange",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KQVBGbEx0OHl1eUVhNzlndWVLeW5kTUgyY1otaGFUQmtFX0U5dWpaY192UVZROWhzblhHYUZiQTJsbHg3VFhZcnF6ZWVoUGkxbU1EcUtsRkJ0Vk8zQW1UOUZCS2ViVjA1ZFZN?oc=5",
           "domain": "mexc.com",
           "date": "2026-05-17T19:11:54.000Z",
-          "source": "MEXC",
-          "summary": "desci | all\" Market Price, Charts & Spot Trading | MEXC &nbsp;&nbsp; MEXC"
+          "source": "MEXC Exchange",
+          "summary": "desci | all\" Market Price, Charts & Spot Trading | MEXC &nbsp;&nbsp; MEXC Exchange"
         },
         {
           "title": "PEPTAI Price Swings Wild As Base Integration Fuels DeSci Hype - Coinpedia",
@@ -73,12 +73,12 @@
           "summary": "Bio Protocol (BIO) - AI Scientist Demo - 12 May 2026 &nbsp;&nbsp; TradingView"
         },
         {
-          "title": "NanoVita Launches NANA Token On KTX Exchange, Enabling DeSci Network Access To DeFi Users - MEXC",
+          "title": "NanoVita Launches NANA Token On KTX Exchange, Enabling DeSci Network Access To DeFi Users - MEXC Exchange",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5wZWJkWWZsNmdSY2ZJdmkzSW1zTkZnMWRKMlo2TmpFSTZYZXRkcF9VQ1IwOHNGQWk0LTRHUmc1RFlJTlUxZC1qbQ?oc=5",
           "domain": "mexc.com",
           "date": "2026-05-10T07:00:00.000Z",
-          "source": "MEXC",
-          "summary": "NanoVita Launches NANA Token On KTX Exchange, Enabling DeSci Network Access To DeFi Users &nbsp;&nbsp; MEXC"
+          "source": "MEXC Exchange",
+          "summary": "NanoVita Launches NANA Token On KTX Exchange, Enabling DeSci Network Access To DeFi Users &nbsp;&nbsp; MEXC Exchange"
         },
         {
           "title": "NanoVita Labs Launches $NANA Token on PancakeSwap – A New Era for AI-Driven Decentralized Science - Cryptonews.net",
@@ -103,7 +103,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-21T17:23:02.000Z",
           "source": "Lifespan.io",
-          "summary": "Researchers have outlined a key receptor and protein involved in the formation of cataracts, paving the way for potential treatments targeting […]"
+          "summary": "Researchers have outlined a key receptor and protein involved in the formation of cataracts, paving the way for potential treatments targeting them. Oxidative stress and cataracts are closely related Cataracts, which cloud the lenses of […]"
         },
         {
           "title": "New Alzheimer therapies trigger diagnostic shakeup",
@@ -278,7 +278,39 @@
       ],
       "articles": [
         {
-          "title": "Satoshi’s 1.1M bitcoin and millions more can be saved from quantum attack, says expert",
+          "title": "Coinbase introduces thematic perps tracking China, AI and US national security equity indexes",
+          "url": "https://www.theblock.co/post/402286/coinbase-thematic-perps-tracking-china-ai-us-national-security-equity-indexes?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-21T21:09:50.000Z",
+          "source": "The Block",
+          "summary": "The contracts are based on MarketVector’s existing AI, defense and China indexes that track the 10 largest companies per sector."
+        },
+        {
+          "title": "Crypto PAC backed by Anchorage and Chainlink announces endorsements for 2026 midterms",
+          "url": "https://cointelegraph.com/news/crypto-pac-anchorage-chainlink-2026-candidates-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-21T20:48:52.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Federal Election Commission filings showed only $175,000 in contributions to the hybrid PAC, which could influence US voters through media buys before key elections in several states."
+        },
+        {
+          "title": "Chance of new Bitcoin lows ‘extremely slim’ as long-term holders’ supply tops 15M BTC",
+          "url": "https://cointelegraph.com/markets/new-bitcoin-lows-look-extremely-slim-as-long-term-holders-add-supply?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-21T20:39:54.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Data suggest Bitcoin’s chance of dropping below $60,000 again is slim to none, thanks to longer-term investors holding more than 71% of the asset’s total supply."
+        },
+        {
+          "title": "Binance launches SpaceX-linked perpetual futures ahead of IPO",
+          "url": "https://cointelegraph.com/news/binance-launches-spacex-linked-perpetual-futures-ahead-of-potential-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-21T20:28:10.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The crypto exchange's new pre-IPO futures product lets traders speculate on SpaceX’s expected public market valuation before the company begins trading on public exchanges."
+        },
+        {
+          "title": "Satoshi’s 1.1 million bitcoin and millions more can be saved from quantum attack, says expert",
           "url": "https://www.coindesk.com/tech/2026/05/21/satoshi-s-1-1m-bitcoin-stash-can-be-saved-from-quantum-attack-says-americanfortress",
           "domain": "coindesk.com",
           "date": "2026-05-21T19:10:03.000Z",
@@ -324,38 +356,6 @@
           "date": "2026-05-21T17:30:16.000Z",
           "source": "CoinDesk",
           "summary": "The billionaire investor said he sold most of his bitcoin after concluding the cryptocurrency failed to act as a hedge during recent geopolitical turmoil and dollar weakness."
-        },
-        {
-          "title": "CLEAR token tanks 48% as Everclear winds down protocol, foundation and labs unit",
-          "url": "https://www.theblock.co/post/402252/clear-token-tanks-48-everclear-winds-down-protocol-foundation-labs-unit?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-21T16:59:29.000Z",
-          "source": "The Block",
-          "summary": "Everclear achieved $500 million in monthly volume, but \"never developed the commercial depth,\" the team said on Thursday."
-        },
-        {
-          "title": "Ethereum’s identity crisis is deepening after high-profile 'brain drain' frustrates the community",
-          "url": "https://www.coindesk.com/tech/2026/05/21/ethereum-s-identity-crisis-is-deepening-after-high-profile-brain-drain-frustrates-the-community",
-          "domain": "coindesk.com",
-          "date": "2026-05-21T16:56:33.000Z",
-          "source": "CoinDesk",
-          "summary": "What began earlier this week as shock over more exits of core figures has now evolved into something more existential, according to some community members."
-        },
-        {
-          "title": "JPMorgan says tokenized money market funds unlikely to grow beyond 15% of stablecoin market",
-          "url": "https://www.theblock.co/post/402227/jpmorgan-tokenized-money-market-funds-stablecoins?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-21T16:48:08.000Z",
-          "source": "The Block",
-          "summary": "Tokenized money market funds offer yield but still account for only around 5% of the stablecoin market, JPMorgan analysts said."
-        },
-        {
-          "title": "Chainlink, Anchorage-backed PAC names first bipartisan endorsements in 2026 midterm cycle",
-          "url": "https://www.theblock.co/post/402231/chainlink-anchorage-backed-pac-first-bipartisan-endorsements-2026-midterm?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-21T16:40:07.000Z",
-          "source": "The Block",
-          "summary": "A newly formed political action committee released its first batch of endorsements as midterm elections begin to take shape."
         }
       ]
     }
