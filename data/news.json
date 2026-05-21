@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-21T08:24:17.824Z",
+  "updatedAt": "2026-05-21T11:47:47.667Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -65,14 +65,6 @@
           "summary": "Bio Protocol (BIO) - AI Scientist Demo - 12 May 2026 &nbsp;&nbsp; TradingView"
         },
         {
-          "title": "Bio Protocol 多签钱包向 CEX 转入 8000 万枚 BIO，约 515 万美元 - CryptoRank",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vSFZtczd0ZWlHd0JnWnI4ZlM0MmlHUmFrZDRMbGUtSmJ3Nzd1TVZyMHZzVzg3TlNWNFJZWjExUWoxcWNSbWZ1OTQzZGRrNEh3NEp6ZERlRUY?oc=5",
-          "domain": "cryptorank.io",
-          "date": "2026-05-10T17:23:31.000Z",
-          "source": "CryptoRank",
-          "summary": "Bio Protocol 多签钱包向 CEX 转入 8000 万枚 BIO，约 515 万美元 &nbsp;&nbsp; CryptoRank"
-        },
-        {
           "title": "NanoVita Launches NANA Token On KTX Exchange, Enabling DeSci Network Access To DeFi Users - MEXC",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5wZWJkWWZsNmdSY2ZJdmkzSW1zTkZnMWRKMlo2TmpFSTZYZXRkcF9VQ1IwOHNGQWk0LTRHUmc1RFlJTlUxZC1qbQ?oc=5",
           "domain": "mexc.com",
@@ -87,6 +79,14 @@
           "date": "2026-05-06T07:00:00.000Z",
           "source": "Cryptonews.net",
           "summary": "NanoVita Labs Launches $NANA Token on PancakeSwap – A New Era for AI-Driven Decentralized Science &nbsp;&nbsp; Cryptonews.net"
+        },
+        {
+          "title": "DeSci's Second Coming? - Delphi Digital",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxekJCVU5kTFJ2YTV3Ny1uZmE0NVJzQUVHQno2bUV3dWVwVGttLVozTDlsMk93dWw2Nl9OLXktYkYtbkFyQ285bXF4eEo1dDFEWkd6ZVNIWG52NU5fREFNTTRfNlVET25nMmc?oc=5",
+          "domain": "members.delphidigital.io",
+          "date": "2026-05-05T16:07:54.000Z",
+          "source": "Delphi Digital",
+          "summary": "DeSci's Second Coming? &nbsp;&nbsp; Delphi Digital"
         }
       ]
     },
@@ -97,6 +97,54 @@
         "https://longevity.technology/feed/"
       ],
       "articles": [
+        {
+          "title": "HAYA Therapeutics begins first human trials for heart failure gene therapy",
+          "url": "https://longevity.technology/news/haya-therapeutics-begins-first-human-trials-for-heart-failure-gene-therapy/",
+          "domain": "longevity.technology",
+          "date": "2026-05-21T09:31:21.000Z",
+          "source": "Longevity.Technology",
+          "summary": "HAYA Therapeutics announced that the first cohort has been fully enrolled and dosed in its Phase 1a/b clinical trial of HTX-001, an investigational long non-coding RNA-targeting antisense oligonucleotide for nonobstructive hypertrophic cardiomyopathy. The study will evaluate safety, tolerability, pharmacokinetics and pharmacodynamics in healthy volunteers followed by nHCM patients across multiple-ascending dose cohorts. HTX-001 is designed […] The post HAYA Therapeutics begins first human trials for heart failure gene therapy appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "New Eisai clinical studies show expanded results for advanced cancer treatments",
+          "url": "https://longevity.technology/news/new-eisai-clinical-studies-show-expanded-results-for-advanced-cancer-treatments/",
+          "domain": "longevity.technology",
+          "date": "2026-05-21T08:42:10.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Eisai outlined new and expanded clinical data for LENVIMA (lenvatinib) to be presented at ASCO 2026, according to the company. Key presentations include a real-world comparison of first-line lenvatinib versus dabrafenib plus trametinib in BRAF-mutated differentiated thyroid cancer (Abstract #6052, 30 May); an analysis of efficacy outcomes by patterns of progression from the phase 3 […] The post New Eisai clinical studies show expanded results for advanced cancer treatments appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "Capsida abandons lead gene therapy trial after infusion-related fatality",
+          "url": "https://longevity.technology/news/capsida-abandons-lead-gene-therapy-trial-after-infusion-related-fatality/",
+          "domain": "longevity.technology",
+          "date": "2026-05-21T08:37:21.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Capsida Biotherapeutics has closed its synrgy Phase I/II trial (NCT06983158) of CAP-002 for STXBP1 after the death of the first enrolled patient and an extended clinical hold. The trial was placed on hold after an infusion-related death in September 2025; Capsida previously reported in January 2026 that the patient died of cerebral edema. The company […] The post Capsida abandons lead gene therapy trial after infusion-related fatality appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "Oligomerix completes initial safety study for new oral Alzheimer’s drug candidate",
+          "url": "https://longevity.technology/news/oligomerix-completes-initial-safety-study-for-new-oral-alzheimers-drug-candidate/",
+          "domain": "longevity.technology",
+          "date": "2026-05-21T08:37:10.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Oligomerix, Inc. completed a Phase 1a clinical study of OLX-07010, its oral small-molecule inhibitor of tau self-association, with the work conducted at a single United States site in Bronx, N.Y. The double-blind, placebo-controlled trial enrolled 76 healthy adults and older volunteers and evaluated single and multiple doses ranging from 25 mg to 200 mg. While […] The post Oligomerix completes initial safety study for new oral Alzheimer’s drug candidate appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "Cala Health secures $50m to expand access to wearable tremor therapy",
+          "url": "https://longevity.technology/news/cala-health-secures-50m-to-expand-access-to-wearable-tremor-therapy/",
+          "domain": "longevity.technology",
+          "date": "2026-05-21T08:32:21.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Trinity Capital committed $50 million in growth capital to Cala Health to support the commercial expansion of its wearable tremor therapy, the firms announced. The investment is intended to scale U.S. commercial operations, product innovation and patient access to the Cala kIQ System, an FDA-cleared wrist-worn device that measures a patient’s tremor pattern and delivers […] The post Cala Health secures $50m to expand access to wearable tremor therapy appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "Glycans validated as aging biomarker; TPE shows largest reduction",
+          "url": "https://longevity.technology/news/glycans-validated-as-aging-biomarker-tpe-shows-largest-reduction/",
+          "domain": "longevity.technology",
+          "date": "2026-05-21T08:32:10.000Z",
+          "source": "Longevity.Technology",
+          "summary": "GlycanAge and Circulate Health announced the publication of a preprint that integrates IgG N-glycome data from 20,405 individuals across 42 independent studies processed between 2008 and 2025. Led by Professor Gordan Lauc with coauthors from the Buck Institute, the University of Freiburg, King’s College London and other institutions, the analysis, according to the company, finds […] The post Glycans validated as aging biomarker; TPE shows largest reduction appeared first on Longevity.Technology ."
+        },
         {
           "title": "Fitness industry faces longevity moment",
           "url": "https://longevity.technology/news/fitness-industry-faces-longevity-moment/",
@@ -119,7 +167,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-20T16:58:33.000Z",
           "source": "Lifespan.io",
-          "summary": "In Aging Cell, researchers have described the differences between primary and secondary senescent cells, comparing radiation-induced senescence to senescence induced by the senescence-associated secretory phenotype (SASP). Heterogeneity on top of heterogeneity It is well-known that senescent cells are highly heterogenous […]"
+          "summary": "In Aging Cell, researchers have described the differences between primary and secondary senescent cells, comparing radiation-induced senescence to senescence induced by the senescence-associated secretory phenotype (SASP). Heterogeneity on top of heterogeneity It […]"
         },
         {
           "title": "The medical wearable making BP cuffs look old",
@@ -128,54 +176,6 @@
           "date": "2026-05-20T16:49:43.000Z",
           "source": "Longevity.Technology",
           "summary": "Sky Labs’ CART ring has secured UK medical approval, pushing blood pressure monitoring toward a quieter, more wearable future. You know the feeling. The cuff tightens around your arm until it becomes mildly unbearable, you sit still for a few seconds and then a number appears – a tiny snapshot supposedly summarizing the state of […] The post The medical wearable making BP cuffs look old appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "China Launches Standardized Physician Education in Longevity",
-          "url": "https://lifespan.io/china-launches-standardized-physician-education-in-longevity/?utm_source=rss&utm_medium=rss&utm_campaign=china-launches-standardized-physician-education-in-longevity",
-          "domain": "lifespan.io",
-          "date": "2026-05-20T14:41:45.000Z",
-          "source": "Lifespan.io",
-          "summary": "Beijing, China — In response to the growing healthcare demands of a rapidly ageing population, China has launched its first national competency-based education programme in longevity medicine, marking a significant […]"
-        },
-        {
-          "title": "Worth an unfiltered look: The people powering longevity",
-          "url": "https://longevity.technology/news/worth-an-unfiltered-look-the-people-powering-longevity/",
-          "domain": "longevity.technology",
-          "date": "2026-05-20T12:36:31.000Z",
-          "source": "Longevity.Technology",
-          "summary": "New industry ranking suggests longevity has moved beyond fringe science, with the surrounding infrastructure growing as fast as the science. There was a time (not that long ago) when talking seriously about longevity biotech could clear a room. The industry carried baggage: billionaire biohackers, cryogenic fantasies, narratives about “living forever”. For many outside the industry, […] The post Worth an unfiltered look: The people powering longevity appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Vir Biotechnology to reveal 2-year results for investigational hepatitis delta therapy",
-          "url": "https://longevity.technology/news/vir-biotechnology-to-reveal-2-year-results-for-investigational-hepatitis-delta-therapy/",
-          "domain": "longevity.technology",
-          "date": "2026-05-20T07:46:09.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Vir Biotechnology will present complete Week 96 data from the Phase 2 SOLSTICE trial evaluating tobevibart (VIR-3434) alone or in combination with elebsiran (VIR-2218) for chronic hepatitis delta at the European Association for the Study of the Liver Congress 2026 in Barcelona, Spain, 27-30 May 2026. The oral Week 96 endpoint presentation is scheduled for […] The post Vir Biotechnology to reveal 2-year results for investigational hepatitis delta therapy appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Sunrise receives FDA clearance for rechargeable at-home sleep test",
-          "url": "https://longevity.technology/news/sunrise-receives-fda-clearance-for-rechargeable-at-home-sleep-test/",
-          "domain": "longevity.technology",
-          "date": "2026-05-20T07:41:09.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Sunrise has received FDA clearance for Sunrise Air, a rechargeable, chin-worn at-home sleep test that combines mandibular jaw movement monitoring with additional sensors for airflow, oxygen saturation and pulse rate, plus an embedded microphone for snoring analysis. The device records mandibular jaw movements, a clinically used biosignal, and applies AI-supported algorithms to generate a sleep […] The post Sunrise receives FDA clearance for rechargeable at-home sleep test appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Cyclana Bio gains UK approval for study to identify novel targets for endometriosis",
-          "url": "https://longevity.technology/news/cyclana-bio-gains-uk-approval-for-study-to-identify-novel-targets-for-endometriosis/",
-          "domain": "longevity.technology",
-          "date": "2026-05-20T07:36:09.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Cyclana Bio has received Health Research Authority and Research Ethics Committee approval in the UK to launch PEMP, a 500-patient clinical observational study investigating endometriosis. The first participants were recruited at Peterborough City Hospital and recruitment has also started at the Rosie Hospital, Cambridge. Conducted by Cambridge University Hospitals NHS Foundation Trust and North West […] The post Cyclana Bio gains UK approval for study to identify novel targets for endometriosis appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Scribe Therapeutics debuts CRISPR platforms for cholesterol treatment",
-          "url": "https://longevity.technology/news/scribe-therapeutics-debuts-crispr-platforms-for-cholesterol-treatment/",
-          "domain": "longevity.technology",
-          "date": "2026-05-20T07:31:09.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Scribe Therapeutics presented preclinical data at the ASGCT 2026 meeting highlighting engineered CRISPR platforms ELXR and XE, which the company says demonstrate improved potency, specificity, and targetability. The ELXR epigenetic silencer incorporates an allosteric regulatory domain intended to mimic DNMT3A autoinhibition, creating a locked state until a site-specific key is encountered; according to the company, […] The post Scribe Therapeutics debuts CRISPR platforms for cholesterol treatment appeared first on Longevity.Technology ."
         }
       ]
     },
@@ -278,84 +278,84 @@
       ],
       "articles": [
         {
-          "title": "IG Europe taps Bitpanda to expand crypto offerings in EU citing client demand",
-          "url": "https://www.theblock.co/post/402104/ig-europe-bitpanda-expand-crypto-offering-eu-citing-client-demand?utm_source=rss&utm_medium=rss",
+          "title": "It's not all HYPE: Privacy and quantum-resistant coins advance as bitcoin marks time",
+          "url": "https://www.coindesk.com/daybook-us/2026/05/21/it-s-not-all-hype-privacy-and-quantum-resistant-coins-surge-as-bitcoin-marks-time",
+          "domain": "coindesk.com",
+          "date": "2026-05-21T11:21:25.000Z",
+          "source": "CoinDesk",
+          "summary": "Your day-ahead look for May 21, 2026"
+        },
+        {
+          "title": "The $6 billion expiration countdown: Traders pile into $82,000 bitcoin calls ahead of May 29 expiry",
+          "url": "https://www.coindesk.com/markets/2026/05/21/bitcoin-caught-between-usd75-000-max-pain-and-usd80-000-call-wall-ahead-of-usd6-25-billion-expiry",
+          "domain": "coindesk.com",
+          "date": "2026-05-21T10:53:05.000Z",
+          "source": "CoinDesk",
+          "summary": "Deribit’s bitcoin open interest has overtaken BlackRock’s IBIT as traders brace for a showdown between $75K max pain and $80K call positioning."
+        },
+        {
+          "title": "HYPE leads crypto rebound as traders position for volatility breakout",
+          "url": "https://www.coindesk.com/markets/2026/05/21/hype-leads-crypto-rebound-as-traders-position-for-volatility-breakout",
+          "domain": "coindesk.com",
+          "date": "2026-05-21T10:52:57.000Z",
+          "source": "CoinDesk",
+          "summary": "Bitcoin and ether stabilized as derivatives activity rebounded, HYPE rose for a fifth straight day and options traders positioned for a breakout."
+        },
+        {
+          "title": "Missouri AG sues CoinFlip, calls crypto ATMs ‘getaway cars for fraud’",
+          "url": "https://www.theblock.co/post/402153/missouri-ag-sues-coinflip?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-05-21T08:00:00.000Z",
+          "date": "2026-05-21T10:40:33.000Z",
           "source": "The Block",
-          "summary": "\"Our clients want crypto exposure from a platform they trust. This partnership delivers it,\" IG Europe Managing Director Esteve Jane said."
+          "summary": "Missouri sued CoinFlip, alleging its cryptocurrency ATMs were used in widespread consumer fraud schemes and charged excessive fees."
         },
         {
-          "title": "Silvergate’s Fraher breaks silence on settlement with Gensler’s SEC",
-          "url": "https://cointelegraph.com/news/silvergates-fraher-breaks-silence-on-settlement-with-genslers-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "OSL Strengthens Asia’s Digital Asset Ecosystem with Listing of State-Supervised Gold-Backed Stablecoin USDKG",
+          "url": "https://cointelegraph.com/press-releases/osl-strengthens-asias-digital-asset-ecosystem-with-listing-of-state-supervised-gold-backed-stablecoin-usdkg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-05-21T07:38:46.000Z",
+          "date": "2026-05-21T10:28:20.000Z",
           "source": "CoinTelegraph",
-          "summary": "Former Silvergate executive Kate Fraher said the rule that prevented her from sharing her side of the story was unconstitutional. It was finally lifted by the SEC this week."
+          "summary": "OSL Group (863.HK) (OSL), a global stablecoin payment and trading platform, today announced that its Hong Kong-licensed digital asset exchange OSL HK has officially listed USDKG, the gold-backed stablecoin issued by the Kyrgyz Republic."
         },
         {
-          "title": "Tax evaders are trying ‘novel digital assets’ to dodge authorities: Chainalysis",
-          "url": "https://cointelegraph.com/news/criminals-attempt-to-use-bitcoin-ordinals-to-evade-authorities-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-21T07:34:52.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Italian authorities uncovered a tax evasion scheme in which an individual allegedly used Bitcoin Ordinals and the BRC-20 token standard to generate and conceal $1.1 million."
+          "title": "Fantasy Top to shut down, says trading card game model was ‘never built’ for crypto",
+          "url": "https://www.theblock.co/post/402144/fantasy-top-to-shut-down-says-trading-card-game-model-was-never-built-for-crypto?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-21T10:19:35.000Z",
+          "source": "The Block",
+          "summary": "Its founder said that financialized crypto trading card games attract speculators rather than players."
         },
         {
-          "title": "Syndicate Labs winds down after 5 years, citing shrinking rollup market",
-          "url": "https://cointelegraph.com/news/ethereum-infrastructure-firm-syndicate-labs-closes-citing-shift-in-rollup-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-21T07:30:06.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The Ethereum rollup market is dominated by Arbitrum and Base, which have a combined 68% market share, according to L2Beat."
+          "title": "Wife of Sandbox co-founder Sebastien Borget targeted in kidnapping attempt at home in France: report",
+          "url": "https://www.theblock.co/post/402146/wife-of-sandbox-co-founder-sebastien-borget-targeted-in-kidnapping-attempt-at-home-in-france-report?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-21T10:12:33.000Z",
+          "source": "The Block",
+          "summary": "The wife of Sandbox co-founder Sebastien Borget was targeted in a kidnapping attempt as France logs over 41 crypto kidnappings in 2026."
         },
         {
-          "title": "Binance launches SpaceX pre-IPO perps amid $2 trillion valuation bets",
-          "url": "https://www.coindesk.com/markets/2026/05/21/binance-launches-spacex-pre-ipo-perps",
+          "title": "A crypto whale has made a $224,000 bet that XRP's price stays perfectly flat through June",
+          "url": "https://www.coindesk.com/markets/2026/05/21/a-massive-xrp-trade-is-betting-prices-gravitate-to-usd1-40-until-the-end-of-june",
           "domain": "coindesk.com",
-          "date": "2026-05-21T07:03:20.000Z",
+          "date": "2026-05-21T09:34:48.000Z",
           "source": "CoinDesk",
-          "summary": "Binance looks to democratize pre-IPO markets, starting with SpaceX perpetual futures."
+          "summary": "The trader collected about $224,500 in premiums and will keep the full amount if XRP remains close to $1.40."
         },
         {
-          "title": "SEC seeks public comment as it weighs prediction market ETFs",
-          "url": "https://cointelegraph.com/news/sec-seeks-public-comment-as-it-weighs-prediction-market-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-21T05:44:37.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Bitwise, Roundhill Investments and GraniteShares had their prediction market ETF applications put on hold by the SEC earlier this month."
-        },
-        {
-          "title": "Don't call us just a WLFI treasury company, says AI Financial",
-          "url": "https://www.coindesk.com/markets/2026/05/21/don-t-call-us-just-a-wlfi-treasury-company-says-ai-financial",
+          "title": "TradFi giant IG to expand crypto trading across Europe through Bitpanda",
+          "url": "https://www.coindesk.com/business/2026/05/20/tradfi-giant-ig-to-expand-crypto-trading-across-europe-through-bitpanda",
           "domain": "coindesk.com",
-          "date": "2026-05-21T05:20:35.000Z",
+          "date": "2026-05-21T08:58:31.000Z",
           "source": "CoinDesk",
-          "summary": "The company says it is building a broader fintech, tokenization and digital infrastructure business, but its latest SEC filing shows WLFI still dominates the balance sheet."
+          "summary": "The London-listed company is broadening its digital asset offering after introducing spot crypto trading for U.K. retail customers last year."
         },
         {
-          "title": "Here's why bitcoin turned lower from the 200-day average",
-          "url": "https://www.coindesk.com/markets/2026/05/21/bitcoin-s-rebound-has-a-buyer-problem-as-etf-coinbase-and-korea-demand-fade",
-          "domain": "coindesk.com",
-          "date": "2026-05-21T04:52:32.000Z",
-          "source": "CoinDesk",
-          "summary": "BTC recently turned lower from the 200-day average, a barometer of long-term trends. CryptoQuant explains why."
-        },
-        {
-          "title": "Hyperliquid ETFs surprise with 50% volume jump after slow launch",
-          "url": "https://cointelegraph.com/news/hyperliquid-etfs-see-50-volume-jump-with-perfectly-timed-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-21T04:36:42.000Z",
-          "source": "CoinTelegraph",
-          "summary": "ETF analyst Eric Balchunas says crypto and traditional assets are trading down while Hyperliquid is up, leading to a boon for ETFs tied to the token."
-        },
-        {
-          "title": "Map Protocol token plummets 96% after a quadrillion token mint exploit",
-          "url": "https://cointelegraph.com/news/map-protocol-loses-96-of-its-value-after-quadrillion-token-mint-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-21T04:35:52.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The attacker tricked the Butter Network cross-chain bridge into minting millions more tokens than the legitimate supply of MAPO."
+          "title": "US sanctions Sinaloa Cartel-linked cash-to-crypto laundering network tied to fentanyl trafficking",
+          "url": "https://www.theblock.co/post/402135/us-sanctions-sinaloa-cartel-linked-cash-to-crypto-laundering-network-tied-to-fentanyl-trafficking?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-21T08:45:03.000Z",
+          "source": "The Block",
+          "summary": "OFAC sanctioned a Sinaloa Cartel-linked cash-to-crypto network accused of laundering fentanyl proceeds through cryptocurrency transfers."
         }
       ]
     }
