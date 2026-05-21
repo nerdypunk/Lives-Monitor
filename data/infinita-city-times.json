@@ -1,8 +1,14 @@
 {
   "source": "Infinita City Times",
   "feed": "https://www.infinitacitytimes.com/feed",
-  "updatedAt": "2026-05-21T11:47:34.930Z",
+  "updatedAt": "2026-05-21T15:37:15.832Z",
   "items": [
+    {
+      "title": "Ep. 109: Jonathan Anomaly on The Future of Human Enhancement, Genetic Selection & Startup Societies",
+      "link": "https://www.infinitacitytimes.com/p/ep-109-jonathan-anomaly-on-the-future",
+      "date": "Thu, 21 May 2026 14:01:22 GMT",
+      "summary": "From broken institutions to startup societies"
+    },
     {
       "title": "Why You Can't Use Your \"Right to Try\"",
       "link": "https://www.infinitacitytimes.com/p/why-you-cant-use-your-right-to-try",
@@ -56,12 +62,6 @@
       "link": "https://www.infinitacitytimes.com/p/ep-104-ruxandra-teslo-clinical-trials",
       "date": "Fri, 20 Feb 2026 19:22:33 GMT",
       "summary": "Ruxandra Teslo is a genomics PhD and biotech writer focused on how clinical trials shape the speed of medical innovation."
-    },
-    {
-      "title": "Prediction Markets Live in Infinita City",
-      "link": "https://www.infinitacitytimes.com/p/prediction-markets-live-in-infinita",
-      "date": "Wed, 18 Feb 2026 15:27:46 GMT",
-      "summary": "Start betting on Prospera and Infinita-relevant outcomes"
     }
   ]
 }

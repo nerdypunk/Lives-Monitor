@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-21T11:47:47.667Z",
+  "updatedAt": "2026-05-21T15:37:29.642Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -65,6 +65,14 @@
           "summary": "Bio Protocol (BIO) - AI Scientist Demo - 12 May 2026 &nbsp;&nbsp; TradingView"
         },
         {
+          "title": "Bio Protocol 多签钱包向 CEX 转入 8000 万枚 BIO，约 515 万美元 - CryptoRank",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vSFZtczd0ZWlHd0JnWnI4ZlM0MmlHUmFrZDRMbGUtSmJ3Nzd1TVZyMHZzVzg3TlNWNFJZWjExUWoxcWNSbWZ1OTQzZGRrNEh3NEp6ZERlRUY?oc=5",
+          "domain": "cryptorank.io",
+          "date": "2026-05-10T17:23:31.000Z",
+          "source": "CryptoRank",
+          "summary": "Bio Protocol 多签钱包向 CEX 转入 8000 万枚 BIO，约 515 万美元 &nbsp;&nbsp; CryptoRank"
+        },
+        {
           "title": "NanoVita Launches NANA Token On KTX Exchange, Enabling DeSci Network Access To DeFi Users - MEXC",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5wZWJkWWZsNmdSY2ZJdmkzSW1zTkZnMWRKMlo2TmpFSTZYZXRkcF9VQ1IwOHNGQWk0LTRHUmc1RFlJTlUxZC1qbQ?oc=5",
           "domain": "mexc.com",
@@ -79,14 +87,6 @@
           "date": "2026-05-06T07:00:00.000Z",
           "source": "Cryptonews.net",
           "summary": "NanoVita Labs Launches $NANA Token on PancakeSwap – A New Era for AI-Driven Decentralized Science &nbsp;&nbsp; Cryptonews.net"
-        },
-        {
-          "title": "DeSci's Second Coming? - Delphi Digital",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxekJCVU5kTFJ2YTV3Ny1uZmE0NVJzQUVHQno2bUV3dWVwVGttLVozTDlsMk93dWw2Nl9OLXktYkYtbkFyQ285bXF4eEo1dDFEWkd6ZVNIWG52NU5fREFNTTRfNlVET25nMmc?oc=5",
-          "domain": "members.delphidigital.io",
-          "date": "2026-05-05T16:07:54.000Z",
-          "source": "Delphi Digital",
-          "summary": "DeSci's Second Coming? &nbsp;&nbsp; Delphi Digital"
         }
       ]
     },
@@ -167,7 +167,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-20T16:58:33.000Z",
           "source": "Lifespan.io",
-          "summary": "In Aging Cell, researchers have described the differences between primary and secondary senescent cells, comparing radiation-induced senescence to senescence induced by the senescence-associated secretory phenotype (SASP). Heterogeneity on top of heterogeneity It […]"
+          "summary": "In Aging Cell, researchers have described the differences between primary and secondary senescent cells, comparing radiation-induced senescence to senescence induced by the senescence-associated secretory phenotype (SASP). […]"
         },
         {
           "title": "The medical wearable making BP cuffs look old",
@@ -187,6 +187,14 @@
         "https://phys.org/rss-feed/biology-news/biotechnology/"
       ],
       "articles": [
+        {
+          "title": "AI-designed miniproteins switch key cell receptors on and off",
+          "url": "https://phys.org/news/2026-05-ai-miniproteins-key-cell-receptors.html",
+          "domain": "phys.org",
+          "date": "2026-05-21T15:00:12.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "G protein-coupled receptors, or GPCRs, sit in the plasma membrane, the boundary that defines the inside and outside of a living cell. They communicate with nearly every physiological process in our bodies—from the ability to see and smell, to sensing of adrenaline, insulin, nutrients and medicines."
+        },
         {
           "title": "Platonic Representations in the Human Brain: Unsupervised Recovery of Universal Geometry",
           "url": "https://arxiv.org/abs/2605.20496",
@@ -258,14 +266,6 @@
           "date": "2026-05-21T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2605.20692v1 Announce Type: cross Abstract: During an infectious disease outbreak, providing accurate answers to policy questions about transmission requires a detailed model of the natural history of infectiousness. Unfortunately, direct measures of infectiousness are generally unavailable. Instead, we often rely on indirect proxies, such as viral load measured by PCR or antigen tests, viral culture to detect replication-competent virus, or symptom onset, each of which reflects different aspects of viral dynamics or host response. However, these proxies vary in terms of the ease of collection, scalability, and their relationship to viral shedding and therefore underlying infectiousness. Here, we use data from five prospective, densely sampled cohorts with longitudinal data on multiple proxies of viral shedding for approximately 2,000 infections to develop a Bayesian joint model for the within-host viral kinetics of SARS-CoV-2 infection. Modeling the joint distribution allows us to infer the trajectory of infectious virus shedding -- the most direct correlate of infectiousness -- for individuals who contribute only PCR data, and to compute derived quantities that are inaccessible from any single proxy alone. These include the population-level probability and expected duration of ongoing infectiousness as a function of time since diagnosis, stratified by variant, vaccination status, and infection history; the residual risk of releasing an individual from isolation; and personalized, real-time estimates of infectiousness that are sequentially updated as new test results become available."
-        },
-        {
-          "title": "Training distribution determines the ceiling of drug-blind cancer sensitivity prediction",
-          "url": "https://arxiv.org/abs/2605.20885",
-          "domain": "arxiv.org",
-          "date": "2026-05-21T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2605.20885v1 Announce Type: cross Abstract: Precision oncology requires predicting which drugs will suppress a specific tumor from its molecular profile, but drug-blind sensitivity prediction has plateaued despite increasingly complex drug representations. Here we show that this stagnation reflects a metric artifact rather than a representational bottleneck. The standard benchmark, global Pearson r, is dominated by between-drug potency differences that a trivial drug-mean predictor captures without any cell-specific learning. Per-drug Pearson r, which isolates within-drug cell ranking, reveals that no drug encoding improves over cell-only features across four independent datasets. A controlled experiment channeling mechanism-of-action identity as either a drug feature or a training-distribution constraint identifies the cause. Supplying MoA as a feature yields negligible benefit, whereas using it to stratify training raises per-drug r substantially for targeted kinase inhibitors, because pan-cancer co-training suppresses pathway-specific sensitivity signals. Mechanism-stratified training and response matching from pilot observations provide two deployable strategies that together recover the principal sources of predictive gain in drug-blind sensitivity prediction."
         }
       ]
     },
@@ -278,84 +278,84 @@
       ],
       "articles": [
         {
-          "title": "It's not all HYPE: Privacy and quantum-resistant coins advance as bitcoin marks time",
-          "url": "https://www.coindesk.com/daybook-us/2026/05/21/it-s-not-all-hype-privacy-and-quantum-resistant-coins-surge-as-bitcoin-marks-time",
-          "domain": "coindesk.com",
-          "date": "2026-05-21T11:21:25.000Z",
-          "source": "CoinDesk",
-          "summary": "Your day-ahead look for May 21, 2026"
-        },
-        {
-          "title": "The $6 billion expiration countdown: Traders pile into $82,000 bitcoin calls ahead of May 29 expiry",
-          "url": "https://www.coindesk.com/markets/2026/05/21/bitcoin-caught-between-usd75-000-max-pain-and-usd80-000-call-wall-ahead-of-usd6-25-billion-expiry",
-          "domain": "coindesk.com",
-          "date": "2026-05-21T10:53:05.000Z",
-          "source": "CoinDesk",
-          "summary": "Deribit’s bitcoin open interest has overtaken BlackRock’s IBIT as traders brace for a showdown between $75K max pain and $80K call positioning."
-        },
-        {
-          "title": "HYPE leads crypto rebound as traders position for volatility breakout",
-          "url": "https://www.coindesk.com/markets/2026/05/21/hype-leads-crypto-rebound-as-traders-position-for-volatility-breakout",
-          "domain": "coindesk.com",
-          "date": "2026-05-21T10:52:57.000Z",
-          "source": "CoinDesk",
-          "summary": "Bitcoin and ether stabilized as derivatives activity rebounded, HYPE rose for a fifth straight day and options traders positioned for a breakout."
-        },
-        {
-          "title": "Missouri AG sues CoinFlip, calls crypto ATMs ‘getaway cars for fraud’",
-          "url": "https://www.theblock.co/post/402153/missouri-ag-sues-coinflip?utm_source=rss&utm_medium=rss",
+          "title": "HYPE token sets new record high above $60 amid rising Wall Street demand for Hyperliquid",
+          "url": "https://www.theblock.co/post/402203/hype-token-new-record-high-wall-street-demand-hyperliquid?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-05-21T10:40:33.000Z",
+          "date": "2026-05-21T15:17:52.000Z",
           "source": "The Block",
-          "summary": "Missouri sued CoinFlip, alleging its cryptocurrency ATMs were used in widespread consumer fraud schemes and charged excessive fees."
+          "summary": "Of note, Grayscale-linked wallets reportedly accumulated over $40 million worth of HYPE over the past week."
         },
         {
-          "title": "OSL Strengthens Asia’s Digital Asset Ecosystem with Listing of State-Supervised Gold-Backed Stablecoin USDKG",
-          "url": "https://cointelegraph.com/press-releases/osl-strengthens-asias-digital-asset-ecosystem-with-listing-of-state-supervised-gold-backed-stablecoin-usdkg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "U.S. CFTC secures deal with National Hockey League on prediction market safeguards",
+          "url": "https://www.coindesk.com/policy/2026/05/21/u-s-cftc-secures-deal-with-national-hockey-league-on-prediction-market-safeguards",
+          "domain": "coindesk.com",
+          "date": "2026-05-21T15:12:33.000Z",
+          "source": "CoinDesk",
+          "summary": "A new arrangement has been set between the derivatives regulator and professional hockey, following on the heels of a similar baseball agreement."
+        },
+        {
+          "title": "Crypto for Advisors: Crypto Products",
+          "url": "https://www.coindesk.com/coindesk-indices/2026/05/20/crypto-for-advisors-crypto-products",
+          "domain": "coindesk.com",
+          "date": "2026-05-21T15:00:00.000Z",
+          "source": "CoinDesk",
+          "summary": "Advisors need to assess ETP custody, sponsor profiles, and fees. Read expert advice on bitcoin-backed loans, including margin call risks and when to sell vs. borrow."
+        },
+        {
+          "title": "IG Europe taps Bitpanda to expand crypto trading across Europe",
+          "url": "https://cointelegraph.com/news/ig-europe-taps-bitpanda-to-expand-crypto-trading-across-the-bloc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-05-21T10:28:20.000Z",
+          "date": "2026-05-21T14:50:23.000Z",
           "source": "CoinTelegraph",
-          "summary": "OSL Group (863.HK) (OSL), a global stablecoin payment and trading platform, today announced that its Hong Kong-licensed digital asset exchange OSL HK has officially listed USDKG, the gold-backed stablecoin issued by the Kyrgyz Republic."
+          "summary": "IG Group, which launched spot crypto in the UK last year, is bringing the service to European investors through Bitpanda’s infrastructure."
         },
         {
-          "title": "Fantasy Top to shut down, says trading card game model was ‘never built’ for crypto",
-          "url": "https://www.theblock.co/post/402144/fantasy-top-to-shut-down-says-trading-card-game-model-was-never-built-for-crypto?utm_source=rss&utm_medium=rss",
+          "title": "MoonPay announces fourth acquisition of the year with Decent, as it launches MoonPay Trade",
+          "url": "https://www.theblock.co/post/402206/moonpay-announces-fourth-acquisition-of-the-year-with-decent-as-it-launches-moonpay-trade?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-05-21T10:19:35.000Z",
+          "date": "2026-05-21T14:46:02.000Z",
           "source": "The Block",
-          "summary": "Its founder said that financialized crypto trading card games attract speculators rather than players."
+          "summary": "This Decent deal comes on a wave of acquisitions by MoonPay, including DFlow and Sodot, which all support MoonPay Trade."
         },
         {
-          "title": "Wife of Sandbox co-founder Sebastien Borget targeted in kidnapping attempt at home in France: report",
-          "url": "https://www.theblock.co/post/402146/wife-of-sandbox-co-founder-sebastien-borget-targeted-in-kidnapping-attempt-at-home-in-france-report?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-21T10:12:33.000Z",
-          "source": "The Block",
-          "summary": "The wife of Sandbox co-founder Sebastien Borget was targeted in a kidnapping attempt as France logs over 41 crypto kidnappings in 2026."
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-21T14:45:16.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
         },
         {
-          "title": "A crypto whale has made a $224,000 bet that XRP's price stays perfectly flat through June",
-          "url": "https://www.coindesk.com/markets/2026/05/21/a-massive-xrp-trade-is-betting-prices-gravitate-to-usd1-40-until-the-end-of-june",
+          "title": "MoonPay expands into tokenized assets and DeFi markets with new platform for banks",
+          "url": "https://www.coindesk.com/business/2026/05/21/moonpay-expands-into-tokenized-assets-and-defi-markets-with-new-platform-for-banks",
           "domain": "coindesk.com",
-          "date": "2026-05-21T09:34:48.000Z",
+          "date": "2026-05-21T14:42:16.000Z",
           "source": "CoinDesk",
-          "summary": "The trader collected about $224,500 in premiums and will keep the full amount if XRP remains close to $1.40."
+          "summary": "With MoonPay Trade, the crypto payments firm is building infrastructure for banks, fintechs to access stablecoins, tokenized funds and yield in a one-stop shop."
         },
         {
-          "title": "TradFi giant IG to expand crypto trading across Europe through Bitpanda",
-          "url": "https://www.coindesk.com/business/2026/05/20/tradfi-giant-ig-to-expand-crypto-trading-across-europe-through-bitpanda",
-          "domain": "coindesk.com",
-          "date": "2026-05-21T08:58:31.000Z",
-          "source": "CoinDesk",
-          "summary": "The London-listed company is broadening its digital asset offering after introducing spot crypto trading for U.K. retail customers last year."
-        },
-        {
-          "title": "US sanctions Sinaloa Cartel-linked cash-to-crypto laundering network tied to fentanyl trafficking",
-          "url": "https://www.theblock.co/post/402135/us-sanctions-sinaloa-cartel-linked-cash-to-crypto-laundering-network-tied-to-fentanyl-trafficking?utm_source=rss&utm_medium=rss",
+          "title": "NHL, CFTC team up with memorandum of understanding as sports-based prediction markets balloon",
+          "url": "https://www.theblock.co/post/402197/nhl-cftc-team-up-with-memorandum-of-understanding-as-sports-based-prediction-markets-balloon?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-05-21T08:45:03.000Z",
+          "date": "2026-05-21T14:32:03.000Z",
           "source": "The Block",
-          "summary": "OFAC sanctioned a Sinaloa Cartel-linked cash-to-crypto network accused of laundering fentanyl proceeds through cryptocurrency transfers."
+          "summary": "Prediction markets are skating out of the penalty box into the mainstream as the CFTC strikes another agreement with a major sports league."
+        },
+        {
+          "title": "Boerse Stuttgart adds Societe Generale, SG-FORGE, and flatexDEGIRO to ‘pan-European’ tokenized settlement network",
+          "url": "https://www.theblock.co/post/402198/boerse-stuttgart-adds-societe-generale-sg-forge-and-flatexdegiro-to-pan-european-tokenized-settlement-network?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-21T14:21:33.000Z",
+          "source": "The Block",
+          "summary": "Nasdaq’s European trading venues will connect to Seturion to facilitate trading and settlement of tokenized securities."
+        },
+        {
+          "title": "Peer-to-peer trading startup Variational raises $50 million for real-world perps in funding round led by Dragonfly",
+          "url": "https://www.coindesk.com/business/2026/05/21/peer-to-peer-trading-startup-variational-raises-usd50-million-for-real-world-perps-in-funding-round-led-by-dragonfly",
+          "domain": "coindesk.com",
+          "date": "2026-05-21T13:57:00.000Z",
+          "source": "CoinDesk",
+          "summary": "The company is initially offering perpetual futures on real-world assets including oil, silver, copper and gold."
         }
       ]
     }
