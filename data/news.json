@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-22T04:37:24.475Z",
+  "updatedAt": "2026-05-22T08:04:12.910Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -8,14 +8,6 @@
         "https://news.google.com/rss/search?q=DeSci%20OR%20%22decentralized%20science%22%20OR%20%22BIO%20Protocol%22&hl=en-US&gl=US&ceid=US:en"
       ],
       "articles": [
-        {
-          "title": "Bio Protocol Price - Binance",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44VVZaYlo0TkVubGlzQ0h3eGJydWo1MnFyTVl3clcxSDFYRjk1b2dFXzFpTlJlV3I5a2trZTM2N29uN3EzSWF3UzZRenNJNHREUFhqSGdjMDZmdkZXRkk0Y2k5eHI2ZTc3TldLVWFJSFRnbkc5OVE?oc=5",
-          "domain": "binance.com",
-          "date": "2026-05-21T12:12:22.000Z",
-          "source": "Binance",
-          "summary": "Bio Protocol Price &nbsp;&nbsp; Binance"
-        },
         {
           "title": "Manadia Partners with NanoVita to Advance AI-Powered DeSci Infrastructure - Cryptonews.net",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE44ZEczTDNpVHBqNHNnMjhCVEJKY2pXVW5yZjRYa1B1aXRFOHBHNmlnLXJYYnV1X2dNRlEzcGVWeTZyeHZibFJJVFpaREdKczgySndpbFJ5NTZqeUdu?oc=5",
@@ -87,6 +79,14 @@
           "date": "2026-05-05T16:07:54.000Z",
           "source": "Delphi Digital",
           "summary": "DeSci's Second Coming? &nbsp;&nbsp; Delphi Digital"
+        },
+        {
+          "title": "AI Token SkyAI And DeSci Protocol BIO Each Climb 42% In Parallel Rally - Yellow.com",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03Y01tNmw4bFdQT2t0QU1ySXRCR2s1RG1nSW9rRHpsQm1vREV0dWMxZGFzSjRiSDJfZ2pHbEtLamtlLUwzMmpxNDB3ZldMcWNCaHZUMFRWRVZXR29LbGREaVkxQmlkSk5TYkJz?oc=5",
+          "domain": "yellow.com",
+          "date": "2026-05-03T07:00:00.000Z",
+          "source": "Yellow.com",
+          "summary": "AI Token SkyAI And DeSci Protocol BIO Each Climb 42% In Parallel Rally &nbsp;&nbsp; Yellow.com"
         }
       ]
     },
@@ -103,7 +103,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-21T17:23:02.000Z",
           "source": "Lifespan.io",
-          "summary": "Researchers have outlined a key receptor and protein involved in the formation of cataracts, paving the way for potential treatments targeting them. Oxidative stress and cataracts are closely related Cataracts, which cloud the lenses of the eye, are […]"
+          "summary": "Researchers have outlined a key receptor and protein involved in the formation of cataracts, paving the way for potential treatments targeting them. Oxidative stress and cataracts are closely […]"
         },
         {
           "title": "New Alzheimer therapies trigger diagnostic shakeup",
@@ -278,84 +278,84 @@
       ],
       "articles": [
         {
-          "title": "US lawmakers renew strategic Bitcoin reserve push with ARMA bill",
-          "url": "https://cointelegraph.com/news/us-senators-unveil-new-bitcoin-bill-renewing-strategic-reserve-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "Tokenized stocks risk liquidity and revenue fragmentation: Research",
+          "url": "https://cointelegraph.com/news/tokenized-stocks-risk-liquidity-and-revenue-fragmentation-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-05-22T04:02:37.000Z",
+          "date": "2026-05-22T06:56:35.000Z",
           "source": "CoinTelegraph",
-          "summary": "Under the American Reserve Modernization Act of 2026, Bitcoin must be held for a minimum of 20 years unless used to slash national debt."
+          "summary": "TradFi views the breakup of its previously consolidated, centralized liquidity as a “serious structural threat,” said Tiger Research director Ryan Yoon."
         },
         {
-          "title": "5 crypto firms wind down this week amid ongoing market slump",
-          "url": "https://cointelegraph.com/news/5-crypto-firms-wind-down-this-week-amid-ongoing-market-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "Galaxy’s Novogratz speaks in court over failed $1.2B BitGo deal: Report",
+          "url": "https://cointelegraph.com/news/galaxys-novogratz-speaks-in-court-on-12b-bitgo-deal-gone-wrong-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-05-22T03:59:57.000Z",
+          "date": "2026-05-22T06:45:06.000Z",
           "source": "CoinTelegraph",
-          "summary": "Fantasy.top, Everclear and ZERO Network announced they were winding down on Thursday, adding to a growing list of crypto companies that have closed this year."
+          "summary": "Galaxy Digital’s Mike Novogratz reportedly told a court the SEC made it “very difficult” to complete a planned 2021 merger with BitGo."
         },
         {
-          "title": "Ark Invest buys another $5 million in Bullish shares as stock slides 3%",
-          "url": "https://www.theblock.co/post/402302/ark-invest-buys-5-million-bullish?utm_source=rss&utm_medium=rss",
+          "title": "XRP ETFs attract inflows amid wallet surge. bitcoin, ether funds struggle.",
+          "url": "https://www.coindesk.com/markets/2026/05/22/xrp-funds-sees-fresh-inflows-and-wallet-spike-as-bitcoin-ether-funds-bleed",
+          "domain": "coindesk.com",
+          "date": "2026-05-22T06:36:18.000Z",
+          "source": "CoinDesk",
+          "summary": "Fresh inflows into XRP-linked funds and a spike in newly created wallets suggest some traders may be rotating into the token while trimming exposure to crypto’s largest assets."
+        },
+        {
+          "title": "SEC's Peirce tempers expectations over tokenized stocks exemption",
+          "url": "https://cointelegraph.com/news/secs-peirce-tempers-expectations-over-innovation-exemption-for-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-22T06:35:38.000Z",
+          "source": "CoinTelegraph",
+          "summary": "An executive at tokenization platforms Superstate said the stricter approach suggested by Hester Peirce would enable DeFi to expand without compromising rules in traditional capital markets."
+        },
+        {
+          "title": "Polymarket eyes Japan market entry, appoints regional representative: Bloomberg",
+          "url": "https://www.theblock.co/post/402309/polymarket-japan-market-entry?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-05-22T02:37:27.000Z",
+          "date": "2026-05-22T06:35:24.000Z",
           "source": "The Block",
-          "summary": "Ark Invest bought a total of 139,117 shares of Bullish, worth about $5 million, across three of its ETFs on Thursday."
+          "summary": "The prediction markets platform aims to secure regulatory authorization to operate in Japan by 2030, according to Bloomberg."
         },
         {
-          "title": "Ethereum Layer 2 Zero Network to wind down, joining string of protocols shuttering operations",
-          "url": "https://www.theblock.co/post/402296/zero-network-wind-down?utm_source=rss&utm_medium=rss",
+          "title": "South Korea to review scrapping crypto tax plan after national petition hits 50,000 signatures",
+          "url": "https://www.theblock.co/post/402311/south-korea-petition-crypto-tax-plan?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-05-22T01:57:49.000Z",
+          "date": "2026-05-22T06:06:21.000Z",
           "source": "The Block",
-          "summary": "Resources will be redirected to focus on growing Zerion's API and wallet service, the team said in a Thursday statement."
+          "summary": "The petitioner said taxing cryptocurrency gains while abolishing taxes on traditional investments is unfair."
         },
         {
-          "title": "Bitcoin liquidity balance hints at developing rally toward $80K",
-          "url": "https://cointelegraph.com/markets/bitcoin-liquidity-imbalance-eyes-a-sharp-rally-to-80k-next-heres-why?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "Coinbase premium hits monthly low as institutional selling pressure mounts",
+          "url": "https://cointelegraph.com/news/coinbase-premium-hits-monthly-low-as-institutional-selling-pressure-mounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-05-22T00:34:56.000Z",
+          "date": "2026-05-22T05:46:24.000Z",
           "source": "CoinTelegraph",
-          "summary": "Data show Bitcoin futures traders are pursuing overhead short positions, raising the chance of a rally to $80,000."
+          "summary": "Uncertainty surrounding the current macro environment “appears to be pushing institutions toward hedging strategies while waiting for greater clarity,” said analyst Darkfost."
         },
         {
-          "title": "Galaxy’s Novogratz and BitGo face off in court over $100 million claim: Bloomberg",
-          "url": "https://www.theblock.co/post/402290/galaxys-bitgo-court?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-22T00:22:44.000Z",
-          "source": "The Block",
-          "summary": "In 2022, Galaxy said it was abandoning its acquisition plan due to BitGo's 'failure to deliver ... audited financial statements for 2021.'"
+          "title": "Bitcoin trades near $77,700 as analysts eye $75,000 support after liquidation wave",
+          "url": "https://www.coindesk.com/markets/2026/05/22/bitcoin-trades-near-usd77-700-as-analysts-eye-usd75-000-support-after-liquidation-wave",
+          "domain": "coindesk.com",
+          "date": "2026-05-22T05:38:22.000Z",
+          "source": "CoinDesk",
+          "summary": "Open interest held steady and funding stayed subdued during the recent liquidation wave, suggesting traders were de-risking rather than capitulating, according to HashKey Research's Tim Sun."
         },
         {
-          "title": "Bitcoin longs soar despite weak US macroeconomic data: Is $82K BTC next?",
-          "url": "https://cointelegraph.com/markets/bitcoin-longs-soar-despite-weak-us-macroeconomic-data-is-82k-btc-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "India cracks down on prediction markets: Polymarket goes dark, Kalshi could be next",
+          "url": "https://www.coindesk.com/markets/2026/05/22/india-cracks-down-on-prediction-markets-polymarket-goes-dark-kalshi-could-be-next",
+          "domain": "coindesk.com",
+          "date": "2026-05-22T05:14:46.000Z",
+          "source": "CoinDesk",
+          "summary": "Polymarket has gone dark in India and as per local media reports, Kalshi could be next."
+        },
+        {
+          "title": "Accused attackers of Sandbox exec’s wife tried to flee via Uber",
+          "url": "https://cointelegraph.com/news/uber-getaway-wrench-attack-sandbox-cofounder-wife-france?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-05-21T23:07:13.000Z",
+          "date": "2026-05-22T04:57:33.000Z",
           "source": "CoinTelegraph",
-          "summary": "Data shows Bitcoin traders cutting short positions and going long despite concerning US macroeconomic data emerging. Is a rally toward $82,000 next?"
-        },
-        {
-          "title": "Harvard dumps entire ETH position after just one quarter",
-          "url": "https://cointelegraph.com/news/harvard-dumps-entire-eth-position-one-quarter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-21T22:02:48.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Harvard's endowment fund has become one of the latest high-profile holders to liquidate its ETH as investor sentiment sours during the ongoing bear market."
-        },
-        {
-          "title": "Coinbase introduces thematic perps tracking China, AI and US national security equity indexes",
-          "url": "https://www.theblock.co/post/402286/coinbase-thematic-perps-tracking-china-ai-us-national-security-equity-indexes?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-21T21:09:50.000Z",
-          "source": "The Block",
-          "summary": "The contracts are based on MarketVector’s existing AI, defense and China indexes that track the 10 largest companies per sector."
-        },
-        {
-          "title": "Crypto PAC backed by Anchorage and Chainlink announces endorsements for 2026 midterms",
-          "url": "https://cointelegraph.com/news/crypto-pac-anchorage-chainlink-2026-candidates-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-21T20:48:52.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Federal Election Commission filings showed only $175,000 in contributions to the hybrid PAC, which could influence US voters through media buys before key elections in several states."
+          "summary": "CertiK reported earlier this month that criminal wrench attack teams usually consist of three to five people and are often made up of amateurs, while the masterminds are outside the country."
         }
       ]
     }
