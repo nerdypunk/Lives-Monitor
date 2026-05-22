@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-22T18:19:24.281Z",
+  "updatedAt": "2026-05-22T20:20:49.379Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -8,6 +8,14 @@
         "https://news.google.com/rss/search?q=DeSci%20OR%20%22decentralized%20science%22%20OR%20%22BIO%20Protocol%22&hl=en-US&gl=US&ceid=US:en"
       ],
       "articles": [
+        {
+          "title": "Bio Protocol Price - Binance",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44VVZaYlo0TkVubGlzQ0h3eGJydWo1MnFyTVl3clcxSDFYRjk1b2dFXzFpTlJlV3I5a2trZTM2N29uN3EzSWF3UzZRenNJNHREUFhqSGdjMDZmdkZXRkk0Y2k5eHI2ZTc3TldLVWFJSFRnbkc5OVE?oc=5",
+          "domain": "binance.com",
+          "date": "2026-05-21T12:12:22.000Z",
+          "source": "Binance",
+          "summary": "Bio Protocol Price &nbsp;&nbsp; Binance"
+        },
         {
           "title": "desci | all\" Market Price, Charts & Spot Trading | MEXC - MEXC",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KQVBGbEx0OHl1eUVhNzlndWVLeW5kTUgyY1otaGFUQmtFX0U5dWpaY192UVZROWhzblhHYUZiQTJsbHg3VFhZcnF6ZWVoUGkxbU1EcUtsRkJ0Vk8zQW1UOUZCS2ViVjA1ZFZN?oc=5",
@@ -25,14 +33,6 @@
           "summary": "PEPTAI Price Swings Wild As Base Integration Fuels DeSci Hype &nbsp;&nbsp; Coinpedia"
         },
         {
-          "title": "What is DeSci (Decentralized Science)? - bitget.com",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JSFd4c2dQOFcwOG5lVno4Mm9hb1AzTWtCVENzazltU2doTlp1aHJnSnRILWJadWJqRG1LQ2hfdEJTaGpPOVFnSDhYMmFpWXY2UFdsUURieWt0SHlScGxtcNIBZkFVX3lxTFBSSU5kRjVUMHZtQlBQSkdYSFV0UG5na0s5NUp4X0c4MDEzXzVFcTZONHZzaEE5WEF6QlNUZnQ1ZXlfTkFqVzFHVWs4a1BKLVRtLU1Nd3Z4VExHeWoydzlLUFFteGU5Zw?oc=5",
-          "domain": "bitget.com",
-          "date": "2026-05-14T13:47:36.000Z",
-          "source": "bitget.com",
-          "summary": "What is DeSci (Decentralized Science)? &nbsp;&nbsp; bitget.com"
-        },
-        {
           "title": "5 Top DeSci Projects that are currently fighting rare diseases in 2026 - FinanceFeeds",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWGZnZG9ReVJES1U0ZHBBRC1pRHZqcG45RjVTQjJfaXRLX2k0LTA5XzdZclIteVlfZ1ZDYlpyMEc4UWk0VHZXc0tQNmxqaGdvRWFJb2JxZDl1cE4tTkpiN3I0NlFaLUVqTndzTFlEdnNZUlpNVmdCN3pCQmE1X2JiYzNwQmxFcVVhMEg1TzREc2JfbUM1dzJSU1pKdk8?oc=5",
           "domain": "financefeeds.com",
@@ -44,7 +44,7 @@
           "title": "Bio Protocol announces the launch of PEPTAI, with a total supply of 20% allocated to BIO stakers - bitget.com",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kbzJldmVlM2JDQVdMbGJiT1g0QlZveklCNi1PblBGRWdEckR5cVBaaHF6ZGVPUDNUX1BRQUdTTjZrXy1qbzh5RmJkbTJBakczSnhsb2NBeDBEQ0N3dlHSAWNBVV95cUxPSGxtdE9PTnlHUVF0UzRqRnFTNXNmUHQxankwSExXY3ZaQzIzdVhpSTRDdzRBalFJT0p0M3F5dFdqS0Voak9QVExKR1Qyb2lxaGx4ZTZPNTZaZFQ5NTFQSWpYZ2s?oc=5",
           "domain": "bitget.com",
-          "date": "2026-05-13T22:32:13.000Z",
+          "date": "2026-05-14T07:00:00.000Z",
           "source": "bitget.com",
           "summary": "Bio Protocol announces the launch of PEPTAI, with a total supply of 20% allocated to BIO stakers &nbsp;&nbsp; bitget.com"
         },
@@ -119,7 +119,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-22T15:00:00.000Z",
           "source": "Lifespan.io",
-          "summary": "Scientists have found that the levels of phosphatidylcholine, the most abundant lipid in mitochondrial membranes, decline with age, driving mitochondrial aging in worms and possibly humans. Supplementing the lipid […]"
+          "summary": "Scientists have found that the levels of phosphatidylcholine, the most abundant lipid in mitochondrial membranes, decline with age, driving mitochondrial aging in worms and possibly humans. Supplementing the lipid helped in […]"
         },
         {
           "title": "H-SPAN returns as longevity heads to Washington",
@@ -175,7 +175,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-21T17:23:02.000Z",
           "source": "Lifespan.io",
-          "summary": "Researchers have outlined a key receptor and protein involved in the formation of cataracts, paving the way for potential treatments targeting them. Oxidative stress […]"
+          "summary": "Researchers have outlined a key receptor and protein involved in the formation of cataracts, paving the way for potential treatments targeting them. Oxidative stress and cataracts are closely related Cataracts, which cloud […]"
         }
       ]
     },
@@ -278,6 +278,62 @@
       ],
       "articles": [
         {
+          "title": "F2Pool founder who controls 11% of bitcoin's hashrate to lead first SpaceX mission to Mars",
+          "url": "https://www.coindesk.com/business/2026/05/22/f2pool-founder-who-controls-11-of-bitcoin-s-hashrate-to-lead-first-spacex-mission-to-mars",
+          "domain": "coindesk.com",
+          "date": "2026-05-22T19:47:09.000Z",
+          "source": "CoinDesk",
+          "summary": "Chun Wang, the first Mission Commander for SpaceX’s first commercial spaceflight to Mars, is crucial for the future transport of millions of tons of cargo and a million citizens to the Red Planet."
+        },
+        {
+          "title": "New strategic bitcoin reserve bill drops 1 million BTC purchase target, adds 20-year lockup period",
+          "url": "https://www.theblock.co/post/402264/new-strategic-bitcoin-reserve-bill-drops-btc-purchase-target-adds-lockup?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-22T19:45:08.000Z",
+          "source": "The Block",
+          "summary": "The bill would require quarterly public proof-of-reserve disclosures and third-party audits of government bitcoin holdings."
+        },
+        {
+          "title": "Robinhood Crypto COO Tanya Denisova is leaving company amid revenue slowdown",
+          "url": "https://www.coindesk.com/business/2026/05/22/robinhood-crypto-coo-tanya-denisova-is-leaving-company-amid-revenue-slowdown",
+          "domain": "coindesk.com",
+          "date": "2026-05-22T19:40:15.000Z",
+          "source": "CoinDesk",
+          "summary": "Robinhood Crypto COO Tanya Denisova is leaving the firm after more than five years, as the trading platform navigates a sharp decline in crypto revenue and works to lessen its dependence on digital asset market cycles."
+        },
+        {
+          "title": "Price predictions 5/22: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH",
+          "url": "https://cointelegraph.com/markets/price-predictions-522-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-22T19:33:51.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bitcoin sold off to $76,000, giving bears an opportunity to reclaim control of the crypto market. Meanwhile, altcoins like HYPE charted new highs."
+        },
+        {
+          "title": "SEC delays tokenized asset exemption amid concerns over third-party tokens: Bloomberg Law",
+          "url": "https://www.theblock.co/post/402409/sec-delays-tokenized-asset-exemption-third-party-tokens-bloomberg-law?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-22T19:29:28.000Z",
+          "source": "The Block",
+          "summary": "The SEC has delayed its plan for an anticipated exemption that would clarify the agency's stance on tokenized assets, Bloomberg Law reported."
+        },
+        {
+          "title": "Kalshi, Polymarket lose bids to halt Nevada and Washington gambling cases",
+          "url": "https://www.theblock.co/post/402397/kalshi-polymarket-lose-bids-to-halt-nevada-and-washington-gambling-cases?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-05-22T18:33:57.000Z",
+          "source": "The Block",
+          "summary": "The Ninth Circuit said federal derivatives oversight does not shield prediction market firms from state gaming enforcement."
+        },
+        {
+          "title": "SEC Commissioner Peirce counters views that crypto rule will foster synthetic tokens",
+          "url": "https://www.coindesk.com/news-analysis/2026/05/22/sec-commissioner-peirce-counters-views-that-crypto-rule-will-foster-synthetic-tokens",
+          "domain": "coindesk.com",
+          "date": "2026-05-22T18:20:32.000Z",
+          "source": "CoinDesk",
+          "summary": "Hester Peirce, the commissioner behind the SEC's Crypto Task Force, made statements on the now-delayed proposal, perhaps tamping down mistaken beliefs."
+        },
+        {
           "title": "Ripple, North Island Ventures back $6 million round for cross-chain platform Squid",
           "url": "https://www.theblock.co/post/402394/ripple-north-island-ventures-squid-crypto-funding?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
@@ -300,62 +356,6 @@
           "date": "2026-05-22T17:20:49.000Z",
           "source": "CoinTelegraph",
           "summary": "Representative James Comer asked CEOs of two major prediction market companies for information on their responses to insider trading after “suspiciously timed trades” related to US military actions against Iran."
-        },
-        {
-          "title": "NEAR token jumps 30% amid AI hype, Arthur Hayes endorsement and scaling plans",
-          "url": "https://www.theblock.co/post/402373/near-jumps-30-ai-hype-arthur-hayes-endorsement-scaling-plans?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-22T17:11:43.000Z",
-          "source": "The Block",
-          "summary": "The prominent crypto investor Arthur Hayes described NEAR, HYPE and ZEC as “the holy trinity” of altcoins."
-        },
-        {
-          "title": "NEAR protocol leads AI token rally with a 50% pump: Is $5 NEAR price next?",
-          "url": "https://cointelegraph.com/markets/near-protocol-leads-ai-token-rally-with-a-50-pump-is-5-near-price-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-22T17:01:28.000Z",
-          "source": "CoinTelegraph",
-          "summary": "NEAR price surges 50% in a week as AI token momentum, Nvidia optimism and network upgrades fuel bullish sentiment."
-        },
-        {
-          "title": "OKX, ICE partner on oil perps as NYSE-parent pressures US regulators to rein in Hyperliquid",
-          "url": "https://www.theblock.co/post/402382/okx-ice-partner-oil-commodity-perps?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-22T16:48:03.000Z",
-          "source": "The Block",
-          "summary": "OKX's oil perps contracts will track Intercontinental Exchange's Brent Crude and WTI Crude energy benchmarks."
-        },
-        {
-          "title": "Tom Emmer brushes off law enforcement concerns over Clarity Act",
-          "url": "https://www.coindesk.com/policy/2026/05/22/tom-emmer-brushes-off-law-enforcement-concerns-over-clarity-act",
-          "domain": "coindesk.com",
-          "date": "2026-05-22T16:30:55.000Z",
-          "source": "CoinDesk",
-          "summary": "House Majority Whip Tom Emmer said concerns from law enforcement groups about crypto developer protections are being overstated."
-        },
-        {
-          "title": "Kalshi-backed prediction market advocacy group debuts with support from former Trump aide",
-          "url": "https://www.theblock.co/post/402374/kalshi-prediction-market-advocacy-group-debuts-support-former-trump-aide?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-22T16:22:34.000Z",
-          "source": "The Block",
-          "summary": "An advocacy group focused on prediction markets has emerged with support from former White House Deputy Chief of Staff Taylor Budowich."
-        },
-        {
-          "title": "Crypto Biz: Institutions tighten their grip on Bitcoin, AI and prediction markets",
-          "url": "https://cointelegraph.com/news/institutional-crypto-adoption-tether-bitcoin-ai-polymarket-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-22T16:02:30.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Institutional crypto adoption accelerates as Tether expands Bitcoin holdings, miners pivot to AI and Polymarket joins Nasdaq amid $1 billion fund outflows."
-        },
-        {
-          "title": "Bitcoin price falls under $77K as Dow Jones hits new all-time highs",
-          "url": "https://cointelegraph.com/markets/bitcoin-price-falls-under-77k-as-dow-jones-hits-new-all-time-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-22T15:40:15.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Bitcoin headed lower as Wall Street trading began with new record highs for the Dow Jones, while traders warned of weak US demand."
         }
       ]
     }
