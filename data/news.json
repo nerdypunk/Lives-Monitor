@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-21T22:54:33.082Z",
+  "updatedAt": "2026-05-22T00:07:24.300Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -25,12 +25,12 @@
           "summary": "Manadia Partners with NanoVita to Advance AI-Powered DeSci Infrastructure &nbsp;&nbsp; Cryptonews.net"
         },
         {
-          "title": "desci | all\" Market Price, Charts & Spot Trading | MEXC - MEXC Exchange",
+          "title": "desci | all\" Market Price, Charts & Spot Trading | MEXC - MEXC",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KQVBGbEx0OHl1eUVhNzlndWVLeW5kTUgyY1otaGFUQmtFX0U5dWpaY192UVZROWhzblhHYUZiQTJsbHg3VFhZcnF6ZWVoUGkxbU1EcUtsRkJ0Vk8zQW1UOUZCS2ViVjA1ZFZN?oc=5",
           "domain": "mexc.com",
           "date": "2026-05-17T19:11:54.000Z",
-          "source": "MEXC Exchange",
-          "summary": "desci | all\" Market Price, Charts & Spot Trading | MEXC &nbsp;&nbsp; MEXC Exchange"
+          "source": "MEXC",
+          "summary": "desci | all\" Market Price, Charts & Spot Trading | MEXC &nbsp;&nbsp; MEXC"
         },
         {
           "title": "PEPTAI Price Swings Wild As Base Integration Fuels DeSci Hype - Coinpedia",
@@ -73,12 +73,12 @@
           "summary": "Bio Protocol (BIO) - AI Scientist Demo - 12 May 2026 &nbsp;&nbsp; TradingView"
         },
         {
-          "title": "NanoVita Launches NANA Token On KTX Exchange, Enabling DeSci Network Access To DeFi Users - MEXC Exchange",
+          "title": "NanoVita Launches NANA Token On KTX Exchange, Enabling DeSci Network Access To DeFi Users - MEXC",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5wZWJkWWZsNmdSY2ZJdmkzSW1zTkZnMWRKMlo2TmpFSTZYZXRkcF9VQ1IwOHNGQWk0LTRHUmc1RFlJTlUxZC1qbQ?oc=5",
           "domain": "mexc.com",
           "date": "2026-05-10T07:00:00.000Z",
-          "source": "MEXC Exchange",
-          "summary": "NanoVita Launches NANA Token On KTX Exchange, Enabling DeSci Network Access To DeFi Users &nbsp;&nbsp; MEXC Exchange"
+          "source": "MEXC",
+          "summary": "NanoVita Launches NANA Token On KTX Exchange, Enabling DeSci Network Access To DeFi Users &nbsp;&nbsp; MEXC"
         },
         {
           "title": "NanoVita Labs Launches $NANA Token on PancakeSwap – A New Era for AI-Driven Decentralized Science - Cryptonews.net",
@@ -103,7 +103,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-21T17:23:02.000Z",
           "source": "Lifespan.io",
-          "summary": "Researchers have outlined a key receptor and protein involved in the formation of cataracts, paving the way for potential treatments […]"
+          "summary": "Researchers have outlined a key receptor and protein involved in the formation of cataracts, paving the way for potential treatments targeting them. […]"
         },
         {
           "title": "New Alzheimer therapies trigger diagnostic shakeup",
@@ -278,6 +278,14 @@
       ],
       "articles": [
         {
+          "title": "Bitcoin longs soar despite weak US macroeconomic data: Is $82K BTC next?",
+          "url": "https://cointelegraph.com/markets/bitcoin-longs-soar-despite-weak-us-macroeconomic-data-is-82k-btc-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-21T23:07:13.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Data shows Bitcoin traders cutting short positions and going long despite concerning US macroeconomic data emerging. Is a rally toward $82,000 next?"
+        },
+        {
           "title": "Harvard dumps entire ETH position after just one quarter",
           "url": "https://cointelegraph.com/news/harvard-dumps-entire-eth-position-one-quarter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
@@ -348,14 +356,6 @@
           "date": "2026-05-21T18:15:18.000Z",
           "source": "CoinTelegraph",
           "summary": "The financial regulator signed a similar agreement with Major League Baseball in March and continues to file lawsuits against state-level authorities going after prediction market platforms over sports betting."
-        },
-        {
-          "title": "Blockchain.com confidentially submits IPO filing with SEC",
-          "url": "https://cointelegraph.com/news/blockchaincom-confidentially-submits-ipo-filing-with-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-21T17:30:31.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The crypto services company began the US IPO process as companies across the digital asset sector weigh public market debuts."
         }
       ]
     }
