@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-22T22:43:39.949Z",
+  "updatedAt": "2026-05-22T23:52:16.602Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -119,7 +119,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-22T15:00:00.000Z",
           "source": "Lifespan.io",
-          "summary": "Scientists have found that the levels of phosphatidylcholine, the most abundant lipid in mitochondrial membranes, decline with age, driving mitochondrial aging in worms and possibly humans. Supplementing the lipid helped […]"
+          "summary": "Scientists have found that the levels of phosphatidylcholine, the most abundant lipid in mitochondrial membranes, decline with age, driving mitochondrial aging in worms and possibly humans. Supplementing the […]"
         },
         {
           "title": "H-SPAN returns as longevity heads to Washington",
@@ -175,7 +175,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-21T17:23:02.000Z",
           "source": "Lifespan.io",
-          "summary": "Researchers have outlined a key receptor and protein involved in the formation of cataracts, paving the way for potential treatments targeting them. Oxidative stress and cataracts […]"
+          "summary": "Researchers have outlined a key receptor and protein involved in the formation of cataracts, paving the way for potential treatments targeting them. Oxidative stress and cataracts are closely […]"
         }
       ]
     },
@@ -278,6 +278,14 @@
       ],
       "articles": [
         {
+          "title": "Kevin Warsh sworn in as Fed chair, as traders forecast rate hikes in 2026",
+          "url": "https://cointelegraph.com/news/kevin-warsh-sworn-fed-chair-traders-rate-hikes-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-22T22:12:01.000Z",
+          "source": "CoinTelegraph",
+          "summary": "US President Donald Trump has repeatedly said he wants the Federal Reserve to lower interest rates, but investors forecast no chance of a rate cut in 2026."
+        },
+        {
           "title": "F2Pool founder who controls 11% of bitcoin's hashrate to lead first SpaceX mission to Mars",
           "url": "https://www.coindesk.com/business/2026/05/22/f2pool-founder-who-controls-11-of-bitcoin-s-hashrate-to-lead-first-spacex-mission-to-mars",
           "domain": "coindesk.com",
@@ -348,14 +356,6 @@
           "date": "2026-05-22T17:53:41.000Z",
           "source": "CoinDesk",
           "summary": "A local banker told CoinDesk that in light of Wall Street’s aggressive push into the crypto industry, Minnesota's financial institutions could not afford to remain on the sidelines."
-        },
-        {
-          "title": "US House lawmakers launch probe into Kalshi, Polymarket insider trading",
-          "url": "https://cointelegraph.com/news/us-house-probe-kalshi-polymarket-insider-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-22T17:20:49.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Representative James Comer asked CEOs of two major prediction market companies for information on their responses to insider trading after “suspiciously timed trades” related to US military actions against Iran."
         }
       ]
     }
