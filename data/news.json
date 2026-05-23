@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-23T08:35:57.905Z",
+  "updatedAt": "2026-05-23T10:16:50.057Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -31,14 +31,6 @@
           "date": "2026-05-15T10:33:00.000Z",
           "source": "Coinpedia",
           "summary": "PEPTAI Price Swings Wild As Base Integration Fuels DeSci Hype &nbsp;&nbsp; Coinpedia"
-        },
-        {
-          "title": "What is DeSci (Decentralized Science)? - Bitget",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JSFd4c2dQOFcwOG5lVno4Mm9hb1AzTWtCVENzazltU2doTlp1aHJnSnRILWJadWJqRG1LQ2hfdEJTaGpPOVFnSDhYMmFpWXY2UFdsUURieWt0SHlScGxtcNIBZkFVX3lxTFBSSU5kRjVUMHZtQlBQSkdYSFV0UG5na0s5NUp4X0c4MDEzXzVFcTZONHZzaEE5WEF6QlNUZnQ1ZXlfTkFqVzFHVWs4a1BKLVRtLU1Nd3Z4VExHeWoydzlLUFFteGU5Zw?oc=5",
-          "domain": "bitget.com",
-          "date": "2026-05-14T13:47:36.000Z",
-          "source": "Bitget",
-          "summary": "What is DeSci (Decentralized Science)? &nbsp;&nbsp; Bitget"
         },
         {
           "title": "5 Top DeSci Projects that are currently fighting rare diseases in 2026 - FinanceFeeds",
@@ -87,6 +79,14 @@
           "date": "2026-05-05T16:07:54.000Z",
           "source": "Delphi Digital",
           "summary": "DeSci's Second Coming? &nbsp;&nbsp; Delphi Digital"
+        },
+        {
+          "title": "AI Token SkyAI And DeSci Protocol BIO Each Climb 42% In Parallel Rally - Yellow.com",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03Y01tNmw4bFdQT2t0QU1ySXRCR2s1RG1nSW9rRHpsQm1vREV0dWMxZGFzSjRiSDJfZ2pHbEtLamtlLUwzMmpxNDB3ZldMcWNCaHZUMFRWRVZXR29LbGREaVkxQmlkSk5TYkJz?oc=5",
+          "domain": "yellow.com",
+          "date": "2026-05-03T07:00:00.000Z",
+          "source": "Yellow.com",
+          "summary": "AI Token SkyAI And DeSci Protocol BIO Each Climb 42% In Parallel Rally &nbsp;&nbsp; Yellow.com"
         }
       ]
     },
@@ -119,7 +119,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-22T15:00:00.000Z",
           "source": "Lifespan.io",
-          "summary": "Scientists have found that the levels of phosphatidylcholine, the most abundant lipid in mitochondrial membranes, decline with age, driving mitochondrial aging in worms and possibly humans. Supplementing the lipid helped in […]"
+          "summary": "Scientists have found that the levels of phosphatidylcholine, the most abundant lipid in mitochondrial membranes, decline with age, driving mitochondrial aging […]"
         },
         {
           "title": "H-SPAN returns as longevity heads to Washington",
@@ -175,7 +175,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-21T17:23:02.000Z",
           "source": "Lifespan.io",
-          "summary": "Researchers have outlined a key receptor and protein involved in the formation of cataracts, paving the way for potential treatments targeting them. Oxidative stress and cataracts are closely related Cataracts, which […]"
+          "summary": "Researchers have outlined a key receptor and protein involved in the formation of cataracts, paving the way for potential treatments […]"
         }
       ]
     },
@@ -278,6 +278,14 @@
       ],
       "articles": [
         {
+          "title": "SEC approves Nasdaq to list Bitcoin index options on the exchange",
+          "url": "https://cointelegraph.com/news/sec-approves-nasdaq-to-list-bitcoin-index-options-on-the-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-23T09:05:53.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The cash-settled, European-style contracts will trade under the ticker QBTC on Phlx, but still require CFTC approval before trading can begin."
+        },
+        {
           "title": "$1.26B Bitcoin ETF outflows spark ‘contrarian’ buy signal: Santiment",
           "url": "https://cointelegraph.com/news/bitcoin-etf-outflows-are-a-contrarian-buy-signal-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
@@ -348,14 +356,6 @@
           "date": "2026-05-22T19:33:51.000Z",
           "source": "CoinTelegraph",
           "summary": "Bitcoin sold off to $76,000, giving bears an opportunity to reclaim control of the crypto market. Meanwhile, altcoins like HYPE charted new highs."
-        },
-        {
-          "title": "SEC delays tokenized asset exemption amid concerns over third-party tokens: Bloomberg Law",
-          "url": "https://www.theblock.co/post/402409/sec-delays-tokenized-asset-exemption-third-party-tokens-bloomberg-law?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-22T19:29:28.000Z",
-          "source": "The Block",
-          "summary": "The SEC has delayed its plan for an anticipated exemption that would clarify the agency's stance on tokenized assets, Bloomberg Law reported."
         }
       ]
     }
