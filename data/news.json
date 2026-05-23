@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-23T03:38:52.034Z",
+  "updatedAt": "2026-05-23T06:26:03.025Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -31,14 +31,6 @@
           "date": "2026-05-15T10:33:00.000Z",
           "source": "Coinpedia",
           "summary": "PEPTAI Price Swings Wild As Base Integration Fuels DeSci Hype &nbsp;&nbsp; Coinpedia"
-        },
-        {
-          "title": "What is DeSci (Decentralized Science)? - Bitget",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JSFd4c2dQOFcwOG5lVno4Mm9hb1AzTWtCVENzazltU2doTlp1aHJnSnRILWJadWJqRG1LQ2hfdEJTaGpPOVFnSDhYMmFpWXY2UFdsUURieWt0SHlScGxtcNIBZkFVX3lxTFBSSU5kRjVUMHZtQlBQSkdYSFV0UG5na0s5NUp4X0c4MDEzXzVFcTZONHZzaEE5WEF6QlNUZnQ1ZXlfTkFqVzFHVWs4a1BKLVRtLU1Nd3Z4VExHeWoydzlLUFFteGU5Zw?oc=5",
-          "domain": "bitget.com",
-          "date": "2026-05-14T13:47:36.000Z",
-          "source": "Bitget",
-          "summary": "What is DeSci (Decentralized Science)? &nbsp;&nbsp; Bitget"
         },
         {
           "title": "5 Top DeSci Projects that are currently fighting rare diseases in 2026 - FinanceFeeds",
@@ -87,6 +79,14 @@
           "date": "2026-05-05T16:07:54.000Z",
           "source": "Delphi Digital",
           "summary": "DeSci's Second Coming? &nbsp;&nbsp; Delphi Digital"
+        },
+        {
+          "title": "AI Token SkyAI And DeSci Protocol BIO Each Climb 42% In Parallel Rally - Yellow.com",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03Y01tNmw4bFdQT2t0QU1ySXRCR2s1RG1nSW9rRHpsQm1vREV0dWMxZGFzSjRiSDJfZ2pHbEtLamtlLUwzMmpxNDB3ZldMcWNCaHZUMFRWRVZXR29LbGREaVkxQmlkSk5TYkJz?oc=5",
+          "domain": "yellow.com",
+          "date": "2026-05-03T07:00:00.000Z",
+          "source": "Yellow.com",
+          "summary": "AI Token SkyAI And DeSci Protocol BIO Each Climb 42% In Parallel Rally &nbsp;&nbsp; Yellow.com"
         }
       ]
     },
@@ -119,7 +119,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-22T15:00:00.000Z",
           "source": "Lifespan.io",
-          "summary": "Scientists have found that the levels of phosphatidylcholine, the most abundant lipid in mitochondrial membranes, decline with age, driving mitochondrial […]"
+          "summary": "Scientists have found that the levels of phosphatidylcholine, the most abundant lipid in mitochondrial membranes, decline with age, driving mitochondrial aging in worms and possibly humans. Supplementing the lipid helped in an in vitro experiment [1]. What […]"
         },
         {
           "title": "H-SPAN returns as longevity heads to Washington",
@@ -175,7 +175,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-21T17:23:02.000Z",
           "source": "Lifespan.io",
-          "summary": "Researchers have outlined a key receptor and protein involved in the formation of cataracts, paving the way for potential treatments targeting them. Oxidative stress and cataracts are closely related Cataracts, which […]"
+          "summary": "Researchers have outlined a key receptor and protein involved in the formation of cataracts, paving the way for potential treatments targeting them. Oxidative stress and cataracts are closely […]"
         }
       ]
     },
@@ -204,68 +204,68 @@
           "summary": "In a cramped, windowless room on the University of California, Berkeley, campus, two bespoke microscopes—each a Swiss Army knife for high-resolution imaging—operate around the clock gathering data that will help train a game-changing technology for the field of biology: AI."
         },
         {
-          "title": "Graph neural network explanations reveal a topological signature of disease-associated hubs in biological networks",
-          "url": "https://arxiv.org/abs/2605.21502",
-          "domain": "arxiv.org",
-          "date": "2026-05-22T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2605.21502v1 Announce Type: new Abstract: Graph neural networks (GNNs) are increasingly used to model biological systems, yet the reliability of post-hoc explanation methods for recovering meaningful molecular mechanisms remains unclear. Here, we systematically evaluate four widely used approaches: Saliency Attribution (SA), Integrated Gradients (IG), GNNExplainer, and Layer-wise Relevance Propagation (LRP) for identifying disease-relevant structure in breast cancer RNA-seq data projected onto a protein-protein interaction network. Using synthetic benchmarks with known ground-truth motifs, we show that explanation methods recover distinct signal organizations: SA performs best for sparse single-node drivers, whereas IG and LRP preferentially recover distributed pathway-like and cascade-like signals. In TCGA BRCA data, we identify a consistent topological signature of disease-associated hubs in which attribution peaks in the immediate 1-hop neighborhood and decays across successive network shells, a pattern most pronounced for IG and LRP and associated with strong enrichment of known cancer hubs. We further observe a trade-off between local hub enrichment and global gene ranking performance, with IG optimizing local enrichment and SA achieving superior global discrimination. Motivated by these complementary behaviors, we introduce a framework combining a shell-based hub score with consensus ranking across explainers. Consensus scores improve prioritization of canonical cancer genes (TP53, BRCA1, ESR1, MYC), reduce dependence on node degree, and, especially when tuned, outperform individual methods. Pathway enrichment further reveals improved recovery of biologically coherent cancer programs, including ERBB2, RTK, MAPK, immune, and cytokine signaling. Together, these results demonstrate that topology-aware integration of graph explanations can improve biological interpretability and biologically relevant molecular recovery."
+          "title": "Researchers transform paper sludge into valuable biofuels",
+          "url": "https://phys.org/news/2026-05-paper-sludge-valuable-biofuels.html",
+          "domain": "phys.org",
+          "date": "2026-05-22T02:00:01.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Researchers have demonstrated that different types of paper industry sludge, typically treated as a low-value waste, can be transformed into a high-yield renewable biofuel. The study, published in Biofuels, Bioproducts and Biorefining, reveals that paper sludge streams vary significantly in their suitability for producing bioethanol and biogas, offering a pathway to more efficient waste-to-energy strategies."
         },
         {
-          "title": "Canonical Functionalism: Defining Functional Structure without Observer-Relative Semantic Maps",
-          "url": "https://arxiv.org/abs/2605.21506",
-          "domain": "arxiv.org",
-          "date": "2026-05-22T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2605.21506v1 Announce Type: new Abstract: Computational functionalism about consciousness is often criticized for relying on observer-relative interpretations of physical systems. This paper proposes a mathematical refinement of functionalism that avoids this problem. The central idea is that consciousness-relevant functional organization should be identified not with arbitrary input-output mappings, semantic labels, or externally imposed computational descriptions, but with a system's canonical functional structure: the minimal state-transition structure obtained by identifying internal states that have identical future behavior under all possible continuations. On this view, a state is functionally defined by its complete counterfactual role: how the system would evolve and respond from that state under possible future interactions. We call this position canonical functionalism. The framework does not claim to identify which systems are conscious, nor to show that functional organization is sufficient for consciousness. Rather, it identifies the canonical object over which functionalist theories of consciousness should be formulated: the task is to specify consciousness-relevant invariants, measures, or structural conditions over canonical functional structures, rather than over arbitrary semantic interpretations or superficial behavioral profiles. This reframes familiar objections about lookup tables, simulations, unfolding, and observer-relative computation: such cases do not by themselves refute functionalism, but force the functionalist to specify whether the relevant canonical structure is preserved, and if not, which additional structural features are missing."
+          "title": "Bacteria found in artisan cheeses may ease disease",
+          "url": "https://phys.org/news/2026-05-bacteria-artisan-cheeses-ease-disease.html",
+          "domain": "phys.org",
+          "date": "2026-05-21T18:20:02.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Blessed are the tiny cheesemakers: scientists have mapped out the bacteria responsible for giving three British cheeses their distinct flavor, which may also be beneficial to human health. Scientists in the Food Microbial Sciences Unit at the University of Reading, identified the microbial and biochemical profiles of three artisan cheeses made locally in Oxfordshire across their maturation process, and found that the bacteria responsible for a cheese's character could also benefit the people who eat it."
         },
         {
-          "title": "Protein Thoughts: Interpretable Reasoning with Tree of Thoughts and Embedding-Space Flow Matching for Protein-Protein Interaction Discovery",
-          "url": "https://arxiv.org/abs/2605.21522",
-          "domain": "arxiv.org",
-          "date": "2026-05-22T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2605.21522v1 Announce Type: new Abstract: Protein-protein interactions (PPIs) govern nearly all cellular processes, yet computational methods for identifying binding partners typically produce ranked predictions without mechanistic justification. This creates a fundamental barrier to adoption because biologists cannot assess whether predictions reflect genuine biochemical insight or spurious correlations. We present \\textbf{Protein Thoughts}, a framework that reformulates PPI discovery as an interpretable search problem with explicit reasoning. The system decomposes binding evidence into four biologically meaningful signals: sequence similarity reflecting evolutionary relationships, structural complementarity capturing geometric fit, interface balance, and chemical compatibility encoding residue-level interactions. Rather than collapsing these signals into an opaque score, we preserve their individual contributions through a transparent value function that enables both ranking and auditing. To navigate large candidate spaces efficiently, we introduce hypothesis-guided entropy-regularized Tree-of-Thoughts search. A fine-tuned language model generates search directives from embedding-derived features, classifying candidates as high-priority, exploratory, or skippable. These directives condition a Boltzmann policy that balances exploitation with entropy-driven exploration, while hypothesis-aware pruning prevents premature abandonment of promising candidates. For candidates exhibiting score disagreement, hypothesis-conditioned embedding-space flow matching transports protein embeddings toward the binder manifold. On the SHS148k benchmark, Protein Thoughts achieves mean best-binder rank of 11.2 versus 47.7 for an entropic tree search baseline, a 76% improvement, and for binding prediction the trained value function achieves $91.08 \\pm 0.19$ Micro-F1, outperforming existing PPI methods on the same dataset."
+          "title": "AI camera platform to help monitor zoo animals' welfare",
+          "url": "https://phys.org/news/2026-05-ai-camera-platform-zoo-animals.html",
+          "domain": "phys.org",
+          "date": "2026-05-21T16:40:01.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "An AI-powered camera platform could soon help monitor the health and behavior of zoo animals overnight, thanks to a new partnership between the University of Surrey and Marwell Wildlife. Researchers from Surrey's Centre for Vision, Speech and Signal Processing (CVSSP) are working closely with Marwell to develop a bespoke AI nocturnal behavior observation system that interprets video footage and flags unusual behavioral patterns in animals. The three-year project will use AI and machine learning to study animals' night-time movements, helping zookeepers spot subtle signs of illness or distress that might otherwise go unnoticed."
         },
         {
-          "title": "bioETH-PRS: Confidential Polygenic Risk Scoring without a Trusted Evaluator via Fully Homomorphic Encryption on a Programmable Blockchain",
-          "url": "https://arxiv.org/abs/2605.21634",
-          "domain": "arxiv.org",
-          "date": "2026-05-22T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2605.21634v1 Announce Type: new Abstract: Polygenic risk scores (PRSs) aggregate genetic effect estimates to predict disease susceptibility, yet clinical deployment often exposes raw genotype data to third-party compute infrastructure. Prior homomorphic-encryption approaches, still require trust in a designated evaluator. We present bioETH-PRS, a protocol that replaces that evaluator role with immutable smart contracts on a blockchain supporting Fully Homomorphic Encryption (fhEVM). Using the integer-exact TFHE scheme, bioETH-PRS computes the PRS dot product entirely within the encrypted domain, keeping both genotype dosage vectors and GWAS weight vectors hidden from external parties throughout execution. We introduce a three-step fixed-point quantisation scheme for representing signed GWAS weights as unsigned 64-bit integers, achieving machine-epsilon reconstruction accuracy on validated fixtures. A four-contract architecture separates data custody, model publication, computation, and output release, and supports both a classic chunked path and a streaming path, with the latter reducing mock-measured gas by 37%. An on-chain noisy output oracle emits an encrypted noisy-score handle and a publicly decryptable ternary category, reducing raw score exposure and probing risk. Prototype evaluation on real GWAS fixtures confirms linear gas scaling and suggests that the approach may be cost-competitive in low-gas deployment environments."
+          "title": "AI-designed miniproteins switch key cell receptors on and off",
+          "url": "https://phys.org/news/2026-05-ai-miniproteins-key-cell-receptors.html",
+          "domain": "phys.org",
+          "date": "2026-05-21T15:00:12.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "G protein-coupled receptors, or GPCRs, sit in the plasma membrane, the boundary that defines the inside and outside of a living cell. They communicate with nearly every physiological process in our bodies—from the ability to see and smell, to sensing of adrenaline, insulin, nutrients and medicines."
         },
         {
-          "title": "Regularizing and Normalizing DAGs and Phylogenetic Networks",
-          "url": "https://arxiv.org/abs/2605.21725",
-          "domain": "arxiv.org",
-          "date": "2026-05-22T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2605.21725v1 Announce Type: new Abstract: Phylogenetic networks and, more generally, directed acyclic graphs (DAGs) represent hierarchical structure beyond trees, for instance in the presence of reticulate evolutionary events such as hybridization or horizontal gene transfer. A central question is which parts of such graphs are essential with respect to leaf-observable information, and which parts can be removed without changing this information. Resolving this question can lead to principled simplification methods for phylogenetic networks, such as the recent normalization approach of Francis et al. In this paper, we study this question from three related perspectives: clusters displayed by a DAG $G$, least common ancestors (LCAs) of subsets of its leaf set, and visibility, a path-based property of vertices. We first introduce an LCA-based simplification procedure called $i$-regularization. For a DAG $G$ and $i\\geq 1$, the DAG $\\reg_i(G)$ retains precisely those vertices that occur as unique LCAs of leaf subsets of size at most $i$, removes the remaining non-leaf vertices by a graph-editing operation $\\ominus$, and then deletes shortcuts. We show that $\\reg_i(G)$ preserves all such LCAs, is $i$-lca-relevant, and admits a cluster-level description: it is regular, i.e., isomorphic to the Hasse diagram of the corresponding lca-clusters. We then compare LCA-based regularization with normalization. Using the same $\\ominus$-operator, we describe the cover construction underlying normalization, identify visible vertices that are nevertheless removed, and characterize when regularization and normalization coincide. Together, these results provide a unified framework for cluster-based, LCA-based, and visibility-based simplifications of DAGs and phylogenetic networks."
+          "title": "New research offers practical biosecurity tools to limit poultry disease spread",
+          "url": "https://phys.org/news/2026-05-biosecurity-tools-limit-poultry-disease.html",
+          "domain": "phys.org",
+          "date": "2026-05-21T00:00:01.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "New research from a Texas A&M College of Agriculture and Life Sciences doctoral graduate could help producers better protect poultry flocks from disease outbreaks while reducing costs."
         },
         {
-          "title": "Drivers of Transient Dynamics and Persistence in Dengue: Insights from Sensitivity and Stochastic Modeling",
-          "url": "https://arxiv.org/abs/2605.21787",
-          "domain": "arxiv.org",
-          "date": "2026-05-22T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2605.21787v1 Announce Type: new Abstract: We investigate how key epidemiological parameters shape both seasonal epidemics and the persistence of dengue transmission. Our findings confirm known mechanistic drivers of epidemic variability and introduce a ranking of parameter importance in our dengue model, which in turn informs the prioritization of public health policies. We propose a stochastic vector-host model with waning immunity, exogenous infection, and vertical transmission. To assess parameter influence, we first qualitatively analyze the macroscopic model. We then perform a multivariate Sobol sensitivity analysis of epidemic summary statistics, and examine the variance of the endemic equilibrium as a function of model parameters. We show that the macroscopic model is well posed, vertical transmission lowers the threshold for persistence, and low spatial coupling increases infectious endemic equilibria. The vector-host population ratio and host recovery rate have the largest first-order and total sensitivity indices, surpassing the contact rates; this implies that control measures during seasonal dengue should prioritize protecting infectious hosts from mosquito bites. Finally, we show that the covariance of hosts and vectors at the endemic equilibrium is asynchronous in the contact-rate plane. This robust pattern has epidemiological, ecological and evolutive interpretations. A dengue strain has two niches to exploit during the endemic regime, and coexisting strain have two niches each. Moreover, large fluctuations in a given strain during the endemic regime provide a mechanistic explanation for high vertical transmission, enabling viral reservoirs that can hatch and trigger outbreaks in the following season. We argue that our model and results can be adapted to address specific public health questions to guide dengue control using field data."
+          "title": "AI-guided redesign of laboratory-evolved reverse transcriptases enhances prime editing",
+          "url": "https://www.nature.com/articles/s41587-026-03149-6",
+          "domain": "nature.com",
+          "date": "2026-05-21T00:00:00.000Z",
+          "source": "Nature Biotechnology",
+          "summary": "Nature Biotechnology, Published online: 21 May 2026; doi:10.1038/s41587-026-03149-6 A computational redesign strategy improves evolved prime editors."
         },
         {
-          "title": "PhylaFlow: Hybrid Flow Matching in Billera-Holmes-Vogtmann Tree Space for Phylogenetic Inference",
-          "url": "https://arxiv.org/abs/2605.21859",
-          "domain": "arxiv.org",
-          "date": "2026-05-22T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2605.21859v1 Announce Type: new Abstract: Phylogenetic trees are hybrid objects: branch lengths vary continuously, while topologies change discretely through edge contractions and expansions. Billera-Holmes-Vogtmann (BHV) tree space provides a canonical geometry for this structure, representing each resolved topology as a Euclidean orthant and topological changes as motion across shared lower-dimensional boundaries. We introduce PhylaFlow, a hybrid flow-matching model that learns posterior-basin transport in BHV tree space. PhylaFlow is trained on BHV geodesic paths from random starting trees to short-run posterior samples, coupling continuous branch-length motion within orthants with learned boundary events and discrete topology transitions. We evaluate the learned geometry operationally: if the flow reaches posterior-relevant regions, finite-budget Bayesian refinement initialized from, or guided by, its terminal trees should recover posterior-supported topologies more efficiently. Across DS1-DS8 phylogenetic posterior benchmarks, PhylaFlow substantially reduces initial Tree-KL relative to classical initializers. After finite-budget MrBayes refinement, direct PhylaFlow improves early and intermediate topology-recovery trajectories on most datasets, while split-guided PhylaFlow-MCMC obtains the strongest hard-case results. The best PhylaFlow variant outperforms short-warmup on seven of eight datasets and PhyloGFN on five of eight under the same refinement budget. In a joint sequence-conditioned experiment, sequence embeddings steer posterior split recovery, although exact posterior topology recovery remains preliminary. These results show that hybrid flow matching can learn actionable transport in BHV tree space and provide a geometry-aware proposal mechanism for Bayesian phylogenetic inference."
+          "title": "Glowing fungi expose final enzyme that could make bioluminescent tools more efficient",
+          "url": "https://phys.org/news/2026-05-fungi-expose-enzyme-bioluminescent-tools.html",
+          "domain": "phys.org",
+          "date": "2026-05-20T07:10:01.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Like fireflies and many deep-sea creatures, certain fungi can naturally emit light through bioluminescence pathways in which specialized enzymes convert chemical energy into visible light. Medical researchers have used fungal light-producing enzymes in the fungal bioluminescence pathway (FBP) to visually track processes like tumor progression and inflammatory responses. New research published in The FEBS Journal provides insights that may help improve and expand such bioluminescence-based tools and applications."
         },
         {
-          "title": "A Characterization of Level-k Realizability for Clustering Systems",
-          "url": "https://arxiv.org/abs/2605.21945",
-          "domain": "arxiv.org",
-          "date": "2026-05-22T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2605.21945v1 Announce Type: new Abstract: We give a Hasse-diagram characterization of when a clustering system $\\mathcal C$ on a finite taxa set $X$ is the hardwired clustering system $C_N$ of a rooted level-$k$ network. For each non-trivial block $B$ of $H=\\mathcal H[\\mathcal C]$, we define a parameter $\\mu(B)$ using minimum families of clusters that generate all overlap-intersections inside $B$. The main theorem proves that there exists a rooted level-$k$ network $N$ with $C_N=\\mathcal C$ if and only if $\\mu(B)\\le k$ for every non-trivial block $B$ of $H$. The necessity proof shows that overlap-intersection pieces must be represented by non-root hybrid vertices in any realizing block. The sufficiency proof is constructive: starting from the Hasse diagram, it iteratively splits selected hybrid vertices, preserves the hardwired clustering system, and terminates with a realization whose level is bounded by the block-wise values of $\\mu$."
+          "title": "Novel antivenoms bite back",
+          "url": "https://www.nature.com/articles/s41587-026-03157-6",
+          "domain": "nature.com",
+          "date": "2026-05-20T00:00:00.000Z",
+          "source": "Nature Biotechnology",
+          "summary": "Nature Biotechnology, Published online: 20 May 2026; doi:10.1038/s41587-026-03157-6 New approaches to antivenoms for snakebite lean on cutting-edge techniques, but can they successfully be brought to market?"
         }
       ]
     },
@@ -277,6 +277,14 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "‘Not unlikely’ Strategy will sell Bitcoin in 2026: Michael Saylor",
+          "url": "https://cointelegraph.com/news/michael-saylor-strategy-mstr-bitcoin-sell-speculation-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-23T04:24:09.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Strategy chairman Michael Saylor said the goal is to maximize Strategy’s Bitcoin per share by 2033."
+        },
         {
           "title": "Ethereum is still a good long-term buy, according data: Analyst",
           "url": "https://cointelegraph.com/markets/ether-analyst-claims-eth-is-still-a-good-long-term-buy-heres-why?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -348,14 +356,6 @@
           "date": "2026-05-22T18:33:57.000Z",
           "source": "The Block",
           "summary": "The Ninth Circuit said federal derivatives oversight does not shield prediction market firms from state gaming enforcement."
-        },
-        {
-          "title": "SEC Commissioner Peirce counters views that crypto rule will foster synthetic tokens",
-          "url": "https://www.coindesk.com/news-analysis/2026/05/22/sec-commissioner-peirce-counters-views-that-crypto-rule-will-foster-synthetic-tokens",
-          "domain": "coindesk.com",
-          "date": "2026-05-22T18:20:32.000Z",
-          "source": "CoinDesk",
-          "summary": "Hester Peirce, the commissioner behind the SEC's Crypto Task Force, made statements on the now-delayed proposal, perhaps tamping down mistaken beliefs."
         }
       ]
     }
