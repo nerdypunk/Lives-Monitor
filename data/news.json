@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-23T23:34:03.077Z",
+  "updatedAt": "2026-05-24T01:48:28.785Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -8,6 +8,14 @@
         "https://news.google.com/rss/search?q=DeSci%20OR%20%22decentralized%20science%22%20OR%20%22BIO%20Protocol%22&hl=en-US&gl=US&ceid=US:en"
       ],
       "articles": [
+        {
+          "title": "Bio Protocol Price - Binance",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tZ1NoakllUjkwc09EcTh0SXg3RTczZmE0RHRxRGpsbzhjTVpBWGxWQl9sdTg1Y053UjZwSkpETGt5U3ZLdjdHWmgtX0wweUgzeHRMRGJGWU9XdVMyYzBjTEEybnpEaWVwOWRVTzBjRXpTaHE0OTVzXw?oc=5",
+          "domain": "binance.com",
+          "date": "2026-05-23T11:15:08.000Z",
+          "source": "Binance",
+          "summary": "Bio Protocol Price &nbsp;&nbsp; Binance"
+        },
         {
           "title": "Manadia Partners with NanoVita to Advance AI-Powered DeSci Infrastructure - Cryptonews.net",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE44ZEczTDNpVHBqNHNnMjhCVEJKY2pXVW5yZjRYa1B1aXRFOHBHNmlnLXJYYnV1X2dNRlEzcGVWeTZyeHZibFJJVFpaREdKczgySndpbFJ5NTZqeUdu?oc=5",
@@ -42,7 +50,7 @@
         },
         {
           "title": "Bio Protocol announces the launch of PEPTAI, with a total supply of 20% allocated to BIO stakers - Bitget",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXeEVmTEhRNnBGbVRKSE5xa2tvRjM1MDFaaWdZbDJrX3BMallBanM4TG4tVmljbDE1U2NVXzQ0RmdjRmM5YmFkbnJNZzU3UGYycVRSTXYyOWpKTEtHMFNRcVhZaEjSAWpBVV95cUxQaWZRc0stMm9PZGxrYXNyek9yVUVuVGlSQU44UUlLVjd2NE9BYm0xYXNoWTlyaEdEbFlFQzlGMnlOcmJ1NjRYdGxtckFpZmktS0NDREZ4RDlMMTFiYzlnUWczVWJqaThKd253?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kbzJldmVlM2JDQVdMbGJiT1g0QlZveklCNi1PblBGRWdEckR5cVBaaHF6ZGVPUDNUX1BRQUdTTjZrXy1qbzh5RmJkbTJBakczSnhsb2NBeDBEQ0N3dlHSAWNBVV95cUxPSGxtdE9PTnlHUVF0UzRqRnFTNXNmUHQxankwSExXY3ZaQzIzdVhpSTRDdzRBalFJT0p0M3F5dFdqS0Voak9QVExKR1Qyb2lxaGx4ZTZPNTZaZFQ5NTFQSWpYZ2s?oc=5",
           "domain": "bitget.com",
           "date": "2026-05-14T07:00:00.000Z",
           "source": "Bitget",
@@ -79,14 +87,6 @@
           "date": "2026-05-05T16:07:54.000Z",
           "source": "Delphi Digital",
           "summary": "DeSci's Second Coming? &nbsp;&nbsp; Delphi Digital"
-        },
-        {
-          "title": "AI Token SkyAI And DeSci Protocol BIO Each Climb 42% In Parallel Rally - Yellow.com",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03Y01tNmw4bFdQT2t0QU1ySXRCR2s1RG1nSW9rRHpsQm1vREV0dWMxZGFzSjRiSDJfZ2pHbEtLamtlLUwzMmpxNDB3ZldMcWNCaHZUMFRWRVZXR29LbGREaVkxQmlkSk5TYkJz?oc=5",
-          "domain": "yellow.com",
-          "date": "2026-05-03T07:00:00.000Z",
-          "source": "Yellow.com",
-          "summary": "AI Token SkyAI And DeSci Protocol BIO Each Climb 42% In Parallel Rally &nbsp;&nbsp; Yellow.com"
         }
       ]
     },
@@ -103,7 +103,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-22T15:00:00.000Z",
           "source": "Lifespan.io",
-          "summary": "Scientists have found that the levels of phosphatidylcholine, the most abundant lipid in mitochondrial membranes, decline with age, driving mitochondrial aging in worms […]"
+          "summary": "Scientists have found that the levels of phosphatidylcholine, the most abundant lipid in mitochondrial membranes, decline with age, driving mitochondrial aging in worms and possibly humans. Supplementing the lipid helped in an in vitro experiment [1]. What […]"
         },
         {
           "title": "How an Oxidative Stress Regulator Makes Cataracts Worse",
@@ -111,7 +111,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-21T17:23:02.000Z",
           "source": "Lifespan.io",
-          "summary": "Researchers have outlined a key receptor and protein involved in the formation of cataracts, paving the way for potential treatments targeting them. Oxidative stress and cataracts are closely related Cataracts, […]"
+          "summary": "Researchers have outlined a key receptor and protein involved in the formation of cataracts, paving the way for potential treatments targeting them. Oxidative stress and cataracts are closely related Cataracts, which cloud the […]"
         },
         {
           "title": "Untangling Cellular Senescence at Its Roots",
@@ -119,7 +119,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-20T16:58:33.000Z",
           "source": "Lifespan.io",
-          "summary": "In Aging Cell, researchers have described the differences between primary and secondary senescent cells, comparing radiation-induced senescence to senescence induced by the senescence-associated secretory phenotype (SASP). Heterogeneity on top of heterogeneity It […]"
+          "summary": "In Aging Cell, researchers have described the differences between primary and secondary senescent cells, comparing radiation-induced senescence to senescence induced […]"
         },
         {
           "title": "China Launches Standardized Physician Education in Longevity",
@@ -127,7 +127,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-20T14:41:45.000Z",
           "source": "Lifespan.io",
-          "summary": "Beijing, China — In response to the growing healthcare demands of a rapidly ageing population, China has launched its first national competency-based education programme in longevity medicine, marking a significant step toward integrating healthy longevity and preventive care into […]"
+          "summary": "Beijing, China — In response to the growing healthcare demands of a rapidly ageing population, China has launched its first national competency-based education programme in longevity medicine, marking a significant […]"
         },
         {
           "title": "CRISPR-Based System Targets RNA and Kills Cells on Demand",
@@ -135,7 +135,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-19T16:27:53.000Z",
           "source": "Lifespan.io",
-          "summary": "Scientists have devised a CRISPR-based tool that can kill cells carrying a specific strand of RNA. The tested targets include cancerous and virus-infected cells [1]. Targeted assassination of cells CRISPR-based systems work […]"
+          "summary": "Scientists have devised a CRISPR-based tool that can kill cells carrying a specific strand of RNA. The tested targets include cancerous and virus-infected cells [1]. Targeted assassination of cells CRISPR-based systems work by cutting or changing DNA at […]"
         },
         {
           "title": "Developing a Drug To Reverse Heart Disease",
@@ -151,7 +151,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-15T16:04:15.000Z",
           "source": "Lifespan.io",
-          "summary": "Scientists have found a way to drastically ramp up mouse immune responses to cancer along with flu and COVID-19 [1]. How to wake up the immune system Modern […]"
+          "summary": "Scientists have found a way to drastically ramp up mouse immune responses to cancer along with flu and COVID-19 [1]. How to wake up the immune system Modern cancer immunotherapies only work for a minority of patients. The […]"
         },
         {
           "title": "Matthew O’Connor on Cyclarity’s Successful Phase 1 Trial",
@@ -159,7 +159,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-14T15:58:28.000Z",
           "source": "Lifespan.io",
-          "summary": "Most cardiovascular trials focus on lowering LDL cholesterol or reducing inflammation to slow disease progression. UDP-003 targets the root cause: toxic 7-ketocholesterol (7KC) inside macrophages and soft plaques. It is designed to convert bloated foam cells […]"
+          "summary": "Most cardiovascular trials focus on lowering LDL cholesterol or reducing inflammation to slow disease progression. UDP-003 targets the root cause: toxic 7-ketocholesterol […]"
         },
         {
           "title": "Cyclarity Unveils Oxidized Cholesterol Excretion Data",
@@ -167,7 +167,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-14T14:31:28.000Z",
           "source": "Lifespan.io",
-          "summary": "Cyclarity Therapeutics, Inc., a clinical stage biopharmaceutical company engineering cyclodextrin molecules into simple, scalable, and affordable therapies that bind and remove toxic targets to address root causes […]"
+          "summary": "Cyclarity Therapeutics, Inc., a clinical stage biopharmaceutical company engineering cyclodextrin molecules into simple, scalable, and affordable therapies that bind and […]"
         },
         {
           "title": "Current Clinical Trials of Alzheimer’s Drugs",
@@ -175,7 +175,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-13T16:18:25.000Z",
           "source": "Lifespan.io",
-          "summary": "This month, a group of researchers published an annual report on the clinical trials that are testing drugs for Alzheimer’s disease. Overall, […]"
+          "summary": "This month, a group of researchers published an annual report on the clinical trials that are testing drugs for Alzheimer’s disease. Overall, they reported an increase in […]"
         }
       ]
     },
