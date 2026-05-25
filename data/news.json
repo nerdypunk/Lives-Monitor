@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-25T20:10:18.764Z",
+  "updatedAt": "2026-05-25T21:35:32.331Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -8,14 +8,6 @@
         "https://news.google.com/rss/search?q=DeSci%20OR%20%22decentralized%20science%22%20OR%20%22BIO%20Protocol%22&hl=en-US&gl=US&ceid=US:en"
       ],
       "articles": [
-        {
-          "title": "0.0337 | BIO USDT | Bio Protocol to USDT – Binance Spot - Binance",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1nUFhrQUJlUEpuQWc2eDJld1Vwd2d6UTFCTllHWDNDWi1xdnRPSHM5WjV1YWwyMmRQQ3hJQ0lCMERCbnlDSnlybEdTUWVWb3FoTWp5bG9QM3RPNjVKdGZLN1BaTDd6R3dsSEkyWVpaUnBpUklGU2RiYTZn?oc=5",
-          "domain": "binance.com",
-          "date": "2026-05-25T04:18:23.000Z",
-          "source": "Binance",
-          "summary": "0.0337 | BIO USDT | Bio Protocol to USDT – Binance Spot &nbsp;&nbsp; Binance"
-        },
         {
           "title": "0.0330 | BIO USDT | Bio Protocol to USDT – Binance Spot - Binance",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBnSGl1dWg4UVhQSmZnVC14ekZaei11Vk1MMUJLNmVKcmRudTgxbVJzQzMtbDJEZjNxOWZTTF9kU3dYRlFJSnBmMUhuZDZxWWV4akRqUEZhVmZIeFd2aUx0TG1QaWt5MTl0Rks5a0VOQjliVlJjY3FWTw?oc=5",
@@ -87,6 +79,14 @@
           "date": "2026-05-21T14:50:31.000Z",
           "source": "Binance",
           "summary": "0.0351 | BIO USDT | Bio Protocol to USDT – Binance Spot &nbsp;&nbsp; Binance"
+        },
+        {
+          "title": "Bio Protocol Price - Binance",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAxcmdTSHJSNTlxWk55djVpTHM2eEl4RzhMaEphT3U3QmVYSXhjYnFvaWpuUTFrR2pXWjZGRFVkNmpxS0VYcHJnSUxkRFVQODZWcXRjeXV2LUdUOENfSGFfSk5UQnRyUGZQcndWU1BNQkgwaXVP?oc=5",
+          "domain": "binance.com",
+          "date": "2026-05-21T12:17:26.000Z",
+          "source": "Binance",
+          "summary": "Bio Protocol Price &nbsp;&nbsp; Binance"
         }
       ]
     },
@@ -103,7 +103,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-25T18:18:04.000Z",
           "source": "Lifespan.io",
-          "summary": "Researchers have discovered the role of cellular senescence in the interaction between omega-3 polyunsaturated fatty acids (PUFAs) and chronic kidney disease (CKD). Previous mixed results Several clinical trials have found that taking omega-3 […]"
+          "summary": "Researchers have discovered the role of cellular senescence in the interaction between omega-3 polyunsaturated fatty acids (PUFAs) and chronic kidney disease (CKD). Previous mixed results Several clinical trials have found that taking omega-3 PUFAs has benefits for […]"
         },
         {
           "title": "Mitochondrial Aging Linked to Losing Crucial Membrane Lipid",
@@ -111,7 +111,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-22T15:00:00.000Z",
           "source": "Lifespan.io",
-          "summary": "Scientists have found that the levels of phosphatidylcholine, the most abundant lipid in mitochondrial membranes, decline with age, driving mitochondrial aging in worms and possibly humans. Supplementing the lipid helped in an in vitro experiment […]"
+          "summary": "Scientists have found that the levels of phosphatidylcholine, the most abundant lipid in mitochondrial membranes, decline with age, driving mitochondrial […]"
         },
         {
           "title": "How an Oxidative Stress Regulator Makes Cataracts Worse",
@@ -119,7 +119,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-21T17:23:02.000Z",
           "source": "Lifespan.io",
-          "summary": "Researchers have outlined a key receptor and protein involved in the formation of cataracts, paving the way for potential treatments targeting them. Oxidative stress and cataracts are […]"
+          "summary": "Researchers have outlined a key receptor and protein involved in the formation of cataracts, paving the way for potential treatments targeting them. Oxidative stress and cataracts are closely related Cataracts, which cloud […]"
         },
         {
           "title": "Untangling Cellular Senescence at Its Roots",
@@ -127,7 +127,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-20T16:58:33.000Z",
           "source": "Lifespan.io",
-          "summary": "In Aging Cell, researchers have described the differences between primary and secondary senescent cells, comparing radiation-induced senescence to senescence induced […]"
+          "summary": "In Aging Cell, researchers have described the differences between primary and secondary senescent cells, comparing radiation-induced senescence to senescence induced by the senescence-associated secretory phenotype (SASP). Heterogeneity on top of heterogeneity It […]"
         },
         {
           "title": "China Launches Standardized Physician Education in Longevity",
@@ -135,7 +135,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-20T14:41:45.000Z",
           "source": "Lifespan.io",
-          "summary": "Beijing, China — In response to the growing healthcare demands of a rapidly ageing population, China has launched its first national competency-based education programme in longevity medicine, marking a significant step toward integrating healthy longevity and preventive care into mainstream […]"
+          "summary": "Beijing, China — In response to the growing healthcare demands of a rapidly ageing population, China has launched its first national competency-based education programme in […]"
         },
         {
           "title": "CRISPR-Based System Targets RNA and Kills Cells on Demand",
@@ -143,7 +143,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-19T16:27:53.000Z",
           "source": "Lifespan.io",
-          "summary": "Scientists have devised a CRISPR-based tool that can kill cells carrying a specific strand of RNA. The tested targets include cancerous and virus-infected cells [1]. Targeted assassination […]"
+          "summary": "Scientists have devised a CRISPR-based tool that can kill cells carrying a specific strand of RNA. The tested targets include cancerous and […]"
         },
         {
           "title": "Developing a Drug To Reverse Heart Disease",
@@ -151,7 +151,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-18T16:36:44.000Z",
           "source": "Lifespan.io",
-          "summary": "We have spoken with Reason from Repair Biotechnologies about his company’s lead candidate, REP-0004, a drug targeting the liver to reduce excess intracellular free cholesterol. The FDA has granted Repair Bio […]"
+          "summary": "We have spoken with Reason from Repair Biotechnologies about his company’s lead candidate, REP-0004, a drug targeting the liver to reduce excess intracellular free cholesterol. The FDA has granted Repair Bio an orphan drug indication, and the company is […]"
         },
         {
           "title": "New mRNA Therapy Destroys Cancer by Improving T Cell Priming",
@@ -167,7 +167,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-14T15:58:28.000Z",
           "source": "Lifespan.io",
-          "summary": "Most cardiovascular trials focus on lowering LDL cholesterol or reducing inflammation to slow disease progression. UDP-003 targets the root cause: toxic 7-ketocholesterol (7KC) inside macrophages and soft plaques. It is designed to […]"
+          "summary": "Most cardiovascular trials focus on lowering LDL cholesterol or reducing inflammation to slow disease progression. UDP-003 targets the root cause: toxic 7-ketocholesterol (7KC) inside macrophages and soft plaques. It […]"
         },
         {
           "title": "Cyclarity Unveils Oxidized Cholesterol Excretion Data",
@@ -175,7 +175,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-14T14:31:28.000Z",
           "source": "Lifespan.io",
-          "summary": "Cyclarity Therapeutics, Inc., a clinical stage biopharmaceutical company engineering cyclodextrin molecules into simple, scalable, and affordable therapies that bind and remove toxic targets to address root causes of age-related disease, has just […]"
+          "summary": "Cyclarity Therapeutics, Inc., a clinical stage biopharmaceutical company engineering cyclodextrin molecules into simple, scalable, and affordable therapies that bind and remove toxic targets to address root causes of age-related […]"
         }
       ]
     },
@@ -278,6 +278,14 @@
       ],
       "articles": [
         {
+          "title": "XRP price trades in ‘value zone’ near $1.40 as whales pull $170M from exchanges",
+          "url": "https://cointelegraph.com/markets/xrp-price-in-value-zone-near-140-as-whales-pull-170m-from-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-25T20:30:46.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Whales withdrew $170 million in XRP from Binance as the price holds a key $1.35-$1.40 accumulation and support zone."
+        },
+        {
           "title": "UAE-linked ADI Chain gains Ledger support amid stablecoin growth",
           "url": "https://cointelegraph.com/news/ledger-integrates-uae-backed-adi-token-as-gulf-blockchain-infrastructure-expands?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
@@ -348,14 +356,6 @@
           "date": "2026-05-25T14:35:34.000Z",
           "source": "CoinTelegraph",
           "summary": "Canton Foundation, Toss, BitGo Among Co-Hosts at Private Event; Token Launch Slated for Second Half of 2026"
-        },
-        {
-          "title": "Coinbase CEO’s finance wishlist mirrors company’s product roadmap",
-          "url": "https://cointelegraph.com/news/coinbase-ceo-finance-wishlist-mirrors-companys-product-roadmap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-25T14:28:12.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Brian Armstrong's wishlist for upgrading global finance aligns with the exchange's push into stocks, prediction markets and stablecoin payments, though some priorities remain aspirational."
         }
       ]
     }
