@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-26T23:13:22.990Z",
+  "updatedAt": "2026-05-27T01:28:56.700Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -8,14 +8,6 @@
         "https://news.google.com/rss/search?q=DeSci%20OR%20%22decentralized%20science%22%20OR%20%22BIO%20Protocol%22&hl=en-US&gl=US&ceid=US:en"
       ],
       "articles": [
-        {
-          "title": "0.0332 | BIO USDT | Bio Protocol to USDT – Binance Spot - Binance",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBMdG94S3d4SVRBcW9WNmZzWldiYWczTHh4VkZ1czBsRGdiaUZZMmZ1WVdYbjhYdFdaUXVibUpJSEMzeHktd0ZabjBsVHRfaWlSTzhfRzdNQVdYWUlzWWI2YjNqX29YY2REWDhfMTZCcExzNEV4aGd5LUdR?oc=5",
-          "domain": "binance.com",
-          "date": "2026-05-26T09:20:10.000Z",
-          "source": "Binance",
-          "summary": "0.0332 | BIO USDT | Bio Protocol to USDT – Binance Spot &nbsp;&nbsp; Binance"
-        },
         {
           "title": "Manadia Partners with NanoVita to Advance AI-Powered DeSci Infrastructure - Cryptonews.net",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE44ZEczTDNpVHBqNHNnMjhCVEJKY2pXVW5yZjRYa1B1aXRFOHBHNmlnLXJYYnV1X2dNRlEzcGVWeTZyeHZibFJJVFpaREdKczgySndpbFJ5NTZqeUdu?oc=5",
@@ -31,6 +23,14 @@
           "date": "2026-05-15T10:33:00.000Z",
           "source": "Coinpedia",
           "summary": "PEPTAI Price Swings Wild As Base Integration Fuels DeSci Hype &nbsp;&nbsp; Coinpedia"
+        },
+        {
+          "title": "NanoVita Launches NANA Token On KTX Exchange, Enabling DeSci Network Access To DeFi Users - MEXC",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9aUl96ekZXUXA5ZWFMenNZdDAwcXh1QnZ2b01Xb2xZTENXNW9WNGlyVkw0TlJXdmpkV0Q5T3p1bDllVk1NTnpHaDZvM1Mwc0NX?oc=5",
+          "domain": "mexc.com",
+          "date": "2026-05-10T07:00:00.000Z",
+          "source": "MEXC",
+          "summary": "NanoVita Launches NANA Token On KTX Exchange, Enabling DeSci Network Access To DeFi Users &nbsp;&nbsp; MEXC"
         },
         {
           "title": "NanoVita Labs Launches $NANA Token on PancakeSwap – A New Era for AI-Driven Decentralized Science - Cryptonews.net",
@@ -143,7 +143,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-26T16:04:24.000Z",
           "source": "Lifespan.io",
-          "summary": "Scientists have uncovered an unexpected function of the tau protein, which is mostly known for its role in Alzheimer’s and related disorders: helping encode long-term memory. This can inform novel approaches that […]"
+          "summary": "Scientists have uncovered an unexpected function of the tau protein, which is mostly known for its role in Alzheimer’s and related disorders: […]"
         },
         {
           "title": "Retro Biosciences valued at $1.8b to accelerate longevity research",
@@ -278,6 +278,14 @@
       ],
       "articles": [
         {
+          "title": "Bitcoin drops after $78K pop, but ‘value investor’ keeps ‘hoovering up cheap’ BTC",
+          "url": "https://cointelegraph.com/markets/bitcoin-drops-after-78k-pop-but-value-investor-keeps-hoovering-up-cheap-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-26T23:57:49.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bitcoin’s rangebound trading carries on as bears defend $77,000 and bulls hold out near $74,000."
+        },
+        {
           "title": "HYPE chases new highs as ETF inflows, institutional adoption accelerate",
           "url": "https://cointelegraph.com/markets/hype-price-discovery-next-key-price-levels-to-watch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
@@ -348,14 +356,6 @@
           "date": "2026-05-26T18:50:01.000Z",
           "source": "The Block",
           "summary": "The political environment around the Clarity Act is getting worse, TD Cowen says, making it harder for the crypto bill to pass this year."
-        },
-        {
-          "title": "UK authorities sanction HTX crypto exchange over support for Russia",
-          "url": "https://cointelegraph.com/news/uk-sanctions-htx-huobi-russia-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-26T18:41:07.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Formerly Huobi Global, the exchange is the latest entity to be named as part of a crackdown on companies “exploited by Russia to circumvent UK sanctions.”"
         }
       ]
     }
