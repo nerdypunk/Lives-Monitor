@@ -1,8 +1,14 @@
 {
   "source": "Infinita City Times",
   "feed": "https://www.infinitacitytimes.com/feed",
-  "updatedAt": "2026-05-27T01:28:42.041Z",
+  "updatedAt": "2026-05-27T05:57:36.573Z",
   "items": [
+    {
+      "title": "Infinita Newsletter: May",
+      "link": "https://www.infinitacitytimes.com/p/infinita-newsletter-may",
+      "date": "Wed, 27 May 2026 01:36:21 GMT",
+      "summary": "How a founder cured his cancer, why most patients can't & what we're up to at Infinita"
+    },
     {
       "title": "Ep. 109: Jonathan Anomaly on The Future of Human Enhancement, Genetic Selection & Startup Societies",
       "link": "https://www.infinitacitytimes.com/p/ep-109-jonathan-anomaly-on-the-future",
@@ -56,12 +62,6 @@
       "link": "https://www.infinitacitytimes.com/p/ep-105-andrew-hessel-programming",
       "date": "Fri, 20 Feb 2026 19:31:21 GMT",
       "summary": "Andrew Hessel is a synthetic biology pioneer working on the idea that DNA is digital code — and biology is becoming programmable."
-    },
-    {
-      "title": "Ep. 104: Ruxandra Teslo: Clinical Trials, Drug Innovation, and the Bottleneck to Biotech Abundance",
-      "link": "https://www.infinitacitytimes.com/p/ep-104-ruxandra-teslo-clinical-trials",
-      "date": "Fri, 20 Feb 2026 19:22:33 GMT",
-      "summary": "Ruxandra Teslo is a genomics PhD and biotech writer focused on how clinical trials shape the speed of medical innovation."
     }
   ]
 }
