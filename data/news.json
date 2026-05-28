@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-28T21:32:45.580Z",
+  "updatedAt": "2026-05-28T23:02:05.739Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -8,14 +8,6 @@
         "https://news.google.com/rss/search?q=DeSci%20OR%20%22decentralized%20science%22%20OR%20%22BIO%20Protocol%22&hl=en-US&gl=US&ceid=US:en"
       ],
       "articles": [
-        {
-          "title": "0.0322 | BIO USDT | Bio Protocol to USDT – Binance Spot - Binance",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5NQ3Rwcl9ja2pmSjRNT3ZIUHN6RDZWNDdXRlFFVEZlNFRHWGROdHYtbUZWVFdORmhpSjdlVlAxYUdjOHd2WEROT2l5R3FsUE43TVI1VGlzNE5RRGpNd1pLa2hxSm53QzdlZHNScEVBNEtnZFpYMFdsSQ?oc=5",
-          "domain": "binance.com",
-          "date": "2026-05-27T10:33:53.000Z",
-          "source": "Binance",
-          "summary": "0.0322 | BIO USDT | Bio Protocol to USDT – Binance Spot &nbsp;&nbsp; Binance"
-        },
         {
           "title": "0.0330 | BIO USDT | Bio Protocol to USDT – Binance Spot - Binance",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5aekVtMkdha1JwZkNqS1dQVzVOQUlTMlJRdUVQN1pJelVPNnZ6bm1EejdCWnc2RWlnZnNiaGhNRnlZdzh5andaZEJ0bzFyU0V5REtQNDQ4TEpTSlFhYlZKc1hRcVVUSURjX2lsWTVOOTE2QWpqUC1TRE5B?oc=5",
@@ -31,6 +23,14 @@
           "date": "2026-05-26T21:01:08.000Z",
           "source": "Binance",
           "summary": "0.0327 | BIO USDT | Bio Protocol to USDT – Binance Spot &nbsp;&nbsp; Binance"
+        },
+        {
+          "title": "0.0333 | BIO USDT | Bio Protocol to USDT – Binance Spot - Binance",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9DYnJpWlNJNUNJRG8xUkxqY1NPVVhVeF8tSEZCZjUwcllrcENoR3dIRnZOWmpWcURoVE95Q0h2OXVMOUgzYnB2WEM2V1pkbWN1VXNjZmh1dkVSTDFGeVRlY0ZfY2MwT09IQk5WTWk1SGt5VXhNUDNYNW1R?oc=5",
+          "domain": "binance.com",
+          "date": "2026-05-26T09:01:45.000Z",
+          "source": "Binance",
+          "summary": "0.0333 | BIO USDT | Bio Protocol to USDT – Binance Spot &nbsp;&nbsp; Binance"
         },
         {
           "title": "0.0350 | BIO USDT | Bio Protocol to USDT – Binance Spot - Binance",
@@ -49,20 +49,20 @@
           "summary": "0.0337 | BIO USDT | Bio Protocol to USDT – Binance Spot &nbsp;&nbsp; Binance"
         },
         {
+          "title": "0.0346 | BIO USDT | Bio Protocol to USDT – Binance Spot - Binance",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1OMDZMSnoxNF9xeXMta2dUbHRoTUVBZThjRXNOWHZ1dHRHTmpham5uTlItVFB3NFVuYVhNQkE5SDJ1VEpwa2JzOE1DSWhBa3FhOXNUVUttdVBEVG5SNUxPY1d5d0I4VmtfX1NRcHJnVmF4LVZOQjNRbg?oc=5",
+          "domain": "binance.com",
+          "date": "2026-05-22T22:20:13.000Z",
+          "source": "Binance",
+          "summary": "0.0346 | BIO USDT | Bio Protocol to USDT – Binance Spot &nbsp;&nbsp; Binance"
+        },
+        {
           "title": "0.0362 | BIO USDT | Bio Protocol to USDT – Binance Spot - Binance",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Ib1B2SlNFb0xLWEprVXIyblFtdDZERmV5d1l1X0tXNF9wYWhLbkpDSURpTVBGeEtuQmRYTGltRnVPelhjOTdGXzRrVGJ2clJoMGFPOGlSS2E4RXV5RTBFNFVIRUNNYkxyS1pWVVBTbU9yZjNwTGJIVQ?oc=5",
           "domain": "binance.com",
           "date": "2026-05-22T17:19:01.000Z",
           "source": "Binance",
           "summary": "0.0362 | BIO USDT | Bio Protocol to USDT – Binance Spot &nbsp;&nbsp; Binance"
-        },
-        {
-          "title": "0.0361 | BIO USDT | Bio Protocol to USDT – Binance Spot - Binance",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBPV0FBUUIwOG9uY09fT2k1RnVScGJRU1JGbEw5amZPc1ZsOHF6eW9RYlJFVjBpNHlIZXRKLTR1ck9aWlluMldmTU4yVHV4dnBDaHVYcUxwaVdUcFU4MEt0WGRjdTVDZ2FOc2tIUWIzZXBLbmpTTXRfZVVn?oc=5",
-          "domain": "binance.com",
-          "date": "2026-05-22T16:12:32.000Z",
-          "source": "Binance",
-          "summary": "0.0361 | BIO USDT | Bio Protocol to USDT – Binance Spot &nbsp;&nbsp; Binance"
         },
         {
           "title": "0.0357 | BIO USDT | Bio Protocol to USDT – Binance Spot - Binance",
@@ -73,20 +73,20 @@
           "summary": "0.0357 | BIO USDT | Bio Protocol to USDT – Binance Spot &nbsp;&nbsp; Binance"
         },
         {
+          "title": "0.0365 | BIO USDT | Bio Protocol to USDT – Binance Spot - Binance",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1FTUZ3aktxLTFrc1h4WWFSeDJTY25lNWtQWWFiQUExM01oVmhJcnN6UXRldUF2RzVOMlVuWVhfU0wtam04MFg0QVBmQ054aXQyNExTRlBXTFVJTWNjYnh2RWdXRzZJanlaMU5LQ0VNSkNDU3BtX19qWmlB?oc=5",
+          "domain": "binance.com",
+          "date": "2026-05-22T04:34:29.000Z",
+          "source": "Binance",
+          "summary": "0.0365 | BIO USDT | Bio Protocol to USDT – Binance Spot &nbsp;&nbsp; Binance"
+        },
+        {
           "title": "0.0352 | BIO USDT | Bio Protocol to USDT – Binance Spot - Binance",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBOR24tUnk4VTdUUTR3ZnhMekR1d2xZWXNHR1RFaUpLcVo2U1hxejREcmxvR0hMbkEtd0NTZEs2cHI1SVhCdDcyY1k5LWMyTzlIazF0Ry00QnVHZmFESW9BeTVkb0RRSWFCSXBMX3IwTEF4Ull1V1NocFpR?oc=5",
           "domain": "binance.com",
           "date": "2026-05-21T20:43:26.000Z",
           "source": "Binance",
           "summary": "0.0352 | BIO USDT | Bio Protocol to USDT – Binance Spot &nbsp;&nbsp; Binance"
-        },
-        {
-          "title": "0.0351 | BIO USDT | Bio Protocol to USDT – Binance Spot - Binance",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PQmd0YXNnU3d6QklKNUpJZ1Z3dG83WmJOM0tJU1k3M0hnQjEzYV9PQlZKaThsX1dRQlY0alBUcXJOZ09YQWg3Ulo1dEljUEdfcUdPcS1Vc2VVV3J1NzZ1UDlRMXhCTndGdU43TFl5enBHVDVQMXhuOA?oc=5",
-          "domain": "binance.com",
-          "date": "2026-05-21T14:50:31.000Z",
-          "source": "Binance",
-          "summary": "0.0351 | BIO USDT | Bio Protocol to USDT – Binance Spot &nbsp;&nbsp; Binance"
         }
       ]
     },
@@ -98,12 +98,20 @@
       ],
       "articles": [
         {
+          "title": "A Better Algorithm for Predicting How Cells Behave",
+          "url": "https://lifespan.io/a-better-algorithm-for-predicting-how-cells-behave/?utm_source=rss&utm_medium=rss&utm_campaign=a-better-algorithm-for-predicting-how-cells-behave",
+          "domain": "lifespan.io",
+          "date": "2026-05-28T22:27:12.000Z",
+          "source": "Lifespan.io",
+          "summary": "In a preprint published in arXiv, researchers from Altos Labs have described a machine learning algorithm that performs end-to-end prediction of how cells’ gene expression will respond to interventions. The need for prediction Simulating biological processes on […]"
+        },
+        {
           "title": "Early Cancer Cells Change Their Surroundings to Form Tumors",
           "url": "https://lifespan.io/early-cancer-cells-change-their-surroundings-to-form-tumors/?utm_source=rss&utm_medium=rss&utm_campaign=early-cancer-cells-change-their-surroundings-to-form-tumors",
           "domain": "lifespan.io",
           "date": "2026-05-28T16:22:16.000Z",
           "source": "Lifespan.io",
-          "summary": "Scientists have demonstrated how cancer cells influence neighboring cells to create a favorable niche for the tumor to grow. Understanding this can inform future […]"
+          "summary": "Scientists have demonstrated how cancer cells influence neighboring cells to create a favorable niche for the tumor to grow. Understanding this […]"
         },
         {
           "title": "Optical brain implant moves into real-world use",
@@ -168,14 +176,6 @@
           "date": "2026-05-28T06:31:08.000Z",
           "source": "Longevity.Technology",
           "summary": "Therini Bio has dosed the first patients in a Phase 1b multiple ascending dose trial of THN391 for diabetic macular edema. The study will enroll three dose cohorts with each patient receiving three monthly intravitreal injections and will assess safety and biological activity using retinal central subfield thickness, visual acuity and exploratory biomarkers; initial data […] The post Therini Bio begins patient dosing in new clinical trial for diabetic eye disease appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Cardiovascular Health During the Menopausal Transition",
-          "url": "https://lifespan.io/cardiovascular-health-during-the-menopausal-transition/?utm_source=rss&utm_medium=rss&utm_campaign=cardiovascular-health-during-the-menopausal-transition",
-          "domain": "lifespan.io",
-          "date": "2026-05-27T16:39:13.000Z",
-          "source": "Lifespan.io",
-          "summary": "A recent study compared premenopausal, perimenopausal, and postmenopausal women’s cardiovascular health. Perimenopausal women had about twice the odds of having a poor […]"
         }
       ]
     },
@@ -187,6 +187,30 @@
         "https://phys.org/rss-feed/biology-news/biotechnology/"
       ],
       "articles": [
+        {
+          "title": "AI and drones can help improve early warning systems for Vibrio bacteria in the Baltic Sea",
+          "url": "https://phys.org/news/2026-05-ai-drones-early-vibrio-bacteria.html",
+          "domain": "phys.org",
+          "date": "2026-05-28T23:00:01.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "The presence of the marine bacterium Vibrio vulnificus, which is potentially dangerous to humans, can now be predicted up to five weeks in advance in the Baltic Sea using artificial intelligence (AI). A research team led by the Leibniz Institute for Baltic Sea Research Warnemünde (IOW) has reached this conclusion by combining high-resolution environmental, satellite, and microbiome data in an AI-based analysis."
+        },
+        {
+          "title": "Nitrogen-fixing genes moved into new bacterial strains, opening path beyond fertilizer",
+          "url": "https://phys.org/news/2026-05-nitrogen-genes-bacterial-strains-path.html",
+          "domain": "phys.org",
+          "date": "2026-05-28T22:30:03.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Most major crops, such as wheat and corn, require expensive nitrogen fertilizer to flourish. But what if bacteria could help those plants draw nitrogen from the atmosphere, as peas and beans do?"
+        },
+        {
+          "title": "Genetically engineering cyanobacteria for the production of sulfated polysaccharide",
+          "url": "https://phys.org/news/2026-05-genetically-cyanobacteria-production-sulfated-polysaccharide.html",
+          "domain": "phys.org",
+          "date": "2026-05-28T22:20:02.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Biomolecules are naturally occurring molecules that form the basis of living systems. They are widely used in the production of a diverse range of materials. One such widely used biomolecule is sulfated polysaccharide (SPS), which includes sugar molecules attached to sulfate groups. These are widely used in pharmaceuticals, cosmetics, and functional materials due to their unique physical and biological properties. However, commercially available SPSs are usually derived from animal or marine sources, which raises concerns about their environmental impact, calling for alternative SPS production methods."
+        },
         {
           "title": "Improved embryo freezing technique could preserve endangered species",
           "url": "https://phys.org/news/2026-05-embryo-technique-endangered-species.html",
@@ -242,30 +266,6 @@
           "date": "2026-05-28T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2605.27573v1 Announce Type: new Abstract: Whisking is a rhythmic and adaptive behavior that rodents use to probe and interact with their environment, and the frequency of movement reflects both sensorimotor processing and internal brain states. A robust and traditional method of whisker frequency estimation uses power spectral analysis of whisker position spanning several cycles. To improve the temporal resolution of whisker movement, we here estimate the period for each cycle, hence indirectly extracting an instantaneous frequency. We do this using markerless estimation of whisker position and identifying the peak and trough for each cycle. The cycle period is extracted, and artifacts are rejected with a ripple exclusion validator based on peak prominence and sequential amplitude filtering. The method is compared with power spectral estimation, using the Fourier transform of a temporal window of 0.5 seconds. We find that frequency estimation using a fixed window does not capture transient variability, while the cycle by cycle method recovers higher, time-resolved frequencies. The cycle by cycle approach also reveals the expected cycle-level variability. Artifact rejection through subsequence filtering removed spurious frequencies above 30 Hz, aligning refined frequencies with established physiological bounds (4 to 28 Hz). This pipeline provides an alternative solution for real time compatible frequency estimation, which better captures temporal variation at the expense of precision in frequency estimation."
-        },
-        {
-          "title": "ESL-PSC Toolkit: a graphical software environment for linking shared genetic changes to convergent phenotypes",
-          "url": "https://arxiv.org/abs/2605.27677",
-          "domain": "arxiv.org",
-          "date": "2026-05-28T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2605.27677v1 Announce Type: new Abstract: Convergent evolution provides a useful framework for testing whether independent origins of similar traits share common genetic mechanisms. Evolutionary Sparse Learning with Paired Species Contrast (ESL-PSC) is an approach to identify genes and sites associated with convergent traits from aligned sequences by fitting sparse predictive models to phylogenetically informed species contrasts. However, practical use of ESL-PSC currently requires substantial command-line fluency for data assembly, species-pair design, execution, and output interpretation. Here we present an integrated ESL-PSC analysis environment (ESL-PSC Toolkit) centered on a graphical user interface (GUI). ESL-PSC Toolkit is designed to assist users from experimental design through data interpretation without requiring extensive technical expertise. It supports guided input validation, interactive tree-based pair selection, command preview, live execution, post-run exploration of ranked genes and aligned sites, a complementary substitution-counting method, and analysis of continuous quantitative convergent traits. The computational backend has been reimplemented in Rust with many performance optimizations and parallelism, greatly reducing runtime for most analyses and enabling cross-platform packaged distributions. Downloadable GUI and CLI toolkit software packages for Mac, Windows, and Linux are available at https://github.com/John-Allard/ESL-PSC/releases/latest."
-        },
-        {
-          "title": "Exploratory Experience Shapes the Geometry of Predictive Representations",
-          "url": "https://arxiv.org/abs/2605.27929",
-          "domain": "arxiv.org",
-          "date": "2026-05-28T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2605.27929v1 Announce Type: new Abstract: Active sensing links behavior and learning through an action-perception loop: actions determine the observations used to update internal predictive models of perception, which subsequently guide the next actions. Predictive-coding frameworks provide a natural way to model this process, since internal representations are continuously updated to predict future observations. Here, we ask how exploratory and exploitative behavioral strategies shape these internal predictive representations. We build an online learning agent in a tree-like maze with a controllable parameter regulating the balance between exploratory and exploitative regimes. The agent updates a predictive-coding-based perception model from experience generated by its own behavior. The model predicts both future maze states and reward probability, allowing the agent to select actions either by expected information gain during exploration or by predicted reward during exploitation. We show that the resulting internal predictive representations depend strongly on the agent's behavioral regime. Exploratory agents develop representations that are more spatially organized and better preserve the structure of maze transitions in latent space. In contrast, exploitative agents learn less organized representations. We then train this predictive model on natural trajectories of water-deprived mice navigating the same maze and compare the resulting representations with those learned from agent trajectories. More exploratory mice show representational geometries that closely match those of exploratory agents, whereas mice with more restricted visitation patterns resemble reward-driven, exploitative agents. Together, these findings suggest that exploration enables predictive models to form generalized internal representations by organizing latent space around both spatial location and transition context in artificial agents and animals."
-        },
-        {
-          "title": "PhyloFrame: A DataFrame-based Library for Fast, Flexible Phylogenetic Computation",
-          "url": "https://arxiv.org/abs/2605.28545",
-          "domain": "arxiv.org",
-          "date": "2026-05-28T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2605.28545v1 Announce Type: new Abstract: PhyloFrame is a Python library for phylogenetic computation targeting the gap between specialist, compiler-optimized operations and flexible, script-based workflows -- with emphasis on fast, memory-efficient operations for very large tree sizes (e.g., $\\geq$ 300,000 taxa). PhyloFrame is built around a DataFrame-based tree representation, where each row corresponds to a node and columns record ancestor relationships, branch lengths, taxon labels, and any user-defined attributes. Crucial for scalability, such array-backed storage allows both library and end-user code alike to seamlessly harness Just-in-Time (JIT) compilation (e.g., Numba) and vectorized execution (e.g., NumPy, Polars). At large tree sizes, performance generally matches or exceeds Python libraries backed by native code -- notably, achieving strong performance in topological-order traversals and Newick I/O. DataFrame-based representation affords several additional conveniences, including: - succinct bulk operations (e.g., NumPy); - powerful queries and transformations (e.g., Polars expressions, Pandas indexing, SQL-style joins and merges); - compatibility with modern tabular data formats that are compression-friendly, type-aware, nullable, and highly portable (e.g., Parquet); and - broad interoperation with table-oriented data science tools (e.g., Seaborn, Plotly, Vega-Altair, tidyverse, Excel). Current library features include tree input/output, synthetic tree generation, taxon-based queries, tree traversals, tree metrics, tree manipulation, tree downsampling, and tree comparison. Most functionality supports both Pandas and Polars DataFrames, and is available through programmatic and CLI-based interfaces."
         }
       ]
     },
@@ -277,6 +277,30 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "Prediction markets legal battles heat up in Minnesota, Rhode Island",
+          "url": "https://cointelegraph.com/news/kalshi-cftc-lawsuit-minnesota-prediction-markets-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-28T22:06:00.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Kalshi sued Minnesota while the CFTC filed against Rhode Island as legal wrangling with state-level authorities seems likely headed to the US Supreme Court."
+        },
+        {
+          "title": "Calamos bets protected Bitcoin ETFs can outlast crypto market swings",
+          "url": "https://www.coindesk.com/coindesk-news/2026/05/28/calamos-bets-protected-bitcoin-etfs-can-outlast-crypto-market-swings",
+          "domain": "coindesk.com",
+          "date": "2026-05-28T22:03:42.000Z",
+          "source": "CoinDesk",
+          "summary": "As more than $1 billion exited spot Bitcoin ETFs last week, Calamos says investors are rotating into Bitcoin products with built-in downside protection."
+        },
+        {
+          "title": "Bit Digital buys $20M worth of Ethereum, expands treasury to 158K ETH",
+          "url": "https://cointelegraph.com/news/bit-digital-buys-20m-worth-of-ethereum-expands-treasury-to-158k-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-28T21:32:40.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The purchase pushed the Nasdaq-listed company ahead of Coinbase Global to become the fourth-largest public corporate holder of Ether, according to CoinGecko data."
+        },
         {
           "title": "SEC Commissioner Peirce defends crypto privacy tools against surveillance push",
           "url": "https://cointelegraph.com/news/sec-hester-peirce-defends-crypto-privacy-tools-surveillance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -305,9 +329,9 @@
           "title": "Trump claims he can ‘future proof’ crypto regulation with CLARITY Act",
           "url": "https://cointelegraph.com/news/donald-trump-future-proof-crypto-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-05-28T20:32:42.000Z",
+          "date": "2026-05-28T20:35:00.000Z",
           "source": "CoinTelegraph",
-          "summary": "The future of a digital asset market structure bill in Congress is still uncertain amid concerns over ethics provisions, with president, whose crypto ties are under scrutiny, weighing in on social media."
+          "summary": "The future of a digital asset market structure bill in Congress is still uncertain amid concerns over ethics provisions, with the president, whose crypto ties are under scrutiny, weighing in on social media."
         },
         {
           "title": "France's AMF regulator sets June 30 deadline for MiCA licensing",
@@ -332,30 +356,6 @@
           "date": "2026-05-28T19:53:38.000Z",
           "source": "CoinDesk",
           "summary": "FalconX has hired Cantor and other bankers to advise on a potential IPO and confidentially filed draft paperwork with the SEC, though the listing is not expected until later this year amid volatile market conditions."
-        },
-        {
-          "title": "The Digital Chamber ramps up pressure on Congress with call to action to pass Clarity Act",
-          "url": "https://www.theblock.co/post/402948/the-digital-chamber-ramps-up-pressure-on-congress-with-call-to-action-to-pass-clarity-act?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-28T19:35:02.000Z",
-          "source": "The Block",
-          "summary": "The Digital Chamber published a website to serve as a central spot for people to write to lawmakers in its latest push to pass a crypto bill."
-        },
-        {
-          "title": "Why the Ethereum Foundation is suddenly again at the center of crypto’s culture war",
-          "url": "https://www.coindesk.com/tech/2026/05/28/why-the-ethereum-foundation-is-suddenly-again-at-the-center-of-crypto-s-culture-war",
-          "domain": "coindesk.com",
-          "date": "2026-05-28T19:09:36.000Z",
-          "source": "CoinDesk",
-          "summary": "In this week's edition of The Protocol Newsletter, we're diving deep into the institution that has been the main steward for the Ethereum blockchain, and why its been back in the spotlight."
-        },
-        {
-          "title": "Tether's U.S.-focused stablecoin grows over 500% in a month, but still lags main rivals",
-          "url": "https://www.coindesk.com/business/2026/05/28/tether-s-u-s-focused-stablecoin-grows-over-500-in-a-month-but-still-lags-main-rivals",
-          "domain": "coindesk.com",
-          "date": "2026-05-28T18:53:40.000Z",
-          "source": "CoinDesk",
-          "summary": "USAT's market cap jumped above $140 million in April, though it remains well behind Circle's USDC, PayPal's PYUSD and Ripple's RLUSD tokens."
         }
       ]
     }
