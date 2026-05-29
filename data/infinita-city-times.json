@@ -1,8 +1,14 @@
 {
   "source": "Infinita City Times",
   "feed": "https://www.infinitacitytimes.com/feed",
-  "updatedAt": "2026-05-29T12:52:17.879Z",
+  "updatedAt": "2026-05-29T16:44:24.696Z",
   "items": [
+    {
+      "title": "Inside Infinita’s BioHub Demo Day",
+      "link": "https://www.infinitacitytimes.com/p/inside-infinitas-biohub-demo-day",
+      "date": "Fri, 29 May 2026 14:02:16 GMT",
+      "summary": "From longevity biotech to decentralized infrastructure, BioHub Demo Day showcased some of the startups building inside Infinita’s ecosystem."
+    },
     {
       "title": "Infinita Newsletter: May",
       "link": "https://www.infinitacitytimes.com/p/infinita-newsletter-may",
@@ -56,12 +62,6 @@
       "link": "https://www.infinitacitytimes.com/p/the-essential-tim-urban-8-key-reads",
       "date": "Mon, 09 Mar 2026 17:30:36 GMT",
       "summary": "A primer ahead of Tim's visit to Prospera"
-    },
-    {
-      "title": "Ep. 105: Andrew Hessel: Programming DNA and Engineering the Future of Life",
-      "link": "https://www.infinitacitytimes.com/p/ep-105-andrew-hessel-programming",
-      "date": "Fri, 20 Feb 2026 19:31:21 GMT",
-      "summary": "Andrew Hessel is a synthetic biology pioneer working on the idea that DNA is digital code — and biology is becoming programmable."
     }
   ]
 }
