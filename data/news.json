@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-30T19:23:07.160Z",
+  "updatedAt": "2026-05-30T20:33:34.794Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -103,7 +103,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-29T16:09:27.000Z",
           "source": "Lifespan.io",
-          "summary": "The report, titled “Pathways to Longevity”, introduces several important longevity concepts to the general reader and is another sign that the field is coming […]"
+          "summary": "The report, titled “Pathways to Longevity”, introduces several important longevity concepts to the general reader and is another sign that the field is coming of age and entering the mainstream. People do want to live longer From time to time, […]"
         },
         {
           "title": "A Better Algorithm for Predicting How Cells Behave",
@@ -111,7 +111,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-28T22:27:12.000Z",
           "source": "Lifespan.io",
-          "summary": "In a preprint published in arXiv, researchers from Altos Labs have described a machine learning algorithm that performs end-to-end prediction of how cells’ gene expression will respond […]"
+          "summary": "In a preprint published in arXiv, researchers from Altos Labs have described a machine learning algorithm that performs end-to-end prediction of how cells’ gene expression will respond to interventions. The need for prediction Simulating biological processes on […]"
         },
         {
           "title": "Early Cancer Cells Change Their Surroundings to Form Tumors",
@@ -127,7 +127,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-27T16:39:13.000Z",
           "source": "Lifespan.io",
-          "summary": "A recent study compared premenopausal, perimenopausal, and postmenopausal women’s cardiovascular health. Perimenopausal women had about twice the odds of having a […]"
+          "summary": "A recent study compared premenopausal, perimenopausal, and postmenopausal women’s cardiovascular health. Perimenopausal women had about twice the odds of having a poor overall score when […]"
         },
         {
           "title": "Tau Protein Is Crucial for Encoding Long-Term Memory",
@@ -135,7 +135,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-26T16:04:24.000Z",
           "source": "Lifespan.io",
-          "summary": "Scientists have uncovered an unexpected function of the tau protein, which is mostly known for its role in Alzheimer’s and related disorders: helping encode long-term memory. This can inform novel approaches […]"
+          "summary": "Scientists have uncovered an unexpected function of the tau protein, which is mostly known for its role in Alzheimer’s and related disorders: helping encode long-term memory. This can inform novel approaches that target tau [1]. In sickness and […]"
         },
         {
           "title": "How Omega-3 Fatty Acids May Alleviate Kidney Disease",
@@ -143,7 +143,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-25T18:18:04.000Z",
           "source": "Lifespan.io",
-          "summary": "Researchers have discovered the role of cellular senescence in the interaction between omega-3 polyunsaturated fatty acids (PUFAs) and chronic kidney disease (CKD). Previous mixed results Several clinical trials have found that taking omega-3 PUFAs has benefits for […]"
+          "summary": "Researchers have discovered the role of cellular senescence in the interaction between omega-3 polyunsaturated fatty acids (PUFAs) and chronic kidney disease (CKD). Previous mixed results Several clinical trials have found that taking omega-3 […]"
         },
         {
           "title": "Mitochondrial Aging Linked to Losing Crucial Membrane Lipid",
@@ -151,7 +151,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-22T15:00:00.000Z",
           "source": "Lifespan.io",
-          "summary": "Scientists have found that the levels of phosphatidylcholine, the most abundant lipid in mitochondrial membranes, decline with age, driving mitochondrial aging in worms and possibly humans. Supplementing the lipid helped in an in […]"
+          "summary": "Scientists have found that the levels of phosphatidylcholine, the most abundant lipid in mitochondrial membranes, decline with age, driving mitochondrial aging in worms and possibly humans. Supplementing the lipid […]"
         },
         {
           "title": "How an Oxidative Stress Regulator Makes Cataracts Worse",
@@ -159,7 +159,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-21T17:23:02.000Z",
           "source": "Lifespan.io",
-          "summary": "Researchers have outlined a key receptor and protein involved in the formation of cataracts, paving the way for potential treatments targeting them. Oxidative […]"
+          "summary": "Researchers have outlined a key receptor and protein involved in the formation of cataracts, paving the way for potential treatments targeting them. Oxidative stress and […]"
         },
         {
           "title": "Untangling Cellular Senescence at Its Roots",
@@ -167,7 +167,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-20T16:58:33.000Z",
           "source": "Lifespan.io",
-          "summary": "In Aging Cell, researchers have described the differences between primary and secondary senescent cells, comparing radiation-induced senescence to senescence induced by the senescence-associated secretory phenotype (SASP). Heterogeneity on top of heterogeneity It is well-known that senescent cells are highly […]"
+          "summary": "In Aging Cell, researchers have described the differences between primary and secondary senescent cells, comparing radiation-induced senescence to senescence induced by the senescence-associated secretory phenotype (SASP). Heterogeneity on top of heterogeneity […]"
         },
         {
           "title": "China Launches Standardized Physician Education in Longevity",
@@ -175,7 +175,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-20T14:41:45.000Z",
           "source": "Lifespan.io",
-          "summary": "Beijing, China — In response to the growing healthcare demands of a rapidly ageing population, China has launched its first national competency-based […]"
+          "summary": "Beijing, China — In response to the growing healthcare demands of a rapidly ageing population, China has launched its first national competency-based education programme in longevity medicine, marking a […]"
         }
       ]
     },
@@ -278,6 +278,14 @@
       ],
       "articles": [
         {
+          "title": "Circle freezes $12.6M of USDC linked to privacy protocol Zama",
+          "url": "https://cointelegraph.com/news/circle-freezes-126m-of-usdc-linked-to-privacy-protocol-zama?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-30T19:11:15.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The $12.6 million in USDC was likely frozen in connection with an ongoing but unrelated civil court case, according to onchain sleuth ZachXBT."
+        },
+        {
           "title": "Cosmos-based Gravity Bridge drained of $5.4 million in suspected key compromise, researchers say",
           "url": "https://www.theblock.co/post/403108/cosmos-based-gravity-bridge-drained-of-5-4-million-in-suspected-key-compromise-researchers-say?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
@@ -348,14 +356,6 @@
           "date": "2026-05-30T13:00:00.000Z",
           "source": "CoinDesk",
           "summary": "The digital asset manager says Hyperliquid is emerging as a blockchain-based financial infrastructure platform with the potential to expand beyond crypto trading and challenge parts of traditional derivatives and exchange markets."
-        },
-        {
-          "title": "Court-ordered Circle freeze traps $12.6 million in Zama cUSDC contract amid Overnight Finance suit",
-          "url": "https://www.theblock.co/post/403091/court-ordered-circle-freeze-traps-12-6-million-in-zama-cusdc-contract-amid-overnight-finance-suit?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-30T12:30:00.000Z",
-          "source": "The Block",
-          "summary": "Zama CEO Rand Hindi said the protocol's confidential USDC contract was \"caught in a crossfire\" and that his team is investigating the freeze."
         }
       ]
     }
