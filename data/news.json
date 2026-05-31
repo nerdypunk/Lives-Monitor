@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-31T09:33:51.260Z",
+  "updatedAt": "2026-05-31T11:21:28.261Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -119,7 +119,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-29T16:09:27.000Z",
           "source": "Lifespan.io",
-          "summary": "The report, titled “Pathways to Longevity”, introduces several important longevity concepts to the general reader and is another sign that the field is coming of age and entering the mainstream. People do want to […]"
+          "summary": "The report, titled “Pathways to Longevity”, introduces several important longevity concepts to the general reader and is another sign that the field is coming of age and entering the mainstream. […]"
         },
         {
           "title": "Lithuania takes longevity into parliament",
@@ -187,6 +187,14 @@
         "https://phys.org/rss-feed/biology-news/biotechnology/"
       ],
       "articles": [
+        {
+          "title": "Researchers teach brain cells to play 'Doom'",
+          "url": "https://phys.org/news/2026-05-brain-cells-play-doom.html",
+          "domain": "phys.org",
+          "date": "2026-05-31T11:19:01.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Australian researchers have trained lab-grown brain cells on a silicon computer chip to play the nineties shooter game \"Doom\" and say they are just scratching the surface of what the neurons could be capable of doing."
+        },
         {
           "title": "Freeze-dried reagents and hand-powered hardware bring biomanufacturing to remote labs",
           "url": "https://phys.org/news/2026-05-dried-reagents-powered-hardware-biomanufacturing.html",
@@ -258,14 +266,6 @@
           "date": "2026-05-27T22:20:01.000Z",
           "source": "Phys.org Biotechnology",
           "summary": "Researchers at Cornell University have developed a safer and more precise way to study how genes function in living tissues by refining a recently developed CRISPR-based genetic technique in fruit flies, enabling researchers to better study how genes contribute to development and disease."
-        },
-        {
-          "title": "Sea squirt reveals glowing spines and unexpected nervous system anatomy",
-          "url": "https://phys.org/news/2026-05-sea-squirt-reveals-spines-unexpected.html",
-          "domain": "phys.org",
-          "date": "2026-05-27T20:20:03.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Ascidians, also known as sea squirts, are the evolutionary link between vertebrates and invertebrates, making them valuable subjects of biological studies. For the first time, researchers at Ruhr University Bochum have detected pronounced autofluorescence in Halocynthia papillosa, one of more than 3,000 species. Furthermore, the study provides comprehensive insights into the anatomy of this sea squirt."
         }
       ]
     },
@@ -277,6 +277,14 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "Vietnam proposes allowing SMEs to use digital assets as loan collateral",
+          "url": "https://cointelegraph.com/news/vietnam-proposes-allowing-smes-to-use-digital-assets-as-loan-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-05-31T10:03:56.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Vietnam’s Ministry of Finance has proposed letting SMEs use digital assets, virtual assets and intellectual property as loan collateral."
+        },
         {
           "title": "Cosmos-based Gravity Bridge halts bridge after reported $5.4M exploit",
           "url": "https://cointelegraph.com/news/cosmos-based-gravity-bridge-halts-bridge-after-reported-54m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -348,14 +356,6 @@
           "date": "2026-05-30T18:21:02.000Z",
           "source": "The Block",
           "summary": "The attacker took USDC, ether, tether and PAYG tokens before laundering a portion through ChangeNow and Binance."
-        },
-        {
-          "title": "Crypto champion Trump may be jeopardizing the industry’s landmark legislation",
-          "url": "https://www.theblock.co/post/403083/crypto-champion-trump-may-be-jeopardizing-the-industrys-landmark-legislation?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-05-30T17:56:14.000Z",
-          "source": "The Block",
-          "summary": "Digital asset legislation is years in the making, but the sector's biggest political champion, President Trump, has become a liability."
         }
       ]
     }
