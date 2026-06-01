@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-05-31T23:46:56.577Z",
+  "updatedAt": "2026-06-01T04:27:53.847Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -23,22 +23,6 @@
           "date": "2026-05-28T07:00:00.000Z",
           "source": "Binance",
           "summary": "What Is Decentralized Science (DeSci)? &nbsp;&nbsp; Binance"
-        },
-        {
-          "title": "0.0348 | BIO USDT | Bio Protocol to USDT – Binance Spot - Binance",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1URlMtbXNHSk1XbFBrTGcyQnRYSDM3WkFYcDNJVGU1N3QxcXBVdjAtQW9uT3JHVHlaQXFBbjBXQWdtZkZzRkhhR2w0Ymxjc0htS09oREFMX2c2R0ZvXzd0TEFjSnk3dE0tcmExT0d6amU5ZThrNGZTMw?oc=5",
-          "domain": "binance.com",
-          "date": "2026-05-25T07:22:59.000Z",
-          "source": "Binance",
-          "summary": "0.0348 | BIO USDT | Bio Protocol to USDT – Binance Spot &nbsp;&nbsp; Binance"
-        },
-        {
-          "title": "Bio Protocol Price - Binance",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tZ1NoakllUjkwc09EcTh0SXg3RTczZmE0RHRxRGpsbzhjTVpBWGxWQl9sdTg1Y053UjZwSkpETGt5U3ZLdjdHWmgtX0wweUgzeHRMRGJGWU9XdVMyYzBjTEEybnpEaWVwOWRVTzBjRXpTaHE0OTVzXw?oc=5",
-          "domain": "binance.com",
-          "date": "2026-05-23T11:15:08.000Z",
-          "source": "Binance",
-          "summary": "Bio Protocol Price &nbsp;&nbsp; Binance"
         },
         {
           "title": "Manadia Partners with NanoVita to Advance AI-Powered DeSci Infrastructure - Cryptonews.net",
@@ -87,6 +71,22 @@
           "date": "2026-05-02T07:00:00.000Z",
           "source": "bloomingbit",
           "summary": "Bio Protocol Jumps 53.85% in Intraday Trading &nbsp;&nbsp; bloomingbit"
+        },
+        {
+          "title": "Bio Protocol Multisig Wallet Transfers 80M BIO to CEX Worth $5.15M - Bitget",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50N21PS05qNUM3TGtjd1R4eUlfdkp2WW1WVzEwSXNyNzhyWFVJRkMzaF9Mb1N3a3ZvM2RUV0RSd0R3RGR6ZWYwTXI3cEg1YTZJWGxFN1FYTnRDY3Q1eWfSAWNBVV95cUxPcjVSNTNrYko4cVRxY2RMS0dpb0c2dHdKWmQ3SGo2aTdndUlfWmZrMjlnckwxbmVna1B2MnZ0azBoVWIyaDJFRUVGRm1Zcm5ZR0wxc19XcDIycTE3d1VtSGV0bm8?oc=5",
+          "domain": "bitget.com",
+          "date": "2026-05-02T07:00:00.000Z",
+          "source": "Bitget",
+          "summary": "Bio Protocol Multisig Wallet Transfers 80M BIO to CEX Worth $5.15M &nbsp;&nbsp; Bitget"
+        },
+        {
+          "title": "Bio Protocol jumps 5% on Upbit amid extreme greed and high trading volume - Pluang",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZlE3d1Yza0ZaOEVSRk02djZydnRtOW1zTlZFY2xHSU85bXZrbVYtY0xzREF4RVlXNE9yYkUxby1rQndJc0FLaFJvOTZkQU5EU0tZUFpmbXhuNC14NDFYYWdxSHlFU3FpalBIZE43N1NqbHItMDVVRFJReXdwX3hiU0duUmdfQ1NSNmJEMnJjQmRVV1ltSFE?oc=5",
+          "domain": "pluang.com",
+          "date": "2026-05-02T07:00:00.000Z",
+          "source": "Pluang",
+          "summary": "Bio Protocol jumps 5% on Upbit amid extreme greed and high trading volume &nbsp;&nbsp; Pluang"
         }
       ]
     },
@@ -119,7 +119,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-29T16:09:27.000Z",
           "source": "Lifespan.io",
-          "summary": "The report, titled “Pathways to Longevity”, introduces several important longevity concepts to the general reader and is another sign that the field is […]"
+          "summary": "The report, titled “Pathways to Longevity”, introduces several important longevity concepts to the general reader and is another sign that the field is coming of age and entering the mainstream. People do want to live longer From time to time, […]"
         },
         {
           "title": "Lithuania takes longevity into parliament",
@@ -188,84 +188,84 @@
       ],
       "articles": [
         {
-          "title": "Pocket-sized device rivals bulky lab machinery in disease and environmental testing",
-          "url": "https://phys.org/news/2026-05-pocket-sized-device-rivals-bulky.html",
-          "domain": "phys.org",
-          "date": "2026-05-31T13:00:02.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "In a major advancement for decentralized health care and environmental monitoring, researchers at Kumamoto University have successfully developed a palm-sized, battery-powered spectrophotometer that matches the performance of massive commercial laboratory equipment. Published in Sensing and Bio-Sensing Research, the study reveals a 99% reduction in device volume without sacrificing accuracy, paving the way for instant, onsite testing in hospitals, agricultural fields, and remote waterways."
+          "title": "On the Connection Between Differential Population Growth Rate and Epidemic Reproduction Numbers",
+          "url": "https://arxiv.org/abs/2605.30382",
+          "domain": "arxiv.org",
+          "date": "2026-06-01T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2605.30382v1 Announce Type: new Abstract: During pandemics, public health agencies need to rapidly assess whether a new viral variant is more transmissible than existing lineages. For co-circulating variants, relative fitness can be expressed as a selective coefficient, as the differential population growth rate (DPGR) estimated from genomic surveillance, or, with additional assumptions, as a contrast in epidemic reproduction numbers $R_t$. We show that DPGR estimates a pairwise growth-rate difference. Under a specified generation-interval model, this difference can be transformed into reproduction-number space; in the equal-generation-time SIR special case, it reduces to a scaled difference in variant-specific $R_t$. Related growth-rate contrasts also appear in multinomial logistic and growth-advantage random-walk models, although those methods differ from DPGR in likelihood, smoothing, priors, and data inputs. We evaluate the theory across five SARS-CoV-2 and influenza analyses totaling more than 2,200 matched data points. SIR simulation recovers the expected mapping when the true $R_t$ is known, and retrospective SARS-CoV-2 analyses show sustained DPGR signals 43 to 65 days before variant dominance, with 95\\% sign accuracy in our analysis. DPGR is approximately transitive across lineage triplets, near zero for selected functionally similar sublineages, and directionally consistent across countries. These results connect sequence-count-based fitness estimates to reproduction-number contrasts through an assumption-explicit growth-rate bridge."
         },
         {
-          "title": "Researchers teach brain cells to play 'Doom'",
-          "url": "https://phys.org/news/2026-05-brain-cells-play-doom.html",
-          "domain": "phys.org",
-          "date": "2026-05-31T11:19:01.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Australian researchers have trained lab-grown brain cells on a silicon computer chip to play the nineties shooter game \"Doom\" and say they are just scratching the surface of what the neurons could be capable of doing."
+          "title": "A Novel Computer Vision Approach for Assessing Fish Responses to Intrusive Objects in Aquaculture",
+          "url": "https://arxiv.org/abs/2605.30399",
+          "domain": "arxiv.org",
+          "date": "2026-06-01T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2605.30399v1 Announce Type: new Abstract: The aquaculture industry needs to address several challenges to secure sustainable seafood production that can serve an increasing global demand. One major challenge is to ensure good fish health and acceptable welfare during production since the improvement of fish welfare is of vital importance in current and future production systems. In this study, this is addressed by developing and implementing methods to identify fish behaviors in response to intrusive objects both on individual and on a group basis. A novel approach for detecting, tracking, and estimating the 3D position of individual fish has thus been developed, and specifically designed to track the caudal fins of farmed fish in industrial sea cages. The tracking data was subjected to a novel stereo-vision method adapted to estimate fish positions, velocities, accelerations, and turning and pitch angles. Datasets obtained from industrial-scale fish farms were then analyzed to identify the impact of structures of varying shapes, sizes, and colors on fish behavior. The method was trained using manually labeled caudal fins, and used YOLOv8 with ByteTrack as an object detector and tracker, SuperGlue for matching detections in the left and right frames, and triangulation to reconstruct the 3D positions of the fish. Different image pre-processing and augmentation methods for enhancing object detection accuracy were tested and their performance compared, while RAFT-Stereo was tested for depth estimation purposes. The obtained results both validate the method's performance against previous research efforts, and demonstrate the novelty and potential of this method in providing more insight into behavioral dynamics in sea-cages."
         },
         {
-          "title": "Freeze-dried reagents and hand-powered hardware bring biomanufacturing to remote labs",
-          "url": "https://phys.org/news/2026-05-dried-reagents-powered-hardware-biomanufacturing.html",
-          "domain": "phys.org",
-          "date": "2026-05-29T18:00:02.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Researchers at the University of Toronto's Leslie Dan Faculty of Pharmacy, working with collaborators around the world, have demonstrated the effectiveness of a suite of low-cost, portable biotechnology tools designed to improve access to laboratory research and diagnostics in resource-limited settings."
+          "title": "Meta-analysis of scRNA-seq data for choroidal endothelial cells in dry Age-related Macular Degeneration",
+          "url": "https://arxiv.org/abs/2605.30463",
+          "domain": "arxiv.org",
+          "date": "2026-06-01T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2605.30463v1 Announce Type: new Abstract: The mechanisms that lead to dry Age-related Macular Degeneration are largely unelucidated, which prevents the introduction of effective therapies. Experimental support exists in the literature for the hypothesis that choroidal endothelial cell (ChEC) dysfunction precedes the loss of macular retinal pigmented epithelial (RPE), which may be only a secondary consequence of inadequate blood supply. If so, interventions at the level of ChEC could constitute an under investigated therapeutic strategy. Datasets regarding the transcriptional changes in early or intermediate dry AMD are publicly available, but for some some of them the information about ChECs have not been analyzed, or not analyzed using the most powerful and recent software tools. We present here new data generated by our bioinformatics analysis of these datasets. The main new finding is that angiogenesis is initiated in dry AMD, as it is in wet AMD. However, contrary to wet AMD, in dry AMD angiogenesis fails to execute, and therefore the blood supply that supports the RPE becomes gradually insufficient, leading to their dysfunctionality and death. The data support a unitary hypothesis of the origin / initiation / etiology of both dry and wet AMD, namely that both are initiated by ChEC dysfunction - either insufficient / abortive angiogenesis in dry AMD, or excessive angiogenesis in wet AMD. Pathway analysis also reveals as perturbed Notch and TNF signaling, endothelial to mesenchymal transition (EndoMT), mitochondria, \"fluid shear stress\", \"osteoclast differentiation\" and \"calcification/osteoporosis\". Overall, the new data provide a rationale for experimental studies, to validate and further characterize these perturbations, and investigate strategies to correct them."
         },
         {
-          "title": "Optically detected and radio wave-controlled spin chemistry in flavoproteins",
-          "url": "https://www.nature.com/articles/s41587-026-03158-5",
-          "domain": "nature.com",
-          "date": "2026-05-29T00:00:00.000Z",
-          "source": "Nature Biotechnology",
-          "summary": "Nature Biotechnology, Published online: 29 May 2026; doi:10.1038/s41587-026-03158-5 Radio waves are shown to modulate fluorescence and associate spin chemistry in proteins."
+          "title": "Gaussian Mixture Model-Based Focused Refinement for Enhanced Flexible Structure Determination in CryoEM and CryoET",
+          "url": "https://arxiv.org/abs/2605.30518",
+          "domain": "arxiv.org",
+          "date": "2026-06-01T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2605.30518v1 Announce Type: new Abstract: Dynamic conformational changes of proteins are crucial for their cellular functions. Here we present a unified refinement pipeline for flexible protein structures in both CryoEM and in situ CryoET. Using a Gaussian mixture model-based focused alignment procedure, we improve resolution of small domains in highly dynamic proteins and reveal intricate conformational changes. The method corrects the per-subunit motion of TRPV1 and captures the rotary dynamics of ATP synthase within mitochondria."
         },
         {
-          "title": "AI and drones can help improve early warning systems for Vibrio bacteria in the Baltic Sea",
-          "url": "https://phys.org/news/2026-05-ai-drones-early-vibrio-bacteria.html",
-          "domain": "phys.org",
-          "date": "2026-05-28T23:00:01.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "The presence of the marine bacterium Vibrio vulnificus, which is potentially dangerous to humans, can now be predicted up to five weeks in advance in the Baltic Sea using artificial intelligence (AI). A research team led by the Leibniz Institute for Baltic Sea Research Warnemünde (IOW) has reached this conclusion by combining high-resolution environmental, satellite, and microbiome data in an AI-based analysis."
+          "title": "High-Fidelity 3D Simulator for Synthetic fNIRS Data Generation",
+          "url": "https://arxiv.org/abs/2605.30552",
+          "domain": "arxiv.org",
+          "date": "2026-06-01T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2605.30552v1 Announce Type: new Abstract: Functional near-infrared spectroscopy (fNIRS) provides a noninvasive window into brain activity by measuring task-related changes in oxygenated and deoxygenated hemoglobin in the cortex. A key advantage of fNIRS is its promise of use with mobile participants in complex, real-world environments, such as walking, sports, classroom learning, driving simulations, or social interactions. However, analyzing fNIRS data is challenging because of motion artifacts, physiological noise, and other confounding factors. This challenge is further compounded by the limited availability of annotated datasets, which hinders the development and validation of new analysis pipelines, particularly given the growing use of AI methods. Recognizing these challenges, we introduce a 3D fNIRS simulator that uses mesh-based Monte Carlo simulations to create physiologically realistic, full-head synthetic recordings with high spatiotemporal fidelity. Our simulator combines anatomically accurate sensitivity profiles with parameterized models of hemodynamic responses, systemic physiology, and nonsystematic artifacts. As a result, users can generate virtually unlimited labeled datasets for testing denoising algorithms, data augmentation, mechanistic modeling, or \\textit{in silico} experimentation. We validate the simulator using experimental fNIRS data from open-source finger-tapping, pain-assessment, and surgical-skill datasets and provide an open-source implementation to support reproducibility and broad adoption."
         },
         {
-          "title": "Nitrogen-fixing genes moved into new bacterial strains, opening path beyond fertilizer",
-          "url": "https://phys.org/news/2026-05-nitrogen-genes-bacterial-strains-path.html",
-          "domain": "phys.org",
-          "date": "2026-05-28T22:30:03.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Most major crops, such as wheat and corn, require expensive nitrogen fertilizer to flourish. But what if bacteria could help those plants draw nitrogen from the atmosphere, as peas and beans do?"
+          "title": "Obesity and Sociodemographic Factors in Luminal Breast Cancer",
+          "url": "https://arxiv.org/abs/2605.30591",
+          "domain": "arxiv.org",
+          "date": "2026-06-01T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2605.30591v1 Announce Type: new Abstract: Luminal breast cancers represent the most prevalent molecular subtype of breast carcinoma, with Luminal A tumors generally associated with more favorable clinical outcomes than Luminal B tumors. Obesity-related inflammation and prolonged exposure to exogenous steroids have been implicated in the progression of luminal malignancies. This study evaluated 1,928 patients with Luminal A breast cancer and 1,610 patients with Luminal B breast cancer to examine associations among body mass index (BMI), age, ethnic background, menopausal status, and receptor expression, including estrogen receptor (ER), progesterone receptor (PR), and human epidermal growth factor receptor 2 (HER2). Patients with Luminal B tumors demonstrated a significantly greater mean BMI compared with those with Luminal A tumors. In addition, Luminal B tumors were more frequently observed among patients of African ancestry relative to White and Hispanic populations. Multivariable analyses revealed that elevated BMI and African ancestry were independently associated with increased odds of Luminal B carcinoma, whereas postmenopausal status was associated with lower risk. Mediation analysis further indicated that BMI partially explained the association between ancestry and Luminal B disease. These findings suggest that obesity and population-specific factors may contribute to the development of more aggressive luminal breast cancer phenotypes."
         },
         {
-          "title": "Genetically engineering cyanobacteria for the production of sulfated polysaccharide",
-          "url": "https://phys.org/news/2026-05-genetically-cyanobacteria-production-sulfated-polysaccharide.html",
-          "domain": "phys.org",
-          "date": "2026-05-28T22:20:02.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Biomolecules are naturally occurring molecules that form the basis of living systems. They are widely used in the production of a diverse range of materials. One such widely used biomolecule is sulfated polysaccharide (SPS), which includes sugar molecules attached to sulfate groups. These are widely used in pharmaceuticals, cosmetics, and functional materials due to their unique physical and biological properties. However, commercially available SPSs are usually derived from animal or marine sources, which raises concerns about their environmental impact, calling for alternative SPS production methods."
+          "title": "The Geometry of Activity Cliffs: Representation Dependence and Multi-Scale Characterization of Activity Landscapes",
+          "url": "https://arxiv.org/abs/2605.30831",
+          "domain": "arxiv.org",
+          "date": "2026-06-01T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2605.30831v1 Announce Type: new Abstract: Activity cliffs, structurally similar compounds with large potency differences, are widely treated as intrinsic features of chemical datasets. We argue that apart from target biology, much of our cliff understanding is a consequence of the geometry induced by the chosen molecular representation, not a property of a molecule pair itself. We designed a six-step pipeline to systematically test this hypothesis. The pipeline consists of: assessing pairwise distance geometry, cliff enrichment, activity gradient distribution, persistent homology of the cliff subspace, predictive benchmarking for a chosen pair of an embedding and a metric, and eventually, analysis of the matched molecular pairs and stereoisomers. We applied the pipeline to fifteen configurations of embeddings and metrics to build a benchmark across three distinctive datasets known of activity cliffs challenges. No representation excels on all criteria: Morgan Tanimoto provides the strongest cliff enrichment and cross-scaffold generalization; MolFormer cosine provides the only meaningful stereochemical sensitivity; MACCS and RDKit Dice fingerprints are most sensitive to matched-molecular-pair transformations; ChemBERTa fails uniformly due to embedding collapse. These findings are not a ranking. They reflect the fact that different representations encode different aspects of molecular recognition, and that choosing one implicitly defines what an activity cliff actually is."
         },
         {
-          "title": "Improved embryo freezing technique could preserve endangered species",
-          "url": "https://phys.org/news/2026-05-embryo-technique-endangered-species.html",
-          "domain": "phys.org",
-          "date": "2026-05-28T19:40:04.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "The current practice of freezing embryos—used to assist reproduction in humans or animals or to conserve endangered species—routinely causes ice to form within the cells, ripping through cell membranes, changing the way proteins behave and ultimately leading to fewer viable embryos."
+          "title": "Extended predictive coding framework as variational free-energy minimisation under exponential-family assumption",
+          "url": "https://arxiv.org/abs/2605.30882",
+          "domain": "arxiv.org",
+          "date": "2026-06-01T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2605.30882v1 Announce Type: new Abstract: The sensory cortices of the brain perform perceptual inference efficiently through their complex networks of neurons. One of the theoretical accounts of this process is the free-energy principle (FEP), which postulates that the brain performs variational Bayesian inference. Pioneering studies have shown that FEP can correspond to the predictive coding (PC) hypothesis under the Gaussian assumption and Laplace approximation. However, PC-based implementations of FEP within such a limited Gaussian regime have failed to capture several properties of biological neural networks, such as nonlinearity and heterogeneity of input--output properties within a network, and the biological implausibility of negative firing rates. This study shows that, when a broader class of probability distributions, namely the exponential family of distributions (EFD), is assumed for the variational posterior and prior, these missing characteristics are exhibited within the network, maintaining the FEP--PC correspondence up to the second cumulant of the posterior. We also show that the proposed model can be trained by biologically plausible local plasticity rules. Our results enrich the explanatory power of FEP regarding neural dynamics involved in perception as variational inference."
         },
         {
-          "title": "Electrical pulses reverse aging in sea squirts, offering clues for extending human longevity",
-          "url": "https://phys.org/news/2026-05-electrical-pulses-reverse-aging-sea.html",
-          "domain": "phys.org",
-          "date": "2026-05-28T18:20:06.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "A tiny sea creature might hold the secret to reversing the aging process. When treated with a brief series of electrical pulses, sea squirts experience dramatic and long-lasting health improvements that can significantly extend their lifespans, according to a new study by researchers at Stanford and other institutions."
+          "title": "Coordination without communication: beyond optimisation and geometric Brownian motion",
+          "url": "https://arxiv.org/abs/2605.30950",
+          "domain": "arxiv.org",
+          "date": "2026-06-01T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2605.30950v1 Announce Type: new Abstract: We introduce a physically grounded framework for coordination in a population based on information constrained feedback in a partially observed stochastic dynamical system. Population size evolves as a continuous time birth death Markov process whose transition rates respond to a shared stochastic measurement signal correlated with the underlying population state. Individuals neither communicate directly nor optimise strategies; instead, coordination emerges from macro to micro feedback mediated by imperfect common information. We show that geometric Brownian motion arises as a limiting case of the conditional dynamics when measurement strength and population statistics satisfy suitable conditions. More generally, varying the signal to noise properties of the measurement channel produces a wider class of stochastic growth processes, including diffusive and jump like regimes, even though ensemble average growth remains exponential. In an appropriate limit the framework recovers the stochastic multiplicative growth model of Peters and Adamou, providing a physical interpretation of coordination as inference and feedback under partial observability."
         },
         {
-          "title": "Platform fast-tracks microbial design for high-temp manufacturing",
-          "url": "https://phys.org/news/2026-05-platform-fast-tracks-microbial-high.html",
-          "domain": "phys.org",
-          "date": "2026-05-28T14:40:05.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Scientists at the Department of Energy's Oak Ridge National Laboratory have developed a platform that engineers heat-loving microbes for industrial-scale manufacturing in a matter of weeks compared with previous approaches that can take months to years. This biotechnology tool strengthens American manufacturing capacity, supporting long-term energy security and global competitiveness."
+          "title": "AMix-2: Establishing Protein as a Native Modality in Large Language Models",
+          "url": "https://arxiv.org/abs/2605.30963",
+          "domain": "arxiv.org",
+          "date": "2026-06-01T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2605.30963v1 Announce Type: new Abstract: We present AMix-2, a protein-text foundation model that establishes protein as a native modality in large language models (LLMs), unifying protein understanding and sequence design within a single foundation model. AMix-2 is built upon two key ideas: (1) a unified protein-text formulation that embeds natural language and protein sequence in a shared token space, enabling one model to perform biological reasoning and conditional design instead of separate downstream task-specialized models; and (2) a block-wise diffusion language modeling backbone that combines causal generation across blocks with bidirectional context and iterative refinement within blocks. This scheme better matches the intrinsic nature of proteins than a strict left-to-right factorization. To evaluate protein foundation models under realistic generalization settings, we further introduce ProteinArena, a comprehensive benchmark with time-aware and homology-aware protocols across various understanding and design tasks, and with baselines covering classical bioinformatics tools, protein-specialized models and LLMs. On ProteinArena, AMix-2 outperforms frontier LLMs and demonstrates competitive performance to task-specific protein models. Controlled experiments further show that the diffusion-based paradigm generally surpasses its autoregressive counterpart, highlighting the advantage of flexible generation order for protein sequences. We release both AMix-2 and ProteinArena to facilitate open research in protein foundation models."
         }
       ]
     },
@@ -277,6 +277,22 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "The Funding: How crypto hedge funds are navigating weak markets",
+          "url": "https://www.theblock.co/post/403128/the-funding-how-crypto-hedge-funds-are-navigating-weak-markets?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-01T03:33:52.000Z",
+          "source": "The Block",
+          "summary": "As crypto markets remain weak, fund managers say asset selection, fundamentals, and alpha matter more than ever."
+        },
+        {
+          "title": "White hat hacker recovers $2M from faulty 2016 ICO smart contract",
+          "url": "https://cointelegraph.com/news/whitehat-helps-recover-2m-from-2016-ico-smart-contract?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-01T02:21:56.000Z",
+          "source": "CoinTelegraph",
+          "summary": "A white-hat hacker has helped the creators of Hong Coin by showing them how to exploit a flawed admin function on a smart contract and ultimately refund investors after a decade."
+        },
         {
           "title": "Coinbase makes a major play for India’s booming $3 billion crypto market with local currency launch",
           "url": "https://www.coindesk.com/markets/2026/05/31/coinbase-makes-a-major-play-for-india-s-booming-usd3-billion-crypto-market-with-local-currency-launch",
@@ -340,22 +356,6 @@
           "date": "2026-05-31T17:40:00.000Z",
           "source": "CoinTelegraph",
           "summary": "In the wake of CFTC approval of perpetual futures contracts tied to the spot price of Bitcoin, Kraken expects to offer those to US institutional clients within \"the next month.\""
-        },
-        {
-          "title": "How Stellar became part of DTCC's tokenization push for Wall Street securities onchain",
-          "url": "https://www.coindesk.com/business/2026/05/31/how-stellar-became-part-of-dtcc-s-tokenization-push-for-wall-street-securities-onchain",
-          "domain": "coindesk.com",
-          "date": "2026-05-31T17:00:00.000Z",
-          "source": "CoinDesk",
-          "summary": "Wall Street's clearing giant chose a public blockchain with compliance tools built for regulated assets, Stellar Development Foundation CEO Denelle Dixon said."
-        },
-        {
-          "title": "Bitcoin preps 3% May downside, but US PMI data may boost BTC price",
-          "url": "https://cointelegraph.com/markets/bitcoin-price-preps-3-may-downside-as-us-pmi-data-preps-potential-btc-price-boost?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-05-31T16:39:40.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Bitcoin faced ending May lower by around 3%, with the possibility of US PMI data giving BTC price action a boost next week."
         }
       ]
     }
