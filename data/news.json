@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-02T20:27:51.988Z",
+  "updatedAt": "2026-06-02T22:36:29.528Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -25,14 +25,6 @@
           "summary": "What Is Decentralized Science (DeSci)? &nbsp;&nbsp; Binance"
         },
         {
-          "title": "0.0350 | BIO USDT | Bio Protocol to USDT – Binance Spot - Binance",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9PUkVvZXRUeXEwajJXU0dLeFhFSHNsUUlBd1lTcTUtQUxEaEpHaDBPVklHNnJLUWlxQTBCaU96azZtZm9sWnhPMTk1QkhLbVYtYU14Uno1OWh5QldmbUhOWmgxbHRpMmhtMnZmNUo5Y3BsUlFwelE2UmhR?oc=5",
-          "domain": "binance.com",
-          "date": "2026-05-25T17:42:42.000Z",
-          "source": "Binance",
-          "summary": "0.0350 | BIO USDT | Bio Protocol to USDT – Binance Spot &nbsp;&nbsp; Binance"
-        },
-        {
           "title": "Manadia Partners with NanoVita to Advance AI-Powered DeSci Infrastructure - Cryptonews.net",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE44ZEczTDNpVHBqNHNnMjhCVEJKY2pXVW5yZjRYa1B1aXRFOHBHNmlnLXJYYnV1X2dNRlEzcGVWeTZyeHZibFJJVFpaREdKczgySndpbFJ5NTZqeUdu?oc=5",
           "domain": "cryptonews.net",
@@ -47,6 +39,14 @@
           "date": "2026-05-15T10:33:20.000Z",
           "source": "TradingView",
           "summary": "PEPTAI Price Swings Wild As Base Integration Fuels DeSci Hype &nbsp;&nbsp; TradingView"
+        },
+        {
+          "title": "Bio Protocol announces the launch of PEPTAI, with a total supply of 20% allocated to BIO stakers - Bitget",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kbzJldmVlM2JDQVdMbGJiT1g0QlZveklCNi1PblBGRWdEckR5cVBaaHF6ZGVPUDNUX1BRQUdTTjZrXy1qbzh5RmJkbTJBakczSnhsb2NBeDBEQ0N3dlHSAWNBVV95cUxPSGxtdE9PTnlHUVF0UzRqRnFTNXNmUHQxankwSExXY3ZaQzIzdVhpSTRDdzRBalFJT0p0M3F5dFdqS0Voak9QVExKR1Qyb2lxaGx4ZTZPNTZaZFQ5NTFQSWpYZ2s?oc=5",
+          "domain": "bitget.com",
+          "date": "2026-05-14T07:00:00.000Z",
+          "source": "Bitget",
+          "summary": "Bio Protocol announces the launch of PEPTAI, with a total supply of 20% allocated to BIO stakers &nbsp;&nbsp; Bitget"
         },
         {
           "title": "NanoVita Labs Launches $NANA Token on PancakeSwap – A New Era for AI-Driven Decentralized Science - Cryptonews.net",
@@ -135,7 +135,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-02T15:23:03.000Z",
           "source": "Lifespan.io",
-          "summary": "The longevity field remains small and starved for resources, especially the subfield devoted to the fundamental biology of aging, despite near-universal agreement that solving aging requires understanding it first. With VCs […]"
+          "summary": "The longevity field remains small and starved for resources, especially the subfield devoted to the fundamental biology of aging, despite near-universal agreement that solving aging requires understanding it first. With VCs looking for clinical […]"
         },
         {
           "title": "HAYA Therapeutics begins dosing in Phase 1 trial for new heart failure therapy",
@@ -187,6 +187,14 @@
         "https://phys.org/rss-feed/biology-news/biotechnology/"
       ],
       "articles": [
+        {
+          "title": "Proteins can be selectively controlled with radio waves",
+          "url": "https://phys.org/news/2026-06-proteins-radio.html",
+          "domain": "phys.org",
+          "date": "2026-06-02T21:00:02.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "In a significant advance in biological quantum sensing, a research team led by the Technical University of Munich (TUM) has discovered and tested a new mechanism of action in which proteins can be controlled with radio waves. In doing so, they influence a sensitive quantum state known as spin and make it visible via light. In the future, such findings could help detect and even direct biochemical processes in cells simply from the outside using radio waves."
+        },
         {
           "title": "Redesigning an elusive bacterial enzyme into an efficient green catalyst",
           "url": "https://phys.org/news/2026-06-redesigning-elusive-bacterial-enzyme-efficient.html",
@@ -258,14 +266,6 @@
           "date": "2026-06-02T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2606.00326v1 Announce Type: new Abstract: The spectral behaviour of the synaptic matrix, representing the neuronal connection strengths, is an important tool to analyze the stability and transient dynamics of a typical brain as well as its learning process and memory capacity. The complexity of the brain due to large number of neurons as well as underlying transient mechanisms e.g. homeostasis, seizure or synaptic plasticity can lead to networks with time-varying degree and type of sparsity. This renders an exact determination of the synaptic matrix not only technically difficult but also meaningless, leaving its statistical analysis as the best available theoretical approach. This motivates us to pursue a spectral analysis of the synaptic matrix models with different type of sparsity and thereby analyze latter's role on various aspects of network dynamics and stability. Our results have potential relevance for detemining the type of synaptic sparsity required to induce a specific brain function or desired transient mechanism e.g for pharmacological effects or physiological modulators."
-        },
-        {
-          "title": "Sequential chaotic oscillations in excitatory-inhibitory threshold-linear networks",
-          "url": "https://arxiv.org/abs/2606.00373",
-          "domain": "arxiv.org",
-          "date": "2026-06-02T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2606.00373v1 Announce Type: new Abstract: Metastable states, a phenomenon observed in brain dynamics and many other systems, have been proposed as a key feature of healthy brain function, reflecting a balance between integration and segregation. However, it remains unclear how to capture this behavior within a dynamical-systems framework. In this paper, we propose sequential chaotic oscillations (SCOs), arising in excitatory-inhibitory threshold-linear networks (E-I TLNs), as a candidate dynamical mechanism for sequential metastability. As a simple form of chaotic itinerancy, SCOs occur under constant input and consist of a sequence of metastable states whose transition order can be predicted by the underlying graph. To identify the parameter regime for SCOs, we develop new graph rules for E-I TLNs and use them to characterize the fixed point structure of E-I TLNs on paths and cycles. Our results show that the emergence of SCOs requires unstable singleton fixed points and sufficiently strong inhibition. In addition to SCOs, we find that E-I oscillations need not be synchronized. Motivated by this, we introduce a decomposition into the z-mode and the mean mode, which capture excitatory differences and overall network activity, respectively. These modes are then used to distinguish attractors associated with the full-support fixed point of E-I TLNs on cycles."
         }
       ]
     },
@@ -278,12 +278,52 @@
       ],
       "articles": [
         {
+          "title": "U.S. sanctions Iranian crypto exchanges in ongoing war against the country",
+          "url": "https://www.coindesk.com/policy/2026/06/02/u-s-sanctions-iranian-crypto-exchanges-in-ongoing-war-against-country",
+          "domain": "coindesk.com",
+          "date": "2026-06-02T21:49:30.000Z",
+          "source": "CoinDesk",
+          "summary": "OFAC said it was blacklisting Nobitex and three other Iranian exchanges, as well as a few executives, citing links to terror and other crimes."
+        },
+        {
+          "title": "Crypto correction vaporized $176B in investor funds: Are bears back in control?",
+          "url": "https://cointelegraph.com/markets/crypto-correction-vaporized-176b-in-investor-funds-are-bears-back-in-control?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-02T21:16:33.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bitcoin and altcoin prices crumbled as BTC lost the $70,000 level. Will investors’ pivot to AI stocks continue to weigh on crypto markets?"
+        },
+        {
+          "title": "Crypto PACs pour $3M into Maryland races as California voters head to polls",
+          "url": "https://cointelegraph.com/news/crypto-pacs-maryland-races-media-buys-california-primaries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-02T21:06:39.000Z",
+          "source": "CoinTelegraph",
+          "summary": "An affiliate of a political action committee backed by crypto companies ramped up spending on ads in California ahead of Tuesday’s primaries, but still has millions of dollars at stake in Maryland later this month."
+        },
+        {
+          "title": "US sanctions Nobitex and other Iranian crypto exchanges under ‘Economic Fury’ campaign",
+          "url": "https://www.theblock.co/post/403436/us-sanctions-nobitex-iranian-crypto-exchanges-economic-fury-campaign?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-02T20:50:53.000Z",
+          "source": "The Block",
+          "summary": "Sanctioned exchange Nobitex handled more than half of Iran's crypto inflows last year, according to the U.S. Treasury."
+        },
+        {
           "title": "Coinbase backs Ethena ahead of savings product launch for exchange's 100 million users",
           "url": "https://www.coindesk.com/business/2026/06/02/coinbase-backs-ethena-ahead-of-savings-product-launch-for-exchange-s-100-million-users",
           "domain": "coindesk.com",
           "date": "2026-06-02T20:09:53.000Z",
           "source": "CoinDesk",
           "summary": "Coinbase Ventures, the exchange's venture arm, bought Ethena tokens on the open market as the protocol is set to roll out a Coinbase integration next week."
+        },
+        {
+          "title": "Coinbase invests in ProShares ETF tailored for stablecoin reserve assets",
+          "url": "https://cointelegraph.com/news/coinbase-invests-proshares-etf-tailored-stablecoin-reserve-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-02T20:09:26.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The exchange has invested an undisclosed amount in ProShares’ Treasury-focused ETF built for the post-GENIUS era as lawmakers debate whether stablecoin issuers can offer yield-bearing products."
         },
         {
           "title": "Crypto derivatives activity slumps to late-2023 levels, but US perp market opportunity emerges",
@@ -316,46 +356,6 @@
           "date": "2026-06-02T19:17:12.000Z",
           "source": "CoinDesk",
           "summary": "The digital asset firm launched OTC prediction markets trading for institutions and completed a $10 million trade tied to U.S. crypto legislation with hedge fund Arca."
-        },
-        {
-          "title": "Tom Lee predicts ether will hit $250,000 as corporate validators take over network control",
-          "url": "https://www.coindesk.com/markets/2026/06/02/tom-lee-predicts-eth-will-hit-usd250-000-as-corporate-validators-take-over-network-control",
-          "domain": "coindesk.com",
-          "date": "2026-06-02T18:42:40.000Z",
-          "source": "CoinDesk",
-          "summary": "The Bitmine chairman said DeFi and AI could push the Ethereum network's value into the multi-trillion range, making current prices “future optionality at a discount”."
-        },
-        {
-          "title": "Bitcoin set for 'choppy summer' as capital chases high-flying AI stocks, K33 says",
-          "url": "https://www.coindesk.com/markets/2026/06/02/bitcoin-set-for-choppy-summer-as-capital-chases-high-flying-ai-stocks-k33-says",
-          "domain": "coindesk.com",
-          "date": "2026-06-02T18:42:37.000Z",
-          "source": "CoinDesk",
-          "summary": "The firm still views bitcoin as undervalued relative to equities, but says investors are rotating into AI stocks as the opportunity cost of missing gains by holding BTC is too high."
-        },
-        {
-          "title": "Ethena taps Anchorage for secure offchain collateral in institutional lending push",
-          "url": "https://www.theblock.co/post/403410/ethena-taps-anchorage-secure-offchain-collateral-institutional-lending-push?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-02T18:06:42.000Z",
-          "source": "The Block",
-          "summary": "Ethena began pivoting toward overcollateralized institutional lending in April as part of a major overhaul of USDe reserves."
-        },
-        {
-          "title": "Bitcoin gets new $50K target after BTC price crashes 6% in a day",
-          "url": "https://cointelegraph.com/markets/bitcoin-gets-new-50k-target-after-btc-price-crashes-6-in-a-day?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-02T17:54:18.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Bitcoin price bets saw $50,000 returning after 6% daily BTC price losses liquidated $1.25 billion of crypto positions."
-        },
-        {
-          "title": "CFTC chair claims Gemini case was politically motivated, seeks to reverse $5M settlement",
-          "url": "https://cointelegraph.com/news/cftc-michael-selig-gemini-politically-motivated-reverse-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-02T17:39:30.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The CFTC chair seeks to roll back an enforcement action on the company founded by Cameron and Tyler Winklevoss, donors to Donald Trump’s 2024 campaign and attendees at White House events."
         }
       ]
     }
