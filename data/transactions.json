@@ -8,6 +8,96 @@
   },
   "transactions": [
     {
+      "signature": "qFhz2T5pVnyrZLcUWkfX4vFuMMwgyG3M9KW9tuhzsjUPYWDWDSVr9XmS4LcVcrNvCYXNvt5Sej5S1jMMBR3LMan",
+      "type": "Transfer",
+      "amountText": "6.825",
+      "from": "6ACwobpN5CJB7TNdJcHpRHqStvS96AH7kvXqiDaeCzLx",
+      "to": "2eCdmJKwGZ9f7rNEYqdAMf2w1hiicWd7awnKzvJihxTg",
+      "blockTime": 1780431382,
+      "slot": 423880124
+    },
+    {
+      "signature": "gfNoeLsEgwNHJvg793ChRtkrYnyMkBSHGVt6YMrV43Jencp3XAfruoatUN7DbJibvRp6ZccD9hEM6zCJMdkeWC4",
+      "type": "Transfer",
+      "amountText": "7",
+      "from": "DbmkiP4V73C5RTqs76UjnY3AGxUaowaHeckeZuYcmJUP",
+      "to": "6ACwobpN5CJB7TNdJcHpRHqStvS96AH7kvXqiDaeCzLx",
+      "blockTime": 1780431376,
+      "slot": 423880109
+    },
+    {
+      "signature": "5zvjAAbyZt3MDR8RtFsY7XF75rrBtagV4RJu1bx8kssooWmCBYbdrAm2PpaehJPX5JLgBEkN73QMyJGpoimzvcLo",
+      "type": "Transfer",
+      "amountText": "29.25",
+      "from": "6ACwobpN5CJB7TNdJcHpRHqStvS96AH7kvXqiDaeCzLx",
+      "to": "kjLVW7s9tVyXq8aEFyLARXNLqcJoUDysqHj8z9ToMUX",
+      "blockTime": 1780430901,
+      "slot": 423878918
+    },
+    {
+      "signature": "5jJCig8q9D2wUTR23QNWaxJHJ44W34RuWn2mfPF4EGoxmW4g7z7SrUn9zYSQ1spTNGQLU7gf9PgkdqshqrR8JMbk",
+      "type": "Transfer",
+      "amountText": "30",
+      "from": "3mQLhVF8WB334XcAS22RwwhL4zaDy1anVauyUJ93tTqq",
+      "to": "6ACwobpN5CJB7TNdJcHpRHqStvS96AH7kvXqiDaeCzLx",
+      "blockTime": 1780430892,
+      "slot": 423878894
+    },
+    {
+      "signature": "3KCwh3SxzM37DcdnRL3FK12cGoaei2tAjL666gjgPoGmbADJLLnKGHbHRBEaGn4zHSjfQSNuDh4UsYdRUbGJ1pTP",
+      "type": "Transfer",
+      "amountText": "7.8",
+      "from": "6ACwobpN5CJB7TNdJcHpRHqStvS96AH7kvXqiDaeCzLx",
+      "to": "FcxtGxxdYPtwdobmzDRr3hqM2L4RGWvQ95tx6tJrVpQJ",
+      "blockTime": 1780429109,
+      "slot": 423874439
+    },
+    {
+      "signature": "5AeUCqqNt6LVhvLYkHQ6i9gSDH7N2PzVu14q37hNnjN8eF4vYjFLDopr5MtJQMC3iBkVUsTqeiANernPQAioig9M",
+      "type": "Transfer",
+      "amountText": "8",
+      "from": "D2tidqfcrEnc5BkCbk796xGDBJxf56Hj6qsPWUEkAQCy",
+      "to": "6ACwobpN5CJB7TNdJcHpRHqStvS96AH7kvXqiDaeCzLx",
+      "blockTime": 1780429093,
+      "slot": 423874401
+    },
+    {
+      "signature": "4penqZFgoPj7r3sxsnNNWUERHoE8onaHevDfmGzFCR5t3DNmVGDp5yc2n11ExBoAgGWuVw5rzgR9UcYStPxGRjmL",
+      "type": "Transfer",
+      "amountText": "7.8",
+      "from": "6ACwobpN5CJB7TNdJcHpRHqStvS96AH7kvXqiDaeCzLx",
+      "to": "FcxtGxxdYPtwdobmzDRr3hqM2L4RGWvQ95tx6tJrVpQJ",
+      "blockTime": 1780429024,
+      "slot": 423874226
+    },
+    {
+      "signature": "3QubG7sd6vghLBX4VUrboay75m9dx2dxsdzfH65jTDbeJmNr8QrFUxsCPHGWENmCKgqoJ7JZwDffgMYhYpxZgjsN",
+      "type": "Transfer",
+      "amountText": "8",
+      "from": "GGfmwP7HfD7AER7XWSdvMjWpy9nWJEfFkGnRE2iTD16D",
+      "to": "6ACwobpN5CJB7TNdJcHpRHqStvS96AH7kvXqiDaeCzLx",
+      "blockTime": 1780429017,
+      "slot": 423874208
+    },
+    {
+      "signature": "5eJD9zzmSv9meJXxHsRAqcEQVNBY1VhtcrWxamgXbLULNcmTLZfK5c2CFPrcjQSb3BDYqgPMmGKGYeUHEwWQjkkS",
+      "type": "Transfer",
+      "amountText": "5.11875",
+      "from": "6ACwobpN5CJB7TNdJcHpRHqStvS96AH7kvXqiDaeCzLx",
+      "to": "2eCdmJKwGZ9f7rNEYqdAMf2w1hiicWd7awnKzvJihxTg",
+      "blockTime": 1780426424,
+      "slot": 423867705
+    },
+    {
+      "signature": "3y9xgmLWJ2TjU5Ge6wiLoFtgACUUGTeF2g1d62gFgvLJ55vTc6rgRJkR6tgJMUQw7ytMpuuN6K1RHTc3cdXxRkaL",
+      "type": "Transfer",
+      "amountText": "5.25",
+      "from": "DbmkiP4V73C5RTqs76UjnY3AGxUaowaHeckeZuYcmJUP",
+      "to": "6ACwobpN5CJB7TNdJcHpRHqStvS96AH7kvXqiDaeCzLx",
+      "blockTime": 1780426409,
+      "slot": 423867665
+    },
+    {
       "signature": "qJAhe21t7esU81XUGEfTp1y95NyJz4qE771aVayp7Gyay7gxNyjFztsTDmRHuYxR3SMk6VJQ3YB8Y5xvL1hVRGd",
       "type": "Transfer",
       "amountText": "1,390",
@@ -21375,9 +21465,9 @@
     }
   ],
   "stats": {
-    "last24h": 58,
-    "totalCached": 2374,
+    "last24h": 50,
+    "totalCached": 2384,
     "historyComplete": true
   },
-  "updatedAt": "2026-06-02T17:26:48.111Z"
+  "updatedAt": "2026-06-02T20:27:36.358Z"
 }
