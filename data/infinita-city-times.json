@@ -1,8 +1,14 @@
 {
   "source": "Infinita City Times",
   "feed": "https://www.infinitacitytimes.com/feed",
-  "updatedAt": "2026-06-04T12:20:31.154Z",
+  "updatedAt": "2026-06-04T16:00:27.047Z",
   "items": [
+    {
+      "title": "Ep. 110: Tomas Pueyo & Trey Goff On The Next Silicon Valley Might Be A New Country",
+      "link": "https://www.infinitacitytimes.com/p/ep-110-tomas-pueyo-and-trey-goff",
+      "date": "Thu, 04 Jun 2026 14:02:01 GMT",
+      "summary": "In this episode, the famous blogger Tomas Pueyo (Uncharted Territories) interviews Trey Goff (Chief of Staff & Head of Public Policy at Prospera) & Niklas Anzinger (Founder & CEO of Infinita City)."
+    },
     {
       "title": "Inside Infinita’s BioHub Demo Day",
       "link": "https://www.infinitacitytimes.com/p/inside-infinitas-biohub-demo-day",
@@ -56,12 +62,6 @@
       "link": "https://www.infinitacitytimes.com/p/ep-106-yaron-brook-capitalism-ayn",
       "date": "Wed, 18 Mar 2026 19:05:00 GMT",
       "summary": "Yaron Brook, chairman of the Ayn Rand Institute and host of the Yaron Brook Show, joins Niklas to discuss the moral and philosophical foundations of capitalism."
-    },
-    {
-      "title": "The Essential Tim Urban - 8 Key Reads on Technology, Time & Life Extension",
-      "link": "https://www.infinitacitytimes.com/p/the-essential-tim-urban-8-key-reads",
-      "date": "Mon, 09 Mar 2026 17:30:36 GMT",
-      "summary": "A primer ahead of Tim's visit to Prospera"
     }
   ]
 }
