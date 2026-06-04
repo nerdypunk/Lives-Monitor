@@ -8,6 +8,51 @@
   },
   "transactions": [
     {
+      "signature": "4c3bdknhvFkf17B48be2oPRCvDPyubvHm4p7pJzmg9kCV9rsvtfPoFWEaGwKHyUw7Gf4Nhfo75K555S11KPg29gv",
+      "type": "Transfer",
+      "amountText": "1.95",
+      "from": "6ACwobpN5CJB7TNdJcHpRHqStvS96AH7kvXqiDaeCzLx",
+      "to": "2eCdmJKwGZ9f7rNEYqdAMf2w1hiicWd7awnKzvJihxTg",
+      "blockTime": 1780539571,
+      "slot": 424151838
+    },
+    {
+      "signature": "3DUztmaTFHWfns1fSiMkZot1zdkRyFjEtu4cdyzCjCcA5EZbjJUDSPhyQJsSwjMToHK4nFqdwEdbDyRMSXdciBRS",
+      "type": "Transfer",
+      "amountText": "2",
+      "from": "5AZdCzDBXMqPvcmPgrrc43JhcEvZDsraQvDiFvJEwMyd",
+      "to": "6ACwobpN5CJB7TNdJcHpRHqStvS96AH7kvXqiDaeCzLx",
+      "blockTime": 1780539556,
+      "slot": 424151801
+    },
+    {
+      "signature": "3NFDnGpseFXFsjqhVcXwiDs74yuqAMKhHM9LPWf2NrwBHAHbb69ZtiiacddmpNJVxooUy4QH7yVhxU8TxyR5wDU3",
+      "type": "Transfer",
+      "amountText": "66.22199999",
+      "from": "6ACwobpN5CJB7TNdJcHpRHqStvS96AH7kvXqiDaeCzLx",
+      "to": "kjLVW7s9tVyXq8aEFyLARXNLqcJoUDysqHj8z9ToMUX",
+      "blockTime": 1780536379,
+      "slot": 424143854
+    },
+    {
+      "signature": "q6MNW32RURQMFDARJBoBz5NMHGpstfN4g6FPGwRRWP5owPX57sHZvU8uj9onGYvU1oAxggz3XNTTLS5CeqSbvJT",
+      "type": "Transfer",
+      "amountText": "67.92",
+      "from": "5pQeCNudBV8juFjAXcGo7ES8oEdSeXckUw9DBKR7VhHF",
+      "to": "6ACwobpN5CJB7TNdJcHpRHqStvS96AH7kvXqiDaeCzLx",
+      "blockTime": 1780536365,
+      "slot": 424143819
+    },
+    {
+      "signature": "3pJCNM2EMVwJ1tXjp2cUzusEAqDVn1SmmWyMCqmJCKXBQLuq9bceHCkCuoyZxPZz2rWbHjRAtTK6yHpYYJgjnf9M",
+      "type": "Transfer",
+      "amountText": "80",
+      "from": "uCWHaqAhTUc9SjCbaNpMUrvumDhLTLcVDRXrXnKbsKU",
+      "to": "5pQeCNudBV8juFjAXcGo7ES8oEdSeXckUw9DBKR7VhHF",
+      "blockTime": 1780535591,
+      "slot": 424141894
+    },
+    {
       "signature": "5RMz9BuW27K3iDCcZauVDw7aDLQRHk5nazezteojVJKBWWv69t4beRrsrvQAxKBuExxZcJ85Wgk6HrweeCpn4Ggo",
       "type": "Transfer",
       "amountText": "4.7",
@@ -21978,9 +22023,9 @@
     }
   ],
   "stats": {
-    "last24h": 36,
-    "totalCached": 2441,
+    "last24h": 29,
+    "totalCached": 2446,
     "historyComplete": true
   },
-  "updatedAt": "2026-06-04T00:02:28.473Z"
+  "updatedAt": "2026-06-04T05:07:48.577Z"
 }
