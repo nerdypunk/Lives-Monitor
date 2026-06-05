@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-05T01:54:41.769Z",
+  "updatedAt": "2026-06-05T06:28:19.483Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -33,14 +33,6 @@
           "summary": "What Is Decentralized Science (DeSci)? &nbsp;&nbsp; Binance"
         },
         {
-          "title": "Manadia Partners with NanoVita to Advance AI-Powered DeSci Infrastructure - Cryptonews.net",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE44ZEczTDNpVHBqNHNnMjhCVEJKY2pXVW5yZjRYa1B1aXRFOHBHNmlnLXJYYnV1X2dNRlEzcGVWeTZyeHZibFJJVFpaREdKczgySndpbFJ5NTZqeUdu?oc=5",
-          "domain": "cryptonews.net",
-          "date": "2026-05-18T07:00:00.000Z",
-          "source": "Cryptonews.net",
-          "summary": "Manadia Partners with NanoVita to Advance AI-Powered DeSci Infrastructure &nbsp;&nbsp; Cryptonews.net"
-        },
-        {
           "title": "PEPTAI Price Swings Wild As Base Integration Fuels DeSci Hype - Cryptonews.net",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pWlYzNnNoQ0F6ejRZSmlzejkxdWZFQnB4N0NYSjFvNUd5NkdYeWFWRlgyVW43VFNQbzBVX0pKc1UwYkhibXdFb0VZdmtEdmNfejRuZk9RWDdndw?oc=5",
           "domain": "cryptonews.net",
@@ -63,6 +55,14 @@
           "date": "2026-05-04T07:48:22.000Z",
           "source": "PANews",
           "summary": "BIO doubled in three days, DeSci blossomed: Can AI Agents revive decentralized science? &nbsp;&nbsp; PANews"
+        },
+        {
+          "title": "DeSci Has Raised Millions For Research No VC Would Ever Touch - Yellow.com",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQzAtQWJmSEtGX1pXdWVOR0RsRnhXWGp4S2VYUEhXREJiM1ljR01reDZfS1hwU0g3eTMzaFdOdnVJb3l2R2lNdmdCVEhuUWExYjB0VTNReUIwUlRxTjhrdmlCV1d5R3VXbGtRWFp3eGQ0VTV0SjhZdGpNOGV2dDNYcnVodm9PWWJHYlE?oc=5",
+          "domain": "yellow.com",
+          "date": "2026-05-04T06:44:18.000Z",
+          "source": "Yellow.com",
+          "summary": "DeSci Has Raised Millions For Research No VC Would Ever Touch &nbsp;&nbsp; Yellow.com"
         },
         {
           "title": "Bio Protocol leads Korea's Upbit trading with extreme greed signal, signaling high volatility and profit-taking. - Pluang",
@@ -103,7 +103,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-04T17:37:51.000Z",
           "source": "Lifespan.io",
-          "summary": "Researchers have discovered that the osteoarthritis-inducing effects of excessive mechanical stress can be mitigated by increasing miR-330, a key regulator in cartilage and bone cells. Backbreaking labor is […]"
+          "summary": "Researchers have discovered that the osteoarthritis-inducing effects of excessive mechanical stress can be mitigated by increasing miR-330, a key regulator in cartilage […]"
         },
         {
           "title": "Axo Longevity to showcase preventive health at Longevity Show",
@@ -188,84 +188,84 @@
       ],
       "articles": [
         {
-          "title": "Novel synthetic biomolecule degrades disease-related proteins",
-          "url": "https://phys.org/news/2026-06-synthetic-biomolecule-degrades-disease-proteins.html",
-          "domain": "phys.org",
-          "date": "2026-06-04T21:40:05.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Northwestern Medicine scientists have developed a novel synthetic biomolecular condensate that can degrade intracellular disease-causing proteins, providing a framework for new therapeutic approaches for a wide range of diseases, as detailed in a recent study published in Nature Communications."
+          "title": "Bio-plausible Neuromorphic Disturbance Observer Based on Emulation Theory: Extended Version",
+          "url": "https://arxiv.org/abs/2606.05189",
+          "domain": "arxiv.org",
+          "date": "2026-06-05T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2606.05189v1 Announce Type: new Abstract: Biological neural systems achieve remarkable robustness and adaptability in uncertain environments through sparse, event-driven spike-based information processing and adaptive regulation. Inspired by this paradigm, this paper develops a neuromorhpic disturbance observer (NDO) and control framework that replaces conventional continuous-time signal representations with spike-timing encoding. Both disturbance estimates and control inputs are constructed via integrate-and-fire (IF) neuron dynamics from discrete spike events, yielding intrinsically event-driven updates. An adaptive-threshold triggering mechanism is inspired by spike-frequency adaptation (SFA), enabling history-dependent regulation of spike generation. Simulation results demonstrate that the proposed framework achieves neurally inspired robustness and adaptability, while the adaptive-threshold spiking scheme reduces spike events to 42.6% of the fixed-threshold case under noisy conditions."
         },
         {
-          "title": "Oxygenation and spatial heterogeneity shape radiotherapy protocol ranking through phenotypic adaptation",
-          "url": "https://arxiv.org/abs/2606.04004",
+          "title": "Uniform sampling of canalizing Boolean functions reveals hidden biases in Boolean network analysis",
+          "url": "https://arxiv.org/abs/2606.05196",
           "domain": "arxiv.org",
-          "date": "2026-06-04T04:00:00.000Z",
+          "date": "2026-06-05T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2606.04004v1 Announce Type: new Abstract: Tumor response to radiotherapy is strongly influenced by oxygen availability and phenotypic heterogeneity, yet their combined impact on the relative performance of fractionation schedules remains unclear. Here, we develop a mathematical model that integrates spatial oxygen dynamics with continuous phenotypic adaptation to hypoxia and radiation, and use it to systematically compare radiotherapy protocols under a common normal-tissue toxicity constraint. Under spatially uniform oxygenation, we find that alternative fractionation schedules provide little improvement over standard-of-care protocols in normoxic conditions. Under moderate hypoxia, however, a distinct class of protracted schedules with longer inter-fraction intervals substantially increases time-to-progression, in some cases by up to twofold. This regime-dependent benefit is consistent with a shift in the balance between reoxygenation and selection for resistant phenotypes. When oxygen delivery is spatially heterogeneous, treatment outcomes depend strongly on the geometric organization of oxygen sources. Even with identical total oxygen supply, different spatial configurations lead to large variability in time-to-progression and can alter the relative ranking of radiotherapy protocols. These results show that radiotherapy effectiveness is not an intrinsic property of a treatment schedule alone, but emerges from its interaction with tumor microenvironmental structure and evolutionary dynamics. Incorporating both spatial heterogeneity and phenotypic adaptation may therefore be important for the consistent evaluation and design of fractionation strategies in heterogeneous tumors."
+          "summary": "arXiv:2606.05196v1 Announce Type: new Abstract: Boolean networks are widely used to model gene regulatory systems, where ensembles of Boolean functions serve as null models for assessing structural and dynamical properties. A common approach generates canalizing and nested canalizing functions by sampling their defining parameters uniformly at random. However, because multiple parameterizations can represent the same Boolean function, this induces a non-uniform distribution over distinct functions and systematically biases random ensembles. Here, we develop efficient algorithms for uniform sampling of Boolean functions with prescribed exact or minimal canalizing depth that correct this bias. Our approach combines dynamic programming for sampling canalizing layer structures with rejection-based methods and is implemented in BoolForge. We show that the sampling scheme substantially affects commonly studied function-level metrics. Under traditional parameter-uniform sampling, the expected average sensitivity of nested canalizing functions equals one independent of the number of variables. In contrast, under function-uniform sampling, the expected sensitivity increases with system size and numerically approaches approximately 1.183. This discrepancy arises from an exponential suppression of high-sensitivity functions under parameter-based sampling. These differences propagate to Boolean network models, affecting conclusions about robustness, stability, attractor structure, and baseline dynamical expectations. Revisiting 122 published Boolean gene regulatory network models, we show that function-uniform null models reveal a substantially stronger enrichment of low-sensitivity canalizing architectures than previously inferred. Our results demonstrate that widely used null models systematically underestimate baseline sensitivity and can therefore distort assessments of the stabilizing role of canalization in biological networks."
         },
         {
-          "title": "The Variance Brain Foundation Models Forgot: Third-Order Statistics Predict Cognition Where Billion-Parameter Models Fail",
-          "url": "https://arxiv.org/abs/2606.04010",
+          "title": "An accurate nucleic acid-small molecule docking framework via geometric deep learning with large-scale pretraining",
+          "url": "https://arxiv.org/abs/2606.05198",
           "domain": "arxiv.org",
-          "date": "2026-06-04T04:00:00.000Z",
+          "date": "2026-06-05T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2606.04010v1 Announce Type: new Abstract: Brain foundation models (BFMs) are self-supervised Transformers pretrained on fMRI data. We posit that these models should capture each subject's cognitive performance from their fMRI signal. Yet across three state-of-the-art BFMs and every readout we test, they predict cognition worse than a linear regression from the $\\sim$80K parameters of the functional connectivity matrix (FC). The gap widens with scale: BrainLM's 650M model predicts cognition worse than its 111M. We attribute this to a \\textbf{variance allocation problem}: BFM pretraining captures the variance components that dominate fMRI but not the higher-order structure that predicts cognition. Our per-cumulant analysis of the reconstructed signal shows that the second-order covariance is partially preserved, while the third-order co-skewness tensor is largely destroyed. To recover what BFMs lose, we design a linear pipeline that projects the fMRI signal into the subspace that best preserves its co-skewness and computes FC there. This \\textbf{exceeds raw FC and every pretrained BFM} on every dataset and parcellation we test, outperforming prior state-of-the-art under controlled evaluation \\textbf{with no pretraining and no GPU}. We \\textbf{recover the raw-FC ceiling on BrainLM's forward pass} by finetuning with a loss targeted at this same subspace. This shows that the bottleneck is the pretraining objective, not the architecture or the model size."
+          "summary": "arXiv:2606.05198v1 Announce Type: new Abstract: Nucleic acids are increasingly recognized as therapeutic targets beyond conventional protein-centered drug discovery, yet accurate and efficient docking of small molecules to nucleic acid structures remains challenging. Physics-based docking methods often show limited accuracy and efficiency, whereas deep learning approaches are constrained by the scarcity of experimentally resolved nucleic acid-ligand complexes. Here, we present NucleoDock, a deep learning framework for nucleic acid-small molecule docking. To address data scarcity, NucleoDock combines physics-guided large-scale pretraining on millions of docking-generated synthetic complexes with fine-tuning on curated experimental co-crystal structures. It further integrates sequence- and structure-informed nucleotide representations with atomistic three-dimensional features to capture both biological context and binding-site geometry. A mixture density network-based geometric scoring head is used to model conditional interaction-distance distributions for pose ranking. On an external benchmark of 125 nucleic acid-ligand complexes, NucleoDock achieved a top-1 success rate of 56 percent at an RMSD cutoff of 2.0 Angstrom, outperforming rDock with 29 percent, while generating 100 poses in approximately 5 seconds per complex. Retrospective virtual screening on the ROBIN benchmark further showed improved early enrichment. NucleoDock represents a step toward bridging the methodological gap between protein- and nucleic acid-directed computational drug discovery."
         },
         {
-          "title": "Towards an Ideometrics-Based Understanding of Consciousness, Time, Space and Dreams",
-          "url": "https://arxiv.org/abs/2606.04011",
+          "title": "Ontology-constrained multi-LLM scoring of hypothesis support in the predictive processing literature",
+          "url": "https://arxiv.org/abs/2606.05206",
           "domain": "arxiv.org",
-          "date": "2026-06-04T04:00:00.000Z",
+          "date": "2026-06-05T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2606.04011v1 Announce Type: new Abstract: From an ideometrics-based perspective, consciousness may reduce the informational entropy of many randomly possible future outcomes through ideometric processes. Consciousness enables a system to internally simulate alternative futures and then voluntarily act, based on ideometric processes, towards realising preferred states in external reality. This may explain why most humans gravitate towards futures that minimise threat and maximise survival, reproduction, safety and well-being. Ideometrics typically uses three fundamental criteria: attractiveness, feasibility and potential impact of many competing ideas. Feasibility and potential impact can, in principle, be computed by non-conscious systems, including artificial intelligence (AI). However, attractiveness may represent the consciously and emotionally experienced valuation of possible futures. Feasibility may have appeared first during evolution, while potential impact required predictive processing, and consciousness added subjective attractiveness to many alternative futures. Within this framework, subjective sense of time may be intertwined with consciousness, providing causal relating and internal ordering to external changes perceived by the senses. Time may require conscious beings to have a meaning, while consciousness may require the subjective sense of time to have a meaning. Space, in turn, provides the structured field in which ideas can acquire causal impact across nested scales. Dreaming may represent remnants of earlier evolutionary stages of internal modelling."
+          "summary": "arXiv:2606.05206v1 Announce Type: new Abstract: Fragmentation is common in interdisciplinary fields with diverse methods and theoretical commitments. Predictive coding neuroscience is a clear example: its literature spans computational theory, electrophysiology, imaging, behavior, and modeling, creating a synthesis problem that conventional meta-analysis cannot easily resolve. Here, we describe a local multi-LLM pipeline for ontology-constrained literature synthesis. The pipeline reads papers, extracts evidence, incorporates figure descriptions, assembles constrained prompts, and validates outputs against an expert glossary. We manually defined a predictive-coding glossary of thirty-six concepts grouped into three hypotheses: predictive suppression, feedforward error propagation, and ubiquity. A council of ten local language models scored 31 studies according to their agreement or disagreement with each glossary factor across local and global oddball contexts. This enabled pairwise study-agreement analysis, cross-model comparison, and three-dimensional hypothesis-space mapping. Agreement was high for some hypotheses but weaker for others, revealing structured disagreement, particularly across local versus global oddball paradigms. We further define hypothesis-space temperature, a geometric dispersion metric measuring how compactly studies occupy the hypothesis space. Temperature was lower for local oddball contexts and higher for global oddball contexts, indicating greater dispersion in the latter. The scoring geometry also allowed us to estimate vectors of change between experimental contexts. These results demonstrate that local multi-LLM councils can produce auditable disagreement measurements that map heterogeneous literatures into quantitative evidence spaces. This framework may generalize to cross-study hypothesis mapping where conventional meta-analysis lacks a common comparison space."
         },
         {
-          "title": "SpliceBind: Isoform-Aware Prediction of Binding Pocket Druggability",
-          "url": "https://arxiv.org/abs/2606.04020",
+          "title": "The Language of Elution: Autoregressive Prediction of the Next Feature in Untargeted LC-HRMS Lipidomics",
+          "url": "https://arxiv.org/abs/2606.05225",
           "domain": "arxiv.org",
-          "date": "2026-06-04T04:00:00.000Z",
+          "date": "2026-06-05T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2606.04020v1 Announce Type: new Abstract: Splice-mediated drug resistance occurs in up to 40% of patients on targeted kinase inhibitors, yet state-of-the-art druggability tools operate on single structures and cannot compare across isoforms. We introduce SpliceBind, a graph neural network framework for isoform-aware druggability prediction. Beyond improving prediction accuracy (AUROC 0.703 vs. P2Rank 0.634, p = 0.026), we address a more fundamental question: when do structural methods succeed, and when must they fail? Systematic analysis of six clinically validated variants spanning five mechanism classes reveals a two-tier resistance taxonomy. Domain deletions (AR-V7, Delta = -18.39) and pocket disruptions produce structurally detectable changes, while allosteric mechanisms (BRAF-p61) remain fundamentally invisible to any pocket-centric approach -- a boundary no algorithmic improvement can cross. Notably, learned embeddings capture affinity-based resistance missed by geometry alone (ALK-L1196M: Delta_SB = -0.228 vs. Delta_P2Rank = -0.95), partially bridging the structural-biochemical gap. On 229 kinase pockets spanning 25 families, SpliceBind achieves AUROC 0.703 (p = 0.026 vs. P2Rank) with robust generalization to held-out families (AUROC 0.761). This taxonomy transforms clinical workflows: upon discovering a splice variant, clinicians can immediately determine whether computational triage suffices or biochemical validation is required -- reducing time from variant discovery to therapeutic decision."
+          "summary": "arXiv:2606.05225v1 Announce Type: new Abstract: Untargeted liquid chromatography-high-resolution mass spectrometry (LC-HRMS) detects thousands of molecular features per sample, yet only 2-20% receive confident structural annotations. A root cause of this \"dark metabolome\" is that tandem MS/MS acquisition is reactive: instruments select precursors only after ions appear, blind to what elutes next. We reframe chromatographic elution as an autoregressive sequence prediction task. Because reversed-phase elution order is governed by hydrophobicity, successive features form a physically constrained sequence, like tokens in language. We discretize the mass-to-charge (m/z) axis into 110 bins and train long short-term memory (LSTM) and Transformer models to predict the next eluting m/z bin from five annotation-free per-token features: m/z bin, mass defect, retention-time gap, polarity, and intensity rank. Trained on 15,242 features from four clinical lipidomics cohorts (342 plasma samples; SCIEX TripleTOF 6600+, Waters CSH C18), the LSTM reaches 98.4% top-1 accuracy (99.99% top-5; mean absolute error 3.6 Da) and the Transformer 98.0%. Ablation shows autoregressive context accounts for 55.5 percentage points while no single feature contributes more than 0.2 pp: the sequential pattern, not molecular properties, drives prediction. Models transfer across instruments sharing the method (r=0.999 on an independent Agilent 6530 dataset) but fail under a different column chemistry (5.1% top-1) or polarity mode (2.6%), confirming method- and mode-specificity. Fine-tuning on as few as two to five quality-control injections recovers held-out accuracy from 2.6% to nearly 50%, so cross-condition deployment needs minimal calibration. These results establish that elution sequences are highly predictable and lay the groundwork for predictive MS/MS acquisition to improve annotation coverage in untargeted metabolomics."
         },
         {
-          "title": "Structure-Aware Prediction of PROTAC-Mediated Protein Degradability via Graph Neural Networks",
-          "url": "https://arxiv.org/abs/2606.04021",
+          "title": "Quantifying the biophysical properties of stomatocytes in health and disease",
+          "url": "https://arxiv.org/abs/2606.05227",
           "domain": "arxiv.org",
-          "date": "2026-06-04T04:00:00.000Z",
+          "date": "2026-06-05T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2606.04021v1 Announce Type: new Abstract: Proteolysis-targeting chimeras (PROTACs) can selectively degrade disease-causing proteins, yet predicting which targets are amenable to degradation remains a critical bottleneck: existing computational methods require the complete PROTAC molecular structure, information unavailable before synthesis. We present DegradoMap, a graph neural network that predicts PROTAC-mediated degradability from protein structure and E3 ligase identity alone -- the minimal information available at the target selection stage. The model encodes biophysical priors through lysine-weighted graph pooling with per-protein normalization, models protein-E3 compatibility via cross-attention, and integrates cellular context from the Cancer Dependency Map. On the PROTAC-8K benchmark (3,101 samples, 155 targets, 10 E3 ligases), DegradoMap achieves 0.646+-0.124 AUROC on target-unseen evaluation (best seed: 0.7449) and 0.811 AUROC on CRBN->VHL E3-unseen transfer, outperforming GNN and machine learning baselines. The model additionally recommends optimal E3 ligases with 74% Hit@3 accuracy. Two findings carry broader implications: E(3)-equivariant architectures underperform the simpler invariant design for this scalar prediction task, and ESM-2 embeddings improve peak performance only with careful regularization -- naive integration fails. DegradoMap provides pre-synthesis computational guidance for degradability assessment; its well-calibrated confidence scores (ECE = 0.029, target-unseen) enable practitioners to prioritize high-confidence predictions for experimental follow-up. However, the high seed variance (std = 0.124) and limited E3 coverage require ensembling for reliable deployment."
+          "summary": "arXiv:2606.05227v1 Announce Type: new Abstract: Hereditary stomatocytosis (HS) comprises red blood cell (RBC) disorders characterized by cup-shaped erythrocytes that respond oppositely to splenectomy: curative in overhydrated HS (OHS) but potentially thrombogenic in dehydrated HS (DHS/xerocytosis). This paradox persists because RBC biomechanics is governed by partly independent parameters--shear modulus, bending rigidity, surface-to-volume ratio (S/V), and cytoplasmic viscosity--that existing assays capture only piecemeal. Here we combine dissipative particle dynamics (DPD) simulations with microfluidic imaging to construct a control discocyte and three stomatocyte models (ST-RBC1-3) at fixed membrane area and decreasing volume (109.7, 101.5, 89.8 fL), spanning the OHS-to-DHS range. Tracing this parameter set through five mechanically orthogonal assays, we find that interendothelial-slit (IES) traversal is geometry-dominated: overhydrated ST-RBC1 requires an order of magnitude higher critical pressure than healthy RBCs, whereas dehydrated ST-RBC3 passes freely. ST-RBC3 nonetheless suppresses membrane tank-treading and raises low-shear whole-blood viscosity by ~29% at physiological haematocrit, comparable to Gaucher-disease hyperviscosity. A funnel-obstacle chip amplifies these differences into a label-free centerline-offset signal predicted to separate all four RBC types (~4.5 standard deviations between extreme phenotypes). These results unite single-cell mechanics, splenic filtration, and hemorheology in one framework, resolve the splenectomy paradox, and point toward microfluidic pre-operative risk stratification in HS."
         },
         {
-          "title": "SC-TauPath: A Structural Connectivity Attribution Framework for Mapping Tau Propagation Pathways in Alzheimer's Disease",
-          "url": "https://arxiv.org/abs/2606.04066",
+          "title": "AlloGen: Conformation-Selective Binder Generation with Differential State Scoring",
+          "url": "https://arxiv.org/abs/2606.05474",
           "domain": "arxiv.org",
-          "date": "2026-06-04T04:00:00.000Z",
+          "date": "2026-06-05T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2606.04066v1 Announce Type: new Abstract: Understanding how structural connections are associated with tau propagation in Alzheimer's disease (AD) remains a central open question, yet existing computational models either rely heavily on biophysical assumptions or lack neurobiologically interpretable pathway maps. We present SC-TauPath, a structural connectivity (SC) attribution framework that maps tau propagation pathways from in vivo neuroimaging data. SC-TauPath combines a Network Diffusion Model (NDM)-augmented multilayer perceptron with gradient $\\times$ input attribution to score each SC edge's contribution to tau prediction, then translates these attribution scores into multi-scale pathway maps (backbone edges, high-traffic routes, and hub ROIs), which validates established Braak staging anatomy. Applied to 234 ADNI participants with paired DTI SC and 18F-Flortaucipir PET, SC-TauPath achieves strong cross-validated tau prediction and yields attribution-based pathway maps consistent with established Braak staging anatomy, demonstrating that SC encode spatially specific information about regional tau distribution in AD."
+          "summary": "arXiv:2606.05474v1 Announce Type: new Abstract: Protein binder design has largely optimized for affinity alone, leaving conformational selectivity unaddressed: for allosteric targets such as kinases, nuclear receptors, and GPCRs, a binder that engages both active and inactive states provides no functional specificity regardless of how tightly it binds. We introduce AlloGen, a modular framework that decouples backbone generation from a learned state-selectivity scorer $Q_\\theta$, an SE(3)-invariant interface graph transformer trained via a two-phase curriculum that first learns interface geometry before imposing conformational discrimination. Because $Q_\\theta$ is fully differentiable and generator-agnostic, it integrates with any backbone generator as a passive reranker or an active gradient-based guide without retraining. Across a diverse benchmark of proteins spanning multiple families and conformational mechanisms, AlloGen consistently identifies binders that preferentially recognize desired structural states while rejecting alternative conformations. Experimental validation on calmodulin further demonstrates that these computational selectivity signals translate to physical molecules, yielding de novo peptides that bind the desired holo conformation while exhibiting no detectable binding to the apo state. Together, these results establish conformational selectivity as a learnable property and provide a general framework for state-selective protein binder design."
         },
         {
-          "title": "EpiFormer: Learning Antigen-Antibody Interactions for Epitope Prediction via Geometric Deep Learning",
-          "url": "https://arxiv.org/abs/2606.04154",
+          "title": "Cross-scale spatially-aware generative modeling of transcriptomic programs underlying neurodegenerative brain organization",
+          "url": "https://arxiv.org/abs/2606.05870",
           "domain": "arxiv.org",
-          "date": "2026-06-04T04:00:00.000Z",
+          "date": "2026-06-05T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2606.04154v1 Announce Type: new Abstract: Antibodies neutralize foreign antigens by binding to specific surface regions called epitopes. Computational epitope prediction is critical for understanding immune recognition and guiding antibody engineering. However, existing methods face three fundamental challenges: antibody-aware models encode each chain independently and combine them only at a late stage, failing to capture co-dependent structural features that define binding interfaces, whereas severe class imbalance and scarcity of known antibody-antigen complexes render standard training objectives ineffective. We propose EpiFormer, a general encoder-decoder framework that addresses these challenges jointly. Our key design principle is interleaved cross-attention within GNN encoding layers, enabling bidirectional antigen-antibody information flow throughout representation learning rather than only at the output. This early-fusion principle is backbone-agnostic, providing consistent gains across GNN architectures from simple GCNs to equivariant models. We further show that sparsity-aware objectives are effective when paired with early-fusion architectures for the epitope prediction task. EpiFormer improves over the previous best method by over 40% in F1 score on standard benchmarks, demonstrating generalizability and cross-dataset transferability. Notably, EpiFormer discovers known biological principles as emergent behaviors of end-to-end training, where the learned cross-attention gates favor antigen-to-antibody information flow, consistent with the asymmetric roles of the two chains at the binding interface, and the model's preference for geometric over evolutionary features aligns with the established finding that epitope residues are not evolutionarily conserved. The source code is available at: https://github.com/mansoor181/epiformer.git"
+          "summary": "arXiv:2606.05870v1 Announce Type: new Abstract: Neurodegenerative disorders such as Alzheimer's disease exhibit highly organized patterns of regional brain vulnerability, yet the biological mechanisms underlying this spatial selectivity remain incompletely understood. Existing imaging-transcriptomic studies have largely relied on correlation-based analyses between gene expression and neuroimaging phenotypes, limiting their ability to model how molecular organization gives rise to neurodegeneration. Here, we introduce a cross-scale spatially-aware generative framework for modeling transcriptomic programs underlying cortical neurodegeneration. Regional transcriptomic profiles were derived from the Allen Human Brain Atlas using 910 landmark genes across 68 cortical regions. Neurodegenerative vulnerability maps were constructed from ADNI FreeSurfer cortical thickness measurements by computing regional cortical thinning differences between cognitively normal controls (NC = 926) and Alzheimer's disease subjects (AD = 426). A variational generative architecture was used to learn latent biological programs linking regional gene-expression organization to cortical degeneration while incorporating graph-based spatial smoothness regularization to preserve cortical organization. The proposed framework achieved strong prediction of regional neurodegenerative vulnerability, yielding an explained variance of 0.8604 and a significant spatial correlation between predicted and observed cortical degeneration profiles (r = 0.9439, p < 0.001). The learned latent representations revealed structured transcriptomic organization associated with distributed disease susceptibility. These findings demonstrate that biologically constrained generative modeling can bridge microscale molecular organization with macroscale neurodegeneration, providing a foundation for spatially-aware generative neurobiology and computational neuroscience."
         },
         {
-          "title": "An Octahedral Fibrous Constitutive Model for Heart Valve Mechanics and Function",
-          "url": "https://arxiv.org/abs/2606.04234",
+          "title": "Federated SPARQL querying for genomic variant functional annotation",
+          "url": "https://arxiv.org/abs/2606.05918",
           "domain": "arxiv.org",
-          "date": "2026-06-04T04:00:00.000Z",
+          "date": "2026-06-05T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2606.04234v1 Announce Type: new Abstract: Fibrous soft tissues derive their nonlinear mechanical response from networks of extracellular matrix fibers, whose organization gives rise to strain stiffening, the reverse Poynting effect, and anisotropic mechanical behavior. Motivated by these coupled features, we develop an anisotropic hyperelastic model for fibrous biological tissues that accounts for the contribution of the fiber network under both tensile and compressive deformation. We calibrate the model to experimental data for mitral valve leaflets using an inverse finite element approach that is coupled to automatic differentiation to facilitate efficient parameter calibration. Using the calibrated model, we investigate how anisotropy and fiber reorientation affect valve deformation under physiological loading. The results show that greater leaflet compliance in the radial direction yields proper valve closure, whereas localized fiber reorientation leads to stress concentrations that may promote progressive functional degradation. Fiber reorientation that makes the circumferential direction more compliant than the radial direction compromises valve closure and leads to mitral regurgitation. Chordal softening further amplifies the severity of this regurgitant response. These findings suggest that alterations in fiber architecture, especially when accompanied by chordal degradation, can contribute to the onset and progression of mitral valve incompetence."
+          "summary": "arXiv:2606.05918v1 Announce Type: new Abstract: Sensitive health data should preferentially be analysed on site. In typical bioinformatics workows, public databases are duplicated and used by specialised tools to enrich the local datasets. In the case of genomic variation data, this process is called variant annotation. In this session we demonstrate variant annotation using federated SPARQL queries. We rst overview how clinico-genomic data can be modelled as a knowledge graph (KG), leveraging state-of-the-art biomedical ontologies. We then perform variant annotation by querying UniprotKB, a massive curated KG for gene and proteins. Our approach avoids public data duplication while maintaining genomic data on site and aligning it with FAIR principles. Our use-case is based on the ICAN project, a research program aimed at studying the physiopathology of cerebral berry aneurysms."
         },
         {
-          "title": "Discrete signaling mediates chaotic regularization in recurrent neural networks",
-          "url": "https://arxiv.org/abs/2606.04426",
+          "title": "On the Promises and Limits of Multi-omics Integration for Deconvolution: The HADACA3 Benchmark",
+          "url": "https://arxiv.org/abs/2606.05980",
           "domain": "arxiv.org",
-          "date": "2026-06-04T04:00:00.000Z",
+          "date": "2026-06-05T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2606.04426v1 Announce Type: new Abstract: Cortical circuits operate in a regime of intrinsic chaos, where even tiny changes in input can lead to divergent neural responses. Yet, remarkably, population codes in the brain vary smoothly with sensory stimuli, forming coherent representational manifolds. How can chaotic networks sustain such stable coding? Here, we develop a theoretical framework that links the microscopic chaos of recurrent networks to the macroscopic geometry of neural representations. Combining kernel methods with dynamical mean-field theory, we show that chaotic dynamics induce local roughness (introducing sharp distortions at small scales) while preserving global smoothness across larger stimulus variations. This structural property acts as an intrinsic regularizer, enhancing generalization while maintaining expressivity. Moreover, we show how chaotic networks naturally produce power-law spectral signatures, closely matching experimental observations in cortical recordings. These results explain how chaotic spiking networks can sustain smooth, differentiable population codes and establish a theoretical framework linking network dynamics, computational structure, and recorded neural activity."
+          "summary": "arXiv:2606.05980v1 Announce Type: new Abstract: Understanding the cellular composition of complex tissues, such as tumors, is a key challenge in biology and medicine. A common approach, known as deconvolution, aims to estimate the cellular composition from bulk molecular measurements. With the growing availability of multiple types of molecular data, it is often assumed that combining data sources should improve deconvolution performance. Here, we present HADACA3, a community-driven benchmark designed to evaluate this assumption. We conducted a four-day collaborative competition followed by a large-scale computational benchmark, testing more than 250,000 analysis pipelines across nine datasets with matched DNA methylation (DNAm) and RNA profiles, representing a wide range of biological and experimental conditions. Our framework jointly evaluates the impact of preprocessing, feature selection, modeling, and integration strategies. We find that DNAm alone achieves the highest median performance across datasets, making it the most stable and reliable single-modality approach. However, multi-omics integration strategies can regularly achieve higher top performance in specific datasets and pipeline configurations. Among the tested strategies, late integration based on error-weighted averaging provides a strong and reliable baseline, while non-linear early integration methods, such as optimal transport, show promising results on real biological datasets. Overall, our results show that multi-omics integration does not systematically improve average performance over DNAm alone, but can improve best-case performance in specific settings. This highlights a trade-off between robustness and peak performance, and emphasizes the importance of aligning integration strategies with the statistical properties of the data. All data, code, and evaluation tools are publicly available to support reproducible research and future method development."
         }
       ]
     },
@@ -278,84 +278,84 @@
       ],
       "articles": [
         {
+          "title": "Bitcoin in danger of dropping to $60,000, with Zcash bulls turning their backs on ZEC",
+          "url": "https://www.coindesk.com/tech/2026/06/05/bitcoin-in-danger-of-dropping-to-usd60-000-with-zcash-bulls-turning-their-backs-on-zec",
+          "domain": "coindesk.com",
+          "date": "2026-06-05T06:18:59.000Z",
+          "source": "CoinDesk",
+          "summary": "AI bets are recording rapid profit-taking as Broadcom as outlook for AI-chip sales fell short of high expectations, driving down crypto markets."
+        },
+        {
+          "title": "What Is an XRP ETF? A Complete Guide to XRP Exchange-Traded Funds",
+          "url": "https://www.theblock.co/learn/403712/what-is-an-xrp-etf-a-complete-guide-to-xrp-exchange-traded-funds?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-05T06:08:41.000Z",
+          "source": "The Block",
+          "summary": "What Is an XRP ETF? An XRP ETF is an exchange-traded fund that tracks the price of XRP. These funds trade on regulated stock exchanges such as the New York Stock Exchange or Nasdaq. Instead of buying XRP on a crypto exchange and holding it in a digital wallet, investors purchase ETF shares through a [&hellip;]"
+        },
+        {
+          "title": "Bitcoin plunges to near $62,000 as the AI trade unwinds, HYPE falls 14%",
+          "url": "https://www.coindesk.com/markets/2026/06/05/bitcoin-plunges-to-near-usd62-000-as-the-ai-trade-unwinds-hype-falls-14",
+          "domain": "coindesk.com",
+          "date": "2026-06-05T06:08:32.000Z",
+          "source": "CoinDesk",
+          "summary": "Broadcom's disappointing AI chip outlook pulled the Nasdaq lower for a third session, dragged Asian equities down with it, and took crypto along for the ride."
+        },
+        {
+          "title": "Anthropic's warning: AI is on the cusp of getting smarter on its own",
+          "url": "https://cointelegraph.com/news/anthropic-ai-self-improvement-agents-recursive-development?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-05T06:03:52.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Companies have been developing AI very quickly to stay ahead of the market, but Favaro and Clark argue that a slowdown would allow more time to deal with the technology’s implications."
+        },
+        {
+          "title": "Zcash plummets 30% as Shielded Labs reveals a major bug that went undetected for four years",
+          "url": "https://www.coindesk.com/markets/2026/06/05/zcash-plummets-30-as-developer-reveals-a-major-bug-that-went-undetected-for-four-years",
+          "domain": "coindesk.com",
+          "date": "2026-06-05T05:43:07.000Z",
+          "source": "CoinDesk",
+          "summary": "Shielded Labs revealed that the bug could have helped an attacker print unlimited counterfeit tokens. That could have damaged trust in the token's supply and its value."
+        },
+        {
+          "title": "ZEC drops 30% after Anthropic AI finds Zcash counterfeit vulnerability",
+          "url": "https://cointelegraph.com/news/zec-tanks-30-after-ai-security-review-discovers-critical-zcash-vulnerability?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-05T05:09:56.000Z",
+          "source": "CoinTelegraph",
+          "summary": "ZEC market capitalization fell by almost $3 billion over the past 24 hours following the disclosure of a critical vulnerability, despite it being patched already."
+        },
+        {
+          "title": "Senate Republicans push finance watchdogs to clarify crypto capital rules",
+          "url": "https://cointelegraph.com/news/senate-republicans-push-finance-regulators-to-clarify-crypto-capital-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-05T04:26:57.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Senator Cynthia Lummis has led a group of lawmakers urging financial regulators for “fair capital treatment for on-balance sheet treatment of digital assets.”"
+        },
+        {
+          "title": "Security researcher finds Zcash vulnerability allowing ‘unlimited’ counterfeit minting; ZEC drops 31%",
+          "url": "https://www.theblock.co/post/403698/zcash-vulnerability-zec-drops?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-05T03:16:08.000Z",
+          "source": "The Block",
+          "summary": "The vulnerability was fixed within days, and findings suggest that actual exploitation of the bug is unlikely."
+        },
+        {
+          "title": "JPMorgan, Citi-backed consortium plans to launch tokenized deposit network in early 2027: WSJ",
+          "url": "https://www.theblock.co/post/403701/jpmorgan-citi-major-banks-tokenized-deposit-network?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-05T02:57:24.000Z",
+          "source": "The Block",
+          "summary": "The initiative would enable tokenized deposits to move instantly and support around-the-clock settlement, the Wall Street Journal reported."
+        },
+        {
           "title": "Comptroller says only Democrats pressuring over crypto trust charter",
           "url": "https://cointelegraph.com/news/occ-gould-political-pressure-democrats-world-liberty-financial?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
           "date": "2026-06-04T21:54:37.000Z",
           "source": "CoinTelegraph",
           "summary": "US Comptroller of the Currency Jonathan Gould and New York Representative Gregory Meeks sparred over Donald Trump’s influence on regulators he has nominated as president at a Thursday oversight hearing."
-        },
-        {
-          "title": "Bitcoin fell 21% after Strategy’s debt buyback news— Is a Terra Luna-style doom loop next?",
-          "url": "https://cointelegraph.com/markets/bitcoin-fell-21-after-strategys-debt-buyback-news-is-a-terra-luna-style-doom-loop-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-04T20:37:58.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Bitcoin price collapsed as Strategy faced tighter liquidity conditions and paused its BTC buying. Is it time to jump ship, or buy the dip?"
-        },
-        {
-          "title": "Russia targets British 17-year-old for alleging digital assets were skirting sanctions",
-          "url": "https://cointelegraph.com/news/russia-sanctions-british-teenager-ruble-stablecoin-ukraine-war?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-04T20:21:55.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Political activist Bill Browder, the teenager’s father, said his son was “the first high school student in the world to be sanctioned by an authoritarian regime” over a report on the ruble-pegged stablecoin A7A5."
-        },
-        {
-          "title": "White House crypto adviser Witt defends Clarity Act, calls it ‘pro-law enforcement’ as lawmakers race to pass bill",
-          "url": "https://www.theblock.co/post/403693/white-house-crypto-adviser-witt-defends-clarity-act-calls-it-pro-law-enforcement-as-lawmakers-race-to-pass-bill?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-04T20:08:40.000Z",
-          "source": "The Block",
-          "summary": "The White House's top cryptocurrency adviser, Patrick Witt, called the Clarity Act a \"pro-enforcement bill,\" despite pushback."
-        },
-        {
-          "title": "Professional investors dumped 52K BTC worth of ETFs in Q1, filings show",
-          "url": "https://cointelegraph.com/news/bitcoin-etf-ownership-shifts-hedge-funds-sell-banks-buy-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-04T19:53:33.000Z",
-          "source": "CoinTelegraph",
-          "summary": "US spot Bitcoin ETF ownership shifted during the market downturn as hedge funds exited positions, while banks and long-term allocators continued building exposure."
-        },
-        {
-          "title": "Crypto Clarity Act in spotlight for bad-actor provisions as Senate process grinds forward",
-          "url": "https://www.coindesk.com/policy/2026/06/04/crypto-clarity-act-in-spotlight-for-bad-actor-provisions-as-senate-process-grinds-forward",
-          "domain": "coindesk.com",
-          "date": "2026-06-04T19:41:14.000Z",
-          "source": "CoinDesk",
-          "summary": "The industry has been trying to make a case this week the Clarity Act provides law enforcement strong tools to combat illicit finance involving cryptocurrency."
-        },
-        {
-          "title": "Coinbase to launch token-backed mortgage down payments this summer",
-          "url": "https://cointelegraph.com/news/coinbase-token-backed-mortgages-fannie-mae-summer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-04T18:52:00.000Z",
-          "source": "CoinTelegraph",
-          "summary": "A Coinbase-Better Home & Finance initiative will allow qualified borrowers to use Bitcoin and USDC as collateral for home loan down payments."
-        },
-        {
-          "title": "OCC chief says Democrats applying sole political pressure in World Liberty charter choice",
-          "url": "https://www.coindesk.com/policy/2026/06/04/occ-chief-says-democrats-applying-sole-political-pressure-in-world-liberty-charter-choice",
-          "domain": "coindesk.com",
-          "date": "2026-06-04T18:19:13.000Z",
-          "source": "CoinDesk",
-          "summary": "The regulator rejected claims he's doing President Trump's bidding during a congressional hearing that also addressed the GENIUS Act stablecoin push."
-        },
-        {
-          "title": "'Dr. Doom'-backed Atlas Capital CEO says bitcoin could crash 70% before reaching $500,000",
-          "url": "https://www.coindesk.com/markets/2026/06/04/dr-doom-backed-atlas-capital-ceo-says-bitcoin-could-crash-70-before-reaching-usd500-000",
-          "domain": "coindesk.com",
-          "date": "2026-06-04T18:15:52.000Z",
-          "source": "CoinDesk",
-          "summary": "Backed by economist Nouriel Roubini, a long-time anti-bitcoin advocate, and known as 'Dr. Doom,' the Atlas CEO, Reza Bundy, shot a short-term warning for bitcoin but stayed bullish in the long-term."
-        },
-        {
-          "title": "Bitcoin bulls' fate rests on $60K support as crypto erases $2T in market cap",
-          "url": "https://cointelegraph.com/markets/bitcoin-bulls-fate-rests-on-60k-support-as-sellers-remain-in-control?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-04T17:30:15.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Bitcoin continued \"incredible\" 2022 bear market repeat behavior as sellers kept control over BTC price rebound attempts."
         }
       ]
     }
