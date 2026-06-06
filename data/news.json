@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-06T19:38:17.849Z",
+  "updatedAt": "2026-06-06T20:47:03.335Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -23,14 +23,6 @@
           "date": "2026-05-28T07:00:00.000Z",
           "source": "Binance",
           "summary": "What Is Decentralized Science (DeSci)? &nbsp;&nbsp; Binance"
-        },
-        {
-          "title": "0.0333 | BIO USDT | Bio Protocol to USDT – Binance Spot - Binance",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53SndoU2FlcDFqTUYwT05aRXRhaEl3dTB1RlhNWV9heU5IcVMzX1dpQjc0cDRYUFU4NURlQTNBQXVkeDg0eXBGSjVyUHppVWgtb0VvTDh0RDg2OUVBeWhiVk9XTjNZZHF5SGw5NG8wX1ZSbzZSVnJwTlVR?oc=5",
-          "domain": "binance.com",
-          "date": "2026-05-27T02:28:53.000Z",
-          "source": "Binance",
-          "summary": "0.0333 | BIO USDT | Bio Protocol to USDT – Binance Spot &nbsp;&nbsp; Binance"
         },
         {
           "title": "PEPTAI Price Swings Wild As Base Integration Fuels DeSci Hype - Cryptonews.net",
@@ -87,6 +79,14 @@
           "date": "2026-05-02T07:00:00.000Z",
           "source": "bloomingbit",
           "summary": "Bio Protocol Jumps 53.85% in Intraday Trading &nbsp;&nbsp; bloomingbit"
+        },
+        {
+          "title": "Bio Protocol jumps 5% on Upbit amid extreme greed and high trading volume - Pluang",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZlE3d1Yza0ZaOEVSRk02djZydnRtOW1zTlZFY2xHSU85bXZrbVYtY0xzREF4RVlXNE9yYkUxby1rQndJc0FLaFJvOTZkQU5EU0tZUFpmbXhuNC14NDFYYWdxSHlFU3FpalBIZE43N1NqbHItMDVVRFJReXdwX3hiU0duUmdfQ1NSNmJEMnJjQmRVV1ltSFE?oc=5",
+          "domain": "pluang.com",
+          "date": "2026-05-02T07:00:00.000Z",
+          "source": "Pluang",
+          "summary": "Bio Protocol jumps 5% on Upbit amid extreme greed and high trading volume &nbsp;&nbsp; Pluang"
         }
       ]
     },
@@ -119,7 +119,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-05T14:49:43.000Z",
           "source": "Lifespan.io",
-          "summary": "According to a new study, a special protein disposal system, currently found only in neurons, is linked to central hallmarks of Alzheimer’s disease [1]. The membranal proteasome Alzheimer’s disease is […]"
+          "summary": "According to a new study, a special protein disposal system, currently found only in neurons, is linked to central hallmarks of Alzheimer’s disease [1]. The membranal proteasome Alzheimer’s disease is defined in part by […]"
         },
         {
           "title": "Live long and measure",
@@ -278,7 +278,23 @@
       ],
       "articles": [
         {
-          "title": "Wallet linked to Ethereum co-founder Joseph Lubin moves 110,000 ETH to defend $259M DAI debt position",
+          "title": "Bitcoin, ether eye worst weekly rout since FTX collapse as cryptos shed $390 billion",
+          "url": "https://www.coindesk.com/markets/2026/06/06/bitcoin-ether-eye-worst-weekly-rout-since-ftx-collapse-as-cryptos-shed-usd390-billion",
+          "domain": "coindesk.com",
+          "date": "2026-06-06T19:58:54.000Z",
+          "source": "CoinDesk",
+          "summary": "A week that began with Strategy's bitcoin sale ended with one of the largest crypto market drawdowns in years."
+        },
+        {
+          "title": "Hyperion DeFi to unwind $29 million in HYPE deals with Felix, Native Markets as USDH sunsets",
+          "url": "https://www.theblock.co/post/403879/hyperion-defi-to-unwind-29m-in-hype-deals-with-felix-native-markets-as-usdh-sunsets?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-06T19:40:36.000Z",
+          "source": "The Block",
+          "summary": "Roughly 800,000 HYPE will return to the company's treasury for redeployment to \"more profitable\" strategies, per a Friday filing."
+        },
+        {
+          "title": "Wallet linked to Ethereum co-founder Joseph Lubin moves 110,000 ETH to defend $259 million DAI debt position",
           "url": "https://www.theblock.co/post/403876/wallet-linked-to-ethereum-co-founder-joseph-lubin-moves-110000-eth-to-defend-259m-dai-debt-position?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
           "date": "2026-06-06T17:21:19.000Z",
@@ -340,22 +356,6 @@
           "date": "2026-06-06T13:00:00.000Z",
           "source": "CoinDesk",
           "summary": "The Strategy executive chairman argued that four distinct camps each play a vital role in bitcoin’s long-term success."
-        },
-        {
-          "title": "Are retail traders selling their bitcoin to buy the SpaceX IPO?",
-          "url": "https://www.coindesk.com/markets/2026/06/06/are-retail-traders-selling-their-bitcoin-to-buy-the-spacex-ipo",
-          "domain": "coindesk.com",
-          "date": "2026-06-06T09:45:15.000Z",
-          "source": "CoinDesk",
-          "summary": "Exchange flows and stablecoin movements through this week's sell-off show no wall of money leaving crypto for cash. Exchanges such as Robinhood and Coinbase will not publicly reporting their figures until July."
-        },
-        {
-          "title": "Researcher who found Zcash's bug with AI adds Monero to his audit queue",
-          "url": "https://www.coindesk.com/tech/2026/06/06/researcher-who-found-zcash-s-bug-with-ai-adds-monero-to-his-audit-queue",
-          "domain": "coindesk.com",
-          "date": "2026-06-06T09:38:00.000Z",
-          "source": "CoinDesk",
-          "summary": "Taylor Hornby, who uncovered the Orchard flaw that sent Zcash down 38%, says other privacy coins are on his list too."
         }
       ]
     }
