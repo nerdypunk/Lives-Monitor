@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-06T15:19:45.055Z",
+  "updatedAt": "2026-06-06T16:40:54.481Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -88,8 +88,7 @@
           "source": "Pluang",
           "summary": "Bio Protocol jumps 5% on Upbit amid extreme greed and high trading volume &nbsp;&nbsp; Pluang"
         }
-      ],
-      "warning": "Google News DeSci returned no feed items"
+      ]
     },
     {
       "name": "Longevity",
@@ -120,7 +119,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-05T14:49:43.000Z",
           "source": "Lifespan.io",
-          "summary": "According to a new study, a special protein disposal system, currently found only in neurons, is linked to central hallmarks of Alzheimer’s disease [1]. […]"
+          "summary": "According to a new study, a special protein disposal system, currently found only in neurons, is linked to central hallmarks of Alzheimer’s disease [1]. The membranal proteasome Alzheimer’s disease is defined in part by […]"
         },
         {
           "title": "Live long and measure",
@@ -188,6 +187,14 @@
         "https://phys.org/rss-feed/biology-news/biotechnology/"
       ],
       "articles": [
+        {
+          "title": "Sweet basil carbon dots show potential for sustainable agriculture",
+          "url": "https://phys.org/news/2026-06-sweet-basil-carbon-dots-potential.html",
+          "domain": "phys.org",
+          "date": "2026-06-06T16:40:02.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "What if a common herb found in the kitchen could help farmers grow healthier crops? As the global population grows and agriculture faces increasing environmental challenges, scientists are searching for innovative ways to improve crop productivity while reducing reliance on chemical inputs."
+        },
         {
           "title": "Dengue is no longer just a travel risk—what Google's mosquito plan could mean for your summer",
           "url": "https://phys.org/news/2026-06-dengue-longer-google-mosquito-summer.html",
@@ -259,14 +266,6 @@
           "date": "2026-06-03T18:20:05.000Z",
           "source": "Phys.org Biotechnology",
           "summary": "Interactions between hard-shelled marine mollusks such as clams and snails and their predators play a critical but largely unseen role in shaping coastal ecosystems. These organisms help stabilize shorelines, filter water and support biodiversity, making them foundational to coastal health. Yet they are increasingly threatened by ocean acidification and expanding populations of mobile shell-crushing predators."
-        },
-        {
-          "title": "Food industries embrace AI sensors to improve efficiencies",
-          "url": "https://phys.org/news/2026-06-food-industries-embrace-ai-sensors.html",
-          "domain": "phys.org",
-          "date": "2026-06-03T15:00:08.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Food waste is a nagging problem that weighs heavily on global food production, distribution and sales industries—but an emerging generation of AI sensors is providing a raft of fresh solutions. The embrace of AI in food industries has been swift, which is why Flinders University researchers have worked with an international research team to build the first comprehensive overview of AI technologies involved in the food industry."
         }
       ]
     },
@@ -278,6 +277,22 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "Meta is paying creators in Stablecoins. Spending them is someone else's problem",
+          "url": "https://www.coindesk.com/opinion/2026/06/06/meta-is-paying-creators-in-stablecoins-spending-them-is-someone-else-s-problem",
+          "domain": "coindesk.com",
+          "date": "2026-06-06T16:30:00.000Z",
+          "source": "CoinDesk",
+          "summary": "Meta’s decision to pay creators in USDC validates stablecoins as a mainstream disbursement tool, Joslyn suggests, but it also exposes the industry’s unresolved problem: moving seamlessly from digital dollars to usable local currency."
+        },
+        {
+          "title": "America’s largest banks are building a new digital currency network to stop a massive deposit drain",
+          "url": "https://www.coindesk.com/business/2026/06/06/america-s-largest-banks-are-building-a-new-digital-currency-network-to-stop-a-massive-deposit-drain",
+          "domain": "coindesk.com",
+          "date": "2026-06-06T15:59:00.000Z",
+          "source": "CoinDesk",
+          "summary": "America’s biggest banks are launching tokenized deposits to compete with stablecoins, opening a new front in the race to become the dominant form of cash on blockchain networks."
+        },
         {
           "title": "A crypto pioneer who turned a $20 million family stake into a billion-dollar fund doubles down on bitcoin",
           "url": "https://www.coindesk.com/business/2026/06/06/a-crypto-pioneer-who-turned-a-usd20-million-family-stake-into-a-billion-dollar-fund-doubles-down-on-bitcoin",
@@ -341,22 +356,6 @@
           "date": "2026-06-06T06:40:17.000Z",
           "source": "CoinDesk",
           "summary": "Bitcoin fell as low as $59,227 overnight before recovering, steadying after Friday's strong jobs report set off a selloff that sank the Nasdaq 100 about 5% and rattled stocks, bonds and crypto together."
-        },
-        {
-          "title": "Cardano social activity surges as ADA falls under 20 cents to four-year lows",
-          "url": "https://www.coindesk.com/markets/2026/06/06/cardano-social-activity-surges-as-ada-falls-under-20-cents-to-four-year-lows",
-          "domain": "coindesk.com",
-          "date": "2026-06-06T03:30:00.000Z",
-          "source": "CoinDesk",
-          "summary": "Santiment data show active addresses at a four-month high and social dominance near a 2026 peak after Charles Hoskinson warned of a \"wave of failures\" in the ecosystem."
-        },
-        {
-          "title": "ETH falls to 13-month low on Zcash bug news and Bitcoin drop to sub-$60K: Is $1.4K next?",
-          "url": "https://cointelegraph.com/markets/eth-falls-to-13-month-low-on-zcash-bug-news-and-bitcoin-drop-to-sub-60k-is-14k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-05T22:18:29.000Z",
-          "source": "CoinTelegraph",
-          "summary": "ETH price crashed below $1,600 as a vulnerability in Zcash emerged and Bitcoin sold off below $60,000 for the first time in months."
         }
       ]
     }
