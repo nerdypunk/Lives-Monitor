@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-06T20:47:03.335Z",
+  "updatedAt": "2026-06-06T22:06:35.491Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -119,7 +119,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-05T14:49:43.000Z",
           "source": "Lifespan.io",
-          "summary": "According to a new study, a special protein disposal system, currently found only in neurons, is linked to central hallmarks of Alzheimer’s disease [1]. The membranal proteasome Alzheimer’s disease is defined in part by […]"
+          "summary": "According to a new study, a special protein disposal system, currently found only in neurons, is linked to central hallmarks of […]"
         },
         {
           "title": "Live long and measure",
@@ -278,6 +278,14 @@
       ],
       "articles": [
         {
+          "title": "HTX to delist Trump-linked USD1 after saying World Liberty Financial froze exchange-linked addresses",
+          "url": "https://www.theblock.co/post/403885/htx-to-delist-trump-linked-usd1-after-saying-world-liberty-financial-froze-exchange-linked-addresses?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-06T21:03:25.000Z",
+          "source": "The Block",
+          "summary": "The move follows World Liberty Financial's apparent freeze of HTX-linked on-chain addresses, citing UK sanctions compliance, per HTX."
+        },
+        {
           "title": "Bitcoin, ether eye worst weekly rout since FTX collapse as cryptos shed $390 billion",
           "url": "https://www.coindesk.com/markets/2026/06/06/bitcoin-ether-eye-worst-weekly-rout-since-ftx-collapse-as-cryptos-shed-usd390-billion",
           "domain": "coindesk.com",
@@ -348,14 +356,6 @@
           "date": "2026-06-06T13:00:00.000Z",
           "source": "CoinDesk",
           "summary": "While rising volume on Polymarket and Kalshi is attracting quantitative firms to prediction markets, they aren't focusing on event outcomes; rather, they're exploiting market inefficiencies for profit."
-        },
-        {
-          "title": "Michael Saylor’s rallying cry: Bitcoin needs four forces to win",
-          "url": "https://www.coindesk.com/markets/2026/06/06/michael-saylor-s-rallying-cry-bitcoin-needs-four-forces-to-win",
-          "domain": "coindesk.com",
-          "date": "2026-06-06T13:00:00.000Z",
-          "source": "CoinDesk",
-          "summary": "The Strategy executive chairman argued that four distinct camps each play a vital role in bitcoin’s long-term success."
         }
       ]
     }
