@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-06T13:54:53.506Z",
+  "updatedAt": "2026-06-06T15:19:45.055Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -88,7 +88,8 @@
           "source": "Pluang",
           "summary": "Bio Protocol jumps 5% on Upbit amid extreme greed and high trading volume &nbsp;&nbsp; Pluang"
         }
-      ]
+      ],
+      "warning": "Google News DeSci returned no feed items"
     },
     {
       "name": "Longevity",
@@ -278,6 +279,14 @@
       ],
       "articles": [
         {
+          "title": "A crypto pioneer who turned a $20 million family stake into a billion-dollar fund doubles down on bitcoin",
+          "url": "https://www.coindesk.com/business/2026/06/06/a-crypto-pioneer-who-turned-a-usd20-million-family-stake-into-a-billion-dollar-fund-doubles-down-on-bitcoin",
+          "domain": "coindesk.com",
+          "date": "2026-06-06T15:00:00.000Z",
+          "source": "CoinDesk",
+          "summary": "Sourcing initial capital from his mother to build a $1 billion crypto empire, DFG CEO James Wo says market metrics do not support Tom Lee’s $250,000 ether prediction."
+        },
+        {
           "title": "Satoshi-era bitcoin at center of $285 billion lawsuit moves after 14 years",
           "url": "https://www.coindesk.com/markets/2026/06/06/satoshi-era-bitcoin-at-center-of-usd285-billion-lawsuit-moves-after-14-years",
           "domain": "coindesk.com",
@@ -348,14 +357,6 @@
           "date": "2026-06-05T22:18:29.000Z",
           "source": "CoinTelegraph",
           "summary": "ETH price crashed below $1,600 as a vulnerability in Zcash emerged and Bitcoin sold off below $60,000 for the first time in months."
-        },
-        {
-          "title": "Travala lets AI agents book hotels with USDC on Base",
-          "url": "https://cointelegraph.com/news/travala-ai-agents-book-hotels-usdc-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-05T20:55:27.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Travala’s new protocol lets AI agents search and book hotels with USDC on Base, but travelers still approve the final payment."
         }
       ]
     }
