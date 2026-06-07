@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-07T22:08:20.874Z",
+  "updatedAt": "2026-06-07T23:20:09.980Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -31,6 +31,14 @@
           "date": "2026-05-28T07:00:00.000Z",
           "source": "Binance",
           "summary": "What Is Decentralized Science (DeSci)? &nbsp;&nbsp; Binance"
+        },
+        {
+          "title": "0.0333 | BIO USDT | Bio Protocol to USDT – Binance Spot - Binance",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53SndoU2FlcDFqTUYwT05aRXRhaEl3dTB1RlhNWV9heU5IcVMzX1dpQjc0cDRYUFU4NURlQTNBQXVkeDg0eXBGSjVyUHppVWgtb0VvTDh0RDg2OUVBeWhiVk9XTjNZZHF5SGw5NG8wX1ZSbzZSVnJwTlVR?oc=5",
+          "domain": "binance.com",
+          "date": "2026-05-27T02:28:53.000Z",
+          "source": "Binance",
+          "summary": "0.0333 | BIO USDT | Bio Protocol to USDT – Binance Spot &nbsp;&nbsp; Binance"
         },
         {
           "title": "PEPTAI Price Swings Wild As Base Integration Fuels DeSci Hype - Cryptonews.net",
@@ -79,14 +87,6 @@
           "date": "2026-05-03T07:00:00.000Z",
           "source": "Pluang",
           "summary": "Bio Protocol leads Korea's Upbit trading with extreme greed signal, signaling high volatility and profit-taking. &nbsp;&nbsp; Pluang"
-        },
-        {
-          "title": "Bio Protocol Jumps 53.85% in Intraday Trading - bloomingbit",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TN0RaS1ExWkVmU1FzMXlsRUJQVmZhQ2lnNEdfcFVVMEloWHFuS3VDdnd5SlpLakNvNzIxdld1LTY5VWlVX2c4U2pZaUlTaHZybXUwag?oc=5",
-          "domain": "en.bloomingbit.io",
-          "date": "2026-05-02T07:00:00.000Z",
-          "source": "bloomingbit",
-          "summary": "Bio Protocol Jumps 53.85% in Intraday Trading &nbsp;&nbsp; bloomingbit"
         }
       ]
     },
@@ -119,7 +119,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-05T14:49:43.000Z",
           "source": "Lifespan.io",
-          "summary": "According to a new study, a special protein disposal system, currently found only in neurons, is linked to central hallmarks of […]"
+          "summary": "According to a new study, a special protein disposal system, currently found only in neurons, is linked to central hallmarks of Alzheimer’s disease [1]. The membranal proteasome Alzheimer’s disease is defined in part by two protein aggregates in the brain: […]"
         },
         {
           "title": "Live long and measure",
@@ -187,6 +187,14 @@
         "https://phys.org/rss-feed/biology-news/biotechnology/"
       ],
       "articles": [
+        {
+          "title": "AI spots smuggled seahorses, shark fins and sea cucumbers with 92% accuracy",
+          "url": "https://phys.org/news/2026-06-ai-smuggled-seahorses-shark-fins.html",
+          "domain": "phys.org",
+          "date": "2026-06-07T23:00:02.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "When we think of wildlife trafficking, we might think of rhino horns or baby orangutans sold as pets—but the smuggling of sea creatures, a less well-known crime, is just as damaging to marine ecosystems. Unfortunately, many commonly smuggled marine wildlife items, like shark fins, can be hidden in baggage or parcels and carried across borders with relative ease, without being detected. To get around this, scientists used AI to develop an algorithm that can detect samples of commonly trafficked sea creatures—shark fins, seahorses, and sea cucumber—with 92% accuracy."
+        },
         {
           "title": "'All-in-one' platform developed for multiple trait stacking in crops",
           "url": "https://phys.org/news/2026-06-platform-multiple-trait-stacking-crops.html",
@@ -258,14 +266,6 @@
           "date": "2026-06-04T00:00:00.000Z",
           "source": "Nature Biotechnology",
           "summary": "Nature Biotechnology, Published online: 04 June 2026; doi:10.1038/s41587-026-03182-5 The significance of the first FDA-approved PROTAC lies not in proving that targeted protein degradation is superior to conventional therapies, but in proving that degrading proteins is possible as a therapeutic."
-        },
-        {
-          "title": "AI offers promise for agriculture, but smallholder farmers risk being left behind",
-          "url": "https://phys.org/news/2026-06-ai-agriculture-smallholder-farmers-left.html",
-          "domain": "phys.org",
-          "date": "2026-06-03T22:40:01.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Globally, agriculture faces mounting pressures. These are driven by climate change, land degradation, labor shortages, supply chain disruptions and the demand for food from a growing population."
         }
       ]
     },
