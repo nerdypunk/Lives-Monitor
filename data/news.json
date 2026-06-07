@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-07T13:07:26.242Z",
+  "updatedAt": "2026-06-07T15:02:17.695Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -103,7 +103,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-05T14:49:43.000Z",
           "source": "Lifespan.io",
-          "summary": "According to a new study, a special protein disposal system, currently found only in neurons, is linked to central hallmarks of Alzheimer’s disease [1]. The membranal proteasome Alzheimer’s disease is defined in part by two protein […]"
+          "summary": "According to a new study, a special protein disposal system, currently found only in neurons, is linked to central hallmarks of Alzheimer’s disease [1]. The membranal proteasome Alzheimer’s disease is defined in part by two protein aggregates […]"
         },
         {
           "title": "Preventing Load-Induced Arthritis at the Cellular Level",
@@ -111,7 +111,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-04T17:37:51.000Z",
           "source": "Lifespan.io",
-          "summary": "Researchers have discovered that the osteoarthritis-inducing effects of excessive mechanical stress can be mitigated by increasing miR-330, a key regulator in cartilage and bone cells. Backbreaking labor is exactly that It […]"
+          "summary": "Researchers have discovered that the osteoarthritis-inducing effects of excessive mechanical stress can be mitigated by increasing miR-330, a key regulator in cartilage and bone cells. Backbreaking labor is exactly that It has been long-held conventional wisdom that a lifetime […]"
         },
         {
           "title": "Forever Healthy Foundation Launches Evipedia.ai",
@@ -119,7 +119,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-03T17:24:06.000Z",
           "source": "Lifespan.io",
-          "summary": "The Forever Healthy Foundation today publicly launched evipedia.ai, an open online encyclopedia of in-depth evidence reviews covering more than 500 health and longevity interventions, including first-generation rejuvenation therapies, supplements, botanicals, lifestyle protocols, and more. Evipedia was built to […]"
+          "summary": "The Forever Healthy Foundation today publicly launched evipedia.ai, an open online encyclopedia of in-depth evidence reviews covering more than 500 health and longevity interventions, including first-generation rejuvenation therapies, supplements, botanicals, lifestyle protocols, and more. Evipedia was built to solve a […]"
         },
         {
           "title": "The Thalion Initiative: A New Non-Profit With Big Ambitions",
@@ -127,7 +127,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-02T15:23:03.000Z",
           "source": "Lifespan.io",
-          "summary": "The longevity field remains small and starved for resources, especially the subfield devoted to the fundamental biology of aging, despite […]"
+          "summary": "The longevity field remains small and starved for resources, especially the subfield devoted to the fundamental biology of aging, despite near-universal agreement that solving aging requires understanding it first. With VCs […]"
         },
         {
           "title": "Rejuvenation Roundup May 2026",
@@ -135,7 +135,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-01T16:30:59.000Z",
           "source": "Lifespan.io",
-          "summary": "Approaches that modify the processes of aging at their roots have gone well beyond basic research and into therapies intended for the clinic within the next few years. Here’s how […]"
+          "summary": "Approaches that modify the processes of aging at their roots have gone well beyond basic research and into therapies intended […]"
         },
         {
           "title": "Harvard Publishes a Longevity Report for the General Public",
@@ -151,7 +151,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-28T22:27:12.000Z",
           "source": "Lifespan.io",
-          "summary": "In a preprint published in arXiv, researchers from Altos Labs have described a machine learning algorithm that performs end-to-end prediction […]"
+          "summary": "In a preprint published in arXiv, researchers from Altos Labs have described a machine learning algorithm that performs end-to-end prediction of how cells’ gene expression will respond to interventions. The need for prediction Simulating biological processes […]"
         },
         {
           "title": "Early Cancer Cells Change Their Surroundings to Form Tumors",
@@ -159,7 +159,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-28T16:22:16.000Z",
           "source": "Lifespan.io",
-          "summary": "Scientists have demonstrated how cancer cells influence neighboring cells to create a favorable niche for the tumor to grow. This can inform future early-stage cancer […]"
+          "summary": "Scientists have demonstrated how cancer cells influence neighboring cells to create a favorable niche for the tumor to grow. This […]"
         },
         {
           "title": "Cardiovascular Health During the Menopausal Transition",
@@ -167,7 +167,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-27T16:39:13.000Z",
           "source": "Lifespan.io",
-          "summary": "A recent study compared premenopausal, perimenopausal, and postmenopausal women’s cardiovascular health. Perimenopausal women had about twice the odds of having a poor overall score when compared with premenopausal women, after adjusting for age [1]. Menopausal health decline The menopausal transition, […]"
+          "summary": "A recent study compared premenopausal, perimenopausal, and postmenopausal women’s cardiovascular health. Perimenopausal women had about twice the odds of having a poor overall score when compared with premenopausal women, after adjusting for age [1]. Menopausal health decline The menopausal […]"
         },
         {
           "title": "Tau Protein Is Crucial for Encoding Long-Term Memory",
@@ -175,7 +175,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-26T16:04:24.000Z",
           "source": "Lifespan.io",
-          "summary": "Scientists have uncovered an unexpected function of the tau protein, which is mostly known for its role in Alzheimer’s and related […]"
+          "summary": "Scientists have uncovered an unexpected function of the tau protein, which is mostly known for its role in Alzheimer’s and related disorders: helping encode long-term […]"
         }
       ]
     },
@@ -187,6 +187,14 @@
         "https://phys.org/rss-feed/biology-news/biotechnology/"
       ],
       "articles": [
+        {
+          "title": "Terahertz biophotonics: Understanding the path towards practical applications for biological imaging",
+          "url": "https://phys.org/news/2026-06-terahertz-biophotonics-path-applications-biological.html",
+          "domain": "phys.org",
+          "date": "2026-06-07T13:40:01.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Biophotonics is a multidisciplinary field that involves the development and application of light-based technologies to study, monitor and treat biological systems. The ability to directly image cells and molecules has led to many fundamental discoveries in the past century. More recently, the terahertz (THz) region of the electromagnetic spectrum has attracted growing interest as a promising frontier for advancing biological research."
+        },
         {
           "title": "Sweet basil carbon dots show potential for sustainable agriculture",
           "url": "https://phys.org/news/2026-06-sweet-basil-carbon-dots-potential.html",
@@ -258,14 +266,6 @@
           "date": "2026-06-03T20:00:03.000Z",
           "source": "Phys.org Biotechnology",
           "summary": "Computational chemists at the University of Amsterdam's Van 't Hoff Institute for Molecular Sciences have developed a comprehensive software suite to create accurate models of DNA in biomolecular assemblies. Called MDNA, the user-friendly molecular modeling toolkit helps biochemists, molecular biologists, bioinformaticians, and biophysicists to visualize and analyze DNA structures and perform accurate simulations."
-        },
-        {
-          "title": "Armed with AI, study identifies prey from predator crunching sounds",
-          "url": "https://phys.org/news/2026-06-armed-ai-prey-predator-crunching.html",
-          "domain": "phys.org",
-          "date": "2026-06-03T18:20:05.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Interactions between hard-shelled marine mollusks such as clams and snails and their predators play a critical but largely unseen role in shaping coastal ecosystems. These organisms help stabilize shorelines, filter water and support biodiversity, making them foundational to coastal health. Yet they are increasingly threatened by ocean acidification and expanding populations of mobile shell-crushing predators."
         }
       ]
     },
@@ -277,6 +277,22 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "Abra’s Bill Barhydt says Wall Street’s next crypto bet is tokenization",
+          "url": "https://www.coindesk.com/business/2026/06/07/abra-s-bill-barhydt-says-wall-street-s-next-crypto-bet-is-tokenization",
+          "domain": "coindesk.com",
+          "date": "2026-06-07T15:00:00.000Z",
+          "source": "CoinDesk",
+          "summary": "As Abra prepares for a Nasdaq debut, CEO Bill Barhydt is betting tokenized yield products and onchain lending will drive the next phase of crypto wealth management."
+        },
+        {
+          "title": "Bybit follows Kraken in offering tokenized SpaceX IPO access via xStocks",
+          "url": "https://www.theblock.co/post/403893/bybit-follows-kraken-in-offering-tokenized-spacex-ipo-access-via-xstocks?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-07T14:05:40.000Z",
+          "source": "The Block",
+          "summary": "The product is built on Payward's xStocks framework, the tokenized equities platform Kraken acquired through its purchase of Backed Finance in late 2025."
+        },
         {
           "title": "Ethereum Foundation cuts and departures aren't a crisis, Joe Lubin says",
           "url": "https://www.coindesk.com/tech/2026/06/07/ethereum-foundation-cuts-and-departures-aren-t-a-crisis-joe-lubin-says",
@@ -340,22 +356,6 @@
           "date": "2026-06-06T15:59:00.000Z",
           "source": "CoinDesk",
           "summary": "America’s biggest banks are launching tokenized deposits to compete with stablecoins, opening a new front in the race to become the dominant form of cash on blockchain networks."
-        },
-        {
-          "title": "A crypto pioneer who turned a $20 million family stake into a billion-dollar fund doubles down on bitcoin",
-          "url": "https://www.coindesk.com/business/2026/06/06/a-crypto-pioneer-who-turned-a-usd20-million-family-stake-into-a-billion-dollar-fund-doubles-down-on-bitcoin",
-          "domain": "coindesk.com",
-          "date": "2026-06-06T15:00:00.000Z",
-          "source": "CoinDesk",
-          "summary": "Sourcing initial capital from his mother to build a $1 billion crypto empire, DFG CEO James Wo says market metrics do not support Tom Lee’s $250,000 ether prediction."
-        },
-        {
-          "title": "Satoshi-era bitcoin at center of $285 billion lawsuit moves after 14 years",
-          "url": "https://www.coindesk.com/markets/2026/06/06/satoshi-era-bitcoin-at-center-of-usd285-billion-lawsuit-moves-after-14-years",
-          "domain": "coindesk.com",
-          "date": "2026-06-06T13:30:00.000Z",
-          "source": "CoinDesk",
-          "summary": "The 1LwWt address received a legal notice from Salomon Brothers via Bitcoin's OP_RETURN field in July 2025 demanding the owner prove ownership by November 5, 2025."
         }
       ]
     }
