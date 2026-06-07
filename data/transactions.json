@@ -8,6 +8,51 @@
   },
   "transactions": [
     {
+      "signature": "w3A72twJTBLQskNjsPV9NTKgi6AkdD2RTjormicQqGHp22UA3haxQzhpuKrd1KS8agnANYiDJVtfz7WPGKCnHvH",
+      "type": "Transfer",
+      "amountText": "32.72",
+      "from": "BrJrPXf7Nvb9MmfMqyiPm7AyFwmn5w2hSiMvSesyaoWM",
+      "to": "Cyd7ga8HrCpYGHZXwSo9wWNw4T5SRbZ8gkGPJESxbmmA",
+      "blockTime": 1780837574,
+      "slot": 424899456
+    },
+    {
+      "signature": "3YCbHTqoGD8k2SDxMFWyvd95kB4JY2KhfL43J5m6k22Sk9yB4CsXzJb8LrRcYubqhaMjiPtWYkETKGjan48V22BR",
+      "type": "Transfer",
+      "amountText": "1,145.28375",
+      "from": "6ACwobpN5CJB7TNdJcHpRHqStvS96AH7kvXqiDaeCzLx",
+      "to": "2XaXw1TGKuX4kzkVtAiJc2xwsnHWzVYNYJibMUPdB1Zr",
+      "blockTime": 1780837413,
+      "slot": 424899052
+    },
+    {
+      "signature": "2sGwA7Q8RvkhrrxXcaVNa3stBDqJxnVkdrZZbUD3KyzNYGzSHot42mKRBo9q3wV3LknBB5nLG2gG4yp4aJSk4Ub3",
+      "type": "Transfer",
+      "amountText": "1,174.65",
+      "from": "BrJrPXf7Nvb9MmfMqyiPm7AyFwmn5w2hSiMvSesyaoWM",
+      "to": "6ACwobpN5CJB7TNdJcHpRHqStvS96AH7kvXqiDaeCzLx",
+      "blockTime": 1780837408,
+      "slot": 424899038
+    },
+    {
+      "signature": "67p62NsugqDoqNvfsPcV1McJGiQaEp4hc9VvvwHPCAMv2KoxhC71aesa4fEfQev57XZRD6d96HnBwVws8RNug8cj",
+      "type": "Transfer",
+      "amountText": "58.73",
+      "from": "uCWHaqAhTUc9SjCbaNpMUrvumDhLTLcVDRXrXnKbsKU",
+      "to": "BrJrPXf7Nvb9MmfMqyiPm7AyFwmn5w2hSiMvSesyaoWM",
+      "blockTime": 1780837337,
+      "slot": 424898861
+    },
+    {
+      "signature": "3CdvUpbuuFi16cFDV4Nt6vn1bRpVBw694KGcur1RHQGB86JrbhZni7FukznBEy52ZDMJSq2QuRqT6TF91hyipdA5",
+      "type": "Transfer",
+      "amountText": "1,112",
+      "from": "uCWHaqAhTUc9SjCbaNpMUrvumDhLTLcVDRXrXnKbsKU",
+      "to": "BrJrPXf7Nvb9MmfMqyiPm7AyFwmn5w2hSiMvSesyaoWM",
+      "blockTime": 1780837281,
+      "slot": 424898720
+    },
+    {
       "signature": "4QvHWUBzS4UghW85gSGoAVme1kMk9xTbZ9kRyokqRH1bDJYv6cPrLjqQXFK1ZxDuMMhTX4FCsBh9xU8TTFRzdLp4",
       "type": "Transfer",
       "amountText": "7.36125",
@@ -23175,9 +23220,9 @@
     }
   ],
   "stats": {
-    "last24h": 39,
-    "totalCached": 2574,
+    "last24h": 44,
+    "totalCached": 2579,
     "historyComplete": true
   },
-  "updatedAt": "2026-06-07T11:27:35.004Z"
+  "updatedAt": "2026-06-07T13:07:24.363Z"
 }
