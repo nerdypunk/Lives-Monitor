@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-08T01:41:47.783Z",
+  "updatedAt": "2026-06-08T06:25:09.469Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -31,6 +31,14 @@
           "date": "2026-05-28T07:00:00.000Z",
           "source": "Binance",
           "summary": "What Is Decentralized Science (DeSci)? &nbsp;&nbsp; Binance"
+        },
+        {
+          "title": "0.0333 | BIO USDT | Bio Protocol to USDT – Binance Spot - Binance",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53SndoU2FlcDFqTUYwT05aRXRhaEl3dTB1RlhNWV9heU5IcVMzX1dpQjc0cDRYUFU4NURlQTNBQXVkeDg0eXBGSjVyUHppVWgtb0VvTDh0RDg2OUVBeWhiVk9XTjNZZHF5SGw5NG8wX1ZSbzZSVnJwTlVR?oc=5",
+          "domain": "binance.com",
+          "date": "2026-05-27T02:28:53.000Z",
+          "source": "Binance",
+          "summary": "0.0333 | BIO USDT | Bio Protocol to USDT – Binance Spot &nbsp;&nbsp; Binance"
         },
         {
           "title": "PEPTAI Price Swings Wild As Base Integration Fuels DeSci Hype - Cryptonews.net",
@@ -79,14 +87,6 @@
           "date": "2026-05-03T07:00:00.000Z",
           "source": "Pluang",
           "summary": "Bio Protocol leads Korea's Upbit trading with extreme greed signal, signaling high volatility and profit-taking. &nbsp;&nbsp; Pluang"
-        },
-        {
-          "title": "Bio Protocol Jumps 53.85% in Intraday Trading - bloomingbit",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TN0RaS1ExWkVmU1FzMXlsRUJQVmZhQ2lnNEdfcFVVMEloWHFuS3VDdnd5SlpLakNvNzIxdld1LTY5VWlVX2c4U2pZaUlTaHZybXUwag?oc=5",
-          "domain": "en.bloomingbit.io",
-          "date": "2026-05-02T07:00:00.000Z",
-          "source": "bloomingbit",
-          "summary": "Bio Protocol Jumps 53.85% in Intraday Trading &nbsp;&nbsp; bloomingbit"
         }
       ]
     },
@@ -119,7 +119,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-05T14:49:43.000Z",
           "source": "Lifespan.io",
-          "summary": "According to a new study, a special protein disposal system, currently found only in neurons, is linked to central hallmarks of Alzheimer’s disease [1]. The membranal proteasome Alzheimer’s disease is defined in part by two protein aggregates in the […]"
+          "summary": "According to a new study, a special protein disposal system, currently found only in neurons, is linked to central hallmarks of Alzheimer’s […]"
         },
         {
           "title": "Live long and measure",
@@ -188,84 +188,84 @@
       ],
       "articles": [
         {
-          "title": "AI spots smuggled seahorses, shark fins and sea cucumbers with 92% accuracy",
-          "url": "https://phys.org/news/2026-06-ai-smuggled-seahorses-shark-fins.html",
+          "title": "Solar panels on rewetted peatland could be a climate and nature win–win",
+          "url": "https://phys.org/news/2026-06-solar-panels-rewetted-peatland-climate.html",
           "domain": "phys.org",
-          "date": "2026-06-07T23:00:02.000Z",
+          "date": "2026-06-08T04:10:01.000Z",
           "source": "Phys.org Biotechnology",
-          "summary": "When we think of wildlife trafficking, we might think of rhino horns or baby orangutans sold as pets—but the smuggling of sea creatures, a less well-known crime, is just as damaging to marine ecosystems. Unfortunately, many commonly smuggled marine wildlife items, like shark fins, can be hidden in baggage or parcels and carried across borders with relative ease, without being detected. To get around this, scientists used AI to develop an algorithm that can detect samples of commonly trafficked sea creatures—shark fins, seahorses, and sea cucumber—with 92% accuracy."
+          "summary": "Researchers in Germany have found that solar panels on rewetted peatland provide a unique habitat for bird species along with generating green energy and potentially locking up carbon. Installing solar panels on rewetted peatlands is a new type of land use, providing a way to generate green energy and reduce greenhouse gas emissions. Now, research from the University of Greifswald has found that this novel land use may also benefit nature. The findings are published in Ecological Solutions and Evidence."
         },
         {
-          "title": "'All-in-one' platform developed for multiple trait stacking in crops",
-          "url": "https://phys.org/news/2026-06-platform-multiple-trait-stacking-crops.html",
-          "domain": "phys.org",
-          "date": "2026-06-07T22:00:02.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "A major goal of modern crop breeding is to efficiently combine multiple desirable traits by \"stacking\" the favorable gene variants (alleles) that contribute to those traits in a single crop variety. However, current strategies are often time-consuming and inefficient."
+          "title": "Probabilistic learning to perform pre-onset individualised prediction of disease severity: application to Veno Occlusive Disease",
+          "url": "https://arxiv.org/abs/2606.06516",
+          "domain": "arxiv.org",
+          "date": "2026-06-08T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2606.06516v1 Announce Type: new Abstract: We advance a new probabilistic supervised learning approach that permits reliable, automated, and early individualised prediction of the severity with which a disease will develop in a prospective patient. The prediction capacity is illustrated via the pre-transplant prediction of the score of severity of Veno Occlusive Disease (or VOD) in the digital twin (DT) of the considered prospective patient, where this score parametrises the severity with which VOD will develop in this patient, after they undergo their Bone Marrow Transplant. The learning of the relationship between the pre-transplant variables, and a severity score variable is undertaken by modelling this relationship as a (random) function that is treated as a sample function of an adequately-chosen stochastic process. The parameters of this underlying process are learnt using a training dataset that is generated using the real-time evolution of retrospective patients in a cohort, with this training dataset subsequently augmented in size by a probabilistic inverse learning of the score of prospective patients. The augmented training set, then permits the learning of the function that capacitates - at the pre-transplant stage - automated prediction of the score of the severity of VOD that characterises the DT of a physical patient in their unique pre-transplant state. This score is subsequently fed back to the real prospective patient as the severity with which VOD will develop in them, after this patient undergoes their transplant. Such a score then permits the treating Haematologist-Oncologists to decide on the treatment regimen, which in this illustration reduces to deciding on treating the patient with Defibrotide. An AI facility is developed to undertake such automated prediction, with the physician inputting the data on the pre-transplant state that characterises the DT of the prospective patient under consideration."
         },
         {
-          "title": "Terahertz biophotonics: Understanding the path towards practical applications for biological imaging",
-          "url": "https://phys.org/news/2026-06-terahertz-biophotonics-path-applications-biological.html",
-          "domain": "phys.org",
-          "date": "2026-06-07T13:40:01.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Biophotonics is a multidisciplinary field that involves the development and application of light-based technologies to study, monitor and treat biological systems. The ability to directly image cells and molecules has led to many fundamental discoveries in the past century. More recently, the terahertz (THz) region of the electromagnetic spectrum has attracted growing interest as a promising frontier for advancing biological research."
+          "title": "DSU-Net: An Attention-Enhanced Dense Skip U-Net for Breast Lesion Segmentation in Mammographic Images",
+          "url": "https://arxiv.org/abs/2606.06537",
+          "domain": "arxiv.org",
+          "date": "2026-06-08T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2606.06537v1 Announce Type: new Abstract: Breast cancer remains one of the leading causes of cancer-related mortality among women worldwide, making early detection essential for effective treatment. Mammography is the primary screening modality; however, accurate delineation of suspicious lesions remains challenging and subject to inter-observer variability. Automated segmentation methods can assist radiologists by providing consistent and efficient lesion localization. This study presents DSU-Net, an attention-enhanced Dense Skip U-Net architecture for automated breast lesion segmentation in mammographic images. The proposed framework integrates dense skip connections and attention mechanisms to improve feature propagation, preserve spatial information, and enhance lesion boundary delineation. Experiments were conducted using the Curated Breast Imaging Subset of the Digital Database for Screening Mammography (CBIS-DDSM). To address severe foreground-background imbalance, a composite loss function combining Dice loss, focal loss, and binary cross-entropy loss was employed during training. The proposed model achieved a Dice Similarity Coefficient of 0.9421, an Intersection over Union of 0.8905, an accuracy of 0.9711, and an AUC-ROC of 0.9878 on the validation dataset. Qualitative evaluation demonstrated accurate delineation of lesions with varying sizes and morphologies, while quantitative results confirmed robust discrimination between lesion and background regions. These findings demonstrate that DSU-Net provides accurate and reliable breast lesion segmentation in mammographic images and highlights the potential of attention-guided deep learning for computer-aided breast cancer screening and diagnosis."
         },
         {
-          "title": "Sweet basil carbon dots show potential for sustainable agriculture",
-          "url": "https://phys.org/news/2026-06-sweet-basil-carbon-dots-potential.html",
-          "domain": "phys.org",
-          "date": "2026-06-06T16:40:02.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "What if a common herb found in the kitchen could help farmers grow healthier crops? As the global population grows and agriculture faces increasing environmental challenges, scientists are searching for innovative ways to improve crop productivity while reducing reliance on chemical inputs."
+          "title": "Iterative AI-guided optimisation of selective triple-drug combinations for breast cancer",
+          "url": "https://arxiv.org/abs/2606.06562",
+          "domain": "arxiv.org",
+          "date": "2026-06-08T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2606.06562v1 Announce Type: new Abstract: Personalised cancer therapy aims to tailor treatment to individual tumour profiles, yet tumour heterogeneity and adaptive resistance continue to limit clinical efficacy. Drug combinations offer a strategy to overcome resistance by simultaneously targeting multiple pathways, but their rational design is constrained by the vast combinatorial search space and experimental cost. Here, we present an AI-guided, QSAR-driven iterative optimisation framework that integrates machine learning with automated experimental screening to enable closed-loop discovery of selective multi-drug therapies. Starting from an initial random screen, the system iteratively predicts, tests, and refines three-drug combinations targeting MCF7 breast cancer cells. Incorporation of non-tumorigenic MCF10A cells enables explicit optimisation of tumour-selective efficacy, prioritising regimens that maximise cancer cell killing while sparing healthy cells. Across successive iterations, the framework rapidly enriched for highly selective, high-efficacy combinations, while maintaining chemical and mechanistic diversity and avoiding convergence on a narrow solution space. By continuously learning from experimental feedback, the approach efficiently navigates millions of combinations to identify a small set of validated, tumour-selective regimens. These results establish a scalable proof-of-concept for AI-driven, closed-loop optimisation of higher-order drug combinations, demonstrating how iterative integration of computation and experimentation can enable adaptive and potentially personalised therapeutic design in precision oncology."
         },
         {
-          "title": "Dengue is no longer just a travel risk—what Google's mosquito plan could mean for your summer",
-          "url": "https://phys.org/news/2026-06-dengue-longer-google-mosquito-summer.html",
-          "domain": "phys.org",
-          "date": "2026-06-05T18:40:02.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "This is not science fiction or some perverse prank. A Silicon Valley tech giant is seeking federal approval to release up to 64 million sterilized male mosquitoes in California and Florida over the next two years."
+          "title": "Deterministic access to global viral sequence data enables robust agentic scientific discovery",
+          "url": "https://arxiv.org/abs/2606.06749",
+          "domain": "arxiv.org",
+          "date": "2026-06-08T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2606.06749v1 Announce Type: new Abstract: Public viral genome resources such as the National Center for Biotechnology Information (NCBI) Virus database are central to outbreak response, evolutionary analysis, vaccine design, and genomic surveillance. Yet many high-value retrieval workflows remain optimized for interactive use rather than deterministic, reproducible programmatic interfaces. This creates a challenge for Large Language Model (LLM)-based scientific agents, where errors in metadata interpretation, filtering logic, or retrieval can propagate into incorrect datasets. To evaluate agentic viral data retrieval, we built VirBench, a manually curated benchmark of 120 queries spanning diverse pathogens, taxonomic levels, and metadata filters. When autonomous AI systems, including Biomni, Claude, GPT, and Edison Analysis, were tasked with these queries without a dedicated retrieval layer, performance varied widely: mean accuracy ranged from 16.9% for Claude Sonnet 4 to 91.3% for GPT-5.5, with newer frontier models showing progress but residual errors remaining consequential. To address this, we built gget virus, a deterministic query framework that formalizes NCBI Virus-style filtering as a reproducible programmatic system. By staging retrieval, applying metadata constraints before sequence download, and retrieving structured GenBank records, gget virus reduces data transfer by more than 98% for high-volume queries while preserving exact-match semantics. Instructing autonomous AI systems to use gget virus increased accuracy to at least 90.0% across all evaluated systems and up to 99.7% for GPT-5.5, improved response stability to 0.92-1.00, reduced error magnitude, and generally decreased runtime and tool calls. Together, this work establishes deterministic data access as critical infrastructure for reliable agentic science and provides a reproducible retrieval layer for robust human- and AI-driven viral genomics workflows."
         },
         {
-          "title": "Visual AI tracks nearly 100 wildlife species to improve conservation",
-          "url": "https://phys.org/news/2026-06-visual-ai-tracks-wildlife-species.html",
-          "domain": "phys.org",
-          "date": "2026-06-05T17:00:04.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Wildlife research projects worldwide could benefit from a new AI system which can automatically find, name, and follow individual animals in footage."
+          "title": "From Genomes to Algorithms: Neural Network Applications for Palimpsest Detection in Medieval Manuscripts",
+          "url": "https://arxiv.org/abs/2606.06889",
+          "domain": "arxiv.org",
+          "date": "2026-06-08T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2606.06889v1 Announce Type: new Abstract: Biocodicology, the study of biological information preserved in manuscripts, offers new opportunities to examine parchment as both a textual and biological artefact. This study applies non-destructive sampling to isolate and sequence mitochondrial genomes (mtGenomes) from a 14th-century manuscript, Ms. Codex 1629, which contains both single-use and palimpsested folios. We sought to evaluate whether palimpsest preparation, including chemical washing, compromised DNA integrity and whether computational methods could aid in identifying reused parchment. DNA sequencing revealed that both single-use and palimpsested parchments retained sufficient mtGenomes for analysis, with no significant differences in genome coverage or depth. To assess the potential of computational biology in manuscript studies, we implemented machine learning classifiers, including logistic regression and neural networks, to distinguish palimpsests from single-use folios. Models achieved high precision but exhibited reduced recall for the minority palimpsest class, reflecting dataset imbalance. While additional ancient mtGenome samples from palimpsest are required and further testing is needed, this study demonstrates how integrating molecular biology and neural networks highlights new approaches for palimpsest detection and underscores the evolving role of data science in biocodicology."
         },
         {
-          "title": "Multiplexed, precise genome engineering in monocots with twin prime editing systems",
-          "url": "https://www.nature.com/articles/s41587-026-03174-5",
-          "domain": "nature.com",
-          "date": "2026-06-05T00:00:00.000Z",
-          "source": "Nature Biotechnology",
-          "summary": "Nature Biotechnology, Published online: 05 June 2026; doi:10.1038/s41587-026-03174-5 Plant genome editing is multiplexed with twin prime editing."
+          "title": "Structure-guided taxonomic placement of divergent RNA viruses with ViraClass",
+          "url": "https://arxiv.org/abs/2606.07301",
+          "domain": "arxiv.org",
+          "date": "2026-06-08T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2606.07301v1 Announce Type: new Abstract: Metatranscriptomic sequencing has expanded our knowledge of the RNA virosphere far more rapidly than novel viruses can be taxonomically classified. Taxonomic assignment above the family level is particularly difficult because the RNA-dependent RNA polymerase (RdRp) is often the only gene retained across RNA viruses yet exhibits little sequence similarity among highly divergent viruses. Here we show that RdRp protein structure retains taxonomic signal at evolutionary depths where RdRp primary sequence similarity has largely collapsed, and that the organization of this signal is consistent with the current ICTV hierarchy. Based on this, we developed ViraClass, a hierarchical framework for RNA virus taxonomic placement that uses RdRp structure for rank-by-rank assignment from phylum to genus, stopping at the deepest rank supported by confidence thresholds, and calibrated structural clustering for viruses that remain outside existing reference space. Across random-split, prospective and taxonomic hold-out benchmarks, ViraClass outperforms sequence-based and genome-content baselines. The largest gains emerge at deep evolutionary distances, in benchmarks that withhold entire families, orders or classes from the reference, where sequence-based methods lose most of their signal. In challenging boundary cases such as the Flaviviridae, ViraClass's structure-based placements capture the taxonomic boundary tensions highlighted by recent phylogenetic studies. When applied to a large collection of previously unclassified RdRp sequences, ViraClass places high-confidence queries into existing phyla and organizes the remainder into compact structural groups. ViraClass therefore provides a scalable approach from large-scale virus discovery to hierarchical taxonomic interpretation, particularly at the deep evolutionary ranges that current sequence-based pipelines cannot reach."
         },
         {
-          "title": "Structural motif search across the protein universe with Folddisco",
-          "url": "https://www.nature.com/articles/s41587-026-03162-9",
-          "domain": "nature.com",
-          "date": "2026-06-05T00:00:00.000Z",
-          "source": "Nature Biotechnology",
-          "summary": "Nature Biotechnology, Published online: 05 June 2026; doi:10.1038/s41587-026-03162-9 Folddisco enables protein structural motif search in million scale databases."
+          "title": "Fixed point compositionality via low-rank gluing rules in inhibition-dominated threshold-linear networks",
+          "url": "https://arxiv.org/abs/2606.07336",
+          "domain": "arxiv.org",
+          "date": "2026-06-08T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2606.07336v1 Announce Type: new Abstract: Brains routinely generate highly flexible and complex behaviors on a relatively stable structure and limited resources. A key mechanism underlying this ability is compositionality, which allows the brain to efficiently decompose complex tasks into simpler, reusable primitives. While network modularity has often been linked to compositionality in biological and artificial networks, a rigorous mathematical characterization of this relationship in nonlinear networks is still lacking. In this work, we formally investigate how structural modularity supports functional compositionality in inhibition-dominated threshold-linear networks (TLNs). We introduce a novel class of modular network assembly called low-rank gluings, where component subnetworks with arbitrary internal connectivity are connected via specific low-rank couplings. We prove that the global fixed points of these networks are constrained to be combinations of the local fixed points of their constituent modules. For a more structured subclass, called rank-1 gluings, we provide a complete characterization that determines which combinations of local fixed points yield global ones. We apply these results to graph-based networks, extending fixed point decomposition rules from combinatorial threshold-linear networks (CTLNs) to the more flexible family of generalized CTLNs (gCTLNs), thereby proving that these structural rules are more robust than initially posited. Finally, we demonstrate that these gluing rules provide a mathematically tractable recipe for engineering compositional dynamics, enabling the construction of networks with a combinatorially large repertoire of predictable attractors that can be understood from simpler component motifs, ranging from compositions of fixed points to compositional limit cycles."
         },
         {
-          "title": "Novel synthetic biomolecule degrades disease-related proteins",
-          "url": "https://phys.org/news/2026-06-synthetic-biomolecule-degrades-disease-proteins.html",
-          "domain": "phys.org",
-          "date": "2026-06-04T21:40:05.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Northwestern Medicine scientists have developed a novel synthetic biomolecular condensate that can degrade intracellular disease-causing proteins, providing a framework for new therapeutic approaches for a wide range of diseases, as detailed in a recent study published in Nature Communications."
+          "title": "Nullclines, Subnullclines and the Asymptotic and Transient Attractors in Eco-Evolutionary Dynamics",
+          "url": "https://arxiv.org/abs/2606.07372",
+          "domain": "arxiv.org",
+          "date": "2026-06-08T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2606.07372v1 Announce Type: new Abstract: In the demographic framework, mortality payoff function describes the cost of an interaction and fertility payoff function describes its reward. So while mortality cost depends on opponent's strategy, fertility reward can be affected by the density-dependent juvenile recruitment survival. This motivates an analysis of the eco-evolutionary dynamics of the classical Hawk-Dove game. It is shown that the stable and unstable equilibria (determined by the intersections of frequency and density nullclines) are connected by heteroclinic orbits, which attract nearby trajectories. The resulting bundle of trajectories leads to the discovery of the so-called subnullcines (manifolds placed between frequency and density nullcline) before they converge to the stable rest point. The initial isolated system is then extended by adding environmental seasonality (periodic background mortality), which acts as an external factor. This leads to complex cycling behavior and the subnullclines act as barriers to the propagation of the perturbation (resilience/resistance threshold). Thus, in a way, this paper completes, yet extends, previous works on the eco-evolutionary dynamics of games with demographic payoffs."
         },
         {
-          "title": "Marked for destruction",
-          "url": "https://www.nature.com/articles/s41587-026-03182-5",
-          "domain": "nature.com",
-          "date": "2026-06-04T00:00:00.000Z",
-          "source": "Nature Biotechnology",
-          "summary": "Nature Biotechnology, Published online: 04 June 2026; doi:10.1038/s41587-026-03182-5 The significance of the first FDA-approved PROTAC lies not in proving that targeted protein degradation is superior to conventional therapies, but in proving that degrading proteins is possible as a therapeutic."
+          "title": "Which Anatomy Matters Under Limited Labels? A Data-Efficient Anatomy-Aware Benchmark for Cardiac Pathology Prediction",
+          "url": "https://arxiv.org/abs/2606.06509",
+          "domain": "arxiv.org",
+          "date": "2026-06-08T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2606.06509v1 Announce Type: cross Abstract: Numerous medical imaging problems must be solved under limited labels and constrained compute, yet it remains unclear whether performance gains are driven mainly by more expressive models or by better representation of clinically meaningful anatomy. We study this question through a low-data anatomy-aware benchmark for 5-class cardiac pathology prediction on the public ACDC MRI dataset. Using segmentation-derived patient descriptors from the right ventricle, myocardium, and left ventricle, we compare anatomy-specific and multi-structure representations across linear, kernel, and tree-based classifiers. We find that under limited label settings, representation dominates complexity. These results suggest that in resource-constrained healthcare settings, identifying and representing the most informative anatomy may matter more than the increasing complexity of the model alone."
         }
       ]
     },
@@ -278,6 +278,70 @@
       ],
       "articles": [
         {
+          "title": "XRP steadies above $1.10 to bounce from four-month lows",
+          "url": "https://www.coindesk.com/markets/2026/06/08/xrp-steadies-above-usd1-10-as-oversold-bounce-meets-lingering-bearish-pressure",
+          "domain": "coindesk.com",
+          "date": "2026-06-08T06:06:55.000Z",
+          "source": "CoinDesk",
+          "summary": "XRP recovered from four-month lows on elevated volume, but the token remains trapped below key resistance levels even as ETF inflows and exchange outflows continue to build."
+        },
+        {
+          "title": "Bitcoin pump to $63,700 triggers the most short liquidations since late April",
+          "url": "https://www.coindesk.com/markets/2026/06/08/bitcoin-pump-to-usd63-700-triggers-the-most-short-liquidations-since-late-april",
+          "domain": "coindesk.com",
+          "date": "2026-06-08T05:53:22.000Z",
+          "source": "CoinDesk",
+          "summary": "Traders betting against bitcoin lost $504 million over 24 hours as it bounced from below $60,000, though a fresh Iran-Israel flare-up pulled prices back on Monday."
+        },
+        {
+          "title": "Major cryptocurrencies under pressure as oil jumps 3%",
+          "url": "https://www.coindesk.com/tech/2026/06/08/major-cryptocurrencies-under-pressure-as-oil-jumps-3",
+          "domain": "coindesk.com",
+          "date": "2026-06-08T05:08:06.000Z",
+          "source": "CoinDesk",
+          "summary": "BTC, ETH, XRP and others pulled back from their overnight highs as Iran-Israel tensions and oil rally triggered risk aversion in Asian stocks."
+        },
+        {
+          "title": "Tokenization firm Securitize clears key SEC hurdle for NYSE listing",
+          "url": "https://cointelegraph.com/news/securitize-gets-sec-nod-cantor-merger-nyse-listing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-08T04:34:47.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The firm announced that the US securities regulator has declared its S-4 registration statement effective, bringing it closer to a SPAC merger with Cantor Equity Partners II."
+        },
+        {
+          "title": "Bitcoin falls back below $63,000 as Iran-Israel trade strikes and Korean stocks crash",
+          "url": "https://www.coindesk.com/markets/2026/06/08/bitcoin-recedes-to-usd63-000-as-iran-israel-trade-strikes-and-korean-stocks-crash",
+          "domain": "coindesk.com",
+          "date": "2026-06-08T04:21:53.000Z",
+          "source": "CoinDesk",
+          "summary": "BTC has pulled back from overnight highs as escalating geopolitical tensions weigh over risk sentiment and send oil price higher."
+        },
+        {
+          "title": "Justin Sun’s HTX delists Trump family’s USD1 amid freeze fight",
+          "url": "https://cointelegraph.com/news/justin-suns-htx-delists-trump-familys-usd1-amid-freeze-fight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-08T03:26:59.000Z",
+          "source": "CoinTelegraph",
+          "summary": "HTX said World Liberty froze its addresses and has responded by delisting and suspending the platform’s token."
+        },
+        {
+          "title": "Bitcoin reclaims $63,000 in ‘oversold relief rally’; South Korea’s KOSPI plunges 8%",
+          "url": "https://www.theblock.co/post/403919/bitcoin-recovers-63000-kospi-plunges?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-08T03:07:41.000Z",
+          "source": "The Block",
+          "summary": "Presto's Min Jung told The Block that KOSPI's crash may have had some impact on bitcoin's recovery, but not substantially."
+        },
+        {
+          "title": "What Is Crypto Market Structure? A Guide to How Crypto Markets Work",
+          "url": "https://www.theblock.co/learn/403749/what-is-crypto-market-structure?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-08T02:05:08.000Z",
+          "source": "The Block",
+          "summary": "Crypto market structure refers to the framework of participants, platforms, rules, and infrastructure that comprise the digital asset markets. It includes crypto exchanges, brokers, custodians, market makers, token issuers, investors, and the regulators that oversee them. When lawmakers and analysts talk about “crypto market structure,” they are usually talking about who is allowed to do [&hellip;]"
+        },
+        {
           "title": "NY judge stays lawsuit seeking ownership of nearly 40,000 bitcoin wallets, sets July hearing on proposed amicus brief",
           "url": "https://www.theblock.co/post/403910/ny-judge-stays-lawsuit-seeking-ownership-of-nearly-40000-bitcoin-wallets-sets-july-hearing-on-proposed-amicus-brief?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
@@ -286,76 +350,12 @@
           "summary": "The brief, filed by attorney Ian R. Cohen, argues New York's lost-and-found statute cannot be used to claim \"lost\" assets controlled by private keys."
         },
         {
-          "title": "What happens to Bitcoin if the Nasdaq falls further?",
+          "title": "What happens to Bitcoin if Nasdaq falls further?",
           "url": "https://cointelegraph.com/markets/what-happens-to-bitcoin-if-the-nasdaq-falls-further?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
           "date": "2026-06-07T20:52:36.000Z",
           "source": "CoinTelegraph",
           "summary": "Bitcoin eyes a rally toward $92,630 as BTC defends key long-term support while the Nasdaq flashes deeper correction risks."
-        },
-        {
-          "title": "A quick review of the Ways and Means tax bills: State of Crypto",
-          "url": "https://www.coindesk.com/policy/2026/06/07/a-quick-review-of-the-ways-and-means-tax-bills-state-of-crypto",
-          "domain": "coindesk.com",
-          "date": "2026-06-07T20:27:12.000Z",
-          "source": "CoinDesk",
-          "summary": "The House Ways and Means Committee is gearing up for its big tax push."
-        },
-        {
-          "title": "Strategy’s Saylor signals BTC buy as preferred dividend pay date vote looms",
-          "url": "https://cointelegraph.com/news/strategys-saylor-signals-btc-buy-as-preferred-dividend-pay-date-vote-looms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-07T19:45:17.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Strategy’s top execs took to social media on Sunday to tout its Bitcoin strategy while shareholders cast final votes on a proposal for twice-monthly preferred stock dividend payments."
-        },
-        {
-          "title": "Michael Saylor revives bitcoin-buy speculation as scrutiny over Strategy grows",
-          "url": "https://www.coindesk.com/business/2026/06/06/michael-saylor-revives-bitcoin-buy-speculation-as-scrutiny-over-strategy-grows",
-          "domain": "coindesk.com",
-          "date": "2026-06-07T17:41:57.000Z",
-          "source": "CoinDesk",
-          "summary": "The firm's executive chairman posted a familiar chart with Strategy's previous BTC purchases writing \"a good time to add more dots.\""
-        },
-        {
-          "title": "JPMorgan says Strategy may need to rebuild dollar reserves to restore confidence",
-          "url": "https://www.theblock.co/post/403905/jpmorgan-strategy-dollar-reserves-crypto-bill-chance?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-07T17:08:36.000Z",
-          "source": "The Block",
-          "summary": "JPMorgan said crypto's outlook depends on Strategy's dividend plan and the Clarity Act, for which it now sees less than a 50% chance of passage this year."
-        },
-        {
-          "title": "Bitcoin near $60,000 today vs February: Institutional sentiment has flipped",
-          "url": "https://www.coindesk.com/markets/2026/06/07/bitcoin-near-usd60-000-today-vs-february-institutional-mood-is-starkly-different",
-          "domain": "coindesk.com",
-          "date": "2026-06-07T16:14:08.000Z",
-          "source": "CoinDesk",
-          "summary": "Bitcoin’s return to $60,000 is drawing heavy ETF outflows, marking a sharp reversal from February when institutional selling eased into the dip."
-        },
-        {
-          "title": "Bitcoin's slide has no single cause. AI, tech IPOs, quantum, Strategy sale all play a role, NYDIG says",
-          "url": "https://www.coindesk.com/markets/2026/06/07/bitcoin-s-slide-has-no-single-cause-ai-tech-ipos-quantum-strategy-sale-all-play-a-role-nydig-says",
-          "domain": "coindesk.com",
-          "date": "2026-06-07T16:00:00.000Z",
-          "source": "CoinDesk",
-          "summary": "Not one, but several overlapping headwinds are hitting the crypto market at once, weighing on bitcoin's price, the firm's head of research Greg Cipolaro said."
-        },
-        {
-          "title": "Michael Saylor hints at fresh bitcoin buy with ‘add more dots’ post as Strategy sits $11.7 billion underwater",
-          "url": "https://www.theblock.co/post/403900/michael-saylor-signals-fresh-bitcoin-buy-with-add-more-dots-post-as-strategy-sits-11-7-billion-underwater?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-07T15:03:24.000Z",
-          "source": "The Block",
-          "summary": "The post lands a week after Strategy revealed its first bitcoin sale since 2022 and one day before voting closes on a STRC dividend amendment."
-        },
-        {
-          "title": "Abra’s Bill Barhydt says Wall Street’s next crypto bet is tokenization",
-          "url": "https://www.coindesk.com/business/2026/06/07/abra-s-bill-barhydt-says-wall-street-s-next-crypto-bet-is-tokenization",
-          "domain": "coindesk.com",
-          "date": "2026-06-07T15:00:00.000Z",
-          "source": "CoinDesk",
-          "summary": "As Abra prepares for a Nasdaq debut, CEO Bill Barhydt is betting tokenized yield products and onchain lending will drive the next phase of crypto wealth management."
         }
       ]
     }
