@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-08T20:34:38.056Z",
+  "updatedAt": "2026-06-08T22:16:22.372Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -31,6 +31,14 @@
           "date": "2026-05-28T07:00:00.000Z",
           "source": "Binance",
           "summary": "What Is Decentralized Science (DeSci)? &nbsp;&nbsp; Binance"
+        },
+        {
+          "title": "0.0333 | BIO USDT | Bio Protocol to USDT – Binance Spot - Binance",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53SndoU2FlcDFqTUYwT05aRXRhaEl3dTB1RlhNWV9heU5IcVMzX1dpQjc0cDRYUFU4NURlQTNBQXVkeDg0eXBGSjVyUHppVWgtb0VvTDh0RDg2OUVBeWhiVk9XTjNZZHF5SGw5NG8wX1ZSbzZSVnJwTlVR?oc=5",
+          "domain": "binance.com",
+          "date": "2026-05-27T02:28:53.000Z",
+          "source": "Binance",
+          "summary": "0.0333 | BIO USDT | Bio Protocol to USDT – Binance Spot &nbsp;&nbsp; Binance"
         },
         {
           "title": "PEPTAI Price Swings Wild As Base Integration Fuels DeSci Hype - Cryptonews.net",
@@ -79,14 +87,6 @@
           "date": "2026-05-03T07:00:00.000Z",
           "source": "Pluang",
           "summary": "Bio Protocol leads Korea's Upbit trading with extreme greed signal, signaling high volatility and profit-taking. &nbsp;&nbsp; Pluang"
-        },
-        {
-          "title": "Bio Protocol Jumps 53.85% in Intraday Trading - bloomingbit",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TN0RaS1ExWkVmU1FzMXlsRUJQVmZhQ2lnNEdfcFVVMEloWHFuS3VDdnd5SlpLakNvNzIxdld1LTY5VWlVX2c4U2pZaUlTaHZybXUwag?oc=5",
-          "domain": "en.bloomingbit.io",
-          "date": "2026-05-02T07:00:00.000Z",
-          "source": "bloomingbit",
-          "summary": "Bio Protocol Jumps 53.85% in Intraday Trading &nbsp;&nbsp; bloomingbit"
         }
       ]
     },
@@ -278,6 +278,30 @@
       ],
       "articles": [
         {
+          "title": "Brazen bitcoin kidnapping and carjacking co-conspirator pleads guilty, faces up to 20 years in prison: DOJ",
+          "url": "https://www.theblock.co/post/404043/brazen-bitcoin-kidnapping-carjacking-pleads-guilty-faces-20-years-prison-doj?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-08T21:54:29.000Z",
+          "source": "The Block",
+          "summary": "Six men from Florida carjacked Sushil and Radhika Chetal's Lamborghini Urus, beat the couple and briefly detained them."
+        },
+        {
+          "title": "Crypto has ‘limited utility’ in solving AI’s trust and payment issues, IC3 researchers say",
+          "url": "https://www.theblock.co/post/404021/crypto-has-limited-utility-in-solving-ais-trust-and-payment-issues-ic3-researchers-say?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-08T21:23:31.000Z",
+          "source": "The Block",
+          "summary": "The academic researchers attempt to debunk idea that giving AI agents access to crypto wallets has the ability to make them autonomous."
+        },
+        {
+          "title": "Active tokenized RWAs surge almost 600% despite crypto pullback: Binance",
+          "url": "https://cointelegraph.com/news/tokenized-rwas-stocks-gold-real-estate-institutional-adoption-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-08T20:53:35.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Tokenized stocks, gold and real estate are driving broader adoption as banks and institutions embrace blockchain-based assets despite a weaker crypto market."
+        },
+        {
           "title": "Tokenized equities reach $5.5 billion market cap, fueled by SpaceX IPO access and exchange expansion",
           "url": "https://www.theblock.co/post/404034/tokenized-equities-5-5-billion-market-cap-fueled-spacex-ipo-exchange-expansion?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
@@ -332,30 +356,6 @@
           "date": "2026-06-08T15:41:10.000Z",
           "source": "CoinDesk",
           "summary": "The fallen crypto mogul serving a 25-year sentence filed a clemency petition, betting on Donald Trump's history of crypto pardons even though the president had told him not to count on one."
-        },
-        {
-          "title": "The startup killer: Ledger CTO says the EU's crushing compliance costs are choking Web3 innovation",
-          "url": "https://www.coindesk.com/business/2026/06/08/europe-s-strict-new-crypto-rules-are-crushing-small-startups-ledger-cto-says",
-          "domain": "coindesk.com",
-          "date": "2026-06-08T15:38:03.000Z",
-          "source": "CoinDesk",
-          "summary": "Industry insiders warn that MiCA's steep financial barriers are choking early-stage innovation."
-        },
-        {
-          "title": "Aave chief defends protocol's 'resilience' after $8.45 billion bank run",
-          "url": "https://www.coindesk.com/business/2026/06/08/aave-labs-founder-stani-kulechov-deflects-responsibility-in-usd8-billion-run-on-stage",
-          "domain": "coindesk.com",
-          "date": "2026-06-08T15:17:44.000Z",
-          "source": "CoinDesk",
-          "summary": "The founder of the largest DeFi platform blamed \"third-party” entities for decentralized finance’s vulnerabilities, while independent data highlights severe gaps in Aave’s own risk architecture."
-        },
-        {
-          "title": "Bitcoin price $60K support not yet safe as more macro headwinds stack up",
-          "url": "https://cointelegraph.com/markets/bitcoin-price-60k-support-not-yet-safe-as-more-macro-headwinds-stack-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-08T15:17:15.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Bitcoin analysis warned that $60,000 may not hold next, as bear-market moves continued and macro hurdles multiplied."
         }
       ]
     }
