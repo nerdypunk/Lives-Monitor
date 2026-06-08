@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-08T18:06:33.356Z",
+  "updatedAt": "2026-06-08T20:34:38.056Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -103,7 +103,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-08T17:54:43.000Z",
           "source": "Lifespan.io",
-          "summary": "Researchers have explained how a protein found in both yeast and humans facilitates the destruction of the core protein responsible for Parkinson’s disease. An aggregate that impairs clearance The loss […]"
+          "summary": "Researchers have explained how a protein found in both yeast and humans facilitates the destruction of the core protein responsible for […]"
         },
         {
           "title": "Osteoarthritis may be one disease after all, Oxford study finds",
@@ -278,6 +278,30 @@
       ],
       "articles": [
         {
+          "title": "Tokenized equities reach $5.5 billion market cap, fueled by SpaceX IPO access and exchange expansion",
+          "url": "https://www.theblock.co/post/404034/tokenized-equities-5-5-billion-market-cap-fueled-spacex-ipo-exchange-expansion?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-08T20:18:53.000Z",
+          "source": "The Block",
+          "summary": "The growth of the fourth-largest RWA category signals a structural demand trend as crypto users want access to equity markets."
+        },
+        {
+          "title": "Influential research firm that caused AI stock meltdown lays out Hyperliquid as 'compelling' idea",
+          "url": "https://www.coindesk.com/business/2026/06/08/influential-research-firm-that-caused-ai-stock-meltdown-lays-out-hyperliquid-as-compelling-idea",
+          "domain": "coindesk.com",
+          "date": "2026-06-08T18:41:04.000Z",
+          "source": "CoinDesk",
+          "summary": "Unlike most crypto, Hyperliquid actually generates cash flow and has a token buyback mechanism, says Citrini Research"
+        },
+        {
+          "title": "'Best thesis' for Bitcoin accumulation surfaces despite current downside risk: Analyst",
+          "url": "https://cointelegraph.com/markets/best-thesis-for-bitcoin-accumulation-surfaces-despite-downside-risk-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-08T18:11:29.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Record-low Bitcoin RSI readings and whale accumulation highlight a generational buying opportunity, even as analysts still expect BTC to fall below $60,000."
+        },
+        {
           "title": "Coinbase strategist says institutions aren’t panicking about bitcoin, ‘love it even more’ at lower prices",
           "url": "https://www.theblock.co/post/404019/coinbase-strategist-institutions-arent-panicking-bitcoin-love-more-lower-prices?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
@@ -332,30 +356,6 @@
           "date": "2026-06-08T15:17:15.000Z",
           "source": "CoinTelegraph",
           "summary": "Bitcoin analysis warned that $60,000 may not hold next, as bear-market moves continued and macro hurdles multiplied."
-        },
-        {
-          "title": "TON Strategy’s May staking haul tops 3.3 million TON as network upgrades take effect",
-          "url": "https://www.theblock.co/post/403992/ton-strategy-may-staking-3-3-million-network-upgrades-effect?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-08T14:48:41.000Z",
-          "source": "The Block",
-          "summary": "TON Strategy made approximately $5.6 million in staking rewards for May and is staking nearly all of its over 227 million tokens."
-        },
-        {
-          "title": "Spot Bitcoin ETFs bleed $1.7B as outflow streak hits four weeks",
-          "url": "https://cointelegraph.com/news/bitcoin-etfs-outflows-ether-altcoin-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-08T14:46:26.000Z",
-          "source": "CoinTelegraph",
-          "summary": "BlackRock’s IBIT accounted for most of the weekly Bitcoin ETF redemptions, while Fidelity and Grayscale funds also saw outflows."
-        },
-        {
-          "title": "Former FTX CEO Sam Bankman-Fried officially files for a presidential pardon from Trump",
-          "url": "https://www.theblock.co/post/404001/ftx-sam-bankman-fried-officially-files-presidential-pardon-trump?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-08T14:45:34.000Z",
-          "source": "The Block",
-          "summary": "Sam Bankman-Fried is pressing ahead with his bid for a presidential pardon, even after President Trump said he has no plans to grant clemency."
         }
       ]
     }
