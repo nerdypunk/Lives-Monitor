@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-09T07:55:01.175Z",
+  "updatedAt": "2026-06-09T11:21:14.524Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -98,6 +98,22 @@
       ],
       "articles": [
         {
+          "title": "From self-optimization of individuals to collective joy at scale",
+          "url": "https://longevity.technology/news/from-self-optimization-of-individuals-to-collective-joy-at-scale/",
+          "domain": "longevity.technology",
+          "date": "2026-06-09T10:30:27.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Tina Woods, Founder and CEO of Collider Health, explains why the positive psychosocial exposome is core to the next frontier of longevity. The longevity industry has spent the past decade building increasingly sophisticated tools to understand human biology. Today we can estimate biological age from blood tests, analyze organ-specific ageing trajectories, continuously monitor sleep, glucose […] The post From self-optimization of individuals to collective joy at scale appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "Life Bio reaches first clinical milestone for OSK therapy",
+          "url": "https://longevity.technology/news/life-bio-reaches-first-clinical-milestone-for-osk-therapy/",
+          "domain": "longevity.technology",
+          "date": "2026-06-09T10:00:00.000Z",
+          "source": "Longevity.Technology",
+          "summary": "First patient dosed in Phase 1 trial testing epigenetic restoration approach for progressive age-related vision loss. The longevity field has spent much of the past decade debating whether aging can be modified at the level of cellular identity itself. Now, one of the sector’s most closely watched theories is taking an important step into the […] The post Life Bio reaches first clinical milestone for OSK therapy appeared first on Longevity.Technology ."
+        },
+        {
           "title": "New CTO joins Rokit Healthcare to speed up kidney and cartilage treatment development",
           "url": "https://longevity.technology/news/new-cto-joins-rokit-healthcare-to-speed-up-kidney-and-cartilage-treatment-development/",
           "domain": "longevity.technology",
@@ -119,7 +135,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-08T17:54:43.000Z",
           "source": "Lifespan.io",
-          "summary": "Researchers have explained how a protein found in both yeast and humans facilitates the destruction of the core protein responsible for Parkinson’s disease. An […]"
+          "summary": "Researchers have explained how a protein found in both yeast and humans facilitates the destruction of the core protein responsible for Parkinson’s disease. An aggregate that impairs clearance The […]"
         },
         {
           "title": "Osteoarthritis may be one disease after all, Oxford study finds",
@@ -160,22 +176,6 @@
           "date": "2026-06-08T06:51:09.000Z",
           "source": "Longevity.Technology",
           "summary": "Muna Therapeutics announced on 4 June 2026 that a study led by collaborators across Europe was published in Nature Medicine, reporting that microglial state transitions play a central role in Alzheimer’s disease. The research used Muna’s MiND-MAP platform together with spatial transcriptomics and single-cell methods to map brain environments and to show that disease progression […] The post Muna Therapeutics’ Alzheimer’s drug targets key immune pathway identified in new study appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Celularity, Fountain Life to offer experimental cell therapy in Florida",
-          "url": "https://longevity.technology/news/celularity-fountain-life-to-offer-experimental-cell-therapy-in-florida/",
-          "domain": "longevity.technology",
-          "date": "2026-06-08T06:46:09.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Celularity and Fountain Life announced that Cenplacel-L, an investigational placental-derived allogeneic cell therapy (also known in clinical research as PDA-001 or PDA-002), is available for investigational use by licensed physicians in Florida under recently enacted state statutes that permit physician-directed use of certain cell therapies not approved by the FDA, effective 1 July 2025. Celularity […] The post Celularity, Fountain Life to offer experimental cell therapy in Florida appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Experimental obesity drug ribupatide drives up to 12% weight loss in Phase 2 trial",
-          "url": "https://longevity.technology/news/experimental-obesity-drug-ribupatide-drives-up-to-12-weight-loss-in-phase-2-trial/",
-          "domain": "longevity.technology",
-          "date": "2026-06-08T06:41:09.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Hengrui Pharma and Kailera Therapeutics presented clinical data for ribupatide, a GLP-1/GIP receptor dual agonist being developed as a once-weekly injection and a once-daily oral pill, at the 86th Scientific Sessions of the American Diabetes Association. Hengrui’s Phase 2 oral trial in China enrolled 166 participants (mean baseline weight 92.6 kg, mean BMI 33.3 kg/m2) […] The post Experimental obesity drug ribupatide drives up to 12% weight loss in Phase 2 trial appeared first on Longevity.Technology ."
         }
       ]
     },
@@ -187,6 +187,14 @@
         "https://phys.org/rss-feed/biology-news/biotechnology/"
       ],
       "articles": [
+        {
+          "title": "New 3D microscope technology captures high-resolution tissue images at a fraction of the cost",
+          "url": "https://phys.org/news/2026-06-3d-microscope-technology-captures-high.html",
+          "domain": "phys.org",
+          "date": "2026-06-09T09:00:08.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "A team led by Raju Tomer, professor of biological sciences at Columbia University, has created a new design for microscopes and microscope lenses that could push 3D tissue imaging beyond state-of-the-art systems while drastically cutting costs and complexity. Details of the design were published in the journal Nature Biotechnology."
+        },
         {
           "title": "The Montparnasse Algorithm for RNA Design",
           "url": "https://arxiv.org/abs/2606.07562",
@@ -258,14 +266,6 @@
           "date": "2026-06-09T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2606.08493v1 Announce Type: new Abstract: \\textit{Tissue graph counterfactuals} ask how a cell's expression would change under altered spatial neighbor contexts. Such queries are central to predicting cell behavior in tissues, but lack a unified definition, with existing methods targeting specific intervention types or treating cells as i.i.d. In this work, we first formalize \\textit{tissue graph counterfactuals} as a class of spatial interventions that either rewire connections between cells (\\textit{edge perturbation}) or modify the expression of their neighbors (\\textit{node perturbation}). We then introduce \\textit{Cellina} {\\renewcommand{\\thefootnote}{\\ddag}\\footnote{https://cellina.readthedocs.io}\\addtocounter{footnote}{-1}}, a framework that uses supervised disentanglement to decompose a cell's intrinsic state from its spatial context, using the latter as a conditioning input for counterfactual predictions. Across benchmarks spanning over 2.5 million spatially-resolved cells in colorectal cancer and mouse brain, \\textit{Cellina} outperforms spatially-informed and non-spatial competitors in tissue perturbations, disentanglement, and scalability. Additionally, we show that \\textit{Cellina} reveals biologically distinct cancer subdomains in an unsupervised manner and enables targeted neighbor perturbation simulations."
-        },
-        {
-          "title": "Protein Dynamics Beyond Structure Prediction",
-          "url": "https://arxiv.org/abs/2606.08647",
-          "domain": "arxiv.org",
-          "date": "2026-06-09T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2606.08647v1 Announce Type: new Abstract: The ability to predict protein three-dimensional structures from amino acid sequences is a landmark achievement in molecular biology, where recent deep learning approaches such as AlphaFold are the culmination of decades of work. Yet, the quantitative understanding of how protein sequences give rise to dynamic conformational changes and higher-order assemblies remains unsolved. Folding and conformational states are dynamic, stochastic processes, shaped by sequence, energy, co-translational constraints, chaperone machineries, and the physicochemical conditions of the cellular environment. Recent advances now position the field to move beyond static structural endpoints toward a mechanistic understanding of folding dynamics in living systems. Single-molecule techniques enable time-resolved observation of folding trajectories and intermediate states hitherto hidden by traditional structural biology approaches, while computational innovations and data-driven approaches offer new ways to integrate heterogeneous data across scales. In this Roadmap, we review the current conceptual landscape of protein folding, examine the experimental and theoretical gaps that remain, and discuss emerging strategies that integrate high-resolution measurements with multiscale modeling. We outline a roadmap toward a quantitative and predictive science of protein folding dynamics, conformational kinetics, and macromolecular self-assembly. Realizing this vision would transform our understanding of the dynamics of molecular self-organization, from the folding of individual polypeptides to the emergence of dynamic macromolecular complexes. This will enable rational control of folding and misfolding in health and disease, extend protein engineering principles beyond static structural design, and establish a mechanistic foundation for predictive and personalized interventions in proteostasis-related disorders."
         }
       ]
     },
@@ -278,84 +278,84 @@
       ],
       "articles": [
         {
-          "title": "Zcash finalizes Ironwood upgrade plan, targets July activation",
-          "url": "https://www.theblock.co/post/404065/zcash-finalizes-ironwood-upgrade-plan?utm_source=rss&utm_medium=rss",
+          "title": "Bitcoin's bounce isn't a bullish revival, with anything from $68,000 to $80,000 seen as a marker",
+          "url": "https://www.coindesk.com/daybook-us/2026/06/09/bitcoin-s-bounce-isn-t-a-bullish-revival-with-anything-from-usd68-000-to-usd80-000-seen-as-a-marker",
+          "domain": "coindesk.com",
+          "date": "2026-06-09T11:16:56.000Z",
+          "source": "CoinDesk",
+          "summary": "Your day-ahead look for June 9, 2026"
+        },
+        {
+          "title": "Strategy's bitcoin purchase fails to stir BTC price",
+          "url": "https://www.coindesk.com/markets/2026/06/09/strategy-s-bitcoin-purchase-fails-to-stir-btc-price",
+          "domain": "coindesk.com",
+          "date": "2026-06-09T10:37:56.000Z",
+          "source": "CoinDesk",
+          "summary": "Bitcoin is little changed despite a new purchase by Strategy as risk-averse investors await U.S. inflation data and next week’s Fed meeting."
+        },
+        {
+          "title": "Zodia Custody secures Luxembourg payment institution license to expand EU stablecoin services",
+          "url": "https://www.theblock.co/post/404086/zodia-custody-secures-luxembourg-payment-institution-license-to-expand-eu-stablecoin-services?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-06-09T07:14:26.000Z",
+          "date": "2026-06-09T10:36:52.000Z",
           "source": "The Block",
-          "summary": "The Ironwood upgrade would introduce a new shielded pool and ensure the circulating ZEC supply remains bounded."
+          "summary": "Zodia Custody secured a Luxembourg payment licence from the CSSF, enabling regulated stablecoin custody and transfers across the EU."
         },
         {
-          "title": "Over 200 crypto firms push Senate to pass CLARITY Act",
-          "url": "https://cointelegraph.com/news/over-200-crypto-firms-push-senate-to-pass-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "SBI Shinsei links bank deposits to crypto rewards in Japan: Nikkei",
+          "url": "https://cointelegraph.com/news/sbi-shinsei-bank-crypto-vouchers-deposit-interest-japan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-06-09T06:43:36.000Z",
+          "date": "2026-06-09T10:32:48.000Z",
           "source": "CoinTelegraph",
-          "summary": "Crypto lobby groups representing hundreds of organizations urged Senate leaders in a letter to schedule a vote on a key crypto bill ahead of the midterms."
+          "summary": "SBI will give out vouchers that can be redeemed for Bitcoin, Ether or XRP through SBI VC Trade, linking bank savings with the group’s crypto exchange arm."
         },
         {
-          "title": "AI agents with crypto could escape and become ‘unstoppable,’ experts warn",
-          "url": "https://cointelegraph.com/news/autonomous-ai-agents-with-crypto-access-could-become-unstoppable-warn-experts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-09T06:41:52.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Autonomous AI and crypto could have “far-reaching consequences for users and the financial system,” IC3 researchers said."
-        },
-        {
-          "title": "Bitcoin rebound highlights discount but $162M bid liquidity points to downside risk",
-          "url": "https://cointelegraph.com/markets/bitcoin-rallies-to-64k-but-162m-in-buy-orders-builds-below-price-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-09T06:15:15.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Bitcoin's recovery highlights investors' belief that BTC is discounted, but weak futures market activity could slow the rebound."
-        },
-        {
-          "title": "Saylor blamed AI for bitcoin crash. Arca has one word for that: Nonsense",
-          "url": "https://www.coindesk.com/markets/2026/06/09/saylor-blamed-ai-for-bitcoin-crash-arca-has-one-word-for-that-nonsense",
+          "title": "Circle debuts cirBTC on Ethereum to challenge Coinbase in the wrapped bitcoin market",
+          "url": "https://www.coindesk.com/business/2026/06/09/circle-debuts-cirbtc-on-ethereum-to-challenge-coinbase-in-the-wrapped-bitcoin-market",
           "domain": "coindesk.com",
-          "date": "2026-06-09T05:35:39.000Z",
+          "date": "2026-06-09T10:14:24.000Z",
           "source": "CoinDesk",
-          "summary": "Arca is blaming Strategy's sale of 32 BTC for last week's BTC crash, not AI capital rotation, as Strategy's Saylor claimed."
+          "summary": "Circle unveiled cirBTC, a token backed 1:1 by the world's largest cryptocurrency, to allow traders to use their bitcoin wealth in DeFi protocols."
         },
         {
-          "title": "Live markets: Bitcoin above $63,000 as some traders peg SpaceX's IPO as 'next catalyst'",
-          "url": "https://www.coindesk.com/business/2026/06/09/bitcoin-steady-above-usd63-000-bnb-sol-edge-higher-as-ai-stocks-rebound",
+          "title": "‘Stuck in distribution’: Bitcoin slips below $63,000 as analysts warn rallies are being sold, not bought",
+          "url": "https://www.theblock.co/post/404082/stuck-in-distribution-bitcoin-slips-below-63000-as-analysts-warn-rallies-are-being-sold-not-bought?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-09T10:13:19.000Z",
+          "source": "The Block",
+          "summary": "Bitcoin dropped below $63,000 as analysts warn of a distribution phase dominating accumulation appetite amid institutional outflows."
+        },
+        {
+          "title": "Japan’s SBI Shinsei Bank plans crypto rewards program for depositors this fall: Nikkei",
+          "url": "https://www.theblock.co/post/404080/japan-sbi-shinsei-bank-plans-crypto-rewards-program?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-09T09:52:51.000Z",
+          "source": "The Block",
+          "summary": "The program is set to grant customers vouchers worth 20% of their deposit interest payments, redeemable for cryptocurrencies."
+        },
+        {
+          "title": "US Bitcoin ETFs log further outflows, though analyst sees signs of easing selling pressure",
+          "url": "https://www.theblock.co/post/404075/us-bitcoin-etfs-four-week-negative-streak?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-09T09:41:34.000Z",
+          "source": "The Block",
+          "summary": "An analyst predicted that selling pressure in Bitcoin ETFs is starting to ease, pointing out that four funds saw net inflows for the day."
+        },
+        {
+          "title": "USDT's flashing a golden cross and that may be bad news for bitcoin",
+          "url": "https://www.coindesk.com/markets/2026/06/09/usdt-s-flashing-a-golden-cross-and-that-may-be-bad-news-for-bitcoin",
           "domain": "coindesk.com",
-          "date": "2026-06-09T05:17:13.000Z",
+          "date": "2026-06-09T09:27:02.000Z",
           "source": "CoinDesk",
-          "summary": "Stocks recovered through SpaceX's oversubscribed IPO, an Nvidia and SK Hynix chip pact, and Apple's AI reboot, while crypto trailed."
+          "summary": "USDT's dominance rate has flashed a golden crossover in a sign of caution for the broader crypto market."
         },
         {
-          "title": "Chinese mining CEO says Strategy can survive a $30,000 bitcoin without selling",
-          "url": "https://www.coindesk.com/markets/2026/06/08/chinese-mining-ceo-says-strategy-can-survive-a-usd30-000-bitcoin-without-selling",
+          "title": "Coinbase and Cardless unveil credit card backed by stablecoins",
+          "url": "https://www.coindesk.com/business/2026/06/09/coinbase-and-cardless-unveil-credit-card-backed-by-stablecoins",
           "domain": "coindesk.com",
-          "date": "2026-06-09T04:55:20.000Z",
+          "date": "2026-06-09T08:04:59.000Z",
           "source": "CoinDesk",
-          "summary": "Jiang Zhuoer of BTC.TOP called the week's selloff speculation overblown, arguing Strategy's small debt and the design of its preferred shares let it keep buying."
-        },
-        {
-          "title": "Humanity Protocol token crashes more than 80% after a $32 million private-key hack",
-          "url": "https://www.coindesk.com/tech/2026/06/09/humanity-protocol-token-crashes-more-than-80-after-a-usd32-million-private-key-hack",
-          "domain": "coindesk.com",
-          "date": "2026-06-09T04:54:48.000Z",
-          "source": "CoinDesk",
-          "summary": "The decentralized identity project said attackers compromised the keys of a foundation member and are dumping the stolen H tokens for ether."
-        },
-        {
-          "title": "UK financial regulator floats allowing 10% crypto allocations for retail funds",
-          "url": "https://cointelegraph.com/news/uk-fca-floats-allowing-10-crypto-allocations-for-retail-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-09T04:40:43.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The Financial Conduct Authority floated the idea of allowing limited exposure to crypto for retail-focused funds if it aligns with “disclosed investment objectives.”"
-        },
-        {
-          "title": "Humanity Protocol token falls 85% amid $30M private key exploit",
-          "url": "https://cointelegraph.com/news/humanity-h-token-tanks-85-following-30m-private-key-compromise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-09T03:26:44.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The compromise of private keys belonging to a member of the Humanity Foundation has reportedly resulted in the theft of at least $30 million worth of its native token."
+          "summary": "The stablecoin-secured card is for situations where a credit card cannot be approved on an unsecured basis."
         }
       ]
     }
