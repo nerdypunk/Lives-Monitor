@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-09T21:05:26.173Z",
+  "updatedAt": "2026-06-09T22:51:13.544Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -8,6 +8,14 @@
         "https://news.google.com/rss/search?q=DeSci%20OR%20%22decentralized%20science%22%20OR%20%22BIO%20Protocol%22&hl=en-US&gl=US&ceid=US:en"
       ],
       "articles": [
+        {
+          "title": "NanoVita Joins ENI Super Node Ecosystem to Advance AI-Driven DeSci - Cryptonews.net",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTeHF5X2owYXY0WXF1SjQzVjlkRGU3NG11UHMtaEJwUmZKRXlzTGtGTjhVem5IdGxIOFFYc1FzLWNXVzJaNVZ2MzNDcGQzWFd1UFZVVUdxaXJDWG5D?oc=5",
+          "domain": "cryptonews.net",
+          "date": "2026-06-07T10:09:56.000Z",
+          "source": "Cryptonews.net",
+          "summary": "NanoVita Joins ENI Super Node Ecosystem to Advance AI-Driven DeSci &nbsp;&nbsp; Cryptonews.net"
+        },
         {
           "title": "BIO Token Gains 19% As DeSci Narrative Draws Fresh Trader Interest - Yellow.com",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1NWDBRSEdsNWVRSm9RcWl5TGR1QTV4RnMzenZQQXpnMlh0SXNmUDZrZ1d2UzNRZGVDVTFQQnRSYnFGX24yZzdLTzYwSVBDLXkzeGFCeUl2V2R4M19CY2pNUGtQclhSUQ?oc=5",
@@ -79,14 +87,6 @@
           "date": "2026-05-03T07:00:00.000Z",
           "source": "Pluang",
           "summary": "Bio Protocol leads Korea's Upbit trading with extreme greed signal, signaling high volatility and profit-taking. &nbsp;&nbsp; Pluang"
-        },
-        {
-          "title": "Bio Protocol Jumps 53.85% in Intraday Trading - bloomingbit",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TN0RaS1ExWkVmU1FzMXlsRUJQVmZhQ2lnNEdfcFVVMEloWHFuS3VDdnd5SlpLakNvNzIxdld1LTY5VWlVX2c4U2pZaUlTaHZybXUwag?oc=5",
-          "domain": "en.bloomingbit.io",
-          "date": "2026-05-02T07:00:00.000Z",
-          "source": "bloomingbit",
-          "summary": "Bio Protocol Jumps 53.85% in Intraday Trading &nbsp;&nbsp; bloomingbit"
         }
       ]
     },
@@ -103,7 +103,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-09T21:04:41.000Z",
           "source": "Lifespan.io",
-          "summary": "In Aging Cell, researchers have described how a strain of Lactobacillus gut bacteria sends chemical signals that enter the bloodstream and decrease fibrosis in the lungs. The gut-lung axis The gut-brain axis, the term for how the […]"
+          "summary": "In Aging Cell, researchers have described how a strain of Lactobacillus gut bacteria sends chemical signals that enter the bloodstream and decrease fibrosis in the lungs. The gut-lung axis The […]"
         },
         {
           "title": "Fighting Parkinson’s by Restoring Protein Degradation",
@@ -111,7 +111,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-08T17:54:43.000Z",
           "source": "Lifespan.io",
-          "summary": "Researchers have explained how a protein found in both yeast and humans facilitates the destruction of the core protein responsible for Parkinson’s disease. An aggregate that impairs clearance The loss of […]"
+          "summary": "Researchers have explained how a protein found in both yeast and humans facilitates the destruction of the core protein responsible for Parkinson’s disease. An […]"
         },
         {
           "title": "Neurons’ Protein Disposal Trick Offers Alzheimer’s Insights",
@@ -119,7 +119,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-05T14:49:43.000Z",
           "source": "Lifespan.io",
-          "summary": "According to a new study, a special protein disposal system, currently found only in neurons, is linked to central hallmarks of Alzheimer’s disease [1]. The membranal proteasome Alzheimer’s disease is […]"
+          "summary": "According to a new study, a special protein disposal system, currently found only in neurons, is linked to central hallmarks of Alzheimer’s disease [1]. […]"
         },
         {
           "title": "Preventing Load-Induced Arthritis at the Cellular Level",
@@ -127,7 +127,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-04T17:37:51.000Z",
           "source": "Lifespan.io",
-          "summary": "Researchers have discovered that the osteoarthritis-inducing effects of excessive mechanical stress can be mitigated by increasing miR-330, a key regulator in cartilage and bone cells. Backbreaking labor is exactly that It has been long-held conventional wisdom that a lifetime […]"
+          "summary": "Researchers have discovered that the osteoarthritis-inducing effects of excessive mechanical stress can be mitigated by increasing miR-330, a key regulator in cartilage and bone cells. Backbreaking labor is exactly that It has been long-held conventional wisdom […]"
         },
         {
           "title": "Forever Healthy Foundation Launches Evipedia.ai",
@@ -135,7 +135,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-03T17:24:06.000Z",
           "source": "Lifespan.io",
-          "summary": "The Forever Healthy Foundation today publicly launched evipedia.ai, an open online encyclopedia of in-depth evidence reviews covering more than 500 health and longevity interventions, including first-generation rejuvenation […]"
+          "summary": "The Forever Healthy Foundation today publicly launched evipedia.ai, an open online encyclopedia of in-depth evidence reviews covering more than 500 health and longevity interventions, including first-generation […]"
         },
         {
           "title": "The Thalion Initiative: A New Non-Profit With Big Ambitions",
@@ -143,7 +143,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-02T15:23:03.000Z",
           "source": "Lifespan.io",
-          "summary": "The longevity field remains small and starved for resources, especially the subfield devoted to the fundamental biology of aging, despite near-universal agreement that solving aging requires understanding it first. With VCs looking for […]"
+          "summary": "The longevity field remains small and starved for resources, especially the subfield devoted to the fundamental biology of aging, despite near-universal agreement that solving aging requires understanding it first. With VCs looking for clinical successes and state […]"
         },
         {
           "title": "Rejuvenation Roundup May 2026",
@@ -151,7 +151,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-01T16:30:59.000Z",
           "source": "Lifespan.io",
-          "summary": "Approaches that modify the processes of aging at their roots have gone well beyond basic research and into therapies intended for the clinic within […]"
+          "summary": "Approaches that modify the processes of aging at their roots have gone well beyond basic research and into therapies intended for the […]"
         },
         {
           "title": "Harvard Publishes a Longevity Report for the General Public",
@@ -159,7 +159,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-29T16:09:27.000Z",
           "source": "Lifespan.io",
-          "summary": "The report, titled “Pathways to Longevity”, introduces several important longevity concepts to the general reader and is another sign that the field is coming of age and entering […]"
+          "summary": "The report, titled “Pathways to Longevity”, introduces several important longevity concepts to the general reader and is another sign that the field is coming of age and entering the mainstream. People do want […]"
         },
         {
           "title": "A Better Algorithm for Predicting How Cells Behave",
@@ -167,7 +167,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-28T22:27:12.000Z",
           "source": "Lifespan.io",
-          "summary": "In a preprint published in arXiv, researchers from Altos Labs have described a machine learning algorithm that performs end-to-end prediction of how cells’ gene expression will respond to […]"
+          "summary": "In a preprint published in arXiv, researchers from Altos Labs have described a machine learning algorithm that performs end-to-end prediction of […]"
         },
         {
           "title": "Early Cancer Cells Change Their Surroundings to Form Tumors",
@@ -175,7 +175,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-28T16:22:16.000Z",
           "source": "Lifespan.io",
-          "summary": "Scientists have demonstrated how cancer cells influence neighboring cells to create a favorable niche for the tumor to grow. This can inform future early-stage cancer therapies [1]. Cancer is a disease […]"
+          "summary": "Scientists have demonstrated how cancer cells influence neighboring cells to create a favorable niche for the tumor to grow. This can inform future early-stage cancer therapies [1]. Cancer is a disease of aging. With the exception of childhood cancers, most […]"
         }
       ]
     },
@@ -187,6 +187,30 @@
         "https://phys.org/rss-feed/biology-news/biotechnology/"
       ],
       "articles": [
+        {
+          "title": "To achieve 'AI for all' in agriculture, Canada's farmers need regional, systems‑level change",
+          "url": "https://phys.org/news/2026-06-ai-agriculture-canada-farmers-regional.html",
+          "domain": "phys.org",
+          "date": "2026-06-09T22:40:02.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Artificial intelligence (AI) is fundamentally reshaping the contours of life as we know it. In agriculture, the world market for AI is expected to reach almost US$47 billion by 2034. AI enables higher farm yields with fewer inputs, an outcome that matters deeply in an era of climate uncertainty and resource scarcity."
+        },
+        {
+          "title": "Chloroplast map reveals 'missing link' in plant growth and solar energy",
+          "url": "https://phys.org/news/2026-06-chloroplast-reveals-link-growth-solar.html",
+          "domain": "phys.org",
+          "date": "2026-06-09T22:00:01.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "For decades, science has understood the basics of photosynthesis, the process by which plants turn sunlight into food. However, photosynthesis occurs on uniquely specialized membranes that we have only begun to understand. These must be continually assembled, remodeled and repaired as plants grow and respond to stress."
+        },
+        {
+          "title": "Breaking tunnel vision, imaging AI lifts fluorescence image restoration accuracy and speed",
+          "url": "https://phys.org/news/2026-06-tunnel-vision-imaging-ai-fluorescence.html",
+          "domain": "phys.org",
+          "date": "2026-06-09T21:40:03.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Recent years have witnessed great advances in applying deep learning to improve fluorescence microscopy imaging. However, enhancing the fidelity of image restoration networks and improving their robustness under fluorescence noise remain significant challenges."
+        },
         {
           "title": "AI in nature conservation: Powerful tool or dangerous shortcut?",
           "url": "https://phys.org/news/2026-06-ai-nature-powerful-tool-dangerous.html",
@@ -242,30 +266,6 @@
           "date": "2026-06-09T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2606.07949v1 Announce Type: new Abstract: This study analyses the Ako tidal flat in the Seto Inland Sea, Japan, where nearly all Zostera marina disappeared within a single year in 2025. Using aerial photographs from the 1940s onward, high-resolution satellite imagery, GRUS images (2.5-5 m), and monthly Sentinel-2 composites (10 m), we reconstructed approximately 80 years of seagrass distribution. YOLO-based segmentation using deep learning achieved high accuracy (overall accuracy >= 0.9) across these datasets; although species could not be discriminated, the models captured the major temporal dynamics in vegetation area. The long-term mean seagrass area was 6.8 ha, but values fluctuated widely, from 3.5 ha in 1974 to 41.3 ha in 1989 except 0.2 ha in 2025. Sentinel-2 composites from 2019 to 2026 revealed clear seasonality, with vegetation increasing in early summer and declining from autumn. In 2025, however, the area decreased sharply after summer and remained anomalously low throughout the winter of 2025-2026. Our results, indicating that the 2025 event was not a normal fluctuation but a rapid ecosystem shift involving the loss of the dominant canopy-forming species, most plausibly driven by regionally elevated summer water temperatures. The findings also have implications for seagrass Essential Ocean Variables (EOVs) and the State of Nature (SoN) metrics used in TNFD-aligned nature-related disclosures. Unlike forests, seagrass meadows require finer temporal resolution because both pronounced seasonality and abrupt collapse strongly influence area-based indicators. Therefore, in addition to previously noted issues such as species-level classification accuracy, we recommend that (1) baselines be defined over the longest available record and justified ecologically, (2) seasonal standardization be applied before inter-annual comparisons, and (3) years with extreme area anomalies be flagged rather than used as reference points."
-        },
-        {
-          "title": "Biological Reasoning-Informed Regression for Interpretable Regulatory DNA Activity Prediction",
-          "url": "https://arxiv.org/abs/2606.08147",
-          "domain": "arxiv.org",
-          "date": "2026-06-09T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2606.08147v1 Announce Type: new Abstract: DNA cis-regulatory elements (CREs) such as enhancers control gene expression levels. Accurately predicting regulatory activity from DNA sequences is valuable but challenging, as it requires understanding complex biological regulatory processes. Existing methods typically regress activity scores from sequences in a black-box manner, limiting both interpretability and regression performance. Meanwhile, large language models (LLMs) benefit from explicit reasoning processes, yet directly applying LLMs to raw DNA sequences performs poorly. In this paper, we bridge this gap by introducing R3LM, a framework that teaches LLMs reasoning-informed regression on regulatory DNA through structured biological knowledge. Specifically, we design a biologically grounded data format that structures DNA's regulatory information for improved LLM understanding, and construct CRE-ReasonBench, the first dataset that associates DNA sequences and activity scores with mechanistic reasoning traces. Through two-stage training that first teaches LLMs reasoning over structured biological information then performs regression, R3LM achieves state-of-the-art performance on enhancer prediction across three cell types, outperforming both LLMs with raw sequence input and specialized DNA models while providing interpretable mechanistic explanations. We expect R3LM as an interpretable reward model that can effectively assist biologists in CRE design. Code is available at https://github.com/DuanYi516/R3LM."
-        },
-        {
-          "title": "MetaboliSim: a Python implementation of the Mader model for dynamic and steady-state simulation of muscular energy metabolism",
-          "url": "https://arxiv.org/abs/2606.08366",
-          "domain": "arxiv.org",
-          "date": "2026-06-09T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2606.08366v1 Announce Type: new Abstract: The Mader model is the most widely used mathematical framework for muscular energy metabolism in German-language sport science, underpinning lactate diagnostics, maximal lactate steady state (MLSS) estimation and training prescription. Despite decades of use, neither its dynamic ODE formulation nor its steady-state equations have been available as open code, leaving results based on the model impossible to reproduce independently. We close this gap with MetaboliSim, an open-source Python implementation of both formulations: a dynamic model that integrates the five-variable ODE system (phosphate potential, $\\dot{V}\\mathrm{O}_2$, muscle and blood lactate, and glycogen) with a fourth-order Runge-Kutta scheme, and a steady-state model that computes MLSS power and the lactate-power relationship in one- and two-compartment variants. We verified implementation correctness against published reference values and assessed physiological plausibility across constant-load, step-test, sprint and running protocols. The implementation reproduces the published reference output within stated tolerances and remains numerically stable throughout (halving the time step changes blood lactate by less than 0.01 mmol/L), with both formulations yielding congruent MLSS estimates. Key physiological behaviour ($\\dot{V}\\mathrm{O}_2$ on-kinetics, lactate accumulation, PCr dynamics and the sub/supra-MLSS separation) emerges directly from the model equations without protocol-specific tuning, and a sensitivity analysis shows MLSS power varying approximately linearly with $\\dot{V}\\mathrm{O}_{2\\max}$ and nonlinearly with $\\dot{V}\\mathrm{La}_{\\max}$. As the first openly available implementation of the complete Mader model (AGPL-3.0), MetaboliSim lets independent groups reproduce, verify and build on published model-based results. Source code: https://codeberg.org/3phos/metabolisim; Platform: https://metabolisim.org"
-        },
-        {
-          "title": "Cruise Ship-Associated Andes Virus Cluster aboard MV Hondius, 2026: A Stochastic Scenario Analysis",
-          "url": "https://arxiv.org/abs/2606.08391",
-          "domain": "arxiv.org",
-          "date": "2026-06-09T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2606.08391v1 Announce Type: new Abstract: In April 2026, the MV Hondius expedition cruise ship became the site of the first documented cruise ship-associated Andes hantavirus (ANDV) cluster, with 13 confirmed and probable cases and 3 deaths among 149 passengers and crew. We applied a stochastic epidemic model to evaluate four embarkation scenarios under reproductive numbers anchored to published ANDV estimates. Scenario D, involving two latent infected persons at embarkation, was most consistent with the observed outbreak, yielding P(final size >= 13) = 11.6% and P(takeoff) = 58.5% at R0 = 2.12. Approximate Bayesian computation provided complementary support for multiple latent infections at embarkation, especially E1(0)=1 and E3(0)=2, but R0 remained weakly identifiable. A day-35 transmission reduction changed takeoff probability little in this counterfactual model. Findings support exposure-history assessment, early onboard surveillance, rapid isolation of symptomatic cases, and postdisembarkation monitoring for travelers from ANDV-endemic regions."
         }
       ]
     },
@@ -277,6 +277,30 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "ETH crash to $1K looms if key support breaks: Will futures traders step in?",
+          "url": "https://cointelegraph.com/markets/ether-risks-revisit-of-1000-if-this-support-level-breaks-amid-leverage-reset-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-09T21:21:47.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Ether’s futures open interest fell by 25%, putting pressure on the $1,500 support level. Is a drop to $1,000 next?"
+        },
+        {
+          "title": "Crypto tax bills a work-in-progress as U.S. House lawmakers pose concerns",
+          "url": "https://www.coindesk.com/policy/2026/06/09/crypto-tax-bills-a-work-in-progress-as-u-s-house-lawmakers-pose-concerns",
+          "domain": "coindesk.com",
+          "date": "2026-06-09T21:06:01.000Z",
+          "source": "CoinDesk",
+          "summary": "The effort to push several tax bills is meant to be bipartisan, but the parties may not be comfortable with all details of the seven bills weighed by the panel."
+        },
+        {
+          "title": "Solana Institute CEO says CLARITY Act must shield open-source developers",
+          "url": "https://cointelegraph.com/news/solana-institute-ceo-clarity-act-developer-protections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-09T20:05:52.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Kristin Smith urged the Senate to preserve developer protections in the CLARITY Act, arguing open-source builders should not be regulated as financial intermediaries."
+        },
         {
           "title": "Securitize CEO says tokenized stocks could unlock a $5 trillion crypto market",
           "url": "https://www.coindesk.com/business/2026/06/09/securitize-ceo-says-tokenized-stocks-could-unlock-a-usd5-trillion-crypto-market",
@@ -332,30 +356,6 @@
           "date": "2026-06-09T15:39:13.000Z",
           "source": "CoinDesk",
           "summary": "The Financial Conduct Authority proposed allowing some investment schemes to add exposure to crypto exchange-traded notes."
-        },
-        {
-          "title": "5 corruption gaps Congress must close in the Clarity Act",
-          "url": "https://www.coindesk.com/opinion/2026/06/09/5-corruption-gaps-congress-must-close-in-the-clarity-act",
-          "domain": "coindesk.com",
-          "date": "2026-06-09T15:30:00.000Z",
-          "source": "CoinDesk",
-          "summary": "The most consequential crypto legislation in the world is moving forward in the U.S. Senate. As written, it leaves the United States exposed to money laundering, sanctions evasion, and conflicts of interest at the highest levels of government, argues Greytak."
-        },
-        {
-          "title": "New Aave risk framework proposed following KelpDAO exploit",
-          "url": "https://www.theblock.co/post/404136/new-aave-risk-framework-proposed-following-kelpdao-exploit?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-09T15:08:35.000Z",
-          "source": "The Block",
-          "summary": "Aave founder Stani Kulechov said once the proposal passes the framework will be applied across all markets and assets."
-        },
-        {
-          "title": "Bitcoin price slips toward $62K local lows as bear-market history keeps repeating",
-          "url": "https://cointelegraph.com/markets/bitcoin-price-slips-toward-62k-local-lows-as-bear-market-history-keeps-repeating?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-09T15:05:28.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Bitcoin bear market analysis showed copycat BTC price moves ongoing despite new hopes of a US-Iran peace deal."
         }
       ]
     }
