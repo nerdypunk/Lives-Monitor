@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-09T11:21:14.524Z",
+  "updatedAt": "2026-06-09T14:00:34.788Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -98,6 +98,22 @@
       ],
       "articles": [
         {
+          "title": "If you could freeze a healthier version of yourself…",
+          "url": "https://longevity.technology/news/if-you-could-freeze-a-healthier-version-of-yourself/",
+          "domain": "longevity.technology",
+          "date": "2026-06-09T13:01:09.000Z",
+          "source": "Longevity.Technology",
+          "summary": "As regenerative medicine advances, preserving your younger cells today could unlock therapies that don’t yet exist. “There’s no cell metabolism. The cells are literally frozen in time.” Preserving a younger version of yourself today so that decades from now, when age has inevitably taken its toll, you can return to those cells and put them […] The post If you could freeze a healthier version of yourself… appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "Blood tests from home? Alamar pushes proteomics beyond clinic",
+          "url": "https://longevity.technology/news/blood-tests-from-home-alamar-pushes-proteomics-beyond-clinic/",
+          "domain": "longevity.technology",
+          "date": "2026-06-09T12:32:40.000Z",
+          "source": "Longevity.Technology",
+          "summary": "New dried blood spot kit could make large-scale longevity and disease research easier, cheaper and more inclusive. One of the biggest barriers to large-scale health research has been getting people to show up for blood tests. Whether researchers are studying Alzheimer’s disease, chronic inflammation or the biological changes associated with aging, collecting samples typically requires […] The post Blood tests from home? Alamar pushes proteomics beyond clinic appeared first on Longevity.Technology ."
+        },
+        {
           "title": "From self-optimization of individuals to collective joy at scale",
           "url": "https://longevity.technology/news/from-self-optimization-of-individuals-to-collective-joy-at-scale/",
           "domain": "longevity.technology",
@@ -135,7 +151,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-08T17:54:43.000Z",
           "source": "Lifespan.io",
-          "summary": "Researchers have explained how a protein found in both yeast and humans facilitates the destruction of the core protein responsible for Parkinson’s disease. An aggregate that impairs clearance The […]"
+          "summary": "Researchers have explained how a protein found in both yeast and humans facilitates the destruction of the core protein responsible for Parkinson’s disease. An aggregate that impairs clearance The loss of proteostasis […]"
         },
         {
           "title": "Osteoarthritis may be one disease after all, Oxford study finds",
@@ -160,22 +176,6 @@
           "date": "2026-06-08T14:11:32.000Z",
           "source": "Longevity.Technology",
           "summary": "With their healthspan eroding in real time, Vallige Founder and CEO Matt Tullis explains why caregiver burnout is longevity’s hidden crisis. In the world of dementia care, “patient” is a word people try not to use. Hospitals, day programs, and assisted-living teams have largely retired it. It can put the person living with dementia (PLWD) […] The post The second patient in the room appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Longevitix launches AI platform to tackle longevity data overload",
-          "url": "https://longevity.technology/news/longevitix-launches-ai-platform-to-tackle-longevity-data-overload/",
-          "domain": "longevity.technology",
-          "date": "2026-06-08T12:01:04.000Z",
-          "source": "Longevity.Technology",
-          "summary": "New clinical intelligence system aims to help physicians navigate fragmented data and deliver continuous preventive care. Longevity medicine no longer has a data acquisition problem; it has an interpretation crisis. Biomarkers, advanced diagnostics and wearables are generating unprecedented volume – the question is no longer whether clinicians can gather the data, but whether they can […] The post Longevitix launches AI platform to tackle longevity data overload appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Muna Therapeutics’ Alzheimer’s drug targets key immune pathway identified in new study",
-          "url": "https://longevity.technology/news/muna-therapeutics-alzheimers-drug-targets-key-immune-pathway-identified-in-new-study/",
-          "domain": "longevity.technology",
-          "date": "2026-06-08T06:51:09.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Muna Therapeutics announced on 4 June 2026 that a study led by collaborators across Europe was published in Nature Medicine, reporting that microglial state transitions play a central role in Alzheimer’s disease. The research used Muna’s MiND-MAP platform together with spatial transcriptomics and single-cell methods to map brain environments and to show that disease progression […] The post Muna Therapeutics’ Alzheimer’s drug targets key immune pathway identified in new study appeared first on Longevity.Technology ."
         }
       ]
     },
@@ -187,6 +187,14 @@
         "https://phys.org/rss-feed/biology-news/biotechnology/"
       ],
       "articles": [
+        {
+          "title": "Some drugs 'fail' because of unrealistic testing conditions, scientists discover",
+          "url": "https://phys.org/news/2026-06-drugs-unrealistic-conditions-scientists.html",
+          "domain": "phys.org",
+          "date": "2026-06-09T13:40:03.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "A drug once dismissed as ineffective suddenly worked—when scientists tested it under more realistic conditions that mimic the human body. In this surprising new discovery, Northwestern University scientists uncovered a hidden rule of drug behavior. A medicine's effectiveness can change dramatically depending on the conditions inside our cells."
+        },
         {
           "title": "New 3D microscope technology captures high-resolution tissue images at a fraction of the cost",
           "url": "https://phys.org/news/2026-06-3d-microscope-technology-captures-high.html",
@@ -258,14 +266,6 @@
           "date": "2026-06-09T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2606.08475v1 Announce Type: new Abstract: Ordinary differential equation models are widely used to understand and forecast complex dynamical systems, but their predictive value depends on reliable parameter estimation. Structural identifiability assesses whether parameters can be uniquely recovered from ideal observations, whereas practical identifiability depends on finite, noisy and partially observed data. We introduce the Practical Identifiability Index (PII), a marginal uncertainty-width metric based on the logarithmic span of confidence intervals. Expressed on an order-of-magnitude scale, the PII summarises how tightly individual positive-valued parameters are constrained by available observations, enabling comparison across parameters, models, error structures and observation designs. The PII is intended as a complementary diagnostic, not a standalone identifiability test, and should be interpreted alongside coverage, profile likelihoods, posterior summaries, sensitivity analysis or structural identifiability results. Using parametric bootstrap experiments across growth and compartmental epidemic models, we identify consistent principles: uncertainty decreases as calibration windows become more informative, increases with observation noise and parameter coupling, and remains high for latent or indirectly observed processes. Parameters governing early observable dynamics become constrained sooner, while additional observables can improve constraint for latent progression and recovery parameters. The PII provides a simple, reportable summary of marginal parameter uncertainty for dynamical modelling."
-        },
-        {
-          "title": "Querying Counterfactuals on Tissue Graphs with Supervised Disentanglement",
-          "url": "https://arxiv.org/abs/2606.08493",
-          "domain": "arxiv.org",
-          "date": "2026-06-09T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2606.08493v1 Announce Type: new Abstract: \\textit{Tissue graph counterfactuals} ask how a cell's expression would change under altered spatial neighbor contexts. Such queries are central to predicting cell behavior in tissues, but lack a unified definition, with existing methods targeting specific intervention types or treating cells as i.i.d. In this work, we first formalize \\textit{tissue graph counterfactuals} as a class of spatial interventions that either rewire connections between cells (\\textit{edge perturbation}) or modify the expression of their neighbors (\\textit{node perturbation}). We then introduce \\textit{Cellina} {\\renewcommand{\\thefootnote}{\\ddag}\\footnote{https://cellina.readthedocs.io}\\addtocounter{footnote}{-1}}, a framework that uses supervised disentanglement to decompose a cell's intrinsic state from its spatial context, using the latter as a conditioning input for counterfactual predictions. Across benchmarks spanning over 2.5 million spatially-resolved cells in colorectal cancer and mouse brain, \\textit{Cellina} outperforms spatially-informed and non-spatial competitors in tissue perturbations, disentanglement, and scalability. Additionally, we show that \\textit{Cellina} reveals biologically distinct cancer subdomains in an unsupervised manner and enables targeted neighbor perturbation simulations."
         }
       ]
     },
@@ -278,84 +278,84 @@
       ],
       "articles": [
         {
-          "title": "Bitcoin's bounce isn't a bullish revival, with anything from $68,000 to $80,000 seen as a marker",
-          "url": "https://www.coindesk.com/daybook-us/2026/06/09/bitcoin-s-bounce-isn-t-a-bullish-revival-with-anything-from-usd68-000-to-usd80-000-seen-as-a-marker",
+          "title": "CoinDesk 20 performance update: AAVE Drops 2.6% as all constituents trade lower",
+          "url": "https://www.coindesk.com/coindesk-indices/2026/06/09/coindesk-20-performance-update-aave-drops-2-6-as-all-constituents-trade-lower",
           "domain": "coindesk.com",
-          "date": "2026-06-09T11:16:56.000Z",
+          "date": "2026-06-09T13:16:44.000Z",
           "source": "CoinDesk",
-          "summary": "Your day-ahead look for June 9, 2026"
+          "summary": "Uniswap (UNI), down 2.9% from Monday, joined Aave (AAVE) as an underperformer."
         },
         {
-          "title": "Strategy's bitcoin purchase fails to stir BTC price",
-          "url": "https://www.coindesk.com/markets/2026/06/09/strategy-s-bitcoin-purchase-fails-to-stir-btc-price",
-          "domain": "coindesk.com",
-          "date": "2026-06-09T10:37:56.000Z",
-          "source": "CoinDesk",
-          "summary": "Bitcoin is little changed despite a new purchase by Strategy as risk-averse investors await U.S. inflation data and next week’s Fed meeting."
-        },
-        {
-          "title": "Zodia Custody secures Luxembourg payment institution license to expand EU stablecoin services",
-          "url": "https://www.theblock.co/post/404086/zodia-custody-secures-luxembourg-payment-institution-license-to-expand-eu-stablecoin-services?utm_source=rss&utm_medium=rss",
+          "title": "Backpack US appoints former SEC Acting Chairman Piwowar to board amid push for crypto perps",
+          "url": "https://www.theblock.co/post/404084/backpack-us-appoints-former-sec-acting-chairman-piwowar-to-board-amid-push-for-crypto-perps?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-06-09T10:36:52.000Z",
+          "date": "2026-06-09T13:05:03.000Z",
           "source": "The Block",
-          "summary": "Zodia Custody secured a Luxembourg payment licence from the CSSF, enabling regulated stablecoin custody and transfers across the EU."
+          "summary": "Michael S. Piwowar was appointed by President Barack Obama and served as an SEC commissioner from 2013 to 2018."
         },
         {
-          "title": "SBI Shinsei links bank deposits to crypto rewards in Japan: Nikkei",
-          "url": "https://cointelegraph.com/news/sbi-shinsei-bank-crypto-vouchers-deposit-interest-japan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "Janus Henderson takes ENA position, eyes regulated investment products tied to Ethena",
+          "url": "https://www.theblock.co/post/404109/janus-henderson-takes-ena-position-eyes-regulated-investment-products-tied-to-ethena?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-09T13:05:03.000Z",
+          "source": "The Block",
+          "summary": "Janus Henderson took an ENA position and outlined plans for regulated investment products tied to the Ethena ecosystem."
+        },
+        {
+          "title": "Bitcoin inflows slow sharply in 2026 as investors chase AI, Bernstein says",
+          "url": "https://www.coindesk.com/markets/2026/06/09/bitcoin-inflows-slow-sharply-in-2026-as-investors-chase-ai-bernstein-says",
+          "domain": "coindesk.com",
+          "date": "2026-06-09T13:02:48.000Z",
+          "source": "CoinDesk",
+          "summary": "Bernstein said bitcoin's increasingly diversified ownership base supports its long-term store-of-value thesis."
+        },
+        {
+          "title": "GSR receives FINRA approval to complete broker-dealer acquisition",
+          "url": "https://www.theblock.co/post/404097/gsr-receives-finra-approval-to-complete-broker-dealer-acquisition?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-09T13:00:00.000Z",
+          "source": "The Block",
+          "summary": "GSR first announced it would acquire the Portland-based, SEC-registered broker-dealer Equilibrium Capital Services in October 2025."
+        },
+        {
+          "title": "BlackRock warns of energy shock as May CPI is set to show acceleration in inflation",
+          "url": "https://www.coindesk.com/markets/2026/06/09/blackrock-warns-of-energy-shock-as-may-cpi-is-set-to-show-acceleration-in-inflation",
+          "domain": "coindesk.com",
+          "date": "2026-06-09T12:58:09.000Z",
+          "source": "CoinDesk",
+          "summary": "BlackRock is closely watching Wednesday's CPI as an early test of how U.S.-Iran tensions are feeding into already elevated prices in the economy."
+        },
+        {
+          "title": "Live updates: bitcoin drifts back to $62,500, putting damper on hope for two straight up days",
+          "url": "https://www.coindesk.com/tech/2026/06/09/live-updates-bitcoin-drifts-back-to-usd62-500-putting-damper-on-hope-for-two-straight-up-days",
+          "domain": "coindesk.com",
+          "date": "2026-06-09T12:52:07.000Z",
+          "source": "CoinDesk",
+          "summary": "Crypto prices rose on Monday following last week's crash, but the bears still appear to be in control."
+        },
+        {
+          "title": "Morpho raises $175M in round co-led by Paradigm, a16z crypto and Ribbit Capital to build ‘open credit network’",
+          "url": "https://www.theblock.co/post/404111/morpho-raises-175m-paradigm-a16z-crypto-ribbit-capital?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-09T12:47:12.000Z",
+          "source": "The Block",
+          "summary": "Morpho plans to build an open blockchain-based credit network to connect decentralized finance, Wall Street, and global markets."
+        },
+        {
+          "title": "MiCA architect says EU should prioritize tokenization over DeFi rules",
+          "url": "https://cointelegraph.com/news/eu-broader-crypto-market-framework-mica-2-defi-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-06-09T10:32:48.000Z",
+          "date": "2026-06-09T12:30:52.000Z",
           "source": "CoinTelegraph",
-          "summary": "SBI will give out vouchers that can be redeemed for Bitcoin, Ether or XRP through SBI VC Trade, linking bank savings with the group’s crypto exchange arm."
+          "summary": "One of MiCA's architects said he sees no need to regulate DeFi as the European Commission gathers feedback on the framework's future."
         },
         {
-          "title": "Circle debuts cirBTC on Ethereum to challenge Coinbase in the wrapped bitcoin market",
-          "url": "https://www.coindesk.com/business/2026/06/09/circle-debuts-cirbtc-on-ethereum-to-challenge-coinbase-in-the-wrapped-bitcoin-market",
-          "domain": "coindesk.com",
-          "date": "2026-06-09T10:14:24.000Z",
-          "source": "CoinDesk",
-          "summary": "Circle unveiled cirBTC, a token backed 1:1 by the world's largest cryptocurrency, to allow traders to use their bitcoin wealth in DeFi protocols."
-        },
-        {
-          "title": "‘Stuck in distribution’: Bitcoin slips below $63,000 as analysts warn rallies are being sold, not bought",
-          "url": "https://www.theblock.co/post/404082/stuck-in-distribution-bitcoin-slips-below-63000-as-analysts-warn-rallies-are-being-sold-not-bought?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-09T10:13:19.000Z",
-          "source": "The Block",
-          "summary": "Bitcoin dropped below $63,000 as analysts warn of a distribution phase dominating accumulation appetite amid institutional outflows."
-        },
-        {
-          "title": "Japan’s SBI Shinsei Bank plans crypto rewards program for depositors this fall: Nikkei",
-          "url": "https://www.theblock.co/post/404080/japan-sbi-shinsei-bank-plans-crypto-rewards-program?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-09T09:52:51.000Z",
-          "source": "The Block",
-          "summary": "The program is set to grant customers vouchers worth 20% of their deposit interest payments, redeemable for cryptocurrencies."
-        },
-        {
-          "title": "US Bitcoin ETFs log further outflows, though analyst sees signs of easing selling pressure",
-          "url": "https://www.theblock.co/post/404075/us-bitcoin-etfs-four-week-negative-streak?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-09T09:41:34.000Z",
-          "source": "The Block",
-          "summary": "An analyst predicted that selling pressure in Bitcoin ETFs is starting to ease, pointing out that four funds saw net inflows for the day."
-        },
-        {
-          "title": "USDT's flashing a golden cross and that may be bad news for bitcoin",
-          "url": "https://www.coindesk.com/markets/2026/06/09/usdt-s-flashing-a-golden-cross-and-that-may-be-bad-news-for-bitcoin",
-          "domain": "coindesk.com",
-          "date": "2026-06-09T09:27:02.000Z",
-          "source": "CoinDesk",
-          "summary": "USDT's dominance rate has flashed a golden crossover in a sign of caution for the broader crypto market."
-        },
-        {
-          "title": "Coinbase and Cardless unveil credit card backed by stablecoins",
-          "url": "https://www.coindesk.com/business/2026/06/09/coinbase-and-cardless-unveil-credit-card-backed-by-stablecoins",
-          "domain": "coindesk.com",
-          "date": "2026-06-09T08:04:59.000Z",
-          "source": "CoinDesk",
-          "summary": "The stablecoin-secured card is for situations where a credit card cannot be approved on an unsecured basis."
+          "title": "Bitcoin 'normal' 4-year cycle puts focus on $53K low before 2028 BTC price high",
+          "url": "https://cointelegraph.com/markets/bitcoin-normal-four-year-cycle-puts-focus-on-53k-low-before-2028-btc-price-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-09T12:25:03.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bitcoin trader said that BTC price was approaching its cycle bottom \"window\" with the $53,000 cycle midpoint a potential buy-in level."
         }
       ]
     }
