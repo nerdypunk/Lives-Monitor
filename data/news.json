@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-09T16:39:33.663Z",
+  "updatedAt": "2026-06-09T19:00:07.411Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -127,7 +127,7 @@
           "domain": "longevity.technology",
           "date": "2026-06-09T10:30:27.000Z",
           "source": "Longevity.Technology",
-          "summary": "Tina Woods, Founder and CEO of Collider Health, explains why the positive psychosocial exposome is core to the next frontier of longevity. The longevity industry has spent the past decade building increasingly sophisticated tools to understand human biology. Today we can estimate biological age from blood tests, analyze organ-specific ageing trajectories, continuously monitor sleep, glucose […] The post From self-optimization of individuals to collective joy at scale appeared first on Longevity.Technology ."
+          "summary": "Tina Woods, Founder and CEO of Collider Health, explains why the positive psychosocial exposome is core to the next frontier of longevity. The longevity industry has spent the past decade building increasingly sophisticated tools to understand human biology. Today we can estimate biological age from blood tests, analyze organ-specific aging trajectories, continuously monitor sleep, glucose […] The post From self-optimization of individuals to collective joy at scale appeared first on Longevity.Technology ."
         },
         {
           "title": "Life Bio reaches first clinical milestone for OSK therapy",
@@ -159,7 +159,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-08T17:54:43.000Z",
           "source": "Lifespan.io",
-          "summary": "Researchers have explained how a protein found in both yeast and humans facilitates the destruction of the core protein responsible for Parkinson’s […]"
+          "summary": "Researchers have explained how a protein found in both yeast and humans facilitates the destruction of the core protein responsible for Parkinson’s disease. An aggregate that impairs clearance The loss […]"
         },
         {
           "title": "Osteoarthritis may be one disease after all, Oxford study finds",
@@ -187,6 +187,14 @@
         "https://phys.org/rss-feed/biology-news/biotechnology/"
       ],
       "articles": [
+        {
+          "title": "AI in nature conservation: Powerful tool or dangerous shortcut?",
+          "url": "https://phys.org/news/2026-06-ai-nature-powerful-tool-dangerous.html",
+          "domain": "phys.org",
+          "date": "2026-06-09T19:00:04.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Conservationists analyze overwhelming volumes of ecological data in their work. For example, they might need to process decades of weather data or the movements of millions of insects. Up until now, these scientists and decision makers have had to manually find and sort information, then use statistical tools which often oversimplify the source information."
+        },
         {
           "title": "Some drugs 'fail' because of unrealistic testing conditions, scientists discover",
           "url": "https://phys.org/news/2026-06-drugs-unrealistic-conditions-scientists.html",
@@ -258,14 +266,6 @@
           "date": "2026-06-09T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2606.08391v1 Announce Type: new Abstract: In April 2026, the MV Hondius expedition cruise ship became the site of the first documented cruise ship-associated Andes hantavirus (ANDV) cluster, with 13 confirmed and probable cases and 3 deaths among 149 passengers and crew. We applied a stochastic epidemic model to evaluate four embarkation scenarios under reproductive numbers anchored to published ANDV estimates. Scenario D, involving two latent infected persons at embarkation, was most consistent with the observed outbreak, yielding P(final size >= 13) = 11.6% and P(takeoff) = 58.5% at R0 = 2.12. Approximate Bayesian computation provided complementary support for multiple latent infections at embarkation, especially E1(0)=1 and E3(0)=2, but R0 remained weakly identifiable. A day-35 transmission reduction changed takeoff probability little in this counterfactual model. Findings support exposure-history assessment, early onboard surveillance, rapid isolation of symptomatic cases, and postdisembarkation monitoring for travelers from ANDV-endemic regions."
-        },
-        {
-          "title": "Parameter uncertainty in dynamical models: a practical identifiability index",
-          "url": "https://arxiv.org/abs/2606.08475",
-          "domain": "arxiv.org",
-          "date": "2026-06-09T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2606.08475v1 Announce Type: new Abstract: Ordinary differential equation models are widely used to understand and forecast complex dynamical systems, but their predictive value depends on reliable parameter estimation. Structural identifiability assesses whether parameters can be uniquely recovered from ideal observations, whereas practical identifiability depends on finite, noisy and partially observed data. We introduce the Practical Identifiability Index (PII), a marginal uncertainty-width metric based on the logarithmic span of confidence intervals. Expressed on an order-of-magnitude scale, the PII summarises how tightly individual positive-valued parameters are constrained by available observations, enabling comparison across parameters, models, error structures and observation designs. The PII is intended as a complementary diagnostic, not a standalone identifiability test, and should be interpreted alongside coverage, profile likelihoods, posterior summaries, sensitivity analysis or structural identifiability results. Using parametric bootstrap experiments across growth and compartmental epidemic models, we identify consistent principles: uncertainty decreases as calibration windows become more informative, increases with observation noise and parameter coupling, and remains high for latent or indirectly observed processes. Parameters governing early observable dynamics become constrained sooner, while additional observables can improve constraint for latent progression and recovery parameters. The PII provides a simple, reportable summary of marginal parameter uncertainty for dynamical modelling."
         }
       ]
     },
@@ -277,6 +277,38 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "Hyperliquid advocate and Paradigm urge US to revise proposed anti-money laundering rule",
+          "url": "https://www.theblock.co/post/404159/hyperliquid-advocate-paradigm-urge-us-revise-proposed-anti-money-laundering-rule?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-09T18:37:53.000Z",
+          "source": "The Block",
+          "summary": "The Hyperliquid-backed lobby group and Paradigm seek to prevent rules that would limit decentralized stablecoin usage on public blockchains."
+        },
+        {
+          "title": "Bitcoin may act as a ‘canary in the coal mine’ as risk-off pressure spreads: Bitwise",
+          "url": "https://cointelegraph.com/markets/bitcoin-may-act-as-a-canary-in-the-coal-mine-as-risk-off-pressure-spreads-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-09T17:48:44.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bitwise research suggests that Bitcoin is leading a broader risk-off move across markets as global liquidity and stablecoin reserves remain elevated."
+        },
+        {
+          "title": "Warren calls weakened CFTC a ‘recipe for disaster’ as Congress advances crypto legislation",
+          "url": "https://www.theblock.co/post/404147/warren-weakened-cftc-recipe-disaster-congress-advances-crypto-legislation?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-09T17:48:06.000Z",
+          "source": "The Block",
+          "summary": "Senator Warren requested records related to staff departures, prediction market oversight and internal communications on the Clarity Act."
+        },
+        {
+          "title": "BBB refers prediction market Kalshi to state regulators over ad inquiry",
+          "url": "https://cointelegraph.com/news/bbb-nad-refers-kalshi-state-regulators-advertising-influencer-inquiry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-09T17:26:49.000Z",
+          "source": "CoinTelegraph",
+          "summary": "A BBB advertising watchdog escalated its review of Kalshi after the prediction market platform declined to participate in an inquiry into influencer disclosure practices."
+        },
         {
           "title": "‘Third leg of the stool:’ House lawmakers set to debate crypto tax bills as questions still loom",
           "url": "https://www.theblock.co/post/404146/third-leg-stool-house-lawmakers-to-debate-crypto-tax-bills-questions-still-loom?utm_source=rss&utm_medium=rss",
@@ -324,38 +356,6 @@
           "date": "2026-06-09T15:03:26.000Z",
           "source": "CoinDesk",
           "summary": "Equipment-financing lender Trad.Fi is working with W3 to automate capital workflows and bring real-economy business lending onto public blockchain rails."
-        },
-        {
-          "title": "Ethena lands Janus Henderson backing as asset manager invests in ENA, eyes USDe distribution",
-          "url": "https://www.coindesk.com/business/2026/06/09/ethena-lands-janus-henderson-backing-as-asset-manager-invests-in-ena-eyes-usde-distribution",
-          "domain": "coindesk.com",
-          "date": "2026-06-09T14:54:59.000Z",
-          "source": "CoinDesk",
-          "summary": "The deal underscores the trend of traditional asset managers backing DeFi infrastructure, following BlackRock's Uniswap and Apollo's Morpho investments."
-        },
-        {
-          "title": "Come back after the summer, says one analyst on crypto markets",
-          "url": "https://www.coindesk.com/markets/2026/06/09/come-back-after-the-summer-says-one-analyst-on-crypto-markets",
-          "domain": "coindesk.com",
-          "date": "2026-06-09T14:53:50.000Z",
-          "source": "CoinDesk",
-          "summary": "Bitcoin's growing divergence from tech stocks raises concerns as AI spending surges, says Quinn Thompson."
-        },
-        {
-          "title": "Bitcoin bottom? These four charts hint at BTC price dropping to $50K",
-          "url": "https://cointelegraph.com/markets/bitcoin-bottom-these-four-charts-hint-at-btc-price-dropping-to-50k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-09T14:33:53.000Z",
-          "source": "CoinTelegraph",
-          "summary": "A $50,000 Bitcoin price target remains in play despite BTC maintaining above $60,000 support for now, as multiple indicators warn the bottom may not be in."
-        },
-        {
-          "title": "Blockchain researchers warn HTX sanctions may blur crypto risk signals",
-          "url": "https://cointelegraph.com/news/blockchain-researchers-htx-sanctions-crypto-risk-signals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-09T14:22:11.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Researchers say broad HTX tainting could freeze legitimate users and make compliance tools less useful for tracing illicit funds."
         }
       ]
     }

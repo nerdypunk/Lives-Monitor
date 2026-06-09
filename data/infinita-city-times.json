@@ -1,8 +1,14 @@
 {
   "source": "Infinita City Times",
   "feed": "https://www.infinitacitytimes.com/feed",
-  "updatedAt": "2026-06-09T16:39:05.303Z",
+  "updatedAt": "2026-06-09T18:59:49.640Z",
   "items": [
+    {
+      "title": "Playing the long game",
+      "link": "https://www.infinitacitytimes.com/p/playing-the-long-game",
+      "date": "Tue, 09 Jun 2026 17:46:49 GMT",
+      "summary": "The story of Octavio Sanchez and the long fight to create zones of governance experimentation in Honduras."
+    },
     {
       "title": "Ep. 110: Tomas Pueyo & Trey Goff On The Next Silicon Valley Might Be A New Country",
       "link": "https://www.infinitacitytimes.com/p/ep-110-tomas-pueyo-and-trey-goff",
@@ -56,12 +62,6 @@
       "link": "https://www.infinitacitytimes.com/p/the-world-is-ready-for-liberty-acceleration",
       "date": "Wed, 08 Apr 2026 18:22:12 GMT",
       "summary": "Concluding the first summit of its kind: lib/acc 2026"
-    },
-    {
-      "title": "Ep. 106: Yaron Brook: Capitalism, Ayn Rand, and the Moral Case for Freedom",
-      "link": "https://www.infinitacitytimes.com/p/ep-106-yaron-brook-capitalism-ayn",
-      "date": "Wed, 18 Mar 2026 19:05:00 GMT",
-      "summary": "Yaron Brook, chairman of the Ayn Rand Institute and host of the Yaron Brook Show, joins Niklas to discuss the moral and philosophical foundations of capitalism."
     }
   ]
 }
