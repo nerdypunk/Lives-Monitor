@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-10T12:36:54.504Z",
+  "updatedAt": "2026-06-10T16:27:07.313Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -151,7 +151,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-09T21:04:41.000Z",
           "source": "Lifespan.io",
-          "summary": "In Aging Cell, researchers have described how a strain of Lactobacillus gut bacteria sends chemical signals that enter the bloodstream and decrease fibrosis in the lungs. […]"
+          "summary": "In Aging Cell, researchers have described how a strain of Lactobacillus gut bacteria sends chemical signals that enter the bloodstream and decrease fibrosis in the […]"
         },
         {
           "title": "Rejuvenate Bio secures funding and Merck partnership",
@@ -187,6 +187,38 @@
         "https://phys.org/rss-feed/biology-news/biotechnology/"
       ],
       "articles": [
+        {
+          "title": "Giant kelp's microscopic light antenna could inspire innovative climate solutions",
+          "url": "https://phys.org/news/2026-06-giant-kelp-microscopic-antenna-climate.html",
+          "domain": "phys.org",
+          "date": "2026-06-10T15:40:04.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "New research reveals the microscopic machinery that helps giant kelp turn sunlight into energy, providing inspiration for innovative climate solutions. The study, published in Nature Communications, mapped one of the tiny antenna-like structures kelp uses for photosynthesis. Their unique architecture may hold the key to why kelp are the most efficient ocean organisms at capturing light and removing carbon dioxide from the atmosphere."
+        },
+        {
+          "title": "Deep sea an untapped 'evolutionary engine' as dataset yields 500 million unique genes",
+          "url": "https://phys.org/news/2026-06-deep-sea-untapped-evolutionary-dataset.html",
+          "domain": "phys.org",
+          "date": "2026-06-10T15:00:06.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "The deep sea is a unique \"evolutionary engine,\" with one of the richest and most unexplored sources of genetic diversity on Earth, according to a major new study that assessed its potential to transform biotechnology and DNA sequencing technologies."
+        },
+        {
+          "title": "Study finds robotic mowers improve Florida lawn health while reducing maintenance",
+          "url": "https://phys.org/news/2026-06-robotic-mowers-florida-lawn-health.html",
+          "domain": "phys.org",
+          "date": "2026-06-10T14:20:05.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "For many Florida homeowners, lawn mowing can feel like a never-ending chore, especially in the heat of summer. New guidance from experts suggests autonomous or robotic lawn mowers can ease that burden while effectively managing Florida's hardy lawns, including St. Augustine grass."
+        },
+        {
+          "title": "Radar data can help protect birds from wind turbines",
+          "url": "https://phys.org/news/2026-06-radar-birds-turbines.html",
+          "domain": "phys.org",
+          "date": "2026-06-10T13:04:28.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Wind turbines generate climate-friendly electricity, but they can pose a danger to migratory birds. A study led by the Swiss Federal Institute for Forest, Snow and Landscape Research (WSL) published in Nature Sustainability shows that weather radar data could be used to reduce the risk of collisions with only a minimal impact on electricity production: by strategically shutting down turbines when particularly large numbers of birds are in flight."
+        },
         {
           "title": "Stretchy, soft, and sticky: Advancing the next generation of wearable and implantable sensors",
           "url": "https://phys.org/news/2026-06-stretchy-soft-sticky-advancing-generation.html",
@@ -234,38 +266,6 @@
           "date": "2026-06-10T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2606.10605v1 Announce Type: new Abstract: Trap crops reduce damage to a cash (main) crop by attracting pests away from it. Yet this protection is weakened when pests disperse back into the cash crop. In this paper, we focus on the importance of preventing this backflow, showing that effective trap cropping depends jointly on how strongly pests are attracted to trap plants and how rarely they leave them. Together with the proportion of the field devoted to trap plants, these processes determine both the efficacy and feasibility of trap cropping at commercial scales. We formalise this relationship using a simple yield-maximisation framework, in which growers weigh pest suppression benefits against the land sacrificed to trap plants. The model shows that when dispersal from trap plants equals that from the cash crop, optimal trap coverage can exceed 20 to 30 percent of the landscape, levels rarely acceptable to growers. However, reducing pest dispersal off trap plants to just one-quarter of cash crop dispersal lowers the optimal required trap area to approximately 5 percent, transforming trap cropping from impractical to feasible. Understanding these relationships can guide trap-cropping design, from plant choice to targeted interventions that reduce pest movement, to minimise damage, maximise yield, and make trap cropping a reliable component of sustainable pest management."
-        },
-        {
-          "title": "Compositional proofreading through critical self-tuning",
-          "url": "https://arxiv.org/abs/2606.10636",
-          "domain": "arxiv.org",
-          "date": "2026-06-10T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2606.10636v1 Announce Type: new Abstract: High-dimensional multicomponent systems, including immune and epigenetic repertoires, must selectively retain rare, beneficial components while purging a massive influx of suboptimal variants. We demonstrate that critical tuning of component control parameters through competition naturally implements proofreading in these systems. Competition for shared inputs pins the system to the marginal stability threshold of the most persistent species. This grants dominant species extended lifetimes, concentrating the population into dominant components while forcing less-stable variants into rapid drift-driven turnover. When aggregate drive exceeds a characteristic scale, this pinning fails, producing a non-selective state where component lifetimes scale as a universal power law with aggregate drive. Applying this framework to biological memory, we identify the hallmarks of this effect in plasma cell accumulation dynamics and propose that de-pinning transitions may represent failure points across biological domains, including cancer, immunodeficiencies, and the aberrant activation of harmful genomic elements during ageing."
-        },
-        {
-          "title": "Chaos and stability in the marine trophic network: the importance of interactions over complexity",
-          "url": "https://arxiv.org/abs/2606.10809",
-          "domain": "arxiv.org",
-          "date": "2026-06-10T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2606.10809v1 Announce Type: new Abstract: Understanding the dynamics of real world complex networks is crucial for assessing their predictability, resilience, and improving ecosystem management, especially in the context of climate change. The relationship between stability and complexity in ecological networks is still debated in the literature. In this modeling study, we investigate whether a complex marine trophic network, characterized by multiple trophic interactions and environmental constraints, exhibits predominantly stable, periodic or chaotic dynamics. We incorporate the microbial loop into a trophic network model, which includes one to three primary producers, one or two consumers, and up to three trophic levels of predators. The microbial loop is a key process in which bacteria recycle detritus from higher trophic levels into nutrients available for the growth of primary producers, ensuring mass conservation within the system. We perform numerical simulations to investigate the dynamic behavior of the network, exploring several configurations by turning off predator prey links between species and varying the high dimensional parameter space. Our results show that (i) longer trophic chains and (ii) a higher number of consumers increase system chaoticity, whereas (iii) omnivorous interactions promote stability. Notably, many of the configurations exhibit high percentages of chaotic behavior. Feedback loop analysis suggests that the balance between negative and positive interactions plays a key role in the convergence of the system toward a steady state. This study shows that interactions and feedback, rather than complexity, are key drivers of stability, pointing to the absence of a clear stability complexity relationship and instead highlighting a stability interaction dependence. Chaotic dynamics may also play an important role, with potential implications for predictability and ecosystem management."
-        },
-        {
-          "title": "Spatial Model Selection and Uncertainty Quantification: Comparing Continuous and Discrete Wound Healing Models",
-          "url": "https://arxiv.org/abs/2606.10873",
-          "domain": "arxiv.org",
-          "date": "2026-06-10T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2606.10873v1 Announce Type: new Abstract: All data-driven modeling tasks (e.g., parameter estimation, uncertainty quantification, and data forecasting) require the selection of a mathematical model. An overlooked aspect of model selection is modality; for example, there are no guidelines on when to use a partial differential equation (PDE) model or an agent-based model (ABM) for spatial processes. To address this, we created a model selection pipeline that uses approximate Bayesian computations to perform parameter estimation, uncertainty quantification, and model selection (using both information criteria and out-of-sample forecasting). Applying the pipeline to artificial datasets (generated from ABMs) reveals that while both modalities yield comparable parameter estimation performance, the ABM estimates exhibit higher uncertainty, and the PDE models compute more than 1,000$\\times$ faster. Surprisingly, the mean-field PDE is often selected over the true generative ABM model using both information criteria and data forecasting. Applying the pipeline to public wound healing data indicates that a PDE model with cell pulling and a time delay is the most appropriate model for this data, however, this model has high levels of parametric uncertainty. This methodology establishes a preliminary framework for selecting the appropriate modeling modality for spatial biological data."
-        },
-        {
-          "title": "From the microscope to High Performance Computing centers, a national effort toward automated data workflows for microscopy facility users in France",
-          "url": "https://arxiv.org/abs/2606.10879",
-          "domain": "arxiv.org",
-          "date": "2026-06-10T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2606.10879v1 Announce Type: new Abstract: Modern biological microscopy routinely generates large and complex image datasets, including multidimensional, multimodal, and time-resolved acquisitions. While imaging technologies have rapidly evolved, data management infrastructures within microscopy facilities often remain fragmented, relying on heterogeneous local solutions that are difficult to maintain, scale, and integrate with High-Performance Computing (HPC) centers and public data repositories. To address these issues, France BioImaging (FBI), the French national infrastructure for biological imaging, has developed FBI.DATA and the associated BioImage Cloud platform. This initiative aims to provide a coordinated national infrastructure connecting microscopy facilities, centralized storage resources, HPC environments, and public bioimaging archives through interoperable and scalable workflows.The proposed architecture combines open-source technologies including OMERO for image management, iRODS for distributed data orchestration, Authentik for federated authentication, and emerging standards such as OME-Zarr and REMBI metadata recommendations. The infrastructure is designed to support the complete imaging data lifecycle, from acquisition and transfer to visualization, analysis, sharing, and long-term archiving. Beyond the technical implementation, this work presents the organizational and governance strategies required to deploy a shared national infrastructure across distributed imaging facilities. We discuss the challenges associated with interoperability, metadata standardization, sustainability, and user adoption, as well as the perspectives opened by tighter integration between imaging data and large-scale computing resources for future AI-driven bioimage analysis workflows."
         }
       ]
     },
@@ -278,84 +278,84 @@
       ],
       "articles": [
         {
-          "title": "A 'Bitcoin DeFi' project just shut down with a brutal post-mortem: Users just didn't care",
-          "url": "https://www.coindesk.com/tech/2026/06/10/a-bitcoin-defi-project-just-shut-down-with-a-brutal-post-mortem-users-just-didn-t-care",
+          "title": "Crypto Long & Short: Who answers the 3am call when DeFi breaks?",
+          "url": "https://www.coindesk.com/coindesk-indices/2026/06/10/crypto-long-and-short-who-answers-the-3am-call-when-defi-breaks",
           "domain": "coindesk.com",
-          "date": "2026-06-10T12:00:29.000Z",
+          "date": "2026-06-10T16:20:10.000Z",
           "source": "CoinDesk",
-          "summary": "\"It did not work,\" Botanix said. \"At lest not in this market and not in this timeline.\""
+          "summary": "In this week's Crypto Long & Short, Ben Nadareski writes that to win over big investors, DeFi builders must act like accountable money managers, not just software developers. Then, Stephen Stonberg says that bitcoin holders can survive crashes and protect their assets by earning income through reinsurance."
         },
         {
-          "title": "Botanix to shut down after 4 years, cites weak demand for Bitcoin DeFi",
-          "url": "https://cointelegraph.com/news/botanix-says-it-didnt-work-as-bitcoin-scaling-platform-shuts-down-sets-withdrawal-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "Netomi CEO says $5 trillion AI customer experience market could boost stablecoin demand",
+          "url": "https://www.coindesk.com/business/2026/06/10/netomi-ceo-says-usd5-trillion-ai-customer-experience-market-could-boost-stablecoin-demand",
+          "domain": "coindesk.com",
+          "date": "2026-06-10T16:17:18.000Z",
+          "source": "CoinDesk",
+          "summary": "Puneet Mehta, a former high-level Wall Street engineer and data scientist, said the rapid expansion of AI enterprise software will increase demand for stablecoins and blockchain."
+        },
+        {
+          "title": "The quantum clock is ticking: it's Bitcoin's problem, not Ethereum's",
+          "url": "https://www.coindesk.com/opinion/2026/06/10/the-quantum-clock-is-ticking-it-s-bitcoin-s-problem-not-ethereum-s",
+          "domain": "coindesk.com",
+          "date": "2026-06-10T16:07:00.000Z",
+          "source": "CoinDesk",
+          "summary": "A recent research note published by Citi analysts reached a conclusion about quantum risk that should give every institutional bitcoin holder pause, Tabar explains."
+        },
+        {
+          "title": "Mastercard prepares for a future where AI agents make payments",
+          "url": "https://www.coindesk.com/business/2026/06/10/mastercard-prepares-for-a-future-where-ai-agents-make-payments-with-latest-introduction",
+          "domain": "coindesk.com",
+          "date": "2026-06-10T16:00:54.000Z",
+          "source": "CoinDesk",
+          "summary": "The company is working with Coinbase, Stripe and other companies to build trusted payment systems for AI-driven commerce."
+        },
+        {
+          "title": "Bitcoin rises despite US inflation hitting 3-year high: Where will BTC price go?",
+          "url": "https://cointelegraph.com/markets/bitcoin-rises-despite-us-inflation-hitting-3-year-high-where-will-btc-price-go?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-06-10T11:45:36.000Z",
+          "date": "2026-06-10T15:54:35.000Z",
           "source": "CoinTelegraph",
-          "summary": "The Spiderchain developer told users to withdraw assets by July 9 after concluding demand for Bitcoin-native DeFi was not sufficient to support the network."
+          "summary": "BTC's rebound shows signs of weakening under a string of technical resistance levels, raising the odds of a dip below $60,000 in June."
         },
         {
-          "title": "The inflation scenario that could send bitcoin tumbling below $60,000",
-          "url": "https://www.coindesk.com/daybook-us/2026/06/10/the-inflation-scenario-that-could-send-bitcoin-tumbling-below-usd60-000",
-          "domain": "coindesk.com",
-          "date": "2026-06-10T11:20:23.000Z",
-          "source": "CoinDesk",
-          "summary": "Your day-ahead look for June 10, 2026"
-        },
-        {
-          "title": "More than 50% of bitcoin supply is underwater; prior bottoms followed within weeks, often after a final leg lower: K33",
-          "url": "https://www.theblock.co/post/404229/more-than-half-bitcoin-supply-underwater-bottom-after-final-leg-lower-k33?utm_source=rss&utm_medium=rss",
+          "title": "Mastercard unveils Agent Pay for Machines to support autonomous AI transactions, including stablecoins",
+          "url": "https://www.theblock.co/post/404288/mastercard-agent-pay-machines-support-autonomous-ai-transactions-stablecoins?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-06-10T11:15:24.000Z",
+          "date": "2026-06-10T15:34:29.000Z",
           "source": "The Block",
-          "summary": "Over half of bitcoin's circulating supply is now trading at a loss, a level typically only reached near major bear market bottoms, per K33."
+          "summary": "Mastercard's Agent Pay for Machines infrastructure will support high-volume, low-value payments by autonomous AI agents."
         },
         {
-          "title": "Zcash, Hyperliquid tokens lead losses as traders bet against a bitcoin bounce",
-          "url": "https://www.coindesk.com/markets/2026/06/10/zcash-hyperliquid-tokens-lead-losses-as-traders-bet-against-a-bitcoin-bounce",
-          "domain": "coindesk.com",
-          "date": "2026-06-10T10:52:54.000Z",
-          "source": "CoinDesk",
-          "summary": "Crypto markets are under pressure ahead of key U.S. inflation data due later Wednesday."
-        },
-        {
-          "title": "New York regulator proposes stablecoin rule to align with federal GENIUS Act, adds reserve limits",
-          "url": "https://www.theblock.co/post/404223/new-york-regulator-proposes-stablecoin-rule-to-align-with-federal-genius-act-adds-reserve-limits?utm_source=rss&utm_medium=rss",
+          "title": "Ethereum could become a fully zero-knowledge proof-based protocol in 3 to 5 years, Joe Lubin says",
+          "url": "https://www.theblock.co/post/404185/ethereum-fully-zero-knowledge-proof-based-protocol-3-to-5-years-joe-lubin?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-06-10T10:38:40.000Z",
+          "date": "2026-06-10T15:22:54.000Z",
           "source": "The Block",
-          "summary": "The NYDFS has proposed a GENIUS Act-aligned stablecoin rule adding reserve concentration caps and mandatory risk management programs."
+          "summary": "Ethereum needs infinite capacity to meet the infinite demands of being a World Computer, making L2s necessary, Joe Lubin said."
         },
         {
-          "title": "EU proposes ban on 11 crypto platforms in Russia sanctions push",
-          "url": "https://cointelegraph.com/news/eu-russia-sanctions-11-crypto-platforms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "MegaETH-based MNX raises $6.4 million pre-seed at $40 million valuation to build AI-focused futures exchange",
+          "url": "https://www.theblock.co/post/404281/megaeth-mnx-pre-seed-funding-valuation-ai-focused-futures-exchange?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-10T15:22:54.000Z",
+          "source": "The Block",
+          "summary": "MNX, a decentralized futures exchange focused on the AI economy, has raised $6.4 million in a pre-seed funding round."
+        },
+        {
+          "title": "Fold discloses $45 million bitcoin sale, pays off collateralized debt in full; shares surge 160%",
+          "url": "https://www.theblock.co/post/404272/fold-discloses-45-million-bitcoin-sale-pays-off-collateralized-debt-in-full-shares-surge-160?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-10T15:00:14.000Z",
+          "source": "The Block",
+          "summary": "Fold Holdings shares surged over 70% as the bitcoin fintech firm paid off its collaterized debt in full through a $45 million bitcoin sale."
+        },
+        {
+          "title": "Onchain gambling keeps rolling with $14B quarter despite crypto slump: TRM Labs",
+          "url": "https://cointelegraph.com/news/onchain-gambling-market-pullback-trm-labs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-06-10T09:46:01.000Z",
+          "date": "2026-06-10T15:00:00.000Z",
           "source": "CoinTelegraph",
-          "summary": "The proposed measures would ban transactions on 11 crypto platforms and expand sanctions targeting networks accused of helping Russia evade restrictions."
-        },
-        {
-          "title": "Japan's three largest banks aim for joint stablecoin issue by March",
-          "url": "https://www.coindesk.com/business/2026/06/10/japan-s-three-largest-banks-aim-for-joint-stablecoin-issue-by-march",
-          "domain": "coindesk.com",
-          "date": "2026-06-10T09:01:14.000Z",
-          "source": "CoinDesk",
-          "summary": "MUFG, SMBC and Mizuho will establish a council to explore operational frameworks and prepare for the issuance of stablecoins."
-        },
-        {
-          "title": "Bitcoin Layer 2 Botanix to wind down network, urges users to withdraw assets",
-          "url": "https://www.theblock.co/post/404216/bitcoin-layer-2-botanix-to-wind-down-network-urges-users-to-withdraw-assets?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-10T09:00:38.000Z",
-          "source": "The Block",
-          "summary": "Botanix to wind down Bitcoin Layer 2 after four years, citing weak fee revenue and urging users to withdraw assets by July 9."
-        },
-        {
-          "title": "XRP market shows signs of capitulation as holders sell at loss",
-          "url": "https://www.coindesk.com/markets/2026/06/10/xrp-market-shows-signs-of-capitulation-as-holders-sell-at-loss",
-          "domain": "coindesk.com",
-          "date": "2026-06-10T08:24:48.000Z",
-          "source": "CoinDesk",
-          "summary": "XRP holders are capitulating, according to data tracked by Glassnode. That suggests a bottom may be near."
+          "summary": "TRM Labs said onchain gambling reached $51 billion in 2025, with repeat users and stablecoin flows helping the sector remain resilient during a broader crypto market pullback."
         }
       ]
     }
