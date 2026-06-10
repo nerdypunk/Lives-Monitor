@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-10T21:36:01.777Z",
+  "updatedAt": "2026-06-10T23:15:25.118Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -127,7 +127,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-10T17:17:32.000Z",
           "source": "Lifespan.io",
-          "summary": "In a recent paper, researchers have proposed that the immune system and immune surveillance play a central role in maintaining microbial composition throughout life by suppressing microbial proliferation and that aging weakens these processes [1]. Lifelong companions Aging leads […]"
+          "summary": "In a recent paper, researchers have proposed that the immune system and immune surveillance play a central role in maintaining microbial composition throughout life by suppressing microbial proliferation and that aging […]"
         },
         {
           "title": "Alzheimer’s blood testing expands across LATAM, Caribbean",
@@ -188,6 +188,30 @@
       ],
       "articles": [
         {
+          "title": "Custom protein binders zero in on near-identical disease targets with unprecedented selectivity",
+          "url": "https://phys.org/news/2026-06-custom-protein-binders-identical-disease.html",
+          "domain": "phys.org",
+          "date": "2026-06-10T22:40:04.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "In the human body, the boundary between health and severe illness can be microscopic. For decades, molecular scientists have grappled with a frustrating biological reality: The proteins driving devastating diseases often look nearly identical to the ones keeping us alive."
+        },
+        {
+          "title": "Degradable sensors reveal hidden soil secrets after microbes nibble on them",
+          "url": "https://phys.org/news/2026-06-degradable-sensors-reveal-hidden-soil.html",
+          "domain": "phys.org",
+          "date": "2026-06-10T22:40:01.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "New degradable sensors could reveal insights into the secret—yet essential—microscopic life in soil. The sensors, which are being developed by soil scientists at Lancaster University and researchers at the University of Colorado Boulder and the University of Manchester, track biological activity in soil by using a degradable substrate that is nibbled on by microbes."
+        },
+        {
+          "title": "New combined spore trapping and DNA sequencing technology tracks fungicide resistance in grain crops",
+          "url": "https://phys.org/news/2026-06-combined-spore-dna-sequencing-technology.html",
+          "domain": "phys.org",
+          "date": "2026-06-10T21:40:06.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Researchers at the Center for Crop and Disease Management (CCDM) have developed a new system that combines spore trapping with advanced DNA sequencing to confirm fungicide resistance from air samples containing airborne spores."
+        },
+        {
           "title": "Biopolymer beads extend fungus bioinsecticide shelf life and release",
           "url": "https://phys.org/news/2026-06-biopolymer-beads-fungus-bioinsecticide-shelf.html",
           "domain": "phys.org",
@@ -242,30 +266,6 @@
           "date": "2026-06-10T13:04:28.000Z",
           "source": "Phys.org Biotechnology",
           "summary": "Wind turbines generate climate-friendly electricity, but they can pose a danger to migratory birds. A study led by the Swiss Federal Institute for Forest, Snow and Landscape Research (WSL) published in Nature Sustainability shows that weather radar data could be used to reduce the risk of collisions with only a minimal impact on electricity production: by strategically shutting down turbines when particularly large numbers of birds are in flight."
-        },
-        {
-          "title": "Stretchy, soft, and sticky: Advancing the next generation of wearable and implantable sensors",
-          "url": "https://phys.org/news/2026-06-stretchy-soft-sticky-advancing-generation.html",
-          "domain": "phys.org",
-          "date": "2026-06-10T09:00:03.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Wearable and implantable biosensors have the potential to revolutionize health care by diagnosing, monitoring, and even treating a wide range of health conditions. Recent innovations in the lab of Wei Gao, professor of medical engineering at Caltech and a Heritage Medical Research Institute Investigator, are pushing the field forward through the creation of soft, stretchable, tissue-integrated bioelectronics for continuous sensing and adaptive therapy."
-        },
-        {
-          "title": "Adjusted trajectory of medication exposure taking into account the periodicity of dispensations and the number of dispensed packs and comparative analysis on EFEMERIS database",
-          "url": "https://arxiv.org/abs/2606.09952",
-          "domain": "arxiv.org",
-          "date": "2026-06-10T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2606.09952v1 Announce Type: new Abstract: We presented an adjustment method for the calculation of medication exposure trajectories based on the number of dispensed packs and the type of dispensations (occasional or regular). A comparative study based on the EFEMERIS data was carried out using three different scenarios of trajectory calculation depending on whether or not the number of packs and the periodicity of medication dispensations were taken into account. The impact of the scenario was highlighted using global indicators on the number of Define-Daily Dose (DDD) on all women exposed; the study of changes in individual trajectories from one scenario to another was carried out; we also compared the results of a clustering into four groups. If 65% of the trajectories remained unchanged, we could observe on the rest significant changes in number of DDD and/or on individual exposure profile. We observed 4% of trajectories that were attributed to a different cluster, and the clustering was of better quality with the adjustment method. Depending on the study context, an impact on cluster distribution could be observed for some maternal characteristics and neonatal outcomes. This was the case for a higher occurrence of neonatal pathology for neonates from mothers belonging to the cluster with high doses of psychotropics, thus reinforcing the conclusions of previous studies of a link between high exposure to psychotropic medications and presence of pathology for the newborn."
-        },
-        {
-          "title": "When is Enough Enough? A Proposed Termination Point for the Number of Replicates in Computational Simulations",
-          "url": "https://arxiv.org/abs/2606.10109",
-          "domain": "arxiv.org",
-          "date": "2026-06-10T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2606.10109v1 Announce Type: new Abstract: Computational simulation provides a powerful toolkit for in silico experimentation. However, while the field has developed best practices for the design and implementation of such models, there remains ambiguity in discussions about how to understand and/or interpret their results due to their inherent ability to overwhelm traditional frequentist statistics by simply increasing the number of trials simulated. This fails the discipline in two ways: first, it leaves the community unsure of what constitutes a best practice for uniform understanding, and second, it potentially overburdens computational studies that burn clock cycles solely to ensure \"enough runs to satisfy peers\" without any theoretical underpinning for a definition of \"enough\". We propose a simple and straightforward standard for when to stop simulating additional trials, the {\\Omega} test, designed to be analogous to the function of traditional frequentist P-tests. Community adoption of a reasonable and uniform standard will permit more efficient computational experimentation and clearly communication/interpretation of the findings discovered in this way."
         }
       ]
     },
@@ -278,6 +278,14 @@
       ],
       "articles": [
         {
+          "title": "CFTC proposes framework favoring sports event contracts over gambling",
+          "url": "https://cointelegraph.com/news/cftc-prediction-market-rules-sports-election-contracts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-10T22:30:00.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The proposed rules would preserve election markets and allow many sports-based prediction contracts while limiting bets that could encourage manipulation."
+        },
+        {
           "title": "Bitcoin miner margins fall to record low: Will BTC’s $60K floor hold?",
           "url": "https://cointelegraph.com/markets/bitcoin-miner-margins-fall-to-record-low-will-btcs-60k-floor-hold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
@@ -286,20 +294,20 @@
           "summary": "Bitcoin miner profits recently fell to record lows, while Bitcoin struggles to hold the $60,000 floor. Should traders be worried?"
         },
         {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-10T20:13:00.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
+        {
           "title": "Bitcoin takes back seat to stablecoins and tokenization among financial advisors: Bitwise CIO",
           "url": "https://www.theblock.co/post/404341/bitcoin-stablecoins-tokenization-bitwise-cio-financial-advisors?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
           "date": "2026-06-10T20:00:26.000Z",
           "source": "The Block",
           "summary": "Bitwise CIO Matt Hougan said financial advisors are now showing more interest in stablecoins and tokenization than bitcoin."
-        },
-        {
-          "title": "Here’s what happened in crypto today",
-          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-10T19:53:26.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
         },
         {
           "title": "Elon Musk’s SpaceX IPO could become bitcoin’s latest headwind",
@@ -348,14 +356,6 @@
           "date": "2026-06-10T18:11:21.000Z",
           "source": "The Block",
           "summary": "CryptoQuant sees bitcoin bottom near $53,600, its current realized price and a level that has historically marked bear market bottoms."
-        },
-        {
-          "title": "BlackRock and Fidelity are quietly turning bitcoin ETFs into a two-firm market",
-          "url": "https://www.coindesk.com/markets/2026/06/10/blackrock-and-fidelity-are-quietly-turning-bitcoin-etfs-into-a-two-firm-market",
-          "domain": "coindesk.com",
-          "date": "2026-06-10T18:09:23.000Z",
-          "source": "CoinDesk",
-          "summary": "BlackRock's IBIT and Fidelity's FBTC are attracting the vast majority of new bitcoin ETF money, leaving smaller funds increasingly sidelined as institutional investors consolidate around the industry's largest players."
         }
       ]
     }
