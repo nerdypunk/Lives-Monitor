@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-11T18:21:49.824Z",
+  "updatedAt": "2026-06-11T21:01:21.574Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -98,12 +98,20 @@
       ],
       "articles": [
         {
+          "title": "Inducing NREM-Like Neuronal Patterns Mimics Sleep Benefits",
+          "url": "https://lifespan.io/inducing-nrem-like-neuronal-patterns-mimics-sleep-benefits/",
+          "domain": "lifespan.io",
+          "date": "2026-06-11T19:24:26.000Z",
+          "source": "Lifespan.io",
+          "summary": "Scientists have “faked” sleep in mice by artificially creating the on/off neuronal firing pattern similar to that seen in non-REM sleep. This produced sleep-like effects, including improved learning memory [1]. Can sleep […]"
+        },
+        {
           "title": "The Immune System Maintains the Microbiome",
           "url": "https://lifespan.io/the-immune-system-maintains-the-microbiome/",
           "domain": "lifespan.io",
           "date": "2026-06-10T17:17:32.000Z",
           "source": "Lifespan.io",
-          "summary": "In a recent paper, researchers have proposed that the immune system and immune surveillance play a central role in maintaining microbial composition throughout life by suppressing microbial proliferation and […]"
+          "summary": "In a recent paper, researchers have proposed that the immune system and immune surveillance play a central role in maintaining microbial composition throughout life by […]"
         },
         {
           "title": "How Gut Bacteria Affect Lung Fibrosis",
@@ -111,7 +119,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-09T21:04:41.000Z",
           "source": "Lifespan.io",
-          "summary": "In Aging Cell, researchers have described how a strain of Lactobacillus gut bacteria sends chemical signals that enter the bloodstream and […]"
+          "summary": "In Aging Cell, researchers have described how a strain of Lactobacillus gut bacteria sends chemical signals that enter the bloodstream and decrease fibrosis in the lungs. The gut-lung axis The gut-brain axis, the term for how the […]"
         },
         {
           "title": "Fighting Parkinson’s by Restoring Protein Degradation",
@@ -119,7 +127,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-08T17:54:43.000Z",
           "source": "Lifespan.io",
-          "summary": "Researchers have explained how a protein found in both yeast and humans facilitates the destruction of the core protein responsible for Parkinson’s disease. An aggregate that impairs clearance The loss […]"
+          "summary": "Researchers have explained how a protein found in both yeast and humans facilitates the destruction of the core protein responsible for Parkinson’s disease. […]"
         },
         {
           "title": "Neurons’ Protein Disposal Trick Offers Alzheimer’s Insights",
@@ -127,7 +135,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-05T14:49:43.000Z",
           "source": "Lifespan.io",
-          "summary": "According to a new study, a special protein disposal system, currently found only in neurons, is linked to central hallmarks of Alzheimer’s disease [1]. The membranal proteasome Alzheimer’s disease […]"
+          "summary": "According to a new study, a special protein disposal system, currently found only in neurons, is linked to central hallmarks of Alzheimer’s disease [1]. The membranal […]"
         },
         {
           "title": "Preventing Load-Induced Arthritis at the Cellular Level",
@@ -135,7 +143,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-04T17:37:51.000Z",
           "source": "Lifespan.io",
-          "summary": "Researchers have discovered that the osteoarthritis-inducing effects of excessive mechanical stress can be mitigated by increasing miR-330, a key regulator […]"
+          "summary": "Researchers have discovered that the osteoarthritis-inducing effects of excessive mechanical stress can be mitigated by increasing miR-330, a key regulator in cartilage and bone cells. Backbreaking labor is exactly that It has been long-held conventional wisdom that a […]"
         },
         {
           "title": "Forever Healthy Foundation Launches Evipedia.ai",
@@ -143,7 +151,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-03T17:24:06.000Z",
           "source": "Lifespan.io",
-          "summary": "The Forever Healthy Foundation today publicly launched evipedia.ai, an open online encyclopedia of in-depth evidence reviews covering more than 500 health and longevity interventions, including first-generation rejuvenation therapies, supplements, botanicals, lifestyle protocols, and more. Evipedia was built to […]"
+          "summary": "The Forever Healthy Foundation today publicly launched evipedia.ai, an open online encyclopedia of in-depth evidence reviews covering more than 500 health and longevity interventions, including first-generation rejuvenation therapies, supplements, botanicals, lifestyle protocols, and more. Evipedia was built […]"
         },
         {
           "title": "The Thalion Initiative: A New Non-Profit With Big Ambitions",
@@ -151,7 +159,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-02T15:23:03.000Z",
           "source": "Lifespan.io",
-          "summary": "The longevity field remains small and starved for resources, especially the subfield devoted to the fundamental biology of aging, despite near-universal agreement that solving aging requires understanding it first. With […]"
+          "summary": "The longevity field remains small and starved for resources, especially the subfield devoted to the fundamental biology of aging, despite near-universal agreement that solving aging requires […]"
         },
         {
           "title": "Rejuvenation Roundup May 2026",
@@ -159,7 +167,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-01T16:30:59.000Z",
           "source": "Lifespan.io",
-          "summary": "Approaches that modify the processes of aging at their roots have gone well beyond basic research and into therapies intended for the clinic within the next few years. Here’s how the field has advanced in May. […]"
+          "summary": "Approaches that modify the processes of aging at their roots have gone well beyond basic research and into therapies intended for the clinic within the next few years. Here’s how the field […]"
         },
         {
           "title": "Harvard Publishes a Longevity Report for the General Public",
@@ -167,15 +175,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-29T16:09:27.000Z",
           "source": "Lifespan.io",
-          "summary": "The report, titled “Pathways to Longevity”, introduces several important longevity concepts to the general reader and is another sign that the field is coming of age and entering the mainstream. People […]"
-        },
-        {
-          "title": "A Better Algorithm for Predicting How Cells Behave",
-          "url": "https://lifespan.io/a-better-algorithm-for-predicting-how-cells-behave/",
-          "domain": "lifespan.io",
-          "date": "2026-05-28T22:27:12.000Z",
-          "source": "Lifespan.io",
-          "summary": "In a preprint published in arXiv, researchers from Altos Labs have described a machine learning algorithm that performs end-to-end prediction of how cells’ gene expression will respond to interventions. The need for […]"
+          "summary": "The report, titled “Pathways to Longevity”, introduces several important longevity concepts to the general reader and is another sign that the field is coming of age and entering the mainstream. People do […]"
         }
       ]
     },
@@ -278,6 +278,46 @@
       ],
       "articles": [
         {
+          "title": "Americans secretly drove as much as $34 billion in offshore prediction market bets, new report claims",
+          "url": "https://www.theblock.co/post/404505/americans-secretly-drove-34-billion-offshore-prediction-market-bets-report-claims?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-11T20:15:54.000Z",
+          "source": "The Block",
+          "summary": "A new report from a boutique consulting firm claims that nearly a third of U.S. prediction market volume occurs on offshore platforms."
+        },
+        {
+          "title": "Elon Musk's SpaceX prices shares at $135, raising $75 billion in largest-ever IPO",
+          "url": "https://www.coindesk.com/markets/2026/06/11/spacex-prices-shares-at-usd135-in-largest-ipo-ever",
+          "domain": "coindesk.com",
+          "date": "2026-06-11T20:12:46.000Z",
+          "source": "CoinDesk",
+          "summary": "The company's fully diluted value will be about $1.8 trillion, with the stock set to open for trade on Friday on the Nasdaq."
+        },
+        {
+          "title": "ETH futures traders lean into $1.6K range lows: Will Ether lead market recovery?",
+          "url": "https://cointelegraph.com/markets/ether-bulls-ramp-up-risk-above-16k-can-buyers-regain-control?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-11T19:37:41.000Z",
+          "source": "CoinTelegraph",
+          "summary": "ETH traders increased their long positions as Ether price traded near 2026 lows. Will ETH’s rebound eclipse the BTC recovery?"
+        },
+        {
+          "title": "Arbitrum token jumps 5% on news LG Electronics is building a new blockchain",
+          "url": "https://www.theblock.co/post/404494/arbitrum-token-jumps-5-news-lg-electronics-building-new-blockchain?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-11T19:15:42.000Z",
+          "source": "The Block",
+          "summary": "LG’s new Arbitrum-based blockchain will serve as a platform for placing, buying, selling, and managing digital ads."
+        },
+        {
+          "title": "Three signs that XRP price risks falling below $1 in June",
+          "url": "https://cointelegraph.com/markets/three-signs-that-xrp-price-risks-falling-below-1-in-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-11T18:29:54.000Z",
+          "source": "CoinTelegraph",
+          "summary": "XRP is forming head-and-shoulders and bear flag setups on its shorter-timeframe chart, both indicating a dip below $1 in the coming days."
+        },
+        {
           "title": "Coinbase eyes World Cup boost as prediction markets surge: Bernstein",
           "url": "https://cointelegraph.com/news/coinbase-world-cup-prediction-market-boost-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
@@ -316,46 +356,6 @@
           "date": "2026-06-11T16:46:52.000Z",
           "source": "The Block",
           "summary": "Strike CEO Jack Mallers says Bitcoin at $63,000 reflects a liquidity-starved world, and questions Strategy's perpetual stock capital dynamic."
-        },
-        {
-          "title": "Banking rails are moving past the 'stablecoin winner' narrative: Sygnum",
-          "url": "https://www.coindesk.com/business/2026/06/11/big-banks-are-ditching-private-blockchains-to-build-tokenized-cash-networks-on-public-infrastructure",
-          "domain": "coindesk.com",
-          "date": "2026-06-11T16:37:53.000Z",
-          "source": "CoinDesk",
-          "summary": "Digital asset bank Sygnum says institutional clients want multiple tokenized cash instruments operating interchangeably on a single platform."
-        },
-        {
-          "title": "MassPay taps Coinbase to expand stablecoin payouts",
-          "url": "https://cointelegraph.com/news/masspay-coinbase-partner-stablecoin-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-11T16:00:00.000Z",
-          "source": "CoinTelegraph",
-          "summary": "MassPay taps Coinbase to add USDC-powered cross-border payouts, betting stablecoin rails will cut costs and speed up settlement for businesses paying globally."
-        },
-        {
-          "title": "Community bank group launches new ad campaign targeting Clarity Act stablecoin reward language",
-          "url": "https://www.theblock.co/post/404439/community-bank-group-ad-campaign-targeting-clarity-act-stablecoin-reward-language?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-11T15:14:33.000Z",
-          "source": "The Block",
-          "summary": "A key group representing small to mid-sized community banks plans to launch a new ad warning of risks in digital assets."
-        },
-        {
-          "title": "Franklin Templeton, BNP Paribas see tokenization boosting EU's capital efficiency",
-          "url": "https://cointelegraph.com/news/liquidity-capital-efficiency-tokenization-adoption-banks-franklin-templeton-bnp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-11T15:01:27.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Executives from Franklin Templeton and BNP Paribas say tokenized assets and stablecoins could improve capital efficiency across Europe as Wall Street expands tokenization efforts."
-        },
-        {
-          "title": "Here’s what happened in crypto today",
-          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-11T15:01:00.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
         }
       ]
     }
