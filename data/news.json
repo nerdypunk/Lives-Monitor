@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-11T21:01:21.574Z",
+  "updatedAt": "2026-06-11T22:59:37.375Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -103,7 +103,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-11T19:24:26.000Z",
           "source": "Lifespan.io",
-          "summary": "Scientists have “faked” sleep in mice by artificially creating the on/off neuronal firing pattern similar to that seen in non-REM sleep. This produced sleep-like effects, including improved learning memory [1]. Can sleep […]"
+          "summary": "Scientists have “faked” sleep in mice by artificially creating the on/off neuronal firing pattern similar to that seen in non-REM sleep. This produced sleep-like effects, including improved learning memory [1]. Can sleep be […]"
         },
         {
           "title": "The Immune System Maintains the Microbiome",
@@ -111,7 +111,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-10T17:17:32.000Z",
           "source": "Lifespan.io",
-          "summary": "In a recent paper, researchers have proposed that the immune system and immune surveillance play a central role in maintaining microbial composition throughout life by […]"
+          "summary": "In a recent paper, researchers have proposed that the immune system and immune surveillance play a central role in maintaining microbial composition throughout life by suppressing microbial proliferation and that aging weakens […]"
         },
         {
           "title": "How Gut Bacteria Affect Lung Fibrosis",
@@ -127,7 +127,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-08T17:54:43.000Z",
           "source": "Lifespan.io",
-          "summary": "Researchers have explained how a protein found in both yeast and humans facilitates the destruction of the core protein responsible for Parkinson’s disease. […]"
+          "summary": "Researchers have explained how a protein found in both yeast and humans facilitates the destruction of the core protein responsible for Parkinson’s disease. An aggregate that impairs clearance The loss of proteostasis involves the growing inability of cells’ lysosomes to […]"
         },
         {
           "title": "Neurons’ Protein Disposal Trick Offers Alzheimer’s Insights",
@@ -135,7 +135,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-05T14:49:43.000Z",
           "source": "Lifespan.io",
-          "summary": "According to a new study, a special protein disposal system, currently found only in neurons, is linked to central hallmarks of Alzheimer’s disease [1]. The membranal […]"
+          "summary": "According to a new study, a special protein disposal system, currently found only in neurons, is linked to central hallmarks of Alzheimer’s disease [1]. The membranal proteasome Alzheimer’s disease is defined […]"
         },
         {
           "title": "Preventing Load-Induced Arthritis at the Cellular Level",
@@ -143,7 +143,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-04T17:37:51.000Z",
           "source": "Lifespan.io",
-          "summary": "Researchers have discovered that the osteoarthritis-inducing effects of excessive mechanical stress can be mitigated by increasing miR-330, a key regulator in cartilage and bone cells. Backbreaking labor is exactly that It has been long-held conventional wisdom that a […]"
+          "summary": "Researchers have discovered that the osteoarthritis-inducing effects of excessive mechanical stress can be mitigated by increasing miR-330, a key regulator in cartilage and bone […]"
         },
         {
           "title": "Forever Healthy Foundation Launches Evipedia.ai",
@@ -151,7 +151,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-03T17:24:06.000Z",
           "source": "Lifespan.io",
-          "summary": "The Forever Healthy Foundation today publicly launched evipedia.ai, an open online encyclopedia of in-depth evidence reviews covering more than 500 health and longevity interventions, including first-generation rejuvenation therapies, supplements, botanicals, lifestyle protocols, and more. Evipedia was built […]"
+          "summary": "The Forever Healthy Foundation today publicly launched evipedia.ai, an open online encyclopedia of in-depth evidence reviews covering more than 500 health and longevity interventions, […]"
         },
         {
           "title": "The Thalion Initiative: A New Non-Profit With Big Ambitions",
@@ -159,7 +159,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-02T15:23:03.000Z",
           "source": "Lifespan.io",
-          "summary": "The longevity field remains small and starved for resources, especially the subfield devoted to the fundamental biology of aging, despite near-universal agreement that solving aging requires […]"
+          "summary": "The longevity field remains small and starved for resources, especially the subfield devoted to the fundamental biology of aging, despite near-universal agreement that solving aging requires understanding it first. With VCs looking for clinical successes […]"
         },
         {
           "title": "Rejuvenation Roundup May 2026",
@@ -167,7 +167,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-01T16:30:59.000Z",
           "source": "Lifespan.io",
-          "summary": "Approaches that modify the processes of aging at their roots have gone well beyond basic research and into therapies intended for the clinic within the next few years. Here’s how the field […]"
+          "summary": "Approaches that modify the processes of aging at their roots have gone well beyond basic research and into therapies intended for the clinic within the next few years. Here’s how the field has advanced in […]"
         },
         {
           "title": "Harvard Publishes a Longevity Report for the General Public",
@@ -175,7 +175,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-29T16:09:27.000Z",
           "source": "Lifespan.io",
-          "summary": "The report, titled “Pathways to Longevity”, introduces several important longevity concepts to the general reader and is another sign that the field is coming of age and entering the mainstream. People do […]"
+          "summary": "The report, titled “Pathways to Longevity”, introduces several important longevity concepts to the general reader and is another sign that the field is […]"
         }
       ]
     },
@@ -187,6 +187,14 @@
         "https://phys.org/rss-feed/biology-news/biotechnology/"
       ],
       "articles": [
+        {
+          "title": "AI fast-forwards molecular simulations by 10,000-fold",
+          "url": "https://phys.org/news/2026-06-ai-fast-forwards-molecular-simulations.html",
+          "domain": "phys.org",
+          "date": "2026-06-11T22:20:01.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "A new AI model has become so good at predicting how molecules evolve over time that, in the future, it could speed up the costly and time-consuming process of testing new drugs. In the long term, this technology could facilitate the development of medicines and new treatments, as promising drug candidates can be identified more quickly and with greater accuracy."
+        },
         {
           "title": "Ocean glow meets 3D printing with living gels that sense mechanical force",
           "url": "https://phys.org/news/2026-06-ocean-3d-gels-mechanical.html",
@@ -258,14 +266,6 @@
           "date": "2026-06-11T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2606.12209v1 Announce Type: new Abstract: Microbial genomes and metagenomes contain millions of proteins whose enzymatic functions remain unknown, the enzyme dark matter. While deep learning has improved protein function prediction, most methods are black boxes relying on sequence or structural similarity, limiting discovery of novel catalytic activities. The ESMC-6B protein language model and its sparse autoencoder with a 16,384-dimensional codebook of interpretable biological concepts, each annotated by GPT-5, creates a new opportunity: using these features directly as semantic signatures for enzyme function. Here, we show that ESMC-SAE features enable accurate and interpretable enzyme commission (EC) number prediction without task-specific training or GPU-intensive computation. On a balanced benchmark of 4,868 microbial SwissProt enzymes across 161 EC3 subclasses, ESMC-SAE binary features achieve 78.9% top-1 and 88.5% top-5 accuracy, 37.6% higher than 3-mer baselines (57.3%). In leave-one-EC3-class-out evaluation simulating discovery of novel enzyme classes, SAE features recover the EC1 superclass in 47.7% of cases (3.3x random, 14.3%), versus 26.6% for sequence methods. Discriminative features correspond to mechanistically interpretable concepts: catalytic triad geometry for hydrolases, NAD(P)H-binding Rossmann folds for oxidoreductases, phosphate-binding P-loops for transferases. We also survey the ESM Atlas of 7.7 million clusters and identify 169,859 dark enzyme-like candidates across all major microbial phyla. Our results establish a paradigm for enzyme function discovery in microbial dark matter: interpretable by design, scalable without GPU clusters, and applicable to the billions of proteins in the ESM Atlas."
-        },
-        {
-          "title": "m6A-FORM: A Foundation Model for Decoding N6-methyladenosine Biology",
-          "url": "https://arxiv.org/abs/2606.12219",
-          "domain": "arxiv.org",
-          "date": "2026-06-11T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2606.12219v1 Announce Type: new Abstract: N6-methyladenosine (m6A) is the most abundant internal modification in eukaryotic mRNA. However, most existing predictors use adenosine-centered formulations that are computationally inefficient and prone to false positives. Here we present m6A-FORM, a transformer-based foundation model for RNA methylation that uses MeRIP-seq peaks as methylation-enriched priors and is pretrained on approximately 22 million peak-derived sequences from 143 human MeRIP-seq studies. After fine-tuning with high-confidence single-nucleotide m6A annotations from m6A-Atlas v2.0 and GLORI, m6A-FORM-sites achieves state-of-the-art m6A site prediction performance, with a PR-AUC of 0.635 and ROC-AUC of 0.988, improving PR-AUC by at least 0.14 over existing methods while enabling substantially faster inference. Task-specific adaptation further supports prediction of binding sites for 19 m6A-associated regulators and identification of YTHDF2-bound m6A sites associated with mRNA degradation. Applying m6A-FORM across 67 datasets from 24 human tissues identifies 19,631 tissue-conserved sites with distinct localization, clustering, methylation, expression, RBP-interaction, and decay-associated signatures."
         }
       ]
     },
@@ -277,6 +277,22 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "Citi launches blockchain marketplace for private companies shares: Report",
+          "url": "https://cointelegraph.com/news/citi-launches-blockchain-marketplace-private-company-shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-11T21:24:56.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The US banking giant's blockchain marketplace will offer tokenized depositary receipts of private company shares amid Wall Street's broad embrace of tokenized assets."
+        },
+        {
+          "title": "Man who spent 1,500 BTC on graphics card now helps insure bitcoin holders",
+          "url": "https://www.theblock.co/post/404438/man-who-spent-1500-btc-graphics-card-now-helps-insure-bitcoin-holders?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-11T21:01:02.000Z",
+          "source": "The Block",
+          "summary": "Bitsurance, insures clients' bitcoin against \"physical attacks\" like fire, water, robbery and the \"$5 Wrench Attack.\""
+        },
         {
           "title": "Americans secretly drove as much as $34 billion in offshore prediction market bets, new report claims",
           "url": "https://www.theblock.co/post/404505/americans-secretly-drove-34-billion-offshore-prediction-market-bets-report-claims?utm_source=rss&utm_medium=rss",
@@ -340,22 +356,6 @@
           "date": "2026-06-11T17:11:22.000Z",
           "source": "The Block",
           "summary": "AI agents will get access to trade, manage money, and make payments on behalf of Coinbase users via dedicated accounts."
-        },
-        {
-          "title": "Coinbase launches AI agent accounts that can trade and spend on your behalf",
-          "url": "https://www.coindesk.com/tech/2026/06/11/coinbase-launches-ai-agent-accounts-that-can-trade-and-spend-on-your-behalf",
-          "domain": "coindesk.com",
-          "date": "2026-06-11T17:00:00.000Z",
-          "source": "CoinDesk",
-          "summary": "\"Coinbase for Agents\" is a new platform that lets AI assistants like ChatGPT and Claude connect to users’ Coinbase accounts to trade crypto, access data and eventually make payments and purchases autonomously."
-        },
-        {
-          "title": "‘You sell what you can, not what you want’: Jack Mallers says bitcoin is pricing a global liquidity crisis",
-          "url": "https://www.theblock.co/post/404453/sell-what-you-can-not-what-you-want-jack-mallers-bitcoin-pricing-global-liquidity-crisis?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-11T16:46:52.000Z",
-          "source": "The Block",
-          "summary": "Strike CEO Jack Mallers says Bitcoin at $63,000 reflects a liquidity-starved world, and questions Strategy's perpetual stock capital dynamic."
         }
       ]
     }
