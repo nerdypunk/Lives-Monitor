@@ -8,6 +8,33 @@
   },
   "transactions": [
     {
+      "signature": "2tvMUQNPjQv5RMLy3RK66GvBNWpQL4RZ1spshadnofZkwHow4eidmSCHMRaWn5Tm18ew4vxrhmkmjabMoKE6pSvw",
+      "type": "Transfer",
+      "amountText": "1.95",
+      "from": "6ACwobpN5CJB7TNdJcHpRHqStvS96AH7kvXqiDaeCzLx",
+      "to": "2eCdmJKwGZ9f7rNEYqdAMf2w1hiicWd7awnKzvJihxTg",
+      "blockTime": 1781221759,
+      "slot": 425866516
+    },
+    {
+      "signature": "3xeeumSAuhWkQAwPqE9bxFDRFQV3DWwACprq2T75GV5as6piwEiHVqzn9DECK6hKvbLNFkQg739UdTqAgztegoGZ",
+      "type": "Transfer",
+      "amountText": "2",
+      "from": "5AZdCzDBXMqPvcmPgrrc43JhcEvZDsraQvDiFvJEwMyd",
+      "to": "6ACwobpN5CJB7TNdJcHpRHqStvS96AH7kvXqiDaeCzLx",
+      "blockTime": 1781221748,
+      "slot": 425866488
+    },
+    {
+      "signature": "353yL7nqaQMo86cnuGRawHvnBVZAU4EnqoRhG76Si6dwVpHWb4wQjJ2L8dWTmFERteBvyxmSoQhvRWvpcTXJxRKp",
+      "type": "Transfer",
+      "amountText": "190",
+      "from": "251pzjSKt1uNAqiAvWmM2dJBGf59UdJcXDaFFqJptGja",
+      "to": "uCWHaqAhTUc9SjCbaNpMUrvumDhLTLcVDRXrXnKbsKU",
+      "blockTime": 1781221031,
+      "slot": 425864668
+    },
+    {
       "signature": "4yQWKnttkqn6rqfk9kEQGhjkUg4fywSPrJ5tquGeVEvHjDfKBRAbXXziPHBfMJsXcAiJPAxvhfcFRo5FHPTwft4Y",
       "type": "Transfer",
       "amountText": "1.00425",
@@ -25083,9 +25110,9 @@
     }
   ],
   "stats": {
-    "last24h": 51,
-    "totalCached": 2786,
+    "last24h": 52,
+    "totalCached": 2789,
     "historyComplete": true
   },
-  "updatedAt": "2026-06-11T22:59:35.617Z"
+  "updatedAt": "2026-06-12T00:23:58.685Z"
 }
