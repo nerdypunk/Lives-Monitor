@@ -1,8 +1,14 @@
 {
   "source": "Infinita City Times",
   "feed": "https://www.infinitacitytimes.com/feed",
-  "updatedAt": "2026-06-12T15:59:13.651Z",
+  "updatedAt": "2026-06-12T18:15:43.785Z",
   "items": [
+    {
+      "title": "We’ve Partnered with Edge Esmeralda!",
+      "link": "https://www.infinitacitytimes.com/p/weve-partnered-with-edge-esmeralda",
+      "date": "Fri, 12 Jun 2026 16:54:52 GMT",
+      "summary": "Get 20% off your tickets"
+    },
     {
       "title": "Playing the long game",
       "link": "https://www.infinitacitytimes.com/p/playing-the-long-game",
@@ -56,12 +62,6 @@
       "link": "https://www.infinitacitytimes.com/p/ep-107-sid-sijbrandij-on-beating",
       "date": "Fri, 10 Apr 2026 16:28:46 GMT",
       "summary": "He Got Cancer… So He Built His Own Treatment"
-    },
-    {
-      "title": "The World is Ready for Liberty Acceleration",
-      "link": "https://www.infinitacitytimes.com/p/the-world-is-ready-for-liberty-acceleration",
-      "date": "Wed, 08 Apr 2026 18:22:12 GMT",
-      "summary": "Concluding the first summit of its kind: lib/acc 2026"
     }
   ]
 }
