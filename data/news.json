@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-12T20:36:33.672Z",
+  "updatedAt": "2026-06-12T22:15:40.987Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,6 +278,14 @@
       ],
       "articles": [
         {
+          "title": "CFTC sues New Mexico in latest bid to assert authority over sports betting markets",
+          "url": "https://www.theblock.co/post/404674/cftc-sues-new-mexico-latest-bid-assert-authority-sports-betting-markets?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-12T20:37:49.000Z",
+          "source": "The Block",
+          "summary": "New Mexico is the next state in the CFTC's crosshairs as the fight continues over regulatory jurisdiction over sports betting."
+        },
+        {
           "title": "Bitcoin hit bottom at $59,000 marking end to the crypto winter, says Standard Chartered analyst",
           "url": "https://www.coindesk.com/markets/2026/06/12/bitcoin-hit-bottom-at-usd59-000-marking-end-to-the-crypto-winter-says-standard-chartered-analyst",
           "domain": "coindesk.com",
@@ -348,14 +356,6 @@
           "date": "2026-06-12T15:55:42.000Z",
           "source": "CoinDesk",
           "summary": "The stock was trading above $160 in volatile action after last night's IPO at $135."
-        },
-        {
-          "title": "Bloomberg Analyst: Most Bitcoin ETF Investors Have Stayed Put Despite Outflows",
-          "url": "https://www.coindesk.com/markets/2026/06/08/bloomberg-analyst-most-bitcoin-etf-investors-have-stayed-put-despite-outflows",
-          "domain": "coindesk.com",
-          "date": "2026-06-12T15:49:36.000Z",
-          "source": "CoinDesk",
-          "summary": "Bitcoin ETF investors have pulled billions this year, but the broader crypto ETF market remains more resilient than recent headlines suggest."
         }
       ]
     }
