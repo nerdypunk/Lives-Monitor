@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-13T20:55:24.192Z",
+  "updatedAt": "2026-06-13T22:08:17.660Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -188,6 +188,14 @@
       ],
       "articles": [
         {
+          "title": "Could leaves help feed humanity after disaster?",
+          "url": "https://phys.org/news/2026-06-humanity-disaster.html",
+          "domain": "phys.org",
+          "date": "2026-06-13T21:00:04.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "UC researchers are investigating whether leaf protein and sugar extracted from plant fiber could help sustain people if major global shocks disrupt food production. Te Whare Wānanga o Waitaha | University of Canterbury (UC) Associate Professor David Denkenberger, who has spent more than a decade studying food resilience in extreme scenarios, says the work is part of a broader effort to identify practical ways to prevent mass starvation if global food systems are severely disrupted."
+        },
+        {
           "title": "New atlas reveals more about how the body's 'master gland' really works",
           "url": "https://phys.org/news/2026-06-atlas-reveals-body-master-gland.html",
           "domain": "phys.org",
@@ -258,14 +266,6 @@
           "date": "2026-06-11T00:00:00.000Z",
           "source": "Nature Biotechnology",
           "summary": "Nature Biotechnology, Published online: 11 June 2026; doi:10.1038/s41587-026-03126-z A method for spatial CRISPR perturbation screening reveals how genetic changes alter coding and non-coding RNA in a native tissue context, including the tumor microenvironment."
-        },
-        {
-          "title": "Large-scale, spatially resolved panoramic CRISPR screening in native tissue environments using Perturb-DBiT",
-          "url": "https://www.nature.com/articles/s41587-026-03127-y",
-          "domain": "nature.com",
-          "date": "2026-06-11T00:00:00.000Z",
-          "source": "Nature Biotechnology",
-          "summary": "Nature Biotechnology, Published online: 11 June 2026; doi:10.1038/s41587-026-03127-y In vivo CRISPR genetic perturbations are spatially mapped at scale."
         }
       ]
     },
