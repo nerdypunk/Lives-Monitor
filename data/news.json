@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-13T14:39:01.411Z",
+  "updatedAt": "2026-06-13T16:05:52.613Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -8,6 +8,14 @@
         "https://news.google.com/rss/search?q=DeSci%20OR%20%22decentralized%20science%22%20OR%20%22BIO%20Protocol%22&hl=en-US&gl=US&ceid=US:en"
       ],
       "articles": [
+        {
+          "title": "NanoVita Joins ENI Super Node Ecosystem to Advance AI-Driven DeSci - Cryptonews.net",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTeHF5X2owYXY0WXF1SjQzVjlkRGU3NG11UHMtaEJwUmZKRXlzTGtGTjhVem5IdGxIOFFYc1FzLWNXVzJaNVZ2MzNDcGQzWFd1UFZVVUdxaXJDWG5D?oc=5",
+          "domain": "cryptonews.net",
+          "date": "2026-06-07T10:09:56.000Z",
+          "source": "Cryptonews.net",
+          "summary": "NanoVita Joins ENI Super Node Ecosystem to Advance AI-Driven DeSci &nbsp;&nbsp; Cryptonews.net"
+        },
         {
           "title": "What Is Bio Protocol (BIO)? - Binance",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9MbFcyT1E4N1JvdnZCODQyc1pTRXZWWEk5VTVwbUlLLUtvWmJWN1F4Umw2am00VVBpRlVCaEk5NGR1ZXNvSU1oWGE3OWYtMWlYRURIeHY3SHBVQ0l3RkdmVnVQbXgwUTlLNjg0ZFBmLXpfamdtVmdR?oc=5",
@@ -25,68 +33,60 @@
           "summary": "What Is Decentralized Science (DeSci)? &nbsp;&nbsp; Binance"
         },
         {
-          "title": "BIO Surges 96%: Is DeSci the Next Big Narrative in Crypto? - KuCoin",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56cHhfTzRCLWNpcG0wTUtXWndReHdGbEhLWG9yRzc2cDhPTlpSMnhfUFJSUk1nQmJ5cHloSzFzVlVQdVNMZTA5dFM4aTNyTzZJY0lJaXRodGx5VEIxVERRMVF4blFSVXpZa0E?oc=5",
-          "domain": "kucoin.com",
-          "date": "2026-04-21T07:00:00.000Z",
-          "source": "KuCoin",
-          "summary": "BIO Surges 96%: Is DeSci the Next Big Narrative in Crypto? &nbsp;&nbsp; KuCoin"
+          "title": "PEPTAI Price Swings Wild As Base Integration Fuels DeSci Hype - Coinpedia",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWUpyR0I0YkxiZktvX3hfWlZwc0JIZFU1czE4dHN5SkhjdlJnMFVqb1V4cUY2Z2M0ZXB3VWV4b05zOWdVSGhhblJ2ZGpFMlNhaHJLcF9mZFpHM3d1RHF5b2d3V2ZxUEZfcTJZRHB5Uzd1QWl0bXJuZDlMZG1QR0xvRDZMYkg3STJDaUJibGNEdnBFQmPSAZgBQVVfeXFMTTQ0SUZHQjIzZ2I3dm9UWk5IV3M3NzY0WkRpYnRxblZzUGZVc2lscWg5RXRCV2RzU3NianNNTFd5cVNJYTlRRWNkcnozazZzXzNyODJSZ3VEektmZlZVX1hzbURxcmhUenFzMTdoaG9YSHhlaHFuUnhiWTFOU1kzVTM5Tl8zUFlORnp3WERnaFhNa2ZRUl9ZbkI?oc=5",
+          "domain": "coinpedia.org",
+          "date": "2026-05-15T07:00:00.000Z",
+          "source": "Coinpedia",
+          "summary": "PEPTAI Price Swings Wild As Base Integration Fuels DeSci Hype &nbsp;&nbsp; Coinpedia"
         },
         {
-          "title": "DeSci Momentum: BIO Protocol Surges as AI-Driven Drug Discovery Gains Market Traction - Tokenist",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9WM212UnlpQTlXcU45R042d0JUb0VxRWtSRnBYQnBnS0dCVEMtMGVCZ0pjcDdaMk4zYkNBQXo4RENYbURvN212VFliQjVHdzVzRU9DRTU5dElhazBOeTVOejJRNEVRNmtCUmRYWTRyZTg1WUE?oc=5",
-          "domain": "tokenist.com",
-          "date": "2026-04-16T14:25:30.000Z",
-          "source": "Tokenist",
-          "summary": "DeSci Momentum: BIO Protocol Surges as AI-Driven Drug Discovery Gains Market Traction &nbsp;&nbsp; Tokenist"
+          "title": "Bio Protocol announces the launch of PEPTAI, with a total supply of 20% allocated to BIO stakers - Bitget",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXeEVmTEhRNnBGbVRKSE5xa2tvRjM1MDFaaWdZbDJrX3BMallBanM4TG4tVmljbDE1U2NVXzQ0RmdjRmM5YmFkbnJNZzU3UGYycVRSTXYyOWpKTEtHMFNRcVhZaEjSAWpBVV95cUxQaWZRc0stMm9PZGxrYXNyek9yVUVuVGlSQU44UUlLVjd2NE9BYm0xYXNoWTlyaEdEbFlFQzlGMnlOcmJ1NjRYdGxtckFpZmktS0NDREZ4RDlMMTFiYzlnUWczVWJqaThKd253?oc=5",
+          "domain": "bitget.com",
+          "date": "2026-05-14T07:00:00.000Z",
+          "source": "Bitget",
+          "summary": "Bio Protocol announces the launch of PEPTAI, with a total supply of 20% allocated to BIO stakers &nbsp;&nbsp; Bitget"
         },
         {
-          "title": "Bio Protocol raises $6.9 million in seed funding led by Arthur Hayes' Maelstrom Fund - The Block",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRWVYbWUxd1JfQUktYXBUSDBkbGpadUdORUF3M2RvT2FZNGFTOUdpU2N3VzFqQ3k5UDdXanZHMUVGM3pvWTNqRTN3bEdoWnNDRHc1OU5aQkw5SUNXeFZmYXNkSkJRYUduaWZyS1pfbklIZVI5X0JvV29MckZOWHBkSTBsTnNCczkxRUYyMA?oc=5",
-          "domain": "theblock.co",
-          "date": "2025-09-17T07:00:00.000Z",
-          "source": "The Block",
-          "summary": "Bio Protocol raises $6.9 million in seed funding led by Arthur Hayes' Maelstrom Fund &nbsp;&nbsp; The Block"
+          "title": "DeSci Has Raised Millions For Research No VC Would Ever Touch - Yellow.com",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQzAtQWJmSEtGX1pXdWVOR0RsRnhXWGp4S2VYUEhXREJiM1ljR01reDZfS1hwU0g3eTMzaFdOdnVJb3l2R2lNdmdCVEhuUWExYjB0VTNReUIwUlRxTjhrdmlCV1d5R3VXbGtRWFp3eGQ0VTV0SjhZdGpNOGV2dDNYcnVodm9PWWJHYlE?oc=5",
+          "domain": "yellow.com",
+          "date": "2026-05-04T06:44:54.000Z",
+          "source": "Yellow.com",
+          "summary": "DeSci Has Raised Millions For Research No VC Would Ever Touch &nbsp;&nbsp; Yellow.com"
         },
         {
-          "title": "Challenges of DAOs in decentralized science: a qualitative analysis of expert interviews - Frontiers",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQejR4S1BadjlEMjRUcncwVUZIanhMVmdwNnd6aWc3NXF5X3d5NjNQQUp1QjlULVVvUUY2WHZ6dlIyUXo3ZjY4R3hXdWF4ZGVjaGR2QVFKSkp2cGxyeHhsc2ZoY19ZWUhxS25UUXVLZkl2MEhxdmRVTmlKS2lNM1hhRVg2cTUyeVU1cmZaclRkbGlNZw?oc=5",
-          "domain": "frontiersin.org",
-          "date": "2025-09-09T00:54:55.000Z",
-          "source": "Frontiers",
-          "summary": "Challenges of DAOs in decentralized science: a qualitative analysis of expert interviews &nbsp;&nbsp; Frontiers"
+          "title": "Bio Protocol leads Korea's Upbit trading with extreme greed signal, signaling high volatility and profit-taking. - Pluang",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOam9hR3BjN2dFeFdXZ0p3UER3d0VsbW0tQUZXWmNzcmd4U0pWUmREdzl0SHQ4U3RmZDBfaWdVeDViVTNieUtvTnFoaXNLMTVtSHkxMXFvTUw4VXpEaHBMcjNCeFBYNTF6aUhxanZQMElLbEMxVEQwQnk1R0N0SGgxclo3TDQ1bm9FdWxLekZEbjZ1b0I5NnZNVkxXWWVDZlhx?oc=5",
+          "domain": "pluang.com",
+          "date": "2026-05-03T07:00:00.000Z",
+          "source": "Pluang",
+          "summary": "Bio Protocol leads Korea's Upbit trading with extreme greed signal, signaling high volatility and profit-taking. &nbsp;&nbsp; Pluang"
         },
         {
-          "title": "Decentralized Science Project Aubrai Launches on Base to Tackle Science Funding's ‘Valley of Death’ - CoinDesk",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVWZvREFfM2NiREQxczhfWVhWbkk5NzN2bUppVm1QM2JYMUpTRnMwNzBQQTRMMkhjeEdKa3VpRzVtMmJBcDMyT2s1MWZ3VjJaTEJ0SEVGay1qSXdlZUh4ZXlzNkNPM1ltbXVVeFVUSHp6TnJYVkdwaElDQVZXMGlsT0VwUkdYRi1GTlpFZ3lQaktBZm1ZMDNjVkNvbWR4b0gtOTk3SFotQm43TXhvT29NZXVBMmpFa045T0NYekc2MTBUbVNzZV9TN3ExdGFaa1ZRdEtSc01QU3g?oc=5",
-          "domain": "coindesk.com",
-          "date": "2025-08-25T07:00:00.000Z",
-          "source": "CoinDesk",
-          "summary": "Decentralized Science Project Aubrai Launches on Base to Tackle Science Funding's ‘Valley of Death’ &nbsp;&nbsp; CoinDesk"
+          "title": "Bio Protocol Jumps 53.85% in Intraday Trading - bloomingbit",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TN0RaS1ExWkVmU1FzMXlsRUJQVmZhQ2lnNEdfcFVVMEloWHFuS3VDdnd5SlpLakNvNzIxdld1LTY5VWlVX2c4U2pZaUlTaHZybXUwag?oc=5",
+          "domain": "en.bloomingbit.io",
+          "date": "2026-05-02T07:00:00.000Z",
+          "source": "bloomingbit",
+          "summary": "Bio Protocol Jumps 53.85% in Intraday Trading &nbsp;&nbsp; bloomingbit"
         },
         {
-          "title": "Unlocking Science for All: Discover the Power of Bio Protocol - Phemex",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2c1RJZ0ZaaVhYZXlsSFdJYmdqeW9OYVNXa3R1TUJQVm1qbkNySElUeTdiSnhZQndBdlRGMTV4NUtTdFZ2aURka1d4Tl9SUm1Fc0xLc211MlhLREE?oc=5",
-          "domain": "phemex.com",
-          "date": "2025-08-18T07:00:00.000Z",
-          "source": "Phemex",
-          "summary": "Unlocking Science for All: Discover the Power of Bio Protocol &nbsp;&nbsp; Phemex"
+          "title": "Bio Protocol moves 80M BIO tokens worth $5.15M to exchange, signaling potential market activity. - Pluang",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcmc1NXB4dTh3bEtGSDMtQ3p3UnNod1h3Y0drbk92NFFQRWVkUVViNHp6RklocDJXMmcxLUxjMTl5WEtqYnlONnU0LUtVRkFycUhqeVhaSWVOVUU0TzBGUmVPTjVDRVZxTEhSN2VoTVJVand5SEpiQUNlOEpPWmxXM0dVYmhwRV9wMkk4c0szRE1RaTNSVFo0TVRR?oc=5",
+          "domain": "pluang.com",
+          "date": "2026-05-02T07:00:00.000Z",
+          "source": "Pluang",
+          "summary": "Bio Protocol moves 80M BIO tokens worth $5.15M to exchange, signaling potential market activity. &nbsp;&nbsp; Pluang"
         },
         {
-          "title": "Bio Protocol launches V1 upgrade to power DeSci research and boost BIO token utility - The Block",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOempzZzhfS19TZ3JVMkpZalFZX0dPeFNPOEZiaWJ1aWVSaEo1OGxpMGxJSHo4VGN6SjVzMFIzQ1BrQjNobXhtYjczRnl6RjVsSnl5ZEZKaGxXWU00VGpjUmpCUUJaWVFPVTVVVGRra2dZWDdNVkdLQzBFaVFJMjVBM3dzVEtJdnBVbnMzal9BYXJnNTNCTlVYVzlQMGc4ajExalJ4VHM0OEcxRjhxdnB5UHgzazVnNm5qdE1WQQ?oc=5",
-          "domain": "theblock.co",
-          "date": "2025-04-01T07:00:00.000Z",
-          "source": "The Block",
-          "summary": "Bio Protocol launches V1 upgrade to power DeSci research and boost BIO token utility &nbsp;&nbsp; The Block"
-        },
-        {
-          "title": "Best DeSci Crypto Projects To Watch - Traders Union",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVWltdnFyRm02b0tmamVHSUkxaWdLQ0pOTHBnbVVSUjY4TGYyWnpxVy13ZG5wT1VhbGZaWkQ2ZWJDcGFfNGROdm1ySlZaWXVtOWxaRXFDeFVSTzdtbDAwdzJMZ1hEVXdEbUhINkRxRzcwZVRDYlMtNkFVZjkzaEZscDJwRDBqWlVMc0ExNGFWeWZiVG5YYWUzSmhYZHBMQQ?oc=5",
-          "domain": "tradersunion.com",
-          "date": "2025-03-31T14:42:33.000Z",
-          "source": "Traders Union",
-          "summary": "Best DeSci Crypto Projects To Watch &nbsp;&nbsp; Traders Union"
+          "title": "DeSci project NanoVita announces completion of strategic financing with participation from Paramita and others - Bitget",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJTWpjY29WbnJadTF1MVk3TDhpdnV4RGdsdGRjM1JQNDE1RUQzSGxPSEVBRWMxUmt5dVRHN2tMOERDYWZ6M3p4UlpBV3luM1dJZFdTX2VjbDA1bWM2bmfSAWNBVV95cUxQVlpCZXlUcksxRHkwV0VVcXNLRWdJLUhxNTA4MDZQc3ZPSmRTZ3VVdUtaZTd2a0lqUWdaT2NKb1ZWcFpNSlNXNW42SEhYeDI3R21GRjRJWjdkZl9qUDBwZzdwQ28?oc=5",
+          "domain": "bitget.com",
+          "date": "2026-04-30T07:00:00.000Z",
+          "source": "Bitget",
+          "summary": "DeSci project NanoVita announces completion of strategic financing with participation from Paramita and others &nbsp;&nbsp; Bitget"
         }
       ]
     },
@@ -98,84 +98,84 @@
       ],
       "articles": [
         {
-          "title": "Lilly places $1b bet on AlzeCure’s Alzheimer’s project",
-          "url": "https://longevity.technology/news/lilly-places-1b-bet-on-alzecures-alzheimers-project/",
-          "domain": "longevity.technology",
-          "date": "2026-06-12T16:43:32.000Z",
-          "source": "Longevity.Technology",
-          "summary": "A small Swedish biotech lands a potentially billion-dollar deal as the race shifts from treating Alzheimer’s to preventing it. Promising Alzheimer’s therapies have stumbled in clinical trials, billions of dollars have been spent chasing elusive biological targets and, despite recent progress, researchers are still wrestling with difficult realities. By the time symptoms appear, Alzheimer’s disease […] The post Lilly places $1b bet on AlzeCure’s Alzheimer’s project appeared first on Longevity.Technology ."
+          "title": "Inducing NREM-Like Neuronal Patterns Mimics Sleep Benefits",
+          "url": "https://lifespan.io/inducing-nrem-like-neuronal-patterns-mimics-sleep-benefits/",
+          "domain": "lifespan.io",
+          "date": "2026-06-11T19:24:26.000Z",
+          "source": "Lifespan.io",
+          "summary": "Scientists have “faked” sleep in mice by artificially creating the on/off neuronal firing pattern similar to that seen in non-REM sleep. This produced sleep-like effects, including improved learning memory [1]. Can sleep be emulated? Getting proper amounts […]"
         },
         {
-          "title": "Exclusive deal expands neurodegenerative diagnostics",
-          "url": "https://longevity.technology/news/exclusive-deal-expands-neurodegenerative-diagnostics/",
-          "domain": "longevity.technology",
-          "date": "2026-06-12T16:40:16.000Z",
-          "source": "Longevity.Technology",
-          "summary": "NanoDetection secures global rights to antibody technology that may help distinguish Alzheimer’s from other brain diseases. A new licensing deal aims to bring greater precision to one of medicine’s biggest challenges: understanding what is happening inside the aging brain. Life science and diagnostics company NanoDetection Technology and New York-based biotech Oligomerix have announced an exclusive […] The post Exclusive deal expands neurodegenerative diagnostics appeared first on Longevity.Technology ."
+          "title": "The Immune System Maintains the Microbiome",
+          "url": "https://lifespan.io/the-immune-system-maintains-the-microbiome/",
+          "domain": "lifespan.io",
+          "date": "2026-06-10T17:17:32.000Z",
+          "source": "Lifespan.io",
+          "summary": "In a recent paper, researchers have proposed that the immune system and immune surveillance play a central role in maintaining microbial composition throughout life by suppressing microbial […]"
         },
         {
-          "title": "ŌURA’s smallest ring yet has bigger health ambitions",
-          "url": "https://longevity.technology/news/ouras-smallest-ring-yet-has-bigger-health-ambitions/",
-          "domain": "longevity.technology",
-          "date": "2026-06-12T16:38:28.000Z",
-          "source": "Longevity.Technology",
-          "summary": "The world’s smallest smart ring signals Oura’s move from wellness tracking toward proactive, personalized health guidance. Wearable technology is usually patterned as more sensors, more features, more data. Now, health tech company ŌURA is taking a different approach. Its newly unveiled Oura Ring 5 is 40% smaller than its predecessor, making it what the company […] The post ŌURA’s smallest ring yet has bigger health ambitions appeared first on Longevity.Technology ."
+          "title": "How Gut Bacteria Affect Lung Fibrosis",
+          "url": "https://lifespan.io/how-gut-bacteria-affect-lung-fibrosis/",
+          "domain": "lifespan.io",
+          "date": "2026-06-09T21:04:41.000Z",
+          "source": "Lifespan.io",
+          "summary": "In Aging Cell, researchers have described how a strain of Lactobacillus gut bacteria sends chemical signals that enter the bloodstream and decrease fibrosis in the lungs. The gut-lung axis The gut-brain axis, the term for […]"
         },
         {
-          "title": "OrsoBio posts promising tirzepatide combo data",
-          "url": "https://longevity.technology/news/orsobio-posts-promising-tirzepatide-combo-data/",
-          "domain": "longevity.technology",
-          "date": "2026-06-12T16:36:41.000Z",
-          "source": "Longevity.Technology",
-          "summary": "New findings suggest OrsoBio’s energy-burning approach could enhance tirzepatide’s effects while opening new possibilities for healthy aging. The next act after GLP-1s? US-based biopharma OrsoBio has a case. Obesity medicine has few unexpected transformations in recent years. Drugs such as tirzepatide have reshaped expectations around weight loss, helping millions of people achieve results once thought […] The post OrsoBio posts promising tirzepatide combo data appeared first on Longevity.Technology ."
+          "title": "Fighting Parkinson’s by Restoring Protein Degradation",
+          "url": "https://lifespan.io/fighting-parkinsons-by-restoring-protein-degradation/",
+          "domain": "lifespan.io",
+          "date": "2026-06-08T17:54:43.000Z",
+          "source": "Lifespan.io",
+          "summary": "Researchers have explained how a protein found in both yeast and humans facilitates the destruction of the core protein responsible for Parkinson’s […]"
         },
         {
-          "title": "ARK Invest backs the factories behind automated cell therapies",
-          "url": "https://longevity.technology/news/ark-invest-backs-the-factories-behind-automated-cell-therapies/",
-          "domain": "longevity.technology",
-          "date": "2026-06-12T16:33:58.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Cathie Wood’s firm joins Cellares’ $277m funding round as investors bet manufacturing not discovery will determine future of cell therapy. Cell therapy has produced remarkable results. Researchers have learned how to engineer immune cells to hunt down cancer, and new therapies are showing potential in autoimmune diseases that have long resisted conventional treatment. Yet despite […] The post ARK Invest backs the factories behind automated cell therapies appeared first on Longevity.Technology ."
+          "title": "Neurons’ Protein Disposal Trick Offers Alzheimer’s Insights",
+          "url": "https://lifespan.io/neurons-protein-disposal-trick-offers-alzheimers-insights/",
+          "domain": "lifespan.io",
+          "date": "2026-06-05T14:49:43.000Z",
+          "source": "Lifespan.io",
+          "summary": "According to a new study, a special protein disposal system, currently found only in neurons, is linked to central hallmarks of Alzheimer’s disease [1]. The membranal proteasome […]"
         },
         {
-          "title": "Rokit Healthcare to begin human kidney regeneration surgery in July",
-          "url": "https://longevity.technology/news/rokit-healthcare-to-begin-human-kidney-regeneration-surgery-in-july/",
-          "domain": "longevity.technology",
-          "date": "2026-06-12T11:46:24.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Rokit Healthcare announced it has received clinical approval for an advanced regenerative medicine therapy for kidney regeneration and plans to begin the world’s first human clinical surgery in July 2026. The clinical trial will evaluate a kidney regeneration platform using autologous omentum-derived cells and will assess the initial safety and regenerative potential of an omentum […] The post Rokit Healthcare to begin human kidney regeneration surgery in July appeared first on Longevity.Technology ."
+          "title": "Preventing Load-Induced Arthritis at the Cellular Level",
+          "url": "https://lifespan.io/preventing-load-induced-arthritis-at-the-cellular-level/",
+          "domain": "lifespan.io",
+          "date": "2026-06-04T17:37:51.000Z",
+          "source": "Lifespan.io",
+          "summary": "Researchers have discovered that the osteoarthritis-inducing effects of excessive mechanical stress can be mitigated by increasing miR-330, a key regulator in cartilage and bone […]"
         },
         {
-          "title": "Tectonic Therapeutic finishes patient enrollment for trial of new heart failure drug",
-          "url": "https://longevity.technology/news/tectonic-therapeutic-finishes-patient-enrollment-for-trial-of-new-heart-failure-drug/",
-          "domain": "longevity.technology",
-          "date": "2026-06-12T11:41:24.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Tectonic Therapeutic has completed enrollment in the APEX Phase 2 trial evaluating TX45 in patients with pulmonary hypertension associated with heart failure with preserved ejection fraction (PH-HFpEF). The 24-week, randomized, double-blind, placebo-controlled trial enrolled 191 patients across 14 countries and was enriched for combined pre- and post-capillary pulmonary hypertension (CpcPH); 137 patients had a baseline […] The post Tectonic Therapeutic finishes patient enrollment for trial of new heart failure drug appeared first on Longevity.Technology ."
+          "title": "Forever Healthy Foundation Launches Evipedia.ai",
+          "url": "https://lifespan.io/forever-healthy-foundation-launches-evipedia-ai/",
+          "domain": "lifespan.io",
+          "date": "2026-06-03T17:24:06.000Z",
+          "source": "Lifespan.io",
+          "summary": "The Forever Healthy Foundation today publicly launched evipedia.ai, an open online encyclopedia of in-depth evidence reviews covering more than 500 health and longevity interventions, including first-generation rejuvenation therapies, supplements, botanicals, […]"
         },
         {
-          "title": "NeuroSense secures South Korean patent for ALS drug PrimeC through 2042",
-          "url": "https://longevity.technology/news/neurosense-secures-south-korean-patent-for-als-drug-primec-through-2042/",
-          "domain": "longevity.technology",
-          "date": "2026-06-12T11:36:24.000Z",
-          "source": "Longevity.Technology",
-          "summary": "NeuroSense announced that the Korean Intellectual Property Office has issued Korean Patent Number 10-2969898 covering the composition of PrimeC, including its proprietary tablet formulation, manufacturing process, pharmacokinetic characteristics and pharmaceutical use for the treatment of amyotrophic lateral sclerosis. The patent is expected to provide protection in South Korea through 2042. The grant follows patent awards […] The post NeuroSense secures South Korean patent for ALS drug PrimeC through 2042 appeared first on Longevity.Technology ."
+          "title": "The Thalion Initiative: A New Non-Profit With Big Ambitions",
+          "url": "https://lifespan.io/the-thalion-initiative-a-new-non-profit-with-big-ambitions/",
+          "domain": "lifespan.io",
+          "date": "2026-06-02T15:23:03.000Z",
+          "source": "Lifespan.io",
+          "summary": "The longevity field remains small and starved for resources, especially the subfield devoted to the fundamental biology of aging, despite near-universal […]"
         },
         {
-          "title": "Haut.AI partners with Olay for personalized skin simulation tool",
-          "url": "https://longevity.technology/news/haut-ai-partners-with-olay-for-personalized-skin-simulation-tool/",
-          "domain": "longevity.technology",
-          "date": "2026-06-12T11:36:10.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Haut.AI has partnered with Olay to introduce Virtual Companion technology within the OLAY Skin Advisor experience, the companies announced on 10 June 2026. The integration uses Haut.AI’s LIQA (Live Image Quality Assessment) to guide users in taking selfies that detect skin concerns and produce personalized insights and recommended routines. A proprietary matching engine selects a […] The post Haut.AI partners with Olay for personalized skin simulation tool appeared first on Longevity.Technology ."
+          "title": "Rejuvenation Roundup May 2026",
+          "url": "https://lifespan.io/rejuvenation-roundup-may-2026/",
+          "domain": "lifespan.io",
+          "date": "2026-06-01T16:30:59.000Z",
+          "source": "Lifespan.io",
+          "summary": "Approaches that modify the processes of aging at their roots have gone well beyond basic research and into therapies intended for the clinic within the next few years. Here’s how the field has advanced in May. […]"
         },
         {
-          "title": "Heartseed tests stem cell therapy for dilated cardiomyopathy patients",
-          "url": "https://longevity.technology/news/heartseed-tests-stem-cell-therapy-for-dilated-cardiomyopathy-patients/",
-          "domain": "longevity.technology",
-          "date": "2026-06-12T11:31:24.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Heartseed has begun dosing patients in its domestic Phase I/II EMERALD clinical trial of HS-005, an allogeneic induced pluripotent stem cell-derived cardiomyocyte spheroid therapy delivered via catheter for heart failure caused by dilated cardiomyopathy. The Independent Safety Monitoring Committee reviewed four-week post-administration data from the first patient and cleared continuation of the dilated cardiomyopathy cohort, […] The post Heartseed tests stem cell therapy for dilated cardiomyopathy patients appeared first on Longevity.Technology ."
+          "title": "Harvard Publishes a Longevity Report for the General Public",
+          "url": "https://lifespan.io/harvard-publishes-a-longevity-report-for-the-general-public/",
+          "domain": "lifespan.io",
+          "date": "2026-05-29T16:09:27.000Z",
+          "source": "Lifespan.io",
+          "summary": "The report, titled “Pathways to Longevity”, introduces several important longevity concepts to the general reader and is another sign that the field is coming of age and entering the mainstream. People […]"
         }
       ]
     },
@@ -278,6 +278,38 @@
       ],
       "articles": [
         {
+          "title": "Wall Street is moving past crypto pilots and deeper into Ethereum, says Etherealize founder",
+          "url": "https://www.coindesk.com/business/2026/06/13/wall-street-is-moving-past-crypto-pilots-and-deeper-into-ethereum-says-etherealize-founder",
+          "domain": "coindesk.com",
+          "date": "2026-06-13T16:00:00.000Z",
+          "source": "CoinDesk",
+          "summary": "In an interview with CoinDesk, Etherealize cofounder Vivek Raman said Ethereum is currently in a transitional phase where the infrastructure has largely been built, but the scale of adoption has yet to be fully reflected in ETH itself."
+        },
+        {
+          "title": "Tokenization mirrors the $20 trillion ETF boom as blockchain and AI converge, Ondo exec says",
+          "url": "https://www.coindesk.com/business/2026/06/13/tokenization-mirrors-the-usd20-trillion-etf-boom-as-blockchain-and-ai-converge-ondo-exec-says",
+          "domain": "coindesk.com",
+          "date": "2026-06-13T15:29:00.000Z",
+          "source": "CoinDesk",
+          "summary": "Tokenization is laying the groundwork for autonomous investing and real-time portfolio management, Ondo's new head of portfolio products John Hoffman said."
+        },
+        {
+          "title": "Spot bitcoin ETFs snap five-day outflow streak with $85.8 million Friday inflow as ether funds keep sliding",
+          "url": "https://www.theblock.co/post/404682/spot-bitcoin-etfs-snap-five-day-outflow-streak-with-85-8-million-friday-inflow-as-ether-funds-keep-sliding?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-13T15:25:20.000Z",
+          "source": "The Block",
+          "summary": "BlackRock's IBIT led Friday's inflows at $57.7 million, with Fidelity's FBTC adding $18.0 million, while no fund reported a net outflow on the day."
+        },
+        {
+          "title": "Anthropic's Mythos AI finds no more 'serious' bugs in Zcash: Wilcox",
+          "url": "https://cointelegraph.com/news/anthropic-mythos-audit-no-serious-bugs-zcash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-13T14:45:43.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Zcash founder Zooko Wilcox said Anthropic's Mythos AI model found no further \"serious bugs\" in the privacy protocol following the patching of a previously discovered forgery bug."
+        },
+        {
           "title": "Perpetual futures could become crypto's next ETF moment",
           "url": "https://www.coindesk.com/business/2026/06/13/perpetual-futures-could-become-crypto-s-next-etf-moment",
           "domain": "coindesk.com",
@@ -324,38 +356,6 @@
           "date": "2026-06-13T11:30:00.000Z",
           "source": "CoinDesk",
           "summary": "The XRPL AI Starter Kit gives developers tools for agent payments, but early x402 activity has clustered on Base and Solana. Ripple’s bet is that XRPL’s speed, low fees and RLUSD can win a piece of that flow."
-        },
-        {
-          "title": "Top cryptographers can't agree on Bitcoin's biggest quantum question",
-          "url": "https://www.coindesk.com/tech/2026/06/13/top-cryptographers-can-t-agree-on-bitcoin-s-biggest-quantum-question",
-          "domain": "coindesk.com",
-          "date": "2026-06-13T06:07:00.000Z",
-          "source": "CoinDesk",
-          "summary": "A Coinbase-convened panel says Bitcoin should start preparing for quantum attacks now, but declines to take a position on whether millions of vulnerable coins, including many linked to Satoshi Nakamoto, should eventually be frozen."
-        },
-        {
-          "title": "Anthropic's pre-IPO shares fall as U.S. government shuts down its most powerful AI model",
-          "url": "https://www.coindesk.com/markets/2026/06/13/anthropic-s-pre-ipo-shares-fall-as-us-government-shuts-down-its-most-powerful-ai-model",
-          "domain": "coindesk.com",
-          "date": "2026-06-13T06:02:05.000Z",
-          "source": "CoinDesk",
-          "summary": "A jailbreak report prompted Washington to pull Fable 5 and Mythos 5 from all users. Anthropic complied but pushed back hard, saying the finding sets a standard that would halt the entire AI industry."
-        },
-        {
-          "title": "Here’s what happened in crypto today",
-          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-13T05:47:00.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-        },
-        {
-          "title": "Bitcoin steadies above $63,000 as its worst week in months got a late macro rescue",
-          "url": "https://www.coindesk.com/markets/2026/06/13/bitcoin-steady-above-usd63-000-as-its-worst-week-in-months-got-a-late-macro-rescue",
-          "domain": "coindesk.com",
-          "date": "2026-06-13T05:46:38.000Z",
-          "source": "CoinDesk",
-          "summary": "A tiny Strategy sale raised a bigger question about Saylor’s never-sell stance, while easing Iran fears, and a strong SpaceX debut helped risk assets recover."
         }
       ]
     }
