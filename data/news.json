@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-13T10:36:31.226Z",
+  "updatedAt": "2026-06-13T12:16:18.678Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -188,6 +188,14 @@
       ],
       "articles": [
         {
+          "title": "Engineering enzymes with potential against ALS and Parkinson's disease",
+          "url": "https://phys.org/news/2026-06-enzymes-potential-als-parkinson-disease.html",
+          "domain": "phys.org",
+          "date": "2026-06-13T12:00:08.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "In an advance that could one day lead to new treatments for neurodegenerative diseases, Meredith Jackrel, an associate professor of chemistry in Arts & Sciences at Washington University in St. Louis, and her team have developed a method to rapidly produce and screen a class of disaggregase enzymes that can break down the misfolded proteins associated with ALS and Parkinson's disease."
+        },
+        {
           "title": "Lab-grown canine muscle cells offer solution for early therapeutic testing",
           "url": "https://phys.org/news/2026-06-lab-grown-canine-muscle-cells.html",
           "domain": "phys.org",
@@ -258,14 +266,6 @@
           "date": "2026-06-10T22:40:04.000Z",
           "source": "Phys.org Biotechnology",
           "summary": "In the human body, the boundary between health and severe illness can be microscopic. For decades, molecular scientists have grappled with a frustrating biological reality: The proteins driving devastating diseases often look nearly identical to the ones keeping us alive."
-        },
-        {
-          "title": "Degradable sensors reveal hidden soil secrets after microbes nibble on them",
-          "url": "https://phys.org/news/2026-06-degradable-sensors-reveal-hidden-soil.html",
-          "domain": "phys.org",
-          "date": "2026-06-10T22:40:01.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "New degradable sensors could reveal insights into the secret—yet essential—microscopic life in soil. The sensors, which are being developed by soil scientists at Lancaster University and researchers at the University of Colorado Boulder and the University of Manchester, track biological activity in soil by using a degradable substrate that is nibbled on by microbes."
         }
       ]
     },
@@ -277,6 +277,22 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "Morpho's $175M raise shows where crypto VC money is flowing",
+          "url": "https://cointelegraph.com/news/morphos-175m-raise-shows-where-the-last-of-the-crypto-vc-money-is-going?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-13T11:52:41.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Morpho’s recent $175 million raise reflects growing investor bets on onchain credit infrastructure as stablecoin adoption expands."
+        },
+        {
+          "title": "Ripple wants AI agents to pay in XRP and RLUSD. The market is still mostly USDC",
+          "url": "https://www.coindesk.com/tech/2026/06/11/ripple-wants-ai-agents-to-pay-in-xrp-and-rlusd-the-market-is-still-mostly-usdc",
+          "domain": "coindesk.com",
+          "date": "2026-06-13T11:30:00.000Z",
+          "source": "CoinDesk",
+          "summary": "The XRPL AI Starter Kit gives developers tools for agent payments, but early x402 activity has clustered on Base and Solana. Ripple’s bet is that XRPL’s speed, low fees and RLUSD can win a piece of that flow."
+        },
         {
           "title": "Top cryptographers can't agree on Bitcoin's biggest quantum question",
           "url": "https://www.coindesk.com/tech/2026/06/13/top-cryptographers-can-t-agree-on-bitcoin-s-biggest-quantum-question",
@@ -340,22 +356,6 @@
           "date": "2026-06-13T02:17:55.000Z",
           "source": "CoinTelegraph",
           "summary": "Elon Musk’s SpaceX completed its landmark IPO on the Nasdaq on Friday, but crypto users seeking tokenized exposure to the IPO were left empty-handed after allocations fell through."
-        },
-        {
-          "title": "Bitcoin’s ‘calm top’ challenges most market bottom estimates: Research",
-          "url": "https://cointelegraph.com/markets/bitcoins-calm-top-challenges-old-bottom-targets-what-traders-need-to-know?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-13T00:51:36.000Z",
-          "source": "CoinTelegraph",
-          "summary": "New data from Galaxy Research suggests that Bitcoin's floor price may not drop as low as previous bear markets, but the bottom-finding process is still playing out."
-        },
-        {
-          "title": "Bitcoin rally to $70K builds as orderbook structure highlights traders’ confidence",
-          "url": "https://cointelegraph.com/markets/bitcoin-data-points-to-a-relief-rally-as-order-book-demand-targets-70k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-12T23:42:12.000Z",
-          "source": "CoinTelegraph",
-          "summary": "A positive bid-ask readings and a bullish RSI divergence support Bitcoin's recovery, with $70,000 emerging as a key target."
         }
       ]
     }
