@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-13T12:16:18.678Z",
+  "updatedAt": "2026-06-13T14:39:01.411Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -8,22 +8,6 @@
         "https://news.google.com/rss/search?q=DeSci%20OR%20%22decentralized%20science%22%20OR%20%22BIO%20Protocol%22&hl=en-US&gl=US&ceid=US:en"
       ],
       "articles": [
-        {
-          "title": "NanoVita Joins ENI Super Node Ecosystem to Advance AI-Driven DeSci - Cryptonews.net",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTeHF5X2owYXY0WXF1SjQzVjlkRGU3NG11UHMtaEJwUmZKRXlzTGtGTjhVem5IdGxIOFFYc1FzLWNXVzJaNVZ2MzNDcGQzWFd1UFZVVUdxaXJDWG5D?oc=5",
-          "domain": "cryptonews.net",
-          "date": "2026-06-07T10:09:56.000Z",
-          "source": "Cryptonews.net",
-          "summary": "NanoVita Joins ENI Super Node Ecosystem to Advance AI-Driven DeSci &nbsp;&nbsp; Cryptonews.net"
-        },
-        {
-          "title": "BIO Token Gains 19% As DeSci Narrative Draws Fresh Trader Interest - Yellow.com",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1NWDBRSEdsNWVRSm9RcWl5TGR1QTV4RnMzenZQQXpnMlh0SXNmUDZrZ1d2UzNRZGVDVTFQQnRSYnFGX24yZzdLTzYwSVBDLXkzeGFCeUl2V2R4M19CY2pNUGtQclhSUQ?oc=5",
-          "domain": "yellow.com",
-          "date": "2026-06-05T02:41:46.000Z",
-          "source": "Yellow.com",
-          "summary": "BIO Token Gains 19% As DeSci Narrative Draws Fresh Trader Interest &nbsp;&nbsp; Yellow.com"
-        },
         {
           "title": "What Is Bio Protocol (BIO)? - Binance",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9MbFcyT1E4N1JvdnZCODQyc1pTRXZWWEk5VTVwbUlLLUtvWmJWN1F4Umw2am00VVBpRlVCaEk5NGR1ZXNvSU1oWGE3OWYtMWlYRURIeHY3SHBVQ0l3RkdmVnVQbXgwUTlLNjg0ZFBmLXpfamdtVmdR?oc=5",
@@ -41,52 +25,68 @@
           "summary": "What Is Decentralized Science (DeSci)? &nbsp;&nbsp; Binance"
         },
         {
-          "title": "PEPTAI Price Swings Wild As Base Integration Fuels DeSci Hype - Coinpedia",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWUpyR0I0YkxiZktvX3hfWlZwc0JIZFU1czE4dHN5SkhjdlJnMFVqb1V4cUY2Z2M0ZXB3VWV4b05zOWdVSGhhblJ2ZGpFMlNhaHJLcF9mZFpHM3d1RHF5b2d3V2ZxUEZfcTJZRHB5Uzd1QWl0bXJuZDlMZG1QR0xvRDZMYkg3STJDaUJibGNEdnBFQmPSAZgBQVVfeXFMTTQ0SUZHQjIzZ2I3dm9UWk5IV3M3NzY0WkRpYnRxblZzUGZVc2lscWg5RXRCV2RzU3NianNNTFd5cVNJYTlRRWNkcnozazZzXzNyODJSZ3VEektmZlZVX1hzbURxcmhUenFzMTdoaG9YSHhlaHFuUnhiWTFOU1kzVTM5Tl8zUFlORnp3WERnaFhNa2ZRUl9ZbkI?oc=5",
-          "domain": "coinpedia.org",
-          "date": "2026-05-15T07:00:00.000Z",
-          "source": "Coinpedia",
-          "summary": "PEPTAI Price Swings Wild As Base Integration Fuels DeSci Hype &nbsp;&nbsp; Coinpedia"
+          "title": "BIO Surges 96%: Is DeSci the Next Big Narrative in Crypto? - KuCoin",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56cHhfTzRCLWNpcG0wTUtXWndReHdGbEhLWG9yRzc2cDhPTlpSMnhfUFJSUk1nQmJ5cHloSzFzVlVQdVNMZTA5dFM4aTNyTzZJY0lJaXRodGx5VEIxVERRMVF4blFSVXpZa0E?oc=5",
+          "domain": "kucoin.com",
+          "date": "2026-04-21T07:00:00.000Z",
+          "source": "KuCoin",
+          "summary": "BIO Surges 96%: Is DeSci the Next Big Narrative in Crypto? &nbsp;&nbsp; KuCoin"
         },
         {
-          "title": "Bio Protocol announces the launch of PEPTAI, with a total supply of 20% allocated to BIO stakers - Bitget",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXeEVmTEhRNnBGbVRKSE5xa2tvRjM1MDFaaWdZbDJrX3BMallBanM4TG4tVmljbDE1U2NVXzQ0RmdjRmM5YmFkbnJNZzU3UGYycVRSTXYyOWpKTEtHMFNRcVhZaEjSAWpBVV95cUxQaWZRc0stMm9PZGxrYXNyek9yVUVuVGlSQU44UUlLVjd2NE9BYm0xYXNoWTlyaEdEbFlFQzlGMnlOcmJ1NjRYdGxtckFpZmktS0NDREZ4RDlMMTFiYzlnUWczVWJqaThKd253?oc=5",
-          "domain": "bitget.com",
-          "date": "2026-05-14T07:00:00.000Z",
-          "source": "Bitget",
-          "summary": "Bio Protocol announces the launch of PEPTAI, with a total supply of 20% allocated to BIO stakers &nbsp;&nbsp; Bitget"
+          "title": "DeSci Momentum: BIO Protocol Surges as AI-Driven Drug Discovery Gains Market Traction - Tokenist",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9WM212UnlpQTlXcU45R042d0JUb0VxRWtSRnBYQnBnS0dCVEMtMGVCZ0pjcDdaMk4zYkNBQXo4RENYbURvN212VFliQjVHdzVzRU9DRTU5dElhazBOeTVOejJRNEVRNmtCUmRYWTRyZTg1WUE?oc=5",
+          "domain": "tokenist.com",
+          "date": "2026-04-16T14:25:30.000Z",
+          "source": "Tokenist",
+          "summary": "DeSci Momentum: BIO Protocol Surges as AI-Driven Drug Discovery Gains Market Traction &nbsp;&nbsp; Tokenist"
         },
         {
-          "title": "DeSci Has Raised Millions For Research No VC Would Ever Touch - Yellow.com",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQzAtQWJmSEtGX1pXdWVOR0RsRnhXWGp4S2VYUEhXREJiM1ljR01reDZfS1hwU0g3eTMzaFdOdnVJb3l2R2lNdmdCVEhuUWExYjB0VTNReUIwUlRxTjhrdmlCV1d5R3VXbGtRWFp3eGQ0VTV0SjhZdGpNOGV2dDNYcnVodm9PWWJHYlE?oc=5",
-          "domain": "yellow.com",
-          "date": "2026-05-04T06:44:54.000Z",
-          "source": "Yellow.com",
-          "summary": "DeSci Has Raised Millions For Research No VC Would Ever Touch &nbsp;&nbsp; Yellow.com"
+          "title": "Bio Protocol raises $6.9 million in seed funding led by Arthur Hayes' Maelstrom Fund - The Block",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRWVYbWUxd1JfQUktYXBUSDBkbGpadUdORUF3M2RvT2FZNGFTOUdpU2N3VzFqQ3k5UDdXanZHMUVGM3pvWTNqRTN3bEdoWnNDRHc1OU5aQkw5SUNXeFZmYXNkSkJRYUduaWZyS1pfbklIZVI5X0JvV29MckZOWHBkSTBsTnNCczkxRUYyMA?oc=5",
+          "domain": "theblock.co",
+          "date": "2025-09-17T07:00:00.000Z",
+          "source": "The Block",
+          "summary": "Bio Protocol raises $6.9 million in seed funding led by Arthur Hayes' Maelstrom Fund &nbsp;&nbsp; The Block"
         },
         {
-          "title": "Bio Protocol leads Korea's Upbit trading with extreme greed signal, signaling high volatility and profit-taking. - Pluang",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOam9hR3BjN2dFeFdXZ0p3UER3d0VsbW0tQUZXWmNzcmd4U0pWUmREdzl0SHQ4U3RmZDBfaWdVeDViVTNieUtvTnFoaXNLMTVtSHkxMXFvTUw4VXpEaHBMcjNCeFBYNTF6aUhxanZQMElLbEMxVEQwQnk1R0N0SGgxclo3TDQ1bm9FdWxLekZEbjZ1b0I5NnZNVkxXWWVDZlhx?oc=5",
-          "domain": "pluang.com",
-          "date": "2026-05-03T07:00:00.000Z",
-          "source": "Pluang",
-          "summary": "Bio Protocol leads Korea's Upbit trading with extreme greed signal, signaling high volatility and profit-taking. &nbsp;&nbsp; Pluang"
+          "title": "Challenges of DAOs in decentralized science: a qualitative analysis of expert interviews - Frontiers",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQejR4S1BadjlEMjRUcncwVUZIanhMVmdwNnd6aWc3NXF5X3d5NjNQQUp1QjlULVVvUUY2WHZ6dlIyUXo3ZjY4R3hXdWF4ZGVjaGR2QVFKSkp2cGxyeHhsc2ZoY19ZWUhxS25UUXVLZkl2MEhxdmRVTmlKS2lNM1hhRVg2cTUyeVU1cmZaclRkbGlNZw?oc=5",
+          "domain": "frontiersin.org",
+          "date": "2025-09-09T00:54:55.000Z",
+          "source": "Frontiers",
+          "summary": "Challenges of DAOs in decentralized science: a qualitative analysis of expert interviews &nbsp;&nbsp; Frontiers"
         },
         {
-          "title": "Bio Protocol Jumps 53.85% in Intraday Trading - bloomingbit",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TN0RaS1ExWkVmU1FzMXlsRUJQVmZhQ2lnNEdfcFVVMEloWHFuS3VDdnd5SlpLakNvNzIxdld1LTY5VWlVX2c4U2pZaUlTaHZybXUwag?oc=5",
-          "domain": "en.bloomingbit.io",
-          "date": "2026-05-02T07:00:00.000Z",
-          "source": "bloomingbit",
-          "summary": "Bio Protocol Jumps 53.85% in Intraday Trading &nbsp;&nbsp; bloomingbit"
+          "title": "Decentralized Science Project Aubrai Launches on Base to Tackle Science Funding's ‘Valley of Death’ - CoinDesk",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVWZvREFfM2NiREQxczhfWVhWbkk5NzN2bUppVm1QM2JYMUpTRnMwNzBQQTRMMkhjeEdKa3VpRzVtMmJBcDMyT2s1MWZ3VjJaTEJ0SEVGay1qSXdlZUh4ZXlzNkNPM1ltbXVVeFVUSHp6TnJYVkdwaElDQVZXMGlsT0VwUkdYRi1GTlpFZ3lQaktBZm1ZMDNjVkNvbWR4b0gtOTk3SFotQm43TXhvT29NZXVBMmpFa045T0NYekc2MTBUbVNzZV9TN3ExdGFaa1ZRdEtSc01QU3g?oc=5",
+          "domain": "coindesk.com",
+          "date": "2025-08-25T07:00:00.000Z",
+          "source": "CoinDesk",
+          "summary": "Decentralized Science Project Aubrai Launches on Base to Tackle Science Funding's ‘Valley of Death’ &nbsp;&nbsp; CoinDesk"
         },
         {
-          "title": "Bio Protocol moves 80M BIO tokens worth $5.15M to exchange, signaling potential market activity. - Pluang",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcmc1NXB4dTh3bEtGSDMtQ3p3UnNod1h3Y0drbk92NFFQRWVkUVViNHp6RklocDJXMmcxLUxjMTl5WEtqYnlONnU0LUtVRkFycUhqeVhaSWVOVUU0TzBGUmVPTjVDRVZxTEhSN2VoTVJVand5SEpiQUNlOEpPWmxXM0dVYmhwRV9wMkk4c0szRE1RaTNSVFo0TVRR?oc=5",
-          "domain": "pluang.com",
-          "date": "2026-05-02T07:00:00.000Z",
-          "source": "Pluang",
-          "summary": "Bio Protocol moves 80M BIO tokens worth $5.15M to exchange, signaling potential market activity. &nbsp;&nbsp; Pluang"
+          "title": "Unlocking Science for All: Discover the Power of Bio Protocol - Phemex",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2c1RJZ0ZaaVhYZXlsSFdJYmdqeW9OYVNXa3R1TUJQVm1qbkNySElUeTdiSnhZQndBdlRGMTV4NUtTdFZ2aURka1d4Tl9SUm1Fc0xLc211MlhLREE?oc=5",
+          "domain": "phemex.com",
+          "date": "2025-08-18T07:00:00.000Z",
+          "source": "Phemex",
+          "summary": "Unlocking Science for All: Discover the Power of Bio Protocol &nbsp;&nbsp; Phemex"
+        },
+        {
+          "title": "Bio Protocol launches V1 upgrade to power DeSci research and boost BIO token utility - The Block",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOempzZzhfS19TZ3JVMkpZalFZX0dPeFNPOEZiaWJ1aWVSaEo1OGxpMGxJSHo4VGN6SjVzMFIzQ1BrQjNobXhtYjczRnl6RjVsSnl5ZEZKaGxXWU00VGpjUmpCUUJaWVFPVTVVVGRra2dZWDdNVkdLQzBFaVFJMjVBM3dzVEtJdnBVbnMzal9BYXJnNTNCTlVYVzlQMGc4ajExalJ4VHM0OEcxRjhxdnB5UHgzazVnNm5qdE1WQQ?oc=5",
+          "domain": "theblock.co",
+          "date": "2025-04-01T07:00:00.000Z",
+          "source": "The Block",
+          "summary": "Bio Protocol launches V1 upgrade to power DeSci research and boost BIO token utility &nbsp;&nbsp; The Block"
+        },
+        {
+          "title": "Best DeSci Crypto Projects To Watch - Traders Union",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVWltdnFyRm02b0tmamVHSUkxaWdLQ0pOTHBnbVVSUjY4TGYyWnpxVy13ZG5wT1VhbGZaWkQ2ZWJDcGFfNGROdm1ySlZaWXVtOWxaRXFDeFVSTzdtbDAwdzJMZ1hEVXdEbUhINkRxRzcwZVRDYlMtNkFVZjkzaEZscDJwRDBqWlVMc0ExNGFWeWZiVG5YYWUzSmhYZHBMQQ?oc=5",
+          "domain": "tradersunion.com",
+          "date": "2025-03-31T14:42:33.000Z",
+          "source": "Traders Union",
+          "summary": "Best DeSci Crypto Projects To Watch &nbsp;&nbsp; Traders Union"
         }
       ]
     },
@@ -278,6 +278,38 @@
       ],
       "articles": [
         {
+          "title": "Perpetual futures could become crypto's next ETF moment",
+          "url": "https://www.coindesk.com/business/2026/06/13/perpetual-futures-could-become-crypto-s-next-etf-moment",
+          "domain": "coindesk.com",
+          "date": "2026-06-13T14:00:00.000Z",
+          "source": "CoinDesk",
+          "summary": "John Palmer, head of derivatives at Kraken, said he expects sophisticated traders to lead adoption of newly approved U.S. perpetual futures, with broader institutional participation likely to follow over time."
+        },
+        {
+          "title": "Bitcoin sales are necessary for Strategy's digital credit business, Saylor says",
+          "url": "https://cointelegraph.com/news/saylor-strategys-bitcoin-sale-defend-digital-credit-products?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-13T13:58:24.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Strategy's recent Bitcoin sale appeared to clash with Saylor's \"never sell\" mantra, but he says the move reflects how the company's digital credit business works."
+        },
+        {
+          "title": "Saylor to Musk: Thanks to you, 25% of 'Mag8' firms now hold bitcoin",
+          "url": "https://www.coindesk.com/markets/2026/06/13/saylor-to-musk-thanks-to-you-25-of-mag8-firms-now-hold-bitcoin",
+          "domain": "coindesk.com",
+          "date": "2026-06-13T13:05:40.000Z",
+          "source": "CoinDesk",
+          "summary": "\"Thanks to you, 25% of the Mag8 now holds bitcoin on the balance sheet,\" Saylor wrote on X, congratulating Musk on SpaceX's historic IPO debut."
+        },
+        {
+          "title": "Crypto should adopt the best of centralization, says LMAX CEO",
+          "url": "https://www.coindesk.com/business/2026/06/09/crypto-should-adopt-the-best-of-centralization-says-lmax-ceo",
+          "domain": "coindesk.com",
+          "date": "2026-06-13T13:00:00.000Z",
+          "source": "CoinDesk",
+          "summary": "As digital assets mature the industry should borrow more from traditional market infrastructure, especially credit, clearing and collateral systems, David Mercer argues."
+        },
+        {
           "title": "Morpho's $175M raise shows where crypto VC money is flowing",
           "url": "https://cointelegraph.com/news/morphos-175m-raise-shows-where-the-last-of-the-crypto-vc-money-is-going?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
@@ -302,7 +334,7 @@
           "summary": "A Coinbase-convened panel says Bitcoin should start preparing for quantum attacks now, but declines to take a position on whether millions of vulnerable coins, including many linked to Satoshi Nakamoto, should eventually be frozen."
         },
         {
-          "title": "Anthropic's pre-IPO shares fall as US government shuts down its most powerful AI model",
+          "title": "Anthropic's pre-IPO shares fall as U.S. government shuts down its most powerful AI model",
           "url": "https://www.coindesk.com/markets/2026/06/13/anthropic-s-pre-ipo-shares-fall-as-us-government-shuts-down-its-most-powerful-ai-model",
           "domain": "coindesk.com",
           "date": "2026-06-13T06:02:05.000Z",
@@ -323,39 +355,7 @@
           "domain": "coindesk.com",
           "date": "2026-06-13T05:46:38.000Z",
           "source": "CoinDesk",
-          "summary": "A tiny Strategy sale raised a bigger question about Saylor’s never-sell stance, while easing Iran fears and a strong SpaceX debut helped risk assets recover."
-        },
-        {
-          "title": "SpaceX IPO scramble reveals difference between tokenizing a stock and getting one",
-          "url": "https://www.coindesk.com/tech/2026/06/13/spacex-ipo-scramble-reveals-difference-between-tokenizing-a-stock-and-getting-one",
-          "domain": "coindesk.com",
-          "date": "2026-06-13T05:16:10.000Z",
-          "source": "CoinDesk",
-          "summary": "Crypto platforms promised early access to the blockbuster SpaceX IPO through tokenized shares. The problem wasn't technology, but getting the actual stock."
-        },
-        {
-          "title": "ETH futures flash bearish signal, but stakers’ resilience points to underlying strength",
-          "url": "https://cointelegraph.com/markets/eth-futures-flash-bearish-signal-but-stakers-resilience-points-to-underlying-strength?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-13T03:24:05.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Demand for ETH leverage remains low, but corporate accumulation and stakers’ dedication may prevent an Ether price crash to $1,500."
-        },
-        {
-          "title": "Anthropic suspends access to Fable 5, Mythos 5, citing US directive",
-          "url": "https://cointelegraph.com/news/anthropic-suspends-access-to-fable-mythos-citing-us-directive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-13T02:37:40.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Anthropic has abruptly disabled its flagship AI models after a US government directive citing national security concerns."
-        },
-        {
-          "title": "Major crypto exchanges cancel SpaceX IPO allocations, promising refunds",
-          "url": "https://cointelegraph.com/news/major-crypto-exchanges-cancel-spacex-ipo-allocations-promising-refunds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-13T02:17:55.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Elon Musk’s SpaceX completed its landmark IPO on the Nasdaq on Friday, but crypto users seeking tokenized exposure to the IPO were left empty-handed after allocations fell through."
+          "summary": "A tiny Strategy sale raised a bigger question about Saylor’s never-sell stance, while easing Iran fears, and a strong SpaceX debut helped risk assets recover."
         }
       ]
     }
