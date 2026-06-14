@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-14T12:26:33.598Z",
+  "updatedAt": "2026-06-14T14:55:21.521Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -73,20 +73,20 @@
           "summary": "Bio Protocol Jumps 53.85% in Intraday Trading &nbsp;&nbsp; bloomingbit"
         },
         {
+          "title": "Bio Protocol moves 80M BIO tokens worth $5.15M to exchange, signaling potential market activity. - Pluang",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcmc1NXB4dTh3bEtGSDMtQ3p3UnNod1h3Y0drbk92NFFQRWVkUVViNHp6RklocDJXMmcxLUxjMTl5WEtqYnlONnU0LUtVRkFycUhqeVhaSWVOVUU0TzBGUmVPTjVDRVZxTEhSN2VoTVJVand5SEpiQUNlOEpPWmxXM0dVYmhwRV9wMkk4c0szRE1RaTNSVFo0TVRR?oc=5",
+          "domain": "pluang.com",
+          "date": "2026-05-02T07:00:00.000Z",
+          "source": "Pluang",
+          "summary": "Bio Protocol moves 80M BIO tokens worth $5.15M to exchange, signaling potential market activity. &nbsp;&nbsp; Pluang"
+        },
+        {
           "title": "DeSci project NanoVita announces completion of strategic financing with participation from Paramita and others - Bitget",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJTWpjY29WbnJadTF1MVk3TDhpdnV4RGdsdGRjM1JQNDE1RUQzSGxPSEVBRWMxUmt5dVRHN2tMOERDYWZ6M3p4UlpBV3luM1dJZFdTX2VjbDA1bWM2bmfSAWNBVV95cUxQVlpCZXlUcksxRHkwV0VVcXNLRWdJLUhxNTA4MDZQc3ZPSmRTZ3VVdUtaZTd2a0lqUWdaT2NKb1ZWcFpNSlNXNW42SEhYeDI3R21GRjRJWjdkZl9qUDBwZzdwQ28?oc=5",
           "domain": "bitget.com",
           "date": "2026-04-30T07:00:00.000Z",
           "source": "Bitget",
           "summary": "DeSci project NanoVita announces completion of strategic financing with participation from Paramita and others &nbsp;&nbsp; Bitget"
-        },
-        {
-          "title": "BIO Surges 96%: Is DeSci the Next Big Narrative in Crypto? - KuCoin",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56cHhfTzRCLWNpcG0wTUtXWndReHdGbEhLWG9yRzc2cDhPTlpSMnhfUFJSUk1nQmJ5cHloSzFzVlVQdVNMZTA5dFM4aTNyTzZJY0lJaXRodGx5VEIxVERRMVF4blFSVXpZa0E?oc=5",
-          "domain": "kucoin.com",
-          "date": "2026-04-21T07:00:00.000Z",
-          "source": "KuCoin",
-          "summary": "BIO Surges 96%: Is DeSci the Next Big Narrative in Crypto? &nbsp;&nbsp; KuCoin"
         }
       ]
     },
@@ -278,6 +278,30 @@
       ],
       "articles": [
         {
+          "title": "SEC's big swing to clear tokenization path isn't likely to get resilience of full rule",
+          "url": "https://www.coindesk.com/news-analysis/2026/06/12/sec-s-big-swing-to-clear-tokenization-path-isn-t-likely-to-get-resilience-of-full-rule",
+          "domain": "coindesk.com",
+          "date": "2026-06-14T14:00:00.000Z",
+          "source": "CoinDesk",
+          "summary": "Former SEC lawyers say that using its power to grant tokenization \"innovation\" efforts an exemption from securities law isn't as strong as a full-fledged rule."
+        },
+        {
+          "title": "Ethereum can quantum-proof accounts for just 7 cents, says Ethereum's Kohaku lead",
+          "url": "https://cointelegraph.com/news/ethereum-quantum-proof-accounts-7-cents-researcher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-14T13:49:48.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The SPHINCS- proposal aims to reduce the cost of post-quantum signature verification on Ethereum while the network works toward a longer-term solution."
+        },
+        {
+          "title": "Wall Street and crypto are crashing into each other as tokenized treasury markets hit $14.6 billion",
+          "url": "https://www.coindesk.com/markets/2026/06/11/wall-street-and-crypto-are-crashing-into-each-other-as-tokenized-treasury-markets-hit-usd14-6-billion",
+          "domain": "coindesk.com",
+          "date": "2026-06-14T13:00:00.000Z",
+          "source": "CoinDesk",
+          "summary": "Not all crypto exchange executives agree, but the data does not lie: centralized exchange trading volumes dropped more than 11% to $4.61 trillion, their lowest since late 2024."
+        },
+        {
           "title": "Humanity Protocol’s $36M hack tied to suspected North Korean hackers: Quantstamp",
           "url": "https://cointelegraph.com/news/humanity-protocol-hack-linked-north-korean-actors-quantstamp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
@@ -332,30 +356,6 @@
           "date": "2026-06-13T18:21:35.000Z",
           "source": "The Block",
           "summary": "The report lays out possible solutions to the abandoned coins problem, such as setting a deadline for migration and then freezing vulnerable coins."
-        },
-        {
-          "title": "Crypto’s next billion-dollar hacker may move at superhuman speed",
-          "url": "https://www.coindesk.com/tech/2026/06/13/crypto-s-next-billion-dollar-hacker-may-move-at-superhuman-speed",
-          "domain": "coindesk.com",
-          "date": "2026-06-13T18:00:00.000Z",
-          "source": "CoinDesk",
-          "summary": "Anthropic’s new Claude Fable 5 puts powerful cyber tools behind safety filters. DeFi, already hit by more than $840 million in hacks this year, is one of the industries with the most to lose if the filters fail."
-        },
-        {
-          "title": "Here's what SpaceX's IPO means for its $1.3 billion bitcoin reserve",
-          "url": "https://www.coindesk.com/business/2026/06/13/here-s-what-spacex-s-ipo-means-for-its-usd1-3-billion-bitcoin-reserve",
-          "domain": "coindesk.com",
-          "date": "2026-06-13T17:00:16.000Z",
-          "source": "CoinDesk",
-          "summary": "The largest company on public markets now holds bitcoin as a treasury reserve, not as a business model. Its first earnings cycles will test which version of corporate crypto survives a bear market."
-        },
-        {
-          "title": "Stablecoins Were Meant to Disrupt Finance. Instead, They Became Idle Cash.",
-          "url": "https://www.coindesk.com/opinion/2026/06/13/stablecoins-were-meant-to-disrupt-finance-instead-they-became-idle-cash",
-          "domain": "coindesk.com",
-          "date": "2026-06-13T16:51:00.000Z",
-          "source": "CoinDesk",
-          "summary": "O’Connor argues that crypto’s clearest success story has scaled as money but not as capital."
         }
       ]
     }
