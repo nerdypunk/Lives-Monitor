@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-14T21:16:50.815Z",
+  "updatedAt": "2026-06-14T22:43:16.308Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -49,6 +49,14 @@
           "summary": "Bio Protocol announces the launch of PEPTAI, with a total supply of 20% allocated to BIO stakers &nbsp;&nbsp; Bitget"
         },
         {
+          "title": "BIO doubled in three days, DeSci blossomed: Can AI Agents revive decentralized science? - PANews",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RQzlROGk0MGx6bDRzSUFwbnlHMTlvTk9SSGx3ek9kdUlSR0xMak00SlppRHBnZDFvVW9BNXRWN1ZTVUxoVFp2d3hJMnhIR1dVTXJRZGhNb09kS3BNTDBpVzdTekJXN082NnhLZzBqLWFISW56TmtoeHlsOU42bTg?oc=5",
+          "domain": "panewslab.com",
+          "date": "2026-05-04T07:48:22.000Z",
+          "source": "PANews",
+          "summary": "BIO doubled in three days, DeSci blossomed: Can AI Agents revive decentralized science? &nbsp;&nbsp; PANews"
+        },
+        {
           "title": "DeSci Has Raised Millions For Research No VC Would Ever Touch - Yellow.com",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQzAtQWJmSEtGX1pXdWVOR0RsRnhXWGp4S2VYUEhXREJiM1ljR01reDZfS1hwU0g3eTMzaFdOdnVJb3l2R2lNdmdCVEhuUWExYjB0VTNReUIwUlRxTjhrdmlCV1d5R3VXbGtRWFp3eGQ0VTV0SjhZdGpNOGV2dDNYcnVodm9PWWJHYlE?oc=5",
           "domain": "yellow.com",
@@ -79,14 +87,6 @@
           "date": "2026-04-30T07:00:00.000Z",
           "source": "Bitget",
           "summary": "DeSci project NanoVita announces completion of strategic financing with participation from Paramita and others &nbsp;&nbsp; Bitget"
-        },
-        {
-          "title": "BIO Surges 96%: Is DeSci the Next Big Narrative in Crypto? - KuCoin",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56cHhfTzRCLWNpcG0wTUtXWndReHdGbEhLWG9yRzc2cDhPTlpSMnhfUFJSUk1nQmJ5cHloSzFzVlVQdVNMZTA5dFM4aTNyTzZJY0lJaXRodGx5VEIxVERRMVF4blFSVXpZa0E?oc=5",
-          "domain": "kucoin.com",
-          "date": "2026-04-21T07:00:00.000Z",
-          "source": "KuCoin",
-          "summary": "BIO Surges 96%: Is DeSci the Next Big Narrative in Crypto? &nbsp;&nbsp; KuCoin"
         }
       ]
     },
@@ -103,7 +103,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-11T19:24:26.000Z",
           "source": "Lifespan.io",
-          "summary": "Scientists have “faked” sleep in mice by artificially creating the on/off neuronal firing pattern similar to that seen in non-REM sleep. This produced sleep-like effects, including improved learning memory [1]. Can sleep be emulated? Getting proper amounts and […]"
+          "summary": "Scientists have “faked” sleep in mice by artificially creating the on/off neuronal firing pattern similar to that seen in non-REM sleep. This produced sleep-like effects, including improved learning memory [1]. Can sleep be […]"
         },
         {
           "title": "The Immune System Maintains the Microbiome",
@@ -111,7 +111,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-10T17:17:32.000Z",
           "source": "Lifespan.io",
-          "summary": "In a recent paper, researchers have proposed that the immune system and immune surveillance play a central role in maintaining microbial composition throughout life by suppressing microbial proliferation and that aging weakens these processes [1]. Lifelong […]"
+          "summary": "In a recent paper, researchers have proposed that the immune system and immune surveillance play a central role in maintaining microbial composition throughout life by suppressing microbial proliferation and that […]"
         },
         {
           "title": "How Gut Bacteria Affect Lung Fibrosis",
@@ -119,7 +119,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-09T21:04:41.000Z",
           "source": "Lifespan.io",
-          "summary": "In Aging Cell, researchers have described how a strain of Lactobacillus gut bacteria sends chemical signals that enter the bloodstream and decrease fibrosis in the lungs. The gut-lung axis The gut-brain axis, the […]"
+          "summary": "In Aging Cell, researchers have described how a strain of Lactobacillus gut bacteria sends chemical signals that enter the bloodstream and decrease fibrosis in the lungs. The gut-lung axis The gut-brain axis, the term for how […]"
         },
         {
           "title": "Fighting Parkinson’s by Restoring Protein Degradation",
@@ -127,7 +127,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-08T17:54:43.000Z",
           "source": "Lifespan.io",
-          "summary": "Researchers have explained how a protein found in both yeast and humans facilitates the destruction of the core protein responsible for Parkinson’s disease. An aggregate that […]"
+          "summary": "Researchers have explained how a protein found in both yeast and humans facilitates the destruction of the core protein responsible for Parkinson’s disease. An aggregate that impairs clearance The loss of proteostasis involves the growing inability of cells’ lysosomes […]"
         },
         {
           "title": "Neurons’ Protein Disposal Trick Offers Alzheimer’s Insights",
@@ -135,7 +135,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-05T14:49:43.000Z",
           "source": "Lifespan.io",
-          "summary": "According to a new study, a special protein disposal system, currently found only in neurons, is linked to central hallmarks of Alzheimer’s disease [1]. The […]"
+          "summary": "According to a new study, a special protein disposal system, currently found only in neurons, is linked to central hallmarks of Alzheimer’s disease [1]. The membranal proteasome Alzheimer’s disease is defined in part by two protein aggregates […]"
         },
         {
           "title": "Preventing Load-Induced Arthritis at the Cellular Level",
@@ -143,7 +143,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-04T17:37:51.000Z",
           "source": "Lifespan.io",
-          "summary": "Researchers have discovered that the osteoarthritis-inducing effects of excessive mechanical stress can be mitigated by increasing miR-330, a key regulator in cartilage and bone cells. Backbreaking labor is exactly […]"
+          "summary": "Researchers have discovered that the osteoarthritis-inducing effects of excessive mechanical stress can be mitigated by increasing miR-330, a key regulator in cartilage and bone […]"
         },
         {
           "title": "Forever Healthy Foundation Launches Evipedia.ai",
@@ -151,7 +151,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-03T17:24:06.000Z",
           "source": "Lifespan.io",
-          "summary": "The Forever Healthy Foundation today publicly launched evipedia.ai, an open online encyclopedia of in-depth evidence reviews covering more than 500 health and longevity interventions, including first-generation rejuvenation therapies, supplements, botanicals, lifestyle protocols, and more. Evipedia was […]"
+          "summary": "The Forever Healthy Foundation today publicly launched evipedia.ai, an open online encyclopedia of in-depth evidence reviews covering more than 500 health and longevity […]"
         },
         {
           "title": "The Thalion Initiative: A New Non-Profit With Big Ambitions",
@@ -159,7 +159,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-02T15:23:03.000Z",
           "source": "Lifespan.io",
-          "summary": "The longevity field remains small and starved for resources, especially the subfield devoted to the fundamental biology of aging, despite near-universal agreement that solving aging requires understanding it first. With VCs looking for clinical […]"
+          "summary": "The longevity field remains small and starved for resources, especially the subfield devoted to the fundamental biology of aging, despite near-universal […]"
         },
         {
           "title": "Rejuvenation Roundup May 2026",
@@ -175,7 +175,7 @@
           "domain": "lifespan.io",
           "date": "2026-05-29T16:09:27.000Z",
           "source": "Lifespan.io",
-          "summary": "The report, titled “Pathways to Longevity”, introduces several important longevity concepts to the general reader and is another sign that the field is coming of age […]"
+          "summary": "The report, titled “Pathways to Longevity”, introduces several important longevity concepts to the general reader and is another sign that the field is coming of age and entering the mainstream. People do want to […]"
         }
       ]
     },
@@ -278,6 +278,14 @@
       ],
       "articles": [
         {
+          "title": "Zimbabwe moves to regulate crypto sector, requiring firms to register with central bank: Reuters",
+          "url": "https://www.theblock.co/post/404705/zimbabwe-moves-to-regulate-crypto-sector-requiring-firms-to-register-with-central-bank-reuters?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-14T22:12:29.000Z",
+          "source": "The Block",
+          "summary": "Registration costs an initial $500 with renewal costing $400 a year, and operating without registration is now an offense, according to Reuters."
+        },
+        {
           "title": "Bitcoin mining difficulty drops 10% in second-largest negative adjustment of 2026",
           "url": "https://www.theblock.co/post/404702/bitcoin-mining-difficulty-drops-10-in-second-largest-negative-adjustment-of-2026?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
@@ -348,14 +356,6 @@
           "date": "2026-06-14T13:00:00.000Z",
           "source": "CoinDesk",
           "summary": "Not all crypto exchange executives agree, but the data does not lie: centralized exchange trading volumes dropped more than 11% to $4.61 trillion, their lowest since late 2024."
-        },
-        {
-          "title": "Humanity Protocol’s $36M hack tied to suspected North Korean hackers: Quantstamp",
-          "url": "https://cointelegraph.com/news/humanity-protocol-hack-linked-north-korean-actors-quantstamp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-14T11:07:34.000Z",
-          "source": "CoinTelegraph",
-          "summary": "A fake Bithumb email used in the $36 million Humanity Protocol hack points to the involvement of North Korean threat actors, according to Quantstamp."
         }
       ]
     }
