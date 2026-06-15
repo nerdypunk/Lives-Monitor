@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-15T20:03:18.632Z",
+  "updatedAt": "2026-06-15T22:30:09.659Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -41,6 +41,14 @@
           "summary": "PEPTAI Price Swings Wild As Base Integration Fuels DeSci Hype &nbsp;&nbsp; Coinpedia"
         },
         {
+          "title": "Bio Protocol announces the launch of PEPTAI, with a total supply of 20% allocated to BIO stakers - Bitget",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXeEVmTEhRNnBGbVRKSE5xa2tvRjM1MDFaaWdZbDJrX3BMallBanM4TG4tVmljbDE1U2NVXzQ0RmdjRmM5YmFkbnJNZzU3UGYycVRSTXYyOWpKTEtHMFNRcVhZaEjSAWpBVV95cUxQaWZRc0stMm9PZGxrYXNyek9yVUVuVGlSQU44UUlLVjd2NE9BYm0xYXNoWTlyaEdEbFlFQzlGMnlOcmJ1NjRYdGxtckFpZmktS0NDREZ4RDlMMTFiYzlnUWczVWJqaThKd253?oc=5",
+          "domain": "bitget.com",
+          "date": "2026-05-14T07:00:00.000Z",
+          "source": "Bitget",
+          "summary": "Bio Protocol announces the launch of PEPTAI, with a total supply of 20% allocated to BIO stakers &nbsp;&nbsp; Bitget"
+        },
+        {
           "title": "BIO doubled in three days, DeSci blossomed: Can AI Agents revive decentralized science? - PANews",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RQzlROGk0MGx6bDRzSUFwbnlHMTlvTk9SSGx3ek9kdUlSR0xMak00SlppRHBnZDFvVW9BNXRWN1ZTVUxoVFp2d3hJMnhIR1dVTXJRZGhNb09kS3BNTDBpVzdTekJXN082NnhLZzBqLWFISW56TmtoeHlsOU42bTg?oc=5",
           "domain": "panewslab.com",
@@ -79,14 +87,6 @@
           "date": "2026-04-21T07:00:00.000Z",
           "source": "KuCoin",
           "summary": "BIO Surges 96%: Is DeSci the Next Big Narrative in Crypto? &nbsp;&nbsp; KuCoin"
-        },
-        {
-          "title": "BIO Token Rally Raises Questions About DeSci Valuation Sustainability - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUW9iOHdfc0pfSVU2dFNWRmJOUk9uYUc4c05abWs0UWFMellFNmpTUkVvX0JaRTJweUJQejROMXlnb3ZjUFJVX29lZm82Y1YzVjYxWVNWRGwxZ2VPNjB2N1ByMDVwZ0ZodWpBbjcxd3FSQ3lKeWtBWkM5Q2haRDhYWFVZZ3hqci1iQlF4S21qNHJXM2tLMlBOMlpTTVpDYlRBXzVwaDVzSWhJQ1BpWkp2Sm9CMGk?oc=5",
-          "domain": "investing.com",
-          "date": "2026-04-16T07:00:00.000Z",
-          "source": "Investing.com",
-          "summary": "BIO Token Rally Raises Questions About DeSci Valuation Sustainability &nbsp;&nbsp; Investing.com"
         }
       ]
     },
@@ -103,7 +103,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-15T19:57:28.000Z",
           "source": "Lifespan.io",
-          "summary": "A team of reviewers has taken a look at the relationship between cancer, cellular senescence, and vascular overgrowth and published this information in Aging Cell. Different gut cancers form through different pathways The authors begin their paper by […]"
+          "summary": "A team of reviewers has taken a look at the relationship between cancer, cellular senescence, and vascular overgrowth and published this information in Aging Cell. Different gut cancers form through […]"
         },
         {
           "title": "A new off-ramp from Ozempic and Wegovy?",
@@ -278,12 +278,44 @@
       ],
       "articles": [
         {
+          "title": "Spot HYPE ETFs near $900 million in volume as early demand signals institutional interest",
+          "url": "https://www.theblock.co/post/404802/spot-hype-etfs-near-900-million-volume-early-demand-signals-institutional-interest?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-15T21:26:02.000Z",
+          "source": "The Block",
+          "summary": "Volume across the three products has been uneven, with BHYP and THYP accounting for the bulk of activity while HYPG continues to ramp."
+        },
+        {
+          "title": "SpaceX IPO fuels $1.4 billion trading frenzy on Hyperliquid as SPCX perp becomes HIP-3’s biggest market",
+          "url": "https://www.theblock.co/post/404804/spacex-ipo-1-4-billion-trading-frenzy-hyperliquid-spcx-perp-hip-3s-biggest-market?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-15T20:31:48.000Z",
+          "source": "The Block",
+          "summary": "Stock-linked HIP-3 markets have generated more than $18.8 billion in volume so far this month, eclipsing crude oil and Brent perps combined."
+        },
+        {
+          "title": "Nvidia’s $20 billion debt boom reinforces Bitcoin miners' AI pivot",
+          "url": "https://cointelegraph.com/news/nvidia-20-billion-debt-boom-reinforces-bitocin-minings-ai-pivot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-15T20:15:43.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Nvidia’s planned bond sale reinforces booming AI infrastructure demand, strengthening the case for Bitcoin miners pivoting toward AI data centers."
+        },
+        {
           "title": "Bitcoin Policy UK CEO calls Michael Saylor’s STRC investment promotion ‘dishonest’",
           "url": "https://www.theblock.co/post/404785/bitcoin-policy-uk-ceo-calls-michael-saylors-strc-investment-promotion-dishonest?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
           "date": "2026-06-15T19:51:14.000Z",
           "source": "The Block",
           "summary": "\"Saylor put out a video talking about his yield with STRC...it was making it out that there is no risk involved,\" says Ward."
+        },
+        {
+          "title": "CFTC hires SEC crypto task force adviser with blockchain forensics chops",
+          "url": "https://cointelegraph.com/news/sec-crypto-adviser-cftc-blockchain-forensics?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-15T19:41:24.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The CFTC staff appointment came amid the US Congress seeking to overhaul federal financial regulators’ roles over digital assets with the CLARITY Act."
         },
         {
           "title": "Standard Chartered says Uniswap’s UNI token could surge 40x to $100 by 2030",
@@ -324,38 +356,6 @@
           "date": "2026-06-15T17:59:08.000Z",
           "source": "The Block",
           "summary": "Forward Industries is offering to acquire Solana DAT competitors at a premium as their mNAVs slip along with the declining price of SOL."
-        },
-        {
-          "title": "IREN enters Europe with acquisition of Spanish AI data center developer Nostrum",
-          "url": "https://www.theblock.co/post/404783/iren-enters-europe-acquisition-spanish-ai-data-center-developer-nostrum?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-15T16:46:17.000Z",
-          "source": "The Block",
-          "summary": "IREN now has AI infrastructure projects in the works across multiple continents as it expands beyond bitcoin mining."
-        },
-        {
-          "title": "These Bitcoin charts show how BTC price could hit $100K before October",
-          "url": "https://cointelegraph.com/markets/these-bitcoin-charts-show-how-btc-price-could-hit-100k-before-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-15T16:18:14.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Bitcoin’s double-bottom setup, weekly RSI divergence and whale flows put traders on alert as BTC tests a key breakout zone."
-        },
-        {
-          "title": "Strategy supporters rebut ‘death spiral’ fears as bitcoin price wobbles",
-          "url": "https://www.theblock.co/post/404764/strategy-supporters-rebut-death-spiral-fears-as-bitcoin-price-wobbles?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-15T15:43:51.000Z",
-          "source": "The Block",
-          "summary": "\"The death-spiral story assumes that Strategy is one bad week from selling bitcoins, and it skips several steps to get there,\" said Benchmark."
-        },
-        {
-          "title": "Benchmark says SEC’s NMS proposal is the ‘most consequential’ US crypto rule this year",
-          "url": "https://www.theblock.co/post/404768/benchmark-sec-nms-proposal-most-consequential-us-crypto-rule-this-year?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-15T15:33:59.000Z",
-          "source": "The Block",
-          "summary": "Benchmark said the SEC's proposal last week to rescind Rules 611 and 610(e) is the year's \"most consequential\" U.S. crypto rule."
         }
       ]
     }
