@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-15T10:57:00.292Z",
+  "updatedAt": "2026-06-15T16:20:47.233Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -88,8 +88,7 @@
           "source": "Bitget",
           "summary": "DeSci project NanoVita announces completion of strategic financing with participation from Paramita and others &nbsp;&nbsp; Bitget"
         }
-      ],
-      "warning": "Google News DeSci returned 503"
+      ]
     },
     {
       "name": "Longevity",
@@ -98,6 +97,30 @@
         "https://longevity.technology/feed/"
       ],
       "articles": [
+        {
+          "title": "Harnessing Muse cells in longevity medicine",
+          "url": "https://longevity.technology/news/harnessing-muse-cells-in-longevity-medicine/",
+          "domain": "longevity.technology",
+          "date": "2026-06-15T15:13:08.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Following promising results in disease treatment, do these highly potent stem cells have universal regenerative potential? Following our recent podcast episode exploring the potential of Dezawa MuseCells in regenerative medicine, today we dive deeper into the story, discovering the accidental origins of the technology and exploring its broader potential in longevity and preventive health. Since […] The post Harnessing Muse cells in longevity medicine appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "AI longevity entrepreneur Ronjon Nag awarded OBE",
+          "url": "https://longevity.technology/news/ai-longevity-entrepreneur-ronjon-nag-awarded-obe/",
+          "domain": "longevity.technology",
+          "date": "2026-06-15T14:33:28.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Agemica founder recognized in King Charles III’s Birthday Honours as his AI-driven longevity platform advances toward in vivo testing. Professor Ronjon Nag, founder and CEO of longevity therapeutics company Agemica, has been appointed an Officer of the Order of the British Empire (OBE) in King Charles III’s Birthday Honours, being recognized for services to entrepreneurship […] The post AI longevity entrepreneur Ronjon Nag awarded OBE appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "Can we stop diseases by targeting aging first?",
+          "url": "https://longevity.technology/news/can-we-stop-diseases-by-targeting-aging-first/",
+          "domain": "longevity.technology",
+          "date": "2026-06-15T14:32:31.000Z",
+          "source": "Longevity.Technology",
+          "summary": "New biomarkers, existing drugs and decades of centenarian research are bringing the dream of making aging a modifiable process closer. Picture two people celebrating their 80th birthday. One spends most of their week shuttling between medical appointments, managing diabetes, heart disease and declining mobility. The other is planning a trip, meeting friends for dinner and […] The post Can we stop diseases by targeting aging first? appeared first on Longevity.Technology ."
+        },
         {
           "title": "Voyager Therapeutics to webcast presentation on neurological disease pipeline",
           "url": "https://longevity.technology/news/voyager-therapeutics-to-webcast-presentation-on-neurological-disease-pipeline/",
@@ -153,30 +176,6 @@
           "date": "2026-06-15T06:31:11.000Z",
           "source": "Longevity.Technology",
           "summary": "Heartseed, a Tokyo-based biotechnology company, dosed the first patient in its domestic Phase I/II EMERALD study of HS-005, an allogeneic iPSC-derived cardiomyocyte spheroid therapy delivered via endocardial catheter targeting severe heart failure caused by ischemic heart disease or dilated cardiomyopathy. The study marks the world’s first clinical trial to administer iPSC-derived cardiomyocyte spheroids by catheter. […] The post Heartseed tests world’s first catheter-delivered stem cell therapy for heart failure appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "AbbVie leukemia treatment shows strong 9-year survival, remission benefits",
-          "url": "https://longevity.technology/news/abbvie-leukemia-treatment-shows-strong-9-year-survival-remission-benefits/",
-          "domain": "longevity.technology",
-          "date": "2026-06-15T06:31:10.000Z",
-          "source": "Longevity.Technology",
-          "summary": "AbbVie presented final Phase 3 CLL14 results for a fixed-duration venetoclax plus obinutuzumab regimen at the EHA 2026 Congress in Stockholm on 11-14 June. The randomized, open-label trial enrolled 432 previously untreated patients with coexisting conditions (n=216 per arm) and compared venetoclax plus obinutuzumab to obinutuzumab plus chlorambucil. After a median follow-up of 9.2 years, […] The post AbbVie leukemia treatment shows strong 9-year survival, remission benefits appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Lilly places $1b bet on AlzeCure’s Alzheimer’s project",
-          "url": "https://longevity.technology/news/lilly-places-1b-bet-on-alzecures-alzheimers-project/",
-          "domain": "longevity.technology",
-          "date": "2026-06-12T16:43:32.000Z",
-          "source": "Longevity.Technology",
-          "summary": "A small Swedish biotech lands a potentially billion-dollar deal as the race shifts from treating Alzheimer’s to preventing it. Promising Alzheimer’s therapies have stumbled in clinical trials, billions of dollars have been spent chasing elusive biological targets and, despite recent progress, researchers are still wrestling with difficult realities. By the time symptoms appear, Alzheimer’s disease […] The post Lilly places $1b bet on AlzeCure’s Alzheimer’s project appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Exclusive deal expands neurodegenerative diagnostics",
-          "url": "https://longevity.technology/news/exclusive-deal-expands-neurodegenerative-diagnostics/",
-          "domain": "longevity.technology",
-          "date": "2026-06-12T16:40:16.000Z",
-          "source": "Longevity.Technology",
-          "summary": "NanoDetection secures global rights to antibody technology that may help distinguish Alzheimer’s from other brain diseases. A new licensing deal aims to bring greater precision to one of medicine’s biggest challenges: understanding what is happening inside the aging brain. Life science and diagnostics company NanoDetection Technology and New York-based biotech Oligomerix have announced an exclusive […] The post Exclusive deal expands neurodegenerative diagnostics appeared first on Longevity.Technology ."
         }
       ]
     },
@@ -188,6 +187,22 @@
         "https://phys.org/rss-feed/biology-news/biotechnology/"
       ],
       "articles": [
+        {
+          "title": "Pixels preserve world's rarest porpoise to 3D digital archive as extinction risk grows",
+          "url": "https://phys.org/news/2026-06-pixels-world-rarest-porpoise-3d.html",
+          "domain": "phys.org",
+          "date": "2026-06-15T16:00:01.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "The vaquita (Phocoena sinus), an elusive porpoise found only in the shallow waters of Mexico's northern Gulf of California, is one of the rarest and most endangered marine mammals on Earth. Measuring about 5 feet (1.5 meters) in length, it is the world's smallest cetacean—a group that includes whales, dolphins and porpoises. Known for the distinctive dark rings around its eyes and mouth, the vaquita remained unknown to science until the latter half of the 20th century. Today, it has become a global symbol of the growing biodiversity crisis unfolding in the world's oceans."
+        },
+        {
+          "title": "Using AI to learn a bird's individual song",
+          "url": "https://phys.org/news/2026-06-ai-bird-individual-song.html",
+          "domain": "phys.org",
+          "date": "2026-06-15T14:20:08.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Darin McNeil, Ph.D., an assistant professor of wildlife management in the University of Kentucky Martin-Gatton College of Agriculture, Food and Environment, is partnering with the University of Pittsburgh and others to help build an artificial intelligence tool that could give bird researchers a new way to follow one of Appalachia's most vulnerable songbirds."
+        },
         {
           "title": "CisTransCell: Single-Cell Perturbation Prediction via Gene Function, Regulatory Control, and Cellular Context",
           "url": "https://arxiv.org/abs/2606.13713",
@@ -251,22 +266,6 @@
           "date": "2026-06-15T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2606.13801v1 Announce Type: cross Abstract: Neural responses in cortex exhibit substantial trial-to-trial variability in response to repeated stimuli, while peripheral sensory neurons respond far more consistently, leading many to wonder whether stochasticity may carry meaning. Existing work has argued that noise and signal correlations may be optimized for discrimination in animals, whereas artificial neural network (ANN) studies have shown similar benefits of noise in machine learning tasks, although most ANN work has neglected the effects of correlations. Here we investigate whether correlated noise improves the robustness of artificial neural networks to adversarial attacks and naturalistic image modifications. Using the covariance of activations under modified versus clean inputs, we find that structured noise may significantly improve network robustness. Robustness to naturalistic image modifications benefits most from structure, but this structure transfers poorly across modification types. In contrast, noise structure from adversarial attacks can generalize to other kinds of attacks. These results suggest that structured noise in ANN activations generally improves robustness, establishing a biologically plausible strategy for creating robust artificial neural networks that only relies on local information."
-        },
-        {
-          "title": "Temperature transferable Machine Learned Coarse Grained model for proteins",
-          "url": "https://arxiv.org/abs/2606.14111",
-          "domain": "arxiv.org",
-          "date": "2026-06-15T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2606.14111v1 Announce Type: cross Abstract: Coarse-grained (CG) molecular simulations offer an efficient alternative to atomistic molecular dynamics to study large and complex biological systems. The accuracy of CG simulations has been increased dramatically by the introduction of machine-learned coarse-grained (MLCG) models. However, these models are typically designed to be used at a single thermodynamic point, lack temperature transferability, and can not be used to predict temperature dependent quantities like the heat capacity. Here we introduce a thermodynamically informed, temperature-transferable MLCG framework for proteins that explicitly decomposes the CG potential of mean force (PMF) into its energetic and entropic components. The model architecture enforces an exact thermodynamic relation between the energetic and entropic components of the PMF and guarantees physically consistent extrapolation and interpolation across temperature regimes. We validate this framework on an extensive dataset spanning a total of 250 $\\mu$s of molecular dynamics simulations across five temperatures between 300 K and 400 K for the Chignolin protein, and demonstrate that it reproduces the temperature dependency of the reference atomistic free energy surfaces, correcting the temperature-unaware baselines. Furthermore, we show that it is possible to apply an inexpensive, post-hoc temperature-dependent correction that does not require retraining the MLCG potential, accurately recovering the atomistic heat capacity at different temperatures. Overall, this work provides a physically grounded pathway toward thermodynamically transferable MLCG simulations of complex biomolecular systems."
-        },
-        {
-          "title": "Curvature-Guided Geometric Representation for Protein-Ligand Binding Affinity Prediction",
-          "url": "https://arxiv.org/abs/2606.14159",
-          "domain": "arxiv.org",
-          "date": "2026-06-15T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2606.14159v1 Announce Type: cross Abstract: Protein-ligand binding affinity (PLA) prediction is critical in drug discovery. Despite the notable advancements in machine learning-based approaches, existing methods struggle to jointly characterize local geometric organization and globally coordinated cross-molecular interactions, limiting their ability to model complex binding mechanisms. Here, we propose RicciBind, a geometric representation framework that integrates curvature-guided hierarchical structure learning with optimal transport (OT)-based cross-domain alignment to model molecular interactions. Specifically, RicciBind leverages Ricci curvature to capture local interaction tightness within molecular structures, enhancing structural awareness and organizing atomic interactions into curvature-aware hierarchical representations. An OT-based cluster matching mechanism then aligns protein and ligand clusters across heterogeneous domains under geometric constraints, enabling globally consistent correspondences and revealing higher-order interaction patterns beyond local neighborhoods. By coupling curvature-guided structure encoding with OT-driven cross-domain alignment, RicciBind effectively models complex interaction semantics and substantially improves both the accuracy and interpretability of binding affinity prediction. Extensive experiments demonstrate that RicciBind achieved superior predictive performance and generalization across PLA benchmarks and virtual screening tasks. Ablation studies further confirmed the essential role of Ricci curvature in enhancing molecular interaction representations."
         }
       ]
     },
@@ -279,84 +278,84 @@
       ],
       "articles": [
         {
-          "title": "Middle East ceasfire, Fed interest-rate decision: Crypto Week Ahead",
-          "url": "https://www.coindesk.com/markets/2026/06/15/middle-east-ceasfire-fed-interest-rate-decision-crypto-week-ahead",
-          "domain": "coindesk.com",
-          "date": "2026-06-15T10:14:49.000Z",
-          "source": "CoinDesk",
-          "summary": "Your look at what's coming in the week starting June 15."
-        },
-        {
-          "title": "Bernstein says Robinhood could see ‘strong tailwinds’ as World Cup drives record prediction market volumes",
-          "url": "https://www.theblock.co/post/404731/bernstein-robinhood-strong-tailwinds-world-cup-record-prediction-market-volumes?utm_source=rss&utm_medium=rss",
+          "title": "Strategy supporters rebut ‘death spiral’ fears as bitcoin price wobbles",
+          "url": "https://www.theblock.co/post/404764/strategy-supporters-rebut-death-spiral-fears-as-bitcoin-price-wobbles?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-06-15T10:02:47.000Z",
+          "date": "2026-06-15T15:43:51.000Z",
           "source": "The Block",
-          "summary": "Bernstein projects Robinhood’s prediction market revenue to increase from $150 million in 2025 to $586 million in 2026."
+          "summary": "\"The death-spiral story assumes that Strategy is one bad week from selling bitcoins, and it skips several steps to get there,\" said Benchmark."
         },
         {
-          "title": "Trump-linked stablecoin used for bonus payouts at White House UFC contest",
-          "url": "https://www.coindesk.com/markets/2026/06/15/trump-linked-stablecoin-used-for-bonus-payouts-at-white-house-ufc-contest",
-          "domain": "coindesk.com",
-          "date": "2026-06-15T08:09:53.000Z",
-          "source": "CoinDesk",
-          "summary": "UFC Freedom 250 paid fighter bonuses in USD1, the stablecoin issued by the Trump-linked crypto venture World Liberty Financial, at a contest held at the White House."
-        },
-        {
-          "title": "Ark Invest bought more than $500 million worth of SpaceX shares on IPO day",
-          "url": "https://www.coindesk.com/markets/2026/06/15/ark-invest-bought-more-than-usd500-million-worth-of-spacex-shares-on-ipo-day",
-          "domain": "coindesk.com",
-          "date": "2026-06-15T07:52:41.000Z",
-          "source": "CoinDesk",
-          "summary": "The purchases were likely funded by selling other positions, data shows. ARK is also one of the loudest bitcoin bulls, with a million-dollar target for 2030."
-        },
-        {
-          "title": "Bitcoin nears $66K as Trump says US has peace deal with Iran",
-          "url": "https://cointelegraph.com/news/bitcoin-closes-in-on-66k-as-trump-signals-deal-with-iran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-15T06:47:49.000Z",
-          "source": "CoinTelegraph",
-          "summary": "US President Donald Trump says the US and Iran have a deal for a “toll-free opening of the Strait of Hormuz,” sending Bitcoin to a two-week high."
-        },
-        {
-          "title": "Bitcoin traders have a reason to watch Tuesday's BOJ rate decision. Yen shorts are at a nine-year high",
-          "url": "https://www.coindesk.com/markets/2026/06/15/bitcoin-traders-have-a-reason-to-watch-tuesday-s-boj-rate-decision-yen-shorts-are-at-a-nine-year-high",
-          "domain": "coindesk.com",
-          "date": "2026-06-15T06:41:36.000Z",
-          "source": "CoinDesk",
-          "summary": "A large build-up of speculative short positions in the yen raises the risk of a sharp short squeeze if the BOJ signals more aggressive tightening, potentially unwinding yen-funded carry trades that support risk assets."
-        },
-        {
-          "title": "Bitcoin tops $65,000 as reports of US-Iran peace deal ease geopolitical fears",
-          "url": "https://www.theblock.co/post/404723/bitcoin-tops-65000-us-iran-peace-deal?utm_source=rss&utm_medium=rss",
+          "title": "Benchmark says SEC’s NMS proposal is the ‘most consequential’ US crypto rule this year",
+          "url": "https://www.theblock.co/post/404768/benchmark-sec-nms-proposal-most-consequential-us-crypto-rule-this-year?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-06-15T05:55:11.000Z",
+          "date": "2026-06-15T15:33:59.000Z",
           "source": "The Block",
-          "summary": "The rally reflected improving risk sentiment following reports that the U.S. and Iran have reached a peace agreement, analysts said."
+          "summary": "Benchmark said the SEC's proposal last week to rescind Rules 611 and 610(e) is the year's \"most consequential\" U.S. crypto rule."
         },
         {
-          "title": "CFTC sues New Mexico over prediction market jurisdiction",
-          "url": "https://cointelegraph.com/news/cftc-sues-new-mexico-over-prediction-market-jurisdiction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "‘Let’s just put it in an ETF’ is the worst outcome for bitcoin, says Trezor exec",
+          "url": "https://www.theblock.co/post/404752/lets-put-it-in-etf-worst-outcome-bitcoin-says-trezor-exec?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-15T15:22:37.000Z",
+          "source": "The Block",
+          "summary": "Trezor Chief Commercial Officer Danny Sanders said simplifying self-custody remains one of bitcoin's biggest onboarding challenges."
+        },
+        {
+          "title": "Bitcoin analysis warns over BTC price rejection as $67K approaches",
+          "url": "https://cointelegraph.com/markets/bitcoin-analysis-warn-over-btc-price-rejection-as-67k-approaches?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-06-15T05:54:06.000Z",
+          "date": "2026-06-15T15:22:18.000Z",
           "source": "CoinTelegraph",
-          "summary": "New Mexico is the eighth state sued by the CFTC over prediction markets, as Gary Gensler doubted the regulators' claim of authority over sports event contracts."
+          "summary": "Bitcoin snatched upside liquidity as the US trading session began, but traders warned over a failure to preserve BTC price gains."
         },
         {
-          "title": "Aztec Connect’s abandoned smart contract exploited for $2.1M",
-          "url": "https://cointelegraph.com/news/aztec-connects-depreciated-smart-contract-exploited-for-2-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "Pudgy Penguins winds down Pudgy Party mobile game",
+          "url": "https://cointelegraph.com/news/pudgy-penguins-winds-down-pudgy-party-mobile-game?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-06-15T05:43:47.000Z",
+          "date": "2026-06-15T15:05:14.000Z",
           "source": "CoinTelegraph",
-          "summary": "The Aztec Connect platform was deprecated in March 2023, but the immutable smart contract still held over $2 million in crypto assets."
+          "summary": "Pudgy Penguins will halt development of Pudgy Party and focus on Pudgy World, as another Web3 gaming project shuts down after failing to find a sustainable business model."
         },
         {
-          "title": "Live markets: Bitcoin not fully out of danger as Trump warns of further Iran strikes",
-          "url": "https://www.coindesk.com/tech/2026/06/15/live-markets-bitcoin-not-fully-out-of-danger-as-trump-warns-of-further-iran-strikes",
+          "title": "If America wants to lead in crypto, it must protect the people who build it",
+          "url": "https://www.coindesk.com/opinion/2026/06/15/if-america-wants-to-lead-in-crypto-it-must-protect-the-people-who-build-it",
           "domain": "coindesk.com",
-          "date": "2026-06-15T05:19:14.000Z",
+          "date": "2026-06-15T14:25:00.000Z",
           "source": "CoinDesk",
-          "summary": "A ceasefire in April collapsed, and U.S. strikes broke a second truce on June 9 with bitcoin giving back the entire move both times."
+          "summary": "Despite the Clarity Act’s advancement toward the finish line, there’s one provision under threat for builders that can’t be overlooked, argues Smith."
+        },
+        {
+          "title": "‘Crypto spring’ is here, says one analyst after bitcoin's key signals turn bullish",
+          "url": "https://www.coindesk.com/markets/2026/06/15/crypto-spring-is-here-says-one-analyst-after-bitcoin-s-key-signals-turn-bullish",
+          "domain": "coindesk.com",
+          "date": "2026-06-15T14:16:45.000Z",
+          "source": "CoinDesk",
+          "summary": "Standard Chartered analyst Geoffrey Kendrick's bullish call comes as spot bitcoin exchange-traded fund inflows return, oil prices fall and Coinbase's CEO says bitcoin likely bottomed near $60,000."
+        },
+        {
+          "title": "Kraken debuts U.S. perpetual futures as crypto derivatives move onshore",
+          "url": "https://www.coindesk.com/markets/2026/06/15/kraken-debuts-u-s-perpetual-futures-as-crypto-derivatives-move-onshore",
+          "domain": "coindesk.com",
+          "date": "2026-06-15T14:07:22.000Z",
+          "source": "CoinDesk",
+          "summary": "Perpetual futures generated more than $60 trillion in volume last year, according to the crypto exchange, largely outside the U.S."
+        },
+        {
+          "title": "Saylor’s Strategy buys 1,587 BTC for $100M, holdings hit 846.8K",
+          "url": "https://cointelegraph.com/news/strategy-michael-saylor-1587-btc-buy-100-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-15T13:52:12.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Strategy acquired 1,587 Bitcoin for $100 million last week, lifting holdings to 846,842 BTC after raising $209 million through MSTR stock sales."
+        },
+        {
+          "title": "Kraken launches crypto perps trading in the US on Kraken Pro",
+          "url": "https://www.theblock.co/post/404751/kraken-launches-crypto-perps-trading-in-us-on-kraken-pro?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-15T13:50:47.000Z",
+          "source": "The Block",
+          "summary": "Kraken completed its acquisition of the fully CFTC-licensed exchange, clearinghouse, and brokerage Bitnomial in May."
         }
       ]
     }
