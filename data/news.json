@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-14T23:54:35.241Z",
+  "updatedAt": "2026-06-15T04:50:56.434Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -188,84 +188,84 @@
       ],
       "articles": [
         {
-          "title": "Could leaves help feed humanity after disaster?",
-          "url": "https://phys.org/news/2026-06-humanity-disaster.html",
-          "domain": "phys.org",
-          "date": "2026-06-13T21:00:04.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "UC researchers are investigating whether leaf protein and sugar extracted from plant fiber could help sustain people if major global shocks disrupt food production. Te Whare Wānanga o Waitaha | University of Canterbury (UC) Associate Professor David Denkenberger, who has spent more than a decade studying food resilience in extreme scenarios, says the work is part of a broader effort to identify practical ways to prevent mass starvation if global food systems are severely disrupted."
+          "title": "CisTransCell: Single-Cell Perturbation Prediction via Gene Function, Regulatory Control, and Cellular Context",
+          "url": "https://arxiv.org/abs/2606.13713",
+          "domain": "arxiv.org",
+          "date": "2026-06-15T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2606.13713v1 Announce Type: new Abstract: Predicting cellular transcriptional responses to genetic perturbations is a central problem in single-cell biology, especially in the zero-shot setting where the perturbed gene or gene combination is unseen during training. A major difficulty is that perturbation effects are not determined by expression state alone: they depend on how the perturbed gene product influences other genes and proteins, how those downstream factors act on cis-regulatory elements, and which regulatory programs are active in the current cell state. To better capture this biological complexity, we propose CisTransCell, a cell-conditioned multi-modal framework for single-cell perturbation prediction that augments each gene with two complementary priors: a regulatory-sequence prior that captures how the gene is controlled, and a coding-sequence prior that captures what the gene product does. By integrating these priors with cellular expression state, CisTransCell models perturbation response as a cascade from gene function to regulatory control to downstream transcriptional change. Experiments on benchmark single-cell perturbation datasets show that CisTransCell achieves strong performance in zero-shot perturbation prediction."
         },
         {
-          "title": "New atlas reveals more about how the body's 'master gland' really works",
-          "url": "https://phys.org/news/2026-06-atlas-reveals-body-master-gland.html",
-          "domain": "phys.org",
-          "date": "2026-06-13T18:00:03.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "A new study has created a detailed map of the pituitary gland, often called the body's \"master gland\" because it controls important functions such as growth, stress and reproduction. Researchers from the Center for Craniofacial & Regenerative Biology combined data from many studies to build a single, clearer picture of how this gland works. They created the Consensus Pituitary Atlas, along with an easy-to-use website where scientists can explore the data and analyze their own."
+          "title": "From simple interactions to complex biology: a hypergraph percolation perspective",
+          "url": "https://arxiv.org/abs/2606.13738",
+          "domain": "arxiv.org",
+          "date": "2026-06-15T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2606.13738v1 Announce Type: new Abstract: The emergence of biological complexity can be viewed as a transition from fragmented local interactions to extensive integrated organization, raising the question of how large-scale connectivity emerges from simple interacting elements. We investigated whether this transition can be understood as a consequence of hypergraph percolation driven by higher-order interactions. We performed computational simulations where elementary units constituted nodes and collective interactions formed hyperedges of variable size. Increasing hyperedge density enabled the characterization of connected-component growth, fragmentation, interaction overlap, participation and structural redundancy. Critical transition regions were identified as sparse local assemblies rapidly reorganized into extensive connected structures. These transitions were characterized by abrupt expansion of the largest connected component, progressive consolidation of previously disconnected clusters and increasing overlap among higher-order interactions. Connectivity growth was accompanied by the accumulation of alternative pathways and nested interaction patterns, pointing towards large-scale reorganization over a narrow range of interaction densities. Our findings suggest that, alongside the progressive evolution of molecular complexity, the origin of life and the emergence of biological organization may have involved rapid organizational transitions driven by higher-order connectivity and interaction architecture."
         },
         {
-          "title": "Engineering enzymes with potential against ALS and Parkinson's disease",
-          "url": "https://phys.org/news/2026-06-enzymes-potential-als-parkinson-disease.html",
-          "domain": "phys.org",
-          "date": "2026-06-13T12:00:08.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "In an advance that could one day lead to new treatments for neurodegenerative diseases, Meredith Jackrel, an associate professor of chemistry in Arts & Sciences at Washington University in St. Louis, and her team have developed a method to rapidly produce and screen a class of disaggregase enzymes that can break down the misfolded proteins associated with ALS and Parkinson's disease."
+          "title": "Mean First Passage Time for Persistent Random Walks in Annular Search Domains",
+          "url": "https://arxiv.org/abs/2606.13890",
+          "domain": "arxiv.org",
+          "date": "2026-06-15T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2606.13890v1 Announce Type: new Abstract: We study the mean first-passage time of a random walker to a small absorbing target at the center of a two-dimensional annulus with a specularly reflecting outer boundary. The problem is motivated by natural killer cell migration toward a target cancer cell, where the goal is to quantify how long it takes immune cells to reach the target and how search efficiency depends on directional persistence and chemotactic bias. Cell motion is modeled as a velocity-jump process. We first consider a correlated random walk with a von Mises turning kernel, with a concentration parameter controlling directional persistence. We then extend the model to a biased correlated random walk using a phase-shifted turning kernel that represents preferential motion, for example following a concentration gradient. Our analysis combines closed-form benchmarks for simple and biased random walks, Fourier-mode reductions of the transport equations for the correlated and biased correlated models, and a fast-turning perturbation expansion that gives an analytical correction to the diffusion-limit mean first-passage time for the random walker. Our analytical results are supported by numerical methods that include a semi-Lagrangian solver in radial and angular coordinates, a stationary discretisation designed to handle biased transport, and an event-driven Monte Carlo simulator for cross-validation. Together, our results provide a framework relating persistent and biased immune-cell motion to target-search times in confined two-dimensional domains."
         },
         {
-          "title": "Lab-grown canine muscle cells offer solution for early therapeutic testing",
-          "url": "https://phys.org/news/2026-06-lab-grown-canine-muscle-cells.html",
-          "domain": "phys.org",
-          "date": "2026-06-13T02:40:01.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Before testing new therapies in animals, researchers now have a more efficient starting point—lab-grown canine muscle cells that can help identify what works and what doesn't."
+          "title": "An analytical framework to unify ecological and engineering resilience near critical transitions",
+          "url": "https://arxiv.org/abs/2606.13921",
+          "domain": "arxiv.org",
+          "date": "2026-06-15T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2606.13921v1 Announce Type: new Abstract: The capacity of dynamical systems to resist and recover from perturbations, broadly referred to as resilience, is commonly expressed by two complementary quantities: ecological and engineering resilience. As many complex systems exhibit critical transitions, or tipping points, understanding how these resiliences jointly change nearby them is central to characterising and anticipating such shifts. Here, we develop a theoretical framework that clarifies this for bifurcation-induced tipping, i.e., critical transitions triggered by the crossing of a local bifurcation. Using normal form theory, we derive explicit scaling laws for commonly used resilience metrics as functions of the distance to the bifurcation point in parameter space, and show that these extend to general models up to a scaling factor. They are particularly relevant for detecting tipping, where the relative behaviour of metrics matters more than their absolute values. The rates at which metrics decrease as the bifurcation is approached depend on both the type of bifurcation and the metric considered. Furthermore, our results show that, sufficiently close to a local bifurcation, resiliences are intrinsically linked. Our predictions, which replace previously proposed scalings based on heuristic arguments, are validated for three representative models covering all commonly encountered local bifurcations in one-dimensional systems."
         },
         {
-          "title": "Molecular anchors on gut phages could open new therapeutic avenues",
-          "url": "https://phys.org/news/2026-06-molecular-anchors-gut-phages-therapeutic.html",
-          "domain": "phys.org",
-          "date": "2026-06-12T17:40:01.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Bacteriophages, or phages, are viruses that infect bacteria and are not considered human pathogens. Yet researchers at the Translational Microbiology Laboratory of the Institute of Biochemistry, HUN-REN Biological Research Centre, Szeged, have shown that some gut phages can also physically interact with human cells. Their study identifies phage surface proteins that act as molecular anchors, promoting attachment to human cells, cellular uptake, and prolonged retention in the gastrointestinal tract. The findings, published in the journal Nature Communications, open new perspectives on how phages behave in the body and may create new opportunities for therapeutic development."
+          "title": "Decoding Semantic Categories from Picture-Naming EEG",
+          "url": "https://arxiv.org/abs/2606.14614",
+          "domain": "arxiv.org",
+          "date": "2026-06-15T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2606.14614v1 Announce Type: new Abstract: Picture naming requires the transformation of visual object information into a spoken lexical response through perceptual, semantic, lexical, and articulatory processes. This study asked whether semantic-category information is recoverable from high-density EEG during overt picture naming. Sixteen native French-speaking participants performed a picture-naming task using line drawings. Picture labels were embedded with a multilingual text-embedding model and organized into nine interpretable semantic categories, providing a data-driven semantic target space for neural decoding. EEG activity was represented channel-wise using a pre-trained single-channel EEG encoder over an early post-stimulus window, a later naming-related window, and their combination. Nine-class decoding showed above-chance semantic-category discrimination in all temporal representations. Balanced accuracy increased from 0.562 in the early window to 0.610 in the naming-related window, and reached 0.781 when both windows were combined, with a maximum Macro-F1 of 0.784. Class-level F1 scores showed consistent gains across semantic categories, and sensor-level decoding maps indicated spatially distributed category information. These findings suggest that semantic-category structure is reflected in EEG activity during overt picture naming and that early and naming-related temporal windows provide complementary information. The results support the use of modern neural decoding methods as tools for investigating lexical-semantic processing in spoken language production."
         },
         {
-          "title": "Engineered bacterium turns potato starch into biodegradable plastic in 24 hours",
-          "url": "https://phys.org/news/2026-06-bacterium-potato-starch-biodegradable-plastic.html",
-          "domain": "phys.org",
-          "date": "2026-06-12T16:20:09.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Every year, hundreds of millions of tons of petrochemical-based plastics are produced, much of which ends up in the environment or is incinerated. This exacerbates greenhouse gas emissions and the environmental crisis caused by plastic pollution. Now, a study led by the University of Barcelona has produced a biodegradable bioplastic of high industrial value—polyhydroxybutyrate, or PHB—from unprocessed potato starch in a single 24-hour step, a strategic breakthrough that could help reduce dependence on oil and the volume of persistent plastic waste."
+          "title": "Prospective Coding and Path Integration Emerge as Equilibrium Solutions of Self-Organizing Neural Networks with Firing-Rate Adaptation",
+          "url": "https://arxiv.org/abs/2606.14649",
+          "domain": "arxiv.org",
+          "date": "2026-06-15T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2606.14649v1 Announce Type: new Abstract: Continuous Attractor Neural Networks (CANNs) traditionally rely on pre-wired recurrent connectivity to model spatial representations, path integration, and anticipatory dynamics. However, the biological mechanisms through which this structured connectivity emerges via learning remain relatively unexplored. This work presents a theoretical framework revealing how continuous attractor connectivity and its computational properties self-organize through Hebbian plasticity, firing-rate adaptation, and global inhibition. We show that translationally invariant inputs naturally drive the emergence of stable, Gaussian-profiled feedforward weights. Crucially, anticipatory dynamics arise spontaneously within these feedforward architectures, shifting the activity bump forward without requiring recurrent excitatory collaterals. This predictive shift can be linearly amplified across multilayer networks, consistent with anticipatory activity observed in the superficial layers of the entorhinal cortex. Furthermore, introducing recurrent interactions allows the network to learn connections capable of self-sustaining a moving bump of activity. Finally, by modulating the network with an external, time-varying baseline current that encodes speed, the system adjusts its intrinsic velocity to function as a precise unidirectional path integrator. Ultimately, this study suggests that prospective coding and path integration are not manually engineered features, but rather naturally co-emergent properties of a single self-organizing competitive network."
         },
         {
-          "title": "AI fast-forwards molecular simulations by 10,000-fold",
-          "url": "https://phys.org/news/2026-06-ai-fast-forwards-molecular-simulations.html",
-          "domain": "phys.org",
-          "date": "2026-06-11T22:20:01.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "A new AI model has become so good at predicting how molecules evolve over time that, in the future, it could speed up the costly and time-consuming process of testing new drugs. In the long term, this technology could facilitate the development of medicines and new treatments, as promising drug candidates can be identified more quickly and with greater accuracy."
+          "title": "Implications of hierarchical Markov models of behavior: on irreversibility, predictability, and dimensionality",
+          "url": "https://arxiv.org/abs/2606.14692",
+          "domain": "arxiv.org",
+          "date": "2026-06-15T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2606.14692v1 Announce Type: new Abstract: The maturation of quantitative tools for studying the high-level structure of animal behavior, and especially tools which represent spontaneous behavior as a sequence of stereotyped and neurally well-defined 'syllables', demands that the field revisit a fundamental theoretical question: if the coarse structure of behavior can be accurately described by Markov models, what do these models really tell us about behavior? In this work, we explore the theoretical implications of these models and discuss how they allow us to quantitatively formulate questions about the sequence-like nature and effective dimensionality of behavior. One important insight is that the eigenvalues and eigenvectors of various model-associated matrices furnish interpretable time scales and modifications of behavior that occur on those time scales. We illustrate our points using both toy examples and Markov models fit to real data. By analyzing the consequences of Markov representations, we clarify the theoretical meaning of progress in quantifying behavior."
         },
         {
-          "title": "Ocean glow meets 3D printing with living gels that sense mechanical force",
-          "url": "https://phys.org/news/2026-06-ocean-3d-gels-mechanical.html",
-          "domain": "phys.org",
-          "date": "2026-06-11T16:40:04.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "The integration of biological organisms into synthetic structures offers a radical new pathway for developing intelligent, self-powered materials. Researchers have pioneered an innovative approach to biomanufacturing by using light-based 3D printing to engineer living material systems capable of localized environmental processing."
+          "title": "Neural Variability Enhances Artificial Network Robustness",
+          "url": "https://arxiv.org/abs/2606.13801",
+          "domain": "arxiv.org",
+          "date": "2026-06-15T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2606.13801v1 Announce Type: cross Abstract: Neural responses in cortex exhibit substantial trial-to-trial variability in response to repeated stimuli, while peripheral sensory neurons respond far more consistently, leading many to wonder whether stochasticity may carry meaning. Existing work has argued that noise and signal correlations may be optimized for discrimination in animals, whereas artificial neural network (ANN) studies have shown similar benefits of noise in machine learning tasks, although most ANN work has neglected the effects of correlations. Here we investigate whether correlated noise improves the robustness of artificial neural networks to adversarial attacks and naturalistic image modifications. Using the covariance of activations under modified versus clean inputs, we find that structured noise may significantly improve network robustness. Robustness to naturalistic image modifications benefits most from structure, but this structure transfers poorly across modification types. In contrast, noise structure from adversarial attacks can generalize to other kinds of attacks. These results suggest that structured noise in ANN activations generally improves robustness, establishing a biologically plausible strategy for creating robust artificial neural networks that only relies on local information."
         },
         {
-          "title": "Researchers develop a new anti-jellyfish floating buoy",
-          "url": "https://phys.org/news/2026-06-anti-jellyfish-buoy.html",
-          "domain": "phys.org",
-          "date": "2026-06-11T02:20:02.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Researchers from the Universitat Politècnica de València (UPV) and the University of Alicante have developed a new anti-jellyfish floating buoy that helps prevent these creatures from reaching the coast, thereby reducing the risk of stings among bathers."
+          "title": "Temperature transferable Machine Learned Coarse Grained model for proteins",
+          "url": "https://arxiv.org/abs/2606.14111",
+          "domain": "arxiv.org",
+          "date": "2026-06-15T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2606.14111v1 Announce Type: cross Abstract: Coarse-grained (CG) molecular simulations offer an efficient alternative to atomistic molecular dynamics to study large and complex biological systems. The accuracy of CG simulations has been increased dramatically by the introduction of machine-learned coarse-grained (MLCG) models. However, these models are typically designed to be used at a single thermodynamic point, lack temperature transferability, and can not be used to predict temperature dependent quantities like the heat capacity. Here we introduce a thermodynamically informed, temperature-transferable MLCG framework for proteins that explicitly decomposes the CG potential of mean force (PMF) into its energetic and entropic components. The model architecture enforces an exact thermodynamic relation between the energetic and entropic components of the PMF and guarantees physically consistent extrapolation and interpolation across temperature regimes. We validate this framework on an extensive dataset spanning a total of 250 $\\mu$s of molecular dynamics simulations across five temperatures between 300 K and 400 K for the Chignolin protein, and demonstrate that it reproduces the temperature dependency of the reference atomistic free energy surfaces, correcting the temperature-unaware baselines. Furthermore, we show that it is possible to apply an inexpensive, post-hoc temperature-dependent correction that does not require retraining the MLCG potential, accurately recovering the atomistic heat capacity at different temperatures. Overall, this work provides a physically grounded pathway toward thermodynamically transferable MLCG simulations of complex biomolecular systems."
         },
         {
-          "title": "Spatial CRISPR screens map total RNA in tissue",
-          "url": "https://www.nature.com/articles/s41587-026-03126-z",
-          "domain": "nature.com",
-          "date": "2026-06-11T00:00:00.000Z",
-          "source": "Nature Biotechnology",
-          "summary": "Nature Biotechnology, Published online: 11 June 2026; doi:10.1038/s41587-026-03126-z A method for spatial CRISPR perturbation screening reveals how genetic changes alter coding and non-coding RNA in a native tissue context, including the tumor microenvironment."
+          "title": "Curvature-Guided Geometric Representation for Protein-Ligand Binding Affinity Prediction",
+          "url": "https://arxiv.org/abs/2606.14159",
+          "domain": "arxiv.org",
+          "date": "2026-06-15T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2606.14159v1 Announce Type: cross Abstract: Protein-ligand binding affinity (PLA) prediction is critical in drug discovery. Despite the notable advancements in machine learning-based approaches, existing methods struggle to jointly characterize local geometric organization and globally coordinated cross-molecular interactions, limiting their ability to model complex binding mechanisms. Here, we propose RicciBind, a geometric representation framework that integrates curvature-guided hierarchical structure learning with optimal transport (OT)-based cross-domain alignment to model molecular interactions. Specifically, RicciBind leverages Ricci curvature to capture local interaction tightness within molecular structures, enhancing structural awareness and organizing atomic interactions into curvature-aware hierarchical representations. An OT-based cluster matching mechanism then aligns protein and ligand clusters across heterogeneous domains under geometric constraints, enabling globally consistent correspondences and revealing higher-order interaction patterns beyond local neighborhoods. By coupling curvature-guided structure encoding with OT-driven cross-domain alignment, RicciBind effectively models complex interaction semantics and substantially improves both the accuracy and interpretability of binding affinity prediction. Extensive experiments demonstrate that RicciBind achieved superior predictive performance and generalization across PLA benchmarks and virtual screening tasks. Ablation studies further confirmed the essential role of Ricci curvature in enhancing molecular interaction representations."
         }
       ]
     },
@@ -277,6 +277,38 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "XRP climbs 4% above $1.18 as traders test next resistance zone",
+          "url": "https://www.coindesk.com/markets/2026/06/15/xrp-climbs-4-above-usd1-18-as-traders-test-next-resistance-zone",
+          "domain": "coindesk.com",
+          "date": "2026-06-15T04:25:42.000Z",
+          "source": "CoinDesk",
+          "summary": "XRP extended its rebound from recent lows on the strongest buying activity in weeks, with institutional flows and ETF demand supporting a push toward the $1.20 level."
+        },
+        {
+          "title": "Bitcoin hits a two-week high above $65,500 as the US-Iran deal sends oil sliding",
+          "url": "https://www.coindesk.com/markets/2026/06/15/bitcoin-hits-a-two-week-high-above-usd65-500-as-the-us-iran-deal-sends-oil-sliding",
+          "domain": "coindesk.com",
+          "date": "2026-06-15T03:56:27.000Z",
+          "source": "CoinDesk",
+          "summary": "A peace agreement that reopens the Strait of Hormuz pulled the geopolitical premium out of oil and put back into risk assets."
+        },
+        {
+          "title": "The Funding: Is the bitcoin bottom in? Crypto funds weigh in",
+          "url": "https://www.theblock.co/post/404714/bitcoin-bottom-crypto-funds-outlook?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-15T02:41:59.000Z",
+          "source": "The Block",
+          "summary": "Crypto funds share their outlook on bitcoin, the biggest risks ahead, and where they see the best risk-reward opportunities today."
+        },
+        {
+          "title": "Bitcoin shoots higher on Iran peace deal, with Strait of Hormuz set to open",
+          "url": "https://www.coindesk.com/markets/2026/06/14/bitcoin-shoots-higher-on-iran-deal-with-strait-of-hormuz-set-to-open",
+          "domain": "coindesk.com",
+          "date": "2026-06-15T00:08:10.000Z",
+          "source": "CoinDesk",
+          "summary": "The price of crude oil is tumbling, and U.S. stock futures are moving higher."
+        },
         {
           "title": "Here’s what happened in crypto today",
           "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -324,38 +356,6 @@
           "date": "2026-06-14T18:30:00.000Z",
           "source": "CoinDesk",
           "summary": "Lawmakers are debating taxes, the CFTC put out a prediction market proposal and court cases are heating up."
-        },
-        {
-          "title": "Trump-backed World Liberty Financial to fund UFC fighter bonuses in USD1 stablecoin at White House event",
-          "url": "https://www.theblock.co/post/404697/trump-backed-world-liberty-financial-to-fund-ufc-fighter-bonuses-in-usd1-stablecoin-at-white-house-event?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-14T15:44:41.000Z",
-          "source": "The Block",
-          "summary": "The deal puts USD1 branding inside the Octagon at an event held on the White House South Lawn, on President Trump's 80th birthday."
-        },
-        {
-          "title": "Aerodrome is turning liquidity into a prediction market with its biggest upgrade yet",
-          "url": "https://www.coindesk.com/tech/2026/06/12/aerodrome-is-turning-liquidity-into-a-prediction-market-with-its-biggest-upgrade-yet",
-          "domain": "coindesk.com",
-          "date": "2026-06-14T15:00:00.000Z",
-          "source": "CoinDesk",
-          "summary": "The concept, called Predictive Allocation, will encourage participants to anticipate where liquidity will be needed next, instead of rewarding them for directing incentives toward pools that have already generated fees."
-        },
-        {
-          "title": "SEC's big swing to clear tokenization path isn't likely to get resilience of full rule",
-          "url": "https://www.coindesk.com/news-analysis/2026/06/12/sec-s-big-swing-to-clear-tokenization-path-isn-t-likely-to-get-resilience-of-full-rule",
-          "domain": "coindesk.com",
-          "date": "2026-06-14T14:00:00.000Z",
-          "source": "CoinDesk",
-          "summary": "Former SEC lawyers say that using its power to grant tokenization \"innovation\" efforts an exemption from securities law isn't as strong as a full-fledged rule."
-        },
-        {
-          "title": "Ethereum can quantum-proof accounts for just 7 cents, says Ethereum's Kohaku lead",
-          "url": "https://cointelegraph.com/news/ethereum-quantum-proof-accounts-7-cents-researcher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-14T13:49:48.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The SPHINCS- proposal aims to reduce the cost of post-quantum signature verification on Ethereum while the network works toward a longer-term solution."
         }
       ]
     }
