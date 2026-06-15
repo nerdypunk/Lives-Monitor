@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-15T04:50:56.434Z",
+  "updatedAt": "2026-06-15T10:57:00.292Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -88,7 +88,8 @@
           "source": "Bitget",
           "summary": "DeSci project NanoVita announces completion of strategic financing with participation from Paramita and others &nbsp;&nbsp; Bitget"
         }
-      ]
+      ],
+      "warning": "Google News DeSci returned 503"
     },
     {
       "name": "Longevity",
@@ -97,6 +98,70 @@
         "https://longevity.technology/feed/"
       ],
       "articles": [
+        {
+          "title": "Voyager Therapeutics to webcast presentation on neurological disease pipeline",
+          "url": "https://longevity.technology/news/voyager-therapeutics-to-webcast-presentation-on-neurological-disease-pipeline/",
+          "domain": "longevity.technology",
+          "date": "2026-06-15T07:47:10.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Voyager Therapeutics announced that Chief Executive Officer Alfred W. Sandrock Jr., M.D., Ph.D., will participate in a pre-recorded fireside chat at the H.C. Wainwright 7th Annual Neuro Perspectives Hybrid Conference. An on-demand webcast of the presentation will be available from the Investors section of Voyager’s website starting at 7:00 a.m. ET on 15 June 2026, […] The post Voyager Therapeutics to webcast presentation on neurological disease pipeline appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "Sky Labs prepares to launch its blood pressure tracking ring in Europe, UK",
+          "url": "https://longevity.technology/news/sky-labs-prepares-to-launch-its-blood-pressure-tracking-ring-in-europe-uk/",
+          "domain": "longevity.technology",
+          "date": "2026-06-15T07:42:10.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Sky Labs presented clinical and real-world data for its ring-type blood pressure monitor, CART BP pro, at symposia held during the 35th European Society of Hypertension Congress and the British Cardiovascular Society Annual Conference, the company announced on 11 June. According to the company, a comparative study found CART BP pro met the ISO 81060-2:2018 […] The post Sky Labs prepares to launch its blood pressure tracking ring in Europe, UK appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "Researchers find simple brain scan predicts unique patient responses to ketamine",
+          "url": "https://longevity.technology/news/researchers-find-simple-brain-scan-predicts-unique-patient-responses-to-ketamine/",
+          "domain": "longevity.technology",
+          "date": "2026-06-15T07:37:10.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Cognision announced publication in Biological Psychiatry of a study titled Baseline Mismatch Negativity Amplitude Predicts Direction and Magnitude of Ketamine Effect in Healthy Volunteers: A Disordinal Effect. According to the company, the controlled study (NCT04928703) enrolled 24 healthy volunteers who received a sub-anesthetic dose of ketamine on two of three randomized visits and placebo on […] The post Researchers find simple brain scan predicts unique patient responses to ketamine appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "Lateral Pharma discovers new target for treating chronic neuropathic pain",
+          "url": "https://longevity.technology/news/lateral-pharma-discovers-new-target-for-treating-chronic-neuropathic-pain/",
+          "domain": "longevity.technology",
+          "date": "2026-06-15T07:32:10.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Lateral Pharma announced that peer-reviewed research published online in PAIN identifies Lanthionine Synthetase C-Like Protein 1 (LanCL1) as a novel therapeutic target for neuropathic pain and reports that LAT8881, the company’s first-generation Stressed Cell Protectant peptide, acts via LanCL1. The paper, titled Lanthionine synthetase C-like protein 1 (LanCL1): a therapeutic target for neuropathic pain, was […] The post Lateral Pharma discovers new target for treating chronic neuropathic pain appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "Harness Therapeutics wins grant to develop disease-modifying Parkinson’s drug",
+          "url": "https://longevity.technology/news/harness-therapeutics-wins-grant-to-develop-disease-modifying-parkinsons-drug/",
+          "domain": "longevity.technology",
+          "date": "2026-06-15T06:41:11.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Harness Therapeutics has been awarded a grant from The Michael J. Fox Foundation for Parkinson’s Research through the Parkinson’s Disease Therapeutics Pipeline Program to advance a two-year programme targeting glucocerebrosidase (GCase) and lysosomal integral membrane protein-2 (LIMP2) in GBA1-associated Parkinson’s disease. The programme will leverage Harness’s proprietary MISBA microRNA steric blocking ASO platform to pursue […] The post Harness Therapeutics wins grant to develop disease-modifying Parkinson’s drug appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "Tectonic completes patient recruitment for study on heart failure drug",
+          "url": "https://longevity.technology/news/tectonic-completes-patient-recruitment-for-study-on-heart-failure-drug/",
+          "domain": "longevity.technology",
+          "date": "2026-06-15T06:36:11.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Tectonic has completed enrollment in the APEX 24-week Phase 2 trial evaluating TX45 in patients with pulmonary hypertension associated with heart failure with preserved ejection fraction (PH-HFpEF), according to the company. The randomized, double-blind, placebo-controlled study enrolled 191 patients across 14 countries and was designed to enrich for the combined pre- and post-capillary pulmonary hypertension […] The post Tectonic completes patient recruitment for study on heart failure drug appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "Heartseed tests world’s first catheter-delivered stem cell therapy for heart failure",
+          "url": "https://longevity.technology/news/heartseed-tests-worlds-first-catheter-delivered-stem-cell-therapy-for-heart-failure/",
+          "domain": "longevity.technology",
+          "date": "2026-06-15T06:31:11.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Heartseed, a Tokyo-based biotechnology company, dosed the first patient in its domestic Phase I/II EMERALD study of HS-005, an allogeneic iPSC-derived cardiomyocyte spheroid therapy delivered via endocardial catheter targeting severe heart failure caused by ischemic heart disease or dilated cardiomyopathy. The study marks the world’s first clinical trial to administer iPSC-derived cardiomyocyte spheroids by catheter. […] The post Heartseed tests world’s first catheter-delivered stem cell therapy for heart failure appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "AbbVie leukemia treatment shows strong 9-year survival, remission benefits",
+          "url": "https://longevity.technology/news/abbvie-leukemia-treatment-shows-strong-9-year-survival-remission-benefits/",
+          "domain": "longevity.technology",
+          "date": "2026-06-15T06:31:10.000Z",
+          "source": "Longevity.Technology",
+          "summary": "AbbVie presented final Phase 3 CLL14 results for a fixed-duration venetoclax plus obinutuzumab regimen at the EHA 2026 Congress in Stockholm on 11-14 June. The randomized, open-label trial enrolled 432 previously untreated patients with coexisting conditions (n=216 per arm) and compared venetoclax plus obinutuzumab to obinutuzumab plus chlorambucil. After a median follow-up of 9.2 years, […] The post AbbVie leukemia treatment shows strong 9-year survival, remission benefits appeared first on Longevity.Technology ."
+        },
         {
           "title": "Lilly places $1b bet on AlzeCure’s Alzheimer’s project",
           "url": "https://longevity.technology/news/lilly-places-1b-bet-on-alzecures-alzheimers-project/",
@@ -112,70 +177,6 @@
           "date": "2026-06-12T16:40:16.000Z",
           "source": "Longevity.Technology",
           "summary": "NanoDetection secures global rights to antibody technology that may help distinguish Alzheimer’s from other brain diseases. A new licensing deal aims to bring greater precision to one of medicine’s biggest challenges: understanding what is happening inside the aging brain. Life science and diagnostics company NanoDetection Technology and New York-based biotech Oligomerix have announced an exclusive […] The post Exclusive deal expands neurodegenerative diagnostics appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "ŌURA’s smallest ring yet has bigger health ambitions",
-          "url": "https://longevity.technology/news/ouras-smallest-ring-yet-has-bigger-health-ambitions/",
-          "domain": "longevity.technology",
-          "date": "2026-06-12T16:38:28.000Z",
-          "source": "Longevity.Technology",
-          "summary": "The world’s smallest smart ring signals Oura’s move from wellness tracking toward proactive, personalized health guidance. Wearable technology is usually patterned as more sensors, more features, more data. Now, health tech company ŌURA is taking a different approach. Its newly unveiled Oura Ring 5 is 40% smaller than its predecessor, making it what the company […] The post ŌURA’s smallest ring yet has bigger health ambitions appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "OrsoBio posts promising tirzepatide combo data",
-          "url": "https://longevity.technology/news/orsobio-posts-promising-tirzepatide-combo-data/",
-          "domain": "longevity.technology",
-          "date": "2026-06-12T16:36:41.000Z",
-          "source": "Longevity.Technology",
-          "summary": "New findings suggest OrsoBio’s energy-burning approach could enhance tirzepatide’s effects while opening new possibilities for healthy aging. The next act after GLP-1s? US-based biopharma OrsoBio has a case. Obesity medicine has few unexpected transformations in recent years. Drugs such as tirzepatide have reshaped expectations around weight loss, helping millions of people achieve results once thought […] The post OrsoBio posts promising tirzepatide combo data appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "ARK Invest backs the factories behind automated cell therapies",
-          "url": "https://longevity.technology/news/ark-invest-backs-the-factories-behind-automated-cell-therapies/",
-          "domain": "longevity.technology",
-          "date": "2026-06-12T16:33:58.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Cathie Wood’s firm joins Cellares’ $277m funding round as investors bet manufacturing not discovery will determine future of cell therapy. Cell therapy has produced remarkable results. Researchers have learned how to engineer immune cells to hunt down cancer, and new therapies are showing potential in autoimmune diseases that have long resisted conventional treatment. Yet despite […] The post ARK Invest backs the factories behind automated cell therapies appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Rokit Healthcare to begin human kidney regeneration surgery in July",
-          "url": "https://longevity.technology/news/rokit-healthcare-to-begin-human-kidney-regeneration-surgery-in-july/",
-          "domain": "longevity.technology",
-          "date": "2026-06-12T11:46:24.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Rokit Healthcare announced it has received clinical approval for an advanced regenerative medicine therapy for kidney regeneration and plans to begin the world’s first human clinical surgery in July 2026. The clinical trial will evaluate a kidney regeneration platform using autologous omentum-derived cells and will assess the initial safety and regenerative potential of an omentum […] The post Rokit Healthcare to begin human kidney regeneration surgery in July appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Tectonic Therapeutic finishes patient enrollment for trial of new heart failure drug",
-          "url": "https://longevity.technology/news/tectonic-therapeutic-finishes-patient-enrollment-for-trial-of-new-heart-failure-drug/",
-          "domain": "longevity.technology",
-          "date": "2026-06-12T11:41:24.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Tectonic Therapeutic has completed enrollment in the APEX Phase 2 trial evaluating TX45 in patients with pulmonary hypertension associated with heart failure with preserved ejection fraction (PH-HFpEF). The 24-week, randomized, double-blind, placebo-controlled trial enrolled 191 patients across 14 countries and was enriched for combined pre- and post-capillary pulmonary hypertension (CpcPH); 137 patients had a baseline […] The post Tectonic Therapeutic finishes patient enrollment for trial of new heart failure drug appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "NeuroSense secures South Korean patent for ALS drug PrimeC through 2042",
-          "url": "https://longevity.technology/news/neurosense-secures-south-korean-patent-for-als-drug-primec-through-2042/",
-          "domain": "longevity.technology",
-          "date": "2026-06-12T11:36:24.000Z",
-          "source": "Longevity.Technology",
-          "summary": "NeuroSense announced that the Korean Intellectual Property Office has issued Korean Patent Number 10-2969898 covering the composition of PrimeC, including its proprietary tablet formulation, manufacturing process, pharmacokinetic characteristics and pharmaceutical use for the treatment of amyotrophic lateral sclerosis. The patent is expected to provide protection in South Korea through 2042. The grant follows patent awards […] The post NeuroSense secures South Korean patent for ALS drug PrimeC through 2042 appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Haut.AI partners with Olay for personalized skin simulation tool",
-          "url": "https://longevity.technology/news/haut-ai-partners-with-olay-for-personalized-skin-simulation-tool/",
-          "domain": "longevity.technology",
-          "date": "2026-06-12T11:36:10.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Haut.AI has partnered with Olay to introduce Virtual Companion technology within the OLAY Skin Advisor experience, the companies announced on 10 June 2026. The integration uses Haut.AI’s LIQA (Live Image Quality Assessment) to guide users in taking selfies that detect skin concerns and produce personalized insights and recommended routines. A proprietary matching engine selects a […] The post Haut.AI partners with Olay for personalized skin simulation tool appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Heartseed tests stem cell therapy for dilated cardiomyopathy patients",
-          "url": "https://longevity.technology/news/heartseed-tests-stem-cell-therapy-for-dilated-cardiomyopathy-patients/",
-          "domain": "longevity.technology",
-          "date": "2026-06-12T11:31:24.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Heartseed has begun dosing patients in its domestic Phase I/II EMERALD clinical trial of HS-005, an allogeneic induced pluripotent stem cell-derived cardiomyocyte spheroid therapy delivered via catheter for heart failure caused by dilated cardiomyopathy. The Independent Safety Monitoring Committee reviewed four-week post-administration data from the first patient and cleared continuation of the dilated cardiomyopathy cohort, […] The post Heartseed tests stem cell therapy for dilated cardiomyopathy patients appeared first on Longevity.Technology ."
         }
       ]
     },
@@ -278,84 +279,84 @@
       ],
       "articles": [
         {
-          "title": "XRP climbs 4% above $1.18 as traders test next resistance zone",
-          "url": "https://www.coindesk.com/markets/2026/06/15/xrp-climbs-4-above-usd1-18-as-traders-test-next-resistance-zone",
+          "title": "Middle East ceasfire, Fed interest-rate decision: Crypto Week Ahead",
+          "url": "https://www.coindesk.com/markets/2026/06/15/middle-east-ceasfire-fed-interest-rate-decision-crypto-week-ahead",
           "domain": "coindesk.com",
-          "date": "2026-06-15T04:25:42.000Z",
+          "date": "2026-06-15T10:14:49.000Z",
           "source": "CoinDesk",
-          "summary": "XRP extended its rebound from recent lows on the strongest buying activity in weeks, with institutional flows and ETF demand supporting a push toward the $1.20 level."
+          "summary": "Your look at what's coming in the week starting June 15."
         },
         {
-          "title": "Bitcoin hits a two-week high above $65,500 as the US-Iran deal sends oil sliding",
-          "url": "https://www.coindesk.com/markets/2026/06/15/bitcoin-hits-a-two-week-high-above-usd65-500-as-the-us-iran-deal-sends-oil-sliding",
-          "domain": "coindesk.com",
-          "date": "2026-06-15T03:56:27.000Z",
-          "source": "CoinDesk",
-          "summary": "A peace agreement that reopens the Strait of Hormuz pulled the geopolitical premium out of oil and put back into risk assets."
-        },
-        {
-          "title": "The Funding: Is the bitcoin bottom in? Crypto funds weigh in",
-          "url": "https://www.theblock.co/post/404714/bitcoin-bottom-crypto-funds-outlook?utm_source=rss&utm_medium=rss",
+          "title": "Bernstein says Robinhood could see ‘strong tailwinds’ as World Cup drives record prediction market volumes",
+          "url": "https://www.theblock.co/post/404731/bernstein-robinhood-strong-tailwinds-world-cup-record-prediction-market-volumes?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-06-15T02:41:59.000Z",
+          "date": "2026-06-15T10:02:47.000Z",
           "source": "The Block",
-          "summary": "Crypto funds share their outlook on bitcoin, the biggest risks ahead, and where they see the best risk-reward opportunities today."
+          "summary": "Bernstein projects Robinhood’s prediction market revenue to increase from $150 million in 2025 to $586 million in 2026."
         },
         {
-          "title": "Bitcoin shoots higher on Iran peace deal, with Strait of Hormuz set to open",
-          "url": "https://www.coindesk.com/markets/2026/06/14/bitcoin-shoots-higher-on-iran-deal-with-strait-of-hormuz-set-to-open",
+          "title": "Trump-linked stablecoin used for bonus payouts at White House UFC contest",
+          "url": "https://www.coindesk.com/markets/2026/06/15/trump-linked-stablecoin-used-for-bonus-payouts-at-white-house-ufc-contest",
           "domain": "coindesk.com",
-          "date": "2026-06-15T00:08:10.000Z",
+          "date": "2026-06-15T08:09:53.000Z",
           "source": "CoinDesk",
-          "summary": "The price of crude oil is tumbling, and U.S. stock futures are moving higher."
+          "summary": "UFC Freedom 250 paid fighter bonuses in USD1, the stablecoin issued by the Trump-linked crypto venture World Liberty Financial, at a contest held at the White House."
         },
         {
-          "title": "Here’s what happened in crypto today",
-          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "Ark Invest bought more than $500 million worth of SpaceX shares on IPO day",
+          "url": "https://www.coindesk.com/markets/2026/06/15/ark-invest-bought-more-than-usd500-million-worth-of-spacex-shares-on-ipo-day",
+          "domain": "coindesk.com",
+          "date": "2026-06-15T07:52:41.000Z",
+          "source": "CoinDesk",
+          "summary": "The purchases were likely funded by selling other positions, data shows. ARK is also one of the loudest bitcoin bulls, with a million-dollar target for 2030."
+        },
+        {
+          "title": "Bitcoin nears $66K as Trump says US has peace deal with Iran",
+          "url": "https://cointelegraph.com/news/bitcoin-closes-in-on-66k-as-trump-signals-deal-with-iran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-06-14T22:19:35.000Z",
+          "date": "2026-06-15T06:47:49.000Z",
           "source": "CoinTelegraph",
-          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+          "summary": "US President Donald Trump says the US and Iran have a deal for a “toll-free opening of the Strait of Hormuz,” sending Bitcoin to a two-week high."
         },
         {
-          "title": "Zimbabwe moves to regulate crypto sector, requiring firms to register with central bank: Reuters",
-          "url": "https://www.theblock.co/post/404705/zimbabwe-moves-to-regulate-crypto-sector-requiring-firms-to-register-with-central-bank-reuters?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-14T22:12:29.000Z",
-          "source": "The Block",
-          "summary": "Registration costs an initial $500 with renewal costing $400 a year, and operating without registration is now an offense, according to Reuters."
-        },
-        {
-          "title": "Bitcoin mining difficulty drops 10% in second-largest negative adjustment of 2026",
-          "url": "https://www.theblock.co/post/404702/bitcoin-mining-difficulty-drops-10-in-second-largest-negative-adjustment-of-2026?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-14T20:42:19.000Z",
-          "source": "The Block",
-          "summary": "The cut hands surviving miners roughly 11% more bitcoin per unit of active hashrate, but all-in production economics remain underwater at current prices."
-        },
-        {
-          "title": "Bitcoin could crash to $48,000, if this historical pattern is triggered",
-          "url": "https://www.coindesk.com/markets/2026/06/14/bitcoin-could-crash-to-usd48-000-if-this-historical-pattern-is-triggered",
+          "title": "Bitcoin traders have a reason to watch Tuesday's BOJ rate decision. Yen shorts are at a nine-year high",
+          "url": "https://www.coindesk.com/markets/2026/06/15/bitcoin-traders-have-a-reason-to-watch-tuesday-s-boj-rate-decision-yen-shorts-are-at-a-nine-year-high",
           "domain": "coindesk.com",
-          "date": "2026-06-14T19:17:30.000Z",
+          "date": "2026-06-15T06:41:36.000Z",
           "source": "CoinDesk",
-          "summary": "A pattern stretching back to bitcoin's earliest days has held through every market cycle. It has yet to be tested in the current one."
+          "summary": "A large build-up of speculative short positions in the yen raises the risk of a sharp short squeeze if the BOJ signals more aggressive tightening, potentially unwinding yen-funded carry trades that support risk assets."
         },
         {
-          "title": "StanChart looks for 3 signs of BTC bottom, including Strategy’s Monday news",
-          "url": "https://cointelegraph.com/news/stanchart-looks-for-3-signs-of-btc-bottom-including-strategys-monday-news?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "Bitcoin tops $65,000 as reports of US-Iran peace deal ease geopolitical fears",
+          "url": "https://www.theblock.co/post/404723/bitcoin-tops-65000-us-iran-peace-deal?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-15T05:55:11.000Z",
+          "source": "The Block",
+          "summary": "The rally reflected improving risk sentiment following reports that the U.S. and Iran have reached a peace agreement, analysts said."
+        },
+        {
+          "title": "CFTC sues New Mexico over prediction market jurisdiction",
+          "url": "https://cointelegraph.com/news/cftc-sues-new-mexico-over-prediction-market-jurisdiction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-06-14T19:05:46.000Z",
+          "date": "2026-06-15T05:54:06.000Z",
           "source": "CoinTelegraph",
-          "summary": "Standard Chartered’s Geoff Kendrick tells clients “winter is over” as the analyst said crypto prices have likely seen the low for the cycle, ahead of Strategy’s Bitcoin purchase update."
+          "summary": "New Mexico is the eighth state sued by the CFTC over prediction markets, as Gary Gensler doubted the regulators' claim of authority over sports event contracts."
         },
         {
-          "title": "Summer of crypto (regs): State of Crypto",
-          "url": "https://www.coindesk.com/policy/2026/06/14/summer-of-crypto-regs-state-of-crypto",
+          "title": "Aztec Connect’s abandoned smart contract exploited for $2.1M",
+          "url": "https://cointelegraph.com/news/aztec-connects-depreciated-smart-contract-exploited-for-2-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-15T05:43:47.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The Aztec Connect platform was deprecated in March 2023, but the immutable smart contract still held over $2 million in crypto assets."
+        },
+        {
+          "title": "Live markets: Bitcoin not fully out of danger as Trump warns of further Iran strikes",
+          "url": "https://www.coindesk.com/tech/2026/06/15/live-markets-bitcoin-not-fully-out-of-danger-as-trump-warns-of-further-iran-strikes",
           "domain": "coindesk.com",
-          "date": "2026-06-14T18:30:00.000Z",
+          "date": "2026-06-15T05:19:14.000Z",
           "source": "CoinDesk",
-          "summary": "Lawmakers are debating taxes, the CFTC put out a prediction market proposal and court cases are heating up."
+          "summary": "A ceasefire in April collapsed, and U.S. strikes broke a second truce on June 9 with bitcoin giving back the entire move both times."
         }
       ]
     }
