@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-16T22:01:47.149Z",
+  "updatedAt": "2026-06-16T23:49:40.044Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -143,7 +143,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-16T16:24:07.000Z",
           "source": "Lifespan.io",
-          "summary": "In a new study, muscle-targeted viral-vector-based delivery of the protein FGF21 significantly increased median lifespan in male mice and improved many healthspan markers [1]. Control your energy Metabolic dysregulation is a core cause of aging [2]. As animals (and […]"
+          "summary": "In a new study, muscle-targeted viral-vector-based delivery of the protein FGF21 significantly increased median lifespan in male mice and improved many […]"
         },
         {
           "title": "New brain cancer gene therapy RZ-001 shows promise in early trial",
@@ -187,6 +187,14 @@
         "https://phys.org/rss-feed/biology-news/biotechnology/"
       ],
       "articles": [
+        {
+          "title": "Report reveals how digital tools are transforming biodiversity crisis response",
+          "url": "https://phys.org/news/2026-06-reveals-digital-tools-biodiversity-crisis.html",
+          "domain": "phys.org",
+          "date": "2026-06-16T23:20:03.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Scientists who study plant physiology and evolution have a new tool in their toolkit: a machine learning algorithm that can scan digital plant specimen collections and quickly measure leaf size and thickness."
+        },
         {
           "title": "A heat sensor for living cells could offer new views of cell metabolism, rapid antibiotic testing",
           "url": "https://phys.org/news/2026-06-sensor-cells-views-cell-metabolism.html",
@@ -258,14 +266,6 @@
           "date": "2026-06-16T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2606.14823v1 Announce Type: new Abstract: Genetic evidence is enriched among approved drug targets: in an observational analysis of 26,278 target-disease pairs from Open Targets and ChEMBL, targets with any genetic association had a 3.25-fold higher approval rate than those without (OR = 3.25, 95% CI 2.79-3.79, p = 1.91e-42). A target-level analysis accounting for non-independence of pairs sharing the same gene gave OR = 2.79 (bootstrap 95% CI 2.22-3.53); the oncology pair-level OR of 6.72 attenuates to 2.71 at the target level, illustrating how non-independence inflates area-specific estimates. The enrichment replicated in post-2015 approvals (OR = 3.51, p = 1.72e-8). Feature ablation across six evidence types revealed that literature mining alone accounts for most classifier performance (AUPRC = 0.099 versus 0.109 for all features), consistent with temporal leakage from post-approval publications. Excluding literature, remaining evidence types retain above-baseline signal (AUPRC = 0.084, 1.63x baseline). Sensitivity analyses bracket the pair-level OR between 3.25 and 4.93. Genetic evidence alone yields only a 1.0-percentage-point absolute AUPRC gain and the best model has poor calibration; the classifier has limited practical predictive value. We catalogue 1,433 genetically supported Phase 1/2 pairs as a hypothesis-generating resource. All findings are observational."
-        },
-        {
-          "title": "The Essential Role Of Ribosomal Feedback In Bacterial Cell Growth And Metabolic Load -- A Systems Biology Approach For Unveiling Shared Resources Regulation Within Synthetic Genetic Circuits",
-          "url": "https://arxiv.org/abs/2606.14835",
-          "domain": "arxiv.org",
-          "date": "2026-06-16T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2606.14835v1 Announce Type: new Abstract: Modeling growth in bacterial cells is a major issue in systems and synthetic biology. Despite several growth rate functions proposed in the literature, most focus on nutrient composition without explicitly accounting for the possible perturbation provided by the expression of recombinant genes, an effect known as cell load or burden. On the other hand, mathematical models that attempt to provide mechanistic details on the phenomena, leveraging ribosome partitioning and nutrient availability, are generally too detailed and complex to be easily applied to the rational design of synthetic genetic circuits. A bottom-up approach is adopted herein to identify and analyze the minimal model structure, thereby unveiling the fundamental role of negative feedback in ribosomal synthesis in predicting the effects of cell load on both gene expression and growth rate. Indeed, to ensure cellular efficiency, ribosome synthesis must be finely regulated. While an increased number of ribosomes generally enhances protein production and cellular performance, their synthesis incurs a high energetic cost. For this reason, cells have evolved mechanisms to tightly control ribosome synthesis, avoiding unnecessary accumulation. One of the key regulatory strategies, usually neglected in previous cell models, involves a negative feedback loop that modulates the production of ribosomal components. This feedback ensures that ribosomes are produced only in the amount strictly needed, balancing functionality and energy expenditure. This work evaluates the individual contribution of this feedback under heterologous expression conditions using minimal gene-circuit models, explicitly linking ribosome allocation, hidden couplings between protein synthesis levels, and growth rate."
         }
       ]
     },
@@ -277,6 +277,14 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "Bitcoin tops $67K following US-Iran peace deal: Is it a bull trap?",
+          "url": "https://cointelegraph.com/markets/bitcoin-tops-67k-following-us-iran-peace-deal-is-it-a-bull-trap?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-16T22:28:40.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Despite Bitcoin derivatives data highlight traders’ skepticism even though BTC briefly rallied above $67,000. Are bulls stepping into a trap?"
+        },
         {
           "title": "Here is why Strategy's dividend-paying crypto stock is crashing to near-historic lows",
           "url": "https://www.coindesk.com/markets/2026/06/16/here-is-why-strategy-s-dividend-paying-crypto-stock-is-crashing-to-near-historic-lows",
@@ -348,14 +356,6 @@
           "date": "2026-06-16T19:45:47.000Z",
           "source": "CoinTelegraph",
           "summary": "Defend American Jobs reported spending $7.4 million on media to support Republican Barry Moore ahead of his May 20 Alabama primary, and an additional $4.7 million before Tuesday’s runoffs."
-        },
-        {
-          "title": "Coinbase lets users transfer stock portfolios as exchange expands beyond crypto",
-          "url": "https://cointelegraph.com/news/coinbase-acats-stock-portfolio-transfers-beyond-crypto?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-16T19:31:19.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The crypto exchange is deepening its push into traditional finance by enabling ACATS stock transfers and expanding trading products beyond digital assets."
         }
       ]
     }
