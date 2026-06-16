@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-15T22:30:09.659Z",
+  "updatedAt": "2026-06-16T00:14:57.092Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -103,7 +103,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-15T19:57:28.000Z",
           "source": "Lifespan.io",
-          "summary": "A team of reviewers has taken a look at the relationship between cancer, cellular senescence, and vascular overgrowth and published this information in Aging Cell. Different gut cancers form through […]"
+          "summary": "A team of reviewers has taken a look at the relationship between cancer, cellular senescence, and vascular overgrowth and published this information in Aging Cell. Different gut cancers form through different pathways […]"
         },
         {
           "title": "A new off-ramp from Ozempic and Wegovy?",
@@ -278,6 +278,22 @@
       ],
       "articles": [
         {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-15T22:39:18.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
+        {
+          "title": "Trump crypto company's USD1 stablecoins backing UFC event bonuses",
+          "url": "https://cointelegraph.com/news/donald-trump-crypto-company-ufc-fighter-bonuses-usd1-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-15T22:10:00.000Z",
+          "source": "CoinTelegraph",
+          "summary": "A spokesperson for the Democratic National Committee decried the move as “an opportunity to use the power of the presidency to make [Trump] and his family even richer.”"
+        },
+        {
           "title": "Spot HYPE ETFs near $900 million in volume as early demand signals institutional interest",
           "url": "https://www.theblock.co/post/404802/spot-hype-etfs-near-900-million-volume-early-demand-signals-institutional-interest?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
@@ -340,22 +356,6 @@
           "date": "2026-06-15T18:53:15.000Z",
           "source": "CoinTelegraph",
           "summary": "The offering follows Kraken's acquisition of Bitnomial and comes amid a broader push to bring crypto derivatives trading onshore."
-        },
-        {
-          "title": "Hyperliquid loses Anthropic, OpenAI markets as creator shuts down project",
-          "url": "https://www.coindesk.com/business/2026/06/15/hyperliquid-loses-anthropic-openai-markets-as-creator-shuts-down-project",
-          "domain": "coindesk.com",
-          "date": "2026-06-15T18:14:07.000Z",
-          "source": "CoinDesk",
-          "summary": "Ventuals, one of the teams behind real-world asset perpetuals on Hyperliquid, said it is closing its markets and joining another project in the ecosystem."
-        },
-        {
-          "title": "‘There’s room for win-win outcomes’: Largest Solana treasury firm Forward looks to acquire smaller SOL DATs",
-          "url": "https://www.theblock.co/post/404792/win-win-outcomes-solana-treasury-forward-acquire-sol-dats?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-15T17:59:08.000Z",
-          "source": "The Block",
-          "summary": "Forward Industries is offering to acquire Solana DAT competitors at a premium as their mNAVs slip along with the declining price of SOL."
         }
       ]
     }
