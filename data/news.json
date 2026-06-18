@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-18T19:58:17.973Z",
+  "updatedAt": "2026-06-18T22:22:25.583Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -103,7 +103,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-18T18:15:22.000Z",
           "source": "Lifespan.io",
-          "summary": "In Aging Cell, researchers have described the way that antioxidants work against senescence in muscle cells by altering mTOR signaling. Senescent cells don’t sense nutrients properly Oxidative stress […]"
+          "summary": "In Aging Cell, researchers have described the way that antioxidants work against senescence in muscle cells by altering mTOR signaling. Senescent cells don’t sense […]"
         },
         {
           "title": "Corsair reports early success for pulmonary hypertension patch",
@@ -278,84 +278,84 @@
       ],
       "articles": [
         {
-          "title": "Rep. Steil introduces bill to block lawmakers from placing prediction markets bets on public policy issues",
-          "url": "https://www.theblock.co/post/405331/rep-steil-introduces-bill-to-block-lawmakers-from-placing-prediction-markets-bets-on-public-policy-issues?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-18T19:55:02.000Z",
-          "source": "The Block",
-          "summary": "Rep. Bryan Steil introduced legislation aimed at preventing lawmakers and their families from profiting from bets on political outcomes."
-        },
-        {
-          "title": "Ethereum Foundation leadership exodus continues with director’s departure",
-          "url": "https://cointelegraph.com/news/ethereum-foundation-leadership-exodus-continues-with-directors-departure?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+          "title": "Malta proposes DeFi rulebook covering DAOs under MiCA-era framework",
+          "url": "https://cointelegraph.com/news/malta-defi-framework-daos-software-based-organizations-mica?utm_source=rss&utm_medium=rss&utm_campaign=rss",
           "domain": "cointelegraph.com",
-          "date": "2026-06-18T19:51:13.000Z",
+          "date": "2026-06-18T22:04:19.000Z",
           "source": "CoinTelegraph",
-          "summary": "Hsiao-Wei Wang’s departure adds to a wave of Ethereum Foundation exits, fueling debate over governance, decentralization and the network’s future."
+          "summary": "The Maltese regulator is seeking industry feedback on a legal framework for software-governed organizations, arguing that many DeFi projects are not fully decentralized."
         },
         {
-          "title": "Bitcoin’s deeply discounted versus AI-stocks, but hawkish Fed risk lingers: Bitwise",
-          "url": "https://cointelegraph.com/markets/bitcoin-flashes-a-discount-to-ai-stocks-but-hawkish-fed-risk-lingers-bitwise?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+          "title": "Bitcoin decouples from tech stocks: Is $60K BTC’s next stop?",
+          "url": "https://cointelegraph.com/markets/bitcoin-decouples-from-tech-stocks-is-60k-btcs-next-stop?utm_source=rss&utm_medium=rss&utm_campaign=rss",
           "domain": "cointelegraph.com",
-          "date": "2026-06-18T19:41:51.000Z",
+          "date": "2026-06-18T21:58:25.000Z",
           "source": "CoinTelegraph",
-          "summary": "Bitwise analysts say Bitcoin trades in a historical value zone, but hawkish Federal Reserve signals and a competition for liquidity could sideline buyers."
+          "summary": "Bitcoin’s slump accelerated as capital rotated further into the AI sector, raising the odds of a BTC price drop below $60,000."
         },
         {
-          "title": "CFTC enters settlement with former Celsius CEO, imposes a permanent trading ban",
-          "url": "https://www.theblock.co/post/405323/cftc-enters-settlement-former-celsius-ceo-imposes-permanent-trading-ban?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-18T19:28:40.000Z",
-          "source": "The Block",
-          "summary": "The CFTC said it has settled its case against former Celsius CEO Alexander Mashinsky, who is currently serving a 12-year prison sentence."
-        },
-        {
-          "title": "Ex-Celsius CEO Mashinsky gets U.S. CFTC ban in final resolution with regulator",
-          "url": "https://www.coindesk.com/policy/2026/06/18/ex-celsius-ceo-mashinsky-gets-u-s-cftc-ban-in-final-resolution-with-regulator",
-          "domain": "coindesk.com",
-          "date": "2026-06-18T19:26:55.000Z",
-          "source": "CoinDesk",
-          "summary": "Alexander Mashinsky, the founder of failed crypto lender Celsius, had earlier been imprisoned for fraud and is now formally banned from CFTC registration."
-        },
-        {
-          "title": "Hyperliquid poised to become more than an exchange and drive HYPE higher, Hyperion CEO says",
-          "url": "https://www.theblock.co/post/405300/hyperliquid-poised-become-more-exchange-boost-hypes-value-hyperion-ceo-says?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-18T18:44:03.000Z",
-          "source": "The Block",
-          "summary": "Hyperion CEO argued investors are still underestimating the decentralized exchange's transformation into a broader blockchain ecosystem."
-        },
-        {
-          "title": "JPMorgan says bitcoin mining economics have ‘worsened’ as BTC trades below production cost",
-          "url": "https://www.theblock.co/post/405302/jpmorgan-bitcoin-mining-btc-production-cost?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-18T18:31:02.000Z",
-          "source": "The Block",
-          "summary": "JPMorgan's current estimated production cost of bitcoin is about $78,000, while bitcoin is currently trading around $62,500."
-        },
-        {
-          "title": "Jefferies expects IREN’s AI cloud business to outpace data center leasing, sees 30% upside",
-          "url": "https://www.theblock.co/post/405284/jefferies-expects-irens-ai-cloud-business-outpace-data-center-leasing-30-upside?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-18T18:12:46.000Z",
-          "source": "The Block",
-          "summary": "Jefferies estimates that only about 10% of IREN's roughly 6 gigawatt global power portfolio is being utilized."
-        },
-        {
-          "title": "HIVE secures $220M AI infrastructure contract with Bell and Cohere",
-          "url": "https://cointelegraph.com/news/hive-secures-220m-ai-infrastructure-contract-with-bell-and-cohere?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+          "title": "Ireland mulls crypto safeguards in response to financial risks",
+          "url": "https://cointelegraph.com/news/ireland-government-standards-crypto-risk-assessment?utm_source=rss&utm_medium=rss&utm_campaign=rss",
           "domain": "cointelegraph.com",
-          "date": "2026-06-18T17:54:57.000Z",
+          "date": "2026-06-18T21:48:41.000Z",
           "source": "CoinTelegraph",
-          "summary": "The deal is expected to add approximately $70 million in annual recurring revenue as the company scales its AI-focused operations."
+          "summary": "For the first time in seven years, the Irish government released an assessment related to digital assets, noting risks from money laundering, terrorism financing, sanctions violations and bribery."
         },
         {
-          "title": "CME Group sues CFTC over crypto perpetual futures",
-          "url": "https://cointelegraph.com/news/cme-group-cftc-lawsuit-perpetual-futures-crypto?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+          "title": "US regulators push user ID requirements for stablecoin issuers akin to regulated banks",
+          "url": "https://cointelegraph.com/news/us-agencies-user-identification-stablecoin-issuers?utm_source=rss&utm_medium=rss&utm_campaign=rss",
           "domain": "cointelegraph.com",
-          "date": "2026-06-18T17:42:09.000Z",
+          "date": "2026-06-18T21:42:13.000Z",
           "source": "CoinTelegraph",
-          "summary": "The lawsuit targets the federal regulator and Chair Michael Selig, alleging that the Commodity Futures Trading Commissioin is treating cryptocurrency “futures” as “swaps,” posing risks to derivatives markets."
+          "summary": "The proposed rules by US government agencies suggested that stablecoin issuers be subject to customer identification program requirements under the Bank Secrecy Act, the same as regulated financial firms."
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-18T21:42:05.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
+        {
+          "title": "Strategy’s preferred stock STRC continues to trade under $90 as trading volume jumps",
+          "url": "https://www.theblock.co/post/405350/strategys-preferred-stock-strc-continues-trade-under-90-trading-volume-jumps?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-18T21:30:02.000Z",
+          "source": "The Block",
+          "summary": "Strategy's preferred STRC stock closed again under $90 for the second consecutive day at $88.59, having drifted as low as $82.50."
+        },
+        {
+          "title": "CryptoQuant says bitcoin microtransactions now make up 80% of daily transactions",
+          "url": "https://www.theblock.co/post/405340/cryptoquant-bitcoin-micro-transactions-btc?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-18T21:07:49.000Z",
+          "source": "The Block",
+          "summary": "Bitcoin transactions below 0.01 BTC now make up about 80% of all daily transactions, up from about 44% in 2023, CryptoQuant said."
+        },
+        {
+          "title": "Custodia, Vantage propose token that toggles between bank deposits and stablecoins",
+          "url": "https://cointelegraph.com/news/custodia-vantage-unveil-token-that-shifts-between-bank-deposits-and-stablecoins?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-18T21:02:29.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The proposed system aims to connect traditional banking infrastructure with blockchain-based payment networks with banks retaining customer deposits."
+        },
+        {
+          "title": "New Texas power grid allocation framework could lift bitcoin miners turned data center operators",
+          "url": "https://www.theblock.co/post/405322/texas-power-grid-allocation-framework-lift-bitcoin-miners-data-center-operators?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-18T20:55:11.000Z",
+          "source": "The Block",
+          "summary": "The Electric Reliability Council of Texas says data centers account for nearly 90% of the 438 GW of large-load demand in the state."
+        },
+        {
+          "title": "Wealthsimple launches Kalshi-powered prediction market app for Canadian investors",
+          "url": "https://cointelegraph.com/news/wealthsimple-launches-kalshi-powered-prediction-market-app-for-canadian-investors?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-18T20:07:27.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The offering follows regulatory approval earlier this year and comes as prediction markets face legal challenges from regulators, exchanges and policymakers around the world."
         }
       ]
     }
