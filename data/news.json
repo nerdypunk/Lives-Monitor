@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-17T23:00:49.612Z",
+  "updatedAt": "2026-06-18T01:43:59.201Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,6 +278,22 @@
       ],
       "articles": [
         {
+          "title": "CME Group to sue CFTC over approval of perpetual futures, CEO tells CNBC",
+          "url": "https://www.theblock.co/post/405173/cme-group-to-sue-cftc-ceo-says?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-18T01:32:44.000Z",
+          "source": "The Block",
+          "summary": "CME Group CEO Duffy said perpetual futures should be classified as swaps under the Dodd-Frank Act, which would form the basis of the lawsuit."
+        },
+        {
+          "title": "Crypto market treads thin ice following Warsh FOMC, Trump Iran comments",
+          "url": "https://cointelegraph.com/markets/crypto-market-tread-thin-ice-following-warsh-fomc-trump-iran-comments?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-17T23:45:29.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Markets wobbled after mixed comments from President Trump on the Iran peace deal and Fed Chair Kevin Warsh signaling a new direction from the Federal Reserve."
+        },
+        {
           "title": "Here’s what happened in crypto today",
           "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
           "domain": "cointelegraph.com",
@@ -340,22 +356,6 @@
           "date": "2026-06-17T20:19:28.000Z",
           "source": "The Block",
           "summary": "Most major cryptocurrencies fell between 1% and 3% following the decision, with bitcoin dropping to $64,150."
-        },
-        {
-          "title": "Bybit lands on Singapore MAS Investor Alert List",
-          "url": "https://cointelegraph.com/news/bybit-singapore-mas-investor-alert-list?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-17T20:01:24.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Crypto exchange Bybit has been added to Singapore’s MAS Investor Alert List, which flags entities that may be mistakenly perceived as licensed or regulated."
-        },
-        {
-          "title": "Blockchain.com deepens onchain stock offerings as tokenized equities market grows",
-          "url": "https://cointelegraph.com/news/blockchaincom-adds-173-tokenized-stocks-and-etfs-through-ondo?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-17T19:32:34.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The rollout in collaboration with Ondo Finance broadens access to tokenized traditional assets as demand for onchain stocks and ETFs continues to grow."
         }
       ]
     }
