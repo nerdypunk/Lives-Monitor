@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-19T13:49:48.756Z",
+  "updatedAt": "2026-06-19T16:33:20.135Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -98,6 +98,30 @@
       ],
       "articles": [
         {
+          "title": "Human data validate Cambrian Bio’s aging target",
+          "url": "https://longevity.technology/news/human-data-validate-cambrian-bios-aging-target/",
+          "domain": "longevity.technology",
+          "date": "2026-06-19T15:25:21.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Positive Phase 1b results for ATX-304 suggest scientists may finally be able to restore a key metabolic pathway that declines with age. There are few ideas in aging biology that have generated as much excitement (and as much disappointment) as AMPK. Researchers have viewed this cellular pathway as one of the body’s most important regulators […] The post Human data validate Cambrian Bio’s aging target appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "Istesso advances regenerative approach to muscle loss",
+          "url": "https://longevity.technology/news/istesso-advances-regenerative-approach-to-muscle-loss/",
+          "domain": "longevity.technology",
+          "date": "2026-06-19T15:17:24.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Phase 2 trial of leramistat targets sarcopenia, a major driver of frailty and loss of independence in later life. Longevity is teaching us that preserving muscle may be just as important as extending lifespan. London-based regenerative medicine company Istesso has announced the start of a Phase 2 clinical trial of its lead candidate leramistat in […] The post Istesso advances regenerative approach to muscle loss appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "AU-based Everlab bags $42m to make preventive care accessible",
+          "url": "https://longevity.technology/news/au-based-everlab-bags-42m-to-make-preventive-care-accessible/",
+          "domain": "longevity.technology",
+          "date": "2026-06-19T14:26:14.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Australian healthtech Everlab has raised $42 million to expand its preventative healthcare platform, aiming to stop disease before it starts. Healthcare has long excelled at responding to emergencies. Heart attack? There’s a protocol. Cancer diagnosis? There are specialists, treatments and care pathways. However, what happens before those moments arrive has often received far less attention. […] The post AU-based Everlab bags $42m to make preventive care accessible appeared first on Longevity.Technology ."
+        },
+        {
           "title": "Human Continuum raises $5.1m to advance exosome platform",
           "url": "https://longevity.technology/news/human-continuum-raises-5-1m-to-advance-exosome-platform/",
           "domain": "longevity.technology",
@@ -152,30 +176,6 @@
           "date": "2026-06-19T09:31:12.000Z",
           "source": "Longevity.Technology",
           "summary": "Designs for Health launched Akkermansia Pro GLP-1 Probiotic in Palm Coast, Fla., a once-daily probiotic and postbiotic formula that combines live Akkermansia muciniphila with the clinically studied BPL1 postbiotic to support the gut–metabolic connection, natural GLP-1 production, and healthy weight management. The formula centers on Akkermansia muciniphila, described as a keystone probiotic strain studied for […] The post Designs for Health launches new GLP-1 and weight management probiotic appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "BPGbio advances potential first-ever treatment for primary CoQ10 deficiency",
-          "url": "https://longevity.technology/news/bpgbio-advances-potential-first-ever-treatment-for-primary-coq10-deficiency/",
-          "domain": "longevity.technology",
-          "date": "2026-06-19T08:31:12.000Z",
-          "source": "Longevity.Technology",
-          "summary": "BPGbio presented clinical and translational findings for its investigational mitochondrial therapy BPM31510 at the United Mitochondrial Disease Foundation Mitochondrial Medicine Conference in Orlando, Florida, on 17 June 2026. The materials included an oral presentation and two posters reporting outcomes from four pediatric compassionate use subjects with genetically confirmed primary CoQ10 deficiency and preclinical studies in […] The post BPGbio advances potential first-ever treatment for primary CoQ10 deficiency appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "How Antioxidants Can Selectively Remove Some Senescent Cells",
-          "url": "https://lifespan.io/how-antioxidants-can-selectively-remove-some-senescent-cells/",
-          "domain": "lifespan.io",
-          "date": "2026-06-18T18:15:22.000Z",
-          "source": "Lifespan.io",
-          "summary": "In Aging Cell, researchers have described the way that antioxidants work against senescence in muscle cells by altering mTOR signaling. Senescent cells don’t sense nutrients properly Oxidative stress and mTOR signaling, which determines how cells respond to […]"
-        },
-        {
-          "title": "Corsair reports early success for pulmonary hypertension patch",
-          "url": "https://longevity.technology/news/corsair-reports-early-success-for-pulmonary-hypertension-patch/",
-          "domain": "longevity.technology",
-          "date": "2026-06-18T17:01:53.000Z",
-          "source": "Longevity.Technology",
-          "summary": "A once-daily patch could make one of pulmonary arterial hypertension’s most effective treatments easier for patients to live with. Growing older is often associated with slowing down, but for people living with pulmonary arterial hypertension (PAH), even simple activities can become exhausting long before old age arrives. The rare but devastating disease causes high blood […] The post Corsair reports early success for pulmonary hypertension patch appeared first on Longevity.Technology ."
         }
       ]
     },
@@ -187,6 +187,22 @@
         "https://phys.org/rss-feed/biology-news/biotechnology/"
       ],
       "articles": [
+        {
+          "title": "Q&A: Biological plastic recycling—from waste to raw material",
+          "url": "https://phys.org/news/2026-06-qa-biological-plastic-recycling-raw.html",
+          "domain": "phys.org",
+          "date": "2026-06-19T16:00:02.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "In the future, microorganisms could help return hard-to-recycle plastics to the recycling loop. Nick Wierckx, a molecular biologist at Jülich, explains the opportunities offered by biological recycling processes and the challenges of a truly circular economy."
+        },
+        {
+          "title": "Shining light into unhatched eggs could allow for chicken 'gender reveals'",
+          "url": "https://phys.org/news/2026-06-unhatched-eggs-chicken-gender-reveals.html",
+          "domain": "phys.org",
+          "date": "2026-06-19T15:00:01.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Scientists have demonstrated a noninvasive technique that uses light to reveal the hidden contents of chicken eggs, potentially helping to curb the meat industry's practice of killing billions of male chicks at birth. The study, published in Newton, found that when light enters an intact bird eggshell, it bounces back and forth many times, with photons traveling as far as 2 meters (6.6 feet) within a chicken egg's tiny, 4-centimeter (1.6-inch) interior."
+        },
         {
           "title": "BioHarness: Substrate-Aware Evidence Assembly for Biomedical Question Answering across Literature, Knowledge Bases, and Biological Atlases",
           "url": "https://arxiv.org/abs/2606.19396",
@@ -250,22 +266,6 @@
           "date": "2026-06-19T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2606.20096v1 Announce Type: cross Abstract: Tree-like structures appear in many areas of science, and their shapes can help understand the underlying processes they drive or that give rise to them. By thinking of these structures as geometric graphs in $\\mathbb{R}^3$, we gain access to tools from computational geometry and topology to study them. In this paper, we adopt the theory of quadratic forms to measure the directional spread of geometric graphs, and we introduce the hexplot model -- equipped with a metric derived from the Fisher metric on the standard triangle -- to visualize, measure, and collect statistics."
-        },
-        {
-          "title": "MedRLM: Recursive Multimodal Health Intelligence for Long-Context Clinical Reasoning, Sensor-Guided Screening, Evidence-Grounded Decision Support, and Community-to-Tertiary Referral Optimization",
-          "url": "https://arxiv.org/abs/2606.20164",
-          "domain": "arxiv.org",
-          "date": "2026-06-19T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2606.20164v1 Announce Type: cross Abstract: Real-world clinical decision support requires reasoning over heterogeneous and longitudinal patient information rather than answering isolated medical questions. However, current medical large language models and retrieval-augmented generation systems often rely on single-step prompting or retrieval, which can be fragile when clinical evidence is distributed across long electronic health records, medical images, sensor streams, guidelines, and referral constraints. This paper proposes MedRLM, a Recursive Multimodal Health Intelligence framework for long-context clinical reasoning, sensor-guided screening, and community-to-tertiary referral support. Instead of compressing all patient information into one prompt, MedRLM treats the patient case as an external clinical environment that can be recursively inspected, decomposed, retrieved, verified, and synthesized. The framework coordinates specialized agents for clinical text, longitudinal EHR, medical imaging, physiological sensor signals, guideline retrieval, uncertainty auditing, and referral planning. It further introduces a Clinical Evidence Graph Memory to connect patient-specific observations with retrieved evidence, standardized definitions, sensor-derived biomarkers, and referral criteria. A sensor-guided recursive triggering mechanism activates deeper reasoning when abnormal physiological or behavioral patterns are detected, while uncertainty-gated refinement supports clinician review for high-risk or low-confidence cases. We also outline a real-data evaluation design using public and credentialed clinical datasets spanning EHR, radiology, ECG, ICU time series, and referral-proxy outcomes. MedRLM aims to move medical AI from static question answering toward auditable, multimodal, and workflow-aware clinical decision support."
-        },
-        {
-          "title": "DeepForestVisionV2: Ecology-Driven Taxonomy Expansion for Camera-Trap Monitoring in African Tropical Forests",
-          "url": "https://arxiv.org/abs/2606.20223",
-          "domain": "arxiv.org",
-          "date": "2026-06-19T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2606.20223v1 Announce Type: cross Abstract: Camera-trap monitoring in African tropical forests increasingly extends beyond closed-canopy interiors to riverbanks, clearings, and park edges. Among available open tools for African forest camera-trap classification, DeepForestVision is the only one providing a matched offline workflow for both photographs and videos, and previous work showed that it outperformed other available baselines on a comparable benchmark. However, it was designed for closed-canopy, ground-level forest interiors and uses a 35-class prediction space that becomes too coarse when deployments encounter arboreal primates, birds, semi-aquatic taxa, or human-associated confounders such as livestock. We present DeepForestVisionV2, an ecology-driven expansion from 35 to 64 prediction classes (61 animal classes plus human, vehicle, and blank) designed to address three recurrent deployment gradients: vertical stratification, scene openness, and anthropogenic interfaces. DeepForestVisionV2 retains the same offline workflow and is trained on 1,535,010 photographs and 243,354 videos from multi-country African tropical-forest projects. Evaluation combines a cross-country cropped-photo validation set, used to assess robustness across sites and camera-trap settings, with three held-out Uganda video benchmarks spanning the targeted gradients. On the validation set, DeepForestVisionV2 reaches 0.86 accuracy, 0.82 macro-F1, and 0.81 balanced accuracy. On the deployment benchmarks, it preserves or improves baseline accuracy despite its harder classification task, while increasing the number of identified taxa from 22 to 29 in forest-interior videos and from 4 to 9 at riverbanks. In the park-edge use case, it raises accuracy from 0.62 to 0.86 and reduces false alarms from 11 to 0. These results show that DeepForestVisionV2 materially improves field utility while preserving robustness across sites, habitats, and camera-trap settings."
         }
       ]
     },
@@ -278,12 +278,52 @@
       ],
       "articles": [
         {
+          "title": "Andrew Tate loses nearly $86,000 longing and shorting Bitcoin",
+          "url": "https://cointelegraph.com/markets/andrew-tate-loses-nearly-86000-longing-and-shorting-bitcoin?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-19T15:05:10.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Andrew Tate’s Hyperliquid wallet shows over $803,800 in all-time perps losses after repeated crypto WLFI liquidations."
+        },
+        {
+          "title": "Aave survived $8.45B in withdrawals, but risk questions remain",
+          "url": "https://cointelegraph.com/learn/aave-defi-bank-run-lending-risk?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-19T15:00:00.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Aave handled $8.45 billion in withdrawals without freezing funds, but the episode raised fresh questions about hidden risks in DeFi lending."
+        },
+        {
+          "title": "Bitcoin taps $63K on Juneteenth as July Fed rate-hike odds near 40%",
+          "url": "https://cointelegraph.com/markets/bitcoin-taps-63k-on-juneteenth-as-july-fed-rate-hike-odds-near-40?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-19T14:31:40.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bitcoin price action avoided volatility but failed to bounce from local lows after a hawkish Fed meeting and posturing over Strait of Hormuz control from Iran."
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-19T14:09:17.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
+        {
           "title": "Two Texas brothers admit to $8 million crypto robbery after holding family at gunpoint, face up to 20 years in prison",
           "url": "https://www.theblock.co/post/405429/two-texas-brothers-admit-to-8-million-crypto-robbery-after-holding-family-at-gunpoint-face-up-to-20-years-in-prison?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
           "date": "2026-06-19T13:48:30.000Z",
           "source": "The Block",
           "summary": "Brothers Isiah and Raymond Garcia pleaded guilty to an armed $8 million crypto robbery and kidnapping in Minnesota."
+        },
+        {
+          "title": "Kalshi in early IPO talks with investment banks: Report",
+          "url": "https://cointelegraph.com/news/kalshi-early-ipo-talks-investment-banks-report?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-19T13:44:34.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The prediction market platform is reportedly exploring a public listing after surpassing $2 billion in annualized revenue as sports contracts face mounting legal scrutiny."
         },
         {
           "title": "Binance’s MiCA fight raises questions over ECB influence",
@@ -316,46 +356,6 @@
           "date": "2026-06-19T12:15:20.000Z",
           "source": "CoinTelegraph",
           "summary": "The exchange's Philippine return relies on an SEC sandbox arrangement that BlockShoals says permits trading access without a local VASP license."
-        },
-        {
-          "title": "Franklin Templeton proposes new ETFs that turn corporate dividends into bitcoin",
-          "url": "https://www.coindesk.com/daybook-us/2026/06/19/franklin-templeton-proposes-new-funds-that-turn-corporate-dividends-into-bitcoin",
-          "domain": "coindesk.com",
-          "date": "2026-06-19T11:27:59.000Z",
-          "source": "CoinDesk",
-          "summary": "Your day-ahead look for June 19, 2026"
-        },
-        {
-          "title": "Base targets June 25 mainnet launch for Beryl upgrade and new B20 token standard",
-          "url": "https://www.theblock.co/post/405410/base-targets-june-25-mainnet-launch-for-beryl-upgrade-and-new-b20-token-standard?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-19T10:48:52.000Z",
-          "source": "The Block",
-          "summary": "Base's Beryl upgrade introduces the B20 native token standard, cuts withdrawal delays to 5 days, and activates on mainnet June 25."
-        },
-        {
-          "title": "Smart-contract and DeFi coins lead losses as bitcoin wilts for 4th straight day",
-          "url": "https://www.coindesk.com/markets/2026/06/19/smart-contract-and-defi-coins-lead-losses-as-bitcoin-wilts-for-4th-straight-day",
-          "domain": "coindesk.com",
-          "date": "2026-06-19T10:47:03.000Z",
-          "source": "CoinDesk",
-          "summary": "Concerns about STRC, the dividend-paying preferred stock from Strategy continue to dominate market sentiment."
-        },
-        {
-          "title": "Bitcoin tipped for Q3 'macro bottom' near $50K as major liquidity grab looms",
-          "url": "https://cointelegraph.com/markets/bitcoin-tipped-for-q3-macro-bottom-near-50k-as-major-liquidity-grab-looms?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-19T10:44:28.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Bitcoin market participants may be left in \"complete disbelief\" as the market reverses from a liquidity grab without another major leg lower, a trader predicted."
-        },
-        {
-          "title": "‘Most difficult day in the history of digital credit’: Strive CEO says leverage liquidation drove STRC and SATA selloff",
-          "url": "https://www.theblock.co/post/405406/strive-ceo-strc-sata?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-19T10:32:36.000Z",
-          "source": "The Block",
-          "summary": "STRC and SATA, designed to trade near a $100 par value, fell significantly on Thursday before partially recovering."
         }
       ]
     }
