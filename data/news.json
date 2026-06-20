@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-20T17:48:57.252Z",
+  "updatedAt": "2026-06-20T19:43:06.026Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -103,7 +103,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-19T17:04:10.000Z",
           "source": "Lifespan.io",
-          "summary": "Scientists have targeted the thin fat layer around blood vessels with a transcription inhibitor, reducing symptoms of cardiometabolic disease [1]. When vessels can’t “just relax” Cardiometabolic disease (CMD) – characterized, among other […]"
+          "summary": "Scientists have targeted the thin fat layer around blood vessels with a transcription inhibitor, reducing symptoms of cardiometabolic disease [1]. […]"
         },
         {
           "title": "Human data validate Cambrian Bio’s aging target",
@@ -278,6 +278,22 @@
       ],
       "articles": [
         {
+          "title": "Bitcoin rotations into altcoins collapses: Have altseasons 'disappeared'?",
+          "url": "https://cointelegraph.com/markets/bitcoin-rotations-into-altcoins-collapses-have-altseasons-disappeared?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-20T19:09:21.000Z",
+          "source": "CoinTelegraph",
+          "summary": "BTC's crypto market dominance is holding above a key support, signaling Bitcoin may keep absorbing capital from altcoins and delay a broader altseason."
+        },
+        {
+          "title": "Charles Schwab is working with Cboe to launch S&P 500 ‘yes-or-no’ binary options contracts: WSJ",
+          "url": "https://www.theblock.co/post/405454/charles-schwab-is-working-with-cboe-to-launch-sp-500-yes-or-no-binary-options-contracts-wsj?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-20T19:06:25.000Z",
+          "source": "The Block",
+          "summary": "The binary contracts would mark the brokerage's first move into prediction-market-style products, a sector that Kalshi and Polymarket already dominate."
+        },
+        {
           "title": "Andre Cronje, two others resign from Sonic Labs board as S token trades 97% below its peak",
           "url": "https://www.theblock.co/post/405450/andre-cronje-two-others-resign-from-sonic-labs-board-as-s-token-trades-97-below-its-peak?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
@@ -340,22 +356,6 @@
           "date": "2026-06-20T01:41:39.000Z",
           "source": "CoinTelegraph",
           "summary": "Andre Cronje, Michael Kong and David Richardson stepped down from the Sonic Labs board on Friday, while Matt Visser has been appointed as CEO, replacing Mitchell Demeter who resigned in February."
-        },
-        {
-          "title": "Charles Schwab to enter prediction markets with S&P 500 wagers: WSJ",
-          "url": "https://cointelegraph.com/news/charles-schwab-prediction-markets-sp500-wagers?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-19T21:11:07.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The offering from the financial services company will reportedly only include yes-or-no bets on whether the S&P 500 closes above or below a target price."
-        },
-        {
-          "title": "Here’s what happened in crypto today",
-          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-19T21:00:00.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
         }
       ]
     }
