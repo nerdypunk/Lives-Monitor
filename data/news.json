@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-19T23:49:38.137Z",
+  "updatedAt": "2026-06-20T04:03:52.647Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -9,12 +9,12 @@
       ],
       "articles": [
         {
-          "title": "BioProtocol unveils OpenLabs platform at DeSci Berlin to merge AI with decentralized research funding - Bitget",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Ba2tMNGlMWkpWSmxIYjlUM2QzVUxvXzF4VE5IZkp4dGk3V1lqTzJzbEdmdGR0TWhwa0g1cktBY0JyLXNEMlY1MlBLWFJrNVFvR3hGbzdmc0dUNmNJYXJWT2YtNNIBY0FVX3lxTE5Ba2tMNGlMWkpWSmxIYjlUM2QzVUxvXzF4VE5IZkp4dGk3V1lqTzJzbEdmdGR0TWhwa0g1cktBY0JyLXNEMlY1MlBLWFJrNVFvR3hGbzdmc0dUNmNJYXJWT2YtNA?oc=5",
-          "domain": "bitget.com",
-          "date": "2026-06-19T21:19:51.000Z",
-          "source": "Bitget",
-          "summary": "BioProtocol unveils OpenLabs platform at DeSci Berlin to merge AI with decentralized research funding &nbsp;&nbsp; Bitget"
+          "title": "BioProtocol unveils OpenLabs platform at DeSci Berlin to merge AI with decentralized research funding - Crypto Briefing",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5sbkJNU3o3UENfWkVYZ2xfLTIxUDRTeWM0V2RlS0U3cUk5XzB5UGxIRXZZSkxSSVpwWl9mdV9panJEdjY2SGFMcHJmVFhVWXFhd2FKNDd4STRWUm9vSHppZU1uLTJlOVJoSW1abGxB?oc=5",
+          "domain": "cryptobriefing.com",
+          "date": "2026-06-19T15:30:59.000Z",
+          "source": "Crypto Briefing",
+          "summary": "BioProtocol unveils OpenLabs platform at DeSci Berlin to merge AI with decentralized research funding &nbsp;&nbsp; Crypto Briefing"
         },
         {
           "title": "NanoVita Joins ENI Super Node Ecosystem to Advance AI-Driven DeSci - Cryptonews.net",
@@ -103,7 +103,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-19T17:04:10.000Z",
           "source": "Lifespan.io",
-          "summary": "Scientists have targeted the thin fat layer around blood vessels with a transcription inhibitor, reducing symptoms of cardiometabolic disease [1]. When vessels can’t “just relax” Cardiometabolic disease (CMD) – […]"
+          "summary": "Scientists have targeted the thin fat layer around blood vessels with a transcription inhibitor, reducing symptoms of cardiometabolic disease [1]. When vessels can’t “just relax” Cardiometabolic disease […]"
         },
         {
           "title": "Human data validate Cambrian Bio’s aging target",
@@ -212,60 +212,60 @@
           "summary": "Scientists have demonstrated a noninvasive technique that uses light to reveal the hidden contents of chicken eggs, potentially helping to curb the meat industry's practice of killing billions of male chicks at birth. The study, published in Newton, found that when light enters an intact bird eggshell, it bounces back and forth many times, with photons traveling as far as 2 meters (6.6 feet) within a chicken egg's tiny, 4-centimeter (1.6-inch) interior."
         },
         {
-          "title": "BioHarness: Substrate-Aware Evidence Assembly for Biomedical Question Answering across Literature, Knowledge Bases, and Biological Atlases",
-          "url": "https://arxiv.org/abs/2606.19396",
-          "domain": "arxiv.org",
-          "date": "2026-06-19T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2606.19396v1 Announce Type: new Abstract: Motivation: Biomedical question answering often requires evidence beyond topically retrieved literature, including gene alias resolution, database identifier normalization, and atlas-derived biological measurements. However, existing retrieval-augmented generation (RAG) systems typically follow a fixed workflow and lack an explicit mechanism for deciding when retrieved text is sufficient, when curated biomedical knowledge is required, or when executable evidence assembly over structured measurements should be invoked. This motivates a substrate-aware large language model (LLM) harness that selectively assembles sufficient evidence across literature, knowledge bases, and biological atlases. Results: We introduce BioHarness, an LLM harness for staged biomedical evidence assembly across literature retrieval, curated biomedical knowledge resources, and atlas-derived structured measurements. BioHarness first attempts to answer from reranked literature evidence and escalates through grounded cascade control to REPL-style evidence assembly only when the current evidence is uncertain, weakly grounded, or substrate-mismatched. Across 19,302 biomedical QA items spanning seven answer formats, BioHarness improves the pooled score from 65.9 to 71.0 over the strongest non-oracle baseline. Ablations, case studies, and backbone-scaling analyses show that these gains arise from repairing evidence-substrate mismatches through reranking, entity grounding, and structured measurement access, rather than from indiscriminately invoking more reasoning steps, retrieving additional literature, or relying on a particular answer-model scale."
+          "title": "Optimized R2 retroelement complexes for DNA insertion into plant genomes",
+          "url": "https://www.nature.com/articles/s41587-026-03197-y",
+          "domain": "nature.com",
+          "date": "2026-06-19T00:00:00.000Z",
+          "source": "Nature Biotechnology",
+          "summary": "Nature Biotechnology, Published online: 19 June 2026; doi:10.1038/s41587-026-03197-y R2 retrotransposons are used to integrate DNA into plant and crop 25S ribosomal DNA sites."
         },
         {
-          "title": "Multi-type branching inference on contact trees with application to COVID-19",
-          "url": "https://arxiv.org/abs/2606.19405",
-          "domain": "arxiv.org",
-          "date": "2026-06-19T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2606.19405v1 Announce Type: new Abstract: Inferring epidemiological parameters from transmission trees is essential for understanding infectious disease dynamics. Existing tree-based likelihood methods, including the multi-type birth-death models originally applied in phylodynamic settings, provide powerful tools, but most assume homogeneous mixing and rarely capture how transmission potential changes as an individual infects more of their contacts. In this work, we develop a likelihood framework that operates directly on transmission trees, in which nodes are individuals and edges are reported transmission events, with no sequence data involved. We derive a likelihood for a stochastic SIR process on a rooted contact tree in which each infected individual is characterised by the total number of effective contacts, and the number of already infected downstream contacts. We obtain closed-form ordinary differential equations for the probability that a clade goes entirely unobserved and for the probability density that it produces an observed (sampled) tip in a given state. The resulting likelihood can be evaluated for a rooted contact tree with known tip states, and we extend it to partially resolved trees by treating internal branching times as latent variables. Validation on simulated outbreaks confirms accurate parameter recovery and well calibrated uncertainty. Application to empirical COVID-19 contact-tracing data from Karnataka, India, demonstrates the framework's utility for real epidemiological settings. By incorporating contact-degree heterogeneity in a multi-type branching likelihood, our work provides a principled baseline for inferring both transmission dynamics and contact structure from fully or partially resolved transmission trees, complementing rather than relying on sequence-based phylodynamic inference"
+          "title": "Efficient site-specific gene addition using R2 retrotransposons in tobacco and rice",
+          "url": "https://www.nature.com/articles/s41587-026-03181-6",
+          "domain": "nature.com",
+          "date": "2026-06-19T00:00:00.000Z",
+          "source": "Nature Biotechnology",
+          "summary": "Nature Biotechnology, Published online: 19 June 2026; doi:10.1038/s41587-026-03181-6 Retrotransposons are applied in plants for safe-harbor transgene integration."
         },
         {
-          "title": "Robust probabilistic measurement of structural-functional module consistency in infant brain development",
-          "url": "https://arxiv.org/abs/2606.19739",
-          "domain": "arxiv.org",
-          "date": "2026-06-19T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2606.19739v1 Announce Type: new Abstract: Brain network is commonly divided into modules for analyzing their functionally segregated roles for group-level analysis in neuroimaging studies. Here, we introduce stochastic modules within brain networks for a robust probabilistic measurement of structural-functional module consistency (SFMC) in a group of subjects. Specifically, a stochastic module can be regarded as the chance of a brain region across subjects potentially being assigned to a group-level sub-network, characterized as an assignment probability for this brain region. This novel method has two advantages for evaluating inhomogeneous modules in brain networks. The first is that it can robustly evaluate the consistency between brain structural and functional modules whose population sizes are not necessary the same, and the second is that it is able to take into account the inter-individual variability of the modules for the groups. Moreover, compared with the conventional structural-functional coupling approach, our stochastic module-based method reveals a more pronounced decline in the coupling between structure and function, indicating stronger developmental reorganization. Our results using the dataset from Baby Connectome Project (BCP) show that the SFMC decreases from 0 to 5 years old, and is greater in primary brain regions, such as visual areas, while lower in more advanced cognitive regions, including those related to attention, control, and default mode network."
+          "title": "LipidCruncher platform makes molecular data analysis more transparent and reproducible",
+          "url": "https://phys.org/news/2026-06-lipidcruncher-platform-molecular-analysis-transparent.html",
+          "domain": "phys.org",
+          "date": "2026-06-18T17:20:01.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Scientists studying lipids—the fatty molecules that store energy, make up cell membranes and act as signals—produce enormous amounts of information. A single experiment can detect thousands of different lipid molecules, generating long lists of measurements. But knowing what the results mean and being able to retrace how scientists moved from raw data to their conclusions isn't always easy."
         },
         {
-          "title": "Oscillations and Spatial Patterns in Large-Scale Stochastic Gene Regulatory Networks",
-          "url": "https://arxiv.org/abs/2606.19762",
-          "domain": "arxiv.org",
-          "date": "2026-06-19T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2606.19762v1 Announce Type: new Abstract: Gene regulatory networks (GRNs) are fundamental to cellular growth and tissue formation, orchestrating spatially and temporally regulated gene expression during development. These networks are inherently subject to intrinsic fluctuations arising from molecular noise, making the analysis of their stability essential for understanding robust pattern formation and developmental dynamics of the organism. In this study, we analyze the stability and dynamics of cyclic GRNs with negative feedback and diffusion, considering both deterministic and stochastic approaches. In the deterministic case, the system exhibits a bifurcation between stability and instability, leading to Hopf instability in the absence of diffusion and to Turing-Hopf instability when diffusion is included. It was observed that the discretization of the spatial domain introduces additional unstable modes, enabling a wider range of patterns. The stochastic framework based on the second-moment approach, which incorporates intrinsic fluctuations, reveals that for small system sizes, fluctuations can dominate the dynamics and induce stochastic Turing instability, even when the system is stable in the absence of diffusion. Notably, Turing instabilities can emerge even when all variables have the same diffusion rate. The developed framework provides a systematic method for analyzing the stability of high-dimensional stochastic systems with diffusion, thereby simplifying the prediction of Turing and Turing-Hopf instabilities. These findings contribute to a deeper understanding of the complex dynamics and pattern formation in GRNs, with potential implications for biological processes, such as cellular differentiation and development."
+          "title": "Beyond bread and beer, alluring yeast species could yield new mosquito traps to combat malaria",
+          "url": "https://phys.org/news/2026-06-bread-beer-alluring-yeast-species.html",
+          "domain": "phys.org",
+          "date": "2026-06-18T13:00:01.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "An orange-colored yeast species isolated from a Baltimore sidewalk several years ago could be the basis of eco-friendly mosquito traps that reduce malaria transmission, according to a new study from researchers at the Johns Hopkins Bloomberg School of Public Health."
         },
         {
-          "title": "bioETH-Beacon: A Confidential On-Chain Genomic Beacon with Encrypted Counts, Filters, and Bounded Noise over a Fully Homomorphic EVM",
-          "url": "https://arxiv.org/abs/2606.20315",
-          "domain": "arxiv.org",
-          "date": "2026-06-19T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2606.20315v1 Announce Type: new Abstract: The Global Alliance for Genomics and Health (GA4GH) Beacon protocol lets researchers ask whether a genomic variant has been observed in a participating cohort and receive aggregate variant-level counts. As Beacon networks grow, two privacy risks remain: host institutions can see plaintext queries, and repeated rare-variant queries can support membership-inference attacks. We present bioETH-Beacon, a smart-contract prototype that runs the Beacon \"aggregate count\" query over encrypted data on a fully homomorphic Ethereum Virtual Machine (fhEVM). Hospitals upload encrypted marker-count entries, authorized researchers submit encrypted marker queries, and the contract returns an encrypted answer that is released, via an off-chain key-management service, only to the requester named in the contract's on-chain ACL. The design is organized as a 3x4 tier-by-query-family grid spanning genotype, sex, age, and phenotype queries, with tiers that trade stronger confidentiality for lower query cost. For genotype paths, the prototype can add bounded on-chain noise to mitigate probing attacks. Experiments on synthetic panels derived from a Polygenic Score (PGS) catalog show the expected scaling behavior and demonstrate that pre-aggregation can substantially reduce query gas when public marker presence is an acceptable trade-off. Overall, bioETH-Beacon provides a research prototype for confidential Beacon-style genomic querying without a trusted compute evaluator."
+          "title": "Publisher Correction: Lung and liver editing by lipid nanoparticle delivery of a stable CRISPR–Cas9 ribonucleoprotein",
+          "url": "https://www.nature.com/articles/s41587-026-03221-1",
+          "domain": "nature.com",
+          "date": "2026-06-18T00:00:00.000Z",
+          "source": "Nature Biotechnology",
+          "summary": "Nature Biotechnology, Published online: 18 June 2026; doi:10.1038/s41587-026-03221-1 Publisher Correction: Lung and liver editing by lipid nanoparticle delivery of a stable CRISPR–Cas9 ribonucleoprotein"
         },
         {
-          "title": "West Nile virus outbreak in Italy modelled with the quantum Game of Life",
-          "url": "https://arxiv.org/abs/2606.20489",
-          "domain": "arxiv.org",
-          "date": "2026-06-19T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2606.20489v1 Announce Type: new Abstract: In the last years, an anomalously high spreading of West Nile virus (WNV) has been observed in Italy, with particularly high peaks of infections in southern Lazio, Campania and Veneto regions. The main disease vector for WNV is represented by Culex pipiens mosquitoes, which spread human infections through their bites. Here, we investigate WNV fever epidemic diffusion during summer season 2025 in Italy through a computational approach based on a quantum version of the Game of Life (GOL) cellular automaton model. Specifically, human dynamics evolves according to the GOL rules, while stochastic dynamics of disease vectors, i.e., mosquitoes, as well as their interaction with humans, simultaneously occur. We show that this model fits the curves of cumulative infected individuals with high accuracy, either at local and average-regional level, with only optimization of mosquito birth and removal rates parameters. Furthermore, leveraging model flexibility, we show that changes in model parameters values elucidate system response to environmental variations. For instance, we quantify, e.g., the impact of mosquito spreading containment measures or sudden mosquito increasing abundance due to climatic and ecological changes. Overall, we provide a general, quantitative description of WNV infection spreading in Italy which could represent a supportive tool to test different environmental scenarios and could be useful to devise strategies for decision makers to monitor disease vector dynamics and to control consequent virus diffusion."
+          "title": "Bringing ancient light-sensing proteins back to life",
+          "url": "https://phys.org/news/2026-06-ancient-proteins-life.html",
+          "domain": "phys.org",
+          "date": "2026-06-17T17:20:07.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Resurrecting dinosaurs using DNA retrieved from a mosquito trapped in amber is a great movie plot, though it's less likely to happen in the real world. However, researchers have been trying to unlock the secrets behind the evolution of a single protein family to understand the evolution of ancestral proteins."
         },
         {
-          "title": "PepALD: Macrocyclic Peptide Generation via Autoregressive Latent Diffusion",
-          "url": "https://arxiv.org/abs/2606.14510",
-          "domain": "arxiv.org",
-          "date": "2026-06-19T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2606.14510v1 Announce Type: cross Abstract: Macrocyclic peptides are promising therapeutic candidates for intracellular targets, but their design requires simultaneous control over non-natural monomer chemistry, ring topology, membrane permeability, and target binding. Existing SMILES- or HELM-string generative models either operate in long atom-level sequence spaces or treat monomers as symbolic tokens with limited chemical grounding. We introduce PepALD, an Autoregressive Latent Diffusion (ALD) foundation model for \\textit{de novo} macrocyclic peptide generation. The model represents HELM monomers with structured chemical embeddings, generates each residue through context-conditioned diffusion in chemically informed latent space, predicts R-group-aware ring closures during autoregressive generation, and aligns the denoiser to affinity rewards using winner-protected diffusion-adapted preference optimization. In silico experiments demonstrate PepALD's generation quality and reward-optimization performance against representative peptide generation baselines."
+          "title": "New swine influenza vaccination technique can greatly strengthen disease protection",
+          "url": "https://phys.org/news/2026-06-swine-influenza-vaccination-technique-greatly.html",
+          "domain": "phys.org",
+          "date": "2026-06-17T17:00:06.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Husker scientists have developed a new swine influenza vaccination technique whose low cost and adaptability can greatly strengthen disease protection."
         }
       ]
     },
@@ -277,6 +277,14 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "S token drops 5% as 3 former execs resign from Sonic Labs board",
+          "url": "https://cointelegraph.com/news/s-token-drops-5-as-3-former-execs-resign-from-sonic-labs-board?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-20T01:41:39.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Andre Cronje, Michael Kong and David Richardson stepped down from the Sonic Labs board on Friday, while Matt Visser has been appointed as CEO, replacing Mitchell Demeter who resigned in February."
+        },
         {
           "title": "Charles Schwab to enter prediction markets with S&P 500 wagers: WSJ",
           "url": "https://cointelegraph.com/news/charles-schwab-prediction-markets-sp500-wagers?utm_source=rss&utm_medium=rss&utm_campaign=rss",
@@ -348,14 +356,6 @@
           "date": "2026-06-19T17:03:40.000Z",
           "source": "CoinTelegraph",
           "summary": "Bitcoin miners double down on AI, tokenized RWAs top $43 billion, Ripple strengthens its African payments network and Sam Bankman-Fried loses his appeal."
-        },
-        {
-          "title": "Andrew Tate loses nearly $86,000 longing and shorting Bitcoin",
-          "url": "https://cointelegraph.com/markets/andrew-tate-loses-nearly-86000-longing-and-shorting-bitcoin?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-19T15:05:10.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Andrew Tate’s Hyperliquid wallet shows over $803,800 in all-time perps losses after repeated crypto WLFI liquidations."
         }
       ]
     }
