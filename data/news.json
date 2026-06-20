@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-20T12:19:08.880Z",
+  "updatedAt": "2026-06-20T14:41:58.545Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -8,6 +8,14 @@
         "https://news.google.com/rss/search?q=DeSci%20OR%20%22decentralized%20science%22%20OR%20%22BIO%20Protocol%22&hl=en-US&gl=US&ceid=US:en"
       ],
       "articles": [
+        {
+          "title": "Bio Protocol launches AI research hub to challenge grant gatekeepers - crypto.news",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNFh5NE1hUkt5RnVBaFFuVU1HYzgxZzBkU0huOXprTVpRV0xWVDJjZEF3LUtqNkZWWDZVU0E5Wm16ZHljR0dYanI2eDZnYnVCQVA0UzJMTmNQekFtMXhxbTRmWmU0cVBfczBKTURTZ0Jnc2s3QkFMdVpuNlNyeks1azhVUHpHYkNQbno0ZGR6aVZuY2c?oc=5",
+          "domain": "crypto.news",
+          "date": "2026-06-20T12:53:08.000Z",
+          "source": "crypto.news",
+          "summary": "Bio Protocol launches AI research hub to challenge grant gatekeepers &nbsp;&nbsp; crypto.news"
+        },
         {
           "title": "BioProtocol unveils OpenLabs platform at DeSci Berlin to merge AI with decentralized research funding - Crypto Briefing",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5sbkJNU3o3UENfWkVYZ2xfLTIxUDRTeWM0V2RlS0U3cUk5XzB5UGxIRXZZSkxSSVpwWl9mdV9panJEdjY2SGFMcHJmVFhVWXFhd2FKNDd4STRWUm9vSHppZU1uLTJlOVJoSW1abGxB?oc=5",
@@ -79,14 +87,6 @@
           "date": "2026-05-04T06:44:54.000Z",
           "source": "Yellow.com",
           "summary": "DeSci Has Raised Millions For Research No VC Would Ever Touch &nbsp;&nbsp; Yellow.com"
-        },
-        {
-          "title": "Bio Protocol Jumps 53.85% in Intraday Trading - bloomingbit",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TN0RaS1ExWkVmU1FzMXlsRUJQVmZhQ2lnNEdfcFVVMEloWHFuS3VDdnd5SlpLakNvNzIxdld1LTY5VWlVX2c4U2pZaUlTaHZybXUwag?oc=5",
-          "domain": "en.bloomingbit.io",
-          "date": "2026-05-02T07:00:00.000Z",
-          "source": "bloomingbit",
-          "summary": "Bio Protocol Jumps 53.85% in Intraday Trading &nbsp;&nbsp; bloomingbit"
         }
       ]
     },
@@ -103,79 +103,79 @@
           "domain": "lifespan.io",
           "date": "2026-06-19T17:04:10.000Z",
           "source": "Lifespan.io",
-          "summary": "Scientists have targeted the thin fat layer around blood vessels with a transcription inhibitor, reducing symptoms of cardiometabolic disease [1]. When vessels can’t “just relax” Cardiometabolic disease (CMD) – characterized, among other things, by obesity combined with high blood […]"
+          "summary": "Scientists have targeted the thin fat layer around blood vessels with a transcription inhibitor, reducing symptoms of cardiometabolic disease [1]. When vessels […]"
         },
         {
-          "title": "How Antioxidants Can Selectively Remove Some Senescent Cells",
-          "url": "https://lifespan.io/how-antioxidants-can-selectively-remove-some-senescent-cells/",
-          "domain": "lifespan.io",
-          "date": "2026-06-18T18:15:22.000Z",
-          "source": "Lifespan.io",
-          "summary": "In Aging Cell, researchers have described the way that antioxidants work against senescence in muscle cells by altering mTOR signaling. Senescent […]"
+          "title": "Human data validate Cambrian Bio’s aging target",
+          "url": "https://longevity.technology/news/human-data-validate-cambrian-bios-aging-target/",
+          "domain": "longevity.technology",
+          "date": "2026-06-19T15:25:21.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Positive Phase 1b results for ATX-304 suggest scientists may finally be able to restore a key metabolic pathway that declines with age. There are few ideas in aging biology that have generated as much excitement (and as much disappointment) as AMPK. Researchers have viewed this cellular pathway as one of the body’s most important regulators […] The post Human data validate Cambrian Bio’s aging target appeared first on Longevity.Technology ."
         },
         {
-          "title": "Late-Life Gene Therapy Boosts Lifespan in Mice by 20%",
-          "url": "https://lifespan.io/late-life-gene-therapy-boosts-lifespan-in-mice-by-20/",
-          "domain": "lifespan.io",
-          "date": "2026-06-16T16:24:07.000Z",
-          "source": "Lifespan.io",
-          "summary": "In a new study, muscle-targeted viral-vector-based delivery of the protein FGF21 significantly increased median lifespan in male mice and improved many healthspan […]"
+          "title": "Istesso advances regenerative approach to muscle loss",
+          "url": "https://longevity.technology/news/istesso-advances-regenerative-approach-to-muscle-loss/",
+          "domain": "longevity.technology",
+          "date": "2026-06-19T15:17:24.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Phase 2 trial of leramistat targets sarcopenia, a major driver of frailty and loss of independence in later life. Longevity is teaching us that preserving muscle may be just as important as extending lifespan. London-based regenerative medicine company Istesso has announced the start of a Phase 2 clinical trial of its lead candidate leramistat in […] The post Istesso advances regenerative approach to muscle loss appeared first on Longevity.Technology ."
         },
         {
-          "title": "How Senescent Cells Grow the Homes of Cancerous Tumors",
-          "url": "https://lifespan.io/how-senescent-cells-grow-the-homes-of-cancerous-tumors/",
-          "domain": "lifespan.io",
-          "date": "2026-06-15T19:57:28.000Z",
-          "source": "Lifespan.io",
-          "summary": "A team of reviewers has taken a look at the relationship between cancer, cellular senescence, and vascular overgrowth and published this information in Aging Cell. Different gut cancers form through different […]"
+          "title": "AU-based Everlab bags $42m to make preventive care accessible",
+          "url": "https://longevity.technology/news/au-based-everlab-bags-42m-to-make-preventive-care-accessible/",
+          "domain": "longevity.technology",
+          "date": "2026-06-19T14:26:14.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Australian healthtech Everlab has raised $42 million to expand its preventative healthcare platform, aiming to stop disease before it starts. Healthcare has long excelled at responding to emergencies. Heart attack? There’s a protocol. Cancer diagnosis? There are specialists, treatments and care pathways. However, what happens before those moments arrive has often received far less attention. […] The post AU-based Everlab bags $42m to make preventive care accessible appeared first on Longevity.Technology ."
         },
         {
-          "title": "Inducing NREM-Like Neuronal Patterns Mimics Sleep Benefits",
-          "url": "https://lifespan.io/inducing-nrem-like-neuronal-patterns-mimics-sleep-benefits/",
-          "domain": "lifespan.io",
-          "date": "2026-06-11T19:24:26.000Z",
-          "source": "Lifespan.io",
-          "summary": "Scientists have “faked” sleep in mice by artificially creating the on/off neuronal firing pattern similar to that seen in non-REM sleep. This produced sleep-like effects, including improved learning memory [1]. Can sleep be emulated? […]"
+          "title": "Human Continuum raises $5.1m to advance exosome platform",
+          "url": "https://longevity.technology/news/human-continuum-raises-5-1m-to-advance-exosome-platform/",
+          "domain": "longevity.technology",
+          "date": "2026-06-19T13:08:07.000Z",
+          "source": "Longevity.Technology",
+          "summary": "New funding will support development of regenerative therapies and diagnostics aimed at extending healthspan. A growing number of longevity companies are foreseeing that the future of medicine lies not only in treating disease, but in helping the body repair itself. Human Continuum is the latest to attract investor backing for that vision. The company announced […] The post Human Continuum raises $5.1m to advance exosome platform appeared first on Longevity.Technology ."
         },
         {
-          "title": "The Immune System Maintains the Microbiome",
-          "url": "https://lifespan.io/the-immune-system-maintains-the-microbiome/",
-          "domain": "lifespan.io",
-          "date": "2026-06-10T17:17:32.000Z",
-          "source": "Lifespan.io",
-          "summary": "In a recent paper, researchers have proposed that the immune system and immune surveillance play a central role in maintaining microbial composition […]"
+          "title": "The homing instinct: why most stem cells get lost",
+          "url": "https://longevity.technology/news/the-homing-instinct-why-most-stem-cells-get-lost/",
+          "domain": "longevity.technology",
+          "date": "2026-06-19T09:57:03.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Stress-enduring cells offer a precision, homing-based alternative to the erratic, shotgun approaches of traditional stem cell therapies. The regenerative medicine industry has a confession it would rather not make. For all the promise of stem cell therapy – the glossy clinics, the breathless testimonials, the eye-watering price tags – the majority of cells injected intravenously […] The post The homing instinct: why most stem cells get lost appeared first on Longevity.Technology ."
         },
         {
-          "title": "How Gut Bacteria Affect Lung Fibrosis",
-          "url": "https://lifespan.io/how-gut-bacteria-affect-lung-fibrosis/",
-          "domain": "lifespan.io",
-          "date": "2026-06-09T21:04:41.000Z",
-          "source": "Lifespan.io",
-          "summary": "In Aging Cell, researchers have described how a strain of Lactobacillus gut bacteria sends chemical signals that enter the bloodstream and decrease fibrosis in the lungs. The gut-lung axis […]"
+          "title": "Insilico and Hygtia test new brain-penetrating drug in healthy adults",
+          "url": "https://longevity.technology/news/insilico-and-hygtia-test-new-brain-penetrating-drug-in-healthy-adults/",
+          "domain": "longevity.technology",
+          "date": "2026-06-19T09:51:12.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Insilico Medicine announced completion of first-in-human dosing in the Phase 1 clinical study of ISM8969, an orally available, brain-penetrant small-molecule NLRP3 inhibitor being developed for chronic neuroinflammation and central nervous system disorders including Parkinson’s disease. The single-center, randomized, double-blind, placebo-controlled trial in Australia includes single ascending dose and multiple ascending dose cohorts and will evaluate […] The post Insilico and Hygtia test new brain-penetrating drug in healthy adults appeared first on Longevity.Technology ."
         },
         {
-          "title": "TimePie Longevity Forum Spotlights Evidence-Based Medicine",
-          "url": "https://lifespan.io/timepie-longevity-forum-spotlights-evidence-based-medicine/",
-          "domain": "lifespan.io",
-          "date": "2026-06-09T16:00:41.000Z",
-          "source": "Lifespan.io",
-          "summary": "As longevity moves from laboratory promise toward clinical validation, China is emerging as one of the largest demand bases shaping the field’s next phase. On September 12–13, 2026, […]"
+          "title": "Oligomerix wins $1.9m NIH grant to advance Alzheimer’s drug safety trials",
+          "url": "https://longevity.technology/news/oligomerix-wins-1-9m-nih-grant-to-advance-alzheimers-drug-safety-trials/",
+          "domain": "longevity.technology",
+          "date": "2026-06-19T09:46:12.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Oligomerix has received a $1.9 million Phase II Small Business Innovation Research Fast-Track award from the National Institute on Aging of the National Institutes of Health to fund nonclinical safety studies required to support a planned Phase 1b study of OLX-07010 in Alzheimer’s patients. The award will support a 13-week dosing study in a non-rodent […] The post Oligomerix wins $1.9m NIH grant to advance Alzheimer’s drug safety trials appeared first on Longevity.Technology ."
         },
         {
-          "title": "Fighting Parkinson’s by Restoring Protein Degradation",
-          "url": "https://lifespan.io/fighting-parkinsons-by-restoring-protein-degradation/",
-          "domain": "lifespan.io",
-          "date": "2026-06-08T17:54:43.000Z",
-          "source": "Lifespan.io",
-          "summary": "Researchers have explained how a protein found in both yeast and humans facilitates the destruction of the core protein responsible for Parkinson’s disease. An aggregate that impairs […]"
+          "title": "Cambrian Bio reports positive early human trial results for prediabetes drug",
+          "url": "https://longevity.technology/news/cambrian-bio-reports-positive-early-human-trial-results-for-prediabetes-drug/",
+          "domain": "longevity.technology",
+          "date": "2026-06-19T09:41:12.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Cambrian Bio presented Phase 1b human translational data for ATX-304 at the American Diabetes Association’s 86th Scientific Sessions, held 5–8 June 2026, in New Orleans. The company claims ATX-304 is the first AMPK Network Activator in clinical development and that its mechanism increases cellular glucose uptake and mitochondrial respiration to raise whole-body metabolic rate. The […] The post Cambrian Bio reports positive early human trial results for prediabetes drug appeared first on Longevity.Technology ."
         },
         {
-          "title": "Neurons’ Protein Disposal Trick Offers Alzheimer’s Insights",
-          "url": "https://lifespan.io/neurons-protein-disposal-trick-offers-alzheimers-insights/",
-          "domain": "lifespan.io",
-          "date": "2026-06-05T14:49:43.000Z",
-          "source": "Lifespan.io",
-          "summary": "According to a new study, a special protein disposal system, currently found only in neurons, is linked to central hallmarks of Alzheimer’s disease […]"
+          "title": "NorthStrive files patents for drugs to protect muscle during weight loss",
+          "url": "https://longevity.technology/news/northstrive-files-patents-for-drugs-to-protect-muscle-during-weight-loss/",
+          "domain": "longevity.technology",
+          "date": "2026-06-19T09:36:12.000Z",
+          "source": "Longevity.Technology",
+          "summary": "NorthStrive Biosciences, a PMGC Holdings Inc. subsidiary, filed two U.S. patent applications on June 18, 2026, seeking human-use claims for EL-22 and EL-32 to preserve lean muscle mass during GLP-1 and other obesity-related weight loss therapies. The filings, assigned U.S. Patent Application Nos. 19/709,895 (EL-22) and 19/709,950 (EL-32), expand the company’s intellectual property from animal […] The post NorthStrive files patents for drugs to protect muscle during weight loss appeared first on Longevity.Technology ."
         }
       ]
     },
@@ -187,6 +187,14 @@
         "https://phys.org/rss-feed/biology-news/biotechnology/"
       ],
       "articles": [
+        {
+          "title": "Novel generative AI model enables atomic-scale prediction of protein-protein interactions",
+          "url": "https://phys.org/news/2026-06-generative-ai-enables-atomic-scale.html",
+          "domain": "phys.org",
+          "date": "2026-06-20T14:00:01.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Proteins are the molecular workhorses of the human body. They perform a vast range of essential functions, from building tissues and transporting molecules to regulating cellular communication and defending against infection. Many medicines, including antibody therapies for cancer and insulin therapy for diabetes, among many others, work by interacting with specific proteins or by replacing proteins that are missing or malfunctioning. Because proteins carry out so many critical biological tasks, the ability to predict and engineer how they interact with one another could open new possibilities for treating disease."
+        },
         {
           "title": "AI reveals unexpected source of antibiotic candidates in prion proteins",
           "url": "https://phys.org/news/2026-06-ai-reveals-unexpected-source-antibiotic.html",
@@ -258,14 +266,6 @@
           "date": "2026-06-17T17:20:07.000Z",
           "source": "Phys.org Biotechnology",
           "summary": "Resurrecting dinosaurs using DNA retrieved from a mosquito trapped in amber is a great movie plot, though it's less likely to happen in the real world. However, researchers have been trying to unlock the secrets behind the evolution of a single protein family to understand the evolution of ancestral proteins."
-        },
-        {
-          "title": "New swine influenza vaccination technique can greatly strengthen disease protection",
-          "url": "https://phys.org/news/2026-06-swine-influenza-vaccination-technique-greatly.html",
-          "domain": "phys.org",
-          "date": "2026-06-17T17:00:06.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Husker scientists have developed a new swine influenza vaccination technique whose low cost and adaptability can greatly strengthen disease protection."
         }
       ]
     },
@@ -278,12 +278,20 @@
       ],
       "articles": [
         {
+          "title": "How STRC lost its par: The timeline behind Strategy's preferred-stock meltdown",
+          "url": "https://www.coindesk.com/markets/2026/06/20/how-strc-lost-its-par-the-timeline-behind-strategy-s-preferred-stock-meltdown",
+          "domain": "coindesk.com",
+          "date": "2026-06-20T13:00:00.000Z",
+          "source": "CoinDesk",
+          "summary": "From a bond buyback and dwindling cash reserves to a bitcoin bear market, the sequence of events that turned STRC's par-value challenge into a marketwide debate."
+        },
+        {
           "title": "Pudgy Penguins expands retail footprint with Target trading card rollout",
           "url": "https://cointelegraph.com/news/pudgy-penguins-expands-retail-footprint-with-target-trading-card-rollout?utm_source=rss&utm_medium=rss&utm_campaign=rss",
           "domain": "cointelegraph.com",
           "date": "2026-06-20T11:49:02.000Z",
           "source": "CoinTelegraph",
-          "summary": "The NFT-born franchise is bringing its Vibes Series 3 trading cards to Target stores across the United States as it expands into physical products and mainstream retail."
+          "summary": "The NFT-born franchise is bringing its Vibes Series 3 trading cards to Target stores across the US as it expands into physical products and mainstream retail."
         },
         {
           "title": "Philippine SEC signals readiness for RWA tokenization",
@@ -348,14 +356,6 @@
           "date": "2026-06-19T18:30:21.000Z",
           "source": "CoinTelegraph",
           "summary": "The bill did not specifically bar members of the US Congress from using the platforms or making sports bets, but prohibited policy wagers."
-        },
-        {
-          "title": "Schwab to join prediction markets race with S&P 500 event-based options: WSJ",
-          "url": "https://www.coindesk.com/markets/2026/06/19/schwab-to-join-prediction-markets-race-with-s-and-p-500-event-based-options-wsj",
-          "domain": "coindesk.com",
-          "date": "2026-06-19T17:51:12.000Z",
-          "source": "CoinDesk",
-          "summary": "The planned offering would let customers bet on index moves as Coinbase and Robinhood expand in the sector."
         }
       ]
     }
