@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-20T04:03:52.647Z",
+  "updatedAt": "2026-06-20T07:58:36.635Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -20,7 +20,7 @@
           "title": "NanoVita Joins ENI Super Node Ecosystem to Advance AI-Driven DeSci - Cryptonews.net",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTeHF5X2owYXY0WXF1SjQzVjlkRGU3NG11UHMtaEJwUmZKRXlzTGtGTjhVem5IdGxIOFFYc1FzLWNXVzJaNVZ2MzNDcGQzWFd1UFZVVUdxaXJDWG5D?oc=5",
           "domain": "cryptonews.net",
-          "date": "2026-06-07T10:09:56.000Z",
+          "date": "2026-06-07T07:00:00.000Z",
           "source": "Cryptonews.net",
           "summary": "NanoVita Joins ENI Super Node Ecosystem to Advance AI-Driven DeSci &nbsp;&nbsp; Cryptonews.net"
         },
@@ -103,7 +103,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-19T17:04:10.000Z",
           "source": "Lifespan.io",
-          "summary": "Scientists have targeted the thin fat layer around blood vessels with a transcription inhibitor, reducing symptoms of cardiometabolic disease [1]. When vessels can’t “just relax” Cardiometabolic disease […]"
+          "summary": "Scientists have targeted the thin fat layer around blood vessels with a transcription inhibitor, reducing symptoms of cardiometabolic disease [1]. When vessels can’t “just […]"
         },
         {
           "title": "Human data validate Cambrian Bio’s aging target",
@@ -278,6 +278,22 @@
       ],
       "articles": [
         {
+          "title": "Philippine SEC signals readiness for RWA tokenization",
+          "url": "https://cointelegraph.com/news/philippine-sec-rwa-tokenization-readiness?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-20T07:05:20.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Philippine SEC Commissioner Rogelio Quevedo told Cointelegraph that tokenized assets could give Filipinos more legitimate investment options while helping steer them away from scams."
+        },
+        {
+          "title": "Crypto kidnappers who robbed a Minnesota family of $8M plead guilty",
+          "url": "https://cointelegraph.com/news/crypto-kidnappers-who-robbed-a-minnesota-family-of-8m-plead-guilty?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-20T05:12:43.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Two Texas brothers admitted to holding a Minnesota family at gunpoint and forcing the transfer of $8 million in cryptocurrency."
+        },
+        {
           "title": "S token drops 5% as 3 former execs resign from Sonic Labs board",
           "url": "https://cointelegraph.com/news/s-token-drops-5-as-3-former-execs-resign-from-sonic-labs-board?utm_source=rss&utm_medium=rss&utm_campaign=rss",
           "domain": "cointelegraph.com",
@@ -340,22 +356,6 @@
           "date": "2026-06-19T17:47:02.000Z",
           "source": "The Block",
           "summary": "\"We expect CME will seek a preliminary injunction to block perps as the case proceeds,\" said TD Cowen's Jaret Seiberg."
-        },
-        {
-          "title": "Bitcoin traders expect new lows but data cautions against overly bearish bias",
-          "url": "https://cointelegraph.com/markets/bitcoin-eyes-new-yearly-lows-as-traders-warn-not-to-get-too-bearish-here?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-19T17:38:09.000Z",
-          "source": "CoinTelegraph",
-          "summary": "A concentrated liquidity pocket below $59,000 raises the chance of a Bitcoin price sell-off to new 2026 lows, but data suggests bulls will absorb the dip."
-        },
-        {
-          "title": "Crypto Biz: Is AI the exit strategy for miners?",
-          "url": "https://cointelegraph.com/news/crypto-biz-ai-exit-strategy-bitcoin-miners?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-19T17:03:40.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Bitcoin miners double down on AI, tokenized RWAs top $43 billion, Ripple strengthens its African payments network and Sam Bankman-Fried loses his appeal."
         }
       ]
     }
