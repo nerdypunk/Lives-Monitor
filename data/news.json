@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-22T19:48:33.324Z",
+  "updatedAt": "2026-06-22T22:07:05.246Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -88,8 +88,7 @@
           "source": "bloomingbit",
           "summary": "Bio Protocol Jumps 53.85% in Intraday Trading &nbsp;&nbsp; bloomingbit"
         }
-      ],
-      "warning": "Google News DeSci returned 503"
+      ]
     },
     {
       "name": "Longevity",
@@ -104,7 +103,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-22T18:11:55.000Z",
           "source": "Lifespan.io",
-          "summary": "Researchers have found that bound pieces of RNA and DNA in the cytoplasm of senescent cells encourage these cells to secrete inflammatory factors. When transcription gets sticky As part of the transcription […]"
+          "summary": "Researchers have found that bound pieces of RNA and DNA in the cytoplasm of senescent cells encourage these cells to secrete inflammatory factors. When transcription gets sticky As part of the transcription process that produces necessary proteins, RNA must […]"
         },
         {
           "title": "Epigenetic Drug Targets Fat, Improving Blood Vessel Health",
@@ -112,7 +111,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-19T17:04:10.000Z",
           "source": "Lifespan.io",
-          "summary": "Scientists have targeted the thin fat layer around blood vessels with a transcription inhibitor, reducing symptoms of cardiometabolic disease [1]. […]"
+          "summary": "Scientists have targeted the thin fat layer around blood vessels with a transcription inhibitor, reducing symptoms of cardiometabolic disease [1]. When vessels can’t “just relax” Cardiometabolic disease (CMD) – characterized, among […]"
         },
         {
           "title": "How Antioxidants Can Selectively Remove Some Senescent Cells",
@@ -120,7 +119,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-18T18:15:22.000Z",
           "source": "Lifespan.io",
-          "summary": "In Aging Cell, researchers have described the way that antioxidants work against senescence in muscle cells by altering mTOR signaling. Senescent cells don’t sense nutrients […]"
+          "summary": "In Aging Cell, researchers have described the way that antioxidants work against senescence in muscle cells by altering mTOR signaling. Senescent cells don’t sense nutrients properly Oxidative stress and mTOR […]"
         },
         {
           "title": "Late-Life Gene Therapy Boosts Lifespan in Mice by 20%",
@@ -128,7 +127,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-16T16:24:07.000Z",
           "source": "Lifespan.io",
-          "summary": "In a new study, muscle-targeted viral-vector-based delivery of the protein FGF21 significantly increased median lifespan in male mice and improved many healthspan markers [1]. […]"
+          "summary": "In a new study, muscle-targeted viral-vector-based delivery of the protein FGF21 significantly increased median lifespan in male mice and improved many healthspan markers [1]. Control […]"
         },
         {
           "title": "How Senescent Cells Grow the Homes of Cancerous Tumors",
@@ -136,7 +135,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-15T19:57:28.000Z",
           "source": "Lifespan.io",
-          "summary": "A team of reviewers has taken a look at the relationship between cancer, cellular senescence, and vascular overgrowth and published this information in Aging Cell. Different gut cancers […]"
+          "summary": "A team of reviewers has taken a look at the relationship between cancer, cellular senescence, and vascular overgrowth and published this information […]"
         },
         {
           "title": "Inducing NREM-Like Neuronal Patterns Mimics Sleep Benefits",
@@ -144,7 +143,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-11T19:24:26.000Z",
           "source": "Lifespan.io",
-          "summary": "Scientists have “faked” sleep in mice by artificially creating the on/off neuronal firing pattern similar to that seen in non-REM sleep. This produced sleep-like effects, including improved learning memory [1]. Can sleep be emulated? Getting […]"
+          "summary": "Scientists have “faked” sleep in mice by artificially creating the on/off neuronal firing pattern similar to that seen in non-REM sleep. This produced sleep-like effects, […]"
         },
         {
           "title": "The Immune System Maintains the Microbiome",
@@ -152,7 +151,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-10T17:17:32.000Z",
           "source": "Lifespan.io",
-          "summary": "In a recent paper, researchers have proposed that the immune system and immune surveillance play a central role in maintaining […]"
+          "summary": "In a recent paper, researchers have proposed that the immune system and immune surveillance play a central role in maintaining microbial composition throughout life by suppressing microbial proliferation and that aging weakens these processes [1]. Lifelong […]"
         },
         {
           "title": "How Gut Bacteria Affect Lung Fibrosis",
@@ -168,7 +167,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-09T16:00:41.000Z",
           "source": "Lifespan.io",
-          "summary": "As longevity moves from laboratory promise toward clinical validation, China is emerging as one of the largest demand bases shaping the field’s next […]"
+          "summary": "As longevity moves from laboratory promise toward clinical validation, China is emerging as one of the largest demand bases shaping the field’s next phase. On September 12–13, 2026, the 7th TimePie Longevity Forum will convene nearly 2,000 researchers, physicians, healthcare […]"
         },
         {
           "title": "Fighting Parkinson’s by Restoring Protein Degradation",
@@ -176,7 +175,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-08T17:54:43.000Z",
           "source": "Lifespan.io",
-          "summary": "Researchers have explained how a protein found in both yeast and humans facilitates the destruction of the core protein responsible for Parkinson’s disease. An aggregate […]"
+          "summary": "Researchers have explained how a protein found in both yeast and humans facilitates the destruction of the core protein responsible for Parkinson’s disease. An aggregate that impairs clearance The loss of […]"
         }
       ]
     },
@@ -188,6 +187,14 @@
         "https://phys.org/rss-feed/biology-news/biotechnology/"
       ],
       "articles": [
+        {
+          "title": "Protein-tagging technology maps a hidden communication network between organs",
+          "url": "https://phys.org/news/2026-06-protein-tagging-technology-hidden-communication.html",
+          "domain": "phys.org",
+          "date": "2026-06-22T22:00:07.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "The body's organs are in constant communication. Fat tissue tells the liver when to store or release energy, the immune system signals localized inflammation, and thousands of proteins carry these messages to organs throughout the body. But while scientists have long known these conversations exist, they have struggled to identify exactly which cells are sending which messages."
+        },
         {
           "title": "Researchers reveal the pathogenesis of a rare respiratory disease through super-resolution microscopy",
           "url": "https://phys.org/news/2026-06-reveal-pathogenesis-rare-respiratory-disease.html",
@@ -259,14 +266,6 @@
           "date": "2026-06-19T15:00:01.000Z",
           "source": "Phys.org Biotechnology",
           "summary": "Scientists have demonstrated a noninvasive technique that uses light to reveal the hidden contents of chicken eggs, potentially helping to curb the meat industry's practice of killing billions of male chicks at birth. The study, published in Newton, found that when light enters an intact bird eggshell, it bounces back and forth many times, with photons traveling as far as 2 meters (6.6 feet) within a chicken egg's tiny, 4-centimeter (1.6-inch) interior."
-        },
-        {
-          "title": "Optimized R2 retroelement complexes for DNA insertion into plant genomes",
-          "url": "https://www.nature.com/articles/s41587-026-03197-y",
-          "domain": "nature.com",
-          "date": "2026-06-19T00:00:00.000Z",
-          "source": "Nature Biotechnology",
-          "summary": "Nature Biotechnology, Published online: 19 June 2026; doi:10.1038/s41587-026-03197-y R2 retrotransposons are used to integrate DNA into plant and crop 25S ribosomal DNA sites."
         }
       ]
     },
@@ -278,6 +277,70 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "Securitize and tZERO clash over patents as race to bring Wall Street onchain heats up",
+          "url": "https://www.coindesk.com/business/2026/06/22/securitize-and-tzero-clash-over-patents-as-race-to-bring-wall-street-onchain-heats-up",
+          "domain": "coindesk.com",
+          "date": "2026-06-22T21:08:50.000Z",
+          "source": "CoinDesk",
+          "summary": "tZERO and Securitize are squaring off over tokenization patents as the market attracts more of Wall Street's attention."
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-22T21:02:23.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
+        {
+          "title": "Ric Edelman says crypto’s biggest growth story is happening off the price chart",
+          "url": "https://www.coindesk.com/markets/2026/06/22/ric-edelman-says-crypto-s-biggest-growth-story-is-happening-off-the-price-chart",
+          "domain": "coindesk.com",
+          "date": "2026-06-22T20:58:40.000Z",
+          "source": "CoinDesk",
+          "summary": "Crypto prices remain under pressure, but Ric Edelman says institutional adoption and tokenization are accelerating behind the scenes."
+        },
+        {
+          "title": "21Shares co-founder warns tokenization hype is outrunning Wall Street reality",
+          "url": "https://www.coindesk.com/markets/2026/06/22/21shares-co-founder-warns-tokenization-hype-is-outrunning-wall-street-reality",
+          "domain": "coindesk.com",
+          "date": "2026-06-22T20:53:39.000Z",
+          "source": "CoinDesk",
+          "summary": "Tokenization can improve settlement and asset movement, but key pieces of financial infrastructure remain unprepared for institutional-scale adoption."
+        },
+        {
+          "title": "Franklin Templeton launches dedicated crypto division after closing 250 Digital acquisition",
+          "url": "https://cointelegraph.com/news/franklin-templeton-launches-dedicated-crypto-division-after-completing-250-digital-acquisition?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-22T20:36:53.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The new unit arrives amid rapid growth in tokenized assets, with Franklin Templeton's onchain product suite expanding from roughly $768 million to more than $2.5 billion over the past year."
+        },
+        {
+          "title": "Solana treasury firm Solmate’s largest stakeholder sues board for self-dealing, fiduciary breaches",
+          "url": "https://www.theblock.co/post/405690/solana-treasury-firm-solmate-largest-stakeholder-sues-board-self-dealing-fiduciary-breaches?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-22T20:17:43.000Z",
+          "source": "The Block",
+          "summary": "Board members Ron Sade and Keren Maimon personally bought about 2.298 million SLMT shares at $4.97, diluting shareholders ~20%."
+        },
+        {
+          "title": "Strive says digital credit selloff was a liquidation event, not a credit crisis",
+          "url": "https://www.coindesk.com/markets/2026/06/22/strive-says-digital-credit-selloff-was-a-liquidation-event-not-a-credit-crisis",
+          "domain": "coindesk.com",
+          "date": "2026-06-22T20:14:02.000Z",
+          "source": "CoinDesk",
+          "summary": "A sharp selloff in digital credit products exposed growing pains in a young market, a Strive executive argues the underlying credit fundamentals remain intact."
+        },
+        {
+          "title": "New York, Maryland and Utah to hold primaries with crypto PAC money hanging over voters",
+          "url": "https://cointelegraph.com/news/us-state-primaries-crypto-pac-money-candidates?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-22T19:57:48.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Crypto-backed PACs disclosed spending more than $8 million on media to support candidates in three US states, as some Maryland Democrats have called on one candidate to reject “outside spending from crypto billionaires.”"
+        },
         {
           "title": "Bitmine, SharpLink and Joe Lubin back Ethlabs nonprofit to advance Ethereum’s ‘next phase’ of growth",
           "url": "https://www.theblock.co/post/405694/bitmine-sharplink-and-joe-lubin-back-ethlabs-nonprofit-to-advance-ethereums-next-phase-of-growth?utm_source=rss&utm_medium=rss",
@@ -293,70 +356,6 @@
           "date": "2026-06-22T19:21:18.000Z",
           "source": "The Block",
           "summary": "MoonPay has made at least four other acquisitions this year as it works to expand via MoonPay Trade and MoonPay Institutional."
-        },
-        {
-          "title": "Ether’s biggest corporate holders back new Ethereum research hub",
-          "url": "https://www.coindesk.com/business/2026/06/22/ether-s-biggest-corporate-holders-back-new-ethereum-research-hub",
-          "domain": "coindesk.com",
-          "date": "2026-06-22T19:20:45.000Z",
-          "source": "CoinDesk",
-          "summary": "Ethlabs was formed with support from SharpLink, Bitmine and Consensys CEO Joe Lubin as the network's development is expanding beyond the Ethereum Foundation."
-        },
-        {
-          "title": "Solana grabs 95% of tokenized equity as traders debate if SOL bottom is in",
-          "url": "https://cointelegraph.com/markets/solana-captures-95-of-tokenized-equity-as-sol-bottom-debate-grows?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-22T19:17:34.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Solana captured 95% of tokenized equity volumes as analysts debate whether $60 was the bottom for SOL."
-        },
-        {
-          "title": "Securitize asks court to reject tZERO’s ‘meritless’ tokenization patent allegations",
-          "url": "https://www.theblock.co/post/405672/securitize-asks-court-reject-tzeros-meritless-tokenization-patent-allegations?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-22T18:21:42.000Z",
-          "source": "The Block",
-          "summary": "Securitize alleged that tZERO's actions are \"nothing more than the culmination\" of shareholder pressure to capitalize on the patents."
-        },
-        {
-          "title": "Gate CrossEx: An Exchange-Native Answer to the Institutional Capital Fragmentation Problem",
-          "url": "https://www.theblock.co/post/404882/gate-crossex-an-exchange-native-answer-to-the-institutional-capital-fragmentation-problem?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-22T17:26:56.000Z",
-          "source": "The Block",
-          "summary": "For sophisticated crypto desks, the bottleneck has rarely been finding liquidity, but rather moving capital fast enough to use it. A fund running active books across the largest CEXs operates multiple separate balance sheets that don’t talk to each other. Every account must be funded to meet worst-case requirements. Collateral can’t be netted across venues. [&hellip;]"
-        },
-        {
-          "title": "Andrew Cuomo to lead joint TradFi-crypto venture between OKX and Intercontinental Exchange",
-          "url": "https://cointelegraph.com/news/andrew-cuomo-okx-intercontinental-exchange-venture?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-22T16:53:35.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The venture is subject to regulatory approvals but will be co-chaired by ICE and former New York Governor Andrew Cuomo, who began working with OKX in 2023."
-        },
-        {
-          "title": "Bitcoin weekly close above $63K amid RSI divergence may be bottom signal: Data",
-          "url": "https://cointelegraph.com/markets/bitcoin-holds-63k-as-three-market-signals-remain-supportive?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-22T16:52:38.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Bitcoin's repeated weekly candle close above $63,000 align with signals that may mark a market bottom."
-        },
-        {
-          "title": "Ethereum Foundation talent exodus sparks fresh debate over leadership",
-          "url": "https://www.coindesk.com/tech/2026/06/22/ethereum-foundation-talent-exodus-sparks-fresh-debate-over-leadership",
-          "domain": "coindesk.com",
-          "date": "2026-06-22T16:39:41.000Z",
-          "source": "CoinDesk",
-          "summary": "The Ethereum community is once again debating the future of the foundation after co-executive director Hsiao-Wei Wang announced she would step down."
-        },
-        {
-          "title": "HIVE stock surges 25% as Ivy League researchers train neural networks on Paraguay GPUs",
-          "url": "https://www.theblock.co/post/405637/hive-stock-surges-ivy-league-researchers-train-neural-networks-paraguay-gpus?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-22T16:32:59.000Z",
-          "source": "The Block",
-          "summary": "The research was submitted to NeurIPS, one of AI's leading academic conferences, to be held later this year."
         }
       ]
     }
