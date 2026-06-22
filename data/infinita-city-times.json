@@ -1,8 +1,14 @@
 {
   "source": "Infinita City Times",
   "feed": "https://www.infinitacitytimes.com/feed",
-  "updatedAt": "2026-06-22T22:07:04.103Z",
+  "updatedAt": "2026-06-22T23:43:22.047Z",
   "items": [
+    {
+      "title": "We've Partnered with Noma Collective!",
+      "link": "https://www.infinitacitytimes.com/p/weve-partnered-with-noma-collective",
+      "date": "Mon, 22 Jun 2026 22:16:54 GMT",
+      "summary": "Get $300 off on your next trip"
+    },
     {
       "title": "From Brazil to Prospera: How Westy Is Building Bridges for the Next Generation of Entrepreneurs",
       "link": "https://www.infinitacitytimes.com/p/from-brazil-to-prospera-how-westy",
@@ -56,12 +62,6 @@
       "link": "https://www.infinitacitytimes.com/p/ep-108-eric-verdin-can-we-reverse",
       "date": "Fri, 08 May 2026 18:03:21 GMT",
       "summary": "Can longevity science balance radical ambition with scientific rigor, or does the future of life extension require both?"
-    },
-    {
-      "title": "Infinita Newsletter: April '26",
-      "link": "https://www.infinitacitytimes.com/p/infinita-newsletter-april-26",
-      "date": "Tue, 21 Apr 2026 16:59:13 GMT",
-      "summary": "Hi friends!"
     }
   ]
 }
