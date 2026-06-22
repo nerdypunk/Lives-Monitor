@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-22T11:16:32.100Z",
+  "updatedAt": "2026-06-22T16:03:21.646Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -15,14 +15,6 @@
           "date": "2026-06-20T12:53:08.000Z",
           "source": "crypto.news",
           "summary": "Bio Protocol launches AI research hub to challenge grant gatekeepers &nbsp;&nbsp; crypto.news"
-        },
-        {
-          "title": "BioProtocol unveils OpenLabs platform at DeSci Berlin to merge AI with decentralized research funding - Bitget",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Ba2tMNGlMWkpWSmxIYjlUM2QzVUxvXzF4VE5IZkp4dGk3V1lqTzJzbEdmdGR0TWhwa0g1cktBY0JyLXNEMlY1MlBLWFJrNVFvR3hGbzdmc0dUNmNJYXJWT2YtNNIBY0FVX3lxTE5Ba2tMNGlMWkpWSmxIYjlUM2QzVUxvXzF4VE5IZkp4dGk3V1lqTzJzbEdmdGR0TWhwa0g1cktBY0JyLXNEMlY1MlBLWFJrNVFvR3hGbzdmc0dUNmNJYXJWT2YtNA?oc=5",
-          "domain": "bitget.com",
-          "date": "2026-06-19T21:19:51.000Z",
-          "source": "Bitget",
-          "summary": "BioProtocol unveils OpenLabs platform at DeSci Berlin to merge AI with decentralized research funding &nbsp;&nbsp; Bitget"
         },
         {
           "title": "NanoVita Joins ENI Super Node Ecosystem to Advance AI-Driven DeSci - Cryptonews.net",
@@ -87,9 +79,16 @@
           "date": "2026-05-04T06:44:54.000Z",
           "source": "Yellow.com",
           "summary": "DeSci Has Raised Millions For Research No VC Would Ever Touch &nbsp;&nbsp; Yellow.com"
+        },
+        {
+          "title": "Bio Protocol Jumps 53.85% in Intraday Trading - bloomingbit",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TN0RaS1ExWkVmU1FzMXlsRUJQVmZhQ2lnNEdfcFVVMEloWHFuS3VDdnd5SlpLakNvNzIxdld1LTY5VWlVX2c4U2pZaUlTaHZybXUwag?oc=5",
+          "domain": "en.bloomingbit.io",
+          "date": "2026-05-02T07:00:00.000Z",
+          "source": "bloomingbit",
+          "summary": "Bio Protocol Jumps 53.85% in Intraday Trading &nbsp;&nbsp; bloomingbit"
         }
-      ],
-      "warning": "Google News DeSci returned no feed items"
+      ]
     },
     {
       "name": "Longevity",
@@ -152,7 +151,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-19T17:04:10.000Z",
           "source": "Lifespan.io",
-          "summary": "Scientists have targeted the thin fat layer around blood vessels with a transcription inhibitor, reducing symptoms of cardiometabolic disease [1]. When vessels […]"
+          "summary": "Scientists have targeted the thin fat layer around blood vessels with a transcription inhibitor, reducing symptoms of cardiometabolic disease [1]. When vessels can’t “just […]"
         },
         {
           "title": "Human data validate Cambrian Bio’s aging target",
@@ -195,6 +194,14 @@
           "date": "2026-06-22T11:00:01.000Z",
           "source": "Phys.org Biotechnology",
           "summary": "Two complementary studies, appearing in HortScience, from Rutgers University are advancing the potential of amaranth (Amaranthus spp.) as a valuable leafy green by combining detailed morphological characterization with evaluations of horticultural performance and nutritional quality. Amaranth is gaining attention as a versatile crop with strong adaptability, rapid growth and high nutritional value."
+        },
+        {
+          "title": "Affordable centimeter-scale 3D microscopy with submicrometer resolution",
+          "url": "https://www.nature.com/articles/s41587-026-03209-x",
+          "domain": "nature.com",
+          "date": "2026-06-22T00:00:00.000Z",
+          "source": "Nature Biotechnology",
+          "summary": "Nature Biotechnology, Published online: 22 June 2026; doi:10.1038/s41587-026-03209-x Submicrometer-resolution three-dimensional (3D) imaging of large samples has been constrained by the short working distance, high cost and inflexible design of immersion objectives. We developed hybrid solid–liquid optics (HySIL) — a refractive framework with index-matched components — for submicrometer-resolution 3D imaging of centimeter-scale samples in various immersion media using inexpensive air objectives."
         },
         {
           "title": "Engineered bacterial spores reveal new protein targets for enzymes and vaccines",
@@ -259,14 +266,6 @@
           "date": "2026-06-18T17:20:01.000Z",
           "source": "Phys.org Biotechnology",
           "summary": "Scientists studying lipids—the fatty molecules that store energy, make up cell membranes and act as signals—produce enormous amounts of information. A single experiment can detect thousands of different lipid molecules, generating long lists of measurements. But knowing what the results mean and being able to retrace how scientists moved from raw data to their conclusions isn't always easy."
-        },
-        {
-          "title": "Beyond bread and beer, alluring yeast species could yield new mosquito traps to combat malaria",
-          "url": "https://phys.org/news/2026-06-bread-beer-alluring-yeast-species.html",
-          "domain": "phys.org",
-          "date": "2026-06-18T13:00:01.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "An orange-colored yeast species isolated from a Baltimore sidewalk several years ago could be the basis of eco-friendly mosquito traps that reduce malaria transmission, according to a new study from researchers at the Johns Hopkins Bloomberg School of Public Health."
         }
       ]
     },
@@ -279,84 +278,84 @@
       ],
       "articles": [
         {
-          "title": "As bitcoin, altcoin prices gain, derivatives signal skepticism over a sustained rally",
-          "url": "https://www.coindesk.com/markets/2026/06/22/as-bitcoin-altcoin-prices-gain-derivatives-signal-skepticism-over-a-sustained-rally",
-          "domain": "coindesk.com",
-          "date": "2026-06-22T11:05:38.000Z",
-          "source": "CoinDesk",
-          "summary": "Analysts noted bitcoin is stuck between key support near $60,000 and resistance around $68,000, and a bearish chart pattern could send prices toward $54,000."
-        },
-        {
-          "title": "Bank of England backs down on strict stablecoin holding limits, sets $50 billion issuance cap",
-          "url": "https://www.coindesk.com/policy/2026/06/22/bank-of-england-backs-down-on-strict-stablecoin-holding-limits-sets-usd50-billion-issuance-cap",
-          "domain": "coindesk.com",
-          "date": "2026-06-22T10:48:14.000Z",
-          "source": "CoinDesk",
-          "summary": "The U.K. central bank abandons retail holding limits for a 40-billion-pound aggregate cap and sweetens yield terms for token issuers ahead of a 2027 market launch."
-        },
-        {
-          "title": "Bank of England drops proposed holding caps for sterling stablecoins, sets £40 billion issuance guardrail",
-          "url": "https://www.theblock.co/post/405545/bank-of-england-drops-proposed-individual-holding-caps-for-sterling-stablecoins-sets-40-billion-issuance-guardrail?utm_source=rss&utm_medium=rss",
+          "title": "Intercontinental Exchange, OKX expand access to tokenized equities via joint venture co-chaired by former Gov. Cuomo",
+          "url": "https://www.theblock.co/post/405640/nyse-intercontinental-exchange-okx-expand-access-tokenized-equities-joint-venture-cuomo?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-06-22T10:46:50.000Z",
+          "date": "2026-06-22T15:59:21.000Z",
           "source": "The Block",
-          "summary": "The Bank of England proposed a £40 billion systemic stablecoin issuance guardrail and revised backing assets, targeting a 2027 launch."
+          "summary": "The new joint venture will enable OKX customers in the U.S. and internationally to access ICE futures and NYSE tokenized equities markets."
         },
         {
-          "title": "Geopolitical relief meets the Warsh Fed: Crypto Week Ahead",
-          "url": "https://www.coindesk.com/markets/2026/06/22/geopolitical-relief-meets-the-warsh-fed-crypto-week-ahead",
+          "title": "Crypto's second U.S. lobbying front — tax policy — sees industry push on mining, staking",
+          "url": "https://www.coindesk.com/policy/2026/06/22/crypto-s-second-u-s-lobbying-front-tax-policy-sees-industry-push-on-mining-staking",
           "domain": "coindesk.com",
-          "date": "2026-06-22T10:22:22.000Z",
+          "date": "2026-06-22T15:56:13.000Z",
           "source": "CoinDesk",
-          "summary": "Your look at what's coming in the week starting June 22."
+          "summary": "The crypto sector's leading U.S. advocacy groups asked the U.S. House's tax committee to advance a bill to clarify treatment of assets from mining and staking."
         },
         {
-          "title": "Spot bitcoin ETFs log sixth consecutive week of net outflows; analyst says selling wave is exhausting itself",
-          "url": "https://www.theblock.co/post/405540/spot-bitcoin-etfs-sixth-consecutive-week-outflow?utm_source=rss&utm_medium=rss",
+          "title": "Bitcoin price taps $65.5K as Iran deal sees oil drop toward 16-week low",
+          "url": "https://cointelegraph.com/markets/bitcoin-price-taps-655k-as-iran-deal-sees-oil-drop-toward-16-week-low?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-22T15:48:49.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bitcoin sought a breakout toward a potential BTC price target near $70,000 as Iran news sent oil toward its lowest levels since early March."
+        },
+        {
+          "title": "Crypto industry groups urge Congress to pass tax staking and mining bill unchanged",
+          "url": "https://www.theblock.co/post/405603/crypto-industry-groups-urge-congress-pass-tax-staking-mining-bill-unchanged?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-06-22T10:20:57.000Z",
+          "date": "2026-06-22T15:14:13.000Z",
           "source": "The Block",
-          "summary": "US spot bitcoin ETFs saw $227 million in net outflows last week, extending the negative flow streak to six consecutive weeks."
+          "summary": "Crypto advocacy groups are urging Congress to pass a tax bill, saying the measure would provide clarity on mining and staking rewards."
         },
         {
-          "title": "Bank of Korea advances CBDC deposit token initiative to test real-world usage: report",
-          "url": "https://www.theblock.co/post/405529/south-korea-cbdc-second-phase?utm_source=rss&utm_medium=rss",
+          "title": "Bitcoin treasury Strive’s shares jump as company’s holdings near 20,000 BTC",
+          "url": "https://www.theblock.co/post/405602/bitcoin-treasury-strives-shares-jump-as-companys-holdings-near-20000-btc?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-06-22T10:02:46.000Z",
+          "date": "2026-06-22T15:01:10.000Z",
           "source": "The Block",
-          "summary": "South Korea's CBDC pilot project is entering its second phase, where deposit tokens will be integrated into existing banking systems."
+          "summary": "The bitcoin treasury company founded by Vivek Ramaswamy saw its shares jump about 10% in early trading Monday."
         },
         {
-          "title": "Ethereum ‘tax’ debate erupts over proposal to redirect portion of staking rewards to ecosystem funding",
-          "url": "https://www.theblock.co/post/405525/ethereum-tax-debate?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-22T09:49:52.000Z",
-          "source": "The Block",
-          "summary": "A post on the Ethereum Research forum proposes letting validators vote to redirect up to 10% of staking rewards to fund public goods."
-        },
-        {
-          "title": "Taiko halts its Ethereum layer-2 network after a bridge exploit, token dives",
-          "url": "https://www.coindesk.com/tech/2026/06/22/taiko-halts-its-ethereum-layer-2-network-after-a-bridge-exploit-token-dives-10",
+          "title": "Anchorage aims to bring banks onchain with new tokenized deposit platform",
+          "url": "https://www.coindesk.com/business/2026/06/19/anchorage-aims-to-bring-banks-onchain-with-new-tokenized-deposit-platform",
           "domain": "coindesk.com",
-          "date": "2026-06-22T09:23:02.000Z",
+          "date": "2026-06-22T15:00:00.000Z",
           "source": "CoinDesk",
-          "summary": "An attacker forged withdrawal proofs to drain about $1.7 million, the same type of flaw behind this year's biggest bridge hacks. Fast containment kept the damage small."
+          "summary": "The crypto bank aims to help financial institutions offer round-the-clock payments and settlement without replacing their core systems."
         },
         {
-          "title": "Bitcoin price may be headed to $54,000, says analyst who forecast October's all-time high",
-          "url": "https://www.coindesk.com/markets/2026/06/22/bitcoin-price-may-be-headed-to-usd54-000-says-analyst-who-forecast-october-s-all-time-high",
-          "domain": "coindesk.com",
-          "date": "2026-06-22T09:19:24.000Z",
-          "source": "CoinDesk",
-          "summary": "Doctor Profit, a widely followed crypto analyst, says bitcoin is forming a “bear flag” pattern."
+          "title": "Why Google search can be a crypto wallet risk",
+          "url": "https://cointelegraph.com/learn/fake-google-ads-crypto-wallet-security?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-22T14:30:00.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Think your wallet is safe? A major crypto risk may start with a Google search and one wrong click."
         },
         {
-          "title": "Live markets: Friday's biggest bitcoin options expiry of the year puts $60,000 in focus",
-          "url": "https://www.coindesk.com/tech/2026/06/22/live-markets-bitcoin-is-stuck-near-usd64-000-as-etf-outflows-reach-a-sixth-week",
+          "title": "Enso launches RWA app and trading for over 500 tokenized assets",
+          "url": "https://cointelegraph.com/news/enso-launches-rwa-app-trading-500-tokenized-assets?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-22T14:00:00.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Enso launched access to over 500 tokenized assets and US stocks, citing a growing demand for US equity exposure among European investors."
+        },
+        {
+          "title": "MoneyGram joins Solana as validator amid stablecoin payment push",
+          "url": "https://www.coindesk.com/business/2026/06/22/moneygram-joins-solana-as-validator-amid-stablecoin-payment-push",
           "domain": "coindesk.com",
-          "date": "2026-06-22T07:34:05.000Z",
+          "date": "2026-06-22T13:53:16.000Z",
           "source": "CoinDesk",
-          "summary": "Eased ETF selling and improving risk appetite are being offset by a firmer dollar and cautious institutional flows, leaving bitcoin range-bound, one analyst said."
+          "summary": "The remittances firm has become a validator on the Solana blockchain, helping process and secure transactions as it expands its stablecoin payments strategy."
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-22T13:50:31.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
         }
       ]
     }
