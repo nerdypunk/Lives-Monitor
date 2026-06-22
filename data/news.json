@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-22T05:24:33.093Z",
+  "updatedAt": "2026-06-22T11:16:32.100Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -88,7 +88,8 @@
           "source": "Yellow.com",
           "summary": "DeSci Has Raised Millions For Research No VC Would Ever Touch &nbsp;&nbsp; Yellow.com"
         }
-      ]
+      ],
+      "warning": "Google News DeSci returned no feed items"
     },
     {
       "name": "Longevity",
@@ -98,84 +99,84 @@
       ],
       "articles": [
         {
+          "title": "Biogen acquires RayThera for $1b to develop immune disease treatments",
+          "url": "https://longevity.technology/news/biogen-acquires-raythera-for-1b-to-develop-immune-disease-treatments/",
+          "domain": "longevity.technology",
+          "date": "2026-06-22T09:46:20.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Biogen has agreed to acquire RayThera Inc. for up to $1 billion, combining an upfront payment with milestone payments that are predominantly contingent on future clinical and regulatory outcomes. The transaction, announced from Cambridge, Mass. and San Diego, is currently anticipated to close in the third quarter of 2026 and remains subject to customary closing […] The post Biogen acquires RayThera for $1b to develop immune disease treatments appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "Scribe Therapeutics secures $25m to advance CRISPR therapies",
+          "url": "https://longevity.technology/news/scribe-therapeutics-secures-25m-to-advance-crispr-therapies/",
+          "domain": "longevity.technology",
+          "date": "2026-06-22T09:41:20.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Scribe Therapeutics has been awarded more than $25 million by the California Institute for Regenerative Medicine to advance two preclinical CRISPR-based gene editing programs, STX-1200 and STX-1400, toward clinical trials. STX-1200 targets LPA to lower lipoprotein(a) in patients with genetically elevated Lp(a), and STX-1400 targets apoc3 to durably reduce triglyceride-rich lipoproteins and address acute pancreatitis […] The post Scribe Therapeutics secures $25m to advance CRISPR therapies appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "Insilico and SK Biopharmaceuticals sign AI drug discovery deal",
+          "url": "https://longevity.technology/news/insilico-and-sk-biopharmaceuticals-sign-ai-drug-discovery-deal/",
+          "domain": "longevity.technology",
+          "date": "2026-06-22T09:36:35.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Insilico and SK Biopharmaceuticals have agreed a research and development collaboration, announced at BIO 2026, to discover AI-enabled drug candidates for neuroimmune disorders of the central nervous system. Under the deal, Insilico will use its Pharma.AI platform for target validation, generative chemistry and molecule optimization and provide preclinical discovery expertise, while SK Biopharmaceuticals will lead […] The post Insilico and SK Biopharmaceuticals sign AI drug discovery deal appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "Nuritas brings market-ready, AI-discovered peptides to Chicago food expo",
+          "url": "https://longevity.technology/news/nuritas-brings-market-ready-ai-discovered-peptides-to-chicago-food-expo/",
+          "domain": "longevity.technology",
+          "date": "2026-06-22T09:36:20.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Nuritas will exhibit plant-based peptide hydrolysates at IFT FIRST 2026 in Chicago (booth #869), positioning powder-format ingredients for integration into yogurt, beverages, functional snacks and bakery formats. The ingredients were engineered for food production and have undergone application testing across heat, time, temperature and pH variables to reflect manufacturing conditions. The company says it has […] The post Nuritas brings market-ready, AI-discovered peptides to Chicago food expo appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "Beacon Biosignals showcases advanced AI sleep tech and clinical data at SLEEP 2026",
+          "url": "https://longevity.technology/news/beacon-biosignals-showcases-advanced-ai-sleep-tech-and-clinical-data-at-sleep-2026/",
+          "domain": "longevity.technology",
+          "date": "2026-06-22T09:31:35.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Beacon Biosignals participated in SLEEP 2026, engaging clinicians, researchers and sleep medicine leaders. The company highlighted multiple presentations focused on automated sleep staging algorithms, machine learning-based arousal detection and a large-scale EEG foundation model designed for multi-device sleep analytics. Beacon also presented validation data for its Waveband device in hypersomnia disorders, developed in collaboration with […] The post Beacon Biosignals showcases advanced AI sleep tech and clinical data at SLEEP 2026 appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "Greenstone, Intel AI partner to scale human-centric drug discovery",
+          "url": "https://longevity.technology/news/greenstone-intel-ai-partner-to-scale-human-centric-drug-discovery/",
+          "domain": "longevity.technology",
+          "date": "2026-06-22T09:31:20.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Greenstone Biosciences, Inc. and Intel Corp. announced a strategic collaboration in Palo Alto, Calif., to scale human-centric drug discovery by integrating Greenstone’s induced pluripotent stem cell biobank with Intel’s Edge AI computing and infrastructure. The partnership aims to accelerate AI-enabled drug discovery, improve drug safety assessment, and advance precision medicine by scaling data processing, storage […] The post Greenstone, Intel AI partner to scale human-centric drug discovery appeared first on Longevity.Technology ."
+        },
+        {
           "title": "Epigenetic Drug Targets Fat, Improving Blood Vessel Health",
           "url": "https://lifespan.io/epigenetic-drug-targets-fat-improving-blood-vessel-health/",
           "domain": "lifespan.io",
           "date": "2026-06-19T17:04:10.000Z",
           "source": "Lifespan.io",
-          "summary": "Scientists have targeted the thin fat layer around blood vessels with a transcription inhibitor, reducing symptoms of cardiometabolic disease [1]. When vessels can’t “just relax” Cardiometabolic disease (CMD) – characterized, among other things, by obesity combined with high blood […]"
+          "summary": "Scientists have targeted the thin fat layer around blood vessels with a transcription inhibitor, reducing symptoms of cardiometabolic disease [1]. When vessels […]"
         },
         {
-          "title": "How Antioxidants Can Selectively Remove Some Senescent Cells",
-          "url": "https://lifespan.io/how-antioxidants-can-selectively-remove-some-senescent-cells/",
-          "domain": "lifespan.io",
-          "date": "2026-06-18T18:15:22.000Z",
-          "source": "Lifespan.io",
-          "summary": "In Aging Cell, researchers have described the way that antioxidants work against senescence in muscle cells by altering mTOR signaling. Senescent cells don’t sense nutrients properly Oxidative stress and mTOR signaling, which determines how cells […]"
+          "title": "Human data validate Cambrian Bio’s aging target",
+          "url": "https://longevity.technology/news/human-data-validate-cambrian-bios-aging-target/",
+          "domain": "longevity.technology",
+          "date": "2026-06-19T15:25:21.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Positive Phase 1b results for ATX-304 suggest scientists may finally be able to restore a key metabolic pathway that declines with age. There are few ideas in aging biology that have generated as much excitement (and as much disappointment) as AMPK. Researchers have viewed this cellular pathway as one of the body’s most important regulators […] The post Human data validate Cambrian Bio’s aging target appeared first on Longevity.Technology ."
         },
         {
-          "title": "Late-Life Gene Therapy Boosts Lifespan in Mice by 20%",
-          "url": "https://lifespan.io/late-life-gene-therapy-boosts-lifespan-in-mice-by-20/",
-          "domain": "lifespan.io",
-          "date": "2026-06-16T16:24:07.000Z",
-          "source": "Lifespan.io",
-          "summary": "In a new study, muscle-targeted viral-vector-based delivery of the protein FGF21 significantly increased median lifespan in male mice and improved many healthspan […]"
+          "title": "Istesso advances regenerative approach to muscle loss",
+          "url": "https://longevity.technology/news/istesso-advances-regenerative-approach-to-muscle-loss/",
+          "domain": "longevity.technology",
+          "date": "2026-06-19T15:17:24.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Phase 2 trial of leramistat targets sarcopenia, a major driver of frailty and loss of independence in later life. Longevity is teaching us that preserving muscle may be just as important as extending lifespan. London-based regenerative medicine company Istesso has announced the start of a Phase 2 clinical trial of its lead candidate leramistat in […] The post Istesso advances regenerative approach to muscle loss appeared first on Longevity.Technology ."
         },
         {
-          "title": "How Senescent Cells Grow the Homes of Cancerous Tumors",
-          "url": "https://lifespan.io/how-senescent-cells-grow-the-homes-of-cancerous-tumors/",
-          "domain": "lifespan.io",
-          "date": "2026-06-15T19:57:28.000Z",
-          "source": "Lifespan.io",
-          "summary": "A team of reviewers has taken a look at the relationship between cancer, cellular senescence, and vascular overgrowth and published this information in Aging Cell. Different gut cancers form through different pathways The authors begin their paper […]"
-        },
-        {
-          "title": "Inducing NREM-Like Neuronal Patterns Mimics Sleep Benefits",
-          "url": "https://lifespan.io/inducing-nrem-like-neuronal-patterns-mimics-sleep-benefits/",
-          "domain": "lifespan.io",
-          "date": "2026-06-11T19:24:26.000Z",
-          "source": "Lifespan.io",
-          "summary": "Scientists have “faked” sleep in mice by artificially creating the on/off neuronal firing pattern similar to that seen in non-REM sleep. […]"
-        },
-        {
-          "title": "The Immune System Maintains the Microbiome",
-          "url": "https://lifespan.io/the-immune-system-maintains-the-microbiome/",
-          "domain": "lifespan.io",
-          "date": "2026-06-10T17:17:32.000Z",
-          "source": "Lifespan.io",
-          "summary": "In a recent paper, researchers have proposed that the immune system and immune surveillance play a central role in maintaining microbial composition throughout life by suppressing microbial proliferation […]"
-        },
-        {
-          "title": "How Gut Bacteria Affect Lung Fibrosis",
-          "url": "https://lifespan.io/how-gut-bacteria-affect-lung-fibrosis/",
-          "domain": "lifespan.io",
-          "date": "2026-06-09T21:04:41.000Z",
-          "source": "Lifespan.io",
-          "summary": "In Aging Cell, researchers have described how a strain of Lactobacillus gut bacteria sends chemical signals that enter the bloodstream and decrease […]"
-        },
-        {
-          "title": "TimePie Longevity Forum Spotlights Evidence-Based Medicine",
-          "url": "https://lifespan.io/timepie-longevity-forum-spotlights-evidence-based-medicine/",
-          "domain": "lifespan.io",
-          "date": "2026-06-09T16:00:41.000Z",
-          "source": "Lifespan.io",
-          "summary": "As longevity moves from laboratory promise toward clinical validation, China is emerging as one of the largest demand bases shaping the field’s next phase. On September 12–13, 2026, the 7th TimePie […]"
-        },
-        {
-          "title": "Fighting Parkinson’s by Restoring Protein Degradation",
-          "url": "https://lifespan.io/fighting-parkinsons-by-restoring-protein-degradation/",
-          "domain": "lifespan.io",
-          "date": "2026-06-08T17:54:43.000Z",
-          "source": "Lifespan.io",
-          "summary": "Researchers have explained how a protein found in both yeast and humans facilitates the destruction of the core protein responsible for Parkinson’s disease. An […]"
-        },
-        {
-          "title": "Neurons’ Protein Disposal Trick Offers Alzheimer’s Insights",
-          "url": "https://lifespan.io/neurons-protein-disposal-trick-offers-alzheimers-insights/",
-          "domain": "lifespan.io",
-          "date": "2026-06-05T14:49:43.000Z",
-          "source": "Lifespan.io",
-          "summary": "According to a new study, a special protein disposal system, currently found only in neurons, is linked to central hallmarks of Alzheimer’s disease [1]. The membranal proteasome Alzheimer’s disease is defined in part by two protein aggregates […]"
+          "title": "AU-based Everlab bags $42m to make preventive care accessible",
+          "url": "https://longevity.technology/news/au-based-everlab-bags-42m-to-make-preventive-care-accessible/",
+          "domain": "longevity.technology",
+          "date": "2026-06-19T14:26:14.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Australian healthtech Everlab has raised $42 million to expand its preventative healthcare platform, aiming to stop disease before it starts. Healthcare has long excelled at responding to emergencies. Heart attack? There’s a protocol. Cancer diagnosis? There are specialists, treatments and care pathways. However, what happens before those moments arrive has often received far less attention. […] The post AU-based Everlab bags $42m to make preventive care accessible appeared first on Longevity.Technology ."
         }
       ]
     },
@@ -187,6 +188,14 @@
         "https://phys.org/rss-feed/biology-news/biotechnology/"
       ],
       "articles": [
+        {
+          "title": "New research advances amaranth as a nutritious and high-performing leafy green crop",
+          "url": "https://phys.org/news/2026-06-advances-amaranth-nutritious-high-leafy.html",
+          "domain": "phys.org",
+          "date": "2026-06-22T11:00:01.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Two complementary studies, appearing in HortScience, from Rutgers University are advancing the potential of amaranth (Amaranthus spp.) as a valuable leafy green by combining detailed morphological characterization with evaluations of horticultural performance and nutritional quality. Amaranth is gaining attention as a versatile crop with strong adaptability, rapid growth and high nutritional value."
+        },
         {
           "title": "Engineered bacterial spores reveal new protein targets for enzymes and vaccines",
           "url": "https://phys.org/news/2026-06-bacterial-spores-reveal-protein-enzymes.html",
@@ -258,14 +267,6 @@
           "date": "2026-06-18T13:00:01.000Z",
           "source": "Phys.org Biotechnology",
           "summary": "An orange-colored yeast species isolated from a Baltimore sidewalk several years ago could be the basis of eco-friendly mosquito traps that reduce malaria transmission, according to a new study from researchers at the Johns Hopkins Bloomberg School of Public Health."
-        },
-        {
-          "title": "Publisher Correction: Lung and liver editing by lipid nanoparticle delivery of a stable CRISPR–Cas9 ribonucleoprotein",
-          "url": "https://www.nature.com/articles/s41587-026-03221-1",
-          "domain": "nature.com",
-          "date": "2026-06-18T00:00:00.000Z",
-          "source": "Nature Biotechnology",
-          "summary": "Nature Biotechnology, Published online: 18 June 2026; doi:10.1038/s41587-026-03221-1 Publisher Correction: Lung and liver editing by lipid nanoparticle delivery of a stable CRISPR–Cas9 ribonucleoprotein"
         }
       ]
     },
@@ -278,84 +279,84 @@
       ],
       "articles": [
         {
-          "title": "XRP briefly loses $1.14 support before buyers drive sharp rebound",
-          "url": "https://www.coindesk.com/markets/2026/06/22/xrp-briefly-loses-usd1-14-support-before-buyers-drive-sharp-rebound",
+          "title": "As bitcoin, altcoin prices gain, derivatives signal skepticism over a sustained rally",
+          "url": "https://www.coindesk.com/markets/2026/06/22/as-bitcoin-altcoin-prices-gain-derivatives-signal-skepticism-over-a-sustained-rally",
           "domain": "coindesk.com",
-          "date": "2026-06-22T05:17:18.000Z",
+          "date": "2026-06-22T11:05:38.000Z",
           "source": "CoinDesk",
-          "summary": "Heavy selling pushed XRP to its lowest level of the weekend session, but strong buying quickly erased most of the decline and returned the token to its recent trading range."
+          "summary": "Analysts noted bitcoin is stuck between key support near $60,000 and resistance around $68,000, and a bearish chart pattern could send prices toward $54,000."
         },
         {
-          "title": "Japan’s corporate pension fund plans to allocate 1% of assets to crypto: reports",
-          "url": "https://www.theblock.co/post/405489/japan-pension-fund-crypto-allocation?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-22T05:15:08.000Z",
-          "source": "The Block",
-          "summary": "The National Business Corporate Pension Fund plans to allocate roughly 1% of its assets to crypto, according to Coinpost."
-        },
-        {
-          "title": "Ethereum Layer 2 Taiko halts block production following exploit; urges users to withdraw funds",
-          "url": "https://www.theblock.co/post/405486/taiko-confirms-exploit?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-22T05:02:27.000Z",
-          "source": "The Block",
-          "summary": "Onchain security firm Blockaid said the root cause of the exploit could be a flaw in Taiko bridge's source-signal proof validation."
-        },
-        {
-          "title": "Bitcoin holds near $64,000 as US-Iran talks progress but crypto sits out the rally",
-          "url": "https://www.coindesk.com/markets/2026/06/22/bitcoin-holds-near-usd64-000-as-us-iran-talks-progress-but-crypto-sits-out-the-rally",
+          "title": "Bank of England backs down on strict stablecoin holding limits, sets $50 billion issuance cap",
+          "url": "https://www.coindesk.com/policy/2026/06/22/bank-of-england-backs-down-on-strict-stablecoin-holding-limits-sets-usd50-billion-issuance-cap",
           "domain": "coindesk.com",
-          "date": "2026-06-22T04:58:49.000Z",
+          "date": "2026-06-22T10:48:14.000Z",
           "source": "CoinDesk",
-          "summary": "sian stocks and tech climbed as the US and Iran agreed a roadmap to a final peace deal, sending oil below $80. Crypto stayed soft, with bitcoin down 2% on the week and the memecoins leading the losses."
+          "summary": "The U.K. central bank abandons retail holding limits for a 40-billion-pound aggregate cap and sweetens yield terms for token issuers ahead of a 2027 market launch."
         },
         {
-          "title": "Altura winds down stablecoin vault after ‘unprecedented level’ of withdrawal requests",
-          "url": "https://www.theblock.co/post/405477/altura-winds-down-stablecoin-vault?utm_source=rss&utm_medium=rss",
+          "title": "Bank of England drops proposed holding caps for sterling stablecoins, sets £40 billion issuance guardrail",
+          "url": "https://www.theblock.co/post/405545/bank-of-england-drops-proposed-individual-holding-caps-for-sterling-stablecoins-sets-40-billion-issuance-guardrail?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-06-22T03:30:51.000Z",
+          "date": "2026-06-22T10:46:50.000Z",
           "source": "The Block",
-          "summary": "Altura's CEO said market speculation played a part, seemingly referring to contagion fears linked to the depegging of Main Street's msUSD."
+          "summary": "The Bank of England proposed a £40 billion systemic stablecoin issuance guardrail and revised backing assets, targeting a 2027 launch."
         },
         {
-          "title": "Polymarket paid creators to stage fake winning bets on dummy sites: WSJ",
-          "url": "https://www.theblock.co/post/405471/polymarket-paid-creators-to-stage-fake-winning-bets-on-dummy-sites-wsj?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-21T22:42:56.000Z",
-          "source": "The Block",
-          "summary": "The Journal reviewed more than 1,100 videos and found none of the roughly $1.9 million in bets shown in influencer-produced hype videos were real."
-        },
-        {
-          "title": "Fentanyl-linked Chinese network tied to crypto fraud from Japan involving fake ‘Zksync.jp’ token: Nikkei",
-          "url": "https://www.theblock.co/post/405468/fentanyl-linked-chinese-network-tied-to-crypto-fraud-from-japan-involving-fake-zksync-jp-token-nikkei?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-21T20:06:58.000Z",
-          "source": "The Block",
-          "summary": "The linked criminal group allegedly distributed a scam token under the name \"zksync.jp\" to deceive crypto users worldwide, with losses of over $1 million."
-        },
-        {
-          "title": "Are perps swaps? A quick look at that CME suit: State of Crypto",
-          "url": "https://www.coindesk.com/policy/2026/06/21/are-perps-swaps-a-quick-look-at-that-cme-suit-state-of-crypto",
+          "title": "Geopolitical relief meets the Warsh Fed: Crypto Week Ahead",
+          "url": "https://www.coindesk.com/markets/2026/06/22/geopolitical-relief-meets-the-warsh-fed-crypto-week-ahead",
           "domain": "coindesk.com",
-          "date": "2026-06-21T18:30:00.000Z",
+          "date": "2026-06-22T10:22:22.000Z",
           "source": "CoinDesk",
-          "summary": "CME Group sued the CFTC on Thursday, alleging that the agency was wrong in how it approved Kalshi's first U.S. perpetual futures product."
+          "summary": "Your look at what's coming in the week starting June 22."
         },
         {
-          "title": "Notorious ‘jaredfromsubway’ MEV bot drained for roughly $7.5 million in counter-MEV honeypot",
-          "url": "https://www.theblock.co/post/405464/notorious-jaredfromsubway-mev-bot-drained-for-roughly-7-5-million-in-counter-mev-honeypot?utm_source=rss&utm_medium=rss",
+          "title": "Spot bitcoin ETFs log sixth consecutive week of net outflows; analyst says selling wave is exhausting itself",
+          "url": "https://www.theblock.co/post/405540/spot-bitcoin-etfs-sixth-consecutive-week-outflow?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-06-21T15:00:57.000Z",
+          "date": "2026-06-22T10:20:57.000Z",
           "source": "The Block",
-          "summary": "An X account using the bot's name claimed a $15 million loss and offered a $1 million bounty, but evidence shows it is a likely impersonator."
+          "summary": "US spot bitcoin ETFs saw $227 million in net outflows last week, extending the negative flow streak to six consecutive weeks."
         },
         {
-          "title": "Ethereum's biggest 'sandwich' bot drained of $7.5 million in ironic exploit",
-          "url": "https://www.coindesk.com/tech/2026/06/21/ethereum-s-biggest-sandwich-bot-drained-of-usd7-5-million-in-ironic-exploit",
+          "title": "Bank of Korea advances CBDC deposit token initiative to test real-world usage: report",
+          "url": "https://www.theblock.co/post/405529/south-korea-cbdc-second-phase?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-22T10:02:46.000Z",
+          "source": "The Block",
+          "summary": "South Korea's CBDC pilot project is entering its second phase, where deposit tokens will be integrated into existing banking systems."
+        },
+        {
+          "title": "Ethereum ‘tax’ debate erupts over proposal to redirect portion of staking rewards to ecosystem funding",
+          "url": "https://www.theblock.co/post/405525/ethereum-tax-debate?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-22T09:49:52.000Z",
+          "source": "The Block",
+          "summary": "A post on the Ethereum Research forum proposes letting validators vote to redirect up to 10% of staking rewards to fund public goods."
+        },
+        {
+          "title": "Taiko halts its Ethereum layer-2 network after a bridge exploit, token dives",
+          "url": "https://www.coindesk.com/tech/2026/06/22/taiko-halts-its-ethereum-layer-2-network-after-a-bridge-exploit-token-dives-10",
           "domain": "coindesk.com",
-          "date": "2026-06-21T07:12:35.000Z",
+          "date": "2026-06-22T09:23:02.000Z",
           "source": "CoinDesk",
-          "summary": "Blockaid said an attacker tricked Jaredfromsubway.eth into approving fake trading routes, then used those approvals to drain WETH, USDC and USDT."
+          "summary": "An attacker forged withdrawal proofs to drain about $1.7 million, the same type of flaw behind this year's biggest bridge hacks. Fast containment kept the damage small."
+        },
+        {
+          "title": "Bitcoin price may be headed to $54,000, says analyst who forecast October's all-time high",
+          "url": "https://www.coindesk.com/markets/2026/06/22/bitcoin-price-may-be-headed-to-usd54-000-says-analyst-who-forecast-october-s-all-time-high",
+          "domain": "coindesk.com",
+          "date": "2026-06-22T09:19:24.000Z",
+          "source": "CoinDesk",
+          "summary": "Doctor Profit, a widely followed crypto analyst, says bitcoin is forming a “bear flag” pattern."
+        },
+        {
+          "title": "Live markets: Friday's biggest bitcoin options expiry of the year puts $60,000 in focus",
+          "url": "https://www.coindesk.com/tech/2026/06/22/live-markets-bitcoin-is-stuck-near-usd64-000-as-etf-outflows-reach-a-sixth-week",
+          "domain": "coindesk.com",
+          "date": "2026-06-22T07:34:05.000Z",
+          "source": "CoinDesk",
+          "summary": "Eased ETF selling and improving risk appetite are being offset by a firmer dollar and cautious institutional flows, leaving bitcoin range-bound, one analyst said."
         }
       ]
     }
