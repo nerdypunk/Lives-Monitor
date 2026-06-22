@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-22T16:03:21.646Z",
+  "updatedAt": "2026-06-22T19:48:33.324Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -88,7 +88,8 @@
           "source": "bloomingbit",
           "summary": "Bio Protocol Jumps 53.85% in Intraday Trading &nbsp;&nbsp; bloomingbit"
         }
-      ]
+      ],
+      "warning": "Google News DeSci returned 503"
     },
     {
       "name": "Longevity",
@@ -98,52 +99,12 @@
       ],
       "articles": [
         {
-          "title": "Biogen acquires RayThera for $1b to develop immune disease treatments",
-          "url": "https://longevity.technology/news/biogen-acquires-raythera-for-1b-to-develop-immune-disease-treatments/",
-          "domain": "longevity.technology",
-          "date": "2026-06-22T09:46:20.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Biogen has agreed to acquire RayThera Inc. for up to $1 billion, combining an upfront payment with milestone payments that are predominantly contingent on future clinical and regulatory outcomes. The transaction, announced from Cambridge, Mass. and San Diego, is currently anticipated to close in the third quarter of 2026 and remains subject to customary closing […] The post Biogen acquires RayThera for $1b to develop immune disease treatments appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Scribe Therapeutics secures $25m to advance CRISPR therapies",
-          "url": "https://longevity.technology/news/scribe-therapeutics-secures-25m-to-advance-crispr-therapies/",
-          "domain": "longevity.technology",
-          "date": "2026-06-22T09:41:20.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Scribe Therapeutics has been awarded more than $25 million by the California Institute for Regenerative Medicine to advance two preclinical CRISPR-based gene editing programs, STX-1200 and STX-1400, toward clinical trials. STX-1200 targets LPA to lower lipoprotein(a) in patients with genetically elevated Lp(a), and STX-1400 targets apoc3 to durably reduce triglyceride-rich lipoproteins and address acute pancreatitis […] The post Scribe Therapeutics secures $25m to advance CRISPR therapies appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Insilico and SK Biopharmaceuticals sign AI drug discovery deal",
-          "url": "https://longevity.technology/news/insilico-and-sk-biopharmaceuticals-sign-ai-drug-discovery-deal/",
-          "domain": "longevity.technology",
-          "date": "2026-06-22T09:36:35.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Insilico and SK Biopharmaceuticals have agreed a research and development collaboration, announced at BIO 2026, to discover AI-enabled drug candidates for neuroimmune disorders of the central nervous system. Under the deal, Insilico will use its Pharma.AI platform for target validation, generative chemistry and molecule optimization and provide preclinical discovery expertise, while SK Biopharmaceuticals will lead […] The post Insilico and SK Biopharmaceuticals sign AI drug discovery deal appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Nuritas brings market-ready, AI-discovered peptides to Chicago food expo",
-          "url": "https://longevity.technology/news/nuritas-brings-market-ready-ai-discovered-peptides-to-chicago-food-expo/",
-          "domain": "longevity.technology",
-          "date": "2026-06-22T09:36:20.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Nuritas will exhibit plant-based peptide hydrolysates at IFT FIRST 2026 in Chicago (booth #869), positioning powder-format ingredients for integration into yogurt, beverages, functional snacks and bakery formats. The ingredients were engineered for food production and have undergone application testing across heat, time, temperature and pH variables to reflect manufacturing conditions. The company says it has […] The post Nuritas brings market-ready, AI-discovered peptides to Chicago food expo appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Beacon Biosignals showcases advanced AI sleep tech and clinical data at SLEEP 2026",
-          "url": "https://longevity.technology/news/beacon-biosignals-showcases-advanced-ai-sleep-tech-and-clinical-data-at-sleep-2026/",
-          "domain": "longevity.technology",
-          "date": "2026-06-22T09:31:35.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Beacon Biosignals participated in SLEEP 2026, engaging clinicians, researchers and sleep medicine leaders. The company highlighted multiple presentations focused on automated sleep staging algorithms, machine learning-based arousal detection and a large-scale EEG foundation model designed for multi-device sleep analytics. Beacon also presented validation data for its Waveband device in hypersomnia disorders, developed in collaboration with […] The post Beacon Biosignals showcases advanced AI sleep tech and clinical data at SLEEP 2026 appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Greenstone, Intel AI partner to scale human-centric drug discovery",
-          "url": "https://longevity.technology/news/greenstone-intel-ai-partner-to-scale-human-centric-drug-discovery/",
-          "domain": "longevity.technology",
-          "date": "2026-06-22T09:31:20.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Greenstone Biosciences, Inc. and Intel Corp. announced a strategic collaboration in Palo Alto, Calif., to scale human-centric drug discovery by integrating Greenstone’s induced pluripotent stem cell biobank with Intel’s Edge AI computing and infrastructure. The partnership aims to accelerate AI-enabled drug discovery, improve drug safety assessment, and advance precision medicine by scaling data processing, storage […] The post Greenstone, Intel AI partner to scale human-centric drug discovery appeared first on Longevity.Technology ."
+          "title": "A Transcriptional Failure Leads to Systemic Inflammation",
+          "url": "https://lifespan.io/a-transcriptional-failure-leads-to-systemic-inflammation/",
+          "domain": "lifespan.io",
+          "date": "2026-06-22T18:11:55.000Z",
+          "source": "Lifespan.io",
+          "summary": "Researchers have found that bound pieces of RNA and DNA in the cytoplasm of senescent cells encourage these cells to secrete inflammatory factors. When transcription gets sticky As part of the transcription […]"
         },
         {
           "title": "Epigenetic Drug Targets Fat, Improving Blood Vessel Health",
@@ -151,31 +112,71 @@
           "domain": "lifespan.io",
           "date": "2026-06-19T17:04:10.000Z",
           "source": "Lifespan.io",
-          "summary": "Scientists have targeted the thin fat layer around blood vessels with a transcription inhibitor, reducing symptoms of cardiometabolic disease [1]. When vessels can’t “just […]"
+          "summary": "Scientists have targeted the thin fat layer around blood vessels with a transcription inhibitor, reducing symptoms of cardiometabolic disease [1]. […]"
         },
         {
-          "title": "Human data validate Cambrian Bio’s aging target",
-          "url": "https://longevity.technology/news/human-data-validate-cambrian-bios-aging-target/",
-          "domain": "longevity.technology",
-          "date": "2026-06-19T15:25:21.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Positive Phase 1b results for ATX-304 suggest scientists may finally be able to restore a key metabolic pathway that declines with age. There are few ideas in aging biology that have generated as much excitement (and as much disappointment) as AMPK. Researchers have viewed this cellular pathway as one of the body’s most important regulators […] The post Human data validate Cambrian Bio’s aging target appeared first on Longevity.Technology ."
+          "title": "How Antioxidants Can Selectively Remove Some Senescent Cells",
+          "url": "https://lifespan.io/how-antioxidants-can-selectively-remove-some-senescent-cells/",
+          "domain": "lifespan.io",
+          "date": "2026-06-18T18:15:22.000Z",
+          "source": "Lifespan.io",
+          "summary": "In Aging Cell, researchers have described the way that antioxidants work against senescence in muscle cells by altering mTOR signaling. Senescent cells don’t sense nutrients […]"
         },
         {
-          "title": "Istesso advances regenerative approach to muscle loss",
-          "url": "https://longevity.technology/news/istesso-advances-regenerative-approach-to-muscle-loss/",
-          "domain": "longevity.technology",
-          "date": "2026-06-19T15:17:24.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Phase 2 trial of leramistat targets sarcopenia, a major driver of frailty and loss of independence in later life. Longevity is teaching us that preserving muscle may be just as important as extending lifespan. London-based regenerative medicine company Istesso has announced the start of a Phase 2 clinical trial of its lead candidate leramistat in […] The post Istesso advances regenerative approach to muscle loss appeared first on Longevity.Technology ."
+          "title": "Late-Life Gene Therapy Boosts Lifespan in Mice by 20%",
+          "url": "https://lifespan.io/late-life-gene-therapy-boosts-lifespan-in-mice-by-20/",
+          "domain": "lifespan.io",
+          "date": "2026-06-16T16:24:07.000Z",
+          "source": "Lifespan.io",
+          "summary": "In a new study, muscle-targeted viral-vector-based delivery of the protein FGF21 significantly increased median lifespan in male mice and improved many healthspan markers [1]. […]"
         },
         {
-          "title": "AU-based Everlab bags $42m to make preventive care accessible",
-          "url": "https://longevity.technology/news/au-based-everlab-bags-42m-to-make-preventive-care-accessible/",
-          "domain": "longevity.technology",
-          "date": "2026-06-19T14:26:14.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Australian healthtech Everlab has raised $42 million to expand its preventative healthcare platform, aiming to stop disease before it starts. Healthcare has long excelled at responding to emergencies. Heart attack? There’s a protocol. Cancer diagnosis? There are specialists, treatments and care pathways. However, what happens before those moments arrive has often received far less attention. […] The post AU-based Everlab bags $42m to make preventive care accessible appeared first on Longevity.Technology ."
+          "title": "How Senescent Cells Grow the Homes of Cancerous Tumors",
+          "url": "https://lifespan.io/how-senescent-cells-grow-the-homes-of-cancerous-tumors/",
+          "domain": "lifespan.io",
+          "date": "2026-06-15T19:57:28.000Z",
+          "source": "Lifespan.io",
+          "summary": "A team of reviewers has taken a look at the relationship between cancer, cellular senescence, and vascular overgrowth and published this information in Aging Cell. Different gut cancers […]"
+        },
+        {
+          "title": "Inducing NREM-Like Neuronal Patterns Mimics Sleep Benefits",
+          "url": "https://lifespan.io/inducing-nrem-like-neuronal-patterns-mimics-sleep-benefits/",
+          "domain": "lifespan.io",
+          "date": "2026-06-11T19:24:26.000Z",
+          "source": "Lifespan.io",
+          "summary": "Scientists have “faked” sleep in mice by artificially creating the on/off neuronal firing pattern similar to that seen in non-REM sleep. This produced sleep-like effects, including improved learning memory [1]. Can sleep be emulated? Getting […]"
+        },
+        {
+          "title": "The Immune System Maintains the Microbiome",
+          "url": "https://lifespan.io/the-immune-system-maintains-the-microbiome/",
+          "domain": "lifespan.io",
+          "date": "2026-06-10T17:17:32.000Z",
+          "source": "Lifespan.io",
+          "summary": "In a recent paper, researchers have proposed that the immune system and immune surveillance play a central role in maintaining […]"
+        },
+        {
+          "title": "How Gut Bacteria Affect Lung Fibrosis",
+          "url": "https://lifespan.io/how-gut-bacteria-affect-lung-fibrosis/",
+          "domain": "lifespan.io",
+          "date": "2026-06-09T21:04:41.000Z",
+          "source": "Lifespan.io",
+          "summary": "In Aging Cell, researchers have described how a strain of Lactobacillus gut bacteria sends chemical signals that enter the bloodstream and decrease fibrosis in the […]"
+        },
+        {
+          "title": "TimePie Longevity Forum Spotlights Evidence-Based Medicine",
+          "url": "https://lifespan.io/timepie-longevity-forum-spotlights-evidence-based-medicine/",
+          "domain": "lifespan.io",
+          "date": "2026-06-09T16:00:41.000Z",
+          "source": "Lifespan.io",
+          "summary": "As longevity moves from laboratory promise toward clinical validation, China is emerging as one of the largest demand bases shaping the field’s next […]"
+        },
+        {
+          "title": "Fighting Parkinson’s by Restoring Protein Degradation",
+          "url": "https://lifespan.io/fighting-parkinsons-by-restoring-protein-degradation/",
+          "domain": "lifespan.io",
+          "date": "2026-06-08T17:54:43.000Z",
+          "source": "Lifespan.io",
+          "summary": "Researchers have explained how a protein found in both yeast and humans facilitates the destruction of the core protein responsible for Parkinson’s disease. An aggregate […]"
         }
       ]
     },
@@ -187,6 +188,22 @@
         "https://phys.org/rss-feed/biology-news/biotechnology/"
       ],
       "articles": [
+        {
+          "title": "Researchers reveal the pathogenesis of a rare respiratory disease through super-resolution microscopy",
+          "url": "https://phys.org/news/2026-06-reveal-pathogenesis-rare-respiratory-disease.html",
+          "domain": "phys.org",
+          "date": "2026-06-22T17:40:04.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Researchers at The Hong Kong University of Science and Technology (HKUST) have uncovered how mutations in a specific gene can trigger a rare respiratory disease, shedding light on the critical role played by cellular structures known as cilia. Cilia are tiny hair-like organelles extruding from the surface of most cell types, serving either sensory or motile functions."
+        },
+        {
+          "title": "CRISPR safety check evaluates intended and unintended mutations",
+          "url": "https://phys.org/news/2026-06-crispr-safety-unintended-mutations.html",
+          "domain": "phys.org",
+          "date": "2026-06-22T17:20:10.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "A team of researchers led by Professor Akitsu Hotta (Department of Clinical Application) developed a comprehensive framework that combines computational prediction, experimental validation and whole-genome analysis to evaluate intended and unintended mutations arising from CRISPR-Cas9 delivered by lipid nanoparticles (LNPs), providing a practical strategy to improve the safety of genome-editing therapies. The work is published in the journal Molecular Therapy Nucleic Acids."
+        },
         {
           "title": "New research advances amaranth as a nutritious and high-performing leafy green crop",
           "url": "https://phys.org/news/2026-06-advances-amaranth-nutritious-high-leafy.html",
@@ -250,22 +267,6 @@
           "date": "2026-06-19T00:00:00.000Z",
           "source": "Nature Biotechnology",
           "summary": "Nature Biotechnology, Published online: 19 June 2026; doi:10.1038/s41587-026-03197-y R2 retrotransposons are used to integrate DNA into plant and crop 25S ribosomal DNA sites."
-        },
-        {
-          "title": "Efficient site-specific gene addition using R2 retrotransposons in tobacco and rice",
-          "url": "https://www.nature.com/articles/s41587-026-03181-6",
-          "domain": "nature.com",
-          "date": "2026-06-19T00:00:00.000Z",
-          "source": "Nature Biotechnology",
-          "summary": "Nature Biotechnology, Published online: 19 June 2026; doi:10.1038/s41587-026-03181-6 Retrotransposons are applied in plants for safe-harbor transgene integration."
-        },
-        {
-          "title": "LipidCruncher platform makes molecular data analysis more transparent and reproducible",
-          "url": "https://phys.org/news/2026-06-lipidcruncher-platform-molecular-analysis-transparent.html",
-          "domain": "phys.org",
-          "date": "2026-06-18T17:20:01.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Scientists studying lipids—the fatty molecules that store energy, make up cell membranes and act as signals—produce enormous amounts of information. A single experiment can detect thousands of different lipid molecules, generating long lists of measurements. But knowing what the results mean and being able to retrace how scientists moved from raw data to their conclusions isn't always easy."
         }
       ]
     },
@@ -278,84 +279,84 @@
       ],
       "articles": [
         {
-          "title": "Intercontinental Exchange, OKX expand access to tokenized equities via joint venture co-chaired by former Gov. Cuomo",
-          "url": "https://www.theblock.co/post/405640/nyse-intercontinental-exchange-okx-expand-access-tokenized-equities-joint-venture-cuomo?utm_source=rss&utm_medium=rss",
+          "title": "Bitmine, SharpLink and Joe Lubin back Ethlabs nonprofit to advance Ethereum’s ‘next phase’ of growth",
+          "url": "https://www.theblock.co/post/405694/bitmine-sharplink-and-joe-lubin-back-ethlabs-nonprofit-to-advance-ethereums-next-phase-of-growth?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-06-22T15:59:21.000Z",
+          "date": "2026-06-22T19:39:22.000Z",
           "source": "The Block",
-          "summary": "The new joint venture will enable OKX customers in the U.S. and internationally to access ICE futures and NYSE tokenized equities markets."
+          "summary": "Ethlabs, backed by Joe Lubin and the two largest ETH DATs, Bitmine and SharpLink, will focus on institutional adoption."
         },
         {
-          "title": "Crypto's second U.S. lobbying front — tax policy — sees industry push on mining, staking",
-          "url": "https://www.coindesk.com/policy/2026/06/22/crypto-s-second-u-s-lobbying-front-tax-policy-sees-industry-push-on-mining-staking",
-          "domain": "coindesk.com",
-          "date": "2026-06-22T15:56:13.000Z",
-          "source": "CoinDesk",
-          "summary": "The crypto sector's leading U.S. advocacy groups asked the U.S. House's tax committee to advance a bill to clarify treatment of assets from mining and staking."
-        },
-        {
-          "title": "Bitcoin price taps $65.5K as Iran deal sees oil drop toward 16-week low",
-          "url": "https://cointelegraph.com/markets/bitcoin-price-taps-655k-as-iran-deal-sees-oil-drop-toward-16-week-low?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-22T15:48:49.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Bitcoin sought a breakout toward a potential BTC price target near $70,000 as Iran news sent oil toward its lowest levels since early March."
-        },
-        {
-          "title": "Crypto industry groups urge Congress to pass tax staking and mining bill unchanged",
-          "url": "https://www.theblock.co/post/405603/crypto-industry-groups-urge-congress-pass-tax-staking-mining-bill-unchanged?utm_source=rss&utm_medium=rss",
+          "title": "MoonPay expands into back-office financial operations with AI accounting startup Entendre acquisition",
+          "url": "https://www.theblock.co/post/405704/moonpay-expands-back-office-financial-operations-ai-accounting-startup-entendre-acquisition?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-06-22T15:14:13.000Z",
+          "date": "2026-06-22T19:21:18.000Z",
           "source": "The Block",
-          "summary": "Crypto advocacy groups are urging Congress to pass a tax bill, saying the measure would provide clarity on mining and staking rewards."
+          "summary": "MoonPay has made at least four other acquisitions this year as it works to expand via MoonPay Trade and MoonPay Institutional."
         },
         {
-          "title": "Bitcoin treasury Strive’s shares jump as company’s holdings near 20,000 BTC",
-          "url": "https://www.theblock.co/post/405602/bitcoin-treasury-strives-shares-jump-as-companys-holdings-near-20000-btc?utm_source=rss&utm_medium=rss",
+          "title": "Ether’s biggest corporate holders back new Ethereum research hub",
+          "url": "https://www.coindesk.com/business/2026/06/22/ether-s-biggest-corporate-holders-back-new-ethereum-research-hub",
+          "domain": "coindesk.com",
+          "date": "2026-06-22T19:20:45.000Z",
+          "source": "CoinDesk",
+          "summary": "Ethlabs was formed with support from SharpLink, Bitmine and Consensys CEO Joe Lubin as the network's development is expanding beyond the Ethereum Foundation."
+        },
+        {
+          "title": "Solana grabs 95% of tokenized equity as traders debate if SOL bottom is in",
+          "url": "https://cointelegraph.com/markets/solana-captures-95-of-tokenized-equity-as-sol-bottom-debate-grows?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-22T19:17:34.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Solana captured 95% of tokenized equity volumes as analysts debate whether $60 was the bottom for SOL."
+        },
+        {
+          "title": "Securitize asks court to reject tZERO’s ‘meritless’ tokenization patent allegations",
+          "url": "https://www.theblock.co/post/405672/securitize-asks-court-reject-tzeros-meritless-tokenization-patent-allegations?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-06-22T15:01:10.000Z",
+          "date": "2026-06-22T18:21:42.000Z",
           "source": "The Block",
-          "summary": "The bitcoin treasury company founded by Vivek Ramaswamy saw its shares jump about 10% in early trading Monday."
+          "summary": "Securitize alleged that tZERO's actions are \"nothing more than the culmination\" of shareholder pressure to capitalize on the patents."
         },
         {
-          "title": "Anchorage aims to bring banks onchain with new tokenized deposit platform",
-          "url": "https://www.coindesk.com/business/2026/06/19/anchorage-aims-to-bring-banks-onchain-with-new-tokenized-deposit-platform",
+          "title": "Gate CrossEx: An Exchange-Native Answer to the Institutional Capital Fragmentation Problem",
+          "url": "https://www.theblock.co/post/404882/gate-crossex-an-exchange-native-answer-to-the-institutional-capital-fragmentation-problem?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-22T17:26:56.000Z",
+          "source": "The Block",
+          "summary": "For sophisticated crypto desks, the bottleneck has rarely been finding liquidity, but rather moving capital fast enough to use it. A fund running active books across the largest CEXs operates multiple separate balance sheets that don’t talk to each other. Every account must be funded to meet worst-case requirements. Collateral can’t be netted across venues. [&hellip;]"
+        },
+        {
+          "title": "Andrew Cuomo to lead joint TradFi-crypto venture between OKX and Intercontinental Exchange",
+          "url": "https://cointelegraph.com/news/andrew-cuomo-okx-intercontinental-exchange-venture?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-22T16:53:35.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The venture is subject to regulatory approvals but will be co-chaired by ICE and former New York Governor Andrew Cuomo, who began working with OKX in 2023."
+        },
+        {
+          "title": "Bitcoin weekly close above $63K amid RSI divergence may be bottom signal: Data",
+          "url": "https://cointelegraph.com/markets/bitcoin-holds-63k-as-three-market-signals-remain-supportive?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-22T16:52:38.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bitcoin's repeated weekly candle close above $63,000 align with signals that may mark a market bottom."
+        },
+        {
+          "title": "Ethereum Foundation talent exodus sparks fresh debate over leadership",
+          "url": "https://www.coindesk.com/tech/2026/06/22/ethereum-foundation-talent-exodus-sparks-fresh-debate-over-leadership",
           "domain": "coindesk.com",
-          "date": "2026-06-22T15:00:00.000Z",
+          "date": "2026-06-22T16:39:41.000Z",
           "source": "CoinDesk",
-          "summary": "The crypto bank aims to help financial institutions offer round-the-clock payments and settlement without replacing their core systems."
+          "summary": "The Ethereum community is once again debating the future of the foundation after co-executive director Hsiao-Wei Wang announced she would step down."
         },
         {
-          "title": "Why Google search can be a crypto wallet risk",
-          "url": "https://cointelegraph.com/learn/fake-google-ads-crypto-wallet-security?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-22T14:30:00.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Think your wallet is safe? A major crypto risk may start with a Google search and one wrong click."
-        },
-        {
-          "title": "Enso launches RWA app and trading for over 500 tokenized assets",
-          "url": "https://cointelegraph.com/news/enso-launches-rwa-app-trading-500-tokenized-assets?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-22T14:00:00.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Enso launched access to over 500 tokenized assets and US stocks, citing a growing demand for US equity exposure among European investors."
-        },
-        {
-          "title": "MoneyGram joins Solana as validator amid stablecoin payment push",
-          "url": "https://www.coindesk.com/business/2026/06/22/moneygram-joins-solana-as-validator-amid-stablecoin-payment-push",
-          "domain": "coindesk.com",
-          "date": "2026-06-22T13:53:16.000Z",
-          "source": "CoinDesk",
-          "summary": "The remittances firm has become a validator on the Solana blockchain, helping process and secure transactions as it expands its stablecoin payments strategy."
-        },
-        {
-          "title": "Here’s what happened in crypto today",
-          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-22T13:50:31.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+          "title": "HIVE stock surges 25% as Ivy League researchers train neural networks on Paraguay GPUs",
+          "url": "https://www.theblock.co/post/405637/hive-stock-surges-ivy-league-researchers-train-neural-networks-paraguay-gpus?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-22T16:32:59.000Z",
+          "source": "The Block",
+          "summary": "The research was submitted to NeurIPS, one of AI's leading academic conferences, to be held later this year."
         }
       ]
     }
