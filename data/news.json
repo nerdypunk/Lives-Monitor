@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-23T20:23:00.484Z",
+  "updatedAt": "2026-06-23T21:58:16.980Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -111,7 +111,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-23T16:18:19.000Z",
           "source": "Lifespan.io",
-          "summary": "A new study links accelerated aging to early-onset solid cancers, while showing that this gap is becoming wider with each new generation [1]. Why do more young people […]"
+          "summary": "A new study links accelerated aging to early-onset solid cancers, while showing that this gap is becoming wider with each new generation [1]. Why do more young […]"
         },
         {
           "title": "Rapalogix raises $20m for longevity skin health",
@@ -188,6 +188,30 @@
       ],
       "articles": [
         {
+          "title": "Unique instruments automate sample preparation, quality control for cryo-electron microscopy",
+          "url": "https://phys.org/news/2026-06-unique-instruments-automate-sample-quality.html",
+          "domain": "phys.org",
+          "date": "2026-06-23T21:50:04.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Cryo-electron microscopy (cryo-EM) can help scientists determine the three-dimensional structure of proteins in unprecedented detail. Jacques Dubochet, former group leader at EMBL, shared the 2017 Nobel Prize in chemistry with Joachim Frank and Richard Henderson for the development of this technique, which led to the \"resolution revolution\" in structural biology."
+        },
+        {
+          "title": "Researchers provide economic evidence base for shift away from animal testing",
+          "url": "https://phys.org/news/2026-06-economic-evidence-base-shift-animal.html",
+          "domain": "phys.org",
+          "date": "2026-06-23T21:40:10.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Researchers at Northumbria University have produced new economic evidence demonstrating the significant and growing commercial value of alternatives to animal testing in the U.K., with findings already featuring in parliamentary debate on the issue."
+        },
+        {
+          "title": "New energy-boosting quantum mechanism discovered in photosynthetic bacteria",
+          "url": "https://phys.org/news/2026-06-energy-boosting-quantum-mechanism-photosynthetic.html",
+          "domain": "phys.org",
+          "date": "2026-06-23T21:10:01.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Researchers have discovered how certain photosynthetic bacteria use a sophisticated quantum mechanism to increase their efficiency when capturing sunlight. The study, published today in the journal Nature Chemistry and led by Professor Jenny Clark, reveals that nature has been using a process called \"singlet fission,\" effectively a \"two-for-one\" energy deal, to optimize solar harvesting. The findings provide a new blueprint for green technology, particularly as engineers attempt to copy this mechanism to build next-generation solar panels and quantum technologies."
+        },
+        {
           "title": "Can scientists learn cells' language? Researchers aim to decode cellular conversations",
           "url": "https://phys.org/news/2026-06-scientists-cells-language-aim-decode.html",
           "domain": "phys.org",
@@ -242,30 +266,6 @@
           "date": "2026-06-23T00:00:00.000Z",
           "source": "Nature Biotechnology",
           "summary": "Nature Biotechnology, Published online: 23 June 2026; doi:10.1038/s41587-026-03187-0 Germinal achieves epitope-targeted, de novo complementarity-determining region design with high experimental success rates."
-        },
-        {
-          "title": "Leaf-based fluorescence test speeds search for plant gene-editing targets",
-          "url": "https://phys.org/news/2026-06-leaf-based-fluorescence-gene.html",
-          "domain": "phys.org",
-          "date": "2026-06-22T23:40:03.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Gene editing of plant DNA has the potential to produce crops with increased performance and resilience, but it can take a long time to achieve these gains. To shorten this process, scientists often use screening tools to determine where and how edits to the plant genome can be most effective."
-        },
-        {
-          "title": "Bird-derived gene tool inserts plant DNA 30 times more efficiently than CRISPR",
-          "url": "https://phys.org/news/2026-06-bird-derived-gene-tool-inserts.html",
-          "domain": "phys.org",
-          "date": "2026-06-22T22:30:06.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "In a rapidly changing climate landscape, the plants we rely on for food, textiles and more face a multitude of challenges, including rising temperatures, drought and disease. Caltech's Gözde Demirer, the Clare Boothe Luce Assistant Professor of Chemical Engineering, uses genetic engineering tools to make crops more resilient to such threats and enhance plant health. Now, she and a team of Caltech researchers have found a new solution to an old problem in an unlikely source: the zebra finch."
-        },
-        {
-          "title": "Protein-tagging technology maps a hidden communication network between organs",
-          "url": "https://phys.org/news/2026-06-protein-tagging-technology-hidden-communication.html",
-          "domain": "phys.org",
-          "date": "2026-06-22T22:00:07.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "The body's organs are in constant communication. Fat tissue tells the liver when to store or release energy, the immune system signals localized inflammation, and thousands of proteins carry these messages to organs throughout the body. But while scientists have long known these conversations exist, they have struggled to identify exactly which cells are sending which messages."
         }
       ]
     },
@@ -277,6 +277,46 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "Crypto critic Roubini joins tokenization boom with onchain 'Technodollar'",
+          "url": "https://www.coindesk.com/business/2026/06/23/crypto-critic-roubini-joins-tokenization-boom-with-onchain-technodollar",
+          "domain": "coindesk.com",
+          "date": "2026-06-23T21:54:10.000Z",
+          "source": "CoinDesk",
+          "summary": "The economist known as \"Dr. Doom\" is supporting a tokenized security backed by a Nasdaq-listed ETF he oversees, designed to protect wealth in global crises."
+        },
+        {
+          "title": "Senate Democrats urge Republicans to hold hearings on Trump family crypto ties to Abu Dhabi royalty",
+          "url": "https://www.theblock.co/post/405902/senate-democrats-urge-republicans-to-hold-hearings-on-trump-family-crypto-ties-to-abu-dhabi-royalty?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-23T21:44:33.000Z",
+          "source": "The Block",
+          "summary": "Top Democrats are calling for congressional hearings into President Donald Trump’s family crypto venture and Abu Dhabi royalty."
+        },
+        {
+          "title": "Mark Zuckerberg ordered Meta staff to develop moneyless prediction market: NYT",
+          "url": "https://cointelegraph.com/news/mark-zuckerberg-meta-prediction-markets?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-23T21:01:32.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The Meta CEO reportedly plans for the company to launch a prediction market independent of its other apps allowing users to place wagers using a points system rather than money."
+        },
+        {
+          "title": "Trump directing ‘government dollars and time’ to quantum security could be a boon for bitcoin",
+          "url": "https://www.theblock.co/post/405893/trump-directing-government-dollars-time-quantum-security-could-boon-bitcoin?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-23T20:34:06.000Z",
+          "source": "The Block",
+          "summary": "Millions of bitcoins with exposed public addresses may be at risk to quantum computers, Project Eleven previously said."
+        },
+        {
+          "title": "CryptoQuant says Strategy should pause bitcoin purchases and rebuild cash reserves",
+          "url": "https://www.theblock.co/post/405885/cryptoquant-strategy-should-pause-bitcoin-purchases-rebuild-cash-reserves?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-23T20:23:16.000Z",
+          "source": "The Block",
+          "summary": "Michael Saylor's Strategy should pause bitcoin purchases and focus on rebuilding its cash reserves, said CryptoQuant."
+        },
         {
           "title": "Barry Silbert’s Zcash miner proposes merger, sends Nasdaq stock soaring despite rough month for ZEC",
           "url": "https://www.theblock.co/post/405867/barry-silberts-zcash-miner-proposes-merger-nasdaq-stock-soaring-rough-month-zec?utm_source=rss&utm_medium=rss",
@@ -316,46 +356,6 @@
           "date": "2026-06-23T19:09:26.000Z",
           "source": "CoinTelegraph",
           "summary": "OG Bitcoin holders' spending dropped to a 19-month low, as market cycle indicators point to September as a potential market bottom."
-        },
-        {
-          "title": "Nearly 100 Catholic leaders oppose Clarity Act over weakened safeguards against illicit finance and trafficking",
-          "url": "https://www.theblock.co/post/405868/clarity-act-new-opposition-catholic-leaders-weakened-safeguards-against-illicit-finance?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-23T19:01:45.000Z",
-          "source": "The Block",
-          "summary": "The Alliance to End Human Trafficking, which is supported by Catholic organizations, pushed back against the sweeping cryptocurrency bill."
-        },
-        {
-          "title": "Zcash miner Fortitude gets Nasdaq listing via HeartSciences merger",
-          "url": "https://cointelegraph.com/news/zcash-miner-fortitude-go-public-heartsciences-merger?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-23T18:05:01.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The all-stock deal gives Fortitude a Nasdaq listing while HeartSciences retains its healthcare business and existing shareholders keep a minority stake."
-        },
-        {
-          "title": "Meta is developing a prediction market app called ‘Arena’ as sector booms: NYT",
-          "url": "https://www.coindesk.com/markets/2026/06/23/meta-is-developing-a-prediction-market-app-called-arena-as-sector-booms-nyt",
-          "domain": "coindesk.com",
-          "date": "2026-06-23T17:54:32.000Z",
-          "source": "CoinDesk",
-          "summary": "The app would let users forecast future events using a points-based system rather than cash wagers, the report said, citing people familiar with the matter."
-        },
-        {
-          "title": "New York man sentenced for $1.4 million crypto fraud scheme using bogus influencer accounts",
-          "url": "https://www.theblock.co/post/405850/new-york-man-sentenced-1-4-million-crypto-fraud-scheme-bogus-influencer-accounts?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-23T17:48:51.000Z",
-          "source": "The Block",
-          "summary": "A New York man who posed as crypto influencers on Telegram and used false promises of staking rewards was sentenced to 15 months in prison."
-        },
-        {
-          "title": "‘Quarter-end catalyst or consolidation?’: Bitcoin below $63,000 amid ETF outflows, $10.6 billion options expiry",
-          "url": "https://www.theblock.co/post/405831/quarter-end-catalyst-consolidation-bitcoin-below-63000-etf-outflows-10-6-billion-options-expiry?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-23T17:26:34.000Z",
-          "source": "The Block",
-          "summary": "Bitcoin trades under $63,000 ahead of PCE data Thursday on, which analysts say is the market's next key test."
         }
       ]
     }
