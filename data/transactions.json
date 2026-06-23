@@ -8,6 +8,87 @@
   },
   "transactions": [
     {
+      "signature": "BvqeYkx1EEH7bJ7ujyZ6Svuto5xsxLopipnDUNNAP9EnKQkVhyosXDGL7DA16yGaRfJBaQAhS1cG9FYmdxSTkJW",
+      "type": "Transfer",
+      "amountText": "1.95",
+      "from": "6ACwobpN5CJB7TNdJcHpRHqStvS96AH7kvXqiDaeCzLx",
+      "to": "2eCdmJKwGZ9f7rNEYqdAMf2w1hiicWd7awnKzvJihxTg",
+      "blockTime": 1782236806,
+      "slot": 428422698
+    },
+    {
+      "signature": "3YDbnbnYDNn61vv6iNrEdK34Wc1qLZncgQJxnMtnZbkDUPcwjHr2e6Tas49gsNm4xmEoHTqb2FP7VWxEpwANBwuf",
+      "type": "Transfer",
+      "amountText": "1.95",
+      "from": "6ACwobpN5CJB7TNdJcHpRHqStvS96AH7kvXqiDaeCzLx",
+      "to": "2eCdmJKwGZ9f7rNEYqdAMf2w1hiicWd7awnKzvJihxTg",
+      "blockTime": 1782236793,
+      "slot": 428422663
+    },
+    {
+      "signature": "4YLVP958rW45ksKqi63aoEi1LFyjQAKM6Som99i4PBYNG3QW2m5KbiXjHDH8EntgZGBiFLP7CZySQto3y1RURCTa",
+      "type": "Transfer",
+      "amountText": "2",
+      "from": "9fvh1Pu1sVq9ZGH2FAvKk3M22gTvFRNf3hxuhKpJLTyQ",
+      "to": "6ACwobpN5CJB7TNdJcHpRHqStvS96AH7kvXqiDaeCzLx",
+      "blockTime": 1782236785,
+      "slot": 428422644
+    },
+    {
+      "signature": "3u43Hneq6qUEzYCLVoTczB2xXtkYkymLPx2f7aJWYGYoQnqZKwBcwGJGaz8pBqWZwCbrJSCQZFtrTZeGTyyjyz8D",
+      "type": "Transfer",
+      "amountText": "2",
+      "from": "6zEHB39V9RRe63irD6Qa5k37vKaAqsjRy4tyQcGvbuWg",
+      "to": "6ACwobpN5CJB7TNdJcHpRHqStvS96AH7kvXqiDaeCzLx",
+      "blockTime": 1782236780,
+      "slot": 428422632
+    },
+    {
+      "signature": "5wuFZ3C42xAoE2JohYekHeoZYXqGUZKsV6y8Tz1vWSC3aAobg6HqU2ncCW7VpKQcqyvcf8buW2qwZqGMqB4KGUiX",
+      "type": "Transfer",
+      "amountText": "4,000",
+      "from": "TYfK7FW9yQQcWg3oL4SVnLHLwuaEHyyRC7rGP4SiiUk",
+      "to": "6UkGYga8NvWYD3Lxy83SvE3b394hiyqmgD3zZjZfSXVn",
+      "blockTime": 1782234286,
+      "slot": 428416382
+    },
+    {
+      "signature": "2fPbACQyCHVYEbeuQogNziCvTBM1QKYdW2fWNwfec6BrtxpFijLSYVmApDrcjE86joGRP5kLFoBCNvh4UomN3bYQ",
+      "type": "Transfer",
+      "amountText": "1,100",
+      "from": "FzuzFSXz1Prya8esC9VaWSY1WLf8dS1kRNS5gJJSW1kh",
+      "to": "TYfK7FW9yQQcWg3oL4SVnLHLwuaEHyyRC7rGP4SiiUk",
+      "blockTime": 1782233904,
+      "slot": 428415433
+    },
+    {
+      "signature": "64QFCmYoGPcphXcfEo4S1nnoxD1TwnaRAZS8wg4RfeQwNWmozEngF32392Cak1Zuv9zsXzeUkzuTYGj7dVSXiFKK",
+      "type": "Transfer",
+      "amountText": "2,900",
+      "from": "BbziFjXzhXSke3wJbPgAQXYsFvHSfGFHB56WxMtN3HZG",
+      "to": "TYfK7FW9yQQcWg3oL4SVnLHLwuaEHyyRC7rGP4SiiUk",
+      "blockTime": 1782233889,
+      "slot": 428415396
+    },
+    {
+      "signature": "ZQFHH6BA6pDSQ6L777A6tdePrtCLFM4NiwK1VsGo9tsQY46xBWRwkef9GxmtGSop3wGPySsjgySFFsbcUy6sv1v",
+      "type": "Transfer",
+      "amountText": "5.07",
+      "from": "6ACwobpN5CJB7TNdJcHpRHqStvS96AH7kvXqiDaeCzLx",
+      "to": "kjLVW7s9tVyXq8aEFyLARXNLqcJoUDysqHj8z9ToMUX",
+      "blockTime": 1782231917,
+      "slot": 428410445
+    },
+    {
+      "signature": "4AKNy4vheMpD8ik9aEisRvDb4ptP97p1BvfEMVuMX8wFG39rfR4xMZv8QUmHH7j6RbfAt3cPnAUvg9wYYTGtEPL9",
+      "type": "Transfer",
+      "amountText": "5.2",
+      "from": "GjfMfAvX9RZeMJyTgWdqkLSpHBs46wNNC6tVnT9EpCjD",
+      "to": "6ACwobpN5CJB7TNdJcHpRHqStvS96AH7kvXqiDaeCzLx",
+      "blockTime": 1782231904,
+      "slot": 428410412
+    },
+    {
       "signature": "5zsiBjv1rf2MPP1nffjbWKQLEj4XviJNcU42sxSsGdJpzh4XEUtacz4eoDcMZ4SoSzMyBYVfuGa9TG1KRccABWQ2",
       "type": "Transfer",
       "amountText": "4.3875",
@@ -29394,9 +29475,9 @@
     }
   ],
   "stats": {
-    "last24h": 41,
-    "totalCached": 3265,
+    "last24h": 48,
+    "totalCached": 3274,
     "historyComplete": true
   },
-  "updatedAt": "2026-06-23T15:52:41.861Z"
+  "updatedAt": "2026-06-23T18:01:10.866Z"
 }
