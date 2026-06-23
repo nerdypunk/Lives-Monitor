@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-23T21:58:16.980Z",
+  "updatedAt": "2026-06-23T23:15:51.513Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -111,7 +111,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-23T16:18:19.000Z",
           "source": "Lifespan.io",
-          "summary": "A new study links accelerated aging to early-onset solid cancers, while showing that this gap is becoming wider with each new generation [1]. Why do more young […]"
+          "summary": "A new study links accelerated aging to early-onset solid cancers, while showing that this gap is becoming wider with each new generation [1]. Why do more young people get cancer? […]"
         },
         {
           "title": "Rapalogix raises $20m for longevity skin health",
@@ -188,6 +188,14 @@
       ],
       "articles": [
         {
+          "title": "New algorithm identifies disease-linked changes in cells without prior training",
+          "url": "https://phys.org/news/2026-06-algorithm-disease-linked-cells-prior.html",
+          "domain": "phys.org",
+          "date": "2026-06-23T22:10:01.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "A new algorithm could drive breakthroughs in understanding cancer, Alzheimer's disease and other potentially fatal conditions. Researchers from the University of Waterloo developed the machine-learning algorithm, called RNovA, to detect changes in the proteins in human cells. Their research is published in the journal Nature Biotechnology."
+        },
+        {
           "title": "Unique instruments automate sample preparation, quality control for cryo-electron microscopy",
           "url": "https://phys.org/news/2026-06-unique-instruments-automate-sample-quality.html",
           "domain": "phys.org",
@@ -258,14 +266,6 @@
           "date": "2026-06-23T00:00:00.000Z",
           "source": "Nature Biotechnology",
           "summary": "Nature Biotechnology, Published online: 23 June 2026; doi:10.1038/s41587-026-03177-2 Di Carlo and colleagues discuss technologies required to map and engineer the human cell–cell interactome and the therapeutic avenues such an atlas could unlock."
-        },
-        {
-          "title": "Efficient generation of epitope-targeted antibodies with Germinal",
-          "url": "https://www.nature.com/articles/s41587-026-03187-0",
-          "domain": "nature.com",
-          "date": "2026-06-23T00:00:00.000Z",
-          "source": "Nature Biotechnology",
-          "summary": "Nature Biotechnology, Published online: 23 June 2026; doi:10.1038/s41587-026-03187-0 Germinal achieves epitope-targeted, de novo complementarity-determining region design with high experimental success rates."
         }
       ]
     },
@@ -277,6 +277,30 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "AI chipmaker Cerebras down 11% after first public earnings report",
+          "url": "https://www.coindesk.com/markets/2026/06/23/ai-chipmaker-cerebras-down-11-after-first-public-earnings-report",
+          "domain": "coindesk.com",
+          "date": "2026-06-23T22:58:44.000Z",
+          "source": "CoinDesk",
+          "summary": "While revenue was up 92% from year-ago levels, the company forecasted a lower core gross margin next quarter."
+        },
+        {
+          "title": "$170M Ether longs liquidated as crypto market tumbles: Is ETH doomed?",
+          "url": "https://cointelegraph.com/markets/170m-ether-positions-liquidated-as-crypto-market-tumbles-is-eth-doomed?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-23T22:15:20.000Z",
+          "source": "CoinTelegraph",
+          "summary": "ETH price hangs in the balance as a fresh wave of liquidations pressure the altcoin and spillover from Bitcoin’s struggles to hold $62,000 impact investor sentiment."
+        },
+        {
+          "title": "Starmer steps down: What Andy Burnham means for crypto in the UK",
+          "url": "https://cointelegraph.com/features/starmer-steps-down-what-andy-burnham-means-for-crypto-in-the-uk?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-23T22:00:00.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Burnham brings a dose of optimism to the UK crypto industry, having previously supported the blockchain industry as mayor of Manchester."
+        },
         {
           "title": "Crypto critic Roubini joins tokenization boom with onchain 'Technodollar'",
           "url": "https://www.coindesk.com/business/2026/06/23/crypto-critic-roubini-joins-tokenization-boom-with-onchain-technodollar",
@@ -332,30 +356,6 @@
           "date": "2026-06-23T20:07:02.000Z",
           "source": "CoinTelegraph",
           "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-        },
-        {
-          "title": "Kentucky becomes latest state sued by CFTC over prediction markets",
-          "url": "https://www.theblock.co/post/405879/kentucky-becomes-latest-state-sued-by-cftc-over-prediction-markets?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-23T20:01:29.000Z",
-          "source": "The Block",
-          "summary": "Kentucky has become the latest battleground in the fight over prediction markets as the CFTC asserts jurisdiction."
-        },
-        {
-          "title": "Crypto isn't the problem with the US economy, says senator",
-          "url": "https://cointelegraph.com/news/digital-chamber-overlooked-senate-affordability-hearing?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-23T19:49:59.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Louisiana Senator John Kennedy largely dismissed what he called the “promotion” of cryptocurrency by the Digital Chamber CEO Cody Carbone in a Senate hearing on affordability."
-        },
-        {
-          "title": "Multi-year Bitcoin holder selling falls to 19-month low as halving model flags new market bottom date",
-          "url": "https://cointelegraph.com/markets/og-bitcoin-selling-hits-19-month-low-as-halving-model-flags-new-bottom-date-analyst?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-23T19:09:26.000Z",
-          "source": "CoinTelegraph",
-          "summary": "OG Bitcoin holders' spending dropped to a 19-month low, as market cycle indicators point to September as a potential market bottom."
         }
       ]
     }
