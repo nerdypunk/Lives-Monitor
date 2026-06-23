@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-22T23:43:37.200Z",
+  "updatedAt": "2026-06-23T01:49:20.603Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -103,7 +103,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-22T18:11:55.000Z",
           "source": "Lifespan.io",
-          "summary": "Researchers have found that bound pieces of RNA and DNA in the cytoplasm of senescent cells encourage these cells to secrete inflammatory factors. When transcription gets sticky As part of the transcription […]"
+          "summary": "Researchers have found that bound pieces of RNA and DNA in the cytoplasm of senescent cells encourage these cells to secrete inflammatory factors. When transcription gets […]"
         },
         {
           "title": "Your DNA may know your future – now it costs just $599 to find out",
@@ -188,6 +188,14 @@
       ],
       "articles": [
         {
+          "title": "First quantum biosensor can detect rapid, invisible changes in cells",
+          "url": "https://phys.org/news/2026-06-quantum-biosensor-rapid-invisible-cells.html",
+          "domain": "phys.org",
+          "date": "2026-06-23T01:40:02.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "In the development of diseases such as muscular dystrophy, cancer, Ebola and dengue, numerous chemical reactions take place within and between cells that contribute to disease progression. These changes can occur in less than the blink of an eye—within microseconds or faster—making them difficult to analyze. Quantum sensing offers a way to monitor these changes, helping researchers determine when, where and how rapid biological processes occur."
+        },
+        {
           "title": "Leaf-based fluorescence test speeds search for plant gene-editing targets",
           "url": "https://phys.org/news/2026-06-leaf-based-fluorescence-gene.html",
           "domain": "phys.org",
@@ -258,14 +266,6 @@
           "date": "2026-06-20T14:00:01.000Z",
           "source": "Phys.org Biotechnology",
           "summary": "Proteins are the molecular workhorses of the human body. They perform a vast range of essential functions, from building tissues and transporting molecules to regulating cellular communication and defending against infection. Many medicines, including antibody therapies for cancer and insulin therapy for diabetes, among many others, work by interacting with specific proteins or by replacing proteins that are missing or malfunctioning. Because proteins carry out so many critical biological tasks, the ability to predict and engineer how they interact with one another could open new possibilities for treating disease."
-        },
-        {
-          "title": "AI reveals unexpected source of antibiotic candidates in prion proteins",
-          "url": "https://phys.org/news/2026-06-ai-reveals-unexpected-source-antibiotic.html",
-          "domain": "phys.org",
-          "date": "2026-06-19T19:00:04.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "New antibiotic candidates for drug-resistant bacteria may reside inside prions, misfolded proteins in the brain best known for rare and fatal degenerative brain diseases. Prion and prion-like proteins may hide short peptides, called \"prionins,\" that can kill bacteria, suggesting proteins best known for their role in neurodegeneration may contain molecular features linked to immune defense, according to new research from the Perelman School of Medicine at the University of Pennsylvania."
         }
       ]
     },
@@ -277,6 +277,14 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "TurboFlow, aiming to be the ‘Kalshi of APAC,’ raises $6 million seed led by Pantera Capital",
+          "url": "https://www.theblock.co/post/405706/turboflow-funding-crypto-pantera-capital?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-23T00:00:02.000Z",
+          "source": "The Block",
+          "summary": "The platform offers prediction markets and perpetual futures and aims to be a localized alternative to Kalshi and Polymarket for Asian users."
+        },
         {
           "title": "U.S. Senate passes housing bill that carries four-year ban on a Fed CBDC",
           "url": "https://www.coindesk.com/policy/2026/06/22/u-s-senate-passes-housing-bill-that-carries-four-year-ban-on-a-fed-cbdc",
@@ -348,14 +356,6 @@
           "date": "2026-06-22T20:14:02.000Z",
           "source": "CoinDesk",
           "summary": "A sharp selloff in digital credit products exposed growing pains in a young market, a Strive executive argues the underlying credit fundamentals remain intact."
-        },
-        {
-          "title": "New York, Maryland and Utah to hold primaries with crypto PAC money hanging over voters",
-          "url": "https://cointelegraph.com/news/us-state-primaries-crypto-pac-money-candidates?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-22T19:57:48.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Crypto-backed PACs disclosed spending more than $8 million on media to support candidates in three US states, as some Maryland Democrats have called on one candidate to reject “outside spending from crypto billionaires.”"
         }
       ]
     }
