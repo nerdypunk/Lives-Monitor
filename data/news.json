@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-24T01:26:12.531Z",
+  "updatedAt": "2026-06-24T05:43:43.536Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -88,7 +88,8 @@
           "source": "KuCoin",
           "summary": "DeSci, AI, or Meme: Where Crypto Capital Flows in Mid-2026 &nbsp;&nbsp; KuCoin"
         }
-      ]
+      ],
+      "warning": "Google News DeSci returned 503"
     },
     {
       "name": "Longevity",
@@ -98,84 +99,84 @@
       ],
       "articles": [
         {
+          "title": "Insurance confronts the longevity challenge",
+          "url": "https://longevity.technology/news/insurance-confronts-the-longevity-challenge/",
+          "domain": "longevity.technology",
+          "date": "2026-06-23T16:51:48.000Z",
+          "source": "Longevity.Technology",
+          "summary": "The latest Longevity Show blog explores why healthspan may matter more than lifespan for insurers navigating demographic change. Actuarial tables have long been insurance’s primary lens on aging. But longevity science is asking the sector to look rather further. The latest blog in The Longevity Show‘s sector-focused series turns its attention to insurers – examining […] The post Insurance confronts the longevity challenge appeared first on Longevity.Technology ."
+        },
+        {
           "title": "Biological Aging May Be Driving Increased Early-Onset Cancer",
           "url": "https://lifespan.io/biological-aging-may-be-driving-increased-early-onset-cancer/",
           "domain": "lifespan.io",
           "date": "2026-06-23T16:18:19.000Z",
           "source": "Lifespan.io",
-          "summary": "A new study links accelerated aging to early-onset solid cancers, while showing that this gap is becoming wider with each new generation [1]. Why do more young people get cancer? While life expectancy has been on the rise for […]"
+          "summary": "A new study links accelerated aging to early-onset solid cancers, while showing that this gap is becoming wider with each new generation [1]. Why do more young people get cancer? […]"
         },
         {
-          "title": "A Transcriptional Failure Leads to Systemic Inflammation",
-          "url": "https://lifespan.io/a-transcriptional-failure-leads-to-systemic-inflammation/",
-          "domain": "lifespan.io",
-          "date": "2026-06-22T18:11:55.000Z",
-          "source": "Lifespan.io",
-          "summary": "Researchers have found that bound pieces of RNA and DNA in the cytoplasm of senescent cells encourage these cells to secrete inflammatory […]"
+          "title": "Rapalogix raises $20m for longevity skin health",
+          "url": "https://longevity.technology/news/rapalogix-raises-20m-for-longevity-skin-health/",
+          "domain": "longevity.technology",
+          "date": "2026-06-23T16:06:53.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Series A funding will expand Re-Q and advance a pipeline built on mTOR biology as longevity science seeks commercial traction. Rapalogix Health has raised $20 million in Series A financing to support the expansion of its longevity-focused skin health platform, as investors continue to back companies attempting to translate aging biology into products with clear […] The post Rapalogix raises $20m for longevity skin health appeared first on Longevity.Technology ."
         },
         {
-          "title": "Epigenetic Drug Targets Fat, Improving Blood Vessel Health",
-          "url": "https://lifespan.io/epigenetic-drug-targets-fat-improving-blood-vessel-health/",
-          "domain": "lifespan.io",
-          "date": "2026-06-19T17:04:10.000Z",
-          "source": "Lifespan.io",
-          "summary": "Scientists have targeted the thin fat layer around blood vessels with a transcription inhibitor, reducing symptoms of cardiometabolic disease [1]. When vessels can’t “just relax” Cardiometabolic disease (CMD) – characterized, among other […]"
+          "title": "Insilico’s $2.5b AI drug discovery deal targets neuroimmune failure",
+          "url": "https://longevity.technology/news/insilicos-2-5b-ai-drug-discovery-deal-targets-neuroimmune-failure/",
+          "domain": "longevity.technology",
+          "date": "2026-06-23T15:33:34.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Partnership with SK Biopharma signals growing confidence that AI can accelerate search for treatments for some of brain’s toughest diseases. For all the excitement surrounding AI, one question still hangs over the biotechnology sector: can AI actually help deliver better medicines? A new collaboration between generative AI-driven drug discovery company Insilico Medicine and Korean-based biotech […] The post Insilico’s $2.5b AI drug discovery deal targets neuroimmune failure appeared first on Longevity.Technology ."
         },
         {
-          "title": "How Antioxidants Can Selectively Remove Some Senescent Cells",
-          "url": "https://lifespan.io/how-antioxidants-can-selectively-remove-some-senescent-cells/",
-          "domain": "lifespan.io",
-          "date": "2026-06-18T18:15:22.000Z",
-          "source": "Lifespan.io",
-          "summary": "In Aging Cell, researchers have described the way that antioxidants work against senescence in muscle cells by altering mTOR signaling. Senescent cells don’t sense nutrients properly Oxidative stress and mTOR signaling, which determines how cells respond to nutrient availability, […]"
+          "title": "New image? AI art giant Midjourney’s wildest leap into longevity",
+          "url": "https://longevity.technology/news/new-image-ai-art-giant-midjourneys-wildest-leap-into-longevity/",
+          "domain": "longevity.technology",
+          "date": "2026-06-23T15:31:30.000Z",
+          "source": "Longevity.Technology",
+          "summary": "The company known for generating AI artwork wants to turn body scanning into a spa experience and perhaps reshape preventive health. If someone had asked which AI company might make a play for longevity next, Midjourney probably wouldn’t have topped the list. The company became a household name by transforming simple text prompts into striking […] The post New image? AI art giant Midjourney’s wildest leap into longevity appeared first on Longevity.Technology ."
         },
         {
-          "title": "Late-Life Gene Therapy Boosts Lifespan in Mice by 20%",
-          "url": "https://lifespan.io/late-life-gene-therapy-boosts-lifespan-in-mice-by-20/",
-          "domain": "lifespan.io",
-          "date": "2026-06-16T16:24:07.000Z",
-          "source": "Lifespan.io",
-          "summary": "In a new study, muscle-targeted viral-vector-based delivery of the protein FGF21 significantly increased median lifespan in male mice and improved many healthspan markers [1]. […]"
+          "title": "Singapore IPA nanosensor speed up gut biomarker testing",
+          "url": "https://longevity.technology/news/singapore-ipa-nanosensor-speed-up-gut-biomarker-testing/",
+          "domain": "longevity.technology",
+          "date": "2026-06-23T15:25:37.000Z",
+          "source": "Longevity.Technology",
+          "summary": "New nanosensor could make gut health biomarkers faster and easier to measure, signaling growing opportunities in preventive health. On any given morning in Singapore, one of the world’s most ambitious living laboratories, commuters stream through train stations while researchers across the city work on technologies designed to make healthcare faster, smarter and more personal. In […] The post Singapore IPA nanosensor speed up gut biomarker testing appeared first on Longevity.Technology ."
         },
         {
-          "title": "How Senescent Cells Grow the Homes of Cancerous Tumors",
-          "url": "https://lifespan.io/how-senescent-cells-grow-the-homes-of-cancerous-tumors/",
-          "domain": "lifespan.io",
-          "date": "2026-06-15T19:57:28.000Z",
-          "source": "Lifespan.io",
-          "summary": "A team of reviewers has taken a look at the relationship between cancer, cellular senescence, and vascular overgrowth and published this information in Aging Cell. Different gut cancers form through different pathways The authors […]"
+          "title": "Next Health opens flagship wellness and longevity center near Boston",
+          "url": "https://longevity.technology/news/next-health-opens-flagship-wellness-and-longevity-center-near-boston/",
+          "domain": "longevity.technology",
+          "date": "2026-06-23T09:31:24.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Next Health has opened its East Coast flagship at The Street Chestnut Hill, just outside Boston, the company announced on 22 June 2026. The 4,252-square-foot center significantly exceeds the typical Next Health footprint of 1,500 to 2,500 square feet and is welcoming visitors during a soft opening period. Designed as the company’s primary East Coast […] The post Next Health opens flagship wellness and longevity center near Boston appeared first on Longevity.Technology ."
         },
         {
-          "title": "Inducing NREM-Like Neuronal Patterns Mimics Sleep Benefits",
-          "url": "https://lifespan.io/inducing-nrem-like-neuronal-patterns-mimics-sleep-benefits/",
-          "domain": "lifespan.io",
-          "date": "2026-06-11T19:24:26.000Z",
-          "source": "Lifespan.io",
-          "summary": "Scientists have “faked” sleep in mice by artificially creating the on/off neuronal firing pattern similar to that seen in non-REM sleep. This produced sleep-like effects, including improved […]"
+          "title": "BCI invests in Tolerance Bio’s new treatment aiming to retrain the immune system",
+          "url": "https://longevity.technology/news/bci-invests-in-tolerance-bios-new-treatment-aiming-to-retrain-the-immune-system/",
+          "domain": "longevity.technology",
+          "date": "2026-06-23T08:41:09.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Beyond Celiac Investments (BCI), the venture philanthropy program of Beyond Celiac, announced an investment in Tolerance Bio Inc. to support advancement of its celiac disease program through early development and preclinical proof of concept. The funding will support Tolerance Bio’s approach to restoring immune tolerance by targeting the thymus, aiming to retrain the immune system […] The post BCI invests in Tolerance Bio’s new treatment aiming to retrain the immune system appeared first on Longevity.Technology ."
         },
         {
-          "title": "The Immune System Maintains the Microbiome",
-          "url": "https://lifespan.io/the-immune-system-maintains-the-microbiome/",
-          "domain": "lifespan.io",
-          "date": "2026-06-10T17:17:32.000Z",
-          "source": "Lifespan.io",
-          "summary": "In a recent paper, researchers have proposed that the immune system and immune surveillance play a central role in maintaining microbial […]"
+          "title": "First patient dosed in Phase 3 trial for Innovent’s advanced myeloma treatment",
+          "url": "https://longevity.technology/news/first-patient-dosed-in-phase-3-trial-for-innovents-advanced-myeloma-treatment/",
+          "domain": "longevity.technology",
+          "date": "2026-06-23T08:36:09.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Innovent Biologics has dosed the first patient in TriadicMM-1 (NCT07623798), a pivotal, multicenter, randomized, controlled, open-label Phase 3 study in China evaluating IBI3003, the firm’s tri-specific antibody targeting GPRC5D, BCMA and CD3, for second- to fifth-line relapsed or refractory multiple myeloma. The trial will compare IBI3003 to the investigator’s choice of pomalidomide, bortezomib and dexamethasone […] The post First patient dosed in Phase 3 trial for Innovent’s advanced myeloma treatment appeared first on Longevity.Technology ."
         },
         {
-          "title": "How Gut Bacteria Affect Lung Fibrosis",
-          "url": "https://lifespan.io/how-gut-bacteria-affect-lung-fibrosis/",
-          "domain": "lifespan.io",
-          "date": "2026-06-09T21:04:41.000Z",
-          "source": "Lifespan.io",
-          "summary": "In Aging Cell, researchers have described how a strain of Lactobacillus gut bacteria sends chemical signals that enter the bloodstream and decrease fibrosis in the […]"
-        },
-        {
-          "title": "TimePie Longevity Forum Spotlights Evidence-Based Medicine",
-          "url": "https://lifespan.io/timepie-longevity-forum-spotlights-evidence-based-medicine/",
-          "domain": "lifespan.io",
-          "date": "2026-06-09T16:00:41.000Z",
-          "source": "Lifespan.io",
-          "summary": "As longevity moves from laboratory promise toward clinical validation, China is emerging as one of the largest demand bases shaping the field’s next phase. On September 12–13, 2026, the 7th TimePie Longevity Forum will convene […]"
+          "title": "Nura Bio raises $73.8m to test ALS drug in patients",
+          "url": "https://longevity.technology/news/nura-bio-raises-73-8m-to-test-als-drug-in-patients/",
+          "domain": "longevity.technology",
+          "date": "2026-06-23T08:36:08.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Nura Bio completed a $73.8 million Series B financing led by The Column Group, with participation from Euclidean Capital, Samsara BioCapital and Sanofi Ventures. The financing will fund clinical proof-of-biology studies across Nura Bio’s pipeline, including the Phase 1b/2a study of NB-4746, an oral brain-penetrant SARM1 inhibitor for amyotrophic lateral sclerosis, for which the first […] The post Nura Bio raises $73.8m to test ALS drug in patients appeared first on Longevity.Technology ."
         }
       ]
     },
@@ -188,84 +189,84 @@
       ],
       "articles": [
         {
-          "title": "New algorithm identifies disease-linked changes in cells without prior training",
-          "url": "https://phys.org/news/2026-06-algorithm-disease-linked-cells-prior.html",
-          "domain": "phys.org",
-          "date": "2026-06-23T22:10:01.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "A new algorithm could drive breakthroughs in understanding cancer, Alzheimer's disease and other potentially fatal conditions. Researchers from the University of Waterloo developed the machine-learning algorithm, called RNovA, to detect changes in the proteins in human cells. Their research is published in the journal Nature Biotechnology."
+          "title": "Germination capacity of pistachio (Pistacia vera L.) seeds related to genotypic variation and phytochemical contents",
+          "url": "https://arxiv.org/abs/2606.23733",
+          "domain": "arxiv.org",
+          "date": "2026-06-24T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2606.23733v1 Announce Type: new Abstract: Genetic diversity and phytochemical components are the endogenous factors that influence seed germination. The current study aimed to compare the seed germination capacity of 15 Pistacia vera genotypes after assessing their genotypic variation using 32 primers (16 ISSR and 16 RAPD) and phytochemical contents. The obtained results explained that the ISSR primers classified the 15 P. vera genotypes into four groups, while the RAPD primers classified them into three groups. The genotypes G11, G5, G1, G9, G6, G14, and G10 had the highest germination percentages (98.89, 97.67, 96.67, 94.44, 93.33, 93.33, and 91.11%), respectively. Additionally, their germination speeds were also the highest. However, the lowest germination percentages (62.22 and 68.59%) were recorded in G8 and G4, respectively. Meanwhile, (G9, G10, and G11), (G1 and G14), and (G5 and G6) were identified together in the same group in accordance with both ISSR and RAPD primers. Also, G4 and G8 were in the same subgroup based on RAPD primers. Moreover, the maximum percent protein values (21.88, 21.88, and 20.78%) were measured in the seed kernels of G9, G11, and G1, respectively. Soluble sugar content was the best (798.9 ug g-1) in G11. The best percentage of oil (45.3%) was observed in G5."
         },
         {
-          "title": "Unique instruments automate sample preparation, quality control for cryo-electron microscopy",
-          "url": "https://phys.org/news/2026-06-unique-instruments-automate-sample-quality.html",
-          "domain": "phys.org",
-          "date": "2026-06-23T21:50:04.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Cryo-electron microscopy (cryo-EM) can help scientists determine the three-dimensional structure of proteins in unprecedented detail. Jacques Dubochet, former group leader at EMBL, shared the 2017 Nobel Prize in chemistry with Joachim Frank and Richard Henderson for the development of this technique, which led to the \"resolution revolution\" in structural biology."
+          "title": "Performance and Interpretability of Convolutional, Transformer, and Hybrid Deep Learning Models in Colorectal Histology Classification",
+          "url": "https://arxiv.org/abs/2606.23744",
+          "domain": "arxiv.org",
+          "date": "2026-06-24T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2606.23744v1 Announce Type: new Abstract: Deep learning has become an important tool in computational pathology, enabling automated analysis of histopathological images. While convolutional neural networks (CNNs) have traditionally dominated this field, transformer-based and hybrid architectures have recently demonstrated promising performance. However, comprehensive comparisons of these approaches for colorectal histopathology remain limited. This study evaluated twelve ImageNet-pretrained CNN, transformer, and hybrid architectures using the Kather colorectal histopathology dataset containing 5,000 image tiles from eight tissue classes. All models were trained using a standardized transfer-learning and fine-tuning protocol and assessed using multiple performance metrics, including accuracy, precision, sensitivity, specificity, F1-score, ROC-AUC, Cohen's kappa, and Matthews correlation coefficient. All evaluated models achieved high classification performance, with accuracies ranging from 93.2% to 97.1%. EVA-02 achieved the highest overall performance (97.1% accuracy, 97.0% F1-score), closely followed by ViT-B/16. Among CNNs, ResNet34 and ConvNeXt-Tiny demonstrated highly competitive performance, achieving accuracies of 96.4% and 96.3%, respectively. Transformer architectures generally produced the strongest results across evaluation metrics, although the performance gap between the best transformer and CNN models was relatively small. Per-class analysis showed consistently strong classification performance across all tissue categories, with Complex Stroma representing the most challenging class. Overall, transformer-based architectures achieved the highest predictive performance, whereas modern CNNs provided a favorable balance between accuracy and model complexity. These findings provide a comprehensive benchmark of major deep learning paradigms for colorectal histopathology classification."
         },
         {
-          "title": "Researchers provide economic evidence base for shift away from animal testing",
-          "url": "https://phys.org/news/2026-06-economic-evidence-base-shift-animal.html",
-          "domain": "phys.org",
-          "date": "2026-06-23T21:40:10.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Researchers at Northumbria University have produced new economic evidence demonstrating the significant and growing commercial value of alternatives to animal testing in the U.K., with findings already featuring in parliamentary debate on the issue."
+          "title": "JEDEL: Zero-Shot DNA-Encoded Library Design for Early-Stage Drug Discovery",
+          "url": "https://arxiv.org/abs/2606.23745",
+          "domain": "arxiv.org",
+          "date": "2026-06-24T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2606.23745v1 Announce Type: new Abstract: We present JEDEL, a framework for generating synthesis-ready DNA-encoded libraries (DELs) directly from three-dimensional pharmacophore representations of active ligands. JEDEL is the first model to map pharmacophore interaction patterns to actionable, scalable synthesis instructions, enabling the design of targeted libraries comprising potentially millions of molecules. Unlike existing generative approaches that produce virtual compounds requiring downstream synthesis planning, JEDEL operates within the space of purchasable building blocks and validated reactions, ensuring that every output is experimentally realizable by construction. JEDEL learns a predictive alignment between pharmacophore geometry and molecular structure and decodes this into combinatorial synthesis routes at scale. Across 18 protein targets, it generates focused libraries that outperform random and diversity-based baselines in predicted binding affinity, pharmacophore recovery, and sample efficiency, without target-specific retraining. JEDEL enables a shift from virtual molecule generation to experimentally deployable library design."
         },
         {
-          "title": "New energy-boosting quantum mechanism discovered in photosynthetic bacteria",
-          "url": "https://phys.org/news/2026-06-energy-boosting-quantum-mechanism-photosynthetic.html",
-          "domain": "phys.org",
-          "date": "2026-06-23T21:10:01.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Researchers have discovered how certain photosynthetic bacteria use a sophisticated quantum mechanism to increase their efficiency when capturing sunlight. The study, published today in the journal Nature Chemistry and led by Professor Jenny Clark, reveals that nature has been using a process called \"singlet fission,\" effectively a \"two-for-one\" energy deal, to optimize solar harvesting. The findings provide a new blueprint for green technology, particularly as engineers attempt to copy this mechanism to build next-generation solar panels and quantum technologies."
+          "title": "Identifying structural design principles shaping the computational abilities of recurrent neural networks",
+          "url": "https://arxiv.org/abs/2606.23874",
+          "domain": "arxiv.org",
+          "date": "2026-06-24T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2606.23874v1 Announce Type: new Abstract: Understanding how the architecture of neural networks shapes the computations they carry is a central challenge in neuroscience and machine learning. While specific circuit architectures have been linked to particular network computations and theoretical bounds on expressivity of broad classes of networks have been found, we are still missing general principles connecting the structure of finite networks to their computational capabilities. Here, we characterize the computational abilities of recurrent neural networks as a function of their connectivity by training a large collection of different networks to compute a large set of Boolean functions. For small networks, we constructed the complete ``catalogs'' of network-function performance, which revealed that computational capacity varies widely across architectures and that most networks show poor performance, and most functions are hard to compute. However, we show that having local 2- and 3-cycles in a network strongly enhances its computational ability, and networks with such cycles are often the minimal architectures that can solve particular functions. We further show that a small set of structural statistics accurately predict networks' performance. Extending our analysis to large networks showed that typical networks fail even to approximate a randomly selected function. Surprisingly, adding a small number of sparsely connected biologically-inspired interneurons to the network dramatically increases computational capacity. As in small networks, adding short cycles improved networks' capacity, outperforming acyclic or reachability-matched controls. Thus, our results identify local cycles as design principles linking neural connectivity to computational power, and offer a general framework to explore structure-function relations in computing networks."
         },
         {
-          "title": "Can scientists learn cells' language? Researchers aim to decode cellular conversations",
-          "url": "https://phys.org/news/2026-06-scientists-cells-language-aim-decode.html",
-          "domain": "phys.org",
-          "date": "2026-06-23T18:40:01.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Multicellular life depends on remarkable acts of cooperation. Every cell in the human body must sense what is happening around it, interpret signals from its neighbors and respond in ways that support the larger tissue. These chemical, physical and electrical messages help determine when cells grow, repair damage, fight infection or quiet down after a threat has passed—and tissue health depends on how well those parts come together."
+          "title": "Mutant Fixation for a Stochastic Evolutionary Model in Fragmented Populations",
+          "url": "https://arxiv.org/abs/2606.23946",
+          "domain": "arxiv.org",
+          "date": "2026-06-24T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2606.23946v1 Announce Type: new Abstract: Population fragmentation is a common feature of many biological systems. Understanding mutant fixation in such systems is challenging because the underlying stochastic dynamics are high-dimensional. In this work, we develop a general mathematical framework for analyzing stochastic evolution in fragmented populations connected by rare migration. The framework is sufficiently general to accommodate heterogeneous deme sizes, deme-dependent birth and death processes, and migration on arbitrary strongly connected directed networks with asymmetric migration rates. We show that, in the limit where migration occurs on a much slower timescale than within-deme dynamics, the full stochastic process can be reduced to a lower-dimensional Markov chain whose states correspond to configurations of fully mutant and fully wild-type demes. The reduction theorem establishes that fixation probabilities and absorption times of the original process are asymptotically determined by the corresponding quantities of a reduced chain. As an application, we derive explicit formulas for mutant fixation probabilities and fixation times in fragmented populations initiated by the introduction of a single mutant. The results provide a general and tractable approach for studying evolutionary dynamics in complex fragmented populations."
         },
         {
-          "title": "New AI tool identifies wild animals by their unique patterns in real time",
-          "url": "https://phys.org/news/2026-06-ai-tool-wild-animals-unique.html",
-          "domain": "phys.org",
-          "date": "2026-06-23T18:20:06.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Patterns reveal the individual: A novel AI algorithm equips researchers with a powerful new tool to accurately identify individual jaguars, zebras and giraffes in real time based on their unique coat patterns. Biologists and ecologists can now observe individual wild animals as they move from place to place, as well as their behavior and development over long periods, accurately, with much less effort and significantly faster than before—a major step forward for nature conservation. The scientists explain how this works in the journal Methods in Ecology and Evolution."
+          "title": "The Morality Game: An online multiplayer platform to standardize, expedite, and expand research on cooperation",
+          "url": "https://arxiv.org/abs/2606.24037",
+          "domain": "arxiv.org",
+          "date": "2026-06-24T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2606.24037v1 Announce Type: new Abstract: This paper presents the Morality Game, a platform designed to standardize and accelerate research on cooperation and morality through game theory-based experiments. The Morality Game functions as a video game for science, a hub for economic game research, an open-access data repository, and a tool for expediting the research process. It allows researchers to launch customized online multiplayer experiments with zero coding, using game trees to simulate moral dilemmas. The platform automates participant payments, data collection, and analysis, promoting replication and transparency. This paper details the platform's architecture, emphasizing its capabilities for standardizing research methods, unifying data, and enabling rapid aggregation and comparison of results. The Morality Game leverages dynamic, self-correcting game trees to generate well-controlled, abstract experiments that can represent any social scenario. Participants interact through a responsive user interface, making the experiments intuitive and engaging. Researchers can configure experiments through a user-friendly dashboard, specifying various parameters and utilizing pre-created or auto-generated game trees. The platform supports nested belief representation and incorporates artificial agents with customizable traits. Plans include integrating social networking features, enhancing emotional expression capabilities, and expanding the platform's reach to remote small-scale societies to test the ecological validity of findings. By evolving into an integrated ecosystem that supports the entire research lifecycle, the Morality Game aims to foster collaboration, enhance data accessibility, and ultimately increase cooperation. This paper outlines the platform's current features, architectural details, and future directions, demonstrating its potential to advance cooperation research."
         },
         {
-          "title": "Amazon fish reveal a synchronized survival tactic that could transfer to drone swarms",
-          "url": "https://phys.org/news/2026-06-amazon-fish-reveal-synchronized-survival.html",
-          "domain": "phys.org",
-          "date": "2026-06-23T14:40:07.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Some fish swim in synchrony. Others, it turns out, breathe in synchrony. This is true for arapaimas, an obligate air-breathing species living in the Amazon. A new study in Communications Biology, led by the Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB) in collaboration with the Cluster of Excellence \"Science of Intelligence,\" has demonstrated for the first time that arapaima juveniles gather by the hundreds to synchronize their trips to the water surface with split-second precision, most likely to avoid predators and maximize survival and efficiency."
+          "title": "Hierarchical models for large chemical reaction networks",
+          "url": "https://arxiv.org/abs/2606.24246",
+          "domain": "arxiv.org",
+          "date": "2026-06-24T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2606.24246v1 Announce Type: new Abstract: The quest for the origin of life, especially in the metabolism-first scenario inspired by the celebrated Miller-Urey experiment, has triggered a research program dedicated to studying the emergence of complex dynamical behaviors in large chemical mixtures. Though autocatalysis, understood as the capacity of a reaction network to grow exponentially, has been recognized as a potential driver of instability and multistability, no quantitative theory has yet emerged, partly because of the lack of available kinetic data. We introduce a computational tool for large chemical reaction networks based on a scale-splitting algorithm inspired by Wilson's renormalization group. We focus on dilute regimes, where species of interest have low concentration, non-unimolecular reactions may be neglected, and the dynamics is close to linear. Depending on parameter thresholds, such networks can exhibit autocatalytic behavior. Our algorithm takes as input a network structure and outputs (1) a simplified effective graph containing the dominant reaction pathways, obtained through recursive coarse-graining; and (2) analytical formulas for the dynamics in terms of kinetic rates, called hierarchical formulas. These formulas are approximate but interpretable, accurate when scale separation is effective, and provide a reliable multiscale description of the dynamics. Their domains of validity define kinetic phases, each typically associated with a distinct pattern of chemical composition. We show on a simple example that this approach enables fast and reliable inference of kinetic rates from concentration time series. Hierarchical formulas have been implemented as a Python package and are illustrated on a simplified model of the formose reaction."
         },
         {
-          "title": "'Super fungi' offer greener path to recovery of critical minerals",
-          "url": "https://phys.org/news/2026-06-super-fungi-greener-path-recovery.html",
-          "domain": "phys.org",
-          "date": "2026-06-23T13:00:05.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "A \"superpowered\" fungus engineered at The University of Queensland could be used to extract critical minerals from toxic mining waste while also helping to remediate sites. Environmental engineers at UQ's new Biosustainability Hub are growing the unique fungal strains that can be used to detoxify mining tailings and capture traces of important rare earths without the need for harsh chemicals."
+          "title": "Graph-based analysis of inflammatory profiles in New Onset Refractory Status Epilepticus (NORSE)",
+          "url": "https://arxiv.org/abs/2606.24351",
+          "domain": "arxiv.org",
+          "date": "2026-06-24T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2606.24351v1 Announce Type: new Abstract: Background and Objectives: Cryptogenic new-onset refractory status epilepticus (cNORSE) represents one of the most severe forms of status epilepticus, occurring in patients without prior neurological disease, and remaining of unknown aetiology despite extensive diagnostic evaluation. Emerging evidence supports a role for immune dysregulation in cNORSE; however, marked heterogeneity in inflammatory signatures has been reported, complicating the selection of targeted immunotherapies. Therefore, a critical need for tools facilitating the interpretation of cytokine panels exists. Methods: Building on the identification of distinct inflammatory groups of cNORSE patients using a graph clustering approach applied to a cohort of 62 patients with serum profiling of 96 cytokines, we tailored new models to quantify attribution probability to biologically validated clusters. Statistical assessment of the most informative model involved Monte-Carlo simulations and custom-developed parametric tests. Ultimately, we applied our framework to the implementation of a clinician-friendly interface for inflammatory profiling. Results: Our approach enables quick processing of several cytokine profiles, providing the most likely inflammatory cluster, associated attribution probability, and statistical confidence. For longitudinal assessments, the proposed method may also allow tracking the evolution of inflammatory trajectories over time. Conclusion: Systematic statistical characterization of the inflammatory heterogeneity in cNORSE requires the development of clinically actionable support tools. Our study offers a framework that may support personalized immunomodulatory strategies in cNORSE patients through clustering-based cytokine profiling."
         },
         {
-          "title": "First quantum biosensor can detect rapid, invisible changes in cells",
-          "url": "https://phys.org/news/2026-06-quantum-biosensor-rapid-invisible-cells.html",
-          "domain": "phys.org",
-          "date": "2026-06-23T01:40:02.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "In the development of diseases such as muscular dystrophy, cancer, Ebola and dengue, numerous chemical reactions take place within and between cells that contribute to disease progression. These changes can occur in less than the blink of an eye—within microseconds or faster—making them difficult to analyze. Quantum sensing offers a way to monitor these changes, helping researchers determine when, where and how rapid biological processes occur."
+          "title": "Machine learning-based modeling to predict inhibitors for targets of Alzheimer's Disease",
+          "url": "https://arxiv.org/abs/2606.24372",
+          "domain": "arxiv.org",
+          "date": "2026-06-24T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2606.24372v1 Announce Type: new Abstract: Alzheimer's Disease is a chronic neurodegenerative disorder projected to affect 115 million people by 2050, driven by mechanisms like the cholinergic and amyloid hypotheses and insulin signaling disruptions involving key targets such as BACE-1, AChE, and GSK-3 beta. Utilizing machine learning (ML), we developed predictive models for inhibitor screening, achieving AUC-ROC scores above 0.9 for all targets. BACE-1 models showed high accuracy (86.63%) but limited chemical diversity. AChE models exhibited greater chemical diversity and similar performance (AUC-ROC: 92.86%, Accuracy: 85.20%), while GSK-3 beta models achieved an AUC-ROC of 91.14% with the highest proportion of viable drug candidates. These findings highlight the potential of ML in Alzheimer's drug discovery, with AChE and GSK-3 beta emerging as promising targets."
         },
         {
-          "title": "Mapping and engineering the human cell–cell interactome",
-          "url": "https://www.nature.com/articles/s41587-026-03177-2",
-          "domain": "nature.com",
-          "date": "2026-06-23T00:00:00.000Z",
-          "source": "Nature Biotechnology",
-          "summary": "Nature Biotechnology, Published online: 23 June 2026; doi:10.1038/s41587-026-03177-2 Di Carlo and colleagues discuss technologies required to map and engineer the human cell–cell interactome and the therapeutic avenues such an atlas could unlock."
+          "title": "EEG Interpretation Across Chant Listening: A Single-Subject Pilot Investigation Using Spectral and Functional Connectivity Analysis",
+          "url": "https://arxiv.org/abs/2606.24406",
+          "domain": "arxiv.org",
+          "date": "2026-06-24T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2606.24406v1 Announce Type: new Abstract: This technical report presents an EEG-based investigation of neural activity across five auditory conditions: Resting State (RS), Shiv Tandav Stotra (STS), Mahasudarshan Mantra (MM), Aum Chant, and Tanpura Listening. EEG recordings acquired from a healthy 5-year-old participant were analyzed using spectral power estimation and functional connectivity measures based on the weighted Phase Lag Index (wPLI). Spectral analysis revealed condition-specific modulation of neural oscillatory activity, with STS listening producing the highest relative power across multiple frequency bands, particularly within the beta range. Functional connectivity analysis demonstrated distinct network organizations across conditions. STS listening exhibited the strongest and most widespread connectivity pattern, characterized by prominent long-range interactions among frontal, temporal, parietal, and occipital regions. Tanpura listening generated a dense yet balanced connectivity network, while Aum listening showed moderate distributed connectivity. In contrast, MM and resting-state conditions displayed comparatively weaker and more localized network organization. These preliminary findings suggest that different chant-listening conditions engage distinct neural mechanisms involving both cortical activation and large-scale neural synchronization. The study establishes a methodological framework for future investigations examining the role of culturally relevant auditory interventions in cognitive development, neuroeducation, and child-centered neuroscience research."
         }
       ]
     },
@@ -277,6 +278,70 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "Live markets: Bitcoin could drop to $59,000 in the short-term as liquidity dries up",
+          "url": "https://www.coindesk.com/tech/2026/06/24/live-markets-bitcoin-could-drop-to-usd59-000-in-the-short-term-as-liquidaity-dries-up",
+          "domain": "coindesk.com",
+          "date": "2026-06-24T05:13:27.000Z",
+          "source": "CoinDesk",
+          "summary": "Trading firm Wintermute's options desk puts bitcoin in a $61,242 to $63,563 range for Tuesday, with correlation rising across tokens and no fresh ETF bid in sight."
+        },
+        {
+          "title": "Bitcoin drops toward $62,000 as the chip selloff deepens for a second day",
+          "url": "https://www.coindesk.com/markets/2026/06/24/bitcoin-drops-toward-usd62-000-as-the-chip-selloff-deepens-for-a-second-day",
+          "domain": "coindesk.com",
+          "date": "2026-06-24T04:33:03.000Z",
+          "source": "CoinDesk",
+          "summary": "A renewed rout in semiconductor stocks pulled risk assets lower again, and crypto kept sliding. Bitcoin is down 5% on the week, with ether and the memecoins falling harder."
+        },
+        {
+          "title": "Senate Dems urge probe into $500M crypto deal between Trumps, UAE",
+          "url": "https://cointelegraph.com/news/senate-dems-urge-probe-into-crypto-deal-between-trumps-uae?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-24T04:12:42.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Democrats want the Senate to hold hearings on the dealings between the Trump administration, World Liberty Financial and Abu Dhabi royalty."
+        },
+        {
+          "title": "CEA Industries ends proxy fight with YZi Labs, adds Ella Zhang as board director",
+          "url": "https://www.theblock.co/post/405919/cea-industries-ends-proxy-fight-yzi-labs?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-24T03:44:25.000Z",
+          "source": "The Block",
+          "summary": "BNB treasury firm CEA Industries has entered a cooperation agreement with YZi Labs, ending months-long governance disputes."
+        },
+        {
+          "title": "Crypto PAC-backed Adrian Boafo secures victory in Maryland Democratic primary",
+          "url": "https://www.theblock.co/post/405921/adrian-boafo-wins-maryland-democratic-primary?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-24T03:18:30.000Z",
+          "source": "The Block",
+          "summary": "Boafo received substantial backing from Protect Progress, a super PAC associated with Fairshake, according to FEC filings."
+        },
+        {
+          "title": "StarkWare introduces 'Private KYC' to address personal data breaches",
+          "url": "https://cointelegraph.com/news/starkware-introduces-private-kyc-to-address-personal-data-breaches?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-24T03:14:04.000Z",
+          "source": "CoinTelegraph",
+          "summary": "“Identity checks today ask for your whole document when they only need one fact,” Starknet said."
+        },
+        {
+          "title": "Crypto PAC's $5.5 million Congress pick gets Maryland win, more crypto allies advance",
+          "url": "https://www.coindesk.com/policy/2026/06/23/crypto-pac-s-usd5-5-million-congress-pick-gets-maryland-win-more-crypto-allies-advance",
+          "domain": "coindesk.com",
+          "date": "2026-06-24T03:00:34.000Z",
+          "source": "CoinDesk",
+          "summary": "The Fairshake super PAC supported Adrian Boafo in Maryland, plus other candidates in Maryland, New York and Utah as each ran its primary elections."
+        },
+        {
+          "title": "CFTC sues Kentucky after state’s prediction market lawsuits",
+          "url": "https://cointelegraph.com/news/cftc-sues-kentucky-after-states-prediction-market-lawsuits?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-24T02:40:41.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The Commodity Futures Trading Commission has sued Kentucky, now the ninth state the regulator is battling in its fight over prediction markets."
+        },
         {
           "title": "Congress sends anti-CBDC housing bill to Trump’s desk for final approval",
           "url": "https://www.theblock.co/post/405915/anti-cbdc-housing-bill-passes-congress?utm_source=rss&utm_medium=rss",
@@ -292,70 +357,6 @@
           "date": "2026-06-23T23:18:08.000Z",
           "source": "CoinTelegraph",
           "summary": "Ethereum’s latest “funding crisis” has triggered a fierce debate over whether to tax staking rewards or to pursue funding from large ETH holders for new organizations like EthLabs."
-        },
-        {
-          "title": "AI chipmaker Cerebras down 11% after first public earnings report",
-          "url": "https://www.coindesk.com/markets/2026/06/23/ai-chipmaker-cerebras-down-11-after-first-public-earnings-report",
-          "domain": "coindesk.com",
-          "date": "2026-06-23T22:58:44.000Z",
-          "source": "CoinDesk",
-          "summary": "While revenue was up 92% from year-ago levels, the company forecasted a lower core gross margin next quarter."
-        },
-        {
-          "title": "$170M Ether longs liquidated as crypto market tumbles: Is ETH doomed?",
-          "url": "https://cointelegraph.com/markets/170m-ether-positions-liquidated-as-crypto-market-tumbles-is-eth-doomed?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-23T22:15:20.000Z",
-          "source": "CoinTelegraph",
-          "summary": "ETH price hangs in the balance as a fresh wave of liquidations pressure the altcoin and spillover from Bitcoin’s struggles to hold $62,000 impact investor sentiment."
-        },
-        {
-          "title": "Starmer steps down: What Andy Burnham means for crypto in the UK",
-          "url": "https://cointelegraph.com/features/starmer-steps-down-what-andy-burnham-means-for-crypto-in-the-uk?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-23T22:00:00.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Burnham brings a dose of optimism to the UK crypto industry, having previously supported the blockchain industry as mayor of Manchester."
-        },
-        {
-          "title": "Crypto critic Roubini joins tokenization boom with onchain 'Technodollar'",
-          "url": "https://www.coindesk.com/business/2026/06/23/crypto-critic-roubini-joins-tokenization-boom-with-onchain-technodollar",
-          "domain": "coindesk.com",
-          "date": "2026-06-23T21:54:10.000Z",
-          "source": "CoinDesk",
-          "summary": "The economist known as \"Dr. Doom\" is supporting a tokenized security backed by a Nasdaq-listed ETF he oversees, designed to protect wealth in global crises."
-        },
-        {
-          "title": "Senate Democrats urge Republicans to hold hearings on Trump family crypto ties to Abu Dhabi royalty",
-          "url": "https://www.theblock.co/post/405902/senate-democrats-urge-republicans-to-hold-hearings-on-trump-family-crypto-ties-to-abu-dhabi-royalty?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-23T21:44:33.000Z",
-          "source": "The Block",
-          "summary": "Top Democrats are calling for congressional hearings into President Donald Trump’s family crypto venture and Abu Dhabi royalty."
-        },
-        {
-          "title": "Mark Zuckerberg ordered Meta staff to develop moneyless prediction market: NYT",
-          "url": "https://cointelegraph.com/news/mark-zuckerberg-meta-prediction-markets?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-23T21:01:32.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The Meta CEO reportedly plans for the company to launch a prediction market independent of its other apps allowing users to place wagers using a points system rather than money."
-        },
-        {
-          "title": "Trump directing ‘government dollars and time’ to quantum security could be a boon for bitcoin",
-          "url": "https://www.theblock.co/post/405893/trump-directing-government-dollars-time-quantum-security-could-boon-bitcoin?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-23T20:34:06.000Z",
-          "source": "The Block",
-          "summary": "Millions of bitcoins with exposed public addresses may be at risk to quantum computers, Project Eleven previously said."
-        },
-        {
-          "title": "CryptoQuant says Strategy should pause bitcoin purchases and rebuild cash reserves",
-          "url": "https://www.theblock.co/post/405885/cryptoquant-strategy-should-pause-bitcoin-purchases-rebuild-cash-reserves?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-23T20:23:16.000Z",
-          "source": "The Block",
-          "summary": "Michael Saylor's Strategy should pause bitcoin purchases and focus on rebuilding its cash reserves, said CryptoQuant."
         }
       ]
     }
