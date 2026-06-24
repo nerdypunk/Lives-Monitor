@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-24T16:24:16.417Z",
+  "updatedAt": "2026-06-24T18:18:25.608Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -98,12 +98,20 @@
       ],
       "articles": [
         {
+          "title": "Stem cell banking partnership targets future of longevity",
+          "url": "https://longevity.technology/news/stem-cell-banking-partnership-targets-future-of-longevity/",
+          "domain": "longevity.technology",
+          "date": "2026-06-24T16:45:52.000Z",
+          "source": "Longevity.Technology",
+          "summary": "AcCELLerated Biologics and Forever Labs team up to make regenerative medicine more accessible and personalized. Retirement accounts are built on a simple idea of putting something valuable away today so you’ll have it when you need it decades from now. What if we started thinking about our biology the same way? A new partnership between […] The post Stem cell banking partnership targets future of longevity appeared first on Longevity.Technology ."
+        },
+        {
           "title": "Glycosylation’s Role in Alzheimer’s Disease",
           "url": "https://lifespan.io/glycosylations-role-in-alzheimers-disease/",
           "domain": "lifespan.io",
           "date": "2026-06-24T16:11:21.000Z",
           "source": "Lifespan.io",
-          "summary": "A recent study suggests that hyperglycosylation in brain tissue can be a hallmark of Alzheimer’s disease [1]. Lesser-known Alzheimer’s molecular features Pathological deposits of amyloid-β plaques and tau tangles in the brain are probably the most […]"
+          "summary": "A recent study suggests that hyperglycosylation in brain tissue can be a hallmark of Alzheimer’s disease [1]. Lesser-known Alzheimer’s molecular features Pathological deposits of amyloid-β […]"
         },
         {
           "title": "An EU moonshot to solve aging",
@@ -168,14 +176,6 @@
           "date": "2026-06-24T08:36:10.000Z",
           "source": "Longevity.Technology",
           "summary": "Lys Therapeutics, based in Lyon and Caen, France, has raised more than €25 million since its 2021 founding. The financing package includes a grant of more than $5 million from The Michael J. Fox Foundation for Parkinson’s Research, with additional support from Bpifrance, France 2030 and private investors. The proceeds are intended to support completion […] The post Lys Therapeutics raises over $27m to advance new treatments for Parkinson’s and stroke appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Amylyx reports no serious side effects in first group of ALS trial",
-          "url": "https://longevity.technology/news/amylyx-reports-no-serious-side-effects-in-first-group-of-als-trial/",
-          "domain": "longevity.technology",
-          "date": "2026-06-24T08:31:10.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Amylyx will present data from its first-in-human, dose-ranging Phase 1 LUMINA trial of AMX0114 at the European Network to Cure ALS Meeting 2026, held 24-26 June in Madrid. AMX0114 was generally well tolerated in Cohort 1 (12.5 mg) with no drug-related serious adverse events and no serious neurological adverse events, findings the company says support […] The post Amylyx reports no serious side effects in first group of ALS trial appeared first on Longevity.Technology ."
         }
       ]
     },
@@ -278,6 +278,54 @@
       ],
       "articles": [
         {
+          "title": "Crypto-backed candidates notch wins in three US state primaries",
+          "url": "https://cointelegraph.com/news/crypto-backed-candidates-new-york-maryland-primaries?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-24T17:34:57.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The crypto-aligned Fairshake PAC and its affiliates spent a combined $8 million on media to support candidates in Maryland, New York and Utah amid pushback from many criticizing “crypto billionaires.”"
+        },
+        {
+          "title": "Binance withdraws Greek MiCA bid but vows to remain in Europe",
+          "url": "https://www.coindesk.com/policy/2026/06/24/binance-withdraws-greek-mica-bid-but-vows-to-remain-in-europe",
+          "domain": "coindesk.com",
+          "date": "2026-06-24T17:18:08.000Z",
+          "source": "CoinDesk",
+          "summary": "The crypto giant must find a home base in the EU by July 1 or regulators will force the company to shut down operations for millions of regional users."
+        },
+        {
+          "title": "Bitcoin falls under $60K, but traders anticipate 15% bounce",
+          "url": "https://cointelegraph.com/markets/bitcoin-hits-2-week-lows?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-24T17:06:46.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bitcoin price dropped below $60,000 for the first time in weeks, but data shows traders betting on a relief bounce."
+        },
+        {
+          "title": "a16z CSX-backed Cambrian raises $6 million seed to build blockchain data oracle network",
+          "url": "https://www.theblock.co/post/406028/a16z-csx-backed-cambrian-seed-round-blockchain-data-oracle-network?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-24T17:00:02.000Z",
+          "source": "The Block",
+          "summary": "Cambrian, a startup building blockchain data infrastructure for institutions and AI agents, raised $6 million in a seed funding round."
+        },
+        {
+          "title": "Prediction market polls find US voters prefer federal rules over state patchwork",
+          "url": "https://www.theblock.co/post/406012/prediction-market-polls-us-voters-prefer-federal-rules-over-state-patchwork?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-24T16:40:35.000Z",
+          "source": "The Block",
+          "summary": "The CFTC has been locked in a tug-of-war with states over who has the ultimate authority over event contracts."
+        },
+        {
+          "title": "Bitcoin crash to $60K opens new $530M demand zone: Will bulls buy in?",
+          "url": "https://cointelegraph.com/markets/bitcoin-daily-close-points-to-the-next-demand-zone-as-530m-in-buy-bids-emerge?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-24T16:21:52.000Z",
+          "source": "CoinTelegraph",
+          "summary": "A $525 million Bitcoin buy wall intersects with a major liquidation zone, creating a key battleground between $60,500 and $65,000."
+        },
+        {
           "title": "Binance co-CEO remains ‘committed’ to securing EU license after exchange withdraws Greece bid",
           "url": "https://www.theblock.co/post/406009/binance-ceo-remains-committed-securing-eu-license-exchange-withdraws-greece-bid?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
@@ -286,7 +334,7 @@
           "summary": "The world's largest crypto exchange only has one week to secure a license in legally operate in the European Union."
         },
         {
-          "title": "Bitcoin falls to $60,000 as AI trade continues to draw investor interest and capital",
+          "title": "Bitcoin falls below $60,000 as AI trade continues to draw investor interest and capital",
           "url": "https://www.coindesk.com/markets/2026/06/24/bitcoin-falls-to-usd60-000-as-ai-trade-continues-to-draw-investor-interest-and-capital",
           "domain": "coindesk.com",
           "date": "2026-06-24T16:01:02.000Z",
@@ -308,54 +356,6 @@
           "date": "2026-06-24T15:49:54.000Z",
           "source": "CoinTelegraph",
           "summary": "A new pilot from Stablecore, Circuit and Curql gives participating US credit unions access to test stablecoin payments and other digital asset services."
-        },
-        {
-          "title": "Binance withdraws Greece-filed MiCA application",
-          "url": "https://cointelegraph.com/news/binance-eu-license-greece-mica-setback?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-24T15:47:05.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Binance said it plans to seek authorization in another EU jurisdiction just days ahead of the July 1 MiCA deadline, as unlicensed crypto firms are expected to wind down activities in the bloc."
-        },
-        {
-          "title": "SecondFi loses $2.4 million in Cardano wallet exploit",
-          "url": "https://www.coindesk.com/business/2026/06/24/secondfi-loses-usd2-4-million-in-cardano-wallet-exploit-with-up-to-usd20-million-at-risk",
-          "domain": "coindesk.com",
-          "date": "2026-06-24T15:45:42.000Z",
-          "source": "CoinDesk",
-          "summary": "SecondFi was hit by three separate attacks exploiting a flaw in its wallet generation software. A further 129 million ADA was secured by the team before attackers could reach it."
-        },
-        {
-          "title": "Trump's refusal to sign housing bill could delay Congress and imperil Clarity Act",
-          "url": "https://www.coindesk.com/policy/2026/06/24/trump-refuses-to-sign-law-with-u-s-cbdc-ban-demands-approval-of-elections-bill",
-          "domain": "coindesk.com",
-          "date": "2026-06-24T15:42:51.000Z",
-          "source": "CoinDesk",
-          "summary": "As Congress prepared to celebrate the president's signing of the bipartisan housing bill that contains a CBDC prohibition, Trump abruptly cancelled the event."
-        },
-        {
-          "title": "Sports-based prediction markets app Onyx Odds raises $20 million in round led by Kraken parent Payward",
-          "url": "https://www.theblock.co/post/405997/sports-betting-app-onyx-odds-raises-20-million-in-round-led-by-kraken-parent-payward?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-24T15:37:28.000Z",
-          "source": "The Block",
-          "summary": "The app will face stiff competition in the prediction markets space, competing with dominant market leaders Kalshi and Polymarket."
-        },
-        {
-          "title": "World Cup boom sends Polymarket volume up 300% while Kalshi sets open interest records",
-          "url": "https://www.theblock.co/post/405854/world-cup-boom-sends-polymarket-volume-up-300-while-kalshi-sets-open-interest-records?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-24T15:36:02.000Z",
-          "source": "The Block",
-          "summary": "Kalshi's aggregated OI reached a record $1.16 billion last week, the first time the platform’s OI surpassed the billion-dollar mark."
-        },
-        {
-          "title": "Ex-FCA policy insider explains the ‘great divide’ in the UK’s crypto ambition",
-          "url": "https://www.coindesk.com/policy/2026/06/24/ex-fca-policy-insider-explains-the-great-divide-in-the-uk-s-crypto-ambition",
-          "domain": "coindesk.com",
-          "date": "2026-06-24T15:23:07.000Z",
-          "source": "CoinDesk",
-          "summary": "Former FCA policymaker and Hedera Global Policy VP, Isadora Arredondo says there is a gap between the U.K.'s crypto ambitions and how policy is carried out in practice."
         }
       ]
     }
