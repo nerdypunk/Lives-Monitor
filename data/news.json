@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-24T18:18:25.608Z",
+  "updatedAt": "2026-06-24T20:18:39.403Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -111,7 +111,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-24T16:11:21.000Z",
           "source": "Lifespan.io",
-          "summary": "A recent study suggests that hyperglycosylation in brain tissue can be a hallmark of Alzheimer’s disease [1]. Lesser-known Alzheimer’s molecular features Pathological deposits of amyloid-β […]"
+          "summary": "A recent study suggests that hyperglycosylation in brain tissue can be a hallmark of Alzheimer’s disease [1]. Lesser-known Alzheimer’s molecular features Pathological […]"
         },
         {
           "title": "An EU moonshot to solve aging",
@@ -188,6 +188,14 @@
       ],
       "articles": [
         {
+          "title": "Fiber-optic cables detect silent whales off Svalbard by tracking pressure waves",
+          "url": "https://phys.org/news/2026-06-fiber-optic-cables-silent-whales.html",
+          "domain": "phys.org",
+          "date": "2026-06-24T19:00:03.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "A 100-year-old equation and a fiber-optic cable off the coast of Svalbard led researchers to discover they could detect swimming whales—even if they were completely silent. The discovery broadens the tools biologists could someday use to detect and monitor these marine giants."
+        },
+        {
           "title": "By making key signaling molecules called β-arrestins into druggable targets, scientists crack long-standing challenge",
           "url": "https://phys.org/news/2026-06-key-molecules-arrestins-druggable-scientists.html",
           "domain": "phys.org",
@@ -258,14 +266,6 @@
           "date": "2026-06-24T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2606.24246v1 Announce Type: new Abstract: The quest for the origin of life, especially in the metabolism-first scenario inspired by the celebrated Miller-Urey experiment, has triggered a research program dedicated to studying the emergence of complex dynamical behaviors in large chemical mixtures. Though autocatalysis, understood as the capacity of a reaction network to grow exponentially, has been recognized as a potential driver of instability and multistability, no quantitative theory has yet emerged, partly because of the lack of available kinetic data. We introduce a computational tool for large chemical reaction networks based on a scale-splitting algorithm inspired by Wilson's renormalization group. We focus on dilute regimes, where species of interest have low concentration, non-unimolecular reactions may be neglected, and the dynamics is close to linear. Depending on parameter thresholds, such networks can exhibit autocatalytic behavior. Our algorithm takes as input a network structure and outputs (1) a simplified effective graph containing the dominant reaction pathways, obtained through recursive coarse-graining; and (2) analytical formulas for the dynamics in terms of kinetic rates, called hierarchical formulas. These formulas are approximate but interpretable, accurate when scale separation is effective, and provide a reliable multiscale description of the dynamics. Their domains of validity define kinetic phases, each typically associated with a distinct pattern of chemical composition. We show on a simple example that this approach enables fast and reliable inference of kinetic rates from concentration time series. Hierarchical formulas have been implemented as a Python package and are illustrated on a simplified model of the formose reaction."
-        },
-        {
-          "title": "Graph-based analysis of inflammatory profiles in New Onset Refractory Status Epilepticus (NORSE)",
-          "url": "https://arxiv.org/abs/2606.24351",
-          "domain": "arxiv.org",
-          "date": "2026-06-24T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2606.24351v1 Announce Type: new Abstract: Background and Objectives: Cryptogenic new-onset refractory status epilepticus (cNORSE) represents one of the most severe forms of status epilepticus, occurring in patients without prior neurological disease, and remaining of unknown aetiology despite extensive diagnostic evaluation. Emerging evidence supports a role for immune dysregulation in cNORSE; however, marked heterogeneity in inflammatory signatures has been reported, complicating the selection of targeted immunotherapies. Therefore, a critical need for tools facilitating the interpretation of cytokine panels exists. Methods: Building on the identification of distinct inflammatory groups of cNORSE patients using a graph clustering approach applied to a cohort of 62 patients with serum profiling of 96 cytokines, we tailored new models to quantify attribution probability to biologically validated clusters. Statistical assessment of the most informative model involved Monte-Carlo simulations and custom-developed parametric tests. Ultimately, we applied our framework to the implementation of a clinician-friendly interface for inflammatory profiling. Results: Our approach enables quick processing of several cytokine profiles, providing the most likely inflammatory cluster, associated attribution probability, and statistical confidence. For longitudinal assessments, the proposed method may also allow tracking the evolution of inflammatory trajectories over time. Conclusion: Systematic statistical characterization of the inflammatory heterogeneity in cNORSE requires the development of clinically actionable support tools. Our study offers a framework that may support personalized immunomodulatory strategies in cNORSE patients through clustering-based cytokine profiling."
         }
       ]
     },
@@ -277,6 +277,62 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "Upheaval at the Ethereum Foundation has some of crypto’s biggest names feeling bullish",
+          "url": "https://www.coindesk.com/tech/2026/06/24/upheaval-at-the-ethereum-foundation-has-some-of-crypto-s-biggest-names-feeling-bullish",
+          "domain": "coindesk.com",
+          "date": "2026-06-24T19:52:39.000Z",
+          "source": "CoinDesk",
+          "summary": "In this week's edition of The Protocol Newsletter, we're looking at Ethereum's eventful week that started off with the launch of EthLabs, plus the layoffs at the Ethereum Foundation, and what this all means for the network."
+        },
+        {
+          "title": "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
+          "url": "https://www.coindesk.com/business/2026/06/24/kalshi-targets-a-massive-usd40-billion-valuation-widening-lead-over-rival-polymarket",
+          "domain": "coindesk.com",
+          "date": "2026-06-24T19:48:23.000Z",
+          "source": "CoinDesk",
+          "summary": "The prediction market operator, which is eyeing a potential public debut in 2027, could close a new funding round in Q3, according to a Financial Times report."
+        },
+        {
+          "title": "Kalshi sues Illinois officials over prediction markets restrictions",
+          "url": "https://cointelegraph.com/news/kalshi-lawsuit-illinois-prediction-markets?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-24T19:34:48.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The prediction markets company claimed that it would be “irreparably harmed” when an Illinois law signed as part of a budget package goes in effect on July 1."
+        },
+        {
+          "title": "Who gets a direct line to the Fed? Congress weighs risks of Fed ‘skinny accounts’ for crypto and fintech firms",
+          "url": "https://www.theblock.co/post/406050/who-gets-direct-line-to-fed-congress-weighs-risks-fed-skinny-accounts-crypto-fintech-firms?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-24T19:30:55.000Z",
+          "source": "The Block",
+          "summary": "As the Fed considers granting firms access to \"skinny\" accounts, lawmakers debated how much access those companies should have."
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-24T19:17:03.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
+        {
+          "title": "Pump.fun offers up to $5 million salary for chief legal officer role",
+          "url": "https://www.theblock.co/post/406039/pump-fun-offers-up-5-million-salary-chief-legal-officer-role?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-24T18:42:10.000Z",
+          "source": "The Block",
+          "summary": "The position covers everything from SEC oversight to MiCA rules and U.K. regulations, and offers a salary between $1 million and $5 million."
+        },
+        {
+          "title": "Superstate co-founder raises $3.6 million pre-seed for Ground to help fintechs access onchain yield",
+          "url": "https://www.theblock.co/post/406040/superstate-co-founder-ground-funding-crypto-onchain-yield?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-24T18:28:02.000Z",
+          "source": "The Block",
+          "summary": "Ground has raised $3.6 million in a pre-seed funding round co-led by Bain Capital Crypto and ParaFi as it emerges from stealth."
+        },
         {
           "title": "Crypto-backed candidates notch wins in three US state primaries",
           "url": "https://cointelegraph.com/news/crypto-backed-candidates-new-york-maryland-primaries?utm_source=rss&utm_medium=rss&utm_campaign=rss",
@@ -300,62 +356,6 @@
           "date": "2026-06-24T17:06:46.000Z",
           "source": "CoinTelegraph",
           "summary": "Bitcoin price dropped below $60,000 for the first time in weeks, but data shows traders betting on a relief bounce."
-        },
-        {
-          "title": "a16z CSX-backed Cambrian raises $6 million seed to build blockchain data oracle network",
-          "url": "https://www.theblock.co/post/406028/a16z-csx-backed-cambrian-seed-round-blockchain-data-oracle-network?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-24T17:00:02.000Z",
-          "source": "The Block",
-          "summary": "Cambrian, a startup building blockchain data infrastructure for institutions and AI agents, raised $6 million in a seed funding round."
-        },
-        {
-          "title": "Prediction market polls find US voters prefer federal rules over state patchwork",
-          "url": "https://www.theblock.co/post/406012/prediction-market-polls-us-voters-prefer-federal-rules-over-state-patchwork?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-24T16:40:35.000Z",
-          "source": "The Block",
-          "summary": "The CFTC has been locked in a tug-of-war with states over who has the ultimate authority over event contracts."
-        },
-        {
-          "title": "Bitcoin crash to $60K opens new $530M demand zone: Will bulls buy in?",
-          "url": "https://cointelegraph.com/markets/bitcoin-daily-close-points-to-the-next-demand-zone-as-530m-in-buy-bids-emerge?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-24T16:21:52.000Z",
-          "source": "CoinTelegraph",
-          "summary": "A $525 million Bitcoin buy wall intersects with a major liquidation zone, creating a key battleground between $60,500 and $65,000."
-        },
-        {
-          "title": "Binance co-CEO remains ‘committed’ to securing EU license after exchange withdraws Greece bid",
-          "url": "https://www.theblock.co/post/406009/binance-ceo-remains-committed-securing-eu-license-exchange-withdraws-greece-bid?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-24T16:12:29.000Z",
-          "source": "The Block",
-          "summary": "The world's largest crypto exchange only has one week to secure a license in legally operate in the European Union."
-        },
-        {
-          "title": "Bitcoin falls below $60,000 as AI trade continues to draw investor interest and capital",
-          "url": "https://www.coindesk.com/markets/2026/06/24/bitcoin-falls-to-usd60-000-as-ai-trade-continues-to-draw-investor-interest-and-capital",
-          "domain": "coindesk.com",
-          "date": "2026-06-24T16:01:02.000Z",
-          "source": "CoinDesk",
-          "summary": "South Korean memory chip giant on Wednesday filed to raise nearly $30 billion in a U.S. offering."
-        },
-        {
-          "title": "Crypto Long & Short: Infrastructure is the prevailing currency in digital assets",
-          "url": "https://www.coindesk.com/coindesk-indices/2026/06/24/crypto-long-and-short-infrastructure-is-the-prevailing-currency-in-digital-assets",
-          "domain": "coindesk.com",
-          "date": "2026-06-24T16:00:00.000Z",
-          "source": "CoinDesk",
-          "summary": "In this week's Crypto Long & Short, Nonco’s Caue Teixeri makes the case that regardless of which coin ultimately wins, infrastructure is the prevailing currency in digital assets. Then, using CoinDesk's liquidation feed, Liquibit Capital's Alen Pavlović finds that June's forced selling peaked near $68,000, days before bitcoin actually bottomed."
-        },
-        {
-          "title": "Credit unions managing $25B in assets join stablecoin infrastructure program",
-          "url": "https://cointelegraph.com/news/credit-unions-join-stablecoin-infrastructure-program?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-24T15:49:54.000Z",
-          "source": "CoinTelegraph",
-          "summary": "A new pilot from Stablecore, Circuit and Curql gives participating US credit unions access to test stablecoin payments and other digital asset services."
         }
       ]
     }
