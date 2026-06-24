@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-24T21:54:36.816Z",
+  "updatedAt": "2026-06-24T23:08:15.522Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -98,6 +98,14 @@
       ],
       "articles": [
         {
+          "title": "Peers Capital bets on prevention before the pivot",
+          "url": "https://longevity.technology/news/peers-capital-bets-on-prevention-before-the-pivot/",
+          "domain": "longevity.technology",
+          "date": "2026-06-24T23:01:00.000Z",
+          "source": "Longevity.Technology",
+          "summary": "New deal-by-deal syndicate is backing founders in diagnostics, longevity, recovery and behavior change – before traditional investors arrive. A new investment syndicate has launched with a pointed thesis: that the most interesting companies in preventive health get built before traditional investors start paying attention. Peers Capital, founded by four operators with roots across the health […] The post Peers Capital bets on prevention before the pivot appeared first on Longevity.Technology ."
+        },
+        {
           "title": "Stem cell banking partnership targets future of longevity",
           "url": "https://longevity.technology/news/stem-cell-banking-partnership-targets-future-of-longevity/",
           "domain": "longevity.technology",
@@ -111,7 +119,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-24T16:11:21.000Z",
           "source": "Lifespan.io",
-          "summary": "A recent study suggests that hyperglycosylation in brain tissue can be a hallmark of Alzheimer’s disease [1]. Lesser-known Alzheimer’s molecular features Pathological deposits of amyloid-β plaques and tau tangles in the brain are […]"
+          "summary": "A recent study suggests that hyperglycosylation in brain tissue can be a hallmark of Alzheimer’s disease [1]. Lesser-known Alzheimer’s molecular features Pathological deposits of amyloid-β plaques and tau tangles in the brain […]"
         },
         {
           "title": "An EU moonshot to solve aging",
@@ -168,14 +176,6 @@
           "date": "2026-06-24T08:41:10.000Z",
           "source": "Longevity.Technology",
           "summary": "Cognito Therapeutics will present new data at the Alzheimer’s Association International Conference (AAIC) 2026 in London showing the effects of its investigational device Spectris on lipid transport biomarkers in Alzheimer’s disease. The poster Spectris Sensory Stimulation Increases CSF HDL-like Lipid Transport Proteins In Alzheimer’s Disease is scheduled for 13 July 2026 in Exhibit Hall at […] The post Cognito’s wearable device boosts brain proteins linked to Alzheimer’s protection appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Lys Therapeutics raises over $27m to advance new treatments for Parkinson’s and stroke",
-          "url": "https://longevity.technology/news/lys-therapeutics-raises-over-27m-to-advance-new-treatments-for-parkinsons-and-stroke/",
-          "domain": "longevity.technology",
-          "date": "2026-06-24T08:36:10.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Lys Therapeutics, based in Lyon and Caen, France, has raised more than €25 million since its 2021 founding. The financing package includes a grant of more than $5 million from The Michael J. Fox Foundation for Parkinson’s Research, with additional support from Bpifrance, France 2030 and private investors. The proceeds are intended to support completion […] The post Lys Therapeutics raises over $27m to advance new treatments for Parkinson’s and stroke appeared first on Longevity.Technology ."
         }
       ]
     },
@@ -187,6 +187,22 @@
         "https://phys.org/rss-feed/biology-news/biotechnology/"
       ],
       "articles": [
+        {
+          "title": "X-ray snapshots reveal how viral shells change shape as they dry out",
+          "url": "https://phys.org/news/2026-06-ray-snapshots-reveal-viral-shells.html",
+          "domain": "phys.org",
+          "date": "2026-06-24T22:50:01.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "When viruses travel through the air in tiny droplets, they can quickly start to dry out. Yet many viruses remain infectious after rehydration—something that is still not fully understood. Now, an international team of researchers has directly observed at the European XFEL how the protein shells of viruses can change shape during dehydration, offering new clues to viral resilience and opening new possibilities for virology research. The results, published in Light: Science & Applications, lay the groundwork for potential applications in virology and public health and can, for instance, help develop antiviral strategies."
+        },
+        {
+          "title": "Synthetic DNA toolkit expands scientists' ability to recognize genetic targets",
+          "url": "https://phys.org/news/2026-06-synthetic-dna-toolkit-scientists-ability.html",
+          "domain": "phys.org",
+          "date": "2026-06-24T22:00:03.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "A new method for recognizing and targeting DNA that dramatically expands the range of genetic sequences scientists can identify has been developed by experts at the University of Portsmouth. Published this week in Nature Communications, the research opens new possibilities for gene-targeting technologies, molecular diagnostics and DNA nanotechnology."
+        },
         {
           "title": "CleanFinder brings browser-based genome editing analysis to labs without coding",
           "url": "https://phys.org/news/2026-06-cleanfinder-browser-based-genome-analysis.html",
@@ -250,22 +266,6 @@
           "date": "2026-06-24T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2606.23874v1 Announce Type: new Abstract: Understanding how the architecture of neural networks shapes the computations they carry is a central challenge in neuroscience and machine learning. While specific circuit architectures have been linked to particular network computations and theoretical bounds on expressivity of broad classes of networks have been found, we are still missing general principles connecting the structure of finite networks to their computational capabilities. Here, we characterize the computational abilities of recurrent neural networks as a function of their connectivity by training a large collection of different networks to compute a large set of Boolean functions. For small networks, we constructed the complete ``catalogs'' of network-function performance, which revealed that computational capacity varies widely across architectures and that most networks show poor performance, and most functions are hard to compute. However, we show that having local 2- and 3-cycles in a network strongly enhances its computational ability, and networks with such cycles are often the minimal architectures that can solve particular functions. We further show that a small set of structural statistics accurately predict networks' performance. Extending our analysis to large networks showed that typical networks fail even to approximate a randomly selected function. Surprisingly, adding a small number of sparsely connected biologically-inspired interneurons to the network dramatically increases computational capacity. As in small networks, adding short cycles improved networks' capacity, outperforming acyclic or reachability-matched controls. Thus, our results identify local cycles as design principles linking neural connectivity to computational power, and offer a general framework to explore structure-function relations in computing networks."
-        },
-        {
-          "title": "Mutant Fixation for a Stochastic Evolutionary Model in Fragmented Populations",
-          "url": "https://arxiv.org/abs/2606.23946",
-          "domain": "arxiv.org",
-          "date": "2026-06-24T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2606.23946v1 Announce Type: new Abstract: Population fragmentation is a common feature of many biological systems. Understanding mutant fixation in such systems is challenging because the underlying stochastic dynamics are high-dimensional. In this work, we develop a general mathematical framework for analyzing stochastic evolution in fragmented populations connected by rare migration. The framework is sufficiently general to accommodate heterogeneous deme sizes, deme-dependent birth and death processes, and migration on arbitrary strongly connected directed networks with asymmetric migration rates. We show that, in the limit where migration occurs on a much slower timescale than within-deme dynamics, the full stochastic process can be reduced to a lower-dimensional Markov chain whose states correspond to configurations of fully mutant and fully wild-type demes. The reduction theorem establishes that fixation probabilities and absorption times of the original process are asymptotically determined by the corresponding quantities of a reduced chain. As an application, we derive explicit formulas for mutant fixation probabilities and fixation times in fragmented populations initiated by the introduction of a single mutant. The results provide a general and tractable approach for studying evolutionary dynamics in complex fragmented populations."
-        },
-        {
-          "title": "The Morality Game: An online multiplayer platform to standardize, expedite, and expand research on cooperation",
-          "url": "https://arxiv.org/abs/2606.24037",
-          "domain": "arxiv.org",
-          "date": "2026-06-24T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2606.24037v1 Announce Type: new Abstract: This paper presents the Morality Game, a platform designed to standardize and accelerate research on cooperation and morality through game theory-based experiments. The Morality Game functions as a video game for science, a hub for economic game research, an open-access data repository, and a tool for expediting the research process. It allows researchers to launch customized online multiplayer experiments with zero coding, using game trees to simulate moral dilemmas. The platform automates participant payments, data collection, and analysis, promoting replication and transparency. This paper details the platform's architecture, emphasizing its capabilities for standardizing research methods, unifying data, and enabling rapid aggregation and comparison of results. The Morality Game leverages dynamic, self-correcting game trees to generate well-controlled, abstract experiments that can represent any social scenario. Participants interact through a responsive user interface, making the experiments intuitive and engaging. Researchers can configure experiments through a user-friendly dashboard, specifying various parameters and utilizing pre-created or auto-generated game trees. The platform supports nested belief representation and incorporates artificial agents with customizable traits. Plans include integrating social networking features, enhancing emotional expression capabilities, and expanding the platform's reach to remote small-scale societies to test the ecological validity of findings. By evolving into an integrated ecosystem that supports the entire research lifecycle, the Morality Game aims to foster collaboration, enhance data accessibility, and ultimately increase cooperation. This paper outlines the platform's current features, architectural details, and future directions, demonstrating its potential to advance cooperation research."
         }
       ]
     },
@@ -277,6 +277,14 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "HYPE down 22% from record highs: Will spot demand revive the uptrend?",
+          "url": "https://cointelegraph.com/markets/hype-down-22-from-record-highs-can-spot-demand-retain-the-uptrend?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-24T22:08:25.000Z",
+          "source": "CoinTelegraph",
+          "summary": "HYPE price drops near a key support zone where fading selling pressure collides with shrinking futures market activity. Will the altcoin resume its uptrend above $60?"
+        },
         {
           "title": "Bitcoin miners face deepening margin squeeze as revenue falls below production costs",
           "url": "https://www.theblock.co/post/405858/bitcoin-miners-face-deepening-margin-squeeze-as-revenue-falls-below-production-costs?utm_source=rss&utm_medium=rss",
@@ -348,14 +356,6 @@
           "date": "2026-06-24T18:42:10.000Z",
           "source": "The Block",
           "summary": "The position covers everything from SEC oversight to MiCA rules and U.K. regulations, and offers a salary between $1 million and $5 million."
-        },
-        {
-          "title": "Superstate co-founder raises $3.6 million pre-seed for Ground to help fintechs access onchain yield",
-          "url": "https://www.theblock.co/post/406040/superstate-co-founder-ground-funding-crypto-onchain-yield?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-24T18:28:02.000Z",
-          "source": "The Block",
-          "summary": "Ground has raised $3.6 million in a pre-seed funding round co-led by Bain Capital Crypto and ParaFi as it emerges from stealth."
         }
       ]
     }
