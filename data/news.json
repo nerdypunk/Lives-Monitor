@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-24T20:18:39.403Z",
+  "updatedAt": "2026-06-24T21:54:36.816Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -15,6 +15,14 @@
           "date": "2026-06-20T12:53:08.000Z",
           "source": "crypto.news",
           "summary": "Bio Protocol launches AI research hub to challenge grant gatekeepers &nbsp;&nbsp; crypto.news"
+        },
+        {
+          "title": "BioProtocol unveils OpenLabs platform at DeSci Berlin to merge AI with decentralized research funding - Crypto Briefing",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5sbkJNU3o3UENfWkVYZ2xfLTIxUDRTeWM0V2RlS0U3cUk5XzB5UGxIRXZZSkxSSVpwWl9mdV9panJEdjY2SGFMcHJmVFhVWXFhd2FKNDd4STRWUm9vSHppZU1uLTJlOVJoSW1abGxB?oc=5",
+          "domain": "cryptobriefing.com",
+          "date": "2026-06-19T15:30:59.000Z",
+          "source": "Crypto Briefing",
+          "summary": "BioProtocol unveils OpenLabs platform at DeSci Berlin to merge AI with decentralized research funding &nbsp;&nbsp; Crypto Briefing"
         },
         {
           "title": "NanoVita Joins ENI Super Node Ecosystem to Advance AI-Driven DeSci - Cryptonews.net",
@@ -79,14 +87,6 @@
           "date": "2026-05-01T07:00:00.000Z",
           "source": "KuCoin",
           "summary": "DeSci, AI, or Meme: Where Crypto Capital Flows in Mid-2026 &nbsp;&nbsp; KuCoin"
-        },
-        {
-          "title": "Bio Protocol price outlook: $0.045 rebound possible amid extended consolidation - TradingView",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPT1E3XzBaRGFVSzZIQjZwWml6eUh0cTFMTU1NbVBnSlJmX3ZWNlNQN2lCNlZFU1FVc3BTbzc4d083Nk5rNzlya0VYdFJlall5Y2p4Z0h2VjA4amctQVF3VmkyZkw2Y3Y1TGx3cnlWeWdfZE5PTm5PMm1mazhNZExpa29QSWpwNHh2VmlUMHo1R1YxejVGVlJWcEgwb3RTdmhTWTIwN21hYk8yX0hrZC1sV3cwUHFwMmxTbUNNTlN1QzdvNE82SjBnX1B1SWpVYkE?oc=5",
-          "domain": "tradingview.com",
-          "date": "2026-04-29T07:00:00.000Z",
-          "source": "TradingView",
-          "summary": "Bio Protocol price outlook: $0.045 rebound possible amid extended consolidation &nbsp;&nbsp; TradingView"
         }
       ]
     },
@@ -111,7 +111,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-24T16:11:21.000Z",
           "source": "Lifespan.io",
-          "summary": "A recent study suggests that hyperglycosylation in brain tissue can be a hallmark of Alzheimer’s disease [1]. Lesser-known Alzheimer’s molecular features Pathological […]"
+          "summary": "A recent study suggests that hyperglycosylation in brain tissue can be a hallmark of Alzheimer’s disease [1]. Lesser-known Alzheimer’s molecular features Pathological deposits of amyloid-β plaques and tau tangles in the brain are […]"
         },
         {
           "title": "An EU moonshot to solve aging",
@@ -188,6 +188,14 @@
       ],
       "articles": [
         {
+          "title": "CleanFinder brings browser-based genome editing analysis to labs without coding",
+          "url": "https://phys.org/news/2026-06-cleanfinder-browser-based-genome-analysis.html",
+          "domain": "phys.org",
+          "date": "2026-06-24T21:20:09.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Genome editing lets scientists rewrite DNA, the instruction manual inside every living cell, with a precision that was unthinkable a generation ago. Technologies such as CRISPR have made this almost routine, and its uses now reach far beyond medicine, from engineering hardier crops and more productive microbes to creating sustainable biomaterials."
+        },
+        {
           "title": "Fiber-optic cables detect silent whales off Svalbard by tracking pressure waves",
           "url": "https://phys.org/news/2026-06-fiber-optic-cables-silent-whales.html",
           "domain": "phys.org",
@@ -258,14 +266,6 @@
           "date": "2026-06-24T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2606.24037v1 Announce Type: new Abstract: This paper presents the Morality Game, a platform designed to standardize and accelerate research on cooperation and morality through game theory-based experiments. The Morality Game functions as a video game for science, a hub for economic game research, an open-access data repository, and a tool for expediting the research process. It allows researchers to launch customized online multiplayer experiments with zero coding, using game trees to simulate moral dilemmas. The platform automates participant payments, data collection, and analysis, promoting replication and transparency. This paper details the platform's architecture, emphasizing its capabilities for standardizing research methods, unifying data, and enabling rapid aggregation and comparison of results. The Morality Game leverages dynamic, self-correcting game trees to generate well-controlled, abstract experiments that can represent any social scenario. Participants interact through a responsive user interface, making the experiments intuitive and engaging. Researchers can configure experiments through a user-friendly dashboard, specifying various parameters and utilizing pre-created or auto-generated game trees. The platform supports nested belief representation and incorporates artificial agents with customizable traits. Plans include integrating social networking features, enhancing emotional expression capabilities, and expanding the platform's reach to remote small-scale societies to test the ecological validity of findings. By evolving into an integrated ecosystem that supports the entire research lifecycle, the Morality Game aims to foster collaboration, enhance data accessibility, and ultimately increase cooperation. This paper outlines the platform's current features, architectural details, and future directions, demonstrating its potential to advance cooperation research."
-        },
-        {
-          "title": "Hierarchical models for large chemical reaction networks",
-          "url": "https://arxiv.org/abs/2606.24246",
-          "domain": "arxiv.org",
-          "date": "2026-06-24T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2606.24246v1 Announce Type: new Abstract: The quest for the origin of life, especially in the metabolism-first scenario inspired by the celebrated Miller-Urey experiment, has triggered a research program dedicated to studying the emergence of complex dynamical behaviors in large chemical mixtures. Though autocatalysis, understood as the capacity of a reaction network to grow exponentially, has been recognized as a potential driver of instability and multistability, no quantitative theory has yet emerged, partly because of the lack of available kinetic data. We introduce a computational tool for large chemical reaction networks based on a scale-splitting algorithm inspired by Wilson's renormalization group. We focus on dilute regimes, where species of interest have low concentration, non-unimolecular reactions may be neglected, and the dynamics is close to linear. Depending on parameter thresholds, such networks can exhibit autocatalytic behavior. Our algorithm takes as input a network structure and outputs (1) a simplified effective graph containing the dominant reaction pathways, obtained through recursive coarse-graining; and (2) analytical formulas for the dynamics in terms of kinetic rates, called hierarchical formulas. These formulas are approximate but interpretable, accurate when scale separation is effective, and provide a reliable multiscale description of the dynamics. Their domains of validity define kinetic phases, each typically associated with a distinct pattern of chemical composition. We show on a simple example that this approach enables fast and reliable inference of kinetic rates from concentration time series. Hierarchical formulas have been implemented as a Python package and are illustrated on a simplified model of the formose reaction."
         }
       ]
     },
@@ -277,6 +277,30 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "Bitcoin miners face deepening margin squeeze as revenue falls below production costs",
+          "url": "https://www.theblock.co/post/405858/bitcoin-miners-face-deepening-margin-squeeze-as-revenue-falls-below-production-costs?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-24T21:41:02.000Z",
+          "source": "The Block",
+          "summary": "An estimated 20% of miners are now unprofitable at current prices, and the stress shows up at the network level, too."
+        },
+        {
+          "title": "FTX exec’s wife scheduled for November trial on campaign finance charges",
+          "url": "https://cointelegraph.com/news/ftx-exec-wife-november-trial-campaign-finance-charges?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-24T21:07:03.000Z",
+          "source": "CoinTelegraph",
+          "summary": "A Manhattan judge ordered that Michelle Bond’s criminal trial start in November after he denied a motion to dismiss the indictment based on claims that prosecutors misled her husband over her charges."
+        },
+        {
+          "title": "Bitcoin nearly loses $59K as DXY surges: Are traders bracing for more pain?",
+          "url": "https://cointelegraph.com/markets/bitcoin-nearly-loses-59k-as-dxy-surges-are-traders-bracing-for-more-pain?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-24T20:58:28.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bitcoin drops toward new 2026 lows as spot BTC ETF outflows and slowing accumulation from Strategy weigh on market sentiment."
+        },
         {
           "title": "Upheaval at the Ethereum Foundation has some of crypto’s biggest names feeling bullish",
           "url": "https://www.coindesk.com/tech/2026/06/24/upheaval-at-the-ethereum-foundation-has-some-of-crypto-s-biggest-names-feeling-bullish",
@@ -332,30 +356,6 @@
           "date": "2026-06-24T18:28:02.000Z",
           "source": "The Block",
           "summary": "Ground has raised $3.6 million in a pre-seed funding round co-led by Bain Capital Crypto and ParaFi as it emerges from stealth."
-        },
-        {
-          "title": "Crypto-backed candidates notch wins in three US state primaries",
-          "url": "https://cointelegraph.com/news/crypto-backed-candidates-new-york-maryland-primaries?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-24T17:34:57.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The crypto-aligned Fairshake PAC and its affiliates spent a combined $8 million on media to support candidates in Maryland, New York and Utah amid pushback from many criticizing “crypto billionaires.”"
-        },
-        {
-          "title": "Binance withdraws Greek MiCA bid but vows to remain in Europe",
-          "url": "https://www.coindesk.com/policy/2026/06/24/binance-withdraws-greek-mica-bid-but-vows-to-remain-in-europe",
-          "domain": "coindesk.com",
-          "date": "2026-06-24T17:18:08.000Z",
-          "source": "CoinDesk",
-          "summary": "The crypto giant must find a home base in the EU by July 1 or regulators will force the company to shut down operations for millions of regional users."
-        },
-        {
-          "title": "Bitcoin falls under $60K, but traders anticipate 15% bounce",
-          "url": "https://cointelegraph.com/markets/bitcoin-hits-2-week-lows?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-24T17:06:46.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Bitcoin price dropped below $60,000 for the first time in weeks, but data shows traders betting on a relief bounce."
         }
       ]
     }
