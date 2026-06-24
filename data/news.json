@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-24T05:43:43.536Z",
+  "updatedAt": "2026-06-24T08:45:35.677Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -57,14 +57,6 @@
           "summary": "Bio Protocol announces the launch of PEPTAI, with a total supply of 20% allocated to BIO stakers &nbsp;&nbsp; Bitget"
         },
         {
-          "title": "Bio Protocol transferred 80 million BIO to CEX, approximately 5.15 million USD - WEEX",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaDc2eFBaakQ0aHNNTG1tV1BJdGtiOHF1Y0ZJb1IxVVAxdXQwT2dRVGpyb3FZTEV4N3ZhMWtVSUxqTWRDODhPdkl4emxRZzctU1djclZsTXA4RDYwdERfOFdpbmRwdFY1YWNHWkgyekZINzV5QlBJLWlnNzdNVHpWaGpnMDVVamFvQ01MaXpJRDFHaGZ0TjhLbGNyNkdxN0hVX1hsU1pKVUQ4N0tMZnJJYjlON1JmVndVRHZMZXRickJ3ME5YeTdKeG9SOHlkNkk?oc=5",
-          "domain": "weex.com",
-          "date": "2026-05-04T07:00:00.000Z",
-          "source": "WEEX",
-          "summary": "Bio Protocol transferred 80 million BIO to CEX, approximately 5.15 million USD &nbsp;&nbsp; WEEX"
-        },
-        {
           "title": "DeSci Has Raised Millions For Research No VC Would Ever Touch - Yellow.com",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQzAtQWJmSEtGX1pXdWVOR0RsRnhXWGp4S2VYUEhXREJiM1ljR01reDZfS1hwU0g3eTMzaFdOdnVJb3l2R2lNdmdCVEhuUWExYjB0VTNReUIwUlRxTjhrdmlCV1d5R3VXbGtRWFp3eGQ0VTV0SjhZdGpNOGV2dDNYcnVodm9PWWJHYlE?oc=5",
           "domain": "yellow.com",
@@ -87,9 +79,16 @@
           "date": "2026-05-01T07:00:00.000Z",
           "source": "KuCoin",
           "summary": "DeSci, AI, or Meme: Where Crypto Capital Flows in Mid-2026 &nbsp;&nbsp; KuCoin"
+        },
+        {
+          "title": "Bio Protocol price outlook: $0.045 rebound possible amid extended consolidation - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPT1E3XzBaRGFVSzZIQjZwWml6eUh0cTFMTU1NbVBnSlJmX3ZWNlNQN2lCNlZFU1FVc3BTbzc4d083Nk5rNzlya0VYdFJlall5Y2p4Z0h2VjA4amctQVF3VmkyZkw2Y3Y1TGx3cnlWeWdfZE5PTm5PMm1mazhNZExpa29QSWpwNHh2VmlUMHo1R1YxejVGVlJWcEgwb3RTdmhTWTIwN21hYk8yX0hrZC1sV3cwUHFwMmxTbUNNTlN1QzdvNE82SjBnX1B1SWpVYkE?oc=5",
+          "domain": "tradingview.com",
+          "date": "2026-04-29T07:00:00.000Z",
+          "source": "TradingView",
+          "summary": "Bio Protocol price outlook: $0.045 rebound possible amid extended consolidation &nbsp;&nbsp; TradingView"
         }
-      ],
-      "warning": "Google News DeSci returned 503"
+      ]
     },
     {
       "name": "Longevity",
@@ -112,7 +111,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-23T16:18:19.000Z",
           "source": "Lifespan.io",
-          "summary": "A new study links accelerated aging to early-onset solid cancers, while showing that this gap is becoming wider with each new generation [1]. Why do more young people get cancer? […]"
+          "summary": "A new study links accelerated aging to early-onset solid cancers, while showing that this gap is becoming wider with each new […]"
         },
         {
           "title": "Rapalogix raises $20m for longevity skin health",
@@ -279,84 +278,84 @@
       ],
       "articles": [
         {
+          "title": "Mark Cuban, Dallas Mavericks face appeal over dismissed Voyager crypto case",
+          "url": "https://www.theblock.co/post/405937/mark-cuban-dallas-mavericks-face-appeal-over-dismissed-voyager-crypto-case?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-24T08:43:11.000Z",
+          "source": "The Block",
+          "summary": "Voyager investors appealed the dismissal of their claims against Mark Cuban and the Dallas Mavericks to the Eleventh Circuit."
+        },
+        {
+          "title": "CryptoQuant says Michael Saylor's Strategy should halt its bitcoin buying",
+          "url": "https://www.coindesk.com/markets/2026/06/24/strategy-should-pause-its-bitcoin-buying-and-rebuild-cash-cryptoquant-says",
+          "domain": "coindesk.com",
+          "date": "2026-06-24T08:15:18.000Z",
+          "source": "CoinDesk",
+          "summary": "CryptoQuant says the cash cushion behind Strategy's STRC has thinned from seven years of coverage to 14 months, and buying BTC at cycle tops has left the company with a $10.6 billion paper loss."
+        },
+        {
+          "title": "Trump lands in Senate's crosshairs over $500 million UAE investment in his crypto venture",
+          "url": "https://www.coindesk.com/policy/2026/06/24/trump-lands-in-senate-s-crosshairs-over-usd500-million-uae-investment-in-his-crypto-venture",
+          "domain": "coindesk.com",
+          "date": "2026-06-24T07:18:21.000Z",
+          "source": "CoinDesk",
+          "summary": "Senate Democrats call for hearings into whether a $500 million investment by UAE officials in World Liberty Financial influenced Trump's policy decisions."
+        },
+        {
+          "title": "OpenPayd secures MiCA license as stablecoin adoption grows in Europe",
+          "url": "https://cointelegraph.com/news/openpayd-mica-license-stablecoin-adoption-europe?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-24T07:17:46.000Z",
+          "source": "CoinTelegraph",
+          "summary": "OpenPayd, which provides infrastructure to companies including Kraken crypto exchange, can now offer regulated crypto services across Europe under MiCA."
+        },
+        {
+          "title": "Bitcoin’s ‘OG’ investors have slowed selling in a bullish sign for the market",
+          "url": "https://www.coindesk.com/markets/2026/06/24/bitcoin-s-og-investors-have-slowed-selling-in-a-bullish-sign-for-the-market",
+          "domain": "coindesk.com",
+          "date": "2026-06-24T06:39:41.000Z",
+          "source": "CoinDesk",
+          "summary": "Bitcoin \"OGs\" have slashed their selling activity to the lowest levels in nearly two years."
+        },
+        {
+          "title": "Cboe launches prediction market suite with binary option contracts on S&P 500",
+          "url": "https://www.theblock.co/post/405930/cboe-launches-prediction-market-suite?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-24T06:37:28.000Z",
+          "source": "The Block",
+          "summary": "The contracts are currently available on Interactive Brokers and are expected to launch on Charles Schwab in the coming months."
+        },
+        {
+          "title": "US nears ban on CBDCs until 2030 as housing bill goes to Trump",
+          "url": "https://cointelegraph.com/news/us-nears-ban-on-cbdcs-until-2030-as-housing-bill-goes-to-trump?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-24T06:06:46.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The House passed a housing bill with a central bank digital currency ban until 2030, meaning it now just needs US President Donald Trump’s sign-off."
+        },
+        {
+          "title": "Catholic leaders, US authorities challenge CLARITY Act over illicit activity",
+          "url": "https://cointelegraph.com/news/law-enforcement-and-catholic-groups-warn-clarity-act-facilitates-crypto-crime?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-24T06:06:15.000Z",
+          "source": "CoinTelegraph",
+          "summary": "“Regulatory certainty should not come at the expense of accountability, transparency, victim protection, or public safety,” the law enforcement associations said."
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-24T06:00:00.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
+        {
           "title": "Live markets: Bitcoin could drop to $59,000 in the short-term as liquidity dries up",
           "url": "https://www.coindesk.com/tech/2026/06/24/live-markets-bitcoin-could-drop-to-usd59-000-in-the-short-term-as-liquidaity-dries-up",
           "domain": "coindesk.com",
           "date": "2026-06-24T05:13:27.000Z",
           "source": "CoinDesk",
           "summary": "Trading firm Wintermute's options desk puts bitcoin in a $61,242 to $63,563 range for Tuesday, with correlation rising across tokens and no fresh ETF bid in sight."
-        },
-        {
-          "title": "Bitcoin drops toward $62,000 as the chip selloff deepens for a second day",
-          "url": "https://www.coindesk.com/markets/2026/06/24/bitcoin-drops-toward-usd62-000-as-the-chip-selloff-deepens-for-a-second-day",
-          "domain": "coindesk.com",
-          "date": "2026-06-24T04:33:03.000Z",
-          "source": "CoinDesk",
-          "summary": "A renewed rout in semiconductor stocks pulled risk assets lower again, and crypto kept sliding. Bitcoin is down 5% on the week, with ether and the memecoins falling harder."
-        },
-        {
-          "title": "Senate Dems urge probe into $500M crypto deal between Trumps, UAE",
-          "url": "https://cointelegraph.com/news/senate-dems-urge-probe-into-crypto-deal-between-trumps-uae?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-24T04:12:42.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Democrats want the Senate to hold hearings on the dealings between the Trump administration, World Liberty Financial and Abu Dhabi royalty."
-        },
-        {
-          "title": "CEA Industries ends proxy fight with YZi Labs, adds Ella Zhang as board director",
-          "url": "https://www.theblock.co/post/405919/cea-industries-ends-proxy-fight-yzi-labs?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-24T03:44:25.000Z",
-          "source": "The Block",
-          "summary": "BNB treasury firm CEA Industries has entered a cooperation agreement with YZi Labs, ending months-long governance disputes."
-        },
-        {
-          "title": "Crypto PAC-backed Adrian Boafo secures victory in Maryland Democratic primary",
-          "url": "https://www.theblock.co/post/405921/adrian-boafo-wins-maryland-democratic-primary?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-24T03:18:30.000Z",
-          "source": "The Block",
-          "summary": "Boafo received substantial backing from Protect Progress, a super PAC associated with Fairshake, according to FEC filings."
-        },
-        {
-          "title": "StarkWare introduces 'Private KYC' to address personal data breaches",
-          "url": "https://cointelegraph.com/news/starkware-introduces-private-kyc-to-address-personal-data-breaches?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-24T03:14:04.000Z",
-          "source": "CoinTelegraph",
-          "summary": "“Identity checks today ask for your whole document when they only need one fact,” Starknet said."
-        },
-        {
-          "title": "Crypto PAC's $5.5 million Congress pick gets Maryland win, more crypto allies advance",
-          "url": "https://www.coindesk.com/policy/2026/06/23/crypto-pac-s-usd5-5-million-congress-pick-gets-maryland-win-more-crypto-allies-advance",
-          "domain": "coindesk.com",
-          "date": "2026-06-24T03:00:34.000Z",
-          "source": "CoinDesk",
-          "summary": "The Fairshake super PAC supported Adrian Boafo in Maryland, plus other candidates in Maryland, New York and Utah as each ran its primary elections."
-        },
-        {
-          "title": "CFTC sues Kentucky after state’s prediction market lawsuits",
-          "url": "https://cointelegraph.com/news/cftc-sues-kentucky-after-states-prediction-market-lawsuits?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-24T02:40:41.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The Commodity Futures Trading Commission has sued Kentucky, now the ninth state the regulator is battling in its fight over prediction markets."
-        },
-        {
-          "title": "Congress sends anti-CBDC housing bill to Trump’s desk for final approval",
-          "url": "https://www.theblock.co/post/405915/anti-cbdc-housing-bill-passes-congress?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-24T00:52:43.000Z",
-          "source": "The Block",
-          "summary": "The bill, which seeks to boost housing affordability in America, also includes language banning CBDC until Dec. 31, 2030."
-        },
-        {
-          "title": "Ethereum’s much-hated staking 'tax' may already be obsolete",
-          "url": "https://cointelegraph.com/features/ethereums-funding-scare-why-a-hated-staking-tax-may-already-be-obsolete?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-23T23:18:08.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Ethereum’s latest “funding crisis” has triggered a fierce debate over whether to tax staking rewards or to pursue funding from large ETH holders for new organizations like EthLabs."
         }
       ]
     }
