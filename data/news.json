@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-25T09:29:01.973Z",
+  "updatedAt": "2026-06-25T12:03:36.701Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -8,46 +8,6 @@
         "https://news.google.com/rss/search?q=DeSci%20OR%20%22decentralized%20science%22%20OR%20%22BIO%20Protocol%22&hl=en-US&gl=US&ceid=US:en"
       ],
       "articles": [
-        {
-          "title": "Bio Protocol launches AI research hub to challenge grant gatekeepers - crypto.news",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNFh5NE1hUkt5RnVBaFFuVU1HYzgxZzBkU0huOXprTVpRV0xWVDJjZEF3LUtqNkZWWDZVU0E5Wm16ZHljR0dYanI2eDZnYnVCQVA0UzJMTmNQekFtMXhxbTRmWmU0cVBfczBKTURTZ0Jnc2s3QkFMdVpuNlNyeks1azhVUHpHYkNQbno0ZGR6aVZuY2c?oc=5",
-          "domain": "crypto.news",
-          "date": "2026-06-20T12:53:08.000Z",
-          "source": "crypto.news",
-          "summary": "Bio Protocol launches AI research hub to challenge grant gatekeepers &nbsp;&nbsp; crypto.news"
-        },
-        {
-          "title": "BioProtocol unveils OpenLabs platform at DeSci Berlin to merge AI with decentralized research funding - Crypto Briefing",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5sbkJNU3o3UENfWkVYZ2xfLTIxUDRTeWM0V2RlS0U3cUk5XzB5UGxIRXZZSkxSSVpwWl9mdV9panJEdjY2SGFMcHJmVFhVWXFhd2FKNDd4STRWUm9vSHppZU1uLTJlOVJoSW1abGxB?oc=5",
-          "domain": "cryptobriefing.com",
-          "date": "2026-06-19T15:30:59.000Z",
-          "source": "Crypto Briefing",
-          "summary": "BioProtocol unveils OpenLabs platform at DeSci Berlin to merge AI with decentralized research funding &nbsp;&nbsp; Crypto Briefing"
-        },
-        {
-          "title": "NanoVita Joins ENI Super Node Ecosystem to Advance AI-Driven DeSci - Cryptonews.net",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTeHF5X2owYXY0WXF1SjQzVjlkRGU3NG11UHMtaEJwUmZKRXlzTGtGTjhVem5IdGxIOFFYc1FzLWNXVzJaNVZ2MzNDcGQzWFd1UFZVVUdxaXJDWG5D?oc=5",
-          "domain": "cryptonews.net",
-          "date": "2026-06-07T07:00:00.000Z",
-          "source": "Cryptonews.net",
-          "summary": "NanoVita Joins ENI Super Node Ecosystem to Advance AI-Driven DeSci &nbsp;&nbsp; Cryptonews.net"
-        },
-        {
-          "title": "What Is Bio Protocol (BIO)? - Binance",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9MbFcyT1E4N1JvdnZCODQyc1pTRXZWWEk5VTVwbUlLLUtvWmJWN1F4Umw2am00VVBpRlVCaEk5NGR1ZXNvSU1oWGE3OWYtMWlYRURIeHY3SHBVQ0l3RkdmVnVQbXgwUTlLNjg0ZFBmLXpfamdtVmdR?oc=5",
-          "domain": "binance.com",
-          "date": "2026-05-29T07:00:00.000Z",
-          "source": "Binance",
-          "summary": "What Is Bio Protocol (BIO)? &nbsp;&nbsp; Binance"
-        },
-        {
-          "title": "What Is Decentralized Science (DeSci)? - Binance",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRjZMYmttUnVFeEl1WFJjNXFZdmdudXZkelA1bUNlbTU1OERDVlVZTWxHMWZvdlhGaEZ4ZVRBVGkweVktRUdCOVZfc0tLbHJIQ2hGSUQyM29iX1lZMmd0T3NsamRPMWtGRi04bzRLdWlqbmRUakRzdDBYdHZoQ3oxWDBDLTN0QQ?oc=5",
-          "domain": "binance.com",
-          "date": "2026-05-28T07:00:00.000Z",
-          "source": "Binance",
-          "summary": "What Is Decentralized Science (DeSci)? &nbsp;&nbsp; Binance"
-        },
         {
           "title": "PEPTAI Price Swings Wild As Base Integration Fuels DeSci Hype - Coinpedia",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWUpyR0I0YkxiZktvX3hfWlZwc0JIZFU1czE4dHN5SkhjdlJnMFVqb1V4cUY2Z2M0ZXB3VWV4b05zOWdVSGhhblJ2ZGpFMlNhaHJLcF9mZFpHM3d1RHF5b2d3V2ZxUEZfcTJZRHB5Uzd1QWl0bXJuZDlMZG1QR0xvRDZMYkg3STJDaUJibGNEdnBFQmPSAZgBQVVfeXFMTTQ0SUZHQjIzZ2I3dm9UWk5IV3M3NzY0WkRpYnRxblZzUGZVc2lscWg5RXRCV2RzU3NianNNTFd5cVNJYTlRRWNkcnozazZzXzNyODJSZ3VEektmZlZVX1hzbURxcmhUenFzMTdoaG9YSHhlaHFuUnhiWTFOU1kzVTM5Tl8zUFlORnp3WERnaFhNa2ZRUl9ZbkI?oc=5",
@@ -65,28 +25,68 @@
           "summary": "Bio Protocol announces the launch of PEPTAI, with a total supply of 20% allocated to BIO stakers &nbsp;&nbsp; Bitget"
         },
         {
-          "title": "DeSci Has Raised Millions For Research No VC Would Ever Touch - Yellow.com",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQzAtQWJmSEtGX1pXdWVOR0RsRnhXWGp4S2VYUEhXREJiM1ljR01reDZfS1hwU0g3eTMzaFdOdnVJb3l2R2lNdmdCVEhuUWExYjB0VTNReUIwUlRxTjhrdmlCV1d5R3VXbGtRWFp3eGQ0VTV0SjhZdGpNOGV2dDNYcnVodm9PWWJHYlE?oc=5",
-          "domain": "yellow.com",
-          "date": "2026-05-04T06:44:54.000Z",
-          "source": "Yellow.com",
-          "summary": "DeSci Has Raised Millions For Research No VC Would Ever Touch &nbsp;&nbsp; Yellow.com"
+          "title": "Bio Protocol price outlook: $0.045 rebound possible amid extended consolidation - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPT1E3XzBaRGFVSzZIQjZwWml6eUh0cTFMTU1NbVBnSlJmX3ZWNlNQN2lCNlZFU1FVc3BTbzc4d083Nk5rNzlya0VYdFJlall5Y2p4Z0h2VjA4amctQVF3VmkyZkw2Y3Y1TGx3cnlWeWdfZE5PTm5PMm1mazhNZExpa29QSWpwNHh2VmlUMHo1R1YxejVGVlJWcEgwb3RTdmhTWTIwN21hYk8yX0hrZC1sV3cwUHFwMmxTbUNNTlN1QzdvNE82SjBnX1B1SWpVYkE?oc=5",
+          "domain": "tradingview.com",
+          "date": "2026-04-29T07:00:00.000Z",
+          "source": "TradingView",
+          "summary": "Bio Protocol price outlook: $0.045 rebound possible amid extended consolidation &nbsp;&nbsp; TradingView"
         },
         {
-          "title": "Bio Protocol Jumps 53.85% in Intraday Trading - bloomingbit",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TN0RaS1ExWkVmU1FzMXlsRUJQVmZhQ2lnNEdfcFVVMEloWHFuS3VDdnd5SlpLakNvNzIxdld1LTY5VWlVX2c4U2pZaUlTaHZybXUwag?oc=5",
-          "domain": "en.bloomingbit.io",
-          "date": "2026-05-02T07:00:00.000Z",
-          "source": "bloomingbit",
-          "summary": "Bio Protocol Jumps 53.85% in Intraday Trading &nbsp;&nbsp; bloomingbit"
+          "title": "Bio Protocol (BIO) Surges Over 120% in 24 Hours, Tops CoinGecko Trending Charts - The Crypto Times",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSDZhNVJpbmZURmYzaFdvVW1XbHh2RkFuY2ZnZ25ydVdxcVcxLS1PRVBwVXVXQjhwajBFRk9pRHpWeFZ5cFBrUV9JTG1ENGNseDFRRnBEMnVHa05XVWd2Z2R4a0QzWUhpWm96R09ReDctUGdBQW5UY3Azbms3MmR2a05tZ295ajV6T3VSbmZJNDJ6MEY1NUZqUUZpcmdkNzV4RVVZeW8zcldxaXlFUzBF?oc=5",
+          "domain": "cryptotimes.io",
+          "date": "2026-04-16T07:00:00.000Z",
+          "source": "The Crypto Times",
+          "summary": "Bio Protocol (BIO) Surges Over 120% in 24 Hours, Tops CoinGecko Trending Charts &nbsp;&nbsp; The Crypto Times"
         },
         {
-          "title": "DeSci, AI, or Meme: Where Crypto Capital Flows in Mid-2026 - KuCoin",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORWpaTU84Z3BCRUU1UTFFWWhtdnpjNFFPYVVzZWpjenRjMXhRN25QRmtJNFQ1aVlKXzB0YVNtR1pHbEdBS3E0N0JVVGdHbW43TlE4bjlkTm1aeEFxYVpZUVJuRFlPdEVwNTA4OU9Sc2FFTDJ6X1pkMUo1ai13OUdaekVPNDE0Y2tTOHYw?oc=5",
-          "domain": "kucoin.com",
-          "date": "2026-05-01T07:00:00.000Z",
-          "source": "KuCoin",
-          "summary": "DeSci, AI, or Meme: Where Crypto Capital Flows in Mid-2026 &nbsp;&nbsp; KuCoin"
+          "title": "DeSci ecosystem platform LAVO Protocol announces the signing of a strategic cooperation memorandum with Almak Group - Bitget",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0wTzJKVHJveE81UEVJUFZSanhlSVFFU1IwT3VmX0k1M1dtOHZXWU9vdml1c0ZkTWRPZGFrVExYYUcybW11QVVXUHNBdk8zaTFsWHNwWjkwakxKYjV1NzRvNXk0b9IBY0FVX3lxTE0wTzJKVHJveE81UEVJUFZSanhlSVFFU1IwT3VmX0k1M1dtOHZXWU9vdml1c0ZkTWRPZGFrVExYYUcybW11QVVXUHNBdk8zaTFsWHNwWjkwakxKYjV1NzRvNXk0bw?oc=5",
+          "domain": "bitget.com",
+          "date": "2025-12-23T08:00:00.000Z",
+          "source": "Bitget",
+          "summary": "DeSci ecosystem platform LAVO Protocol announces the signing of a strategic cooperation memorandum with Almak Group &nbsp;&nbsp; Bitget"
+        },
+        {
+          "title": "What is DeSci: Why It Could Be Crypto’s Next Big Narrative - 99Bitcoins",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10VXFGb2FqT2lVczd1c05FNm9keTNQb0xuVktLVEJWaGo0d0UyaEhWNnV0c054Z25pb3pZWjg5OUpqYlpmMndIX0JzOUpNbk1kcXdWaHBnYXk5eVE?oc=5",
+          "domain": "99bitcoins.com",
+          "date": "2025-12-15T08:00:00.000Z",
+          "source": "99Bitcoins",
+          "summary": "What is DeSci: Why It Could Be Crypto’s Next Big Narrative &nbsp;&nbsp; 99Bitcoins"
+        },
+        {
+          "title": "Decoding VitaDAO: A Paradigm Revolution in Decentralized Science - Bitget",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEQWV1dmEzOHFqT0RxVVplSDJpTGtGZ0ZmdFF4R1ZLT3k4NnBDQktUV3lPeFNUS1FjNEladDV2N2lpTVNEWEdzaEhqRU02OEU1bV91ZnVjT1VHTWxnekHSAWNBVV95cUxPU2FTQWhwSzdkUkdlT1J5RHdEUm96U2xXNWI4MVB2SVhVV09HZDFZYjJVNUNxS2MtTGFNUjdNU0JtYTBobXpOdUllanhaQVdhWGJ5a1Z0b1gtVExCVkx1T2tidHM?oc=5",
+          "domain": "bitget.com",
+          "date": "2025-11-30T08:00:00.000Z",
+          "source": "Bitget",
+          "summary": "Decoding VitaDAO: A Paradigm Revolution in Decentralized Science &nbsp;&nbsp; Bitget"
+        },
+        {
+          "title": "Galeon Lists on MEXC, Expanding Global Access to Web3 Healthcare and DeSci - Brave New Coin",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVzhZMEpZZXRFbl8yanBlb1Z0MjM5QW9KU1R4ZjJrakNPd1B0ZFB1TlRkcGxnVFlpUTNBZU1SdUJqakwwY2VCcUN6OTBhTDFGWnFKRzgxdW05enoyNU5LUVdMSkFaM0M1eTlYM2Z3QnM0NzIxeEozcndwQThGdW8xRktPcmxOZWh2VnRWdkJfQ1JpMW1LMktXVzlGdFRWcDFsNVlfTFcxN2E4TXpxNHNHRG5n?oc=5",
+          "domain": "bravenewcoin.com",
+          "date": "2025-10-15T07:00:00.000Z",
+          "source": "Brave New Coin",
+          "summary": "Galeon Lists on MEXC, Expanding Global Access to Web3 Healthcare and DeSci &nbsp;&nbsp; Brave New Coin"
+        },
+        {
+          "title": "How Sei Blockchain is Revolutionizing DeSci: Genetic Data Privacy, Longevity Research, and More - OKX",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43YnJYSEtrYlBuTWo3TWJMQ3YwR29CZlNQQkg3UlhGMlpHSFZzQk9zcE1vQWNxOXRKYXhZTzlyYUFhaDBnQ0JSOGJ5U09QejNIaHVyeloxdkx6NTZ1a25QeUQwTHJvWWRUcDEyQVlyQQ?oc=5",
+          "domain": "okx.com",
+          "date": "2025-10-02T07:00:00.000Z",
+          "source": "OKX",
+          "summary": "How Sei Blockchain is Revolutionizing DeSci: Genetic Data Privacy, Longevity Research, and More &nbsp;&nbsp; OKX"
+        },
+        {
+          "title": "Tylenol Debate Shows Science Transparency Gaps. Can DeSci Help? - Forbes",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX3pFZ2pyc2V3Wms0TlJCMWVvSEhrTzl4bzV3blk4eW1oMTVxTWVvX2h2V1ZaNHotUktxQVZIdWR3SFJvSks1Mnc3REIwMGNTNUVYSUJmMHdMQ0VXc2pXV3pfRWFsczNuYzIwSXV5S0VJMmJoVm9GWEdBNk9xWDU3TzlQYnBWYXZDNU1NQ1pheEJuNzNLQV95c1FLY2dTYVc1YjBmUWo3UTExRXN6MVphQWZYSC1DSEk?oc=5",
+          "domain": "forbes.com",
+          "date": "2025-09-24T07:00:00.000Z",
+          "source": "Forbes",
+          "summary": "Tylenol Debate Shows Science Transparency Gaps. Can DeSci Help? &nbsp;&nbsp; Forbes"
         }
       ]
     },
@@ -98,12 +98,28 @@
       ],
       "articles": [
         {
-          "title": "Peers Capital bets on prevention before the pivot",
-          "url": "https://longevity.technology/news/peers-capital-bets-on-prevention-before-the-pivot/",
+          "title": "Leal Therapeutics doses first patient in NeurALS trial",
+          "url": "https://longevity.technology/news/leal-therapeutics-doses-first-patient-in-neurals-trial/",
           "domain": "longevity.technology",
-          "date": "2026-06-24T23:01:00.000Z",
+          "date": "2026-06-25T08:41:12.000Z",
           "source": "Longevity.Technology",
-          "summary": "New deal-by-deal syndicate is backing founders in diagnostics, longevity, recovery and behavior change – before traditional investors arrive. A new investment syndicate has launched with a pointed thesis: that the most interesting companies in preventive health get built before traditional investors start paying attention. Peers Capital, founded by four operators with roots across the health […] The post Peers Capital bets on prevention before the pivot appeared first on Longevity.Technology ."
+          "summary": "Leal Therapeutics has dosed the first participant in NeurALS, a Phase 1/2 first-in-human, randomized, blinded, placebo-controlled trial (LTX-002-101; NCT07660614) evaluating LTX-002 in adults with genetic or sporadic amyotrophic lateral sclerosis. LTX-002 is an investigational, intrathecally delivered antisense oligonucleotide that targets SPTLC1 and is designed to restore healthy sphingolipid levels in the central nervous system, according […] The post Leal Therapeutics doses first patient in NeurALS trial appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "AnHorn’s nerve-protecting drug candidate cleared for US and Taiwan clinical trials",
+          "url": "https://longevity.technology/news/anhorns-nerve-protecting-drug-candidate-cleared-for-u-s-and-taiwan-clinical-trials/",
+          "domain": "longevity.technology",
+          "date": "2026-06-25T08:36:12.000Z",
+          "source": "Longevity.Technology",
+          "summary": "AnHorn Medicines announced in Taipei that its lead neuroprotective candidate AH-008 has received Investigational New Drug clearance from the U.S. Food and Drug Administration and Index Case designation from the Taiwan Center for Drug Evaluation. AH-008 is being developed to prevent chemotherapy-induced peripheral neuropathy, a common and dose-limiting toxicity of treatments such as taxanes, platinum-based […] The post AnHorn’s nerve-protecting drug candidate cleared for US and Taiwan clinical trials appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "Rapalogix Health raises $20m to expand its science-backed anti-aging skincare brand",
+          "url": "https://longevity.technology/news/rapalogix-health-raises-20m-to-expand-its-science-backed-anti-aging-skincare-brand/",
+          "domain": "longevity.technology",
+          "date": "2026-06-25T08:31:12.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Rapalogix Health said it closed a $20 million Series A financing co-led by Woodline Partners and GordonMD Global Investments LP to accelerate the commercialization of its professional skincare brand Re-Q and to advance a pipeline addressing the biology of skin aging. The proceeds will support national expansion of Re-Q, continued clinical and translational research, development […] The post Rapalogix Health raises $20m to expand its science-backed anti-aging skincare brand appeared first on Longevity.Technology ."
         },
         {
           "title": "Stem cell banking partnership targets future of longevity",
@@ -119,7 +135,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-24T16:11:21.000Z",
           "source": "Lifespan.io",
-          "summary": "A recent study suggests that hyperglycosylation in brain tissue can be a hallmark of Alzheimer’s disease [1]. Lesser-known Alzheimer’s molecular features Pathological deposits of amyloid-β plaques and tau tangles in the brain are […]"
+          "summary": "A recent study suggests that hyperglycosylation in brain tissue can be a hallmark of Alzheimer’s disease [1]. Lesser-known Alzheimer’s molecular features Pathological deposits […]"
         },
         {
           "title": "An EU moonshot to solve aging",
@@ -160,22 +176,6 @@
           "date": "2026-06-24T08:47:02.000Z",
           "source": "Longevity.Technology",
           "summary": "Longevity clinic software specialist will discuss AI’s growing role in clinical decision-making at The Longevity Show this week. Reya.ai, the longevity clinic software company founded by Samir Mitra, has been accepted into NVIDIA‘s Inception program, a global initiative that provides technical resources, computing support and business development opportunities to selected AI startups. The news comes […] The post Reya.ai selected for NVIDIA startup program appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "GARM Clinic launches first Klotho longevity residency in Roatan",
-          "url": "https://longevity.technology/news/garm-clinic-launches-first-klotho-longevity-residency-in-roatan/",
-          "domain": "longevity.technology",
-          "date": "2026-06-24T08:46:10.000Z",
-          "source": "Longevity.Technology",
-          "summary": "GARM Clinic announced that the inaugural Klotho Longevity Residency ran 4-7 June 2026 at the Kimpton Grand Roatán Resort & Spa in Roatán, Bay Islands, Honduras, and included 22 attendees. The residency brought together three Klotho researchers identified in the release as Dr Makoto Kuro-o, Dr Carmela Abraham and Dr Agustin Fernandez, and the company […] The post GARM Clinic launches first Klotho longevity residency in Roatan appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Cognito’s wearable device boosts brain proteins linked to Alzheimer’s protection",
-          "url": "https://longevity.technology/news/cognitos-wearable-device-boosts-brain-proteins-linked-to-alzheimers-protection/",
-          "domain": "longevity.technology",
-          "date": "2026-06-24T08:41:10.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Cognito Therapeutics will present new data at the Alzheimer’s Association International Conference (AAIC) 2026 in London showing the effects of its investigational device Spectris on lipid transport biomarkers in Alzheimer’s disease. The poster Spectris Sensory Stimulation Increases CSF HDL-like Lipid Transport Proteins In Alzheimer’s Disease is scheduled for 13 July 2026 in Exhibit Hall at […] The post Cognito’s wearable device boosts brain proteins linked to Alzheimer’s protection appeared first on Longevity.Technology ."
         }
       ]
     },
@@ -278,84 +278,84 @@
       ],
       "articles": [
         {
-          "title": "Indonesia sets certification rules for influencers recommending crypto",
-          "url": "https://cointelegraph.com/news/indonesia-certification-rules-influencers-recommending-crypto?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+          "title": "Circle, Nomura eye Japan corporate FX with stablecoin settlement: Report",
+          "url": "https://cointelegraph.com/news/circle-nomura-partner-instant-fx-settlement-business?utm_source=rss&utm_medium=rss&utm_campaign=rss",
           "domain": "cointelegraph.com",
-          "date": "2026-06-25T08:44:15.000Z",
+          "date": "2026-06-25T11:42:52.000Z",
           "source": "CoinTelegraph",
-          "summary": "Indonesia’s financial regulator will require influencers recommending crypto and other digital assets to hold relevant certifications as regulators worldwide tighten oversight of finfluencers."
+          "summary": "Circle and Nomura are reportedly partnering to enable stablecoin-based foreign exchange settlement for Japanese companies as the country's regulated blockchain-based financial infrastructure expands."
         },
         {
-          "title": "Polish crypto exchange Kanga secures MiCA license in Latvia",
-          "url": "https://cointelegraph.com/news/poland-kanga-secures-mica-license-latvia?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-25T08:24:41.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Poland-founded crypto exchange Kanga has secured a Class 3 MiCA license in Latvia, enabling EU-wide crypto services as Polish lawmakers debate framework's implementation."
+          "title": "Bitcoin derivatives signal panic. A weak core PCE reading could trigger snapback.",
+          "url": "https://www.coindesk.com/daybook-us/2026/06/25/bitcoin-derivatives-signal-panic-a-weak-core-pce-reading-could-trigger-snapback",
+          "domain": "coindesk.com",
+          "date": "2026-06-25T11:31:02.000Z",
+          "source": "CoinDesk",
+          "summary": "Your day-ahead look for June 25, 2026"
         },
         {
-          "title": "South Korea fines Bithumb for sharing user data overseas without consent",
-          "url": "https://www.theblock.co/post/406082/south-korea-bithumb-information-penalty?utm_source=rss&utm_medium=rss",
+          "title": "CoinEx denies claims it served as $3.84 billion gateway to sanctioned Iranian crypto firms",
+          "url": "https://www.coindesk.com/policy/2026/06/25/coinex-denies-claims-it-served-as-usd3-84-billion-gateway-to-sanctioned-iranian-crypto-firms",
+          "domain": "coindesk.com",
+          "date": "2026-06-25T10:56:58.000Z",
+          "source": "CoinDesk",
+          "summary": "Blockchain analysts TRM Labs says CoinEx facilitated more than $3.8 billion in blockchain-traced flows with sanctioned Iranian crypto entities. CoinEx disputes the findings."
+        },
+        {
+          "title": "Crypto relief rally fails to shake persistent bearish derivatives signal",
+          "url": "https://www.coindesk.com/markets/2026/06/25/crypto-relief-rally-fails-to-shake-persistent-bearish-derivatives-signal",
+          "domain": "coindesk.com",
+          "date": "2026-06-25T10:53:24.000Z",
+          "source": "CoinDesk",
+          "summary": "A relief rally tied to recovering U.S. equities lifted BTC and ETH off weekly lows, but bearish derivatives positioning and negative CVD suggest the rebound may be fragile."
+        },
+        {
+          "title": "SBI Holdings agrees to acquire Japanese crypto exchange Bitbank in $288.6 million deal",
+          "url": "https://www.theblock.co/post/406105/sbi-holdings-agrees-to-acquire-japanese-crypto-exchange-bitbank-in-288-6-million-deal?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-06-25T07:44:31.000Z",
+          "date": "2026-06-25T10:52:40.000Z",
           "source": "The Block",
-          "summary": "South Korea ordered Bithumb to pay roughly $136,000 in penalties for violating personal information protection rules."
+          "summary": "SBI Holdings agreed to acquire Bitbank for $288.6 million, with the transaction expected to close around October 2026."
         },
         {
-          "title": "Forget max pain theory. Bitcoin is well below the $72,000 magnet going into $10 billion options expiry",
-          "url": "https://www.coindesk.com/markets/2026/06/25/forget-max-pain-bitcoin-is-well-below-the-usd72-000-magnet-ahead-of-usd10-billion-options-expiry",
+          "title": "Bitcoin supply in loss reaches record high 10.83 million BTC",
+          "url": "https://www.coindesk.com/markets/2026/06/25/bitcoin-supply-in-loss-reaches-record-high-10-83-million-btc",
           "domain": "coindesk.com",
-          "date": "2026-06-25T07:24:59.000Z",
+          "date": "2026-06-25T10:28:37.000Z",
           "source": "CoinDesk",
-          "summary": "The popular max pain theory isn’t working out as bitcoin trades far from the $72K level a day ahead of a $10 billion quarterly options settlement."
+          "summary": "Almost 11 million bitcoin are now held at a loss, while long-term holders control a record 14.8 million coins."
         },
         {
-          "title": "US arbitration giant rolls out ‘legal layer’ for agentic commerce",
-          "url": "https://cointelegraph.com/news/ai-is-getting-a-legal-layer-as-agentic-commerce-accelerates?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-25T06:26:29.000Z",
-          "source": "CoinTelegraph",
-          "summary": "As agentic AI transactions increase, “we need to know there’s a clear answer to what happens if something goes wrong,” said Mance Harmon, co-founder of Hedera."
-        },
-        {
-          "title": "Live markets: Bitcoin, ether lead $1 billion liquidation losses as AI trade keeps going",
-          "url": "https://www.coindesk.com/tech/2026/06/25/live-markets-bitcoin-ether-lead-usd1-billion-liquidation-losses-as-ai-trade-keeps-going",
-          "domain": "coindesk.com",
-          "date": "2026-06-25T06:01:07.000Z",
-          "source": "CoinDesk",
-          "summary": "A liquidation flush took bitcoin to its lowest since early June before Micron's blowout earnings and SK Hynix's U.S. listing plans steadied the AI trade that crypto had been sliding alongside."
-        },
-        {
-          "title": "CoinEx processed $3.8 billion in Iran-linked funds, acting as crypto gateway: TRM Labs",
-          "url": "https://www.theblock.co/post/406073/coinex-iran-trm-labs?utm_source=rss&utm_medium=rss",
+          "title": "Half of UK wealth advisors say most clients’ crypto sits outside their oversight as 61% of European peers face firm restrictions: CoinShares",
+          "url": "https://www.theblock.co/post/406099/half-of-uk-wealth-advisors-say-most-clients-crypto-sits-outside-their-oversight-as-61-of-european-peers-face-firm-restrictions-coinshares?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-06-25T05:55:29.000Z",
+          "date": "2026-06-25T10:14:13.000Z",
           "source": "The Block",
-          "summary": "CoinEx has also interacted with terrorist organizations, including the Islamic Revolutionary Guard Corps, and sanctioned Russian entities."
+          "summary": "CoinShares survey found 52% of UK advisors report most clients' crypto exposure sits outside their oversight, with firm policy a key driver."
         },
         {
-          "title": "House Democrats seek SEC answers on AI investment advisers",
-          "url": "https://cointelegraph.com/news/dems-want-secs-answers-on-ai-investment-advisors?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-25T05:47:21.000Z",
-          "source": "CoinTelegraph",
-          "summary": "House Democrats have questioned the SEC over trading platforms offering AI agent advisers making “consequential investment decisions on behalf of retail investors.”"
-        },
-        {
-          "title": "MemeCore's M token suddenly crashes 80% with no clear trigger",
-          "url": "https://www.coindesk.com/markets/2026/06/25/memecore-s-m-token-suddenly-crashes-80-with-no-clear-trigger",
+          "title": "Micron delivers blowout earnings, surges 16% and deals crypto bulls a blow",
+          "url": "https://www.coindesk.com/markets/2026/06/25/micron-delivers-blowout-earnings-surges-16-and-deals-crypto-bulls-a-blow",
           "domain": "coindesk.com",
-          "date": "2026-06-25T05:35:43.000Z",
+          "date": "2026-06-25T10:01:54.000Z",
           "source": "CoinDesk",
-          "summary": "The token fell from nearly $3 to about $0.50 in hours, wiping out close to $3 billion in market value, with no exploit or announcement to explain it. Onchain investigator ZachXBT warned in April that M's price had been propped up by insiders."
+          "summary": "Micron Technology surged after blockbuster earnings and strong guidance, lifting AI memory stocks."
         },
         {
-          "title": "Here’s what happened in crypto today",
-          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+          "title": "Kraken expands OTC lending through an onchain warehouse facility with Maple",
+          "url": "https://www.theblock.co/post/406054/kraken-expands-otc-lending-onchain-warehouse-facility-maple?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-25T10:00:00.000Z",
+          "source": "The Block",
+          "summary": "Maple’s lenders will provide a revolving line of funding to supply USDC liquidity for Kraken's over-the-counter borrowers."
+        },
+        {
+          "title": "Iran-linked entities moved $3.8B through CoinEx, TRM says",
+          "url": "https://cointelegraph.com/news/iran-entities-moved-38-billion-coinex?utm_source=rss&utm_medium=rss&utm_campaign=rss",
           "domain": "cointelegraph.com",
-          "date": "2026-06-25T05:16:56.000Z",
+          "date": "2026-06-25T09:44:14.000Z",
           "source": "CoinTelegraph",
-          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+          "summary": "TRM Labs traced $3.8 billion moved by 60 sanctioned Iranian entities through CoinEx and said that the exchange’s 8% share of illicit transactions was substantially higher than its counterparts."
         }
       ]
     }
