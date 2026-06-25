@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-25T19:30:07.806Z",
+  "updatedAt": "2026-06-25T21:15:48.163Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -98,6 +98,14 @@
       ],
       "articles": [
         {
+          "title": "Upregulating a Key Cartilage Factor Leads to Osteoarthritis",
+          "url": "https://lifespan.io/upregulating-a-key-cartilage-factor-leads-to-osteoarthritis/",
+          "domain": "lifespan.io",
+          "date": "2026-06-25T20:25:54.000Z",
+          "source": "Lifespan.io",
+          "summary": "Researchers have found that sustained expression of excess hypoxia-inducible factor (HIF)-1α leads to unwanted formation of blood vessels (angiogenesis) that destroys cartilage and causes osteoarthritis. A necessary but destructive factor Being required for extracellular matrix (ECM) construction and […]"
+        },
+        {
           "title": "Next Health opens its largest East Coast longevity hub",
           "url": "https://longevity.technology/news/next-health-opens-its-largest-east-coast-longevity-hub/",
           "domain": "longevity.technology",
@@ -127,7 +135,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-25T15:50:36.000Z",
           "source": "Lifespan.io",
-          "summary": "NeuroAge Therapeutics announced Younger 2027, a six-month biological aging contest in which competitors are measured on a clinical-grade aging panel and retested six months later. Baseline testing kits begin shipping September 1, 2026, with […]"
+          "summary": "NeuroAge Therapeutics announced Younger 2027, a six-month biological aging contest in which competitors are measured on a clinical-grade aging panel and retested six months later. Baseline testing kits begin shipping September 1, 2026, with at-home baseline […]"
         },
         {
           "title": "Leal Therapeutics doses first patient in NeurALS trial",
@@ -168,14 +176,6 @@
           "date": "2026-06-24T16:44:39.000Z",
           "source": "Longevity.Technology",
           "summary": "New patent filings target one of weight loss medicine’s biggest challenges: keeping muscle while shedding pounds. By securing patent claims across both peptide constructs (EL-22) and bioengineered microorganisms (EL-32), is the company trying to build an ironclad monopoly on the entire muscle-preservation side of the weight-loss industry? That may be a provocative way of framing […] The post NorthStrive eyes emerging GLP-1 opportunity: muscle preservation appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Glycosylation’s Role in Alzheimer’s Disease",
-          "url": "https://lifespan.io/glycosylations-role-in-alzheimers-disease/",
-          "domain": "lifespan.io",
-          "date": "2026-06-24T16:11:21.000Z",
-          "source": "Lifespan.io",
-          "summary": "A recent study suggests that hyperglycosylation in brain tissue can be a hallmark of Alzheimer’s disease [1]. Lesser-known Alzheimer’s molecular features Pathological deposits […]"
         }
       ]
     },
@@ -187,6 +187,22 @@
         "https://phys.org/rss-feed/biology-news/biotechnology/"
       ],
       "articles": [
+        {
+          "title": "Ultra-precise technology can count damaged DNA fragments",
+          "url": "https://phys.org/news/2026-06-ultra-precise-technology-dna-fragments.html",
+          "domain": "phys.org",
+          "date": "2026-06-25T20:40:05.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "The Korea Research Institute of Standards and Science has developed an ultrasensitive immunoassay-based analytical platform that can detect and quantify trace amounts of \"Small Excised Damaged DNA (sedDNA)\" fragments generated during cellular DNA repair. This technology enables highly sensitive detection with quantification down to the level of several thousand molecules, measuring up to 22 times more DNA fragments than conventional methods. It provides a new analytical foundation for comparing DNA repair capacity between individuals and studying cellular responses to anticancer drugs and carcinogenic agents."
+        },
+        {
+          "title": "New insight into how cells move copper out of the mitochondrial matrix could guide novel treatments",
+          "url": "https://phys.org/news/2026-06-insight-cells-copper-mitochondrial-matrix.html",
+          "domain": "phys.org",
+          "date": "2026-06-25T19:40:06.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Copper is essential for life. Our cells need the metal to make energy and stay healthy, but if it is in the wrong place or present in excess, copper can be deadly. Texas A&M AgriLife Research scientists have identified a key protein that helps maintain copper balance, with implications for treating heart failure and rare diseases."
+        },
         {
           "title": "Researchers test a smart lion collar in Tanzania",
           "url": "https://phys.org/news/2026-06-smart-lion-collar-tanzania.html",
@@ -250,22 +266,6 @@
           "date": "2026-06-25T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2606.25865v1 Announce Type: new Abstract: Molecular generation is a central challenge in drug discovery, requiring models that explore vast chemical space while satisfying diverse design constraints. We present Molexar, a unified multimodal molecular foundation model built on Fragment-SELFIES, a robust, fragment-aware molecular language with validity-preserving decoding and explicit fragment structure. A pretrained autoregressive decoder learns the Fragment-SELFIES syntax and molecular distribution; supervised fine-tuning (SFT) then trains the same decoder on condition-molecule pairs spanning scalar molecular properties, pharmacophore fingerprints, protein sequences, and binding pockets, injecting each condition by in-place replacement of value-token embeddings so that all generation modes share one autoregressive path. Molexar achieves strong efficiency at a small parameter count while matching or exceeding larger models. The pretrained model reaches 100% validity and high drug-likeness in unconditional and fragment-constrained generation; the SFT model follows single- and multi-property instructions and remains competitive on target-conditioned generation on the CrossDocked2020 test set. On MolGenBench, Molexar further generates molecules with favorable safety and potency. These results establish Molexar as a practical unified foundation for computational chemistry and drug-design workflows."
-        },
-        {
-          "title": "Topology-Dependent Emergence of Polychronous Neuronal Groups: A Recurrence-Plot Characterization",
-          "url": "https://arxiv.org/abs/2606.25874",
-          "domain": "arxiv.org",
-          "date": "2026-06-25T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2606.25874v1 Announce Type: new Abstract: Polychronous Neuronal Groups (PNGs) reproducible, time-locked spatiotemporal firing cascades stabilised by Spike-Timing-Dependent Plasticity (STDP) and heterogeneous axonal delays provide a combinatorially rich substrate for neural computation whose structural determinants remain poorly understood. We simulate a recurrent network of N=1000 Izhikevich neurons over ten hours of biological time and identify 1545 unique PNGs via an offline event-driven detection algorithm. A parametric Watts-Strogatz topology sweep reveals that the clusteringcoefficient C is the primary structural driver of PNG yield: the transition from a ring-lattice (C~0.35, $\\sim\\!850$ \\PNGs) to a random graph (C~!0.20$, $<\\!50$ \\PNGs) reduces representational capacity by more than 90%. We further introduce a sparse-dot-product Recurrence Plot (RP) framework that identifies PNGs as unit-slope diagonal structures in the phase-space recurrence matrix, entirely independent of anatomical neuron labelling. Recurrence Quantification Analysis yields DET~0.65, quantifying the reproducibility of the network's dynamical trajectory. Together, the results establish small-world topology as the structural optimum for polychronization and the \\RP decoder as a principled, label-free tool for PNG identification."
-        },
-        {
-          "title": "Are Tabular Foundation Models Robust to Realistic Query Distribution Shifts in Microbiome Data?",
-          "url": "https://arxiv.org/abs/2606.24995",
-          "domain": "arxiv.org",
-          "date": "2026-06-25T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2606.24995v1 Announce Type: cross Abstract: Tabular foundation models (TFMs) achieve strong performance on microbiome abundance data, yet their robustness under realistic distribution shift remains poorly characterized. We introduce a benchmark that evaluates the robustness of TFMs to biologically inspired perturbations across six gut microbiome datasets spanning four disease contexts. In this in-context learning setting, models receive unperturbed support sets as context and are evaluated on perturbed query samples. To isolate robustness beyond \"shortcut\" features, we preserve the most discriminative taxa and apply three controlled perturbation strategies: (i) removal of high-abundance (uninformative) taxa, (ii) sparsification via increased zero-inflation, and (iii) zero-imputation via spurious non-zero injections. Our results show that protecting discriminative features is insufficient to guarantee stability under support-query shift: across datasets, all perturbations degrade model performance, with zero-imputation consistently the most harmful, indicating that corrupting global feature structure can break generalization even when key taxa are retained. Sparsification disproportionately affects TFMs relative to a classical random forest baseline, suggesting greater sensitivity to zero-inflation-type shifts. The code is publicly available at: https://github.com/UMMISCO/metagenomics-fm/."
         }
       ]
     },
@@ -277,6 +277,62 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "Bitcoin bounces off new 2026 price lows: Will US stock weakness push BTC lower?",
+          "url": "https://cointelegraph.com/markets/bitcoin-bounces-off-new-2026-price-lows-will-us-stock-weakness-push-btc-lower?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-25T21:02:50.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bitcoin’s trek into new 2026 lows continued as spot BTC ETF outflows, a bearish monthly options expiry and Strategy’s unrealized losses widened its gap with AI-connected stock returns."
+        },
+        {
+          "title": "Asset management giant Invesco files for tokenized fund targeting stablecoin reserve market",
+          "url": "https://www.coindesk.com/business/2026/06/25/asset-management-giant-invesco-files-for-tokenized-fund-targeting-stablecoin-reserve-market",
+          "domain": "coindesk.com",
+          "date": "2026-06-25T20:47:24.000Z",
+          "source": "CoinDesk",
+          "summary": "The $2.5 trillion asset manager deepens its blockchain push after taking over Superstate's tokenized money market fund as fund manager earlier this year."
+        },
+        {
+          "title": "Senate races to advance crypto legislation in July as housing bill turmoil threatens timeline",
+          "url": "https://www.theblock.co/post/406231/senate-races-advance-crypto-legislation-housing-bill-turmoil-threatens-timeline?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-25T20:37:37.000Z",
+          "source": "The Block",
+          "summary": "A sweeping cryptocurrency bill faces a narrowing path to passage as pressure grows on the Senate to take up the legislation next month."
+        },
+        {
+          "title": "Trillion-dollar asset manager Invesco looks to plant a flag in tokenized stablecoin reserve sector",
+          "url": "https://www.theblock.co/post/406239/trillion-dollar-asset-manager-invesco-plant-flag-tokenized-stablecoin-reserve-sector?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-25T20:11:28.000Z",
+          "source": "The Block",
+          "summary": "The fund will invest primarily in U.S. Treasuries, repo agreements, and cash equivalents to maintain a stable $1 net asset value."
+        },
+        {
+          "title": "Bitcoin options traders hedge downside as uncertainty lingers, Anchorage says",
+          "url": "https://cointelegraph.com/news/bitcoin-options-traders-hedge-downside-as-uncertainty-lingers-anchorage-says?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-25T20:10:41.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Anchorage Digital’s latest analysis shows Bitcoin options traders remain defensive as near-term uncertainty persists, though markets are not pricing an extreme downside scenario for Strategy."
+        },
+        {
+          "title": "Bitcoin may fall lower but BTC power-law frames crash to $58K as ‘normal’",
+          "url": "https://cointelegraph.com/markets/key-bitcoin-price-levels-after-btc-power-law-says-58k-is-normal?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-25T19:51:35.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bitcoin’s drop to $58,000 lines up with the power-law model’s cycle lows, even though futures market data points to deeper lows for BTC price."
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-25T19:32:21.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
         {
           "title": "Half of UK wealth advisers say clients' crypto is ‘invisible’ to them: CoinShares survey",
           "url": "https://cointelegraph.com/news/uk-wealth-advisors-clients-crypto-invisible-survey?utm_source=rss&utm_medium=rss&utm_campaign=rss",
@@ -300,62 +356,6 @@
           "date": "2026-06-25T18:05:06.000Z",
           "source": "CoinTelegraph",
           "summary": "Bitcoin’s crash to $58,000 confirmed a bear flag breakdown, setting a new price target of $54,000 or lower."
-        },
-        {
-          "title": "Multicoin predicts HYPE hits $319 by 2028 as Hyperliquid turns into an ‘everything exchange’",
-          "url": "https://www.theblock.co/post/406212/multicoin-hype-hits-319-by-2028-hyperliquid-everything-exchange?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-25T18:03:32.000Z",
-          "source": "The Block",
-          "summary": "According to the investment firm, Hyperliquid's user base grew from roughly 300,000 to 923,000 during 2025."
-        },
-        {
-          "title": "Strategy's yield-generating STRC stock is more correlated with BTC than ever",
-          "url": "https://www.coindesk.com/markets/2026/06/25/strategy-s-yield-generating-strc-stock-is-more-correlated-with-btc-than-ever",
-          "domain": "coindesk.com",
-          "date": "2026-06-25T17:48:18.000Z",
-          "source": "CoinDesk",
-          "summary": "The tightening correlation undermines STRC's appeal as a relatively steadier income vehicle."
-        },
-        {
-          "title": "Kraken in talks to buy 15% stake in DeFi lender Aave at $385 million valuation",
-          "url": "https://www.coindesk.com/business/2026/06/25/kraken-in-talks-to-buy-15-stake-in-defi-lender-aave-at-usd385-million-valuation",
-          "domain": "coindesk.com",
-          "date": "2026-06-25T17:14:19.000Z",
-          "source": "CoinDesk",
-          "summary": "The DeFi lender is rebuilding after the fallout from April's KelpDAO exploit sparked a multibillion-dollar exodus of deposits despite Aave itself not being hacked."
-        },
-        {
-          "title": "XRP risks drop below $1, but onchain data highlights silver lining",
-          "url": "https://cointelegraph.com/markets/xrp-may-lose-1-but-onchain-data-signals-improving-outlook-heres-why?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-25T17:11:33.000Z",
-          "source": "CoinTelegraph",
-          "summary": "XRP’s chance of a daily close below $1 are rising, but whale accumulation and shrinking exchange supply may be a sign that traders are buying."
-        },
-        {
-          "title": "Coinbase-incubated Base suffers mainnet chain stall interrupting block production",
-          "url": "https://www.theblock.co/post/406213/coinbase-incubated-base-blockchain-suffers-unsafe-head-stall-interrupting-block-production?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-25T17:10:34.000Z",
-          "source": "The Block",
-          "summary": "Deposits and withdrawals have also been affected, while transactions are delayed or stalled, according to Base's status page."
-        },
-        {
-          "title": "a16z-backed crypto firm rebrands, shifts focus to solving AI’s global copyright headache",
-          "url": "https://www.coindesk.com/business/2026/06/25/a16z-backed-crypto-firm-rebrands-shifts-focus-to-solving-ai-s-global-copyright-headache",
-          "domain": "coindesk.com",
-          "date": "2026-06-25T17:06:10.000Z",
-          "source": "CoinDesk",
-          "summary": "The startup formerly known as Story Protocol raised $140 million to secure internet rights and is now building an audit layer for data consent, licensing, and provenance for tech firms."
-        },
-        {
-          "title": "Sophon sunsets its Layer 2 blockchain, moves to Base to build consumer apps",
-          "url": "https://www.theblock.co/post/406194/sophon-sunsets-layer-2-blockchain-moves-to-base-build-consumer-apps?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-25T17:04:23.000Z",
-          "source": "The Block",
-          "summary": "Sophon, which has raised $70 million in total funding, is shutting down its Layer 2 blockchain and moving to Base to build consumer apps."
         }
       ]
     }
