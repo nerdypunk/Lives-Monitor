@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-26T13:50:14.545Z",
+  "updatedAt": "2026-06-26T16:20:28.988Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -98,6 +98,30 @@
       ],
       "articles": [
         {
+          "title": "Cell Type-Specific Aging Predicts Disease Onset",
+          "url": "https://lifespan.io/cell-type-specific-aging-predicts-disease-onset/",
+          "domain": "lifespan.io",
+          "date": "2026-06-26T15:11:47.000Z",
+          "source": "Lifespan.io",
+          "summary": "A new study has used aging trajectories of various cell types to predict diseases such as Alzheimer’s and lung cancer [1]. This […]"
+        },
+        {
+          "title": "Scribe lands $25m to advance heart disease gene therapies",
+          "url": "https://longevity.technology/news/scribe-lands-25m-to-advance-heart-disease-gene-therapies/",
+          "domain": "longevity.technology",
+          "date": "2026-06-26T15:00:00.000Z",
+          "source": "Longevity.Technology",
+          "summary": "New funding will help advance two one-time CRISPR treatments for inherited cardiovascular risks toward human trials. Think about finding out that your risk of heart disease was largely written into your DNA long before you were born. Now imagine addressing that risk not with a lifetime of pills, injections or restrictive diets, but with a […] The post Scribe lands $25m to advance heart disease gene therapies appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "ŌURA-LillyDirect collab highlights new GLP-1 care model",
+          "url": "https://longevity.technology/news/oura-lillydirect-collab-highlights-new-glp-1-care-model/",
+          "domain": "longevity.technology",
+          "date": "2026-06-26T14:00:00.000Z",
+          "source": "Longevity.Technology",
+          "summary": "New collaboration signals a shift toward combining medication, behavior change and health tracking in one care journey. Is weight becoming an outdated health metric? For decades, the bathroom scale has been the headline act of every weight-loss journey. Lose pounds, celebrate. Gain them back, start over. Simple. But as GLP-1 therapies reshape obesity treatment worldwide, […] The post ŌURA-LillyDirect collab highlights new GLP-1 care model appeared first on Longevity.Technology ."
+        },
+        {
           "title": "AI and Alzheimer’s: NeuroXT, BIDMC aim to personalize care",
           "url": "https://longevity.technology/news/ai-and-alzheimers-neuroxt-bidmc-aim-to-personalize-care/",
           "domain": "longevity.technology",
@@ -152,30 +176,6 @@
           "date": "2026-06-26T10:41:53.000Z",
           "source": "Longevity.Technology",
           "summary": "Anodyne Nanotech closed a $12.6 million Series A financing led by Velocity Partners VC and co-led by Evercurious VC, with major participation from Relativity Healthcare Partners. Proceeds will support advancement of ANN-101, Anodyne’s once-weekly GLP-1 patch for obesity, into a phase 1 clinical trial and accelerate development of the HeroPatch transdermal platform for delivery of […] The post Anodyne Nanotech raises $12.6m to test a once-weekly obesity patch appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Ollin Biosciences raises $330m for Phase 3 trials of eye disease drug",
-          "url": "https://longevity.technology/news/ollin-biosciences-raises-330m-for-phase-3-trials-of-eye-disease-drug/",
-          "domain": "longevity.technology",
-          "date": "2026-06-26T10:36:53.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Ollin Biosciences has completed an oversubscribed $330 million Series B financing co-led by TCGX and ARCH Venture Partners, with participation from a16z Bio+Health, Blackstone Multi-Asset Investing, Commodore Capital, Canada Pension Plan Investment Board, RA Capital, accounts advised by T. Rowe Price, Mubadala Capital and Monograph Capital, among others. Proceeds will support global Phase 3 development […] The post Ollin Biosciences raises $330m for Phase 3 trials of eye disease drug appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Circulate Health partners with Reborne to bring plasma exchange to UK",
-          "url": "https://longevity.technology/news/circulate-health-partners-with-reborne-to-bring-plasma-exchange-to-uk/",
-          "domain": "longevity.technology",
-          "date": "2026-06-26T10:31:53.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Circulate Health and Reborne announced an exclusive partnership that will make Reborne the first UK hospital to offer Circulate Health’s therapeutic plasma exchange procedures and represents Circulate Health’s first partnership in Europe. Therapeutic plasma exchange is a procedure that separates blood plasma from whole blood and replaces it with a substitute fluid using FDA-cleared apheresis […] The post Circulate Health partners with Reborne to bring plasma exchange to UK appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Upregulating a Key Cartilage Factor Leads to Osteoarthritis",
-          "url": "https://lifespan.io/upregulating-a-key-cartilage-factor-leads-to-osteoarthritis/",
-          "domain": "lifespan.io",
-          "date": "2026-06-25T20:25:54.000Z",
-          "source": "Lifespan.io",
-          "summary": "Researchers have found that sustained expression of excess hypoxia-inducible factor (HIF)-1α leads to unwanted formation of blood vessels (angiogenesis) that destroys cartilage and causes osteoarthritis. A necessary but destructive factor Being required for extracellular matrix (ECM) construction and […]"
         }
       ]
     },
@@ -278,6 +278,62 @@
       ],
       "articles": [
         {
+          "title": "US senators push to end CFTC ‘assault’ on state oversight of prediction markets",
+          "url": "https://cointelegraph.com/news/us-senators-cftc-assault-state-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-26T16:10:37.000Z",
+          "source": "CoinTelegraph",
+          "summary": "A group of 17 Democratic senators went after the CFTC’s funding for lawsuits over prediction markets, calling it an “assault” on state authorities."
+        },
+        {
+          "title": "DraftKings launches its own prediction markets exchange as consumer volume exceeds $3 billion",
+          "url": "https://www.theblock.co/post/406375/draftkings-launches-own-prediction-markets-exchange-consumer-volume-exceeds-3-billion?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-26T16:05:28.000Z",
+          "source": "The Block",
+          "summary": "The company said its prediction markets vertical has generated approximately $3.4 billion in annualized consumer volume."
+        },
+        {
+          "title": "Bitcoin makes first sub-$60K close since Q3 2024 as tech stocks enter ‘deep bear market’",
+          "url": "https://cointelegraph.com/markets/bitcoin-sees-first-close-below-60k-since-q3-2024-with-tech-stocks-in-deep-bear-market-zone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-26T15:55:56.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bitcoin risked turning $60,000 into resistance as BTC price weakness persisted following another tech-driven sell-off in Asian stock markets."
+        },
+        {
+          "title": "Securitize aims to raise $400 million as tokenization firm nears public debut",
+          "url": "https://www.coindesk.com/business/2026/06/26/securitize-aims-to-raise-usd400-million-as-tokenization-firm-nears-public-debut",
+          "domain": "coindesk.com",
+          "date": "2026-06-26T15:04:44.000Z",
+          "source": "CoinDesk",
+          "summary": "The BlackRock-backed tokenization specialist expects to close its SPAC merger next week and start trading on the NYSE, pending shareholder approval."
+        },
+        {
+          "title": "Spain says ‘no exceptions or extensions’ for Binance, other crypto firms ahead of MiCA deadline",
+          "url": "https://www.theblock.co/post/406362/spain-says-no-exceptions-extensions-binance-other-crypto-firms-mica-deadline?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-26T15:01:10.000Z",
+          "source": "The Block",
+          "summary": "Industry leaders remain divided over MiCA, with some praising the framework while others warn it could limit customer access to liquidity."
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-26T14:06:06.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
+        {
+          "title": "Framework Ventures raises $400M to invest beyond crypto: Report",
+          "url": "https://cointelegraph.com/news/framework-ventures-raise-400-million-push-beyond-crypto-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-26T13:58:28.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Framework Ventures raises $400 million fourth fund as it expands into AI, robotics and energy while reportedly planning to continue crypto investments."
+        },
+        {
           "title": "Ethereum OG wallets finally sell after 8 years, locking in estimated $27M profit after $150M unrealized peak: onchain analysts",
           "url": "https://www.theblock.co/post/406342/ethereum-og-wallets-finally-sell-after-8-years-locking-in-estimated-27m-profit-after-150m-unrealized-peak-onchain-analysts?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
@@ -300,62 +356,6 @@
           "date": "2026-06-26T13:11:29.000Z",
           "source": "CoinTelegraph",
           "summary": "Singapore’s financial regulator added Hyperliquid to its Investor Alert List, as a reminder that the decentralized exchange was not licensed in the region."
-        },
-        {
-          "title": "Framework Ventures raises $400 million for fourth fund to invest across crypto, AI and robotics",
-          "url": "https://www.theblock.co/post/406344/framework-ventures-400-million-fourth-fund-crypto-ai-robotics?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-26T12:54:58.000Z",
-          "source": "The Block",
-          "summary": "The firm also promoted Rajiv Patel-O'Connor to general partner as it expands beyond its traditional crypto focus."
-        },
-        {
-          "title": "Bitcoin’s fragile floor cracks as Fed hawks circle and ETF investors keep pulling out: analysts",
-          "url": "https://www.theblock.co/post/406340/bitcoins-fragile-floor-cracks-as-fed-hawks-circle-and-etf-investors-keep-pulling-out-analysts?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-26T12:47:40.000Z",
-          "source": "The Block",
-          "summary": "Bitcoin fell to $58,000 on June 25 as hot PCE data stoked Fed rate fears and spot ETF outflows extended to a six-day streak."
-        },
-        {
-          "title": "Wall Street's IPO revival hasn't reached dot-com euphoria levels, Goldman Sachs says",
-          "url": "https://www.coindesk.com/business/2026/06/26/wall-street-s-ipo-revival-hasn-t-reached-dot-com-euphoria-levels-goldman-sachs-says",
-          "domain": "coindesk.com",
-          "date": "2026-06-26T12:25:36.000Z",
-          "source": "CoinDesk",
-          "summary": "U.S. IPO issuance has rebounded sharply in 2026, but the bank said the current surge lacks the deal volume and speculative excess that defined the dot-com era."
-        },
-        {
-          "title": "Australian regulator extends no-action period for crypto licensing",
-          "url": "https://cointelegraph.com/news/australia-asic-extends-crypto-licensing-relief-september?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-26T12:14:31.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Australia’s financial regulator extended temporary enforcement relief for digital asset businesses until Sept. 30 as firms transition into the country’s licensing system."
-        },
-        {
-          "title": "AscendEX withdrawal complaints mount as ZachXBT questions reserves",
-          "url": "https://cointelegraph.com/news/ascendex-exchange-reportedly-faces-liquidity-issues-claims-zachxbt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-26T11:47:02.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Multiple users reported delayed AscendEX withdrawals after ZachXBT flagged potential liquidity issues and urged the exchange to explain its reserves."
-        },
-        {
-          "title": "With crypto ending the first half in the red, bitcoin's solace is it beat Strategy",
-          "url": "https://www.coindesk.com/daybook-us/2026/06/26/with-crypto-ending-the-first-half-in-the-red-bitcoin-s-solace-is-it-beat-strategy",
-          "domain": "coindesk.com",
-          "date": "2026-06-26T11:36:01.000Z",
-          "source": "CoinDesk",
-          "summary": "Your day-ahead look for June 26, 2026"
-        },
-        {
-          "title": "Bitcoin bounces from $58,000 as derivatives signal more pain in the pipeline",
-          "url": "https://www.coindesk.com/markets/2026/06/26/bitcoin-bounces-from-usd58-000-as-derivatives-signal-more-pain-in-the-pipeline",
-          "domain": "coindesk.com",
-          "date": "2026-06-26T11:03:20.000Z",
-          "source": "CoinDesk",
-          "summary": "BTC touched its lowest level since September 2024 before rebounding to $59,770, while ETH slipped further and another $1 billion in futures positions were wiped out."
         }
       ]
     }
