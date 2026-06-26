@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-26T11:32:55.343Z",
+  "updatedAt": "2026-06-26T13:50:14.545Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -98,6 +98,22 @@
       ],
       "articles": [
         {
+          "title": "AI and Alzheimer’s: NeuroXT, BIDMC aim to personalize care",
+          "url": "https://longevity.technology/news/ai-and-alzheimers-neuroxt-bidmc-aim-to-personalize-care/",
+          "domain": "longevity.technology",
+          "date": "2026-06-26T13:00:00.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Expanded collaboration explores how AI could help identify the right treatment for the right Alzheimer’s patient. What if Alzheimer’s treatment became personal? Say two people, both in their early 70s, sitting in the same memory clinic. Both have been diagnosed with Alzheimer’s disease and are beginning the same treatment. A year later, their journeys look […] The post AI and Alzheimer’s: NeuroXT, BIDMC aim to personalize care appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "GARM Clinic debuts world’s first Klotho longevity residency",
+          "url": "https://longevity.technology/news/garm-clinic-debuts-worlds-first-klotho-longevity-residency/",
+          "domain": "longevity.technology",
+          "date": "2026-06-26T12:00:00.000Z",
+          "source": "Longevity.Technology",
+          "summary": "As three of Klotho science’s biggest names gather in Roatán, the longevity field may be witnessing its next obsession. A changing of the guard? For the last few years, stem cells, NAD+ and rapamycin have dominated the conversation around longevity. They have attracted investment and become familiar talking points at conferences, clinics and dinner tables. […] The post GARM Clinic debuts world’s first Klotho longevity residency appeared first on Longevity.Technology ."
+        },
+        {
           "title": "DiamiR, AlzLabs team up to analyze blood biomarkers for Alzheimer’s",
           "url": "https://longevity.technology/news/diamir-alzlabs-team-up-to-analyze-blood-biomarkers-for-alzheimers/",
           "domain": "longevity.technology",
@@ -160,22 +176,6 @@
           "date": "2026-06-25T20:25:54.000Z",
           "source": "Lifespan.io",
           "summary": "Researchers have found that sustained expression of excess hypoxia-inducible factor (HIF)-1α leads to unwanted formation of blood vessels (angiogenesis) that destroys cartilage and causes osteoarthritis. A necessary but destructive factor Being required for extracellular matrix (ECM) construction and […]"
-        },
-        {
-          "title": "Next Health opens its largest East Coast longevity hub",
-          "url": "https://longevity.technology/news/next-health-opens-its-largest-east-coast-longevity-hub/",
-          "domain": "longevity.technology",
-          "date": "2026-06-25T16:37:23.000Z",
-          "source": "Longevity.Technology",
-          "summary": "The health optimization company opens its largest East Coast center yet, signaling growing demand for proactive longevity care. While there are no traditional “blue zones” on the US East Coast, demographic data suggest that living near the coast may still confer a longevity advantage. People living in coastal regions tend to live about a year […] The post Next Health opens its largest East Coast longevity hub appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Enterprise exposure to longevity risk",
-          "url": "https://longevity.technology/news/enterprise-exposure-to-longevity-risk/",
-          "domain": "longevity.technology",
-          "date": "2026-06-25T16:25:42.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Wellthspan Advisory’s Nadine Esposito explains why companies are more exposed to demographic change than they think. The global longevity economy – driven by people aged 50 and over – is already measured in the tens of trillions of dollars and is projected to expand further as populations age. From an opportunity perspective, the case looks […] The post Enterprise exposure to longevity risk appeared first on Longevity.Technology ."
         }
       ]
     },
@@ -278,84 +278,84 @@
       ],
       "articles": [
         {
+          "title": "Ethereum OG wallets finally sell after 8 years, locking in estimated $27M profit after $150M unrealized peak: onchain analysts",
+          "url": "https://www.theblock.co/post/406342/ethereum-og-wallets-finally-sell-after-8-years-locking-in-estimated-27m-profit-after-150m-unrealized-peak-onchain-analysts?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-26T13:35:01.000Z",
+          "source": "The Block",
+          "summary": "Four Ethereum OG wallets that held 37,602 ETH since 2018 finally sold after watching $150M in unrealized profit evaporate at peak prices."
+        },
+        {
+          "title": "CoinDesk 20 performance update: AAVE jumps 8.9%, leading index higher",
+          "url": "https://www.coindesk.com/coindesk-indices/2026/06/26/coindesk-20-performance-update-aave-jumps-8-9-leading-index-higher",
+          "domain": "coindesk.com",
+          "date": "2026-06-26T13:22:16.000Z",
+          "source": "CoinDesk",
+          "summary": "Solana (SOL) gained 4.5%, joining Aave (AAVE) as a top performer."
+        },
+        {
+          "title": "Hyperliquid added to Singapore's Investor Alert List",
+          "url": "https://cointelegraph.com/news/hyperliquid-singapore-mas-investor-alert-list?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-26T13:11:29.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Singapore’s financial regulator added Hyperliquid to its Investor Alert List, as a reminder that the decentralized exchange was not licensed in the region."
+        },
+        {
+          "title": "Framework Ventures raises $400 million for fourth fund to invest across crypto, AI and robotics",
+          "url": "https://www.theblock.co/post/406344/framework-ventures-400-million-fourth-fund-crypto-ai-robotics?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-26T12:54:58.000Z",
+          "source": "The Block",
+          "summary": "The firm also promoted Rajiv Patel-O'Connor to general partner as it expands beyond its traditional crypto focus."
+        },
+        {
+          "title": "Bitcoin’s fragile floor cracks as Fed hawks circle and ETF investors keep pulling out: analysts",
+          "url": "https://www.theblock.co/post/406340/bitcoins-fragile-floor-cracks-as-fed-hawks-circle-and-etf-investors-keep-pulling-out-analysts?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-26T12:47:40.000Z",
+          "source": "The Block",
+          "summary": "Bitcoin fell to $58,000 on June 25 as hot PCE data stoked Fed rate fears and spot ETF outflows extended to a six-day streak."
+        },
+        {
+          "title": "Wall Street's IPO revival hasn't reached dot-com euphoria levels, Goldman Sachs says",
+          "url": "https://www.coindesk.com/business/2026/06/26/wall-street-s-ipo-revival-hasn-t-reached-dot-com-euphoria-levels-goldman-sachs-says",
+          "domain": "coindesk.com",
+          "date": "2026-06-26T12:25:36.000Z",
+          "source": "CoinDesk",
+          "summary": "U.S. IPO issuance has rebounded sharply in 2026, but the bank said the current surge lacks the deal volume and speculative excess that defined the dot-com era."
+        },
+        {
+          "title": "Australian regulator extends no-action period for crypto licensing",
+          "url": "https://cointelegraph.com/news/australia-asic-extends-crypto-licensing-relief-september?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-26T12:14:31.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Australia’s financial regulator extended temporary enforcement relief for digital asset businesses until Sept. 30 as firms transition into the country’s licensing system."
+        },
+        {
+          "title": "AscendEX withdrawal complaints mount as ZachXBT questions reserves",
+          "url": "https://cointelegraph.com/news/ascendex-exchange-reportedly-faces-liquidity-issues-claims-zachxbt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-26T11:47:02.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Multiple users reported delayed AscendEX withdrawals after ZachXBT flagged potential liquidity issues and urged the exchange to explain its reserves."
+        },
+        {
+          "title": "With crypto ending the first half in the red, bitcoin's solace is it beat Strategy",
+          "url": "https://www.coindesk.com/daybook-us/2026/06/26/with-crypto-ending-the-first-half-in-the-red-bitcoin-s-solace-is-it-beat-strategy",
+          "domain": "coindesk.com",
+          "date": "2026-06-26T11:36:01.000Z",
+          "source": "CoinDesk",
+          "summary": "Your day-ahead look for June 26, 2026"
+        },
+        {
           "title": "Bitcoin bounces from $58,000 as derivatives signal more pain in the pipeline",
           "url": "https://www.coindesk.com/markets/2026/06/26/bitcoin-bounces-from-usd58-000-as-derivatives-signal-more-pain-in-the-pipeline",
           "domain": "coindesk.com",
           "date": "2026-06-26T11:03:20.000Z",
           "source": "CoinDesk",
           "summary": "BTC touched its lowest level since September 2024 before rebounding to $59,770, while ETH slipped further and another $1 billion in futures positions were wiped out."
-        },
-        {
-          "title": "All eyes on Strategy's June 30 ex-dividend date and monthly STRC dividend rate reset",
-          "url": "https://www.coindesk.com/markets/2026/06/26/all-eyes-on-strategy-s-june-30-ex-dividend-date-and-monthly-strc-dividend-rate-reset",
-          "domain": "coindesk.com",
-          "date": "2026-06-26T10:28:24.000Z",
-          "source": "CoinDesk",
-          "summary": "Investors are watching the preferred stock's ex-dividend date and monthly dividend rate reset closely."
-        },
-        {
-          "title": "Binance tells EU users it will no longer provide services after failing to secure MiCA license",
-          "url": "https://www.coindesk.com/policy/2026/06/26/binance-tells-eu-users-it-will-no-longer-provide-services-after-failing-to-secure-mica-license",
-          "domain": "coindesk.com",
-          "date": "2026-06-26T10:19:22.000Z",
-          "source": "CoinDesk",
-          "summary": "A day after withdrawing its MiCA license application in Greece and saying it is ‘not leaving Europe,’ Binance notified users across the European Union that it will suspend some services."
-        },
-        {
-          "title": "Base delays Beryl hard fork over B20 registry timing issue",
-          "url": "https://www.theblock.co/post/406336/base-delays-beryl-hard-fork-over-b20-registry-timing-issue?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-26T10:11:29.000Z",
-          "source": "The Block",
-          "summary": "Base delayed its Beryl mainnet upgrade to June 26 to give the B20 Activation Registry time to become fully operational."
-        },
-        {
-          "title": "Ethereum treasury firm Sharplink takes in ether for the first time in eight months",
-          "url": "https://www.coindesk.com/markets/2026/06/26/ethereum-treasury-firm-sharplink-takes-in-ether-for-the-first-time-in-eight-months",
-          "domain": "coindesk.com",
-          "date": "2026-06-26T09:47:07.000Z",
-          "source": "CoinDesk",
-          "summary": "The second-largest corporate ether holder received 5,000 ETH worth about $7.85 million on Thursday, its first inflow since October, even as it sits on a paper loss of roughly $1.8 billion."
-        },
-        {
-          "title": "Bitcoin ETFs post June's biggest daily outflows as BTC falls below $60K",
-          "url": "https://cointelegraph.com/news/bitcoin-etfs-biggest-outflows-june-btc-below-60k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-26T09:36:34.000Z",
-          "source": "CoinTelegraph",
-          "summary": "US Bitcoin ETFs recorded $696.3 million in outflows as Bitcoin slipped below $60,000, lifting year-to-date losses to $4.6 billion."
-        },
-        {
-          "title": "Japanese financial services giant SBI Holdings to buy Bitbank for $289 million",
-          "url": "https://www.coindesk.com/business/2026/06/26/japanese-financial-services-giant-sbi-holdings-to-buy-bitbank-for-usd289-million",
-          "domain": "coindesk.com",
-          "date": "2026-06-26T08:31:57.000Z",
-          "source": "CoinDesk",
-          "summary": "SBI said the purchase of the crypto exchange is set to close in October."
-        },
-        {
-          "title": "Grant Cardone says he will keep buying bitcoin using real estate cash flows",
-          "url": "https://www.coindesk.com/business/2026/06/26/grant-cardone-says-he-will-keep-buying-bitcoin-using-real-estate-cash-flows",
-          "domain": "coindesk.com",
-          "date": "2026-06-26T08:25:44.000Z",
-          "source": "CoinDesk",
-          "summary": "The real estate investor pitched his model as a treasury company backed by cash-flowing property rather than stock sales, framing the slide in bitcoin as a chance to accumulate."
-        },
-        {
-          "title": "Polymarket hit by $2.9M theft, users to be refunded",
-          "url": "https://cointelegraph.com/news/polymarket-vendor-compromise-drains-29m-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-26T08:20:37.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Polymarket said it contained the compromise and removed the affected dependency after attackers injected a malicious script into its frontend."
-        },
-        {
-          "title": "Bitcoin ETF Flows Explained: What ETF Inflows and Outflows Mean for Investors",
-          "url": "https://www.theblock.co/learn/406279/bitcoin-etf-flows-explained?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-26T07:58:35.000Z",
-          "source": "The Block",
-          "summary": "Bitcoin ETF flows refer to the movement of money into and out of bitcoin exchange-traded funds (ETFs). When investors buy ETF shares, new money enters the fund and creates an inflow. When investors sell shares and capital leaves the fund, an outflow occurs. Because most U.S. spot bitcoin ETFs hold actual bitcoin, these flows are [&hellip;]"
         }
       ]
     }
