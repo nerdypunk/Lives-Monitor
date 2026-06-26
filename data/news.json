@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-25T22:56:30.587Z",
+  "updatedAt": "2026-06-26T00:15:49.452Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -103,7 +103,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-25T20:25:54.000Z",
           "source": "Lifespan.io",
-          "summary": "Researchers have found that sustained expression of excess hypoxia-inducible factor (HIF)-1α leads to unwanted formation of blood vessels (angiogenesis) that destroys cartilage and causes osteoarthritis. A necessary but destructive factor Being required for extracellular matrix (ECM) construction and energy in […]"
+          "summary": "Researchers have found that sustained expression of excess hypoxia-inducible factor (HIF)-1α leads to unwanted formation of blood vessels (angiogenesis) that […]"
         },
         {
           "title": "Next Health opens its largest East Coast longevity hub",
@@ -135,7 +135,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-25T15:50:36.000Z",
           "source": "Lifespan.io",
-          "summary": "NeuroAge Therapeutics announced Younger 2027, a six-month biological aging contest in which competitors are measured on a clinical-grade aging panel and retested six months […]"
+          "summary": "NeuroAge Therapeutics announced Younger 2027, a six-month biological aging contest in which competitors are measured on a clinical-grade aging panel and retested six months later. […]"
         },
         {
           "title": "Leal Therapeutics doses first patient in NeurALS trial",
@@ -278,6 +278,14 @@
       ],
       "articles": [
         {
+          "title": "Does Botanix’s failure prove Bitcoiners don’t care about DeFi?",
+          "url": "https://cointelegraph.com/features/does-botanixs-failure-prove-bitcoiners-dont-care-about-defi?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-25T23:09:10.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The failure of Botanix suggests that Bitcoiners still prefer Ethereum DeFi to Bitcoin L2s. How can Bitcoin L2s change to win hodlers over?"
+        },
+        {
           "title": "Aave founder Stani Kulechov says AAVE isn’t for sale ‘at a 70% discount’ following report of Payward bid",
           "url": "https://www.theblock.co/post/406252/aave-stani-kulechov-says-aave-isnt-for-sale-at-70-discount-report-payward-bid?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
@@ -348,14 +356,6 @@
           "date": "2026-06-25T19:18:03.000Z",
           "source": "CoinTelegraph",
           "summary": "A CoinShares survey found than many EU-based wealth management companies had policies that restricted investments in digital assets or provided no guidance on the matter."
-        },
-        {
-          "title": "Coinbase's Base blockchain resumes after two-hour outage disrupted network",
-          "url": "https://www.coindesk.com/tech/2026/06/25/coinbase-s-base-blockchain-resumes-after-two-hour-outage-disrupted-network",
-          "domain": "coindesk.com",
-          "date": "2026-06-25T18:46:08.000Z",
-          "source": "CoinDesk",
-          "summary": "The incident temporarily halted transaction processing on one of Ethereum's largest layer-2 networks."
         }
       ]
     }
