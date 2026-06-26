@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-26T20:11:13.396Z",
+  "updatedAt": "2026-06-26T21:42:27.961Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -188,6 +188,14 @@
       ],
       "articles": [
         {
+          "title": "ROS-producing enzymes guide plant cell division and tissue patterning, gene-editing study shows",
+          "url": "https://phys.org/news/2026-06-ros-enzymes-cell-division-tissue.html",
+          "domain": "phys.org",
+          "date": "2026-06-26T20:20:01.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Reactive oxygen species (ROS) produced naturally during cellular metabolism often cause oxidative damage to cells. However, these molecules also play an important role in normal cellular signaling. While ROS are established as essential signaling molecules in various organisms, their precise role in basic plant development and morphogenesis remains unclear."
+        },
+        {
           "title": "Sensitivity of evolutionary entropy in Lefkovitch matrices",
           "url": "https://arxiv.org/abs/2606.26170",
           "domain": "arxiv.org",
@@ -258,14 +266,6 @@
           "date": "2026-06-26T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2606.26674v1 Announce Type: new Abstract: Introductions of H5N1 clade 2.3.4.4b into dairy cattle have resulted in outbreaks on dairy farms across the United States since early-2024. Outbreaks have significant consequences for animal health, result in economic losses for the dairy industry, and pose a threat to human health. Though the relative contributions of different on-farm transmission pathways remain a key uncertainty, a major route is considered to be through repeated contamination of milking stalls (i.e. the equipment and area where an individual cow is milked) due to the milking of infected animals. Here we develop mathematical models of H5N1 transmission dynamics on dairy farms, considering multiple possible transmission pathways, and identify factors that contribute to outbreak risk and on-farm interventions for mitigating risk. In particular, we demonstrate that dividing cattle into 'milking cohorts', with cohorts kept in separate pens or paddocks and milked in the same order every day, would be highly effective at mitigating outbreaks irrespective of the dominant transmission pathway. Cohorting cattle is most effective when implemented pre-emptively (i.e. before an outbreak) and when newly introduced cattle are kept in the final milking cohort. Additionally, we demonstrate that frequent bulk milk sample testing (e.g. weekly) would enable the rapid detection of outbreaks and implementation of reactive interventions (or scaling up of existing interventions). Our findings can support the development of management guidelines for effectively responding to H5N1 outbreaks in dairy cattle."
-        },
-        {
-          "title": "Surviving by Serving: Functional Relevance Drives Self-Organization in Complex Adaptive Systems",
-          "url": "https://arxiv.org/abs/2606.26733",
-          "domain": "arxiv.org",
-          "date": "2026-06-26T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2606.26733v1 Announce Type: new Abstract: Complex adaptive systems often develop organized structures without centralized control. Yet the local mechanisms by which functional organization emerges and persists remain incompletely understood. Here we propose Surviving by Serving (SBS) as a general principle of self-organization: components persist as long as their outputs are utilized by other components, whereas prolonged non-utilization promotes adaptation and exploration. To investigate this idea, we introduce a minimal multi-agent model in which agents transform shared resources and receive only local feedback when their outputs are subsequently utilized elsewhere in the system. Despite the absence of global objectives, the system spontaneously self-organizes into functional interaction networks. We observe the emergence of stable transformation chains, core-periphery organization, and the generation of novel states that enable previously inaccessible target conditions to be reached. Remarkably, self-sustaining interaction networks can arise even without external selection pressures, creating a pre-adaptive search phase from which later functional solutions emerge. These findings suggest that functional utilization may provide a simple, substrate-independent mechanism for the emergence and stabilization of organized structure in complex adaptive systems."
         }
       ]
     },
@@ -278,20 +278,36 @@
       ],
       "articles": [
         {
+          "title": "Strategy loses its bitcoin premium as enterprise mNAV dips below 1",
+          "url": "https://www.theblock.co/post/406438/strategy-loses-bitcoin-premium-enterprise-mnav-dips-below-1?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-26T21:21:56.000Z",
+          "source": "The Block",
+          "summary": "Strategy's STRC briefly fell to a record low of $71.40 on Friday, leaving the preferred shares about 25% below par."
+        },
+        {
+          "title": "Ripple CEO says Michael Saylor has hurt crypto market as Strategy’s STRC trades 25% below par",
+          "url": "https://www.theblock.co/post/406432/ripple-ceo-says-michael-saylor-has-hurt-crypto-market-as-strategys-strc-trades-25-below-par?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-26T20:44:55.000Z",
+          "source": "The Block",
+          "summary": "\"Financial engineering does not drive long-term value ... long-term value of any digital asset is going to be driven by utility,\" said Garlinghouse."
+        },
+        {
+          "title": "Aave, Solana ecosystem tokens lead crypto rebound as bitcoin steadies near $60,000",
+          "url": "https://www.coindesk.com/markets/2026/06/26/aave-solana-ecosystem-tokens-lead-crypto-rebound-as-bitcoin-steadies-near-usd60-000",
+          "domain": "coindesk.com",
+          "date": "2026-06-26T20:15:03.000Z",
+          "source": "CoinDesk",
+          "summary": "Tokenized stock trading fueled fresh momentum across the Solana ecosystem, while Aave founder hinted at token buybacks coming under new framework."
+        },
+        {
           "title": "U.S. House Democrat, who may soon run key committee, condemns crypto in 401(k)s",
           "url": "https://www.coindesk.com/policy/2026/06/26/u-s-house-democrat-who-may-soon-run-key-committee-condemns-crypto-in-401-k-s",
           "domain": "coindesk.com",
           "date": "2026-06-26T19:38:12.000Z",
           "source": "CoinDesk",
           "summary": "Maxine Waters, the ranking Democrat on House Financial Services, asked the chief of the Department of Labor to withdraw its proposal on alternative assets."
-        },
-        {
-          "title": "Spain regulator rules out extension for non-MiCA compliant crypto companies",
-          "url": "https://cointelegraph.com/news/spain-no-extension-mica-compliance-crypto-companies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-26T19:20:33.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Carlos San Basilio said that “there will be no exceptions ​or extensions” to the MiCA deadline requiring crypto exchanges offering services to EU-based users to be licensed."
         },
         {
           "title": "Former Ethereum Foundation leader warns of funding gap as governance shifts",
@@ -334,28 +350,12 @@
           "summary": "Base block production resumed as of 16:11 UTC, following an alert to another mainnet chain stall at 15:33 UTC."
         },
         {
-          "title": "SEC, CFTC seek input on unified portfolio margin rules across securities and derivatives",
-          "url": "https://cointelegraph.com/news/sec-cftc-portfolio-margin-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-26T17:43:33.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The regulatory agencies are seeking public feedback on cross-margining, collateral and risk management as cryptocurrency derivatives and multi-asset trading continue to expand."
-        },
-        {
           "title": "Tokenization firm Securitize eyes early July NYSE debut with $400 million SPAC deal",
           "url": "https://www.theblock.co/post/406396/tokenization-firm-securitize-july-nyse-debut-400-million-spac-deal?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
           "date": "2026-06-26T17:23:01.000Z",
           "source": "The Block",
           "summary": "Seeking to debut next week, Securitize will receive roughly $400 million after retaining more than 70% of its SPAC trust."
-        },
-        {
-          "title": "Ethereum whale who shorted October 2025 crash opens $19.7M ETH short position",
-          "url": "https://cointelegraph.com/markets/ethereum-whale-who-shorted-october-2025-crash-returns-with-a-197m-short-eth-bet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-26T17:02:33.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Ether’s technical setup points to a potential drop to $1,375, a move that could lift one whale’s unrealized profit to $2.39 million."
         }
       ]
     }
