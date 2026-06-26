@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-26T16:20:28.988Z",
+  "updatedAt": "2026-06-26T18:10:36.212Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,6 +278,62 @@
       ],
       "articles": [
         {
+          "title": "Virtuals' Jansen Teng says AI agents are evolving into autonomous economic actors",
+          "url": "https://www.coindesk.com/coindesk-news/2026/06/26/virtuals-jansen-teng-says-ai-agents-are-evolving-into-autonomous-economic-actors",
+          "domain": "coindesk.com",
+          "date": "2026-06-26T18:04:22.000Z",
+          "source": "CoinDesk",
+          "summary": "The next phase of AI agents may be less about chat and more about earning, spending and coordinating."
+        },
+        {
+          "title": "Base suffers second mainnet stall in two days",
+          "url": "https://www.theblock.co/post/406409/base-suffers-second-mainnet-stall-in-two-days?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-26T17:50:02.000Z",
+          "source": "The Block",
+          "summary": "Base block production resumed as of 16:11 UTC, following an alert to another mainnet chain stall at 15:33 UTC."
+        },
+        {
+          "title": "SEC, CFTC seek input on unified portfolio margin rules across securities and derivatives",
+          "url": "https://cointelegraph.com/news/sec-cftc-portfolio-margin-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-26T17:43:33.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The regulatory agencies are seeking public feedback on cross-margining, collateral and risk management as cryptocurrency derivatives and multi-asset trading continue to expand."
+        },
+        {
+          "title": "Tokenization firm Securitize eyes early July NYSE debut with $400 million SPAC deal",
+          "url": "https://www.theblock.co/post/406396/tokenization-firm-securitize-july-nyse-debut-400-million-spac-deal?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-26T17:23:01.000Z",
+          "source": "The Block",
+          "summary": "Seeking to debut next week, Securitize will receive roughly $400 million after retaining more than 70% of its SPAC trust."
+        },
+        {
+          "title": "Ethereum whale who shorted October 2025 crash opens $19.7M ETH short position",
+          "url": "https://cointelegraph.com/markets/ethereum-whale-who-shorted-october-2025-crash-returns-with-a-197m-short-eth-bet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-26T17:02:33.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Ether’s technical setup points to a potential drop to $1,375, a move that could lift one whale’s unrealized profit to $2.39 million."
+        },
+        {
+          "title": "Bipartisan senators call for CFTC investigation into Polymarket after fake bets report",
+          "url": "https://www.theblock.co/post/406400/bipartisan-senators-call-cftc-investigation-polymarket-fake-bets?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-26T16:46:18.000Z",
+          "source": "The Block",
+          "summary": "Senators are demanding for the CFTC to investigate Polymarket following reports that it paid creators to stage fake winning bets."
+        },
+        {
+          "title": "Crypto Biz: The cost of stacking sats",
+          "url": "https://cointelegraph.com/news/cryptoquant-strategy-bitcoin-cboe-perpetual-futures-chainlink-stablecoin-fx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-26T16:23:34.000Z",
+          "source": "CoinTelegraph",
+          "summary": "CryptoQuant urged Strategy to pause Bitcoin buying as dividend coverage shrank. Meanwhile, CBOE eyes crypto perpetual futures and Chainlink joins a stablecoin FX project."
+        },
+        {
           "title": "US senators push to end CFTC ‘assault’ on state oversight of prediction markets",
           "url": "https://cointelegraph.com/news/us-senators-cftc-assault-state-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
@@ -300,62 +356,6 @@
           "date": "2026-06-26T15:55:56.000Z",
           "source": "CoinTelegraph",
           "summary": "Bitcoin risked turning $60,000 into resistance as BTC price weakness persisted following another tech-driven sell-off in Asian stock markets."
-        },
-        {
-          "title": "Securitize aims to raise $400 million as tokenization firm nears public debut",
-          "url": "https://www.coindesk.com/business/2026/06/26/securitize-aims-to-raise-usd400-million-as-tokenization-firm-nears-public-debut",
-          "domain": "coindesk.com",
-          "date": "2026-06-26T15:04:44.000Z",
-          "source": "CoinDesk",
-          "summary": "The BlackRock-backed tokenization specialist expects to close its SPAC merger next week and start trading on the NYSE, pending shareholder approval."
-        },
-        {
-          "title": "Spain says ‘no exceptions or extensions’ for Binance, other crypto firms ahead of MiCA deadline",
-          "url": "https://www.theblock.co/post/406362/spain-says-no-exceptions-extensions-binance-other-crypto-firms-mica-deadline?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-26T15:01:10.000Z",
-          "source": "The Block",
-          "summary": "Industry leaders remain divided over MiCA, with some praising the framework while others warn it could limit customer access to liquidity."
-        },
-        {
-          "title": "Here’s what happened in crypto today",
-          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-26T14:06:06.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-        },
-        {
-          "title": "Framework Ventures raises $400M to invest beyond crypto: Report",
-          "url": "https://cointelegraph.com/news/framework-ventures-raise-400-million-push-beyond-crypto-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-26T13:58:28.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Framework Ventures raises $400 million fourth fund as it expands into AI, robotics and energy while reportedly planning to continue crypto investments."
-        },
-        {
-          "title": "Ethereum OG wallets finally sell after 8 years, locking in estimated $27M profit after $150M unrealized peak: onchain analysts",
-          "url": "https://www.theblock.co/post/406342/ethereum-og-wallets-finally-sell-after-8-years-locking-in-estimated-27m-profit-after-150m-unrealized-peak-onchain-analysts?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-26T13:35:01.000Z",
-          "source": "The Block",
-          "summary": "Four Ethereum OG wallets that held 37,602 ETH since 2018 finally sold after watching $150M in unrealized profit evaporate at peak prices."
-        },
-        {
-          "title": "CoinDesk 20 performance update: AAVE jumps 8.9%, leading index higher",
-          "url": "https://www.coindesk.com/coindesk-indices/2026/06/26/coindesk-20-performance-update-aave-jumps-8-9-leading-index-higher",
-          "domain": "coindesk.com",
-          "date": "2026-06-26T13:22:16.000Z",
-          "source": "CoinDesk",
-          "summary": "Solana (SOL) gained 4.5%, joining Aave (AAVE) as a top performer."
-        },
-        {
-          "title": "Hyperliquid added to Singapore's Investor Alert List",
-          "url": "https://cointelegraph.com/news/hyperliquid-singapore-mas-investor-alert-list?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-26T13:11:29.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Singapore’s financial regulator added Hyperliquid to its Investor Alert List, as a reminder that the decentralized exchange was not licensed in the region."
         }
       ]
     }
