@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-27T11:38:08.267Z",
+  "updatedAt": "2026-06-27T12:56:55.619Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,6 +278,22 @@
       ],
       "articles": [
         {
+          "title": "Strategy's valuation has fallen below the value of its bitcoin holdings",
+          "url": "https://www.coindesk.com/markets/2026/06/27/strategy-s-valuation-has-fallen-below-the-value-of-its-bitcoin-holdings",
+          "domain": "coindesk.com",
+          "date": "2026-06-27T12:08:14.000Z",
+          "source": "CoinDesk",
+          "summary": "For years, investors had valued the firm well above its bitcoin holdings, giving Strategy massive flexibility to raise capital as needed — a situation Michael Saylor and team took full advantage of."
+        },
+        {
+          "title": "SecondFi targets two-week recovery after Cardano wallet exploit",
+          "url": "https://cointelegraph.com/news/secondfi-two-week-recovery-cardano-wallet-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-27T12:00:56.000Z",
+          "source": "CoinTelegraph",
+          "summary": "SecondFi says it has completed forensic investigations, taken a final balance snapshot and is preparing to return assets."
+        },
+        {
           "title": "EU lawmakers urge assessing DeFi, staking, NFT regulation",
           "url": "https://cointelegraph.com/news/eu-lawmakers-assessing-defi-staking-nft-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
@@ -340,22 +356,6 @@
           "date": "2026-06-26T22:18:07.000Z",
           "source": "CoinTelegraph",
           "summary": "Old Ether wallets moved 37,806 ETH as long-term whale profitability turned negative for the first time since 2019, signaling mixed sentiment among large holders."
-        },
-        {
-          "title": "Strategy loses its bitcoin premium as enterprise mNAV dips below 1",
-          "url": "https://www.theblock.co/post/406438/strategy-loses-bitcoin-premium-enterprise-mnav-dips-below-1?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-26T21:21:56.000Z",
-          "source": "The Block",
-          "summary": "Strategy's STRC briefly fell to a record low of $71.40 on Friday, leaving the preferred shares about 25% below par."
-        },
-        {
-          "title": "Ripple CEO says Michael Saylor has hurt crypto market as Strategy’s STRC trades 25% below par",
-          "url": "https://www.theblock.co/post/406432/ripple-ceo-says-michael-saylor-has-hurt-crypto-market-as-strategys-strc-trades-25-below-par?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-26T20:44:55.000Z",
-          "source": "The Block",
-          "summary": "\"Financial engineering does not drive long-term value ... long-term value of any digital asset is going to be driven by utility,\" said Garlinghouse."
         }
       ]
     }
