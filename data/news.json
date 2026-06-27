@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-27T20:10:40.379Z",
+  "updatedAt": "2026-06-27T21:19:58.916Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,6 +278,14 @@
       ],
       "articles": [
         {
+          "title": "Fidelity rebuts claims Bitcoin becomes less secure after halvings",
+          "url": "https://cointelegraph.com/news/fidelity-bitcoin-long-term-security-halvings-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-27T20:53:02.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The asset manager argues Bitcoin's fixed supply schedule does not undermine network security, even as miners face shrinking block rewards after each halving."
+        },
+        {
           "title": "Here’s what happened in crypto today",
           "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
@@ -348,14 +356,6 @@
           "date": "2026-06-27T14:13:22.000Z",
           "source": "CoinDesk",
           "summary": "The prediction markets giant is under investigation in connection with false or deceptive marketing practices, according to news reports."
-        },
-        {
-          "title": "Coinbase and OKX try to lure in Binance’s EU users after it failed to secure a MiCA license",
-          "url": "https://www.coindesk.com/business/2026/06/27/coinbase-and-okx-try-to-lure-in-binance-s-450m-eu-users-after-failing-to-secure-a-mica-license",
-          "domain": "coindesk.com",
-          "date": "2026-06-27T14:11:45.000Z",
-          "source": "CoinDesk",
-          "summary": "Brian Armstrong of Coinbase and Star Xu of OKX offered new users sign up bonuses of up to 8% of their deposits or transfers from other accounts."
         }
       ]
     }
