@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-27T18:52:45.487Z",
+  "updatedAt": "2026-06-27T20:10:40.379Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,6 +278,22 @@
       ],
       "articles": [
         {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-27T19:34:45.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
+        {
+          "title": "Bitcoin faces fresh capitulation risk as 50K BTC moved at a loss",
+          "url": "https://cointelegraph.com/markets/bitcoin-faces-fresh-capitulation-risk-as-50k-btc-moves-at-a-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-27T19:27:44.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Nearly 50,000 BTC shifted to exchanges at a loss while short-term Bitcoin holders' stress level reached 2-year highs. Is BTC headed toward new lows?"
+        },
+        {
           "title": "Why a selloff in gold and silver is dragging bitcoin down",
           "url": "https://www.coindesk.com/markets/2026/06/27/why-a-selloff-in-gold-and-silver-is-dragging-bitcoin-down",
           "domain": "coindesk.com",
@@ -340,22 +356,6 @@
           "date": "2026-06-27T14:11:45.000Z",
           "source": "CoinDesk",
           "summary": "Brian Armstrong of Coinbase and Star Xu of OKX offered new users sign up bonuses of up to 8% of their deposits or transfers from other accounts."
-        },
-        {
-          "title": "Binance founder CZ blames crypto's sour 2026 on mix of AI, global tension, 4-year cycle",
-          "url": "https://www.coindesk.com/policy/2026/06/27/binance-founder-cz-blames-crypto-s-sour-2026-on-mix-of-ai-global-tension-4-year-cycle",
-          "domain": "coindesk.com",
-          "date": "2026-06-27T13:00:00.000Z",
-          "source": "CoinDesk",
-          "summary": "There is no single cause for the crypto market's 50% decline over the past year, the Binance founder told CoinDesk."
-        },
-        {
-          "title": "Strategy's valuation has fallen below the value of its bitcoin holdings",
-          "url": "https://www.coindesk.com/markets/2026/06/27/strategy-s-valuation-has-fallen-below-the-value-of-its-bitcoin-holdings",
-          "domain": "coindesk.com",
-          "date": "2026-06-27T12:08:14.000Z",
-          "source": "CoinDesk",
-          "summary": "For years, investors had valued the firm well above its bitcoin holdings, giving Strategy massive flexibility to raise capital as needed — a situation Michael Saylor and team took full advantage of."
         }
       ]
     }
