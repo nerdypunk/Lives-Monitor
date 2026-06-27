@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-27T00:13:35.928Z",
+  "updatedAt": "2026-06-27T04:18:35.398Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -103,7 +103,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-26T15:11:47.000Z",
           "source": "Lifespan.io",
-          "summary": "A new study has used aging trajectories of various cell types to predict diseases such as Alzheimer’s and lung cancer [1]. This […]"
+          "summary": "A new study has used aging trajectories of various cell types to predict diseases such as Alzheimer’s and lung cancer [1]. This expands on previous research into organ-specific aging. Age is more than one number Gone are the days when […]"
         },
         {
           "title": "Scribe lands $25m to advance heart disease gene therapies",
@@ -196,76 +196,76 @@
           "summary": "Reactive oxygen species (ROS) produced naturally during cellular metabolism often cause oxidative damage to cells. However, these molecules also play an important role in normal cellular signaling. While ROS are established as essential signaling molecules in various organisms, their precise role in basic plant development and morphogenesis remains unclear."
         },
         {
-          "title": "Sensitivity of evolutionary entropy in Lefkovitch matrices",
-          "url": "https://arxiv.org/abs/2606.26170",
-          "domain": "arxiv.org",
-          "date": "2026-06-26T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2606.26170v1 Announce Type: new Abstract: Evolutionary entropy, introduced by Demetrius, is a demographic invariant that quantifies the temporal organization of structured populations. Explicit sensitivity expressions for this quantity were derived by Demetrius, Gundlach and Ziehe for age-structured Leslie matrices, establishing the foundations of entropy-based perturbation theory. In this paper we develop a complete sensitivity theory for evolutionary entropy in irreducible Lefkovitch matrices. Using the Perron--Frobenius representation of the associated Markov chain, we derive explicit closed-form expressions for the stationary distribution, generation time, evolutionary entropy and its partial derivatives with respect to fertility, transition and retention parameters. The resulting identities are expressed directly in terms of demographic coefficients, Perron eigenvectors, the dominant eigenvalue and the reproductive potential. The entropy representation obtained here gives a natural decomposition into transition and retention components and clarifies the distinct mechanisms through which demographic uncertainty is generated in stage-structured populations. We further show that the theory specializes immediately to open-group Leslie matrices, a class that has been shown to comprise a large fraction of empirical demographic models. The results extend the entropy sensitivity theory of Demetrius--Gundlach--Ziehe from age-structured to general stage-structured populations and provide practical tools for comparative demographic analysis, perturbation studies, demographic robustness, and the investigation of life-history strategies. Several biological examples are presented, illustrating how entropy decomposition and sensitivity analysis reveal complementary aspects of population organization."
+          "title": "Mapping the spatial landscape of extracellular vesicles in tissues with Spatial-EV-seq",
+          "url": "https://www.nature.com/articles/s41587-026-03206-0",
+          "domain": "nature.com",
+          "date": "2026-06-26T00:00:00.000Z",
+          "source": "Nature Biotechnology",
+          "summary": "Nature Biotechnology, Published online: 26 June 2026; doi:10.1038/s41587-026-03206-0 Spatial-EV-seq is a method for spatially resolved profiling of extracellular vesicles (EVs) in tissues while preserving EVs’ native distribution. By integrating EV mapping with spatial transcriptomics, Spatial-EV-seq enables location-specific analysis of EVs and their communication networks within the tissue microenvironment, establishing a new paradigm in the field of spatial EV biology."
         },
         {
-          "title": "An Investigation of Additional Food Models with Generalised Functional Response",
-          "url": "https://arxiv.org/abs/2606.26340",
-          "domain": "arxiv.org",
-          "date": "2026-06-26T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2606.26340v1 Announce Type: new Abstract: Additional food sources are often used to improve the effectiveness of predators in controlling pest populations. However, the non-symmetric structure of additional food predator-prey models can cause certain aspects of their dynamics challenging to analyze. In this work, we study a general class of additional food models and establish conditions under which the coexistence equilibrium is globally stable. We then focus on a Holling type IV functional response with AF and show the existence of a Bogdanov-Takens bifurcation of codimension 3. We also study these models through the lens of deterministic chemical reaction network theory. Our analysis shows that the introduction of additional food increases the deficiency of the underlying reaction network and suggests a possible link between higher deficiency and complex bifurcations."
+          "title": "Spatially resolved profiling of extracellular vesicles in tissues with Spatial-EV-seq",
+          "url": "https://www.nature.com/articles/s41587-026-03192-3",
+          "domain": "nature.com",
+          "date": "2026-06-26T00:00:00.000Z",
+          "source": "Nature Biotechnology",
+          "summary": "Nature Biotechnology, Published online: 26 June 2026; doi:10.1038/s41587-026-03192-3 Spatial-EV-seq reveals spatial patterns of extracellular vesicles in tissues."
         },
         {
-          "title": "Smoothly Time-Varying Continuous Time Markov Chains in Phylogenetics",
-          "url": "https://arxiv.org/abs/2606.26402",
-          "domain": "arxiv.org",
-          "date": "2026-06-26T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2606.26402v1 Announce Type: new Abstract: The dependence of evolutionary rate estimates on the timeframe of sampling poses a fundamental challenge for reconstructing evolutionary histories from molecular sequence data, which is central to evolutionary biology and infectious disease research. We present a novel and flexible approach to accommodate time-varying evolutionary rates by modeling the sequence substitution process using inhomogeneous continuous-time Markov chains (ICTMCs) acting along the branches of the phylogeny, and parameterizing the log transformed rate as a smooth function of time using a cubic B-spline basis expansion. Following the parlance of phylogenetics that refers to rates of molecular substitutions as molecular clocks, we call this a spline clock model. Integrals of the rate function over all branches, required for likelihood evaluation, are approximated efficiently using Gauss-Legendre quadrature, and smoothness is enforced by assigning a Gaussian Markov random field prior to the spline coefficients. Through a simulation study, we demonstrate that the spline clock model recovers the true time-varying rates more accurately and with tighter credible intervals than competing clock models. We apply the spline clock model to examine the evolutionary rate of foamy virus and the rate of spatial diffusion of SARS-CoV-2 across Europe, recovering strong time-varying signal in both settings."
+          "title": "Ultra-precise technology can count damaged DNA fragments",
+          "url": "https://phys.org/news/2026-06-ultra-precise-technology-dna-fragments.html",
+          "domain": "phys.org",
+          "date": "2026-06-25T20:40:05.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "The Korea Research Institute of Standards and Science has developed an ultrasensitive immunoassay-based analytical platform that can detect and quantify trace amounts of \"Small Excised Damaged DNA (sedDNA)\" fragments generated during cellular DNA repair. This technology enables highly sensitive detection with quantification down to the level of several thousand molecules, measuring up to 22 times more DNA fragments than conventional methods. It provides a new analytical foundation for comparing DNA repair capacity between individuals and studying cellular responses to anticancer drugs and carcinogenic agents."
         },
         {
-          "title": "Closing the Loop to Discover Psychological Theories with an Automated Cognitive Scientist",
-          "url": "https://arxiv.org/abs/2606.26448",
-          "domain": "arxiv.org",
-          "date": "2026-06-26T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2606.26448v1 Announce Type: new Abstract: Across the sciences, autonomous systems are increasingly being used in closed-loop discovery, proposing new theories and designing and running experiments to test them. This approach is yet to be applied in the field of cognitive science, where the central bottleneck is theory-building: the creative step of turning the accumulated failures of existing models into better ones. Theory generation has remained manual even as data collection, modeling, and experiment design have been automated. We present the Automated Cognitive Scientist (AutoCog), a fully autonomous agentic-AI system that closes this loop. Large-language-model agents advocate competing theories, each expressed as an executable cognitive model, design experiments that best discriminate them, collect behavioral data from participants recruited online, score theories against collected data based on their generative performance, diagnose why they fail, and synthesize a better successor. Repeating this cycle allows them to search the space of theories, models, and experiments. In the domain of decision-making, AutoCog recovered known decision-making strategies from simulated behavior, including unconventional ones, showing that its discoveries are ultimately driven by the data rather than strictly bound by the priors of the underlying language models. When run with human participants, it produced theories that outperformed the established theories it was seeded with and generalized to held-out studies in two different experimental settings. It also surfaced a novel theory of multi-cue decision-making in which choices show diminishing sensitivity to feature values. The distinctive predictions of this theory were confirmed in a preregistered study with new participants. AutoCog demonstrates how an automated discovery system can be used to turn cognitive theory-building into an explicit, executable, and cumulative science."
+          "title": "New insight into how cells move copper out of the mitochondrial matrix could guide novel treatments",
+          "url": "https://phys.org/news/2026-06-insight-cells-copper-mitochondrial-matrix.html",
+          "domain": "phys.org",
+          "date": "2026-06-25T19:40:06.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Copper is essential for life. Our cells need the metal to make energy and stay healthy, but if it is in the wrong place or present in excess, copper can be deadly. Texas A&M AgriLife Research scientists have identified a key protein that helps maintain copper balance, with implications for treating heart failure and rare diseases."
         },
         {
-          "title": "scBench-Long: Verifiable Benchmarking of Long-Horizon Single-Cell Biology",
-          "url": "https://arxiv.org/abs/2606.26563",
-          "domain": "arxiv.org",
-          "date": "2026-06-26T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2606.26563v1 Announce Type: new Abstract: Single-cell studies require analysts to convert raw measurements into specific biological claims through multi-step workflows and integration of metadata, assay context, and auxiliary evidence. Existing AI-biology benchmarks largely measure broad knowledge, executable workflows, or local analysis steps. We introduce scBench-Long, a benchmark for long-horizon single-cell biology in which agents must recover scientific conclusions from raw or near-raw data without prescribed methods. The benchmark contains 21 evaluations spanning melanoma CD8 T-cell reactivity, CD8 RNA+ATAC regulatory inference, human--monkey chimera development, KRAS-driven lung tumor aging, and lethal COVID-19 lung pathology. Tasks cover paired scRNA/TCR sequencing, RNA and chromatin profiling, cross-species transcriptomics, combinatorial scRNA-seq, single-nucleus RNA-seq, immune repertoires, ortholog maps, ligand--receptor resources, and validation evidence. Candidate claims are reproduced, reviewed, and converted into controlled answer vocabularies with deterministic grading and trajectory rubrics. Across 1,068 completed trajectories, the strongest model--harness pair passes 16/63 runs (25.4\\%). scBench-Long evaluates whether agents can move beyond local analysis steps and make complex scientific claims that are supported by single-cell data."
+          "title": "Researchers test a smart lion collar in Tanzania",
+          "url": "https://phys.org/news/2026-06-smart-lion-collar-tanzania.html",
+          "domain": "phys.org",
+          "date": "2026-06-25T17:20:01.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "A new generation of lion collars in Tanzania's Serengeti shows that human-wildlife encounters are becoming increasingly common. Researchers from Leiden University are working with local wildlife organizations and technology partner Smart Parks for wildlife monitoring to better map these interactions."
         },
         {
-          "title": "Budget-Constrained Compound Library Prioritization with Risk Awareness and Uncertainty Quantification",
-          "url": "https://arxiv.org/abs/2606.26624",
-          "domain": "arxiv.org",
-          "date": "2026-06-26T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2606.26624v1 Announce Type: new Abstract: Early discovery projects often face a budgeted prioritization problem: many structures can be enumerated or purchased, but only a small fraction can be tested, reviewed, or synthesized first. I formulate this setting as risk-aware compound-library compression. Given a molecular library and a fixed Top-k budget, the goal is to return an enriched candidate subset while preserving uncertainty, applicability-domain evidence, ADMET/structural alerts, and audit fields needed for human review. The framework intentionally uses a transparent 2D activity proxy rather than a complex representation model, combining Morgan fingerprints, RDKit descriptors, a multilayer perceptron, split-conformal uncertainty intervals, leakage auditing, and auditable export. On ChEMBL 36, the model achieved Spearman 0.7674 and EF@1% 2.7331 on internal validation, and Spearman 0.5171 with EF@1% 2.4359 on a temporal holdout. After fold-0 training-overlap control, a scaffold-disjoint BACE subset retained ROC AUC 0.7626 and EF@1% 2.0253. In a strict 100-molecule BACE decision-layer replay, risk-aware ordering kept Hit@10 at 0.9000 while exposing review evidence that pure activity sorting omits. An EGFR/CHEMBL203 label-hidden operational replay supports workflow feasibility but is reported as same-source sensitivity analysis rather than independent external validation. The claim is bounded: the evidence supports risk-aware library compression as an upstream prioritization layer, while prospective blinded validation remains necessary before claiming project-specific hit-rate or cost improvements."
+          "title": "Hybrid reef project off Miami Beach targets wave attenuation and coral recovery",
+          "url": "https://phys.org/news/2026-06-hybrid-reef-miami-beach-attenuation.html",
+          "domain": "phys.org",
+          "date": "2026-06-25T15:40:07.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "University of Miami researchers and collaborators have expanded an offshore reef restoration and coastal resilience project off Miami Beach with the deployment of three 3D-printed SEAHIVE clustered structures."
         },
         {
-          "title": "pVACtools v6: A comprehensive suite for neoantigen prediction, visualization, and therapy design",
-          "url": "https://arxiv.org/abs/2606.26659",
-          "domain": "arxiv.org",
-          "date": "2026-06-26T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2606.26659v1 Announce Type: new Abstract: With the rise of checkpoint blockade therapies and neoantigen-based vaccines reaching later-stage trials, there is a growing need for computational tools to identify and prioritize neoantigens. pVACtools, initially introduced in 2016, is an open-source informatic suite designed to support basic and translational neoantigen research. pVACtools assists prediction, prioritization, and visualization of neoantigens, as well as design of neoantigen-based therapies. We describe several major advances to pVACtools since the last update: (1) expanded neoantigen quality and safety assessment features, including support for peptide presentation scoring, immunogenicity prediction, anchor residue analysis, reference proteome similarity, percentile score calculation; (2) addition of pVACsplice, a new tool for predicting neoantigens from tumor-specific cis-splicing mutations; (3) addition of pVACbind, a flexible tool that supports noncanonical neoantigen sources; (4) improvement in neoantigen selection strategies; (5) a substantially improved pVACvector algorithm that achieves higher DNA/mRNA vector vaccine design success rates with shorter runtimes; (6) new utilities to support synthetic long peptide vaccine design; (7) extended prediction support for many non-human species; and (8) addition of pVACcompare, a tool to support comparison between two pVACseq results. Together, these updates reinforce pVACtools as the field's most comprehensive toolkit for neoantigen research, from basic discovery to the design and execution of personalized cancer vaccine clinical trials."
+          "title": "Megacluster of bacterial genes reveals four antibiotics that jointly starve rivals of biotin",
+          "url": "https://phys.org/news/2026-06-megacluster-bacterial-genes-reveals-antibiotics.html",
+          "domain": "phys.org",
+          "date": "2026-06-25T14:00:07.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Researchers at McMaster University have discovered what they describe as a \"megacluster\" of genes in Streptomyces bacteria that produces four antibiotics that work together to stop rival bacteria."
         },
         {
-          "title": "Semialgebraic Conditions for Identifying Triangles in Phylogenetic Networks",
-          "url": "https://arxiv.org/abs/2606.26673",
-          "domain": "arxiv.org",
-          "date": "2026-06-26T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2606.26673v1 Announce Type: new Abstract: An important consideration for a model-based method of phylogenetic network inference is the identifiability of the network parameter of the model. A recurring theme in previous works exploring this issue is that it is often difficult to identify the orientation of edges in a triangle of the network. In fact, it has been shown that for some models it is impossible to determine the orientation of triangle edges utilizing the standard algebraic technique of phylogenetic invariants. In this work, we consider one such model with a Jukes-Cantor site-substitution process and no coalescence. We give a complete semialgebraic description of three, 3-leaf Jukes-Cantor phylogenetic network models with embedded triangles. By describing these base cases, we resolve several questions about the identifiability of networks with embedded triangles. We show that for any pair of models, the intersection and set differences of the models are full-dimensional regions of the space of site-pattern probability distributions. Thus, despite being algebraically indistinguishable, these network models are not identical, nor are they identifiable (or generically identifiable). Our results also yield a straightforward biological interpretation--that the signal from a hybridization event may be immediately detectable but decays over time until it is impossible to identify the orientation of edges in the triangle of a network."
+          "title": "Why climate change could make staple crops less nutritious—and how CRISPR may help",
+          "url": "https://phys.org/news/2026-06-climate-staple-crops-nutritious-crispr.html",
+          "domain": "phys.org",
+          "date": "2026-06-25T12:40:01.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "At present, more than 700 million people live with caloric hunger, and more than 2 billion suffer from micronutrient deficiencies, known as \"hidden hunger.\" By prioritizing high yield over nutritional quality, global calorie production has increased while exacerbating vitamin and mineral deficiencies. Stress from climate change has been shown to further reduce the densities of several nutrients."
         },
         {
-          "title": "On-farm management strategies for reducing H5N1 transmission in dairy cattle",
-          "url": "https://arxiv.org/abs/2606.26674",
-          "domain": "arxiv.org",
-          "date": "2026-06-26T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2606.26674v1 Announce Type: new Abstract: Introductions of H5N1 clade 2.3.4.4b into dairy cattle have resulted in outbreaks on dairy farms across the United States since early-2024. Outbreaks have significant consequences for animal health, result in economic losses for the dairy industry, and pose a threat to human health. Though the relative contributions of different on-farm transmission pathways remain a key uncertainty, a major route is considered to be through repeated contamination of milking stalls (i.e. the equipment and area where an individual cow is milked) due to the milking of infected animals. Here we develop mathematical models of H5N1 transmission dynamics on dairy farms, considering multiple possible transmission pathways, and identify factors that contribute to outbreak risk and on-farm interventions for mitigating risk. In particular, we demonstrate that dividing cattle into 'milking cohorts', with cohorts kept in separate pens or paddocks and milked in the same order every day, would be highly effective at mitigating outbreaks irrespective of the dominant transmission pathway. Cohorting cattle is most effective when implemented pre-emptively (i.e. before an outbreak) and when newly introduced cattle are kept in the final milking cohort. Additionally, we demonstrate that frequent bulk milk sample testing (e.g. weekly) would enable the rapid detection of outbreaks and implementation of reactive interventions (or scaling up of existing interventions). Our findings can support the development of management guidelines for effectively responding to H5N1 outbreaks in dairy cattle."
+          "title": "Author Correction: Generation of modified cows and sheep from spermatid-like haploid embryonic stem cells",
+          "url": "https://www.nature.com/articles/s41587-026-03216-y",
+          "domain": "nature.com",
+          "date": "2026-06-25T00:00:00.000Z",
+          "source": "Nature Biotechnology",
+          "summary": "Nature Biotechnology, Published online: 25 June 2026; doi:10.1038/s41587-026-03216-y Author Correction: Generation of modified cows and sheep from spermatid-like haploid embryonic stem cells"
         }
       ]
     },
@@ -277,6 +277,30 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "SOL reclaims $72, but onchain data flags weakening momentum",
+          "url": "https://cointelegraph.com/markets/sol-reclaims-72-but-onchain-data-flags-weakening-momentum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-27T02:47:59.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Solana found strength from tokenized stock trading on its network, but a declining TVL and DEX volumes point to fading momentum."
+        },
+        {
+          "title": "US senators urge CFTC probe Polymarket over ‘deceptive marketing’",
+          "url": "https://cointelegraph.com/news/us-senators-urge-cftc-probe-polymarket-over-report-deceptive-marketing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-27T02:16:06.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Senators John Curtis and Adam Schiff are concerned about the CFTC’s enforcement ability after a “troubling” report on Polymarket’s advertising."
+        },
+        {
+          "title": "Old Ether wallets move 37,806 ETH as whale conviction faces key test at $1.5K",
+          "url": "https://cointelegraph.com/markets/old-ether-wallets-move-37806-eth-as-whale-conviction-faces-key-test?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-26T22:18:07.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Old Ether wallets moved 37,806 ETH as long-term whale profitability turned negative for the first time since 2019, signaling mixed sentiment among large holders."
+        },
         {
           "title": "Strategy loses its bitcoin premium as enterprise mNAV dips below 1",
           "url": "https://www.theblock.co/post/406438/strategy-loses-bitcoin-premium-enterprise-mnav-dips-below-1?utm_source=rss&utm_medium=rss",
@@ -310,6 +334,14 @@
           "summary": "Maxine Waters, the ranking Democrat on House Financial Services, asked the chief of the Department of Labor to withdraw its proposal on alternative assets."
         },
         {
+          "title": "Spain regulator rules out extension for non-MiCA compliant crypto companies",
+          "url": "https://cointelegraph.com/news/spain-no-extension-mica-compliance-crypto-companies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-26T19:20:33.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Carlos San Basilio said that “there will be no exceptions ​or extensions” to the MiCA deadline requiring crypto exchanges offering services to EU-based users to be licensed."
+        },
+        {
           "title": "Former Ethereum Foundation leader warns of funding gap as governance shifts",
           "url": "https://www.coindesk.com/markets/2026/06/26/former-ethereum-foundation-leader-warns-of-funding-gap-as-governance-shifts",
           "domain": "coindesk.com",
@@ -324,38 +356,6 @@
           "date": "2026-06-26T18:34:02.000Z",
           "source": "The Block",
           "summary": "Sol Strategies (STKE) climbed as much as 22% to a high of $1.20 on Friday, outpacing other crypto treasury stocks."
-        },
-        {
-          "title": "Anti-trafficking group says Clarity Act's Section 604 could weaken accountability",
-          "url": "https://www.coindesk.com/policy/2026/06/26/anti-trafficking-group-warns-clarity-act-s-section-604-could-weaken-accountability",
-          "domain": "coindesk.com",
-          "date": "2026-06-26T18:24:24.000Z",
-          "source": "CoinDesk",
-          "summary": "An anti-human trafficking advocate said a Clarity Act provision could weaken accountability despite existing criminal laws."
-        },
-        {
-          "title": "Virtuals' Jansen Teng says AI agents are evolving into autonomous economic actors",
-          "url": "https://www.coindesk.com/coindesk-news/2026/06/26/virtuals-jansen-teng-says-ai-agents-are-evolving-into-autonomous-economic-actors",
-          "domain": "coindesk.com",
-          "date": "2026-06-26T18:04:22.000Z",
-          "source": "CoinDesk",
-          "summary": "The next phase of AI agents may be less about chat and more about earning, spending and coordinating."
-        },
-        {
-          "title": "Base suffers second mainnet stall in two days",
-          "url": "https://www.theblock.co/post/406409/base-suffers-second-mainnet-stall-in-two-days?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-26T17:50:02.000Z",
-          "source": "The Block",
-          "summary": "Base block production resumed as of 16:11 UTC, following an alert to another mainnet chain stall at 15:33 UTC."
-        },
-        {
-          "title": "Tokenization firm Securitize eyes early July NYSE debut with $400 million SPAC deal",
-          "url": "https://www.theblock.co/post/406396/tokenization-firm-securitize-july-nyse-debut-400-million-spac-deal?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-26T17:23:01.000Z",
-          "source": "The Block",
-          "summary": "Seeking to debut next week, Securitize will receive roughly $400 million after retaining more than 70% of its SPAC trust."
         }
       ]
     }
