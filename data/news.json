@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-28T16:15:24.777Z",
+  "updatedAt": "2026-06-28T17:38:39.332Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -8,6 +8,22 @@
         "https://news.google.com/rss/search?q=DeSci%20OR%20%22decentralized%20science%22%20OR%20%22BIO%20Protocol%22&hl=en-US&gl=US&ceid=US:en"
       ],
       "articles": [
+        {
+          "title": "Bio Protocol launches AI research hub to challenge grant gatekeepers - crypto.news",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNFh5NE1hUkt5RnVBaFFuVU1HYzgxZzBkU0huOXprTVpRV0xWVDJjZEF3LUtqNkZWWDZVU0E5Wm16ZHljR0dYanI2eDZnYnVCQVA0UzJMTmNQekFtMXhxbTRmWmU0cVBfczBKTURTZ0Jnc2s3QkFMdVpuNlNyeks1azhVUHpHYkNQbno0ZGR6aVZuY2c?oc=5",
+          "domain": "crypto.news",
+          "date": "2026-06-20T12:53:08.000Z",
+          "source": "crypto.news",
+          "summary": "Bio Protocol launches AI research hub to challenge grant gatekeepers &nbsp;&nbsp; crypto.news"
+        },
+        {
+          "title": "NanoVita Joins ENI Super Node Ecosystem to Advance AI-Driven DeSci - Cryptonews.net",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTeHF5X2owYXY0WXF1SjQzVjlkRGU3NG11UHMtaEJwUmZKRXlzTGtGTjhVem5IdGxIOFFYc1FzLWNXVzJaNVZ2MzNDcGQzWFd1UFZVVUdxaXJDWG5D?oc=5",
+          "domain": "cryptonews.net",
+          "date": "2026-06-07T07:00:00.000Z",
+          "source": "Cryptonews.net",
+          "summary": "NanoVita Joins ENI Super Node Ecosystem to Advance AI-Driven DeSci &nbsp;&nbsp; Cryptonews.net"
+        },
         {
           "title": "What Is Bio Protocol (BIO)? - Binance",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9MbFcyT1E4N1JvdnZCODQyc1pTRXZWWEk5VTVwbUlLLUtvWmJWN1F4Umw2am00VVBpRlVCaEk5NGR1ZXNvSU1oWGE3OWYtMWlYRURIeHY3SHBVQ0l3RkdmVnVQbXgwUTlLNjg0ZFBmLXpfamdtVmdR?oc=5",
@@ -25,12 +41,44 @@
           "summary": "What Is Decentralized Science (DeSci)? &nbsp;&nbsp; Binance"
         },
         {
-          "title": "PEPTAI Price Swings Wild As Base Integration Fuels DeSci Hype - TradingView",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcGQzeE80ejg2UlYwZEl0NDgxVWZGdHd6QzY3VGZmOW1UdjREYU5Kd0dEYjNQdnVuZlRiOEFaOHdVTDlndHVxeE82aUpuZmpTQ09qQkEycmRLdFA1YjRnMlVhX2lKV0NGTFpTM1ZxbndRN0h2czJUU0JUQXp3Y0VRM0NoVlNPME5fb0xUOWlQdEhRbzA4TU45U3VRaXp4LTJYbkF0WDVvWVZtb0pLdm9pUG03NDRTZ2dKaURKVA?oc=5",
-          "domain": "fr.tradingview.com",
+          "title": "PEPTAI Price Swings Wild As Base Integration Fuels DeSci Hype - Coinpedia",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWUpyR0I0YkxiZktvX3hfWlZwc0JIZFU1czE4dHN5SkhjdlJnMFVqb1V4cUY2Z2M0ZXB3VWV4b05zOWdVSGhhblJ2ZGpFMlNhaHJLcF9mZFpHM3d1RHF5b2d3V2ZxUEZfcTJZRHB5Uzd1QWl0bXJuZDlMZG1QR0xvRDZMYkg3STJDaUJibGNEdnBFQmPSAZgBQVVfeXFMTTQ0SUZHQjIzZ2I3dm9UWk5IV3M3NzY0WkRpYnRxblZzUGZVc2lscWg5RXRCV2RzU3NianNNTFd5cVNJYTlRRWNkcnozazZzXzNyODJSZ3VEektmZlZVX1hzbURxcmhUenFzMTdoaG9YSHhlaHFuUnhiWTFOU1kzVTM5Tl8zUFlORnp3WERnaFhNa2ZRUl9ZbkI?oc=5",
+          "domain": "coinpedia.org",
           "date": "2026-05-15T07:00:00.000Z",
-          "source": "TradingView",
-          "summary": "PEPTAI Price Swings Wild As Base Integration Fuels DeSci Hype &nbsp;&nbsp; TradingView"
+          "source": "Coinpedia",
+          "summary": "PEPTAI Price Swings Wild As Base Integration Fuels DeSci Hype &nbsp;&nbsp; Coinpedia"
+        },
+        {
+          "title": "Bio Protocol announces the launch of PEPTAI, with a total supply of 20% allocated to BIO stakers - Bitget",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXeEVmTEhRNnBGbVRKSE5xa2tvRjM1MDFaaWdZbDJrX3BMallBanM4TG4tVmljbDE1U2NVXzQ0RmdjRmM5YmFkbnJNZzU3UGYycVRSTXYyOWpKTEtHMFNRcVhZaEjSAWpBVV95cUxQaWZRc0stMm9PZGxrYXNyek9yVUVuVGlSQU44UUlLVjd2NE9BYm0xYXNoWTlyaEdEbFlFQzlGMnlOcmJ1NjRYdGxtckFpZmktS0NDREZ4RDlMMTFiYzlnUWczVWJqaThKd253?oc=5",
+          "domain": "bitget.com",
+          "date": "2026-05-14T07:00:00.000Z",
+          "source": "Bitget",
+          "summary": "Bio Protocol announces the launch of PEPTAI, with a total supply of 20% allocated to BIO stakers &nbsp;&nbsp; Bitget"
+        },
+        {
+          "title": "DeSci Has Raised Millions For Research No VC Would Ever Touch - Yellow.com",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQzAtQWJmSEtGX1pXdWVOR0RsRnhXWGp4S2VYUEhXREJiM1ljR01reDZfS1hwU0g3eTMzaFdOdnVJb3l2R2lNdmdCVEhuUWExYjB0VTNReUIwUlRxTjhrdmlCV1d5R3VXbGtRWFp3eGQ0VTV0SjhZdGpNOGV2dDNYcnVodm9PWWJHYlE?oc=5",
+          "domain": "yellow.com",
+          "date": "2026-05-04T06:44:54.000Z",
+          "source": "Yellow.com",
+          "summary": "DeSci Has Raised Millions For Research No VC Would Ever Touch &nbsp;&nbsp; Yellow.com"
+        },
+        {
+          "title": "Bio Protocol Jumps 53.85% in Intraday Trading - bloomingbit",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TN0RaS1ExWkVmU1FzMXlsRUJQVmZhQ2lnNEdfcFVVMEloWHFuS3VDdnd5SlpLakNvNzIxdld1LTY5VWlVX2c4U2pZaUlTaHZybXUwag?oc=5",
+          "domain": "en.bloomingbit.io",
+          "date": "2026-05-02T07:00:00.000Z",
+          "source": "bloomingbit",
+          "summary": "Bio Protocol Jumps 53.85% in Intraday Trading &nbsp;&nbsp; bloomingbit"
+        },
+        {
+          "title": "DeSci, AI, or Meme: Where Crypto Capital Flows in Mid-2026 - KuCoin",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORWpaTU84Z3BCRUU1UTFFWWhtdnpjNFFPYVVzZWpjenRjMXhRN25QRmtJNFQ1aVlKXzB0YVNtR1pHbEdBS3E0N0JVVGdHbW43TlE4bjlkTm1aeEFxYVpZUVJuRFlPdEVwNTA4OU9Sc2FFTDJ6X1pkMUo1ai13OUdaekVPNDE0Y2tTOHYw?oc=5",
+          "domain": "kucoin.com",
+          "date": "2026-05-01T07:00:00.000Z",
+          "source": "KuCoin",
+          "summary": "DeSci, AI, or Meme: Where Crypto Capital Flows in Mid-2026 &nbsp;&nbsp; KuCoin"
         },
         {
           "title": "BIO Token Rally Raises Questions About DeSci Valuation Sustainability - Investing.com",
@@ -39,54 +87,6 @@
           "date": "2026-04-16T07:00:00.000Z",
           "source": "Investing.com",
           "summary": "BIO Token Rally Raises Questions About DeSci Valuation Sustainability &nbsp;&nbsp; Investing.com"
-        },
-        {
-          "title": "DeSci Momentum: BIO Protocol Surges as AI-Driven Drug Discovery Gains Market Traction - Tokenist",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9WM212UnlpQTlXcU45R042d0JUb0VxRWtSRnBYQnBnS0dCVEMtMGVCZ0pjcDdaMk4zYkNBQXo4RENYbURvN212VFliQjVHdzVzRU9DRTU5dElhazBOeTVOejJRNEVRNmtCUmRYWTRyZTg1WUE?oc=5",
-          "domain": "tokenist.com",
-          "date": "2026-04-16T07:00:00.000Z",
-          "source": "Tokenist",
-          "summary": "DeSci Momentum: BIO Protocol Surges as AI-Driven Drug Discovery Gains Market Traction &nbsp;&nbsp; Tokenist"
-        },
-        {
-          "title": "What is DeSci: Why It Could Be Crypto’s Next Big Narrative - 99Bitcoins",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10VXFGb2FqT2lVczd1c05FNm9keTNQb0xuVktLVEJWaGo0d0UyaEhWNnV0c054Z25pb3pZWjg5OUpqYlpmMndIX0JzOUpNbk1kcXdWaHBnYXk5eVE?oc=5",
-          "domain": "99bitcoins.com",
-          "date": "2025-12-15T08:00:00.000Z",
-          "source": "99Bitcoins",
-          "summary": "What is DeSci: Why It Could Be Crypto’s Next Big Narrative &nbsp;&nbsp; 99Bitcoins"
-        },
-        {
-          "title": "10 Crypto DeSci that Have the Potential to Rise in 2026 - Pintu",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVWllRHZQU0FUbUZOb2JFbUtKWjlURUJ5MHFQT2JPRFpPdTF0cXc3bFp2bUgwV0ZXWWtvc3NYcWtBbzVoOUh3ZzRGblpWNUJzNDBSekpBYVE4TVdZdXUzUnNubV9yLURQQ0JOSWFHbHhKcEdGNG9EdGZlYkdxZ09YM25CendGRWI4Sk9wb1gtR0c1VlRK0gGaAUFVX3lxTE1iLUo5cDUwWmkzQ0dKbngxTnd3N3dlemt3UnJyM3BuWUtlaVRFamhHcEFidjVBSDZodGZ0dC1MRk8wY3BCYi1qNXdSdDl2SmNBekk2ZUl1SGJhREI1bC04bFVvdkxueXhnT2MxZmVQY1YtUEQwY003NnBYWlRxdVBtT09WM0x6dU5jclFUdnV6WDhMd3FKbVNUelE?oc=5",
-          "domain": "pintu.co.id",
-          "date": "2025-11-29T08:00:00.000Z",
-          "source": "Pintu",
-          "summary": "10 Crypto DeSci that Have the Potential to Rise in 2026 &nbsp;&nbsp; Pintu"
-        },
-        {
-          "title": "Bio Protocol Raises $6.9 Million to Power AI and Blockchain in Science - CryptoRank",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYlhuLW42QmRpZ1huWm1WOEZHYk5iR3ROWmQzN0U5M3l1Sm82b1VlOWViTXVTeFpMUmJXYm9ZU2xobVVPaFBHd0JUaW1XekpMSVFUaVlTMi1ZUUFaSGwyemtzRlU2MW9Ob0tWQmhCd3RnM0FIVWhoS0VWN0pnZk02SkhuX3h0cFZ6bHJQVXh1YVdDTTQyUVA2NEt0bDVUVVI1dElTZUtnb21mR1k?oc=5",
-          "domain": "cryptorank.io",
-          "date": "2025-09-18T07:00:00.000Z",
-          "source": "CryptoRank",
-          "summary": "Bio Protocol Raises $6.9 Million to Power AI and Blockchain in Science &nbsp;&nbsp; CryptoRank"
-        },
-        {
-          "title": "Bio Protocol raises $6.9 million in seed funding led by Arthur Hayes' Maelstrom Fund - The Block",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRWVYbWUxd1JfQUktYXBUSDBkbGpadUdORUF3M2RvT2FZNGFTOUdpU2N3VzFqQ3k5UDdXanZHMUVGM3pvWTNqRTN3bEdoWnNDRHc1OU5aQkw5SUNXeFZmYXNkSkJRYUduaWZyS1pfbklIZVI5X0JvV29MckZOWHBkSTBsTnNCczkxRUYyMA?oc=5",
-          "domain": "theblock.co",
-          "date": "2025-09-17T07:00:00.000Z",
-          "source": "The Block",
-          "summary": "Bio Protocol raises $6.9 million in seed funding led by Arthur Hayes' Maelstrom Fund &nbsp;&nbsp; The Block"
-        },
-        {
-          "title": "DeScAI: the convergence of decentralized science and artificial intelligence - Frontiers",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZXpwRnNoVG9USHJJQmhIMF9sWkNqa29PdTU1SkRHbGRiZmhZeVpkVGxaSVBpTk5HczVya0tPVHBFYkdWOFowYXVaRzhUbzRFWUN5Vk9YMXVjYWhoUm96WENFcHV5UElJSk95QmVEcElUMTh1eHJtZzlxSFp5c21BUGhDQmtlRE9pcjlyWThHckhxdw?oc=5",
-          "domain": "frontiersin.org",
-          "date": "2025-09-02T19:14:31.000Z",
-          "source": "Frontiers",
-          "summary": "DeScAI: the convergence of decentralized science and artificial intelligence &nbsp;&nbsp; Frontiers"
         }
       ]
     },
@@ -294,10 +294,10 @@
           "summary": "Bitcoin’s past July gains and heavy short bets point to a rally toward $75,000, but a break below key support keeps the risk of $55,000 in play."
         },
         {
-          "title": "EU Watchdog EBA Details Big Crypto Fines as Landmark Laws Bite",
+          "title": "EU watchdog EBA details big crypto fines as landmark laws bite",
           "url": "https://cointelegraph.com/news/eu-watchdog-eba-details-big-crypto-fines-as-landmark-laws-bite?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-06-28T16:05:07.000Z",
+          "date": "2026-06-28T16:10:00.000Z",
           "source": "CoinTelegraph",
           "summary": "The European Banking Authority laid out a proposed penalty framework on Friday that can strip non-compliant significant token issuers of up to 12.5% of their annual revenue."
         },
