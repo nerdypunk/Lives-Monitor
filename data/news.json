@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-28T18:51:44.763Z",
+  "updatedAt": "2026-06-28T20:16:10.091Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,6 +278,22 @@
       ],
       "articles": [
         {
+          "title": "CZ wants to make the U.S. the 'capital of crypto': State of Crypto",
+          "url": "https://www.coindesk.com/policy/2026/06/28/cz-wants-to-make-the-u-s-the-capital-of-crypto-state-of-crypto",
+          "domain": "coindesk.com",
+          "date": "2026-06-28T19:30:00.000Z",
+          "source": "CoinDesk",
+          "summary": "The Binance founder shared his views on a variety of topics in an exclusive interview with CoinDesk earlier this month."
+        },
+        {
+          "title": "BIS warns stablecoins risk fragmenting global financial system",
+          "url": "https://cointelegraph.com/news/bis-warns-stablecoins-risk-fragmenting-global-financial-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-28T18:58:45.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The Basel-based institution said that private digital tokens fall short of the requirements for sound money and urged policymakers to accelerate work on tokenized forms of central bank and commercial bank money."
+        },
+        {
           "title": "Michael Saylor signals another bitcoin buy as Strategy sits about $13 billion underwater",
           "url": "https://www.theblock.co/post/406460/michael-saylor-signals-another-bitcoin-buy-as-strategy-sits-about-13-billion-underwater?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
@@ -326,14 +342,6 @@
           "summary": "The investment bank said the purchase of Japanese crypto exchange Bitbank is a bet on regulated scale as sweeping reforms reshape the country's digital asset market."
         },
         {
-          "title": "Here’s what happened in crypto today",
-          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-28T13:04:13.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-        },
-        {
           "title": "Crypto's next frontier isn't crypto, it's financing AI and robotics, Framework's Anderson says",
           "url": "https://www.coindesk.com/business/2026/06/28/crypto-s-next-frontier-isn-t-crypto-it-s-financing-ai-and-robotics-framework-s-anderson-says",
           "domain": "coindesk.com",
@@ -348,14 +356,6 @@
           "date": "2026-06-28T11:51:33.000Z",
           "source": "CoinTelegraph",
           "summary": "Early exchange flow data show no clear signs of a mass migration from Binance ahead of the EU MiCA transition deadline, despite rivals' efforts to attract users."
-        },
-        {
-          "title": "Grayscale's Pandl hopes Strategy sells $3B in Bitcoin to restore confidence",
-          "url": "https://cointelegraph.com/news/grayscales-pandl-strategy-sells-3b-bitcoin-confidence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-28T07:59:28.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Grayscale's research head Zach Pandl said Strategy should sell $3 billion in Bitcoin to cover its cash obligations, but CryptoQuant argued the company has other ways to support STRC."
         }
       ]
     }
