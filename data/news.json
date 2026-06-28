@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-28T09:42:16.800Z",
+  "updatedAt": "2026-06-28T11:26:22.471Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -88,7 +88,8 @@
           "source": "Investing.com",
           "summary": "BIO Token Rally Raises Questions About DeSci Valuation Sustainability &nbsp;&nbsp; Investing.com"
         }
-      ]
+      ],
+      "warning": "Google News DeSci returned 503"
     },
     {
       "name": "Longevity",
