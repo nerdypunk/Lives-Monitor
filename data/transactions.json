@@ -8,6 +8,51 @@
   },
   "transactions": [
     {
+      "signature": "4pn4qjiGCsQTXWem6mzSf6AXZC8xUhhteZFsbPoBZgj1r5vuGmwGP8tWrAVnb9yMKZma2pCVc2Vz9VPn5f9RMbPj",
+      "type": "Transfer",
+      "amountText": "97.5",
+      "from": "6ACwobpN5CJB7TNdJcHpRHqStvS96AH7kvXqiDaeCzLx",
+      "to": "FcxtGxxdYPtwdobmzDRr3hqM2L4RGWvQ95tx6tJrVpQJ",
+      "blockTime": 1782607811,
+      "slot": 429347485
+    },
+    {
+      "signature": "enNkrQSxkiJiuwGzuedgNcoW83KF7yZUiQ6UpsuS3hsbz5WtzWfQwNn6tYaarScFfnkFqKjYmzep5FT89JctA3B",
+      "type": "Transfer",
+      "amountText": "100",
+      "from": "38jj53FiuQ7UpUSUaGuAJwHBTpo9w8P7jim3HzSeeY6u",
+      "to": "6ACwobpN5CJB7TNdJcHpRHqStvS96AH7kvXqiDaeCzLx",
+      "blockTime": 1782607806,
+      "slot": 429347474
+    },
+    {
+      "signature": "5bbRFMAps7pX7JGn5UgeEDjkuGXLLGgdQcPmz5suJCbmwkKm69ZLP551cnq8Z9RZkB8rFf8PKYJoSY716RcTrsUy",
+      "type": "Transfer",
+      "amountText": "100",
+      "from": "uCWHaqAhTUc9SjCbaNpMUrvumDhLTLcVDRXrXnKbsKU",
+      "to": "38jj53FiuQ7UpUSUaGuAJwHBTpo9w8P7jim3HzSeeY6u",
+      "blockTime": 1782607777,
+      "slot": 429347400
+    },
+    {
+      "signature": "GfhTsijE9Hvg7CLhnPVNi8AGSiRi2CrQzkfUvqeEvyb26eSJwHwfFtYEgyMaBBKz1Dmii3PWd8Emgi89yg1ujCV",
+      "type": "Transfer",
+      "amountText": "219.375",
+      "from": "6ACwobpN5CJB7TNdJcHpRHqStvS96AH7kvXqiDaeCzLx",
+      "to": "FcxtGxxdYPtwdobmzDRr3hqM2L4RGWvQ95tx6tJrVpQJ",
+      "blockTime": 1782607299,
+      "slot": 429346218
+    },
+    {
+      "signature": "2NKqEXeCXZE2w2ioj1T64k5RjEtjxLgFV3pjqXekUsfdDk7VPHaRa3qjEp3PGmkaDMkzGGPSwQmWfzxhKFH8Qfvj",
+      "type": "Transfer",
+      "amountText": "225",
+      "from": "6tEfc1TWVmPEpuW2j2SUMLynuHP7Y2SnqzSZXThbnfBz",
+      "to": "6ACwobpN5CJB7TNdJcHpRHqStvS96AH7kvXqiDaeCzLx",
+      "blockTime": 1782607291,
+      "slot": 429346198
+    },
+    {
       "signature": "5b6hnTNEA5cYZVQLXkRVXC4KYKLmHvy7X1BksuTrNH7gjd6VeVdUUC1UhML1WCADFPJFsrdU4kKXQQokf4Wsu9bM",
       "type": "Transfer",
       "amountText": "42.9",
@@ -31168,8 +31213,8 @@
   ],
   "stats": {
     "last24h": 49,
-    "totalCached": 3462,
+    "totalCached": 3467,
     "historyComplete": true
   },
-  "updatedAt": "2026-06-27T23:42:55.122Z"
+  "updatedAt": "2026-06-28T01:55:02.721Z"
 }
