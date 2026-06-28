@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-28T06:22:53.355Z",
+  "updatedAt": "2026-06-28T09:42:16.800Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,6 +278,22 @@
       ],
       "articles": [
         {
+          "title": "Grayscale's Pandl hopes Strategy sells $3B in Bitcoin to restore confidence",
+          "url": "https://cointelegraph.com/news/grayscales-pandl-strategy-sells-3b-bitcoin-confidence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-28T07:59:28.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Grayscale's research head Zach Pandl said Strategy should sell $3 billion in Bitcoin to cover its cash obligations, but CryptoQuant argued the company has other ways to support STRC."
+        },
+        {
+          "title": "Bitcoin falls below $60,000, on track for a rare back-to-back quarterly loss",
+          "url": "https://www.coindesk.com/markets/2026/06/28/bitcoin-falls-below-usd60-000-on-track-for-a-rare-back-to-back-quarterly-loss",
+          "domain": "coindesk.com",
+          "date": "2026-06-28T07:10:52.000Z",
+          "source": "CoinDesk",
+          "summary": "The token is down nearly 7% on the week with the altcoins falling harder. Bitcoin and ether are both ending the second quarter in the red, a back-to-back losing first half that runs against the usual pattern."
+        },
+        {
           "title": "Base post-mortem reveals sequencer bug behind back-to-back outages",
           "url": "https://cointelegraph.com/news/base-post-mortem-reveals-sequencer-bug-behind-back-to-back-outages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
@@ -340,22 +356,6 @@
           "date": "2026-06-27T17:59:31.000Z",
           "source": "CoinTelegraph",
           "summary": "The new investment vehicle arrives as asset managers expand TAO offerings and decentralized AI gains momentum following recent restrictions on Anthropic's models."
-        },
-        {
-          "title": "What Robinhood’s recent layoffs say about the current state of crypto investments",
-          "url": "https://www.coindesk.com/opinion/2026/06/27/what-robinhood-s-recent-layoffs-say-about-the-current-state-of-crypto-investments",
-          "domain": "coindesk.com",
-          "date": "2026-06-27T16:30:00.000Z",
-          "source": "CoinDesk",
-          "summary": "Despite the trading platform’s restructuring and the wave of crypto companies making cuts, signaling a late bear market, Altcoin Pro’s Horst, Anderson and Zhuleku explain there’s no reason to panic."
-        },
-        {
-          "title": "Average IBIT investor now down about 40% as spot bitcoin ETFs cap second-worst week on record",
-          "url": "https://www.theblock.co/post/406451/average-ibit-investor-now-down-about-40-as-spot-bitcoin-etfs-cap-second-worst-week-on-record?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-27T16:29:22.000Z",
-          "source": "The Block",
-          "summary": "Friday's $444.51 million net outflow capped a seventh straight negative week, the longest weekly run on record for the category."
         }
       ]
     }
