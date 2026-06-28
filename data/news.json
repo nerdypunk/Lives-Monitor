@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-28T21:39:27.384Z",
+  "updatedAt": "2026-06-28T22:44:30.330Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,6 +278,14 @@
       ],
       "articles": [
         {
+          "title": "BIS says stablecoins fall short as money, warns of emerging-market risks in annual report",
+          "url": "https://www.theblock.co/post/406466/bis-says-stablecoins-fall-short-as-money-warns-of-emerging-market-risks-in-annual-report?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-28T22:04:00.000Z",
+          "source": "The Block",
+          "summary": "The Bank for International Settlements argued in its annual report that stablecoins still fall short of money on singleness, elasticity and integrity."
+        },
+        {
           "title": "Here’s what happened in crypto today",
           "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
@@ -348,14 +356,6 @@
           "date": "2026-06-28T15:00:00.000Z",
           "source": "CoinDesk",
           "summary": "The investment bank said the purchase of Japanese crypto exchange Bitbank is a bet on regulated scale as sweeping reforms reshape the country's digital asset market."
-        },
-        {
-          "title": "Crypto's next frontier isn't crypto, it's financing AI and robotics, Framework's Anderson says",
-          "url": "https://www.coindesk.com/business/2026/06/28/crypto-s-next-frontier-isn-t-crypto-it-s-financing-ai-and-robotics-framework-s-anderson-says",
-          "domain": "coindesk.com",
-          "date": "2026-06-28T13:00:00.000Z",
-          "source": "CoinDesk",
-          "summary": "Blockchain is becoming the financial layer for capital-intensive industries rather than just crypto-native speculation, Michael Anderson, the crypto venture firm's cofounder, said."
         }
       ]
     }
