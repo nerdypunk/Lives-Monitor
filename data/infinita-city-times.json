@@ -1,8 +1,14 @@
 {
   "source": "Infinita City Times",
   "feed": "https://www.infinitacitytimes.com/feed",
-  "updatedAt": "2026-06-29T13:51:47.071Z",
+  "updatedAt": "2026-06-29T16:54:37.780Z",
   "items": [
+    {
+      "title": "Infinita Startup Week @ The Free Cities Conference",
+      "link": "https://www.infinitacitytimes.com/p/infinita-startup-week-the-free-cities",
+      "date": "Mon, 29 Jun 2026 15:44:34 GMT",
+      "summary": "Launch in the world's most advanced pro-innovation jurisdiction."
+    },
     {
       "title": "We've Partnered with Noma Collective!",
       "link": "https://www.infinitacitytimes.com/p/weve-partnered-with-noma-collective",
@@ -56,12 +62,6 @@
       "link": "https://www.infinitacitytimes.com/p/why-you-cant-use-your-right-to-try",
       "date": "Mon, 11 May 2026 22:33:32 GMT",
       "summary": "The Availability Problem:"
-    },
-    {
-      "title": "Ep. 108: The Buck Inst. President, Eric Verdin, on Pathways to Life Extension Acceleration: Alternative Pathways and Radical Hopium vs. Scientific Realism",
-      "link": "https://www.infinitacitytimes.com/p/ep-108-eric-verdin-can-we-reverse",
-      "date": "Fri, 08 May 2026 18:03:21 GMT",
-      "summary": "Can longevity science balance radical ambition with scientific rigor, or does the future of life extension require both?"
     }
   ]
 }
