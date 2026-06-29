@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-29T16:54:52.368Z",
+  "updatedAt": "2026-06-29T19:06:30.191Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -9,12 +9,12 @@
       ],
       "articles": [
         {
-          "title": "Bio Protocol launches AI research hub to challenge grant gatekeepers - Crypto News",
+          "title": "Bio Protocol launches AI research hub to challenge grant gatekeepers - crypto.news",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNFh5NE1hUkt5RnVBaFFuVU1HYzgxZzBkU0huOXprTVpRV0xWVDJjZEF3LUtqNkZWWDZVU0E5Wm16ZHljR0dYanI2eDZnYnVCQVA0UzJMTmNQekFtMXhxbTRmWmU0cVBfczBKTURTZ0Jnc2s3QkFMdVpuNlNyeks1azhVUHpHYkNQbno0ZGR6aVZuY2c?oc=5",
           "domain": "crypto.news",
           "date": "2026-06-20T12:53:08.000Z",
-          "source": "Crypto News",
-          "summary": "Bio Protocol launches AI research hub to challenge grant gatekeepers &nbsp;&nbsp; Crypto News"
+          "source": "crypto.news",
+          "summary": "Bio Protocol launches AI research hub to challenge grant gatekeepers &nbsp;&nbsp; crypto.news"
         },
         {
           "title": "NanoVita Joins ENI Super Node Ecosystem to Advance AI-Driven DeSci - Cryptonews.net",
@@ -98,6 +98,30 @@
       ],
       "articles": [
         {
+          "title": "Patch, not needle: Anodyne raises $12.6m for GLP-1 obesity patch",
+          "url": "https://longevity.technology/news/patch-not-needle-anodyne-raises-12-6m-for-glp-1-obesity-patch/",
+          "domain": "longevity.technology",
+          "date": "2026-06-29T17:11:35.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Boston biotech secures Series A funding to move its once-weekly GLP-1 obesity patch into first-in-human clinical trials. Is the weekly injection finally under threat? GLP-1 medicines have reshaped obesity treatment faster than almost any therapy in recent memory, turning household names like Ozempic and Wegovy into cultural phenomena. Yet for all their success, they still […] The post Patch, not needle: Anodyne raises $12.6m for GLP-1 obesity patch appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "Verge Labs opens new front: AI lab to decode human disease",
+          "url": "https://longevity.technology/news/verge-labs-opens-new-front-ai-lab-to-decode-human-disease/",
+          "domain": "longevity.technology",
+          "date": "2026-06-29T17:02:08.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Former Verge Genomics is building AI models from human brain data, aiming to make drug development more precise and less prone to failure. The race to bring artificial intelligence into healthcare has largely focused on finding patterns in data. Now, a newly launched company believes the next step is much bigger: creating AI systems that […] The post Verge Labs opens new front: AI lab to decode human disease appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "Xella targets to fill the gaps in women’s diagnostics with AI",
+          "url": "https://longevity.technology/news/xella-targets-to-fill-the-gaps-in-womens-diagnostics-with-ai/",
+          "domain": "longevity.technology",
+          "date": "2026-06-29T17:00:36.000Z",
+          "source": "Longevity.Technology",
+          "summary": "15,000-woman waitlist suggests demand for precision health is accelerating, and that women are ready to move beyond medical guesswork. When a healthcare startup launches with 15,000 women already waiting to sign up, it’s worth asking why. The answer isn’t simply that AI is having another moment. It’s that many women have spent years moving between […] The post Xella targets to fill the gaps in women’s diagnostics with AI appeared first on Longevity.Technology ."
+        },
+        {
           "title": "Calico targets longevity pathway with rare disease win",
           "url": "https://longevity.technology/news/calico-targets-longevity-pathway-with-rare-disease-win/",
           "domain": "longevity.technology",
@@ -152,30 +176,6 @@
           "date": "2026-06-29T10:31:14.000Z",
           "source": "Longevity.Technology",
           "summary": "Parallel Health has joined the Blue Shield of California provider network, making its microbiome-guided dermatology services available in-network to Blue Shield members in California. The company is now in-network with four of California’s largest commercial insurers, Aetna, Cigna, UnitedHealthcare and Blue Shield of California, together covering more than 28 million lives across the state. The […] The post Parallel Health joins Blue Shield of California network to expand access to personalized skin care appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Cell Type-Specific Aging Predicts Disease Onset",
-          "url": "https://lifespan.io/cell-type-specific-aging-predicts-disease-onset/",
-          "domain": "lifespan.io",
-          "date": "2026-06-26T15:11:47.000Z",
-          "source": "Lifespan.io",
-          "summary": "A new study has used aging trajectories of various cell types to predict diseases such as Alzheimer’s and lung cancer [1]. This expands on previous research into organ-specific aging. Age is more than one number Gone are the days […]"
-        },
-        {
-          "title": "Scribe lands $25m to advance heart disease gene therapies",
-          "url": "https://longevity.technology/news/scribe-lands-25m-to-advance-heart-disease-gene-therapies/",
-          "domain": "longevity.technology",
-          "date": "2026-06-26T15:00:00.000Z",
-          "source": "Longevity.Technology",
-          "summary": "New funding will help advance two one-time CRISPR treatments for inherited cardiovascular risks toward human trials. Think about finding out that your risk of heart disease was largely written into your DNA long before you were born. Now imagine addressing that risk not with a lifetime of pills, injections or restrictive diets, but with a […] The post Scribe lands $25m to advance heart disease gene therapies appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "ŌURA-LillyDirect collab highlights new GLP-1 care model",
-          "url": "https://longevity.technology/news/oura-lillydirect-collab-highlights-new-glp-1-care-model/",
-          "domain": "longevity.technology",
-          "date": "2026-06-26T14:00:00.000Z",
-          "source": "Longevity.Technology",
-          "summary": "New collaboration signals a shift toward combining medication, behavior change and health tracking in one care journey. Is weight becoming an outdated health metric? For decades, the bathroom scale has been the headline act of every weight-loss journey. Lose pounds, celebrate. Gain them back, start over. Simple. But as GLP-1 therapies reshape obesity treatment worldwide, […] The post ŌURA-LillyDirect collab highlights new GLP-1 care model appeared first on Longevity.Technology ."
         }
       ]
     },
@@ -278,6 +278,62 @@
       ],
       "articles": [
         {
+          "title": "Arkham launches ranking system for prediction market traders",
+          "url": "https://www.theblock.co/post/406604/arkham-launches-ranking-system-for-prediction-market-traders?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-29T19:04:02.000Z",
+          "source": "The Block",
+          "summary": "The highest Elo-ranked trader, “GardenerCx,” has a win rate of 64.3% over 2,644 bets focused on up/down bitcoin markets."
+        },
+        {
+          "title": "JPMorgan execs draw comparison between yield stablecoins and ‘shadow banking’",
+          "url": "https://www.theblock.co/post/406599/jpmorgan-execs-draw-comparison-between-yield-stablecoins-shadow-banking?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-29T18:37:28.000Z",
+          "source": "The Block",
+          "summary": "JPMorgan execs argued that stablecoin innovation can easily drift into “shadow banking” if yield payments are permitted."
+        },
+        {
+          "title": "Bitcoin lending is entering a new institutional era, according to Silicon Valley Bank",
+          "url": "https://www.coindesk.com/business/2026/06/29/bitcoin-lending-is-entering-a-new-institutional-era-according-to-silicon-valley-bank",
+          "domain": "coindesk.com",
+          "date": "2026-06-29T17:57:18.000Z",
+          "source": "CoinDesk",
+          "summary": "The bank said bitcoin lending has emerged from the 2022 crypto credit collapse with stronger risk controls, growing institutional participation and a path toward lower borrowing costs."
+        },
+        {
+          "title": "Bitcoin balances $60K tightrope as US stocks rebound on fresh Iran peace deal hopes",
+          "url": "https://cointelegraph.com/markets/bitcoin-fails-60k-reclaim-as-us-stocks-rebound-on-new-iran-peace-hopes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-29T17:44:49.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bitcoin faced its own battle for support as US stocks headed higher and analysts warned of a lack of \"conviction\" among BTC buyers."
+        },
+        {
+          "title": "Coinbase, Kraken and OKX move to swoop up EU users affected by MiCA restrictions",
+          "url": "https://cointelegraph.com/news/coinbase-okx-kraken-eu-users-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-29T17:42:39.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Several exchanges that have already been authorized by EU regulators are attempting to bring in users from companies unlicensed under the Markets in Crypto-Assets rules, offering transfer bonuses and prizes."
+        },
+        {
+          "title": "JPMorgan backs U.S. crypto bill but warns of risks in digital asset framework",
+          "url": "https://www.coindesk.com/policy/2026/06/29/jpmorgan-backs-u-s-crypto-bill-but-warns-repeatedly-of-risks-in-digital-asset-framework",
+          "domain": "coindesk.com",
+          "date": "2026-06-29T17:31:33.000Z",
+          "source": "CoinDesk",
+          "summary": "The bank says Congress should pair regulatory clarity with safeguards as Senate negotiates the Clarity Act."
+        },
+        {
+          "title": "BNY and Circle expand partnership, adding mint and burn capabilities for USDC",
+          "url": "https://www.theblock.co/post/406581/bny-circle-expand-partnership-adding-mint-burn-capabilities-usdc?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-29T16:58:42.000Z",
+          "source": "The Block",
+          "summary": "BNY, the world's largest custodian bank, said it plans to add support for additional stablecoin via its Digital Asset Custody platform."
+        },
+        {
           "title": "Strategy’s MSTR, STRC shares recover after brutal week as Saylor unveils new buyback plans",
           "url": "https://www.theblock.co/post/406568/strategy-mstr-strc-shares-recover-after-brutal-week-saylor-unveils-new-buyback-plans?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
@@ -300,62 +356,6 @@
           "date": "2026-06-29T15:45:18.000Z",
           "source": "CoinDesk",
           "summary": "The industry is moving toward fixing the private key vulnerability issue, just not evenly, Wish Wu, co-founder and CEO of Pharos, said."
-        },
-        {
-          "title": "Binance founder CZ says MiCA application was ‘fully compliant’ and near approval before political forces intervened",
-          "url": "https://www.theblock.co/post/406554/binance-founder-cz-mica-application-fully-compliant-near-approval-political-forces-intervened?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-29T15:33:27.000Z",
-          "source": "The Block",
-          "summary": "Binance founder CZ says the exchange's EU MiCA application was close to approval before unnamed political forces weighed in."
-        },
-        {
-          "title": "White House to speak with law enforcement groups to push Crypto's Clarity Act",
-          "url": "https://www.coindesk.com/policy/2026/06/29/white-house-to-speak-with-law-enforcement-groups-to-push-crypto-s-clarity-act",
-          "domain": "coindesk.com",
-          "date": "2026-06-29T15:23:51.000Z",
-          "source": "CoinDesk",
-          "summary": "Officials from the White House are said to be sitting down with law enforcement representatives who have objected to illicit-finance portions of the bill."
-        },
-        {
-          "title": "J.P. Morgan broadens blockchain settlement network as banks modernize cross-border payments",
-          "url": "https://www.coindesk.com/business/2026/06/29/j-p-morgan-broadens-blockchain-settlement-network-as-banks-modernize-cross-border-payments",
-          "domain": "coindesk.com",
-          "date": "2026-06-29T15:23:36.000Z",
-          "source": "CoinDesk",
-          "summary": "The bank added five Asia-Pacific currencies to its Kinexys blockchain platform, allowing institutional clients to settle payments and FX around the clock."
-        },
-        {
-          "title": "Crypto analytics firm Chainalysis proposes standards for blockchain tracing",
-          "url": "https://www.coindesk.com/policy/2026/06/29/crypto-analytics-firm-chainalysis-proposes-standards-for-blockchain-tracing",
-          "domain": "coindesk.com",
-          "date": "2026-06-29T15:07:49.000Z",
-          "source": "CoinDesk",
-          "summary": "The blockchain analysis company published a proposed ontology for how investigators can identify clusters of crypto addresses and link them together."
-        },
-        {
-          "title": "MiCA's looming deadline could leave 10 million crypto users without a platform in the EU",
-          "url": "https://www.coindesk.com/business/2026/06/29/mica-july-1-deadline-could-leave-10-million-crypto-users-searching-for-a-new-platform-in-the-eu",
-          "domain": "coindesk.com",
-          "date": "2026-06-29T15:03:53.000Z",
-          "source": "CoinDesk",
-          "summary": "As MiCA takes full effect on July 1, SwissBorg's Alex Fazel told CoinDesk users should choose platforms built to withstand EU regulators' tightening oversight."
-        },
-        {
-          "title": "Ripple wants institutions to borrow against tokenized assets on XRPL",
-          "url": "https://www.coindesk.com/tech/2026/06/29/emb-3-pm-utc-ripple-wants-institutions-to-borrow-against-tokenized-assets-on-xrpl",
-          "domain": "coindesk.com",
-          "date": "2026-06-29T15:00:00.000Z",
-          "source": "CoinDesk",
-          "summary": "A proposed XRPL standard would let institutions borrow against tokenized assets, with the blockchain enforcing loan terms while the underwriting stays with human credit teams. It still needs validator approval to go live."
-        },
-        {
-          "title": "Can AI drain DeFi? Separating Claude Mythos hype from reality",
-          "url": "https://cointelegraph.com/learn/claude-mythos-defi-hacks-ai-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-29T15:00:00.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Claude Mythos has raised concerns about AI-driven attacks on DeFi protocols. However, the same AI tools are also available to security teams, not just attackers."
         }
       ]
     }
