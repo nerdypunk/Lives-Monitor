@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-29T20:57:22.435Z",
+  "updatedAt": "2026-06-29T22:16:09.104Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -98,6 +98,14 @@
       ],
       "articles": [
         {
+          "title": "How a Primate-Specific RNA Strand Worsens Senescence",
+          "url": "https://lifespan.io/how-a-primate-specific-rna-strand-worsens-senescence/",
+          "domain": "lifespan.io",
+          "date": "2026-06-29T21:02:28.000Z",
+          "source": "Lifespan.io",
+          "summary": "Researchers have discovered a primate-specific piece of non-coding RNA that is linked to aging and makes senescence worse. The packing matters While non-coding RNA strands (ncRNAs) do not themselves produce proteins, they serve crucial regulatory functions. Short ncRNAs, such […]"
+        },
+        {
           "title": "Patch, not needle: Anodyne raises $12.6m for GLP-1 obesity patch",
           "url": "https://longevity.technology/news/patch-not-needle-anodyne-raises-12-6m-for-glp-1-obesity-patch/",
           "domain": "longevity.technology",
@@ -168,14 +176,6 @@
           "date": "2026-06-29T10:36:14.000Z",
           "source": "Longevity.Technology",
           "summary": "LyGenesis received a research award from Breakthrough T1D to support a thymus program exploring immune tolerance to pancreatic islet transplantation. The award was provided to Dr Eric Lagasse, professor of pathology at the University of Pittsburgh and LyGenesis chief scientific officer. The funding will support preclinical development of a novel approach for tolerance induction following […] The post LyGenesis wins research award to advance type 1 diabetes cell therapy appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Parallel Health joins Blue Shield of California network to expand access to personalized skin care",
-          "url": "https://longevity.technology/news/parallel-health-joins-blue-shield-of-california-network-to-expand-access-to-personalized-skin-care/",
-          "domain": "longevity.technology",
-          "date": "2026-06-29T10:31:14.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Parallel Health has joined the Blue Shield of California provider network, making its microbiome-guided dermatology services available in-network to Blue Shield members in California. The company is now in-network with four of California’s largest commercial insurers, Aetna, Cigna, UnitedHealthcare and Blue Shield of California, together covering more than 28 million lives across the state. The […] The post Parallel Health joins Blue Shield of California network to expand access to personalized skin care appeared first on Longevity.Technology ."
         }
       ]
     },
@@ -187,6 +187,22 @@
         "https://phys.org/rss-feed/biology-news/biotechnology/"
       ],
       "articles": [
+        {
+          "title": "New cellular model for rare and deadly melanomas enables study of immunotherapy resistance",
+          "url": "https://phys.org/news/2026-06-cellular-rare-deadly-melanomas-enables.html",
+          "domain": "phys.org",
+          "date": "2026-06-29T22:00:08.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "A research team at the University of Turku in Finland has developed a reliable laboratory model to study BAP1-deficient melanomas, which are a rare type of melanoma that evade the immune system once they have metastasized and are universally resistant to current state-of-the-art immunotherapies. The tool could change how therapies are developed for aggressive melanomas that currently have almost no effective treatment options."
+        },
+        {
+          "title": "Structural blueprint for RNA therapeutics reveals why some siRNA molecules work better than others",
+          "url": "https://phys.org/news/2026-06-blueprint-rna-therapeutics-reveals-sirna.html",
+          "domain": "phys.org",
+          "date": "2026-06-29T21:10:04.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "RNA interference is a natural mechanism for living cells to control whether specific genes are being used. Crowned with the 2006 Nobel Prize in Physiology or Medicine, the discovery of RNA interference has since been harnessed by scientists to create a powerful and growing class of drugs capable of suppressing disease-related genes. Seven such drugs have already received Food and Drug Administration (FDA) approval, including inclisiran, which can replace daily cholesterol-lowering pills with twice-yearly injections. Despite these clinical successes, the molecular details of how the system executes its cuts remained poorly understood."
+        },
         {
           "title": "Online calculator shows how drastically mowing affects insects",
           "url": "https://phys.org/news/2026-06-online-drastically-affects-insects.html",
@@ -250,22 +266,6 @@
           "date": "2026-06-29T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2606.27657v1 Announce Type: new Abstract: Obesity is a global health crisis associated with metabolic disorders such as type 2 diabetes and cardiovascular disease. This study employed single-cell RNA sequencing to reconstruct the developmental trajectory of human adipocytes from adipose tissue samples. Our analysis identified 15 transcriptionally distinct cell clusters, including 7 transitional states, revealing the dynamic process of adipocyte differentiation. We detected 16 functionally active signaling pathways mediating cellular communication between adipocytes and their progenitors. Among these, insulin-like growth factor (IGF) and fibroblast growth factor (FGF) pathways emerged as the most prominent networks, showing consistent activity across differentiation stages (p<0.05). The study revealed depot-specific differences, with visceral adipocytes undergoing additional extracellular matrix remodeling absent in subcutaneous differentiation. Spatial analysis further showed that IGF signaling was particularly active in perivascular niches, while FGF activity dominated in mature adipocyte zones. These results provide the first comprehensive map of human adipocyte development, highlighting IGF and FGF pathways as potential therapeutic targets. The identified signaling networks offer new insights for developing interventions to promote healthy adipose expansion or inhibit pathological fat accumulation. This work advances our fundamental understanding of adipose tissue biology while providing clinically relevant data for metabolic disorder treatments."
-        },
-        {
-          "title": "CANNs: A Toolkit for Research on Continuous Attractor Neural Networks",
-          "url": "https://arxiv.org/abs/2606.27783",
-          "domain": "arxiv.org",
-          "date": "2026-06-29T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2606.27783v1 Announce Type: new Abstract: Continuous attractor neural networks (CANNs) are the canonical computational framework for how the brain encodes continuous variables such as spatial position, head direction, and movement direction, and explain the activity of hippocampal place cells, entorhinal grid cells, and head-direction cells. CANN research, however, is fragmented: most results rest on lab-specific implementations, general-purpose simulators lack CANN-specific abstractions, and the path from spike trains to attractor geometry in real recordings lacks a standardized toolkit. Here, we present a comprehensive open-source toolkit that unifies the full CANN research workflow. It combines three tightly integrated components: 1) canns, a Python library on BrainPy/JAX that provides standardized 1D/2D CANNs, spike-frequency-adaptation variants, grid cell networks, hierarchical path-integration models, and brain-inspired attractor architectures, together with curated datasets, task generators, an analyzer module and trainer modules for biologically plausible plasticity; 2) canns-lib, a Rust acceleration backend delivering hundreds-of-times speedups for spatial-navigation workloads and modest gains for Ripser-based persistent homology; 3) ASA (Attractor Structure Analyzer), a PySide6 pipeline applying persistent homology and cohomology to experimental neural recordings to detect ring-like and toroidal attractor signatures in real data. The toolkit ships with full-detail reproducible pipelines that recover recent CANN results including SFA-driven anticipative tracking, theta sweeps in head-direction/place/grid systems, and hierarchical path integration."
-        },
-        {
-          "title": "Towards coevolution-aware ancestral sequence reconstruction",
-          "url": "https://arxiv.org/abs/2606.27942",
-          "domain": "arxiv.org",
-          "date": "2026-06-29T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2606.27942v1 Announce Type: new Abstract: Ancestral sequence reconstruction (ASR) is a powerful approach for studying molecular evolution and the emergence of protein function. Yet most ASR methods assume that sites evolve independently, neglecting the epistatic constraints that shape protein structure, stability, and function. This simplification affects both ancestral inference and its evaluation: maximum-a-posteriori reconstructions may over-concentrate probability into a single over-idealized sequence, whereas independent posterior sampling can generate implausible or poorly functional ancestors. Here, we introduce a coevolution-aware ASR framework that combines standard phylogenetic inference with Direct Coupling Analysis (DCA), thereby preserving site-wise ancestral uncertainty while enforcing residue-residue constraints learned from extant protein families. To benchmark the method, we develop a controlled forward-evolution framework based on a DCA evolutionary sampler, allowing reconstructed ancestors to be compared with known ground-truth sequences generated under realistic epistatic constraints. Applied to beta-lactamases and DNA-binding domains, the approach improves reconstruction when ancestral states are epistatically constrained, and yields ensembles of candidate ancestors that are both phylogenetically consistent and statistically compatible with natural protein families. This framework bridges the gap between single-sequence MAP reconstruction and unconstrained posterior sampling, providing a practical route toward ancestral reconstructions that better reflect the coupled nature of protein evolution."
         }
       ]
     },
@@ -277,6 +277,30 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "Bitcoin faces critical test as bulls aim to hold $60K: Did BTC bottom?",
+          "url": "https://cointelegraph.com/markets/bitcoin-faces-critical-test-as-bulls-aim-to-hold-60k-did-btc-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-29T21:57:57.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bitcoin’s loose hold on $60,000 and soft futures markets raise questions about whether BTC has bottomed."
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-29T21:45:00.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
+        {
+          "title": "Donald Trump has 10 days to decide on housing bill with CBDC ban",
+          "url": "https://cointelegraph.com/news/cbdc-ban-housing-bill-donald-trump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-29T21:34:08.000Z",
+          "source": "CoinTelegraph",
+          "summary": "House Speaker Mike Johnson transmitted a housing bill with a provision barring the US Federal Reserve issuing or creating a CBDC until 2030 to Donald Trump on Monday."
+        },
         {
           "title": "TD Cowen says crypto market structure bill passage ‘far from assured’ before midterm election",
           "url": "https://www.theblock.co/post/406621/td-cowen-crypto-market-structure-bill-clarity-act?utm_source=rss&utm_medium=rss",
@@ -332,30 +356,6 @@
           "date": "2026-06-29T17:57:18.000Z",
           "source": "CoinDesk",
           "summary": "The bank said bitcoin lending has emerged from the 2022 crypto credit collapse with stronger risk controls, growing institutional participation and a path toward lower borrowing costs."
-        },
-        {
-          "title": "Bitcoin balances $60K tightrope as US stocks rebound on fresh Iran peace deal hopes",
-          "url": "https://cointelegraph.com/markets/bitcoin-fails-60k-reclaim-as-us-stocks-rebound-on-new-iran-peace-hopes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-29T17:44:49.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Bitcoin faced its own battle for support as US stocks headed higher and analysts warned of a lack of \"conviction\" among BTC buyers."
-        },
-        {
-          "title": "Coinbase, Kraken and OKX move to swoop up EU users affected by MiCA restrictions",
-          "url": "https://cointelegraph.com/news/coinbase-okx-kraken-eu-users-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-29T17:42:39.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Several exchanges that have already been authorized by EU regulators are attempting to bring in users from companies unlicensed under the Markets in Crypto-Assets rules, offering transfer bonuses and prizes."
-        },
-        {
-          "title": "JPMorgan urges strong safeguards as congress weighs crypto market structure rules",
-          "url": "https://www.coindesk.com/policy/2026/06/29/jpmorgan-backs-u-s-crypto-bill-but-warns-repeatedly-of-risks-in-digital-asset-framework",
-          "domain": "coindesk.com",
-          "date": "2026-06-29T17:31:33.000Z",
-          "source": "CoinDesk",
-          "summary": "The bank says Congress should pair regulatory clarity with safeguards as Senate negotiates the Clarity Act."
         }
       ]
     }
