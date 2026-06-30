@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-30T19:19:53.168Z",
+  "updatedAt": "2026-06-30T21:14:58.136Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -188,6 +188,14 @@
       ],
       "articles": [
         {
+          "title": "AI deciphers long-range DNA signals behind RNA splicing",
+          "url": "https://phys.org/news/2026-06-ai-deciphers-range-dna-rna.html",
+          "domain": "phys.org",
+          "date": "2026-06-30T19:20:08.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Accurate RNA splicing is essential for gene expression and human health, yet predicting how DNA sequence variations affect splicing remains a major challenge. Although recent artificial intelligence (AI) models have improved splice-site prediction, many struggle to capture regulatory signals located thousands of DNA bases away from the sites they influence."
+        },
+        {
           "title": "Computer scientists develop a new AI tool that rivals AlphaFold 3 in mapping RNA",
           "url": "https://phys.org/news/2026-06-scientists-ai-tool-rivals-alphafold.html",
           "domain": "phys.org",
@@ -258,14 +266,6 @@
           "date": "2026-06-30T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2606.28969v1 Announce Type: new Abstract: Capsids are the protein shells that protect the genetic material of viruses. The precise structural description of capsids informs how viruses assemble and evolve and is key to the development of antiviral targets. Most viruses form icosahedral capsids; among these, most adopt quasi-spherical shapes, and some form elongated architectures. However, elongated capsids have been understudied, despite their decoupling of width and length providing greater control over their packaging capacity, a feature of particular interest in capsid evolution and in virus-based biotechnological platforms. A key bottleneck is the lack of tools for the analysis and design of elongated viral capsids. To that end, this article introduces Democapsid as a versatile tool for generating coordinates of both quasi-spherical and elongated (and shrunk) icosahedral capsids, as well as for producing customizable graphical models and publication-quality figures. The underlying algorithm builds on the generalized geometrical theory of viral capsids and employs numerical methods to assemble capsid elements based on folding constraints. It includes parameters controlling protein tiling associated with the eight regular icosahedral lattices, elongation axes (5-fold, 3-fold, and 2-fold), sphericity, and discrete body length for prolate (extended) and oblate (shrunk) shapes. It is available as a JavaScript browser application, a Python package powering plugins for UCSF ChimeraX and Blender, and an R package for generating reproducible documents with embedded models. The code (MIT License) is available on GitHub. Democapsid will benefit both researchers and graphic designers by enabling the investigation and communication of research on viral capsids and other icosahedral compartments."
-        },
-        {
-          "title": "Modeling Protein Evolution with Generative Models: from Extant Sequence Data to Evolutionary Dynamics",
-          "url": "https://arxiv.org/abs/2606.29529",
-          "domain": "arxiv.org",
-          "date": "2026-06-30T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2606.29529v1 Announce Type: new Abstract: Protein sequences carry a record of evolutionary history shaped by mutation, selection, drift, and epistasis. Recent generative models trained on homologous sequence families offer a new way to read this record: they define probabilistic landscapes that score sequences, generate viable variants, and capture constraints that are difficult to measure experimentally. In this review, we discuss how such landscapes can be used not only for protein design or mutation-effect prediction, but also for modeling evolutionary dynamics. We focus particularly on Direct Coupling Analysis as an interpretable and experimentally validated framework, while placing it in the broader context of generative sequence modeling. We first describe how generative sequence landscapes are inferred and assessed, then review how they can be coupled to population-genetic or substitution-model dynamics to simulate protein evolution across experimental and phylogenetic timescales. Applications include viral evolution, laboratory drift experiments, historical contingency, entrenchment, epistatic drift over time, and long-term sequence-space exploration. We conclude by discussing open challenges, including score-fitness calibration, phylogenetic structure, codon-level mutation biases, indels, and the integration of experimental data."
         }
       ]
     },
@@ -277,6 +277,54 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "ENS co-founder Nick Johnson blocks Security Council renewal with 80% of votes",
+          "url": "https://www.theblock.co/post/406767/ens-co-founder-nick-johnson-blocks-security-council-renewal-with-80-of-votes?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-30T21:09:48.000Z",
+          "source": "The Block",
+          "summary": "Johnson cited unaddressed concerns with the Security Council while backing an alternative proposal submitted on Tuesday."
+        },
+        {
+          "title": "Phantom doubles down on perpetual futures with hire of Hyperliquid market builders",
+          "url": "https://www.coindesk.com/business/2026/06/30/phantom-doubles-down-on-perpetual-futures-with-hire-of-hyperliquid-market-builders",
+          "domain": "coindesk.com",
+          "date": "2026-06-30T21:00:19.000Z",
+          "source": "CoinDesk",
+          "summary": "The crypto wallet is doubling down on perpetual futures after hiring the builders behind one of Hyperliquid's highest-profile market experiments."
+        },
+        {
+          "title": "SEC seeks public comment on regulating next generation of ETFs",
+          "url": "https://cointelegraph.com/news/sec-seeks-public-comment-on-regulating-novel-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-30T20:38:51.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The request from the US agency seeks feedback on how emerging ETF structures and investment strategies should be regulated as issuers roll out increasingly specialized products."
+        },
+        {
+          "title": "Companies spending the most on AI are growing jobs, Ramp study finds",
+          "url": "https://www.coindesk.com/business/2026/06/30/companies-spending-the-most-on-ai-are-growing-jobs-ramp-study-finds",
+          "domain": "coindesk.com",
+          "date": "2026-06-30T20:21:49.000Z",
+          "source": "CoinDesk",
+          "summary": "A new study from Ramp found companies making the biggest investments in AI are expanding their workforces, with heavy adopters increasing headcount by about 10% and entry-level hiring by 12%, challenging fears that generative AI is already causing widespread job losses."
+        },
+        {
+          "title": "Circle shares sink 16% after Open USD reveal, analysts say fears are ‘overblown’",
+          "url": "https://www.theblock.co/post/406758/circle-shares-sink-16-open-usd-reveal-analysts-say-fears-overblown?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-30T19:34:38.000Z",
+          "source": "The Block",
+          "summary": "William Blair reiterated its Outperform rating on Circle's CRCL stock, calling Tuesday's selloff a buying opportunity."
+        },
+        {
+          "title": "Financial companies join forces for US dollar stablecoin, keeping reserve earnings",
+          "url": "https://cointelegraph.com/news/financial-companies-us-dollar-payment-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-30T19:31:41.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The project, supported by Visa, Mastercard and many crypto companies, could be in a position to challenge Tether’s USDT and Circle’s USDC, currently the two largest stablecoins by market capitalization."
+        },
         {
           "title": "Nasdaq brings proprietary market data onchain through Pyth",
           "url": "https://cointelegraph.com/news/nasdaq-brings-proprietary-market-data-onchain-through-pyth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -308,54 +356,6 @@
           "date": "2026-06-30T17:51:57.000Z",
           "source": "CoinDesk",
           "summary": "Managers of exchange-traded funds, including those in the crypto sector, may see some changes at the Securities and Exchange Commission as it weighs its approach."
-        },
-        {
-          "title": "AI’s power crunch turns Bitcoin miners’ grid access into an asset",
-          "url": "https://cointelegraph.com/features/bitcoin-miners-ai-data-centers-power-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-30T17:44:31.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Bitcoin miners have the power sites AI companies need, but turning old mining campuses into real data center revenue is no easy pivot."
-        },
-        {
-          "title": "SEC opens ETF rule review following crypto fund surge, prediction markets push",
-          "url": "https://www.theblock.co/post/406750/sec-opens-etf-rule-review-following-crypto-fund-surge-prediction-markets-push?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-30T17:19:48.000Z",
-          "source": "The Block",
-          "summary": "The SEC is taking a fresh look at how a proposed fast-growing new class of ETFs tied to prediction markets should be regulated."
-        },
-        {
-          "title": "Crypto companies have spent $189M so far on 2026 US election cycle: Report",
-          "url": "https://cointelegraph.com/news/crypto-companies-spent-2026-us-election-cycle-public-citizen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-30T17:19:17.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The crypto industry, big tech and gambling interest groups are betting big on politicians in the 2026 primaries and elections, with almost $300 million shelled out so far."
-        },
-        {
-          "title": "Business use of stablecoins set for growth surge: Cybrid report",
-          "url": "https://cointelegraph.com/news/42-of-businesses-surveyed-use-stablecoins-for-cross-border-payments-cybrid-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-30T16:34:31.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The majority of businesses surveyed are likely to use stablecoins within the next 12 months, while regulatory clarity remained the biggest barrier to wider adoption."
-        },
-        {
-          "title": "Chinese exile once linked to Trump strategist gets 30-year sentence in $1 billion fraud",
-          "url": "https://www.coindesk.com/policy/2026/06/30/chinese-exile-once-linked-to-trump-strategist-gets-30-year-sentence-in-usd1-billion-fraud",
-          "domain": "coindesk.com",
-          "date": "2026-06-30T16:31:46.000Z",
-          "source": "CoinDesk",
-          "summary": "The businessman known as Miles Guo, who pushed the fraudulent H-Coin project and had close ties to Steve Bannon, was finally sentenced after his 2024 conviction."
-        },
-        {
-          "title": "Here’s what happened in crypto today",
-          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-30T15:31:03.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
         }
       ]
     }
