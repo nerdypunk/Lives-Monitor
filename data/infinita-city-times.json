@@ -1,8 +1,14 @@
 {
   "source": "Infinita City Times",
   "feed": "https://www.infinitacitytimes.com/feed",
-  "updatedAt": "2026-06-30T21:14:56.434Z",
+  "updatedAt": "2026-06-30T22:43:31.357Z",
   "items": [
+    {
+      "title": "Infinita Newsletter: June ’26",
+      "link": "https://www.infinitacitytimes.com/p/infinita-newsletter-june-26",
+      "date": "Tue, 30 Jun 2026 21:39:35 GMT",
+      "summary": "Infinita Startup Week is here! + Could the Next Silicon Valley Be a Country?"
+    },
     {
       "title": "Infinita Startup Week @ The Free Cities Conference",
       "link": "https://www.infinitacitytimes.com/p/infinita-startup-week-the-free-cities",
@@ -56,12 +62,6 @@
       "link": "https://www.infinitacitytimes.com/p/ep-109-jonathan-anomaly-on-the-future",
       "date": "Thu, 21 May 2026 14:01:22 GMT",
       "summary": "From broken institutions to startup societies"
-    },
-    {
-      "title": "Why You Can't Use Your \"Right to Try\"",
-      "link": "https://www.infinitacitytimes.com/p/why-you-cant-use-your-right-to-try",
-      "date": "Mon, 11 May 2026 22:33:32 GMT",
-      "summary": "The Availability Problem:"
     }
   ]
 }

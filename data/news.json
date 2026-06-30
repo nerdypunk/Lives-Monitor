@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-30T21:14:58.136Z",
+  "updatedAt": "2026-06-30T22:43:45.802Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -9,12 +9,12 @@
       ],
       "articles": [
         {
-          "title": "Bio Protocol launches AI research hub to challenge grant gatekeepers - crypto.news",
+          "title": "Bio Protocol launches AI research hub to challenge grant gatekeepers - Crypto News",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNFh5NE1hUkt5RnVBaFFuVU1HYzgxZzBkU0huOXprTVpRV0xWVDJjZEF3LUtqNkZWWDZVU0E5Wm16ZHljR0dYanI2eDZnYnVCQVA0UzJMTmNQekFtMXhxbTRmWmU0cVBfczBKTURTZ0Jnc2s3QkFMdVpuNlNyeks1azhVUHpHYkNQbno0ZGR6aVZuY2c?oc=5",
           "domain": "crypto.news",
           "date": "2026-06-20T12:53:08.000Z",
-          "source": "crypto.news",
-          "summary": "Bio Protocol launches AI research hub to challenge grant gatekeepers &nbsp;&nbsp; crypto.news"
+          "source": "Crypto News",
+          "summary": "Bio Protocol launches AI research hub to challenge grant gatekeepers &nbsp;&nbsp; Crypto News"
         },
         {
           "title": "NanoVita Joins ENI Super Node Ecosystem to Advance AI-Driven DeSci - Cryptonews.net",
@@ -98,6 +98,46 @@
       ],
       "articles": [
         {
+          "title": "Designs for Health launches GLP-1 Akkermansia probiotic",
+          "url": "https://longevity.technology/news/designs-for-health-launches-glp-1-akkermansia-probiotic/",
+          "domain": "longevity.technology",
+          "date": "2026-06-30T17:47:23.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Designs for Health launches gut-focused probiotic formula aimed at metabolic health and weight management. Two questions are shaping the future of the microbiome industry. First, if researchers have spent years studying pasteurized forms of Akkermansia for metabolic health, what happens when live versions of the bacterium are paired with clinically studied postbiotics designed to support […] The post Designs for Health launches GLP-1 Akkermansia probiotic appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "Zymeworks buys cash-generating COPD asset for $929m",
+          "url": "https://longevity.technology/news/zymeworks-buys-cash-generating-copd-asset-for-929m/",
+          "domain": "longevity.technology",
+          "date": "2026-06-30T17:46:40.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Theravance deal gives biotech firm a marketed medicine, reliable cash flow and more room to invest in future therapies. What if the next breakthrough cancer medicine isn’t funded by another round of venture capital, but by a drug that’s already sitting on pharmacy shelves? That’s the bigger story behind Zymeworks’ $929 million acquisition of Theravance […] The post Zymeworks buys cash-generating COPD asset for $929m appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "Future Biotech Expo brings longevity into focus",
+          "url": "https://longevity.technology/news/future-biotech-expo-brings-longevity-into-focus/",
+          "domain": "longevity.technology",
+          "date": "2026-06-30T17:45:57.000Z",
+          "source": "Longevity.Technology",
+          "summary": "AI-driven discovery, precision medicine, translational science: Houston’s new expo borrows from the longevity playbook. Future Biotech Expo 2026 lands at the Hilton Houston North on 19–20 August. The billing is deliberately broad: AI-driven drug discovery, cell and gene therapy, advanced therapeutics, precision medicine, biotech investment. More than 2,500 delegates are expected. Nowhere does the word […] The post Future Biotech Expo brings longevity into focus appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "Aptorum-backed DiamiR expands Alzheimer’s diagnostic efforts",
+          "url": "https://longevity.technology/news/aptorum-backed-diamir-expands-alzheimers-diagnostic-efforts/",
+          "domain": "longevity.technology",
+          "date": "2026-06-30T17:44:43.000Z",
+          "source": "Longevity.Technology",
+          "summary": "AlzLabs collaboration comes as Aptorum and DiamiR prepare to become Niki BioSolutions, raising questions about future of brain diagnostics. Alzheimer’s disease develops silently over many years, yet confirming what’s happening inside the brain often requires some of medicine’s most expensive and least accessible tools. Amyloid PET scans, which can reveal hallmark Alzheimer’s pathology, remain the […] The post Aptorum-backed DiamiR expands Alzheimer’s diagnostic efforts appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "Houdini Bio aims to unlock longer-lasting gene therapies",
+          "url": "https://longevity.technology/news/houdini-bio-aims-to-unlock-longer-lasting-gene-therapies/",
+          "domain": "longevity.technology",
+          "date": "2026-06-30T16:31:21.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Startup’s ‘escape artist’ approach could help therapeutic DNA evade cellular silencing – with future implications for neurodegeneration. Gene therapies have transformed the outlook for a growing number of inherited diseases, yet one stubborn obstacle remains. Delivering therapeutic DNA into cells is only half the battle; persuading those cells not to switch it off can prove […] The post Houdini Bio aims to unlock longer-lasting gene therapies appeared first on Longevity.Technology ."
+        },
+        {
           "title": "Study Maps Existing Drugs to the Hallmarks of Aging",
           "url": "https://lifespan.io/study-maps-existing-drugs-to-the-hallmarks-of-aging/",
           "domain": "lifespan.io",
@@ -106,76 +146,36 @@
           "summary": "A new study suggests a way to predict whether existing drugs can extend human lifespan. This method uses a network approach that detects longevity signals in protein interactions [1]. Slowing aging with existing drugs? Finding […]"
         },
         {
-          "title": "How a Primate-Specific RNA Strand Worsens Senescence",
-          "url": "https://lifespan.io/how-a-primate-specific-rna-strand-worsens-senescence/",
-          "domain": "lifespan.io",
-          "date": "2026-06-29T21:02:28.000Z",
-          "source": "Lifespan.io",
-          "summary": "Researchers have discovered a primate-specific piece of non-coding RNA that is linked to aging and makes senescence worse. The packing matters While non-coding RNA strands (ncRNAs) do not themselves produce […]"
+          "title": "NeuroSense advances to Phase 3 trials after successful ALS drug study",
+          "url": "https://longevity.technology/news/neurosense-advances-to-phase-3-trials-after-successful-als-drug-study/",
+          "domain": "longevity.technology",
+          "date": "2026-06-30T11:36:27.000Z",
+          "source": "Longevity.Technology",
+          "summary": "NeuroSense announced that its Phase 2b PARADIGM study of PrimeC in amyotrophic lateral sclerosis met its pre-specified primary efficacy endpoint, demonstrating a statistically significant reduction in neuron-derived tdp-43 at day 180 (p=0.0421), according to the company. The company reported the reduction deepened and was sustained through 18 months, with continuously treated participants maintaining lower tdp-43 […] The post NeuroSense advances to Phase 3 trials after successful ALS drug study appeared first on Longevity.Technology ."
         },
         {
-          "title": "Cell Type-Specific Aging Predicts Disease Onset",
-          "url": "https://lifespan.io/cell-type-specific-aging-predicts-disease-onset/",
-          "domain": "lifespan.io",
-          "date": "2026-06-26T15:11:47.000Z",
-          "source": "Lifespan.io",
-          "summary": "A new study has used aging trajectories of various cell types to predict diseases such as Alzheimer’s and lung cancer [1]. This expands on previous research into organ-specific aging. Age […]"
+          "title": "Insilico Medicine to showcase new AI systems for pharmaceutical research",
+          "url": "https://longevity.technology/news/insilico-medicine-to-showcase-new-ai-systems-for-pharmaceutical-research/",
+          "domain": "longevity.technology",
+          "date": "2026-06-30T11:31:27.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Insilico Medicine has promoted its Pharma.ai Webinar 2026 Q2 Summer Updates, scheduled for 30 June from 10:00 to 11:00 a.m. EST. The announcement outlines a program focused on foundation models and domain-specific AI systems applied to biological, chemical and translational research. The company claims an AI trains AI approach that integrates foundation models with specialized […] The post Insilico Medicine to showcase new AI systems for pharmaceutical research appeared first on Longevity.Technology ."
         },
         {
-          "title": "Upregulating a Key Cartilage Factor Leads to Osteoarthritis",
-          "url": "https://lifespan.io/upregulating-a-key-cartilage-factor-leads-to-osteoarthritis/",
-          "domain": "lifespan.io",
-          "date": "2026-06-25T20:25:54.000Z",
-          "source": "Lifespan.io",
-          "summary": "Researchers have found that sustained expression of excess hypoxia-inducible factor (HIF)-1α leads to unwanted formation of blood vessels (angiogenesis) that destroys cartilage and causes osteoarthritis. A necessary but destructive factor Being required for extracellular […]"
+          "title": "United Therapeutics receives FDA approval for LungFX device",
+          "url": "https://longevity.technology/news/united-therapeutics-receives-fda-approval-for-lungfx-device/",
+          "domain": "longevity.technology",
+          "date": "2026-06-30T10:36:02.000Z",
+          "source": "Longevity.Technology",
+          "summary": "United Therapeutics announced that the U.S. Food and Drug Administration has granted premarket approval of the LungFX device for centralized ex vivo lung perfusion. The device is indicated for centralized evaluation of deceased-donor single and double lungs that cannot be placed for transplantation by an organ procurement organization using direct-to-recipient procedures and provides normothermic perfusion […] The post United Therapeutics receives FDA approval for LungFX device appeared first on Longevity.Technology ."
         },
         {
-          "title": "NeuroAge Therapeutics Launches Younger 2027",
-          "url": "https://lifespan.io/neuroage-therapeutics-launches-younger-2027/",
-          "domain": "lifespan.io",
-          "date": "2026-06-25T15:50:36.000Z",
-          "source": "Lifespan.io",
-          "summary": "NeuroAge Therapeutics announced Younger 2027, a six-month biological aging contest in which competitors are measured on a clinical-grade aging panel and retested six months later. Baseline testing kits begin shipping September 1, 2026, with at-home baseline testing open through February […]"
-        },
-        {
-          "title": "Glycosylation’s Role in Alzheimer’s Disease",
-          "url": "https://lifespan.io/glycosylations-role-in-alzheimers-disease/",
-          "domain": "lifespan.io",
-          "date": "2026-06-24T16:11:21.000Z",
-          "source": "Lifespan.io",
-          "summary": "A recent study suggests that hyperglycosylation in brain tissue can be a hallmark of Alzheimer’s disease [1]. Lesser-known Alzheimer’s molecular features […]"
-        },
-        {
-          "title": "Biological Aging May Be Driving Increased Early-Onset Cancer",
-          "url": "https://lifespan.io/biological-aging-may-be-driving-increased-early-onset-cancer/",
-          "domain": "lifespan.io",
-          "date": "2026-06-23T16:18:19.000Z",
-          "source": "Lifespan.io",
-          "summary": "A new study links accelerated aging to early-onset solid cancers, while showing that this gap is becoming wider with each new generation [1]. Why do more young people get cancer? While […]"
-        },
-        {
-          "title": "A Transcriptional Failure Leads to Systemic Inflammation",
-          "url": "https://lifespan.io/a-transcriptional-failure-leads-to-systemic-inflammation/",
-          "domain": "lifespan.io",
-          "date": "2026-06-22T18:11:55.000Z",
-          "source": "Lifespan.io",
-          "summary": "Researchers have found that bound pieces of RNA and DNA in the cytoplasm of senescent cells encourage these cells to secrete inflammatory factors. When transcription gets sticky As part of the transcription […]"
-        },
-        {
-          "title": "Epigenetic Drug Targets Fat, Improving Blood Vessel Health",
-          "url": "https://lifespan.io/epigenetic-drug-targets-fat-improving-blood-vessel-health/",
-          "domain": "lifespan.io",
-          "date": "2026-06-19T17:04:10.000Z",
-          "source": "Lifespan.io",
-          "summary": "Scientists have targeted the thin fat layer around blood vessels with a transcription inhibitor, reducing symptoms of cardiometabolic disease [1]. When vessels can’t “just relax” Cardiometabolic disease (CMD) – characterized, among other things, by obesity combined with […]"
-        },
-        {
-          "title": "How Antioxidants Can Selectively Remove Some Senescent Cells",
-          "url": "https://lifespan.io/how-antioxidants-can-selectively-remove-some-senescent-cells/",
-          "domain": "lifespan.io",
-          "date": "2026-06-18T18:15:22.000Z",
-          "source": "Lifespan.io",
-          "summary": "In Aging Cell, researchers have described the way that antioxidants work against senescence in muscle cells by altering mTOR signaling. Senescent […]"
+          "title": "4DMT finishes enrollment early for Phase 3 trial of long-acting wet AMD eye drug",
+          "url": "https://longevity.technology/news/4dmt-finishes-enrollment-early-for-phase-3-trial-of-long-acting-wet-amd-eye-drug/",
+          "domain": "longevity.technology",
+          "date": "2026-06-30T10:31:02.000Z",
+          "source": "Longevity.Technology",
+          "summary": "4DMT has completed global enrollment for 4FRONT-2, the second Phase 3 study of 4D-150 in wet age-related macular degeneration, the company announced on 29 June 2026. According to the company, enrollment finished approximately four months ahead of initial projections and the trial over-enrolled relative to an anticipated sample size above 500, with final patient randomization […] The post 4DMT finishes enrollment early for Phase 3 trial of long-acting wet AMD eye drug appeared first on Longevity.Technology ."
         }
       ]
     },
@@ -278,6 +278,46 @@
       ],
       "articles": [
         {
+          "title": "Trump pocketed more than $1 billion from crypto ties as industry headed toward slump",
+          "url": "https://www.coindesk.com/policy/2026/06/30/trump-pocketed-more-than-usd1-billion-from-crypto-ties-as-industry-headed-toward-slump",
+          "domain": "coindesk.com",
+          "date": "2026-06-30T22:28:15.000Z",
+          "source": "CoinDesk",
+          "summary": "The president has capitalized massively on crypto, according to his 2025 financial disclosure, making it one of his most lucrative business moves."
+        },
+        {
+          "title": "President Trump’s financial disclosures show hundreds of millions in crypto-related income",
+          "url": "https://www.theblock.co/post/406782/president-trump-financial-disclosures-hundreds-millions-crypto-related-income?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-30T22:16:29.000Z",
+          "source": "The Block",
+          "summary": "Trump disclosed over $65 million from equity sales and $236 million in World Liberty token proceeds."
+        },
+        {
+          "title": "Bitcoin just $5K away from ‘best investment opportunity’ of bear market",
+          "url": "https://cointelegraph.com/markets/bitcoin-is-just-a-5k-drop-away-from-its-best-investment-opportunity-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-30T21:49:08.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bitcoin's recent selloff brought it within 10% of its realized price — a line that has marked the bottoming zone in Bitcoin's previous bear markets."
+        },
+        {
+          "title": "Massachusetts AG files amended lawsuit against Kalshi over sports betting after court ruling",
+          "url": "https://cointelegraph.com/news/massachusetts-lawsuit-kalshi-sports-betting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-30T21:44:48.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The amended complaint, granted by a judge on Tuesday, included allegations that Kalshi targeted users under 21 years old through social media and marketing on university campuses."
+        },
+        {
+          "title": "Bitmine Ether buys eclipsed by $345M ETH ETF $345M outflows: Is sub $1.5K next?",
+          "url": "https://cointelegraph.com/markets/bitmine-ether-buys-eclipsed-by-345m-eth-etf-345m-outflows-is-sub-15k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-30T21:16:47.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Tokenization and RWA TVL growth highlight Ethereum’s fundamentals, but stagnant DApps and spot ETF outflows keep the pressure on ETH price."
+        },
+        {
           "title": "ENS co-founder Nick Johnson blocks Security Council renewal with 80% of votes",
           "url": "https://www.theblock.co/post/406767/ens-co-founder-nick-johnson-blocks-security-council-renewal-with-80-of-votes?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
@@ -316,46 +356,6 @@
           "date": "2026-06-30T19:34:38.000Z",
           "source": "The Block",
           "summary": "William Blair reiterated its Outperform rating on Circle's CRCL stock, calling Tuesday's selloff a buying opportunity."
-        },
-        {
-          "title": "Financial companies join forces for US dollar stablecoin, keeping reserve earnings",
-          "url": "https://cointelegraph.com/news/financial-companies-us-dollar-payment-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-30T19:31:41.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The project, supported by Visa, Mastercard and many crypto companies, could be in a position to challenge Tether’s USDT and Circle’s USDC, currently the two largest stablecoins by market capitalization."
-        },
-        {
-          "title": "Nasdaq brings proprietary market data onchain through Pyth",
-          "url": "https://cointelegraph.com/news/nasdaq-brings-proprietary-market-data-onchain-through-pyth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-30T18:46:29.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The partnership extends distribution of Nasdaq's TotalView market data to blockchain applications and other software platforms through Pyth's marketplace."
-        },
-        {
-          "title": "Why OpenUSD's 'real threat' that tanked Circle stock still faces a steep uphill battle for adoption",
-          "url": "https://www.coindesk.com/business/2026/06/30/why-the-openusd-s-real-threat-that-tanked-circle-stock-still-faces-a-steep-uphill-battle-for-adoption",
-          "domain": "coindesk.com",
-          "date": "2026-06-30T18:39:06.000Z",
-          "source": "CoinDesk",
-          "summary": "The Stripe- and Coinbase-backed stablecoin consortium can challenge Circle's business model, but analysts say building a network is harder than assembling big-name partners."
-        },
-        {
-          "title": "Bitcoin price risks drop below $58K as US dollar hits 40-year high against yen",
-          "url": "https://cointelegraph.com/markets/bitcoin-price-slumps-to-near-58k-as-us-dollar-hits-40-year-high-against-yen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-30T18:17:56.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Bitcoin faced downside pressure as the US dollar hit its highest levels against the Japanese yen since 1986, while BTC price analysis revealed \"capitulation\" by 2025 top-buyers."
-        },
-        {
-          "title": "SEC giving novel ETFs a rethink as it opens comment period on overhauling U.S. rules",
-          "url": "https://www.coindesk.com/policy/2026/06/30/sec-giving-novel-etfs-a-rethink-as-it-opens-comment-period-on-overhauling-u-s-rules",
-          "domain": "coindesk.com",
-          "date": "2026-06-30T17:51:57.000Z",
-          "source": "CoinDesk",
-          "summary": "Managers of exchange-traded funds, including those in the crypto sector, may see some changes at the Securities and Exchange Commission as it weighs its approach."
         }
       ]
     }
