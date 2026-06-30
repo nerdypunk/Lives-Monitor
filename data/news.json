@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-30T01:50:36.242Z",
+  "updatedAt": "2026-06-30T06:16:09.332Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -188,84 +188,84 @@
       ],
       "articles": [
         {
-          "title": "Rare inner ear cells point to regenerative hearing treatments",
-          "url": "https://phys.org/news/2026-06-rare-ear-cells-regenerative-treatments.html",
-          "domain": "phys.org",
-          "date": "2026-06-29T22:20:07.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "A study by a team of researchers from the Gray Faculty of Medical and Health Sciences at Tel Aviv University offers new hope to millions of people with irreversible hearing loss. The researchers identified a unique biological mechanism that could, in the future, enable the regeneration of sensory hair cells in the inner ear—a process previously thought impossible in humans."
-        },
-        {
-          "title": "New cellular model for rare and deadly melanomas enables study of immunotherapy resistance",
-          "url": "https://phys.org/news/2026-06-cellular-rare-deadly-melanomas-enables.html",
-          "domain": "phys.org",
-          "date": "2026-06-29T22:00:08.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "A research team at the University of Turku in Finland has developed a reliable laboratory model to study BAP1-deficient melanomas, which are a rare type of melanoma that evade the immune system once they have metastasized and are universally resistant to current state-of-the-art immunotherapies. The tool could change how therapies are developed for aggressive melanomas that currently have almost no effective treatment options."
-        },
-        {
-          "title": "Structural blueprint for RNA therapeutics reveals why some siRNA molecules work better than others",
-          "url": "https://phys.org/news/2026-06-blueprint-rna-therapeutics-reveals-sirna.html",
-          "domain": "phys.org",
-          "date": "2026-06-29T21:10:04.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "RNA interference is a natural mechanism for living cells to control whether specific genes are being used. Crowned with the 2006 Nobel Prize in Physiology or Medicine, the discovery of RNA interference has since been harnessed by scientists to create a powerful and growing class of drugs capable of suppressing disease-related genes. Seven such drugs have already received Food and Drug Administration (FDA) approval, including inclisiran, which can replace daily cholesterol-lowering pills with twice-yearly injections. Despite these clinical successes, the molecular details of how the system executes its cuts remained poorly understood."
-        },
-        {
-          "title": "Online calculator shows how drastically mowing affects insects",
-          "url": "https://phys.org/news/2026-06-online-drastically-affects-insects.html",
-          "domain": "phys.org",
-          "date": "2026-06-29T14:20:01.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "How many insects and spiders live in 1 square meter (11 square feet) of meadow? What impact do humans have on this biodiversity in mowed meadows, lawns and roadside verges? A new online tool answers these questions: the Insect Calculator, developed by researchers at TU Darmstadt."
-        },
-        {
-          "title": "Red-tailed hawks maintain flight performance despite missing feathers",
-          "url": "https://phys.org/news/2026-06-red-tailed-hawks-flight-feathers.html",
-          "domain": "phys.org",
-          "date": "2026-06-29T14:00:03.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Red-tailed hawks can compensate for feather loss during molt by subtly changing their wing and tail movements, according to a new study by University of California, Davis, researchers in the College of Engineering and the Weill School of Veterinary Medicine."
-        },
-        {
-          "title": "DNA databases unite to create a fully open resource for transposable element research",
-          "url": "https://phys.org/news/2026-06-dna-databases-fully-resource-transposable.html",
-          "domain": "phys.org",
-          "date": "2026-06-29T13:40:07.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "For more than three decades, researchers studying genomes have relied on foundational resources such as Repbase and, more recently, Dfam to identify and classify transposable elements—the mobile DNA sequences that shape genome structure, evolution and function. Now, Dfam and Repbase are coming together under a single, fully open framework."
-        },
-        {
-          "title": "Toward experiment-guided AlphaFold: Researchers overcome AI tool's single-conformation limitation",
-          "url": "https://phys.org/news/2026-06-alphafold-ai-tool-conformation-limitation.html",
-          "domain": "phys.org",
-          "date": "2026-06-29T09:00:01.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "The AI-based program AlphaFold predicts a protein's 3D structure with remarkable accuracy. However, it tends to reduce heterogeneous structures to a single dominant conformation, or shape, and overlooks experimental conditions that can alter local structure. Researchers at the Institute of Science and Technology Austria (ISTA) and international collaborators have now developed a way to guide AlphaFold with experimental data. Their approach, published in Nature Biotechnology, paves the way for improved future predictive models."
-        },
-        {
-          "title": "GRAFT: Biological Graph and Hypergraph Benchmarks for Linked Gene Expression and Phenotypic Trait Prediction in Arabidopsis thaliana",
-          "url": "https://arxiv.org/abs/2606.27413",
+          "title": "Metabolic scaling, von Bertalanffy growth and an exponent equation",
+          "url": "https://arxiv.org/abs/2606.28418",
           "domain": "arxiv.org",
-          "date": "2026-06-29T04:00:00.000Z",
+          "date": "2026-06-30T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2606.27413v1 Announce Type: new Abstract: Understanding which genes control which traits in an organism remains one of the central challenges in biology. Despite significant advances in data collection technology, our ability to map genes to traits is still limited. This genome-to-phenome (G2P) challenge spans several problem domains, including plant breeding, and requires methods capable of reasoning over high-dimensional, heterogeneous, and biologically structured data. Current datasets and data repositories, however, are not well-equipped for this task. Current studies do not link gene expression and trait data, and most focus on very specific traits, limiting the breadth of possible correlations. To address this gap, we present the novel Gene-Graph Regression for Arabidopsis Functional Traits (GRAFT) dataset, a curated multi-modal dataset linking gene expression profiles with phenotypic trait measurements in Arabidopsis thaliana, a model organism in plant biology. GRAFT supports tasks such as phenotype prediction and interpretable graph learning. In addition, we benchmark conventional regression and explanatory baselines, including a biologically-informed hypergraph baseline, to validate gene-trait associations. To the best of our knowledge, this is the first dataset to provide multimodal gene information and heterogeneous trait or phenotype data for the same Arabidopsis thaliana specimens. With GRAFT, we aim to foster research to accurately understand the relationship between genotypes and phenotypes using gene information, higher-order gene pairings, and trait data from multiple sources."
+          "summary": "arXiv:2606.28418v1 Announce Type: new Abstract: In this work, we interpret developmental growth as a metabolic energy allocation problem and link the von Bertalanffy growth model to metabolic energy investments into the growth channel. Using a framework that specifies how metabolic energy is allocated among baseline maintenance, growth, and other processes, we analyse the resulting growth allocation patterns and derive direct relationships between key scaling exponents: the mass-growth exponent, the length-based exponent, the metabolic scaling exponent, and the geometric exponent, which describes the mass-length relationship. These exponents determine the metabolic investment exponent, which controls the qualitative behaviour of the growth-allocation function. Requiring the inferred allocation fraction to remain biologically feasible, we derive constraints on developmental velocity and characteristic mass scales. This provides a physical, energy-based interpretation of phenomenological growth curves and clarifies how metabolic scaling, geometric scaling, and growth dynamics are interrelated within a single allocation framework."
         },
         {
-          "title": "Modelling chronic stress as an excitatory-inhibitory perturbation in recurrent working-memory networks",
-          "url": "https://arxiv.org/abs/2606.27529",
+          "title": "Establishing the Minimal Clinically Important Difference (MCID) for Smartphone-Derived Gait Measures in Multiple Sclerosis",
+          "url": "https://arxiv.org/abs/2606.28449",
           "domain": "arxiv.org",
-          "date": "2026-06-29T04:00:00.000Z",
+          "date": "2026-06-30T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2606.27529v1 Announce Type: new Abstract: Stress is an adaptive response coordinated by neural and physiological systems. While acute stress can enhance survival, chronic stress drives structural brain changes, cognitive dysfunction, and increased psychiatric risk. At the cellular level, chronic stress shifts the excitatory-inhibitory (E/I) balance of prefrontal pyramidal neurons toward inhibitory dominance, yet the mechanisms underlying these alterations are still unknown. We here investigate possible mechanisms causing inhibitory dominance using recurrent neuronal networks trained on a working memory task. Chronic stress is modelled as a modulation in synaptic strength or neuronal activity, systematically comparing eight candidate operators against three experimentally motivated signatures of stress-induced prefrontal dysfunction: inhibitory dominance, excitatory hypofunction, and impaired task performance. These signatures are all recovered by a single stress mechanism, stronger inhibitory-to-excitatory synapses. Contrasting naive networks with resilient networks trained under the stress mechanism, we find that resilience training not only preserves task performance under stress, but also confines the network to the same dynamical subspace and energetic regime with and without stress. This resilience comes at a cost: resilient networks generalise less well when the task requires longer memory than seen during training, indicating that resilient networks find a specialised solution tuned to the trained regime. This trade-off between resilience and generalization performance persists across stress magnitude and network size, offering a computational analogue of the shift toward rigid, habit-like behaviour reported in animal following chronic stress."
+          "summary": "arXiv:2606.28449v1 Announce Type: new Abstract: Background: Digital health technologies allow for frequent, remote gait monitoring in people with multiple sclerosis (MS). However, to differentiate daily variability from actual disease progression in longitudinal data, established minimal clinically important differences (MCID) are required. Currently, there is limited literature defining these thresholds for digital gait metrics. Objective: To establish MCIDs for digital gait measures reflecting progression in MS. Methods: Digital gait measures were captured via daily, remote, smartphone-based Two-Minute Walk Tests in CONSONANCE (NCT03523858), a phase 3b study of ocrelizumab in progressive MS. Using an anchor-based approach, median changes from baseline at Week 96 on digital gait measures were computed for patients showing clinically meaningful worsening on either Timed 25-Foot Walk, Ambulation Score, Expanded Disability Status Scale, or 12-item Multiple Sclerosis Walking Scale. These changes were subsequently triangulated to derive the MCID estimates. Results: 243 patients with progressive MS (female: n=125 (51%); mean [SD] age: 49.3 [9.3]; mean [SD] EDSS: 4.8 [1.4]) had digital gait data available at baseline and Week 96. Median changes were generally consistent across anchors. Triangulated MCIDs are: Step Velocity = -0.16 m/s, Step Velocity Scaled to Walking Time = -0.18 m/s, Step Duration = 0.06 s, Step Length = -0.07 m, Total Number of Steps = -28, and Total Distance Walked = -24 m. Conclusion: These MCIDs provide a framework for interpreting meaningful gait changes and integrating digital measures into MS outcome evaluation. Beyond facilitating novel clinical trial endpoints to evaluate treatment efficacy, they enable objective, real-world monitoring to advance personalized patient care."
         },
         {
-          "title": "BEAGLE 4.1: A high-performance library for computation on phylogenetic trees across diverse parallel architectures",
-          "url": "https://arxiv.org/abs/2606.27607",
+          "title": "SVC-Probe: A Framework for Evaluating Perturbation Generalization in Spatial Foundation-Model Embeddings",
+          "url": "https://arxiv.org/abs/2606.28465",
           "domain": "arxiv.org",
-          "date": "2026-06-29T04:00:00.000Z",
+          "date": "2026-06-30T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2606.27607v1 Announce Type: new Abstract: Efficient evaluation of sequence data likelihoods and their high-dimensional gradients on phylogenetic trees improves inference under both maximum-likelihood and Bayesian frameworks. Here, we present BEAGLE 4.1, a high-performance library for statistical phylogenetics that incorporates new algorithms to evaluate these gradients on phylogenetic trees. We also provide new hardware implementations for both likelihoods and gradients supporting ARM NEON intrinsics and optimized matrix multiplication units -- called tensor cores -- on NVIDIA graphics processing units (GPUs). We benchmark the performance scaling of the library across a number of patterns and taxa on multi-core CPUs and GPUs, and compare the speedup afforded by NVIDIA and AMD GPUs as well as performance scaling with an increasing number of GPUs. We show that multi-core CPU implementations provide up to a fourfold speedup over single-threaded CPU implementations and up to an tenfold speedup for nucleotide and codon models, respectively, with performance generally improving as the number of taxa and site patterns increases. GPUs outperform multi-threaded CPU implementations for a realistic number of patterns, even for nucleotide models with a small state-space size of 4, while for codon models they provide substantially higher performance gains even for a single pattern or four taxa. Tensor cores on GPUs provide up to 2-fold speedup relative to standard CUDA cores for codon models. Using NEON instructions on ARM CPUs affords up to a $\\sim 1.3$-fold speedup over non-SIMD implementation with the speedup going down to 1.1-fold at 8 CPU threads. We provide these new algorithms to evaluate the gradient and efficient hardware implementations for both likelihood and gradient calculations through BEAGLE 4.1, such that they can be readily integrated into phylogenetic software packages."
+          "summary": "arXiv:2606.28465v1 Announce Type: new Abstract: This work examines perturbation generalization in spatial foundation-model embeddings derived from fluorescence microscopy images. Although these models can discriminate drug conditions accurately, it remains unclear whether the learned representations reflect patterns consistent with expected perturbation axes that transfer across drugs. We introduce SVC-Probe, a perturbation-aware framework that combines Subcellular Embedding Atlas Stability, Mondrian Neighborhood Graphs, and a Foundation Model Perturbation Probe to assess embedding stability, neighborhood rewiring, and centroid prediction under drug treatment. Applied to the CM4AI MDA-MB-468 chemical-perturbation atlas comprising 462 antibody labels and SubCell 1536-dimensional embeddings, SVC-Probe demonstrates that 98.6% three-way condition accuracy does not correlate with reliable cross-drug prediction, with cosine similarity diminishing from 0.944 in-domain to 0.30 under leave-one-drug-out evaluation, constituting a two-drug stress test rather than a general benchmark. Null calibration indicates that raw residual-turnover coupling is largely influenced by generic embedding structure, whereas a drug-specific signal emerges under vorinostat and is consistent with chromatin-related reorganization. In contrast, the paclitaxel axis is not robustly reconstructed, likely due to sparse coverage of microtubule-associated proteins. Together, these results introduce and demonstrate a reusable diagnostic framework for stress-testing spatial virtual-cell representations and indicate that perturbation generalization may serve as a stricter and more informative benchmark than baseline condition discrimination."
+        },
+        {
+          "title": "Transformer-Based Active Learning for Data-Efficient Vaccine Epitope Selection in PRRS",
+          "url": "https://arxiv.org/abs/2606.28659",
+          "domain": "arxiv.org",
+          "date": "2026-06-30T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2606.28659v1 Announce Type: new Abstract: High-fidelity molecular docking simulations can produce biologically relevant estimates of epitope-receptor binding affinity but are computationally expensive and therefore limit the number of candidates that can be screened for vaccine design. In this work, we evaluate machine learning (ML) approaches where variants of active learning are used to classify instances of high binding affinity between 9-mer epitopes and a well-conserved swine leukocyte antigen (SLA) receptor in the context of Porcine Reproductive and Respiratory Syndrome (PRRS). We use an internally generated dataset of 80 epitope-SLA docking affinities, each requiring more than 48 hours of high-performance computing (HPC). Multiple model families (linear, MLP, CNN, and a small transformer) are trained under strict low-data conditions within a pool-based active learning loop. In each case, optimal model configurations are identified by conducting large-scale hyperparameter optimization over the combined space of model architecture, training configuration, acquisition policy, and ensemble decision rules. To mitigate the effects of data subsample selection, each candidate configuration is evaluated by averaging performance over many randomized and balanced training and validation data subsets. Across experiments, transformer-based sequence models consistently emerged as the best-performing architecture, with active incremental learning yielding significant improvement over a baseline random sample acquisition strategy. Under moderate training data availability (N=30), the optimized ML-model configuration outperforms a standard baseline trained on twice the amount of data. Under higher training data availability (N=60), the same configuration achieves a peak accuracy of 86.8%, consistent with an upper bound of 85% classification accuracy based on two independent estimates of conformational noise."
+        },
+        {
+          "title": "Building AI-Ready Data Systems for Space Life Sciences, Aerospace Medicine, and Deep Space Exploration",
+          "url": "https://arxiv.org/abs/2606.28856",
+          "domain": "arxiv.org",
+          "date": "2026-06-30T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2606.28856v1 Announce Type: new Abstract: While AI holds the potential to revolutionize space life sciences, realizing this promise is contingent upon the systematic restructuring of heterogeneous spaceflight biological data into machine-actionable, AI-ready forms. Even though open access principles support human reuse and scientific reproducibility, this does not necessarily enable AI systems to access and analyze such a diverse set of scientific datasets. In addition, the growing array of AI approaches places distinct demands on data structure, metadata, and access interfaces. In order to respond to such growing changes we propose a three-tier approach, proceeding from FAIR to AI-ready to space-ready data. We discuss existing infrastructures and how they can be improved to close the AI access gap. We conclude by proposing a neutral international coordinating body as the governance backbone for the trustworthy, agent-accessible space biology infrastructure that deep space biological research will require."
+        },
+        {
+          "title": "Democapsid",
+          "url": "https://arxiv.org/abs/2606.28969",
+          "domain": "arxiv.org",
+          "date": "2026-06-30T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2606.28969v1 Announce Type: new Abstract: Capsids are the protein shells that protect the genetic material of viruses. The precise structural description of capsids informs how viruses assemble and evolve and is key to the development of antiviral targets. Most viruses form icosahedral capsids; among these, most adopt quasi-spherical shapes, and some form elongated architectures. However, elongated capsids have been understudied, despite their decoupling of width and length providing greater control over their packaging capacity, a feature of particular interest in capsid evolution and in virus-based biotechnological platforms. A key bottleneck is the lack of tools for the analysis and design of elongated viral capsids. To that end, this article introduces Democapsid as a versatile tool for generating coordinates of both quasi-spherical and elongated (and shrunk) icosahedral capsids, as well as for producing customizable graphical models and publication-quality figures. The underlying algorithm builds on the generalized geometrical theory of viral capsids and employs numerical methods to assemble capsid elements based on folding constraints. It includes parameters controlling protein tiling associated with the eight regular icosahedral lattices, elongation axes (5-fold, 3-fold, and 2-fold), sphericity, and discrete body length for prolate (extended) and oblate (shrunk) shapes. It is available as a JavaScript browser application, a Python package powering plugins for UCSF ChimeraX and Blender, and an R package for generating reproducible documents with embedded models. The code (MIT License) is available on GitHub. Democapsid will benefit both researchers and graphic designers by enabling the investigation and communication of research on viral capsids and other icosahedral compartments."
+        },
+        {
+          "title": "Modeling Protein Evolution with Generative Models: from Extant Sequence Data to Evolutionary Dynamics",
+          "url": "https://arxiv.org/abs/2606.29529",
+          "domain": "arxiv.org",
+          "date": "2026-06-30T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2606.29529v1 Announce Type: new Abstract: Protein sequences carry a record of evolutionary history shaped by mutation, selection, drift, and epistasis. Recent generative models trained on homologous sequence families offer a new way to read this record: they define probabilistic landscapes that score sequences, generate viable variants, and capture constraints that are difficult to measure experimentally. In this review, we discuss how such landscapes can be used not only for protein design or mutation-effect prediction, but also for modeling evolutionary dynamics. We focus particularly on Direct Coupling Analysis as an interpretable and experimentally validated framework, while placing it in the broader context of generative sequence modeling. We first describe how generative sequence landscapes are inferred and assessed, then review how they can be coupled to population-genetic or substitution-model dynamics to simulate protein evolution across experimental and phylogenetic timescales. Applications include viral evolution, laboratory drift experiments, historical contingency, entrenchment, epistatic drift over time, and long-term sequence-space exploration. We conclude by discussing open challenges, including score-fitness calibration, phylogenetic structure, codon-level mutation biases, indels, and the integration of experimental data."
+        },
+        {
+          "title": "Manganese-Functionalized GelMA Hydrogels for MRI-Guided Immunotheranostics in Precision Oncology",
+          "url": "https://arxiv.org/abs/2606.29599",
+          "domain": "arxiv.org",
+          "date": "2026-06-30T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2606.29599v1 Announce Type: new Abstract: Precision oncology requires multifunctional platforms capable of integrating accurate tumor diagnosis, localized therapeutic delivery, immune modulation, and real-time monitoring of treatment response. Gelatin methacryloyl (GelMA) hydrogels have emerged as versatile biomaterials for biomedical engineering because of their biocompatibility, extracellular matrix-like structure, tunable mechanical properties, photocrosslinkability, and capacity to incorporate therapeutic agents, imaging probes, and functional nanomaterials. In parallel, manganese-based materials have gained increasing attention as promising alternatives to gadolinium-based magnetic resonance imaging contrast agents and as therapeutic components capable of modulating the tumor microenvironment. Manganese ions and manganese-based nanomaterials can enhance T1-weighted MRI contrast, generate reactive oxygen species, relieve tumor hypoxia, deplete glutathione, promote immunogenic cell death, and activate the cyclic GMP-AMP synthase-Stimulator of Interferon Genes pathway. The integration of manganese-based systems with GelMA hydrogels offers a promising strategy for developing localized, stimuli-responsive, and MRI-guided immunotheranostic platforms. This review summarizes the fundamental properties of GelMA hydrogels, the diagnostic and therapeutic roles of manganese-based materials, strategies for constructing manganese-functionalized GelMA systems, and their potential applications in precision oncology. Current challenges, including manganese-associated toxicity, controlled ion release, mechanical optimization, reproducibility, and clinical translation, are also discussed. Finally, future directions are proposed for the rational design of safe, scalable, and personalized manganese-functionalized GelMA platforms for cancer diagnosis and therapy."
+        },
+        {
+          "title": "Geometric Stability of Neural Population Codes: Regional Variation, Behavioral Relevance, and Circuit Dependence",
+          "url": "https://arxiv.org/abs/2606.29655",
+          "domain": "arxiv.org",
+          "date": "2026-06-30T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2606.29655v1 Announce Type: new Abstract: Current models of representational reliability in neural populations focus on temporal stability: whether population centroids are preserved across sessions and days. This framing leaves a fundamental question unanswered: how reliably does the pairwise distance structure among stimuli reproduce across independent observations within a session? We argue that this property, geometric stability, constitutes an independent axis of representational analysis that existing frameworks do not capture. We formalize geometric stability as the Spearman rank correlation between split-half representational dissimilarity matrices (Shesha) and show that it is empirically dissociable from both temporal stability and decoding accuracy. Across 229 area-session observations spanning 68 brain regions in a visual discrimination task (Steinmetz et al. 2019), geometric stability predicts trial-by-trial neural-behavioral coupling ($\\rho = 0.18$, $p = 0.005$) while centroid drift does not ($\\rho = 0.002$, $p = 0.976$). The regional hierarchy, with striatum most stable ($\\bar{S} = 0.44$) and hippocampus least ($\\bar{S} = 0.19$), runs roughly opposite to the temporal stability hierarchy. Directionally consistent olfactory data (Bolding \\& Franks 2018) motivate an attractor network model in which recurrent excitatory coupling amplifies split-half RDM consistency by completing stimulus patterns from sparse feedforward input ($\\rho = +0.64$, $p = 0.010$), providing a circuit-level account of how geometric stability emerges. These results establish geometric stability as a functionally relevant, circuit-dependent property of neural population codes, orthogonal to temporal drift measures and complementary to recent accounts of how recurrent connectivity balances representational stability with sequential dynamics in hippocampal circuits."
+        },
+        {
+          "title": "Clear Mind: Meditation and the Brain's Signal-to-Noise Ratio",
+          "url": "https://arxiv.org/abs/2606.29698",
+          "domain": "arxiv.org",
+          "date": "2026-06-30T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2606.29698v1 Announce Type: new Abstract: Meditation is quintessentially associated with a clear mind. This paper proposes that diverse findings in the science of meditation can be mapped onto a single, empirically tractable construct: functional signal-to-noise ratio in the brain, or f-SNR. Signal denotes neural variance that tracks the goal-relevant causes of sensory input, while noise denotes residual activity, including irrelevant endogenous fluctuations. Mechanistically, meditation increases f-SNR through two primary operations: selectively enhancing signal and \"decluttering\" noise. Deepening practice is further proposed to increase f-SNR by reducing self-referential filtering and shifting global neural activity toward a critical regime, a thermodynamically efficient state that maximizes information transmission and dynamic range. This framework has a strong existing evidence base and is readily falsifiable using metrics such as neural variability quenching, mutual information, and multivariate decoding. The f-SNR account also offers a transdiagnostic explanation for the efficacy of meditation across a range of psychopathologies associated with low-SNR states. The theory also has implications for emerging technology: meditation may improve brain-computer interfaces, or BCIs, by making brain activity easier to read."
         }
       ]
     },
@@ -278,84 +278,84 @@
       ],
       "articles": [
         {
-          "title": "Ark Invest loads up on Coinbase, Circle, Bullish, Robinhood shares as stocks rally higher",
-          "url": "https://www.theblock.co/post/406628/ark-invest-coinbase-circle-bullish-robinhood-monday?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-30T01:35:59.000Z",
-          "source": "The Block",
-          "summary": "Ark bought $6.85 million worth of Coinbase, $6.21 million worth of Circle Internet Group, and $3.54 million in Bullish on Monday."
-        },
-        {
-          "title": "Singapore's Hyperliquid warning, Indonesia's FinFluencer licence: Asia Express",
-          "url": "https://cointelegraph.com/features/singapores-hyperliquid-warning-indonesias-finfluencer-licence-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "Cathie Wood’s ARK adds $43.5M in crypto stocks amid market dip",
+          "url": "https://cointelegraph.com/news/cathie-woods-ark-scoops-up-43m-worth-of-crypto-stocks-amid-market-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-06-30T01:23:22.000Z",
+          "date": "2026-06-30T05:49:50.000Z",
           "source": "CoinTelegraph",
-          "summary": "Hyperliquid follows Bybit onto Singapore's \"naughty\" list, Indonesia's new scheme to certify social media influencers promoting crypto: Asia Express."
+          "summary": "ARK Invest's biggest crypto stock purchases over the past three trading days were Coinbase and Circle, whose shares have fallen 17% and 27.6%, respectively, over the past month."
         },
         {
-          "title": "Securitize heads to NYSE debut after investors approve SPAC merger",
-          "url": "https://www.coindesk.com/business/2026/06/29/securitize-heads-to-nyse-debut-after-investors-approve-spac-merger",
+          "title": "Self-exiled Chinese billionaire sentenced to 30 years for fraud involving crypto",
+          "url": "https://www.theblock.co/post/406639/chinese-billionaire-sentenced-30-years?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-30T05:46:32.000Z",
+          "source": "The Block",
+          "summary": "Guo was arrested in 2023 for orchestrating a more than $1 billion fraud conspiracy involving cryptocurrency."
+        },
+        {
+          "title": "XRP holds $1 support as network activity rises and leverage clears out",
+          "url": "https://www.coindesk.com/markets/2026/06/30/xrp-holds-usd1-support-as-network-activity-rises-and-leverage-clears-out",
           "domain": "coindesk.com",
-          "date": "2026-06-29T23:05:58.000Z",
+          "date": "2026-06-30T05:15:17.000Z",
           "source": "CoinDesk",
-          "summary": "The tokenization firm is expected to begin trading on the NYSE on Thursday, becoming one of the first publicly traded pure-play tokenization companies."
+          "summary": "Active addresses jumped 72% in two weeks while open interest fell to its lowest level since July 2025, giving traders a cleaner setup even as price remains trapped below resistance."
         },
         {
-          "title": "UK sets final crypto rules as firms face 2027 FCA authorization deadline",
-          "url": "https://cointelegraph.com/news/uk-crypto-rules-2027-fca-authorization-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "Ether, solana and dogecoin slide as Strategy's bitcoin sales plan pressures market",
+          "url": "https://www.coindesk.com/markets/2026/06/30/ether-solana-and-dogecoin-slide-as-strategy-s-bitcoin-sales-plan-pressures-market",
+          "domain": "coindesk.com",
+          "date": "2026-06-30T05:01:09.000Z",
+          "source": "CoinDesk",
+          "summary": "Bitcoin held below $60,000 as a surging dollar kept crypto pinned. Onchain demand stayed quiet through the week's losses, and Strategy's plan to possibly sell bitcoin added to the caution."
+        },
+        {
+          "title": "Tether trades at 7% to 10% premium in India. Exchanges say its just supply and demand",
+          "url": "https://www.coindesk.com/markets/2026/06/30/usdt-s-premium-in-india-jumps-to-10-exchanges-say-its-just-supply-and-demand",
+          "domain": "coindesk.com",
+          "date": "2026-06-30T04:59:04.000Z",
+          "source": "CoinDesk",
+          "summary": "Executives at major platforms CoinDCX and CoinSwitch say the premium reflects a demand-supply imbalance and thin local liquidity."
+        },
+        {
+          "title": "Bitcoin under pressure below $60,000 as Japanese yen hits 40-year low against the U.S. dollar",
+          "url": "https://www.coindesk.com/markets/2026/06/30/bitcoin-under-pressure-below-usd60-000-as-japanese-yen-hits-40-year-low-against-the-u-s-dollar",
+          "domain": "coindesk.com",
+          "date": "2026-06-30T04:15:44.000Z",
+          "source": "CoinDesk",
+          "summary": "BTC fell in Asia as the Japanese yen tanked to four-decade lows, lifting the dollar higher across the board."
+        },
+        {
+          "title": "Bitmine lifts Ether holdings to 5.7M as it joins Russell 1000",
+          "url": "https://cointelegraph.com/news/bitmine-lifts-ethereum-holdings-to-57m-as-it-joins-russell-1000?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-06-29T23:01:00.000Z",
+          "date": "2026-06-30T04:03:33.000Z",
           "source": "CoinTelegraph",
-          "summary": "The UK’s financial regulator has published its crypto regulatory framework, setting the authorization deadline for cryptocurrency firms for February 2027."
+          "summary": "Bitmine purchased about $43 million worth of Ether last week as it entered the Russell 1000 Index, bringing it closer to its goal of owning 5% of ETH’s supply."
         },
         {
-          "title": "UK sets capital, market abuse rules in landmark crypto framework",
-          "url": "https://www.theblock.co/post/406546/uk-sets-capital-market-abuse-rules-landmark-crypto-framework?utm_source=rss&utm_medium=rss",
+          "title": "Sovereign funds see Bitcoin discount as entry point: MidChains CEO",
+          "url": "https://cointelegraph.com/news/sovereign-funds-see-bitcoin-discount-as-entry-point-midchains-ceo-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-30T03:53:34.000Z",
+          "source": "CoinTelegraph",
+          "summary": "It sends “a very clear signal” to other institutions that may be sitting on the sidelines and looking at these larger funds as leaders, said MidChains CEO Basil Al Askari."
+        },
+        {
+          "title": "SEC wins $5.4M judgment in NanoBit crypto fraud case",
+          "url": "https://cointelegraph.com/news/sec-wins-54m-judgment-in-nanobit-crypto-fraud-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-30T03:06:34.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The SEC alleged that NanoBit’s crypto trading platform was fake and that hundreds of thousands of dollars in investor funds were misappropriated."
+        },
+        {
+          "title": "Securitize to debut on NYSE this Thursday after gaining final nod for merger",
+          "url": "https://www.theblock.co/post/406634/securitize-nyse-debut-thursday?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-06-29T23:01:00.000Z",
+          "date": "2026-06-30T02:45:02.000Z",
           "source": "The Block",
-          "summary": "The FCA finalized UK crypto rules covering capital, stablecoins and market abuse ahead of Oct. 2027 implementation."
-        },
-        {
-          "title": "Bitcoin faces critical test as bulls aim to hold $60K: Did BTC bottom?",
-          "url": "https://cointelegraph.com/markets/bitcoin-faces-critical-test-as-bulls-aim-to-hold-60k-did-btc-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-29T21:57:57.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Bitcoin’s loose hold on $60,000 and soft futures markets raise questions about whether BTC has bottomed."
-        },
-        {
-          "title": "Here’s what happened in crypto today",
-          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-29T21:45:00.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-        },
-        {
-          "title": "Donald Trump has 10 days to decide on housing bill with CBDC ban",
-          "url": "https://cointelegraph.com/news/cbdc-ban-housing-bill-donald-trump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-29T21:34:08.000Z",
-          "source": "CoinTelegraph",
-          "summary": "House Speaker Mike Johnson transmitted a housing bill with a provision barring the US Federal Reserve issuing or creating a CBDC until 2030 to Donald Trump on Monday."
-        },
-        {
-          "title": "TD Cowen says crypto market structure bill passage ‘far from assured’ before midterm election",
-          "url": "https://www.theblock.co/post/406621/td-cowen-crypto-market-structure-bill-clarity-act?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-29T20:38:52.000Z",
-          "source": "The Block",
-          "summary": "The passage of the crypto market structure bill, or Clarity Act, before the November midterm election is \"far from assured,\" said TD Cowen."
-        },
-        {
-          "title": "Senate leaders push for July passage of CLARITY Act",
-          "url": "https://cointelegraph.com/news/senate-leaders-july-passage-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-29T19:59:31.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Lawmakers in the US Senate are on state work periods until July 13, giving them only four weeks to address a cryptocurrency market structure bill before another break and possible delays due to campaigning for elections."
+          "summary": "Securitize announced that shareholders of Cantor have greenlit the business combination, which is expected to close on Wednesday."
         }
       ]
     }
