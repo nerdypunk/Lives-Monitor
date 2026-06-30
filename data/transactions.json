@@ -8,6 +8,51 @@
   },
   "transactions": [
     {
+      "signature": "282xGedz9XfPc6k89mrbY9Bvy2hddxMGkCVmrtLDrH4TkHa8WUWyRUU5rr7vJf2v9x4JzjrZStqUT9cSu2hsYTPg",
+      "type": "Transfer",
+      "amountText": "3,000",
+      "from": "uCWHaqAhTUc9SjCbaNpMUrvumDhLTLcVDRXrXnKbsKU",
+      "to": "3mQLhVF8WB334XcAS22RwwhL4zaDy1anVauyUJ93tTqq",
+      "blockTime": 1782832095,
+      "slot": 429902100
+    },
+    {
+      "signature": "57UftTpPJJCZyG3XcYWKiYUHNHakP2jwCQthSkrzdoBpcJWgNaDi8sUjGsiZoVES8ze8qyRp2dEmKT5VkjLmWejj",
+      "type": "Transfer",
+      "amountText": "0.5",
+      "from": "8x7ryA61uUKS4PvGUCqqVQPZvqboVvDJTPjYb1Ecc3c7",
+      "to": "uCWHaqAhTUc9SjCbaNpMUrvumDhLTLcVDRXrXnKbsKU",
+      "blockTime": 1782828727,
+      "slot": 429893789
+    },
+    {
+      "signature": "31pRWJwBTvN2qQRa3sqLfGzP87MvJedNzkq54obHc1Xc3nBET1kUVCGGmS1FQb7fGYvYRrGh6MYJK3FKL16BsXyQ",
+      "type": "Transfer",
+      "amountText": "1.4625",
+      "from": "6ACwobpN5CJB7TNdJcHpRHqStvS96AH7kvXqiDaeCzLx",
+      "to": "4eLoHMZLnhX4SZuM3tpECZudnkrWWnqiQTU1mdw1NXBC",
+      "blockTime": 1782828552,
+      "slot": 429893361
+    },
+    {
+      "signature": "5x9vwJFuUKXmqMWr1CgUS3Prk5xsAjZt6DUWHAAM5bNTnMjgb3n9KdX97dtmJhV8i6jFxJimu1yv6qpnovr2BECq",
+      "type": "Transfer",
+      "amountText": "1.5",
+      "from": "96zLU7BFcuNXd2iztnqas4aj9v3WDADtSuyicGuZ13AP",
+      "to": "6ACwobpN5CJB7TNdJcHpRHqStvS96AH7kvXqiDaeCzLx",
+      "blockTime": 1782828527,
+      "slot": 429893304
+    },
+    {
+      "signature": "3mLSe8KAKdkcz18be28eL3fQ9e8gYi92PJe4BYcyHUv4PPxUXP22sTVAkFG75S1bwqhEpMwn7iwLhNwQTvesfv1Y",
+      "type": "Transfer",
+      "amountText": "1",
+      "from": "96zLU7BFcuNXd2iztnqas4aj9v3WDADtSuyicGuZ13AP",
+      "to": "8x7ryA61uUKS4PvGUCqqVQPZvqboVvDJTPjYb1Ecc3c7",
+      "blockTime": 1782828493,
+      "slot": 429893222
+    },
+    {
       "signature": "pqFYpqXFEsxNuVXC3en2F248oiiA4oxDQvCTZg5HDPNjXDvUL6gjBiYeivUZbZ5ZxUHXP2MaJTaz146uXV6VuY7",
       "type": "Transfer",
       "amountText": "4.3875",
@@ -32067,9 +32112,9 @@
     }
   ],
   "stats": {
-    "last24h": 53,
-    "totalCached": 3562,
+    "last24h": 56,
+    "totalCached": 3567,
     "historyComplete": true
   },
-  "updatedAt": "2026-06-30T12:24:08.843Z"
+  "updatedAt": "2026-06-30T15:12:36.655Z"
 }

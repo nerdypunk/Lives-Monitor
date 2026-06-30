@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-30T12:24:23.788Z",
+  "updatedAt": "2026-06-30T15:12:50.655Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -98,6 +98,22 @@
       ],
       "articles": [
         {
+          "title": "NeuroSense advances to Phase 3 trials after successful ALS drug study",
+          "url": "https://longevity.technology/news/neurosense-advances-to-phase-3-trials-after-successful-als-drug-study/",
+          "domain": "longevity.technology",
+          "date": "2026-06-30T11:36:27.000Z",
+          "source": "Longevity.Technology",
+          "summary": "NeuroSense announced that its Phase 2b PARADIGM study of PrimeC in amyotrophic lateral sclerosis met its pre-specified primary efficacy endpoint, demonstrating a statistically significant reduction in neuron-derived tdp-43 at day 180 (p=0.0421), according to the company. The company reported the reduction deepened and was sustained through 18 months, with continuously treated participants maintaining lower tdp-43 […] The post NeuroSense advances to Phase 3 trials after successful ALS drug study appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "Insilico Medicine to showcase new AI systems for pharmaceutical research",
+          "url": "https://longevity.technology/news/insilico-medicine-to-showcase-new-ai-systems-for-pharmaceutical-research/",
+          "domain": "longevity.technology",
+          "date": "2026-06-30T11:31:27.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Insilico Medicine has promoted its Pharma.ai Webinar 2026 Q2 Summer Updates, scheduled for 30 June from 10:00 to 11:00 a.m. EST. The announcement outlines a program focused on foundation models and domain-specific AI systems applied to biological, chemical and translational research. The company claims an AI trains AI approach that integrates foundation models with specialized […] The post Insilico Medicine to showcase new AI systems for pharmaceutical research appeared first on Longevity.Technology ."
+        },
+        {
           "title": "United Therapeutics receives FDA approval for LungFX device",
           "url": "https://longevity.technology/news/united-therapeutics-receives-fda-approval-for-lungfx-device/",
           "domain": "longevity.technology",
@@ -160,22 +176,6 @@
           "date": "2026-06-29T16:17:01.000Z",
           "source": "Longevity.Technology",
           "summary": "New evidence suggests one overlooked saturated fat may support healthy aging and challenge decades of nutrition advice. “Avoid saturated fat.” For nearly half a century, nutrition advice seemed refreshingly simple. That message shaped everything from government dietary guidelines to supermarket shelves. Butter became margarine. Whole milk became skim. “Low-fat” became shorthand for “healthy.” However, science […] The post One ‘bad’ fat is making longevity researchers think twice appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "NeuroSense combination drug clears initial safety and biomarker hurdles for Alzheimer’s",
-          "url": "https://longevity.technology/news/neurosense-combination-drug-clears-initial-safety-and-biomarker-hurdles-for-alzheimers/",
-          "domain": "longevity.technology",
-          "date": "2026-06-29T10:51:14.000Z",
-          "source": "Longevity.Technology",
-          "summary": "NeuroSense reported positive biomarker findings from its Phase 2 RoAD proof-of-concept study (NST-AD-001) of PrimeC in Alzheimer’s disease. The randomized, double-blind, placebo-controlled trial enrolled eight participants, three of whom completed 12-month follow-up with cerebrospinal fluid and plasma samples collected at three time points. According to the company, plasma analyses showed changes in Alzheimer hallmark proteins, […] The post NeuroSense combination drug clears initial safety and biomarker hurdles for Alzheimer’s appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Generation Lab launches SystemAge 2.1 as the first gender-specific biological age test",
-          "url": "https://longevity.technology/news/generation-lab-launches-systemage-2-1-as-the-first-gender-specific-biological-age-test/",
-          "domain": "longevity.technology",
-          "date": "2026-06-29T10:46:14.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Generation Lab announced the general availability of SystemAge 2.1 on 25 June 2026, in Burlingame, Calif., presenting the release as the first biological age test to offer dedicated female and male versions. The company states SystemAge 2.1 measures more than 460 biomarkers across 21 organ systems from a single needle-free blood draw and reports 99% […] The post Generation Lab launches SystemAge 2.1 as the first gender-specific biological age test appeared first on Longevity.Technology ."
         }
       ]
     },
@@ -278,84 +278,84 @@
       ],
       "articles": [
         {
-          "title": "Spiko links EU regulated T-bill funds to Coinbase stablecoin rails",
-          "url": "https://cointelegraph.com/news/spiko-coinbase-stablecoin-payments-treasury-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-30T12:21:03.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Spiko integrated Coinbase Payments into two EU regulated UCITS Treasury funds, enabling USDC and EURC subscriptions and redemption payments through Base."
-        },
-        {
-          "title": "New York Life makes first tokenized move partnering with Centrifuge on high-yield corporate bond strategy",
-          "url": "https://www.theblock.co/post/406696/new-york-life-first-tokenized-centrifuge-high-yield-corporate-bond-strategy?utm_source=rss&utm_medium=rss",
+          "title": "Visa, Stripe, Coinbase and more join Open USD stablecoin that shares reserve revenue",
+          "url": "https://www.theblock.co/post/406736/visa-stripe-coinbase-join-open-usd-stablecoin-shares-reserve-revenue?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-06-30T12:00:00.000Z",
+          "date": "2026-06-30T14:57:18.000Z",
           "source": "The Block",
-          "summary": "The tokenized fund will enable eligible investors to access NYLIM’s established institutional high-yield strategy."
+          "summary": "Expected to launch later this year, Open Standard said businesses will be able to mint and redeem Open USD without fees or volume limits."
         },
         {
-          "title": "Bitcoin’s quiet $59,000-$60,000 range is starting to look dangerous",
-          "url": "https://www.coindesk.com/markets/2026/06/30/bitcoin-s-quiet-usd59-000-usd60-000-range-is-starting-to-look-dangerous",
-          "domain": "coindesk.com",
-          "date": "2026-06-30T11:55:34.000Z",
-          "source": "CoinDesk",
-          "summary": "The token has traded in a tight band near $59,000 to $60,000 all week. The pattern echoes a calm stretch from 2024, but this one is forming below support in a falling market, and a break could open the way toward $40,000."
-        },
-        {
-          "title": "New York Life makes tokenization debut with onchain high-yield bond fund with Centrifuge",
-          "url": "https://www.coindesk.com/business/2026/06/29/new-york-life-makes-tokenization-debut-with-onchain-high-yield-bond-fund-with-centrifuge",
-          "domain": "coindesk.com",
-          "date": "2026-06-30T11:20:30.000Z",
-          "source": "CoinDesk",
-          "summary": "The $807 billion asset manager is bringing a high-yield corporate bond strategy onto blockchain with Centrifuge as Wall Street expands beyond tokenized Treasury funds."
-        },
-        {
-          "title": "Bitcoin $4.4 billion supply overhang emerges as institutional demand wilts",
-          "url": "https://www.coindesk.com/daybook-us/2026/06/30/bitcoin-usd4-4-billion-supply-overhang-emerges-as-institutional-demand-wilts",
-          "domain": "coindesk.com",
-          "date": "2026-06-30T11:18:34.000Z",
-          "source": "CoinDesk",
-          "summary": "Your day-ahead look for June 30, 2026"
-        },
-        {
-          "title": "Solana Company to back Kazakhstan’s $6B crypto megacity ambition",
-          "url": "https://cointelegraph.com/news/solana-company-to-back-kazakhstans-6b-crypto-megacity-ambition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-30T11:00:00.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Nasdaq-listed Solana Company has signed a memorandum of understanding with Kazakhstan's Alatau City, which seeks to become a key crypto hub in Central Asia."
-        },
-        {
-          "title": "Hollywood director Carl Rinsch sentenced to 30 months for diverting $11 million in TV production funds to stock options, crypto and luxury purchases",
-          "url": "https://www.theblock.co/post/406675/hollywood-director-carl-rinsch-sentenced-to-30-months-for-diverting-11-million-in-tv-production-funds-to-stock-options-crypto-and-luxury-purchases?utm_source=rss&utm_medium=rss",
+          "title": "OKX AI unveils marketplace for agents to find work and get paid in stablecoins",
+          "url": "https://www.theblock.co/post/406704/okx-ai-unveils-marketplace-for-agents-to-find-work-and-get-paid-in-stablecoins?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-06-30T10:57:53.000Z",
+          "date": "2026-06-30T14:49:01.000Z",
           "source": "The Block",
-          "summary": "\"47 Ronin\" director Carl Rinsch got 30 months in prison for stealing $11M meant for a Netflix show, spent on crypto and Rolls-Royces."
+          "summary": "“Think Upwork for Agents with our fintech infrastructure and 150M scale in the background,\" an OKX rep said."
         },
         {
-          "title": "Bitcoin nears 2024 lows as options traders pay up for downside protection",
-          "url": "https://www.coindesk.com/markets/2026/06/30/bitcoin-nears-2024-lows-as-options-traders-pay-up-for-downside-protection",
+          "title": "New Zcash nonprofit Sovright unveils ZEC wallet recovery tool",
+          "url": "https://www.theblock.co/post/406731/new-zcash-nonprofit-sovright-unveils-zec-wallet-recovery-tool?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-30T14:44:26.000Z",
+          "source": "The Block",
+          "summary": "Argos is a recovery tool for users who had shielded funds stuck on ZEC Wallet Lite, an issue impacting some longtime Zcash supporters."
+        },
+        {
+          "title": "Jefferies warns of crypto market volatility as Clarity Act faces Senate test",
+          "url": "https://www.coindesk.com/policy/2026/06/30/jefferies-warns-of-crypto-market-volatility-as-clarity-act-faces-senate-test",
           "domain": "coindesk.com",
-          "date": "2026-06-30T10:48:06.000Z",
+          "date": "2026-06-30T14:41:59.000Z",
           "source": "CoinDesk",
-          "summary": "Bitcoin and ether slid toward key support price levels. DeFi tokens were hit hardest, even as XLM and LIT bucked the broader market weakness."
+          "summary": "The bank said the bill faces major hurdles, with passage boosting institutional crypto adoption and delays prolonging regulatory uncertainty."
         },
         {
-          "title": "Strategy heads for 11th losing month in 12 as bitcoin weakness continues",
-          "url": "https://www.coindesk.com/markets/2026/06/30/strategy-heads-for-eleventh-losing-month-in-twelve-as-bitcoin-weakness-continues",
+          "title": "Circle slides 13% as Stripe, Coinbase and BlackRock back rival stablecoin network",
+          "url": "https://www.coindesk.com/business/2026/06/30/circle-slides-8-as-stripe-coinbase-and-blackrock-back-rival-stablecoin-network",
           "domain": "coindesk.com",
-          "date": "2026-06-30T10:33:48.000Z",
+          "date": "2026-06-30T14:32:33.000Z",
           "source": "CoinDesk",
-          "summary": "Strategy (MSTR) shares have lost around 41% of their value in June."
+          "summary": "Open Standard's Open USD aims to let partners keep reserve income and eliminate minting fees, challenging Circle's USDC."
         },
         {
-          "title": "ESMA MiCA warning puts Binance EU service changes under scrutiny",
-          "url": "https://cointelegraph.com/news/esma-challenge-binance-serving-certain-eu-users-post-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "MetaMask launches Money Account with stablecoin yield and spending in one wallet",
+          "url": "https://www.coindesk.com/tech/2026/06/30/metamask-launches-money-account-with-stablecoin-yield-and-spending-in-one-wallet",
+          "domain": "coindesk.com",
+          "date": "2026-06-30T14:00:00.000Z",
+          "source": "CoinDesk",
+          "summary": "The launch reflects a broader push to make stablecoins more useful beyond trading and transfers."
+        },
+        {
+          "title": "MetaMask launches stablecoin yield account with card spending",
+          "url": "https://cointelegraph.com/news/metamask-money-account-musd-stablecoin-yield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-06-30T10:25:48.000Z",
+          "date": "2026-06-30T14:00:00.000Z",
           "source": "CoinTelegraph",
-          "summary": "ESMA said EU crypto clients must be served through a MiCA-authorized entity as Binance faces questions over its servicing model in the region after the MiCA deadline."
+          "summary": "MetaMask launches Money Account it says offers up to 4% variable APY on mUSD stablecoin balances and card spending, with DeFi-powered yield via vaults, excluding the UK and EU."
+        },
+        {
+          "title": "MetaMask unveils all-in-one Money Account offerings users up to 4% APY on mUSD holdings",
+          "url": "https://www.theblock.co/post/406570/metamask-all-in-one-money-account-offerings-users-4-apy-musd-holdings?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-30T14:00:00.000Z",
+          "source": "The Block",
+          "summary": "Consensys tapped Monad as Money Account's “home chain,\" and will initially use Morpho vaults to generate yield."
+        },
+        {
+          "title": "Sharplink buys 10,000 ETH, repurchases 2.13 million SBET shares in latest buyback",
+          "url": "https://www.theblock.co/post/406721/sharplink-buys-10000-eth-repurchases-2-13-million-shares-latest-buyback?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-06-30T13:59:18.000Z",
+          "source": "The Block",
+          "summary": "Sharplink bought 10,000 ETH and repurchased 2.13 million SBET shares after completing a $75 million capital raise."
+        },
+        {
+          "title": "OKX launches AI marketplace for autonomous agent economy",
+          "url": "https://cointelegraph.com/news/okx-ai-marketplace-autonomous-agent-economy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-06-30T13:39:39.000Z",
+          "source": "CoinTelegraph",
+          "summary": "OKX launched a beta marketplace for the agentic economy, enabling AI agents to autonomously find work and collaborate with other agents."
         }
       ]
     }
