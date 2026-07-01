@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-06-30T23:53:10.551Z",
+  "updatedAt": "2026-07-01T04:15:02.817Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -188,84 +188,84 @@
       ],
       "articles": [
         {
-          "title": "AI deciphers long-range DNA signals behind RNA splicing",
-          "url": "https://phys.org/news/2026-06-ai-deciphers-range-dna-rna.html",
-          "domain": "phys.org",
-          "date": "2026-06-30T19:20:08.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Accurate RNA splicing is essential for gene expression and human health, yet predicting how DNA sequence variations affect splicing remains a major challenge. Although recent artificial intelligence (AI) models have improved splice-site prediction, many struggle to capture regulatory signals located thousands of DNA bases away from the sites they influence."
-        },
-        {
-          "title": "Computer scientists develop a new AI tool that rivals AlphaFold 3 in mapping RNA",
-          "url": "https://phys.org/news/2026-06-scientists-ai-tool-rivals-alphafold.html",
-          "domain": "phys.org",
-          "date": "2026-06-30T18:40:03.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "The same family of artificial intelligence that powers today's image generators is now being aimed at one of biology's hardest puzzles: the ever-changing, three-dimensional shapes of RNA. These are the molecules behind mRNA vaccines like the ones that prevent serious COVID-19 cases."
-        },
-        {
-          "title": "Scientists teach human cells to compute like tiny computers",
-          "url": "https://phys.org/news/2026-06-scientists-human-cells-tiny.html",
-          "domain": "phys.org",
-          "date": "2026-06-30T18:10:01.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Researchers have developed a way to program human cells to perform calculations and make autonomous decisions, similar to how computer chips work."
-        },
-        {
-          "title": "Spatially explicit population model can improve pesticide risk assessments in agricultural landscapes",
-          "url": "https://phys.org/news/2026-06-spatially-explicit-population-pesticide-agricultural.html",
-          "domain": "phys.org",
-          "date": "2026-06-30T17:20:11.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "A team of international scientists and risk assessment experts has developed a foundational blueprint for an innovative population model designed to improve environmental safety testing for agricultural pesticides. The tool, named APODEMUS (A POpulation Dynamical spatially Explicit Model of the wood moUSe), was recently published as a \"Formal Model\"—a new article type—in the Agricultural and Environmental Modelling journal."
-        },
-        {
-          "title": "Metabolic scaling, von Bertalanffy growth and an exponent equation",
-          "url": "https://arxiv.org/abs/2606.28418",
+          "title": "Pattern formation in a Reaction-Diffusion Model for Amyloid-$\\beta$ and Tau Interactions in Alzheimer's Disease",
+          "url": "https://arxiv.org/abs/2606.30681",
           "domain": "arxiv.org",
-          "date": "2026-06-30T04:00:00.000Z",
+          "date": "2026-07-01T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2606.28418v1 Announce Type: new Abstract: In this work, we interpret developmental growth as a metabolic energy allocation problem and link the von Bertalanffy growth model to metabolic energy investments into the growth channel. Using a framework that specifies how metabolic energy is allocated among baseline maintenance, growth, and other processes, we analyse the resulting growth allocation patterns and derive direct relationships between key scaling exponents: the mass-growth exponent, the length-based exponent, the metabolic scaling exponent, and the geometric exponent, which describes the mass-length relationship. These exponents determine the metabolic investment exponent, which controls the qualitative behaviour of the growth-allocation function. Requiring the inferred allocation fraction to remain biologically feasible, we derive constraints on developmental velocity and characteristic mass scales. This provides a physical, energy-based interpretation of phenomenological growth curves and clarifies how metabolic scaling, geometric scaling, and growth dynamics are interrelated within a single allocation framework."
+          "summary": "arXiv:2606.30681v1 Announce Type: new Abstract: Alzheimer's disease (AD) is characterized by the accumulation of Amyloid-$\\beta$ ($A\\beta$) plaques and hyperphosphorylated Tau proteins. However, many individuals exhibit substantial $A\\beta$ and Tau pathology without developing dementia, suggesting that disease progression may depend not only on pathological burden but also on the spatial organization of these proteins. Motivated by this observation, we adapt Gray-Scott reaction-diffusion model to investigate pattern formation arising from the interactions between $A\\beta$ and Tau. % To systematically identify stable spatial configurations, we employ a Companion-Based Multi-Level Finite Element Method (CBMFEM) on both two-dimensional domains and anatomically realistic cortical surface meshes. Numerical simulations reveal a rich landscape of multiple steady-state solutions, which are subsequently classified into representative pattern phenotypes using principal component analysis and clustering techniques. The results demonstrate that the coupled $A\\beta$--Tau system admits numerous stable spatial patterns rather than a single pathological endpoint. % These findings provide a potential mathematical framework for understanding the heterogeneity of Alzheimer's disease and the existence of cognitively resilient individuals despite significant pathological burden. More broadly, the proposed framework suggests a pattern-based therapeutic paradigm in which disease dynamics are guided toward favorable stable states rather than solely targeting the elimination of pathological proteins."
         },
         {
-          "title": "Establishing the Minimal Clinically Important Difference (MCID) for Smartphone-Derived Gait Measures in Multiple Sclerosis",
-          "url": "https://arxiv.org/abs/2606.28449",
+          "title": "DiSTILL: A Hybrid Cloud-HPC Workflow System for Reproducible Spatial Transcriptomics Analysis",
+          "url": "https://arxiv.org/abs/2606.30693",
           "domain": "arxiv.org",
-          "date": "2026-06-30T04:00:00.000Z",
+          "date": "2026-07-01T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2606.28449v1 Announce Type: new Abstract: Background: Digital health technologies allow for frequent, remote gait monitoring in people with multiple sclerosis (MS). However, to differentiate daily variability from actual disease progression in longitudinal data, established minimal clinically important differences (MCID) are required. Currently, there is limited literature defining these thresholds for digital gait metrics. Objective: To establish MCIDs for digital gait measures reflecting progression in MS. Methods: Digital gait measures were captured via daily, remote, smartphone-based Two-Minute Walk Tests in CONSONANCE (NCT03523858), a phase 3b study of ocrelizumab in progressive MS. Using an anchor-based approach, median changes from baseline at Week 96 on digital gait measures were computed for patients showing clinically meaningful worsening on either Timed 25-Foot Walk, Ambulation Score, Expanded Disability Status Scale, or 12-item Multiple Sclerosis Walking Scale. These changes were subsequently triangulated to derive the MCID estimates. Results: 243 patients with progressive MS (female: n=125 (51%); mean [SD] age: 49.3 [9.3]; mean [SD] EDSS: 4.8 [1.4]) had digital gait data available at baseline and Week 96. Median changes were generally consistent across anchors. Triangulated MCIDs are: Step Velocity = -0.16 m/s, Step Velocity Scaled to Walking Time = -0.18 m/s, Step Duration = 0.06 s, Step Length = -0.07 m, Total Number of Steps = -28, and Total Distance Walked = -24 m. Conclusion: These MCIDs provide a framework for interpreting meaningful gait changes and integrating digital measures into MS outcome evaluation. Beyond facilitating novel clinical trial endpoints to evaluate treatment efficacy, they enable objective, real-world monitoring to advance personalized patient care."
+          "summary": "arXiv:2606.30693v1 Announce Type: new Abstract: Spatial transcriptomics workflows increasingly combine large annotated data objects, notebook-based analyses, and resource-intensive statistical models that must be executed on high-performance computing (HPC) systems. In practice, these workflows are often difficult to reproduce because configuration, validation, stage execution, and artifact handling are fragmented across $\\textit{ad hoc}$ scripts and manually edited notebooks. We present $\\textit{DiSTILL}$ (Disease Diagnosis from Spatial Transcriptomics via Interpretable Latent Learning), a hybrid cloud$-$HPC workflow system for reproducible spatial transcriptomics (ST) analysis. DiSTILL combines an application programming interface (API) backend built with $\\texttt{FastAPI}$, a web frontend, a dataset and preset registry, and a Python pipeline generator that materializes run-specific execution bundles and $\\texttt{SLURM}$ submission scripts. The system supports local, Secure Shell (SSH)-mediated, and pull-based poller execution modes, enabling HPC submission in environments where persistent API-initiated automation is restricted. We describe the system through the lens of an inflammatory bowel disease (IBD) ST workflow that operationalizes the analytical pipeline of Tan $\\textit{et al.}$ into an auditable application layer. Accordingly, the contribution of this paper is a workflow systems contribution centered on reproducible execution, queue-based orchestration, configuration semantics, and deployment across a split cloud$-$HPC architecture. The broader application goal of DiSTILL is to support user-supplied datasets that satisfy the schema assumptions of the wrapped analytical pipeline."
         },
         {
-          "title": "SVC-Probe: A Framework for Evaluating Perturbation Generalization in Spatial Foundation-Model Embeddings",
-          "url": "https://arxiv.org/abs/2606.28465",
+          "title": "Modeling Cell-Cycle-Aware Single-Cell Drug Perturbation Responses",
+          "url": "https://arxiv.org/abs/2606.30695",
           "domain": "arxiv.org",
-          "date": "2026-06-30T04:00:00.000Z",
+          "date": "2026-07-01T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2606.28465v1 Announce Type: new Abstract: This work examines perturbation generalization in spatial foundation-model embeddings derived from fluorescence microscopy images. Although these models can discriminate drug conditions accurately, it remains unclear whether the learned representations reflect patterns consistent with expected perturbation axes that transfer across drugs. We introduce SVC-Probe, a perturbation-aware framework that combines Subcellular Embedding Atlas Stability, Mondrian Neighborhood Graphs, and a Foundation Model Perturbation Probe to assess embedding stability, neighborhood rewiring, and centroid prediction under drug treatment. Applied to the CM4AI MDA-MB-468 chemical-perturbation atlas comprising 462 antibody labels and SubCell 1536-dimensional embeddings, SVC-Probe demonstrates that 98.6% three-way condition accuracy does not correlate with reliable cross-drug prediction, with cosine similarity diminishing from 0.944 in-domain to 0.30 under leave-one-drug-out evaluation, constituting a two-drug stress test rather than a general benchmark. Null calibration indicates that raw residual-turnover coupling is largely influenced by generic embedding structure, whereas a drug-specific signal emerges under vorinostat and is consistent with chromatin-related reorganization. In contrast, the paclitaxel axis is not robustly reconstructed, likely due to sparse coverage of microtubule-associated proteins. Together, these results introduce and demonstrate a reusable diagnostic framework for stress-testing spatial virtual-cell representations and indicate that perturbation generalization may serve as a stricter and more informative benchmark than baseline condition discrimination."
+          "summary": "arXiv:2606.30695v1 Announce Type: new Abstract: Single-cell drug perturbation models should predict not only transcriptional response magnitude, but also whether a treatment alters the proliferative state of a cell. This is challenging because cell-cycle variation is often treated as nuisance variation, and benchmark pipelines rarely treat drug-induced phase changes as a primary prediction target. We introduce scCycleMol, a cell-cycle-aware perturbation prediction framework built on a curated 24-hour SciPlex3 benchmark with standardized molecule identities, dose and cell-line metadata, and gene expression with cell-cycle supervision derived from treated states. Instead of using cell-cycle state as an input covariate, scCycleMol derives supervision from predicted treated expression and propagates it through a learnable full-expression cell-cycle head with circular G1/S/G2M phase targets. We evaluate marker-based supervision, molecular representations, and pretraining strategies to isolate sources of improvement. Across a SciPlex3 benchmark with over 600k cells, 186 perturbation conditions, multiple cancer cell lines, and thousands of genes, scCycleMol improves out-of-distribution expression prediction compared with conditional perturbation baselines. The best LINCS-pretrained circular model achieves 0.9093 expected all-gene r squared and 0.6843 expected differentially expressed gene r squared, compared with 0.6800 and 0.5400 for LINCS-pretrained ChemCPA. Closed-loop cell-cycle supervision improves phase accuracy by about 0.5 to 0.6 points while maintaining nearly unchanged expression prediction. A Tahoe-pretrained variant reaches 0.9609 phase accuracy, highlighting the benefit of explicit cell-cycle-aware supervision in perturbation modeling."
         },
         {
-          "title": "Transformer-Based Active Learning for Data-Efficient Vaccine Epitope Selection in PRRS",
-          "url": "https://arxiv.org/abs/2606.28659",
+          "title": "Structure-Regularized Interpretable TCR-Epitope Prediction",
+          "url": "https://arxiv.org/abs/2606.30902",
           "domain": "arxiv.org",
-          "date": "2026-06-30T04:00:00.000Z",
+          "date": "2026-07-01T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2606.28659v1 Announce Type: new Abstract: High-fidelity molecular docking simulations can produce biologically relevant estimates of epitope-receptor binding affinity but are computationally expensive and therefore limit the number of candidates that can be screened for vaccine design. In this work, we evaluate machine learning (ML) approaches where variants of active learning are used to classify instances of high binding affinity between 9-mer epitopes and a well-conserved swine leukocyte antigen (SLA) receptor in the context of Porcine Reproductive and Respiratory Syndrome (PRRS). We use an internally generated dataset of 80 epitope-SLA docking affinities, each requiring more than 48 hours of high-performance computing (HPC). Multiple model families (linear, MLP, CNN, and a small transformer) are trained under strict low-data conditions within a pool-based active learning loop. In each case, optimal model configurations are identified by conducting large-scale hyperparameter optimization over the combined space of model architecture, training configuration, acquisition policy, and ensemble decision rules. To mitigate the effects of data subsample selection, each candidate configuration is evaluated by averaging performance over many randomized and balanced training and validation data subsets. Across experiments, transformer-based sequence models consistently emerged as the best-performing architecture, with active incremental learning yielding significant improvement over a baseline random sample acquisition strategy. Under moderate training data availability (N=30), the optimized ML-model configuration outperforms a standard baseline trained on twice the amount of data. Under higher training data availability (N=60), the same configuration achieves a peak accuracy of 86.8%, consistent with an upper bound of 85% classification accuracy based on two independent estimates of conformational noise."
+          "summary": "arXiv:2606.30902v1 Announce Type: new Abstract: T cell receptor (TCR)-epitope binding prediction is essential for understanding adaptive immunity and developing immunotherapies. Existing sequence- and structure-based models often generalize poorly to unseen epitopes and provide limited interpretability. Furthermore, the impact of generated structures on model learning remains unclear. We present TCR-SRIM, a structure-regularized interpretable-by-design model that combines protein language model embeddings with interpretable contact prototypes to capture residue-level TCR-epitope interactions. TCR-SRIM achieves state-of-the-art predictive performance and improved interpretation quality on the TCR-XAI benchmark. Using its inherent interpretability, we further evaluate the effect of generated structures on model learning. While structures predicted by AlphaFold3, TCRModel2, and tFold-TCR yield competitive performance, they lead to less accurate interaction patterns and reduced binding-site diversity than experimentally-resolved structures. Our results highlight limitations of current structure prediction models for TCR-epitope learning and demonstrate the value of interpretable-by-design models for studying generated biological structures."
         },
         {
-          "title": "Building AI-Ready Data Systems for Space Life Sciences, Aerospace Medicine, and Deep Space Exploration",
-          "url": "https://arxiv.org/abs/2606.28856",
+          "title": "Head Kinematics and Brain Tissue Deformation from Soccer Heading: A Review of Implications for Brain Injury Risk",
+          "url": "https://arxiv.org/abs/2606.30946",
           "domain": "arxiv.org",
-          "date": "2026-06-30T04:00:00.000Z",
+          "date": "2026-07-01T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2606.28856v1 Announce Type: new Abstract: While AI holds the potential to revolutionize space life sciences, realizing this promise is contingent upon the systematic restructuring of heterogeneous spaceflight biological data into machine-actionable, AI-ready forms. Even though open access principles support human reuse and scientific reproducibility, this does not necessarily enable AI systems to access and analyze such a diverse set of scientific datasets. In addition, the growing array of AI approaches places distinct demands on data structure, metadata, and access interfaces. In order to respond to such growing changes we propose a three-tier approach, proceeding from FAIR to AI-ready to space-ready data. We discuss existing infrastructures and how they can be improved to close the AI access gap. We conclude by proposing a neutral international coordinating body as the governance backbone for the trustworthy, agent-accessible space biology infrastructure that deep space biological research will require."
+          "summary": "arXiv:2606.30946v1 Announce Type: new Abstract: Purpose: Repeated heading of soccer balls has raised concerns of potential long-term neurological effects. Consequently, numerous studies have estimated head kinematics and brain deformation due to soccer headers across different cohorts and play scenarios to identify higher risk conditions. However, heterogeneity in study design, data collection, and analysis has produced inconsistent findings, and injury risk is infrequently reported. Therefore, a meta-analysis of the existing literature was conducted to identify knowledge gaps and inform future studies assessing injury risk in soccer. Methods: We synthesized data from studies reporting head kinematics or brain deformation from soccer headers on human subjects. The data from these studies were analyzed to obtain the risk of mild traumatic brain injury (mTBI) based on applicable injury metrics and risk curves. Results: The meta-analysis revealed specific trends, indicating that match scenarios, corner and goal-kicks, top and oblique impacts, and older age cohorts were associated with higher head kinematics, while sex-based trends were inconclusive. The choice of sensor system affected the estimated head kinematics, with headband sensors consistently measuring higher kinematics than mouthpiece sensors. The data showed large variability stemming from heterogeneous study designs, limiting the applicability of the observed trends. These factors also influenced injury risk predictions, with estimated concussion risks generally below 20%. Conclusion: This review reveals trends in mTBI risk from soccer heading across different cohorts and play scenarios. It also underscores the need for standardized reporting of kinematics and brain deformation to enable mTBI risk estimation and meaningful cross-study comparisons."
         },
         {
-          "title": "Democapsid",
-          "url": "https://arxiv.org/abs/2606.28969",
+          "title": "Persistence, Thresholds, and Trait Composition in a Regulated Mutation-Selection Model",
+          "url": "https://arxiv.org/abs/2606.31146",
           "domain": "arxiv.org",
-          "date": "2026-06-30T04:00:00.000Z",
+          "date": "2026-07-01T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2606.28969v1 Announce Type: new Abstract: Capsids are the protein shells that protect the genetic material of viruses. The precise structural description of capsids informs how viruses assemble and evolve and is key to the development of antiviral targets. Most viruses form icosahedral capsids; among these, most adopt quasi-spherical shapes, and some form elongated architectures. However, elongated capsids have been understudied, despite their decoupling of width and length providing greater control over their packaging capacity, a feature of particular interest in capsid evolution and in virus-based biotechnological platforms. A key bottleneck is the lack of tools for the analysis and design of elongated viral capsids. To that end, this article introduces Democapsid as a versatile tool for generating coordinates of both quasi-spherical and elongated (and shrunk) icosahedral capsids, as well as for producing customizable graphical models and publication-quality figures. The underlying algorithm builds on the generalized geometrical theory of viral capsids and employs numerical methods to assemble capsid elements based on folding constraints. It includes parameters controlling protein tiling associated with the eight regular icosahedral lattices, elongation axes (5-fold, 3-fold, and 2-fold), sphericity, and discrete body length for prolate (extended) and oblate (shrunk) shapes. It is available as a JavaScript browser application, a Python package powering plugins for UCSF ChimeraX and Blender, and an R package for generating reproducible documents with embedded models. The code (MIT License) is available on GitHub. Democapsid will benefit both researchers and graphic designers by enabling the investigation and communication of research on viral capsids and other icosahedral compartments."
+          "summary": "arXiv:2606.31146v1 Announce Type: new Abstract: We study a population model in which individuals carry one of two traits and evolve under mutation, selection, and density-dependent regulation. A deterministic large-population limit yields a nonlinear system coupling logistic growth with mutation-selection dynamics. We identify threshold conditions governing extinction, persistence, and long-term trait composition. In particular, mutation induces an effective mortality rate that determines whether the population can be sustained. When inheritance dominates mutation, a second threshold emerges: population establishment depends on initial trait composition as well as overall growth rates. Although extinction ultimately occurs, the system typically exhibits long-lived quasi-equilibrium behaviour. A diffusion approximation provides a tractable description of this, and reveals a transition in the sign of trait correlations. The model thus illustrates how mutation, selection, and resource limitation jointly shape both ecological persistence and evolutionary outcomes."
+        },
+        {
+          "title": "A conceptual model for the evo-devo role of transposable elements and its implications for the ageing phenomenon",
+          "url": "https://arxiv.org/abs/2606.31733",
+          "domain": "arxiv.org",
+          "date": "2026-07-01T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2606.31733v1 Announce Type: new Abstract: The Evolvable Soma Theory of Ageing is a recently proposed model that frames development as a continuous process of change accompanying organisms throughout the lifespan. This process is driven by developmental genes which encode epigenetic changes on target cells, whereas ageing reflects the expression of late-acting modifications, that are subject to ongoing evolutionary optimisation and function as somatic \"experiments\" to explore phenotypic novelty. In this work we examine the role of transposable elements in the model. Our proposal acknowledges that these elements facilitate the expansion and diversification of gene regulatory networks by providing transcription factor binding sites. To minimise disruption, their regulatory activity is tightly repressed by epigenetic mechanisms during early development, which may be progressively released by genetically driven, age-associated epigenetic changes in later life, thereby contributing to transcriptional pseudo-randomness and ageing-associated phenotypes. Within this framework, transposable elements are integrated into a unified view of evolution, development and ageing, providing a conceptual basis for their dual role in regulatory innovation and age-related decline."
+        },
+        {
+          "title": "Nonlinear Feedbacks Between Host Behavior and Vector Adaptation in a Multi-Host Vector-Borne Disease Model",
+          "url": "https://arxiv.org/abs/2606.31768",
+          "domain": "arxiv.org",
+          "date": "2026-07-01T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2606.31768v1 Announce Type: new Abstract: Insecticide-treated nets (ITN) are an effective and low-cost intervention for controlling vector-borne disease (VBD), however, their use depends on individual decisions based on perceived cost and risk of infection. This study investigates a nonlinear multi-host model for the transmission of VBD with endogenous strategic control. We assume that hosts' adoption of ITN emerges from the payoff-based decision-making, creating a nonlinear coupling with disease prevalence. We model vector preference as a function of ITN coverage to probe the complex interplay among individual choices, disease prevalence, and its control in a multi-host setting. The qualitative behavior of the system is characterized by the thresholds $R_0$ and $R_c$, which determine the existence and local stability of the disease-free and endemic equilibria. The system exhibits rich dynamical behavior; hence, we provide a bifurcation analysis identifying the conditions for saddle-node and Hopf bifurcations. Our results demonstrate that the interaction between the perceived cost of ITN and the infection risk can induce critical transitions, including regime shift from stable endemic states to sustained periodic oscillations. Furthermore, we identify a counterintuitive effect whereby complete ITN adoption by the primary host can increase the overall prevalence in the secondary host due to adaptive shifts of vector feeding behavior."
+        },
+        {
+          "title": "Invasion with size-dependent dispersion range",
+          "url": "https://arxiv.org/abs/2606.31942",
+          "domain": "arxiv.org",
+          "date": "2026-07-01T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2606.31942v1 Announce Type: new Abstract: The coalescing colony model provides a minimal framework for biological invasions with long-range dispersion. In its standard formulation, the dispersion range is assumed independent of the size of the invading population. Here, we relax this assumption and consider size-dependent dispersal: a main colony of linear size $r$ emits secondary colonies at distance $r^\\mu$, with $0 \\leq \\mu \\leq 1$. We derive the generalized dynamical equations for this extended model and map out the growth phase diagram for the leading order contribution. Depending on $\\mu$, the main colony exhibits distinct regimes: linear expansion, power-law growth, exponential regime and finite-time blow-up. We confront these theoretical predictions with a spatially explicit physical model. While the coalescing colony approach correctly captures the scaling of the perimeter, it fails to predict the scaling of the volume. We trace this discrepancy to an effective breakdown of circular symmetry in the morphology of the main colony. Finally, we quantify temporal evolution of the population fraction residing outside of the main colony. The coalescing colony model predicts its decay to~$0$ like a power-law when~$\\mu \\mu^*\\approx 0.7$. Broadly, our findings highlight how coupling dispersal range to population size fundamentally alters invasion dynamics, with implications for biological invasions, metastatic growth, and urban expansion."
+        },
+        {
+          "title": "Stationary covariance spectra of discrete-time non-normal random recurrent dynamics",
+          "url": "https://arxiv.org/abs/2606.31944",
+          "domain": "arxiv.org",
+          "date": "2026-07-01T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2606.31944v1 Announce Type: new Abstract: Principal component analysis is widely used to characterize structure in the dynamics of recurrent neural networks. For stationary noise-driven dynamics, the distribution of variance among the principal components is determined by the spectrum of the stationary covariance matrix. While the spectral properties of this matrix are well-understood for linear networks with normal synaptic weight matrices, our understanding of the stationary covariance spectrum for random non-normal dynamics remains incomplete. In this note, we use a free-probability approach to formally derive a closed functional equation for the moment generating function of the limiting stationary covariance spectrum of discrete-time dynamics with random non-normal Gaussian weights. This characterization allows us to analyze the behavior of tail eigenvalues in the critical regime. In contrast, applying the same approach to the analogous continuous-time dynamics leads to an infinite hierarchy of Schwinger-Dyson equations, rather than a closed scalar equation. We conclude with some comments regarding the relevance of these results to comparisons of models of non-normal dynamics to neural data."
         }
       ]
     },
@@ -277,6 +277,46 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "Trump earned more from crypto than real estate in 2025, filings show",
+          "url": "https://cointelegraph.com/news/trump-earned-more-from-crypto-than-real-estate-in-2025-filings-show?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-01T04:01:09.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Memecoin sales and royalties made the most money for Trump last year, more than all of his golf clubs combined."
+        },
+        {
+          "title": "Spot bitcoin ETFs record worst month since debut, shedding $4.5 billion in June",
+          "url": "https://www.theblock.co/post/406802/bitcoin-etf-worst-month-yet?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-01T03:56:52.000Z",
+          "source": "The Block",
+          "summary": "Analysts cited capital rotation amid macroeconomic uncertainty and SpaceX's historic IPO as the main drivers of the significant outflows."
+        },
+        {
+          "title": "‘47 Ronin’ director who gambled Netflix funds on crypto gets 30 months",
+          "url": "https://cointelegraph.com/news/47-ronin-director-who-gambled-netflix-funds-on-crypto-gets-30-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-01T03:47:30.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Carl Rinsch will serve two and a half years in prison for taking money meant for a Netflix show to buy Dogecoin, stocks and luxury goods."
+        },
+        {
+          "title": "UK crypto investors sue Binance, Changpeng Zhao for $200M",
+          "url": "https://cointelegraph.com/news/uk-crypto-investors-sue-binance-changpeng-zhao-for-potential-200m-payout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-01T02:30:07.000Z",
+          "source": "CoinTelegraph",
+          "summary": "One Binance customer said he lost the equivalent of more than $132,000 from the crypto exchange’s derivatives offerings before restrictions were imposed on Binance."
+        },
+        {
+          "title": "Million-dollar homes, luxury bags and Lamborghinis: Florida man pleads guilty in crypto fraud scheme",
+          "url": "https://www.theblock.co/post/406789/florida-man-pleads-guilty-crypto-fraud?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-01T01:58:40.000Z",
+          "source": "The Block",
+          "summary": "A man pleaded guilty to fraud charges after prosecutors said he tricked people into the promise of making returns in crypto liquidity pools."
+        },
         {
           "title": "Has Strategy’s capital overhaul put an end to ‘death spiral’ fears?",
           "url": "https://cointelegraph.com/features/does-strategys-new-capital-plan-put-an-end-to-death-spiral-fears?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -316,46 +356,6 @@
           "date": "2026-06-30T21:49:08.000Z",
           "source": "CoinTelegraph",
           "summary": "Bitcoin's recent selloff brought it within 10% of its realized price — a line that has marked the bottoming zone in Bitcoin's previous bear markets."
-        },
-        {
-          "title": "Massachusetts AG files amended lawsuit against Kalshi over sports betting after court ruling",
-          "url": "https://cointelegraph.com/news/massachusetts-lawsuit-kalshi-sports-betting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-30T21:44:48.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The amended complaint, granted by a judge on Tuesday, included allegations that Kalshi targeted users under 21 years old through social media and marketing on university campuses."
-        },
-        {
-          "title": "Bitmine Ether buys eclipsed by $345M ETH ETF $345M outflows: Is sub $1.5K next?",
-          "url": "https://cointelegraph.com/markets/bitmine-ether-buys-eclipsed-by-345m-eth-etf-345m-outflows-is-sub-15k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-30T21:16:47.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Tokenization and RWA TVL growth highlight Ethereum’s fundamentals, but stagnant DApps and spot ETF outflows keep the pressure on ETH price."
-        },
-        {
-          "title": "ENS co-founder Nick Johnson blocks Security Council renewal with 80% of votes",
-          "url": "https://www.theblock.co/post/406767/ens-co-founder-nick-johnson-blocks-security-council-renewal-with-80-of-votes?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-06-30T21:09:48.000Z",
-          "source": "The Block",
-          "summary": "Johnson cited unaddressed concerns with the Security Council while backing an alternative proposal submitted on Tuesday."
-        },
-        {
-          "title": "Phantom doubles down on perpetual futures with hire of Hyperliquid market builders",
-          "url": "https://www.coindesk.com/business/2026/06/30/phantom-doubles-down-on-perpetual-futures-with-hire-of-hyperliquid-market-builders",
-          "domain": "coindesk.com",
-          "date": "2026-06-30T21:00:19.000Z",
-          "source": "CoinDesk",
-          "summary": "The crypto wallet is doubling down on perpetual futures after hiring the builders behind one of Hyperliquid's highest-profile market experiments."
-        },
-        {
-          "title": "SEC seeks public comment on regulating next generation of ETFs",
-          "url": "https://cointelegraph.com/news/sec-seeks-public-comment-on-regulating-novel-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-06-30T20:38:51.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The request from the US agency seeks feedback on how emerging ETF structures and investment strategies should be regulated as issuers roll out increasingly specialized products."
         }
       ]
     }
