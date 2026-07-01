@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-01T08:33:33.691Z",
+  "updatedAt": "2026-07-01T11:44:35.093Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -8,6 +8,14 @@
         "https://news.google.com/rss/search?q=DeSci%20OR%20%22decentralized%20science%22%20OR%20%22BIO%20Protocol%22&hl=en-US&gl=US&ceid=US:en"
       ],
       "articles": [
+        {
+          "title": "Why Is LAB Token Trending? Price, DeSci Utility & Risks Explained - Bitcoin World",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1zUkRsOWc1QW4yT2gydXFHQW1ibVl4U1ZUVmd1VTdRdU1JRzhseGFrTkRJY2p0emhJeWpiLTVCdmR3am9NSTdhUjNLVEU2SENUd0htZGZoc3RQYWZrRTBJX0JpeEVlbVBsM0twb2lnSjZzSXNkcmhqVkVFcFVxZw?oc=5",
+          "domain": "bitcoinworld.co.in",
+          "date": "2026-07-01T00:33:19.000Z",
+          "source": "Bitcoin World",
+          "summary": "Why Is LAB Token Trending? Price, DeSci Utility & Risks Explained &nbsp;&nbsp; Bitcoin World"
+        },
         {
           "title": "Bio Protocol launches AI research hub to challenge grant gatekeepers - crypto.news",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNFh5NE1hUkt5RnVBaFFuVU1HYzgxZzBkU0huOXprTVpRV0xWVDJjZEF3LUtqNkZWWDZVU0E5Wm16ZHljR0dYanI2eDZnYnVCQVA0UzJMTmNQekFtMXhxbTRmWmU0cVBfczBKTURTZ0Jnc2s3QkFMdVpuNlNyeks1azhVUHpHYkNQbno0ZGR6aVZuY2c?oc=5",
@@ -79,14 +87,6 @@
           "date": "2026-05-01T07:00:00.000Z",
           "source": "KuCoin",
           "summary": "DeSci, AI, or Meme: Where Crypto Capital Flows in Mid-2026 &nbsp;&nbsp; KuCoin"
-        },
-        {
-          "title": "BIO Token Rally Raises Questions About DeSci Valuation Sustainability - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUW9iOHdfc0pfSVU2dFNWRmJOUk9uYUc4c05abWs0UWFMellFNmpTUkVvX0JaRTJweUJQejROMXlnb3ZjUFJVX29lZm82Y1YzVjYxWVNWRGwxZ2VPNjB2N1ByMDVwZ0ZodWpBbjcxd3FSQ3lKeWtBWkM5Q2haRDhYWFVZZ3hqci1iQlF4S21qNHJXM2tLMlBOMlpTTVpDYlRBXzVwaDVzSWhJQ1BpWkp2Sm9CMGk?oc=5",
-          "domain": "investing.com",
-          "date": "2026-04-16T07:00:00.000Z",
-          "source": "Investing.com",
-          "summary": "BIO Token Rally Raises Questions About DeSci Valuation Sustainability &nbsp;&nbsp; Investing.com"
         }
       ]
     },
@@ -103,7 +103,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-30T16:21:38.000Z",
           "source": "Lifespan.io",
-          "summary": "A new study suggests a way to predict whether existing drugs can extend human lifespan. This method uses a network approach that detects longevity signals in protein interactions [1]. Slowing aging with existing drugs? Finding […]"
+          "summary": "A new study suggests a way to predict whether existing drugs can extend human lifespan. This method uses a network approach that detects longevity signals in protein interactions [1]. Slowing aging with existing drugs? Finding drugs that can slow […]"
         },
         {
           "title": "How a Primate-Specific RNA Strand Worsens Senescence",
@@ -111,7 +111,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-29T21:02:28.000Z",
           "source": "Lifespan.io",
-          "summary": "Researchers have discovered a primate-specific piece of non-coding RNA that is linked to aging and makes senescence worse. The packing matters While non-coding RNA strands (ncRNAs) do not themselves produce […]"
+          "summary": "Researchers have discovered a primate-specific piece of non-coding RNA that is linked to aging and makes senescence worse. The packing matters While non-coding RNA strands (ncRNAs) do not themselves produce proteins, they serve crucial regulatory functions. […]"
         },
         {
           "title": "Cell Type-Specific Aging Predicts Disease Onset",
@@ -119,7 +119,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-26T15:11:47.000Z",
           "source": "Lifespan.io",
-          "summary": "A new study has used aging trajectories of various cell types to predict diseases such as Alzheimer’s and lung cancer [1]. This expands on previous research into organ-specific aging. Age […]"
+          "summary": "A new study has used aging trajectories of various cell types to predict diseases such as Alzheimer’s and lung cancer [1]. This expands on previous research into organ-specific aging. Age is more than […]"
         },
         {
           "title": "Upregulating a Key Cartilage Factor Leads to Osteoarthritis",
@@ -127,7 +127,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-25T20:25:54.000Z",
           "source": "Lifespan.io",
-          "summary": "Researchers have found that sustained expression of excess hypoxia-inducible factor (HIF)-1α leads to unwanted formation of blood vessels (angiogenesis) that destroys cartilage and causes osteoarthritis. A necessary but destructive factor Being required for extracellular […]"
+          "summary": "Researchers have found that sustained expression of excess hypoxia-inducible factor (HIF)-1α leads to unwanted formation of blood vessels (angiogenesis) that destroys cartilage and causes osteoarthritis. A necessary but destructive factor Being […]"
         },
         {
           "title": "NeuroAge Therapeutics Launches Younger 2027",
@@ -135,7 +135,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-25T15:50:36.000Z",
           "source": "Lifespan.io",
-          "summary": "NeuroAge Therapeutics announced Younger 2027, a six-month biological aging contest in which competitors are measured on a clinical-grade aging panel and retested six months later. Baseline testing kits begin shipping September 1, 2026, with at-home baseline testing open through February […]"
+          "summary": "NeuroAge Therapeutics announced Younger 2027, a six-month biological aging contest in which competitors are measured on a clinical-grade aging panel and retested six months later. Baseline testing […]"
         },
         {
           "title": "Glycosylation’s Role in Alzheimer’s Disease",
@@ -143,7 +143,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-24T16:11:21.000Z",
           "source": "Lifespan.io",
-          "summary": "A recent study suggests that hyperglycosylation in brain tissue can be a hallmark of Alzheimer’s disease [1]. Lesser-known Alzheimer’s molecular features […]"
+          "summary": "A recent study suggests that hyperglycosylation in brain tissue can be a hallmark of Alzheimer’s disease [1]. Lesser-known Alzheimer’s molecular features Pathological deposits of amyloid-β plaques and tau tangles in the brain are probably the most well-known features of […]"
         },
         {
           "title": "Biological Aging May Be Driving Increased Early-Onset Cancer",
@@ -151,7 +151,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-23T16:18:19.000Z",
           "source": "Lifespan.io",
-          "summary": "A new study links accelerated aging to early-onset solid cancers, while showing that this gap is becoming wider with each new generation [1]. Why do more young people get cancer? While […]"
+          "summary": "A new study links accelerated aging to early-onset solid cancers, while showing that this gap is becoming wider with each new generation [1]. Why do more young people get cancer? […]"
         },
         {
           "title": "A Transcriptional Failure Leads to Systemic Inflammation",
@@ -159,7 +159,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-22T18:11:55.000Z",
           "source": "Lifespan.io",
-          "summary": "Researchers have found that bound pieces of RNA and DNA in the cytoplasm of senescent cells encourage these cells to secrete inflammatory factors. When transcription gets sticky As part of the transcription […]"
+          "summary": "Researchers have found that bound pieces of RNA and DNA in the cytoplasm of senescent cells encourage these cells to secrete inflammatory factors. When transcription gets sticky As part of the transcription process […]"
         },
         {
           "title": "Epigenetic Drug Targets Fat, Improving Blood Vessel Health",
@@ -167,7 +167,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-19T17:04:10.000Z",
           "source": "Lifespan.io",
-          "summary": "Scientists have targeted the thin fat layer around blood vessels with a transcription inhibitor, reducing symptoms of cardiometabolic disease [1]. When vessels can’t “just relax” Cardiometabolic disease (CMD) – characterized, among other things, by obesity combined with […]"
+          "summary": "Scientists have targeted the thin fat layer around blood vessels with a transcription inhibitor, reducing symptoms of cardiometabolic disease [1]. When vessels can’t “just relax” Cardiometabolic disease (CMD) – characterized, among other things, by obesity combined […]"
         },
         {
           "title": "How Antioxidants Can Selectively Remove Some Senescent Cells",
@@ -175,7 +175,7 @@
           "domain": "lifespan.io",
           "date": "2026-06-18T18:15:22.000Z",
           "source": "Lifespan.io",
-          "summary": "In Aging Cell, researchers have described the way that antioxidants work against senescence in muscle cells by altering mTOR signaling. Senescent […]"
+          "summary": "In Aging Cell, researchers have described the way that antioxidants work against senescence in muscle cells by altering mTOR signaling. Senescent cells don’t sense nutrients properly Oxidative […]"
         }
       ]
     },
@@ -278,84 +278,84 @@
       ],
       "articles": [
         {
-          "title": "Former Goliath Ventures CEO pleads guilty in $400M crypto Ponzi case",
-          "url": "https://cointelegraph.com/news/goliath-ceo-guilty-400m-crypto-ponzi-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-01T08:20:49.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Former Goliath Ventures CEO Christopher Delgado pleaded guilty to fraud and money laundering and agreed to forfeit properties, vehicles, luxury goods and crypto wallets."
+          "title": "Ark Invest bought more than $75 million of crypto shares during June bloodbath",
+          "url": "https://www.coindesk.com/markets/2026/07/01/ark-invest-bought-more-than-usd75-million-of-crypto-shares-during-june-bloodbath",
+          "domain": "coindesk.com",
+          "date": "2026-07-01T11:42:22.000Z",
+          "source": "CoinDesk",
+          "summary": "Ark Invest has a tendency to \"buy the dip,\" loading up on shares in cryptocurrency companies when their prices are depressed."
         },
         {
-          "title": "Shanghai court sentences five to prison over $29 million crypto forex scheme",
-          "url": "https://www.theblock.co/post/406827/china-sentences-five-prison-crypto-foreign-exchange?utm_source=rss&utm_medium=rss",
+          "title": "Crypto hack theft falls 7% in June to $76 million as Humanity Protocol tops list: PeckShield",
+          "url": "https://www.theblock.co/post/406854/crypto-hack-theft-falls-7-in-june-to-76-million-as-humanity-protocol-tops-list-peckshield?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-07-01T07:48:06.000Z",
+          "date": "2026-07-01T11:33:00.000Z",
           "source": "The Block",
-          "summary": "In July 2024, Chinese authorities discovered unusual transactions tied to a company that facilitated illegal overseas transfers via crypto."
+          "summary": "Crypto hacks hit $75.9M across 40 incidents in June, down 7.1% from May, led by the $31M Humanity Protocol exploit, PeckShield said."
         },
         {
-          "title": "Bitcoin’s 20% June crash looks even deadlier on the charts. Here’s why",
-          "url": "https://www.coindesk.com/markets/2026/07/01/bitcoin-s-20-june-crash-looks-even-deadlier-on-the-charts-here-s-why",
+          "title": "XRP, HYPE funds are the bright spots as investors flee bitcoin, ether ETFs",
+          "url": "https://www.coindesk.com/daybook-us/2026/07/01/xrp-hype-funds-are-the-bright-spots-as-investors-flee-bitcoin-ether-etfs",
           "domain": "coindesk.com",
-          "date": "2026-07-01T07:42:49.000Z",
+          "date": "2026-07-01T11:15:00.000Z",
           "source": "CoinDesk",
-          "summary": "Bitcoin dropped by 20% in June, but the monthly chart reveals something far more concerning."
+          "summary": "Your day-ahead look for July 1, 2026"
         },
         {
-          "title": "Live markets: U.S. spot bitcoin ETFs had their worst month ever in June, shedding $4.5 billion",
-          "url": "https://www.coindesk.com/tech/2026/07/01/live-markets-u-s-spot-bitcoin-etfs-had-their-worst-month-ever-in-june-shedding-usd4-5-billion",
-          "domain": "coindesk.com",
-          "date": "2026-07-01T07:05:11.000Z",
-          "source": "CoinDesk",
-          "summary": "The record outflow beat the previous worst month by 29% and came on nine consecutive days of redemptions to close the period."
+          "title": "Europe’s MiCA crypto regime is fully in force: Here’s who wins and loses",
+          "url": "https://www.theblock.co/post/406766/europes-mica-crypto-regime-is-fully-in-force-heres-who-wins-and-loses?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-01T11:01:02.000Z",
+          "source": "The Block",
+          "summary": "With the July 1 deadline now passed, how will the end of MiCA's final transition phase affect users, companies, and the market?"
         },
         {
-          "title": "Anthropic restores AI models Fable, Mythos after the U.S. lifts export controls",
-          "url": "https://www.coindesk.com/tech/2026/07/01/anthropic-restores-ai-models-fable-mythos-after-the-u-s-lifts-export-controls",
-          "domain": "coindesk.com",
-          "date": "2026-07-01T06:54:13.000Z",
-          "source": "CoinDesk",
-          "summary": "The government cleared Fable 5 and Mythos 5 on June 30, weeks after a cybersecurity finding triggered an export order that froze access for everyone."
-        },
-        {
-          "title": "Taiwan’s legislature passes crypto, stablecoin regulations",
-          "url": "https://cointelegraph.com/news/taiwans-legislature-passes-crypto-regulation-licensing-laws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "Crypto enters Q3 with thinner liquidity but less leverage after Q2 reset: Talos",
+          "url": "https://cointelegraph.com/news/crypto-q3-less-leverage-thinner-liquidity-talos?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-07-01T06:15:48.000Z",
+          "date": "2026-07-01T10:59:41.000Z",
           "source": "CoinTelegraph",
-          "summary": "Taiwan’s legislative branch has passed the nation’s first crypto and stablecoin rules, which aim to integrate the country with the global crypto market."
+          "summary": "Bitcoin and Ether open interest fell sharply after $8.35 billion in long liquidations, while ETF outflows, weaker Strategy purchases and declining market depth reduced liquidity."
         },
         {
-          "title": "Anthropic to bring back Fable 5 as US lifts export controls",
-          "url": "https://cointelegraph.com/news/anthropic-reactivates-newest-ai-models-after-us-govt-lifts-restrictions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-01T06:14:32.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Claude Fable 5 will be redeployed with a new set of classifiers designed to identify and block a broader range of cybersecurity-related tasks."
+          "title": "Ripple, Coinbase among top donors in crypto’s $189 million election spending: report",
+          "url": "https://www.theblock.co/post/406851/ripple-coinbase-election-donations?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-01T10:49:32.000Z",
+          "source": "The Block",
+          "summary": "Crypto firms contributed $189 million to the 2026 midterms, with Ripple, Crypto.com and Coinbase leading corporate donations."
         },
         {
-          "title": "Here’s what happened in crypto today",
-          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-01T06:00:00.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-        },
-        {
-          "title": "XRP holds above $1 after leverage flush as network activity improves",
-          "url": "https://www.coindesk.com/markets/2026/07/01/xrp-holds-above-usd1-after-leverage-flush-as-network-activity-improves",
+          "title": "Bitcoin options traders load up on $50,000 puts and gold futures flash a death cross",
+          "url": "https://www.coindesk.com/markets/2026/07/01/bitcoin-options-traders-load-up-on-usd50-000-puts-and-gold-futures-flash-a-death-cross",
           "domain": "coindesk.com",
-          "date": "2026-07-01T05:30:16.000Z",
+          "date": "2026-07-01T10:47:34.000Z",
           "source": "CoinDesk",
-          "summary": "Open interest has collapsed from last year’s highs while active addresses and ETF inflows rise, but XRP still needs to reclaim $1.10 before the chart turns cleaner."
+          "summary": "Bitcoin options flows and a record gold OI suggest traders are bracing for further downside rather than a sustained recovery."
         },
         {
-          "title": "Taiwan’s sweeping crypto law raises the bar with licensing, reserve mandates, and tough penalties",
-          "url": "https://www.coindesk.com/policy/2026/07/01/taiwan-s-sweeping-crypto-law-raises-the-bar-with-licensing-reserve-mandates-and-tough-penalties",
+          "title": "Nearly 1,700 UK investors sue Binance, founder CZ over alleged unauthorized derivatives sales",
+          "url": "https://www.theblock.co/post/406842/uk-investors-sue-binance-cz?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-01T10:31:18.000Z",
+          "source": "The Block",
+          "summary": "Almost 1,700 investors are suing Binance and founder Changpeng Zhao in a London High Court over unauthorized crypto derivatives sale claims."
+        },
+        {
+          "title": "Aave logs biggest network-growth day in nearly 5 years as DeFi interest returns",
+          "url": "https://www.coindesk.com/markets/2026/07/01/aave-logs-biggest-network-growth-day-in-nearly-5-years-as-defi-interest-returns",
           "domain": "coindesk.com",
-          "date": "2026-07-01T05:04:14.000Z",
+          "date": "2026-07-01T10:20:54.000Z",
           "source": "CoinDesk",
-          "summary": "Taiwan has passed a sweeping new law to regulate its crypto sector, sending the bill to the President for final approval."
+          "summary": "The lending protocol added 1,806 new wallets in a single day, the most since October 2021, according to Santiment. The AAVE token has risen about 20% in a week even as the broader market slides."
+        },
+        {
+          "title": "South Korea moves to prosecute crypto whale for alleged pump-and-dump scheme",
+          "url": "https://www.theblock.co/post/406834/south-korea-prosecute-crypto-whale?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-01T09:31:52.000Z",
+          "source": "The Block",
+          "summary": "The suspect allegedly inflated a token's price on overseas platforms before dumping their holdings on a domestic exchange."
         }
       ]
     }
