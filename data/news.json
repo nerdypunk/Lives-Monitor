@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-02T18:14:57.425Z",
+  "updatedAt": "2026-07-02T19:56:43.660Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,6 +278,62 @@
       ],
       "articles": [
         {
+          "title": "eToro leads $12.5 million round in onchain perps exchange Extended",
+          "url": "https://www.theblock.co/post/407093/etoro-leads-12-5-million-round-in-onchain-perps-exchange-extended?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-02T19:23:16.000Z",
+          "source": "The Block",
+          "summary": "\"The partnership will focus on expanding access to global financial markets through next-generation on-chain infrastructure,\" eToro said."
+        },
+        {
+          "title": "IMF says tokenization could transform settlement and financial stability",
+          "url": "https://cointelegraph.com/news/imf-tokenization-financial-markets-settlement-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-02T19:17:32.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The global lender says blockchain-based finance could streamline markets but warns that fragmented standards and regulations may create new systemic risks."
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-02T19:15:44.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
+        {
+          "title": "CFTC’s Selig says Illinois lawmakers ‘decided they know better’ on crypto tax",
+          "url": "https://www.theblock.co/post/407094/cftcs-selig-says-illinois-lawmakers-decided-they-know-better-on-crypto-tax?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-02T19:12:45.000Z",
+          "source": "The Block",
+          "summary": "CFTC Chair Michael Selig sharply criticized Illinois' decision to pass a law that puts into place a 0.2% tax on crypto transactions."
+        },
+        {
+          "title": "Russia on track for digital ruble rollout on Sept. 1: Central bank governor",
+          "url": "https://cointelegraph.com/news/russia-digital-ruble-rollout-september-central-bank-governor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-02T19:04:55.000Z",
+          "source": "CoinTelegraph",
+          "summary": "EU authorities already preemptively sanctioned Russia’s digital ruble in 2025 as part of measures in response to the country’s war against Ukraine."
+        },
+        {
+          "title": "Securitize tokenizes $295 million of its own stock on Solana and Avalanche amid NYSE debut",
+          "url": "https://www.coindesk.com/business/2026/07/02/securitize-tokenizes-usd295-million-of-its-own-stock-on-solana-and-avalanche-amid-nyse-debut",
+          "domain": "coindesk.com",
+          "date": "2026-07-02T19:00:03.000Z",
+          "source": "CoinDesk",
+          "summary": "The newly-public company's shares are the largest issuer-sponsored tokenized stock at launch, aiming to make a point against rival third-party stock token issuers."
+        },
+        {
+          "title": "JPMorgan says Strategy’s bitcoin sale policy introduced ‘avoidable’ risk into crypto markets",
+          "url": "https://www.theblock.co/post/407071/jpmorgan-strategy-mstr-bitcoin-sale-policy-risk-crypto-markets?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-02T18:52:29.000Z",
+          "source": "The Block",
+          "summary": "Strategy introduced \"avoidable two-way risk\" into crypto markets with its recent bitcoin sale policy, according to JPMorgan analysts."
+        },
+        {
           "title": "Bitcoin price taps new July high above $62K on weak US jobs data",
           "url": "https://cointelegraph.com/markets/bitcoin-returns-to-62k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
@@ -300,62 +356,6 @@
           "date": "2026-07-02T17:04:32.000Z",
           "source": "CoinTelegraph",
           "summary": "Strategy is a registered US government contractor, though Kash Patel claimed that “no current conflict exists” with his $100,001 and $250,000 worth of the company’s stock that he reported late."
-        },
-        {
-          "title": "EToro invests in onchain derivatives platform Extended as brokers race into DeFi",
-          "url": "https://www.coindesk.com/business/2026/07/02/etoro-invests-in-onchain-derivatives-platform-extended-as-brokers-race-into-defi",
-          "domain": "coindesk.com",
-          "date": "2026-07-02T17:00:00.000Z",
-          "source": "CoinDesk",
-          "summary": "The broker plans to bring perpetual futures into Zengo wallet and expand DeFi products to its core platform as rivals like Robinhood expand onchain offerings."
-        },
-        {
-          "title": "Bitwise says STRC selloff signals crypto cycle nearing a bottom, not Strategy’s breaking point",
-          "url": "https://www.coindesk.com/markets/2026/07/02/bitwise-says-strc-selloff-signals-crypto-cycle-nearing-a-bottom-not-strategy-s-breaking-point",
-          "domain": "coindesk.com",
-          "date": "2026-07-02T16:51:36.000Z",
-          "source": "CoinDesk",
-          "summary": "Bitwise said STRC's volatility reflects a late-cycle leverage unwind, with institutions poised to replace Strategy as bitcoin's biggest buyer."
-        },
-        {
-          "title": "Ondo expands tokenized equities with onchain shareholder voting",
-          "url": "https://cointelegraph.com/news/ondo-tokenized-stocks-shareholder-voting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-02T16:25:01.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Ondo's latest partnership adds shareholder governance to tokenized stocks as competition in blockchain-based equity offerings accelerates."
-        },
-        {
-          "title": "Robinhood CEO says future of crypto is in real-world assets, not memecoins",
-          "url": "https://www.theblock.co/post/407047/robinhood-ceo-says-future-of-crypto-is-in-real-world-assets-not-memecoins?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-02T16:05:44.000Z",
-          "source": "The Block",
-          "summary": "Vlad Tenev spoke to his belief in the merging of TradFi and crypto when asked if digital assets have entered an \"enduring\" downturn."
-        },
-        {
-          "title": "Humanity Protocol repositions toward enterprise AI after $36 million hack, founder says",
-          "url": "https://www.theblock.co/post/407049/humanity-protocol-repositions-toward-enterprise-ai-after-36-million-hack-founder-says?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-02T15:46:37.000Z",
-          "source": "The Block",
-          "summary": "Humanity Protocol founder Terence Kwok says the project is pivoting to enterprise AI after a $36 million exploit, with fund recovery odds low."
-        },
-        {
-          "title": "US Treasury sanctions over 100 ISIS-K crypto addresses that moved over $1.4 million",
-          "url": "https://www.coindesk.com/policy/2026/07/02/us-treasury-sanctions-over-100-isis-k-crypto-addresses-in-latest-enforcement-action",
-          "domain": "coindesk.com",
-          "date": "2026-07-02T14:49:05.000Z",
-          "source": "CoinDesk",
-          "summary": "ISIS-K allegedly used its media wing to solicit donations via Tron, Monero, and Bitcoin, highlighting stablecoin issuers' growing role in sanctions enforcement."
-        },
-        {
-          "title": "SBI Crypto to shut down mining pool that holds roughly 2% of Bitcoin's hashrate",
-          "url": "https://www.coindesk.com/business/2026/07/02/sbi-crypto-to-shut-down-mining-pool-that-holds-roughly-2-of-bitcoin-s-hashrate",
-          "domain": "coindesk.com",
-          "date": "2026-07-02T14:44:55.000Z",
-          "source": "CoinDesk",
-          "summary": "Miners must redirect their hashrate before the July 31 cutoff, as the pool will stop accepting contributions after that date."
         }
       ]
     }
