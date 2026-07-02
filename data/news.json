@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-02T19:56:43.660Z",
+  "updatedAt": "2026-07-02T21:16:40.426Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -188,6 +188,14 @@
       ],
       "articles": [
         {
+          "title": "How to stop a mouse plague",
+          "url": "https://phys.org/news/2026-07-mouse-plague.html",
+          "domain": "phys.org",
+          "date": "2026-07-02T20:00:03.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "The scenes are biblical. Tens of thousands of rodents scattering across canola fields, behind sheds, into machinery. River fish with bellies full of mice. Carcasses littering the street, the sidewalk, outside your home. In supermarkets, the inescapable stench of dead and dying mice. These are the undeniable signs of a mouse plague."
+        },
+        {
           "title": "A WRAP for biology's greasiest problem",
           "url": "https://phys.org/news/2026-07-biology-greasiest-problem.html",
           "domain": "phys.org",
@@ -258,14 +266,6 @@
           "date": "2026-07-02T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2607.00628v1 Announce Type: new Abstract: In multispecies birth-death processes, how population regulation -- through suppressed replication, elevated mortality, or both -- affects macroscopic stochastic dynamics has escaped detailed analysis. Here, we show that the distribution of regulation mechanisms can be invisible in deterministic or mean-field dynamics but play a significant role in the diffusive evolution of population frequencies. By introducing a tunable regulation partitioning parameter $\\alpha_i$ and projecting a $d$-species birth-death process onto a $(d{-}1)$-dimensional Moran process, we find a regulation-mechanism-dependent diffusion tensor. For the simple two-species case, we derive exact fixation times and probabilities to show how different regulation mechanisms stochastically favors a more birth-regulated species, even under complete deterministic neutrality. Our model also allows us to define an $\\alpha$-dependent effective population size $N_{\\rm e}(\\alpha)$ among neutral species, generalizing its classical interpretation. For near-neutral populations or populations that are heterogeneous in their regulation mechanism, we used perturbation theory to calculate the spectral gap, identifying it with a diversity loss timescale which can also be interpreted as setting an effective population size. Our results are particularly applicable to interacting subpopulations of T cells (\"clones\") which are near-neutral, are regulated through proliferation and apoptosis, and lose diversity with time."
-        },
-        {
-          "title": "DRIADA: A Python Toolkit for Cross-Scale Analysis of Single-Neuron Selectivity and Population Dynamics",
-          "url": "https://arxiv.org/abs/2607.00851",
-          "domain": "arxiv.org",
-          "date": "2026-07-02T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2607.00851v1 Announce Type: new Abstract: Brain activity spans single-neuron, population, and network levels, and core questions in neural coding require moving between them. Yet current tools target a single paradigm and incompatible data formats, leaving cross-level questions hard to address. We present DRIADA, an open-source Python framework that unifies neural signals and time-aligned behavior in a shared data model, so selectivity testing, dimensionality reduction, and network analysis operate within a unified workflow. We evaluate it on synthetic data with known ground truth, hippocampal calcium imaging from 13~mice in an open field, and a simulated toroidal attractor network. In the hippocampal data, selectivity-based filtering restored a two-dimensional spatial embedding from a collapsed all-neuron embedding, while reverse analysis showed that ${\\sim}57\\%$ of neurons informative about leading manifold dimensions were not selective to any of the 11 measured behavioral features. On the toroidal benchmark, four independent modules recovered the expected topology. DRIADA makes cross-scale analysis routine across calcium imaging, spike trains, and simulated networks."
         }
       ]
     },
@@ -277,6 +277,14 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "Securitize becomes first to debut shares on NYSE and onchain, but it won’t be the last",
+          "url": "https://www.theblock.co/post/407104/securitize-first-debut-shares-nyse-onchain-but-wont-be-last?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-02T20:10:16.000Z",
+          "source": "The Block",
+          "summary": "President Brett Redfearn said the firm is in discussions to tokenize other IPOs \"definitely ... within the next year.”"
+        },
         {
           "title": "eToro leads $12.5 million round in onchain perps exchange Extended",
           "url": "https://www.theblock.co/post/407093/etoro-leads-12-5-million-round-in-onchain-perps-exchange-extended?utm_source=rss&utm_medium=rss",
@@ -348,14 +356,6 @@
           "date": "2026-07-02T17:30:59.000Z",
           "source": "The Block",
           "summary": "Onchain data from Arkham Intelligence now shows wallets tagged \"Clifton Collins\" holding roughly 4,500 BTC."
-        },
-        {
-          "title": "FBI director discloses Strategy holdings months after deadline: Report",
-          "url": "https://cointelegraph.com/news/fbi-director-kash-patel-strategy-bitcoin-disclosure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-02T17:04:32.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Strategy is a registered US government contractor, though Kash Patel claimed that “no current conflict exists” with his $100,001 and $250,000 worth of the company’s stock that he reported late."
         }
       ]
     }
