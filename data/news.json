@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-02T01:52:05.629Z",
+  "updatedAt": "2026-07-02T06:03:28.516Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -9,12 +9,12 @@
       ],
       "articles": [
         {
-          "title": "Why Is LAB Token Trending? Price, DeSci Utility & Risks Explained - Bitcoin World",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1zUkRsOWc1QW4yT2gydXFHQW1ibVl4U1ZUVmd1VTdRdU1JRzhseGFrTkRJY2p0emhJeWpiLTVCdmR3am9NSTdhUjNLVEU2SENUd0htZGZoc3RQYWZrRTBJX0JpeEVlbVBsM0twb2lnSjZzSXNkcmhqVkVFcFVxZw?oc=5",
-          "domain": "bitcoinworld.co.in",
-          "date": "2026-07-01T00:33:19.000Z",
-          "source": "Bitcoin World",
-          "summary": "Why Is LAB Token Trending? Price, DeSci Utility & Risks Explained &nbsp;&nbsp; Bitcoin World"
+          "title": "Bio Protocol develops AI agents to enhance decentralized science operations - Crypto Briefing",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mZGlhbTNwdWQ4dTdRZ1lHYmRVVEx2VWE0Q2h3Rzh5dXlIUFhiRTBoM0Z1Uk5DUzRqcThTMGtUbjI5aGNwTWVyRzdPeWo1Uk90RjFDMnl4VkN4N1FqRjNSNWRuNHZPaGs?oc=5",
+          "domain": "cryptobriefing.com",
+          "date": "2026-07-02T02:09:42.000Z",
+          "source": "Crypto Briefing",
+          "summary": "Bio Protocol develops AI agents to enhance decentralized science operations &nbsp;&nbsp; Crypto Briefing"
         },
         {
           "title": "NanoVita Joins ENI Super Node Ecosystem to Advance AI-Driven DeSci - Cryptonews.net",
@@ -188,84 +188,84 @@
       ],
       "articles": [
         {
-          "title": "Huge, specially designed heat pump saves a Norwegian agricultural cooperative millions",
-          "url": "https://phys.org/news/2026-07-huge-specially-norwegian-agricultural-cooperative.html",
-          "domain": "phys.org",
-          "date": "2026-07-02T01:00:01.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "There are some magical limits to how much energy we can get out of a heat pump. This story is about pushing the technical limits. It is about getting more energy out than you put in. And it's about how SINTEF—one of Europe's largest applied research organizations—the renewable energy company Aneo, and the Norwegian agricultural cooperative Felleskjøpet together managed to shift the recovery of process heat from theoretical calculations in researchers' notebooks to becoming an industrial electricity-saving project on a large scale."
-        },
-        {
-          "title": "Superworms could be the future of skeleton cleaning",
-          "url": "https://phys.org/news/2026-07-superworms-future-skeleton.html",
-          "domain": "phys.org",
-          "date": "2026-07-01T21:00:03.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Superworms, a mealworm-like form of beetle larva commonly used as pet food, are efficient cleaners of skeletons, according to a study published in PLOS One by Fatemeh Rastekar of Ferdowsi University of Mashhad, Iran, and colleagues."
-        },
-        {
-          "title": "Beyond 3-D: Data scientists introduce novel AI tool to interpret complex biological data",
-          "url": "https://phys.org/news/2026-07-d-scientists-ai-tool-complex.html",
-          "domain": "phys.org",
-          "date": "2026-07-01T19:00:03.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "As humans, our eyes take in two-dimensional images that our brains convert to three-dimensional experiences. This ability enables us to be aware of our position in space, judge distances, possess depth perception, and visually examine and enjoy all manner of objects and happenings."
-        },
-        {
-          "title": "Researchers discover novel SRV2 envelope protein for efficient CAR immune cell production",
-          "url": "https://phys.org/news/2026-07-srv2-envelope-protein-efficient-car.html",
-          "domain": "phys.org",
-          "date": "2026-07-01T18:20:01.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "A Korean research team has developed a new viral vector technology that significantly improves the production efficiency of next-generation cell and gene therapies known as CAR immune cell therapies, which are designed to recognize and destroy cancer cells."
-        },
-        {
-          "title": "World's first synthetic cell with a complete life cycle could revolutionize biological engineering",
-          "url": "https://phys.org/news/2026-07-world-synthetic-cell-life-revolutionize.html",
-          "domain": "phys.org",
-          "date": "2026-07-01T17:04:56.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "While many of life's mysteries remain unsolved, every biologist can describe the basic processes performed by a living organism, including energy use, reproduction, growth and development. While these characteristics can be replicated in isolation in a lab, the idea of a completely synthetic biological organism has long been relegated to science fiction."
-        },
-        {
-          "title": "Pattern formation in a Reaction-Diffusion Model for Amyloid-$\\beta$ and Tau Interactions in Alzheimer's Disease",
-          "url": "https://arxiv.org/abs/2606.30681",
+          "title": "SF-Cluster: Frustration-Guided MSA Subsampling for Alternative Protein Conformation Recovery",
+          "url": "https://arxiv.org/abs/2607.00180",
           "domain": "arxiv.org",
-          "date": "2026-07-01T04:00:00.000Z",
+          "date": "2026-07-02T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2606.30681v1 Announce Type: new Abstract: Alzheimer's disease (AD) is characterized by the accumulation of Amyloid-$\\beta$ ($A\\beta$) plaques and hyperphosphorylated Tau proteins. However, many individuals exhibit substantial $A\\beta$ and Tau pathology without developing dementia, suggesting that disease progression may depend not only on pathological burden but also on the spatial organization of these proteins. Motivated by this observation, we adapt Gray-Scott reaction-diffusion model to investigate pattern formation arising from the interactions between $A\\beta$ and Tau. % To systematically identify stable spatial configurations, we employ a Companion-Based Multi-Level Finite Element Method (CBMFEM) on both two-dimensional domains and anatomically realistic cortical surface meshes. Numerical simulations reveal a rich landscape of multiple steady-state solutions, which are subsequently classified into representative pattern phenotypes using principal component analysis and clustering techniques. The results demonstrate that the coupled $A\\beta$--Tau system admits numerous stable spatial patterns rather than a single pathological endpoint. % These findings provide a potential mathematical framework for understanding the heterogeneity of Alzheimer's disease and the existence of cognitively resilient individuals despite significant pathological burden. More broadly, the proposed framework suggests a pattern-based therapeutic paradigm in which disease dynamics are guided toward favorable stable states rather than solely targeting the elimination of pathological proteins."
+          "summary": "arXiv:2607.00180v1 Announce Type: new Abstract: Deep-learning structure predictors are sensitive to their multiple sequence alignment (MSA) input, making MSA subsampling a practical route to recovering alternative conformations. Existing approaches such as AF-Cluster operate in sequence space, providing limited control over which conformational basin is sampled. We introduce SF-Cluster, which subsamples MSAs using patterns of predicted local energetic frustration, a representation largely independent of sequence similarity. Across a benchmark of 48 cases spanning fold-switching, allosteric, oligomerization-coupled, and intrinsically disordered systems, and using an AF-Cluster-style dual-reference RMSD criterion, SF-Cluster improves target-state recovery of the alternative conformation over AF-Cluster across the two-state classes, with the largest improvement observed for allosteric systems (+15.5 percentage points). The selected MSAs transfer to an architecturally distinct predictor, indicating that the conformational signal resides in MSA composition. Mechanistically, matched-depth controls show that this recovery advantage is largely explained by the effective depth of the selected subsets, which frustration-pattern selection reliably reaches. At the same time, highly frustrated residues are enriched at sites supported by deep mutational scanning and NMR two-state exchange, and frustration covariation is enriched at state-switching contacts while remaining distinct from coevolutionary coupling. Together, these results identify frustration patterns as a transferable representation for conformational prediction and position MSA subsampling as a representation-guided reweighting problem."
         },
         {
-          "title": "DiSTILL: A Hybrid Cloud-HPC Workflow System for Reproducible Spatial Transcriptomics Analysis",
-          "url": "https://arxiv.org/abs/2606.30693",
+          "title": "Demographic senescence as multi-level selection in miniature",
+          "url": "https://arxiv.org/abs/2607.00262",
           "domain": "arxiv.org",
-          "date": "2026-07-01T04:00:00.000Z",
+          "date": "2026-07-02T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2606.30693v1 Announce Type: new Abstract: Spatial transcriptomics workflows increasingly combine large annotated data objects, notebook-based analyses, and resource-intensive statistical models that must be executed on high-performance computing (HPC) systems. In practice, these workflows are often difficult to reproduce because configuration, validation, stage execution, and artifact handling are fragmented across $\\textit{ad hoc}$ scripts and manually edited notebooks. We present $\\textit{DiSTILL}$ (Disease Diagnosis from Spatial Transcriptomics via Interpretable Latent Learning), a hybrid cloud$-$HPC workflow system for reproducible spatial transcriptomics (ST) analysis. DiSTILL combines an application programming interface (API) backend built with $\\texttt{FastAPI}$, a web frontend, a dataset and preset registry, and a Python pipeline generator that materializes run-specific execution bundles and $\\texttt{SLURM}$ submission scripts. The system supports local, Secure Shell (SSH)-mediated, and pull-based poller execution modes, enabling HPC submission in environments where persistent API-initiated automation is restricted. We describe the system through the lens of an inflammatory bowel disease (IBD) ST workflow that operationalizes the analytical pipeline of Tan $\\textit{et al.}$ into an auditable application layer. Accordingly, the contribution of this paper is a workflow systems contribution centered on reproducible execution, queue-based orchestration, configuration semantics, and deployment across a split cloud$-$HPC architecture. The broader application goal of DiSTILL is to support user-supplied datasets that satisfy the schema assumptions of the wrapped analytical pipeline."
+          "summary": "arXiv:2607.00262v1 Announce Type: new Abstract: Multi-level selection and senescence do not at first sight have much in common. Here, we demonstrate that the emergent mortality patterns generated by demographic senescence can be understood as the product of multi-level selection. We formulate a two-level Moran type process and use its scaling limits to illustrate that a simple mathematical framework that models multi-level selection in group-structured populations also models damage accumulation patterns and resultant mortality curves in ageing organisms. To verbally make the connection, observe that defectors spread within a group consisting of cooperators and defectors; when groups compete against each other, defector-rich groups suffer, and between-group selection causes such groups to be systematically under-represented. Exactly analogously, senescing individuals accumulate damage to physiological sub-systems, and `damage begets damage'; individuals who are more damaged are more likely to die, hence damage-rich individuals are systematically under-represented in later age classes. Thus, emergent senescence patterns in complex, integrated organisms are formally equivalent to the patterns generated by a within-generation multi-level selection process in which intra-organismal sub-systems play the role of particles, organisms play the role of collectives, and selective disappearance plays the role of group selection."
         },
         {
-          "title": "Modeling Cell-Cycle-Aware Single-Cell Drug Perturbation Responses",
-          "url": "https://arxiv.org/abs/2606.30695",
+          "title": "NeuroCogMap Reveals Cognitive Organization of Large Language Models",
+          "url": "https://arxiv.org/abs/2607.00397",
           "domain": "arxiv.org",
-          "date": "2026-07-01T04:00:00.000Z",
+          "date": "2026-07-02T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2606.30695v1 Announce Type: new Abstract: Single-cell drug perturbation models should predict not only transcriptional response magnitude, but also whether a treatment alters the proliferative state of a cell. This is challenging because cell-cycle variation is often treated as nuisance variation, and benchmark pipelines rarely treat drug-induced phase changes as a primary prediction target. We introduce scCycleMol, a cell-cycle-aware perturbation prediction framework built on a curated 24-hour SciPlex3 benchmark with standardized molecule identities, dose and cell-line metadata, and gene expression with cell-cycle supervision derived from treated states. Instead of using cell-cycle state as an input covariate, scCycleMol derives supervision from predicted treated expression and propagates it through a learnable full-expression cell-cycle head with circular G1/S/G2M phase targets. We evaluate marker-based supervision, molecular representations, and pretraining strategies to isolate sources of improvement. Across a SciPlex3 benchmark with over 600k cells, 186 perturbation conditions, multiple cancer cell lines, and thousands of genes, scCycleMol improves out-of-distribution expression prediction compared with conditional perturbation baselines. The best LINCS-pretrained circular model achieves 0.9093 expected all-gene r squared and 0.6843 expected differentially expressed gene r squared, compared with 0.6800 and 0.5400 for LINCS-pretrained ChemCPA. Closed-loop cell-cycle supervision improves phase accuracy by about 0.5 to 0.6 points while maintaining nearly unchanged expression prediction. A Tahoe-pretrained variant reaches 0.9609 phase accuracy, highlighting the benefit of explicit cell-cycle-aware supervision in perturbation modeling."
+          "summary": "arXiv:2607.00397v1 Announce Type: new Abstract: Understanding how complex cognitive functions are organized within artificial systems is central to interpreting large language models (LLMs) and relating them to biological cognition. Yet although LLMs exhibit broad cognitive-like behaviours, it remains unclear whether their internal representations form reproducible functional systems that explain behaviour, failure and links to human cognition. Here we present NeuroCogMap, a cognitive neuroscience-inspired framework that organizes internal features of LLMs into functional parcels and links them to interpretable functions, cognitive capabilities and a cognitive hierarchy. These parcels form a stable and semantically coherent organization that is partly conserved across models and functionally linked to model outputs. Within this organization, major LLM failures, including hallucination, bias, refusal failure and sycophancy, correspond to distinct disruptions in representational and behavioural-control systems, yielding internal signatures for mechanism-guided detection and targeted intervention. Beyond model behaviour, NeuroCogMap improves prediction of human cortical responses during naturalistic language comprehension, with the strongest correspondence in higher-order association cortex. At the cognitive level, its internal signatures expose latent strategies that guide refinements of classical models of human decision-making. Together, these findings establish NeuroCogMap as a system-level framework for mapping functional organization in artificial systems and for relating this organization to human cortical function and cognitive behaviour."
         },
         {
-          "title": "Structure-Regularized Interpretable TCR-Epitope Prediction",
-          "url": "https://arxiv.org/abs/2606.30902",
+          "title": "How Environment and Urbanization Shape Bird Diversity in Sri Lanka",
+          "url": "https://arxiv.org/abs/2607.00582",
           "domain": "arxiv.org",
-          "date": "2026-07-01T04:00:00.000Z",
+          "date": "2026-07-02T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2606.30902v1 Announce Type: new Abstract: T cell receptor (TCR)-epitope binding prediction is essential for understanding adaptive immunity and developing immunotherapies. Existing sequence- and structure-based models often generalize poorly to unseen epitopes and provide limited interpretability. Furthermore, the impact of generated structures on model learning remains unclear. We present TCR-SRIM, a structure-regularized interpretable-by-design model that combines protein language model embeddings with interpretable contact prototypes to capture residue-level TCR-epitope interactions. TCR-SRIM achieves state-of-the-art predictive performance and improved interpretation quality on the TCR-XAI benchmark. Using its inherent interpretability, we further evaluate the effect of generated structures on model learning. While structures predicted by AlphaFold3, TCRModel2, and tFold-TCR yield competitive performance, they lead to less accurate interaction patterns and reduced binding-site diversity than experimentally-resolved structures. Our results highlight limitations of current structure prediction models for TCR-epitope learning and demonstrate the value of interpretable-by-design models for studying generated biological structures."
+          "summary": "arXiv:2607.00582v1 Announce Type: new Abstract: This study presents a comprehensive analysis of bird diversity across Sri Lanka by integrating spatial, temporal, and environmental data. Bird observation records were combined with environmental variables, including weather conditions, air pollution, the Normalized Difference Vegetation Index (NDVI), land cover, elevation, and Artificial Light At Night (ALAN), and rigorously preprocessed to ensure data quality. Spatial analyses were conducted on multiple grid scales (2 km, 5 km, 10 km) to evaluate patterns in species richness while minimizing sampling bias through spatial thinning. Temporal trends were assessed using effort-corrected metrics including rarefied richness and occupancy rates to account for variations in observation effort over time. Environmental drivers of bird diversity were examined using multivariate statistical models, including Poisson Generalized Linear Models (GLMs) and correlation analyses, to identify key associations between ecological factors and species richness. Additionally, community structure, dominance patterns, and beta diversity were analyzed to understand variations in species composition across regions and time. The study found that land-cover type is a stronger predictor of bird diversity than individual continuous variables such as NDVI or temperature alone. Urbanization, measured by ALAN, exhibits nuanced scale-dependent effects, supporting high abundances of a few generalist species while reducing overall richness. The findings provide actionable insights into the patterns and drivers of avian diversity in Sri Lanka, offering a scalable and reproducible framework for biodiversity research and conservation planning."
         },
         {
-          "title": "Head Kinematics and Brain Tissue Deformation from Soccer Heading: A Review of Implications for Brain Injury Risk",
-          "url": "https://arxiv.org/abs/2606.30946",
+          "title": "Optimal control on a heterogeneous SI epidemic model",
+          "url": "https://arxiv.org/abs/2607.00584",
           "domain": "arxiv.org",
-          "date": "2026-07-01T04:00:00.000Z",
+          "date": "2026-07-02T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2606.30946v1 Announce Type: new Abstract: Purpose: Repeated heading of soccer balls has raised concerns of potential long-term neurological effects. Consequently, numerous studies have estimated head kinematics and brain deformation due to soccer headers across different cohorts and play scenarios to identify higher risk conditions. However, heterogeneity in study design, data collection, and analysis has produced inconsistent findings, and injury risk is infrequently reported. Therefore, a meta-analysis of the existing literature was conducted to identify knowledge gaps and inform future studies assessing injury risk in soccer. Methods: We synthesized data from studies reporting head kinematics or brain deformation from soccer headers on human subjects. The data from these studies were analyzed to obtain the risk of mild traumatic brain injury (mTBI) based on applicable injury metrics and risk curves. Results: The meta-analysis revealed specific trends, indicating that match scenarios, corner and goal-kicks, top and oblique impacts, and older age cohorts were associated with higher head kinematics, while sex-based trends were inconclusive. The choice of sensor system affected the estimated head kinematics, with headband sensors consistently measuring higher kinematics than mouthpiece sensors. The data showed large variability stemming from heterogeneous study designs, limiting the applicability of the observed trends. These factors also influenced injury risk predictions, with estimated concussion risks generally below 20%. Conclusion: This review reveals trends in mTBI risk from soccer heading across different cohorts and play scenarios. It also underscores the need for standardized reporting of kinematics and brain deformation to enable mTBI risk estimation and meaningful cross-study comparisons."
+          "summary": "arXiv:2607.00584v1 Announce Type: new Abstract: This work addresses an optimal control problem for a SI epidemic model incorporating heterogeneities in resistance and viral load at the population level. Building upon the heterogeneous SI framework developed in [1], a minimization problem constrained to the macroscopic counterpart of the SI dynamics derived therein is proposed. Unlike traditional optimal control problems in homogeneous epidemic models, the present approach focuses on an optimal control problem that accounts for population heterogeneity, offering insights from a microscale perspective. The contribution aims to minimize the final size of the infection within a finite time horizon by developing a pharmaceutical strategy, under a supply constraint that translates into an integral equality constraint in the control function. By applying the Pontryagin Minimum Principle, a characterization of an optimal control is provided."
+        },
+        {
+          "title": "Effective population sizes for asymmetrically regulated birth-death processes",
+          "url": "https://arxiv.org/abs/2607.00628",
+          "domain": "arxiv.org",
+          "date": "2026-07-02T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2607.00628v1 Announce Type: new Abstract: In multispecies birth-death processes, how population regulation -- through suppressed replication, elevated mortality, or both -- affects macroscopic stochastic dynamics has escaped detailed analysis. Here, we show that the distribution of regulation mechanisms can be invisible in deterministic or mean-field dynamics but play a significant role in the diffusive evolution of population frequencies. By introducing a tunable regulation partitioning parameter $\\alpha_i$ and projecting a $d$-species birth-death process onto a $(d{-}1)$-dimensional Moran process, we find a regulation-mechanism-dependent diffusion tensor. For the simple two-species case, we derive exact fixation times and probabilities to show how different regulation mechanisms stochastically favors a more birth-regulated species, even under complete deterministic neutrality. Our model also allows us to define an $\\alpha$-dependent effective population size $N_{\\rm e}(\\alpha)$ among neutral species, generalizing its classical interpretation. For near-neutral populations or populations that are heterogeneous in their regulation mechanism, we used perturbation theory to calculate the spectral gap, identifying it with a diversity loss timescale which can also be interpreted as setting an effective population size. Our results are particularly applicable to interacting subpopulations of T cells (\"clones\") which are near-neutral, are regulated through proliferation and apoptosis, and lose diversity with time."
+        },
+        {
+          "title": "DRIADA: A Python Toolkit for Cross-Scale Analysis of Single-Neuron Selectivity and Population Dynamics",
+          "url": "https://arxiv.org/abs/2607.00851",
+          "domain": "arxiv.org",
+          "date": "2026-07-02T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2607.00851v1 Announce Type: new Abstract: Brain activity spans single-neuron, population, and network levels, and core questions in neural coding require moving between them. Yet current tools target a single paradigm and incompatible data formats, leaving cross-level questions hard to address. We present DRIADA, an open-source Python framework that unifies neural signals and time-aligned behavior in a shared data model, so selectivity testing, dimensionality reduction, and network analysis operate within a unified workflow. We evaluate it on synthetic data with known ground truth, hippocampal calcium imaging from 13~mice in an open field, and a simulated toroidal attractor network. In the hippocampal data, selectivity-based filtering restored a two-dimensional spatial embedding from a collapsed all-neuron embedding, while reverse analysis showed that ${\\sim}57\\%$ of neurons informative about leading manifold dimensions were not selective to any of the 11 measured behavioral features. On the toroidal benchmark, four independent modules recovered the expected topology. DRIADA makes cross-scale analysis routine across calcium imaging, spike trains, and simulated networks."
+        },
+        {
+          "title": "Commutative Algebra Learning for Protein Flexibility Analysis",
+          "url": "https://arxiv.org/abs/2607.00879",
+          "domain": "arxiv.org",
+          "date": "2026-07-02T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2607.00879v1 Announce Type: new Abstract: Protein flexibility, commonly quantified by B-factors, is closely related to protein structure and function. However, accurate B-factor prediction remains challenging due to the multiscale nature of protein structures and the complexity of atomic interactions. In this work, we propose a commutative algebra-based learning framework, termed CAL, for protein B-factor prediction. Unlike many biomolecular prediction tasks that rely primarily on global structural representations, B-factor prediction requires an accurate characterization of the local geometric environments surrounding individual atoms. To address this challenge, CAL employs commutative algebra theory to construct localized algebraic descriptors at multiple spatial scales. On a benchmark dataset of 364 proteins, CAL improves prediction accuracy by 34.5\\% over the classical Gaussian network model (GNM). Extensive experiments demonstrate that CAL achieves robust and consistent performance across diverse datasets and is competitive with existing state-of-the-art methods. Furthermore, by integrating CAL with machine learning, we develop a blind prediction model capable of cross-protein B-factor prediction. Overall, CAL provides an effective, efficient, and mathematically principled framework for protein flexibility prediction and offers a powerful approach for analyzing and predicting localized structural properties in complex biomolecular systems."
+        },
+        {
+          "title": "Immune history shapes recurrent epidemics of antigenically related variants",
+          "url": "https://arxiv.org/abs/2607.00905",
+          "domain": "arxiv.org",
+          "date": "2026-07-02T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2607.00905v1 Announce Type: new Abstract: Population immunity carried over from past epidemics of an antigenically variable pathogen influences the epidemic of new variants based on their antigenic similarity to the previous ones. We develop a recurrent SIR model where a population faces sequential, antigenically related variants. The model yields a recurrence map for the population susceptibility to successive variants under the assumption of status-based population immunity. The model reveals that stable, equal-sized recurrent epidemics occur across broad parameter ranges, but can be destabilized when transmission is strong and antigenic escape is limited, leading to period-2 or more, or even more complex epidemic dynamics. Epidemic size is maximized at an intermediate basic reproduction number: higher transmissibility boosts immediate infection but also enhances cross-immunity, reducing future susceptibility of the population. Our results clarify how immune history shapes recurrent epidemics and why success in one wave does not ensure larger future epidemics."
+        },
+        {
+          "title": "Approximating Peak Prevalence in Multistage SIR Epidemics",
+          "url": "https://arxiv.org/abs/2607.01014",
+          "domain": "arxiv.org",
+          "date": "2026-07-02T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2607.01014v1 Announce Type: new Abstract: Estimating peak prevalence is a central problem in epidemic modeling because it determines the period of greatest infectious burden and is closely linked to health-care demand. In multistage SIR models, however, peak prevalence is generally less tractable than in the classical model with exponentially distributed infectious periods. Motivated by the use of weighted infectious-stage aggregates as surrogates for prevalence, we investigate the relationship between the prevalence peak and the maximum of a weighted stage functional in deterministic SI$(k)$R epidemic models. We show that this relationship depends critically on how the stage-progression rate is scaled as the number of infectious stages increases. Under naive scaling, in which the progression rate remains fixed, the weighted peak is asymptotically equivalent to the prevalence peak and the commonly used factor-two approximation fails. Under Erlang scaling, which preserves the mean infectious period, the multistage model converges to a delay formulation in which prevalence and the weighted stage functional become unweighted and triangularly weighted moving averages of incidence. This limiting representation provides a theoretical basis for the factor-two approximation and identifies the regimes in which it is accurate. It also explains why this approximation deteriorates as epidemic waves become more sharply peaked. We derive analytical error bounds and develop curvature-based and parameter-based corrections that substantially improve accuracy. Numerical studies confirm these improvements across a broad range of epidemiological parameters. Overall, the results show when weighted-stage peaks can be used reliably as proxies for peak prevalence and how the resulting estimates can be refined when the standard approximation loses accuracy."
         }
       ]
     },
@@ -278,84 +278,84 @@
       ],
       "articles": [
         {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-02T05:27:03.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
+        {
+          "title": "FBI Director Kash Patel caught sleeping on required disclosure of six-figure MSTR investment: Report",
+          "url": "https://www.coindesk.com/policy/2026/07/02/fbi-director-kash-patel-caught-sleeping-on-required-disclosure-of-six-figure-mstr-investment",
+          "domain": "coindesk.com",
+          "date": "2026-07-02T05:24:18.000Z",
+          "source": "CoinDesk",
+          "summary": "Patel loaded up on BTC-holder MSTR shares but failed to file a timely disclosure, according to a report by nonpartisan news outlet NOTUS."
+        },
+        {
+          "title": "Ether, solana, dogecoin in the green after Warsh comments push bitcoin above $60,000",
+          "url": "https://www.coindesk.com/markets/2026/07/02/ether-solana-dogecoin-in-the-green-after-warsh-comments-push-bitcoin-above-usd60-000",
+          "domain": "coindesk.com",
+          "date": "2026-07-02T05:22:54.000Z",
+          "source": "CoinDesk",
+          "summary": "Bitcoin climbed back above $60,000 for the first time in over a week after Fed Chair Kevin Warsh said inflation risks had come down. Solana led the majors, up about 16% on the week, while a semiconductor selloff hit Asian markets and dented the AI trade that has pulled capital from crypto all quarter."
+        },
+        {
+          "title": "France to strengthen response as crypto wrench attacks hit 77",
+          "url": "https://cointelegraph.com/news/french-wrench-attacks-rise-to-77-as-government-promises-more-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-02T05:22:40.000Z",
+          "source": "CoinTelegraph",
+          "summary": "French Interior Minister Laurent Nuñez promised a “more ambitious” three-part plan to reinforce security measures for the crypto sector."
+        },
+        {
+          "title": "Analyst warns BTC could drop further after worst June since 2022",
+          "url": "https://cointelegraph.com/news/renowned-analyst-predicts-btc-drop-to-52k-after-worst-june-since-2022?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-02T03:42:24.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The June close above realized price but below the 200-week moving average “signals the bear bottom is still ahead per prior cycles,” one analyst said."
+        },
+        {
+          "title": "Kalshi and Polymarket’s combined volume surges 75% to $45 billion in June amid World Cup fever",
+          "url": "https://www.theblock.co/post/406983/kalshi-polymarket-volume-45-billion?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-02T03:33:21.000Z",
+          "source": "The Block",
+          "summary": "Among the three, Kalshi saw the largest month-over-month increase in volume, growing 87.4% to $31.5 billion from $16.81 billion."
+        },
+        {
+          "title": "Venice AI becomes unicorn after $65M Series A as AI privacy concerns grow",
+          "url": "https://cointelegraph.com/news/venice-ai-becomes-a-unicorn-as-ai-privacy-concerns-grow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-02T03:31:39.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The funding round is Venice AI’s first external capital raise since it launched in May 2024."
+        },
+        {
+          "title": "Trumps’ American Bitcoin sinks 8.4% ahead of reverse stock split to stay listed",
+          "url": "https://cointelegraph.com/news/trumps-american-bitcoin-sinks-ahead-of-reverse-stock-split-to-stay-listed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-02T02:38:34.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The Trump sons' American Bitcoin hit a low on Wednesday ahead of the company’s reverse stock split, which aims to buoy shares and keep it on the Nasdaq."
+        },
+        {
+          "title": "Ark Invest scoops up $18 million in Circle shares as stock dips 41% over past month",
+          "url": "https://www.theblock.co/post/406978/ark-invest-18-million-circle?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-02T02:20:24.000Z",
+          "source": "The Block",
+          "summary": "Circle dropped 1% today after falling nearly 18% on Tuesday following the launch of the rival stablecoin project OUSD."
+        },
+        {
           "title": "Bitcoin tops $60K amid Fed inflation talks: Is bull trap or $65K next?",
           "url": "https://cointelegraph.com/markets/bitcoin-pings-60k-amid-fed-inflation-talks-is-bull-trap-or-65k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
           "date": "2026-07-01T22:02:40.000Z",
           "source": "CoinTelegraph",
           "summary": "Bitcoin rallied above $60,000 despite Federal Reserve rate hike fears and steady outflows from the BTC spot ETFs. Is the rally a bull trap?"
-        },
-        {
-          "title": "Robinhood rolls out public blockchain, plans crypto trading for UK residents",
-          "url": "https://cointelegraph.com/news/robinhood-public-blockchain-mainnet-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-01T21:38:49.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The company announced a suite of DeFi products, plans for launching crypto trading in the UK and its public mainnet after months of testing."
-        },
-        {
-          "title": "Ethereum Institutional launch draws support from across the Ethereum ecosystem",
-          "url": "https://www.coindesk.com/tech/2026/07/01/ethereum-institutional-launch-draws-support-from-across-the-ethereum-ecosystem",
-          "domain": "coindesk.com",
-          "date": "2026-07-01T21:13:24.000Z",
-          "source": "CoinDesk",
-          "summary": "Its launch comes as Ethereum's support ecosystem undergoes a broader evolution, following the debut of EthLabs and amid ongoing efforts by the Ethereum Foundation to respond to community criticism over transparency, communication and its role within the ecosystem."
-        },
-        {
-          "title": "Tradeweb executes real-time tokenized US Treasury transaction on Canton Network",
-          "url": "https://cointelegraph.com/news/tradeweb-executes-real-time-tokenized-us-treasury-transaction-on-canton-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-01T20:38:39.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Franklin Templeton transferred a tokenized US Treasury to Virtu Financial in what Tradeweb said was the first real-time transaction settled against USDCx."
-        },
-        {
-          "title": "Bitcoin bounces off 21-month low, but leverage data signals caution: Was $57K the bottom?",
-          "url": "https://cointelegraph.com/markets/bitcoin-bounces-off-21-month-low-but-leverage-data-signals-caution-was-57k-the-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-01T20:27:49.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Bitcoin found its footing after bulls took steps to reclaim the $60,000 level, but data casts doubt on whether it will flip back to support."
-        },
-        {
-          "title": "Here’s what happened in crypto today",
-          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-01T20:12:04.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-        },
-        {
-          "title": "Democrat backed by Ripple co-founder’s PAC wins Colorado primary",
-          "url": "https://cointelegraph.com/news/democrat-ripple-co-founders-pac-wins-colorado?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-01T19:30:08.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Colorado’s Democratic and Republican primaries finished on Tuesday, with at least one candidate supported by $1 million from a crypto-aligned PAC going to the November general election."
-        },
-        {
-          "title": "Trump-backed American Bitcoin sets 1-for-15 reverse stock split in bid to maintain Nasdaq listing",
-          "url": "https://www.theblock.co/post/406941/trump-backed-american-bitcoin-1-for-15-reverse-stock-split-maintain-nasdaq-listing?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-01T19:16:58.000Z",
-          "source": "The Block",
-          "summary": "American Bitcoin's reverse split will reduce outstanding shares from roughly 1.09 billion to about 73 million."
-        },
-        {
-          "title": "‘We desperately need legislation that includes an agreement on ethics:’ Trump financial filing adds urgency to crypto bill negotiations",
-          "url": "https://www.theblock.co/post/406953/desperately-need-legislation-on-ethics-trump-financial-filing-adds-urgency-to-crypto-bill-negotiations?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-01T19:03:57.000Z",
-          "source": "The Block",
-          "summary": "Trump's financial disclosure, revealing millions in crypto-related income, is adding urgency to write ethics restrictions into a crypto bill."
-        },
-        {
-          "title": "Bitcoin bear market ‘dead’ after first TD9 reversal signal since July 2022 fires",
-          "url": "https://cointelegraph.com/markets/bitcoin-tests-claims-price-is-dead-with-first-td9-reversal-signal-since-july-2022?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-01T18:59:27.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Bitcoin bear-market bottom signs appear as the TD9 indicator mirrors the final stages of the 2022 BTC price downtrend."
         }
       ]
     }
