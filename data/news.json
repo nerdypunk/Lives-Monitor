@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-02T22:37:49.412Z",
+  "updatedAt": "2026-07-02T23:46:08.044Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,6 +278,14 @@
       ],
       "articles": [
         {
+          "title": "Is Bitcoin heading for $65K? Sharplink buys $16M ETH: Market Moves",
+          "url": "https://cointelegraph.com/features/is-bitcoin-heading-for-65k-sharplink-buys-16m-eth-market-moves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-02T23:17:47.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Analysts are divided on Bitcoin's next move, but there's some hope at last. Meanwhile, SharpLink has resumed buying Ether after an eight-week pause, and other market news."
+        },
+        {
           "title": "Ripple co-founder backs venture launched by US senator's son: Report",
           "url": "https://cointelegraph.com/news/ripple-chris-larsen-senator-gillibrand-son-venture-market-structure-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
@@ -348,14 +356,6 @@
           "date": "2026-07-02T18:52:29.000Z",
           "source": "The Block",
           "summary": "Strategy introduced \"avoidable two-way risk\" into crypto markets with its recent bitcoin sale policy, according to JPMorgan analysts."
-        },
-        {
-          "title": "Bitcoin price taps new July high above $62K on weak US jobs data",
-          "url": "https://cointelegraph.com/markets/bitcoin-returns-to-62k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-02T17:41:26.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Bitcoin took daily gains to nearly 4% on the second day of \"green July\" as US labor-market signals supported an easing inflation policy from the Federal Reserve."
         }
       ]
     }
