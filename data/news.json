@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-03T18:02:37.895Z",
+  "updatedAt": "2026-07-03T19:50:40.926Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -23,14 +23,6 @@
           "date": "2026-07-02T02:09:42.000Z",
           "source": "Crypto Briefing",
           "summary": "Bio Protocol develops AI agents to enhance decentralized science operations &nbsp;&nbsp; Crypto Briefing"
-        },
-        {
-          "title": "BioProtocol unveils OpenLabs platform at DeSci Berlin to merge AI with decentralized research funding - Bitget",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCNktMaC1fVWRNbUVndEE4eWsxVFVXbnlmYy1JanlZREt2WHRwYmhnZ2hQUFhWRjJNZGstSDNqeEZjeTBUWEg5cE1zUG1wdXdkczVZclg5MWhKSl9wZlJMSFVXWnZyLTRxTVHSAWpBVV95cUxQQjZLTGgtX1VkTW1FZ3RBOHlrMVRVV255ZmMtSWp5WURLdlh0cGJoZ2doUFBYVkYyTWRrLUgzanhGY3kwVFhIOXBNc1BtcHV3ZHM1WXJYOTFoSkpfcGZSTEhVV1p2ci00cU1R?oc=5",
-          "domain": "bitget.com",
-          "date": "2026-06-19T07:00:00.000Z",
-          "source": "Bitget",
-          "summary": "BioProtocol unveils OpenLabs platform at DeSci Berlin to merge AI with decentralized research funding &nbsp;&nbsp; Bitget"
         },
         {
           "title": "NanoVita Joins ENI Super Node Ecosystem to Advance AI-Driven DeSci - CryptoNews.net",
@@ -81,12 +73,20 @@
           "summary": "DeSci Has Raised Millions For Research No VC Would Ever Touch &nbsp;&nbsp; Yellow.com"
         },
         {
-          "title": "Bio Protocol Jumps 53.85% in Intraday Trading - bloomingbit",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TN0RaS1ExWkVmU1FzMXlsRUJQVmZhQ2lnNEdfcFVVMEloWHFuS3VDdnd5SlpLakNvNzIxdld1LTY5VWlVX2c4U2pZaUlTaHZybXUwag?oc=5",
-          "domain": "en.bloomingbit.io",
-          "date": "2026-05-02T07:00:00.000Z",
-          "source": "bloomingbit",
-          "summary": "Bio Protocol Jumps 53.85% in Intraday Trading &nbsp;&nbsp; bloomingbit"
+          "title": "DeSci Momentum: BIO Protocol Surges as AI-Driven Drug Discovery Gains Market Traction - Tokenist",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9WM212UnlpQTlXcU45R042d0JUb0VxRWtSRnBYQnBnS0dCVEMtMGVCZ0pjcDdaMk4zYkNBQXo4RENYbURvN212VFliQjVHdzVzRU9DRTU5dElhazBOeTVOejJRNEVRNmtCUmRYWTRyZTg1WUE?oc=5",
+          "domain": "tokenist.com",
+          "date": "2026-04-16T07:00:00.000Z",
+          "source": "Tokenist",
+          "summary": "DeSci Momentum: BIO Protocol Surges as AI-Driven Drug Discovery Gains Market Traction &nbsp;&nbsp; Tokenist"
+        },
+        {
+          "title": "Bio Protocol (BIO) Surges 30% Amid Bullish Technical Setup - KuCoin",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOY0tTcGs4MHBTanBlTURDa0xQdXdISnJuWkpjclFBazc2SjIzbnFQOEJmUDhRVnByaldCSmdGZG1BSWlGdGJfaGNjRG1UUThjdzVpRFhFQkh2MGllM2ZzeVgwMEh6aE5lTmtNU2YwWU5oZWtpV1lfU29jbzBzQnFPLWpMUWtyMHl1c2dXY2E4S1dkUHM?oc=5",
+          "domain": "kucoin.com",
+          "date": "2026-04-15T07:00:00.000Z",
+          "source": "KuCoin",
+          "summary": "Bio Protocol (BIO) Surges 30% Amid Bullish Technical Setup &nbsp;&nbsp; KuCoin"
         }
       ]
     },
@@ -278,6 +278,22 @@
       ],
       "articles": [
         {
+          "title": "US senator calls for ban on elected officials issuing memecoins",
+          "url": "https://cointelegraph.com/news/us-senator-ban-elected-officials-memecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-03T19:26:21.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The restriction proposed by Senator Kirsten Gillibrand would bar members of Congress, the US president and their spouses from “issuing or sponsoring their own digital assets.”"
+        },
+        {
+          "title": "This sanctioned Russian stablecoin claims it processes billions, but blockchain analysts disagree",
+          "url": "https://www.coindesk.com/business/2026/07/03/this-sanctioned-russian-stablecoin-claims-it-processes-billions-but-blockchain-analysts-disagree",
+          "domain": "coindesk.com",
+          "date": "2026-07-03T19:18:59.000Z",
+          "source": "CoinDesk",
+          "summary": "A7A5 claims crypto data providers understate its trading activity, while blockchain analytics firms say the ruble-backed token's volumes have fallen sharply this year."
+        },
+        {
           "title": "CryptoQuant says bitcoin and altcoin exchange deposits have spiked, indicating higher volatility ahead",
           "url": "https://www.theblock.co/post/407160/cryptoquant-bitcoin-ether-altcoin-exchange-deposits-volatility?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
@@ -340,22 +356,6 @@
           "date": "2026-07-03T14:20:46.000Z",
           "source": "CoinTelegraph",
           "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-        },
-        {
-          "title": "EU crypto rulebook faces enforcement challenge as MiCA transition ends",
-          "url": "https://cointelegraph.com/news/eu-crypto-rulebook-enforcement-challenge-mica-transition-end?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-03T13:59:16.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Lawyers and industry executives expect EU regulators to enforce MiCA differently as unauthorized crypto companies are required to wind down operations."
-        },
-        {
-          "title": "Upbit says it only expressed interest in future OUSD participation",
-          "url": "https://cointelegraph.com/news/upbit-clarifies-ousd-role-open-standard-partner-list?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-03T13:19:49.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Upbit said it only expressed interest in potentially joining the OpenStandard ecosystem in the future, as several South Korean firms distanced themselves from the OUSD initiative."
         }
       ]
     }
