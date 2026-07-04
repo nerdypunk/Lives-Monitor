@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-04T08:06:17.361Z",
+  "updatedAt": "2026-07-04T10:26:10.162Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,6 +278,14 @@
       ],
       "articles": [
         {
+          "title": "Tim Draper denies moving Bitcoin, reiterates $250,000 BTC prediction",
+          "url": "https://cointelegraph.com/news/tim-draper-denies-moving-bitcoin-250k-btc-prediction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-04T08:31:02.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Tim Draper denies moving Bitcoin after blockchain analysts linked him to a wallet that transferred 1,000 BTC to Coinbase Prime."
+        },
+        {
           "title": "XRP climbs 8% as record holder losses signal better risk-reward for buyers",
           "url": "https://www.coindesk.com/markets/2026/07/04/xrp-climbs-8-as-one-onchain-gauge-signal-shows-favorable-risk-reward-for-buyers",
           "domain": "coindesk.com",
@@ -348,14 +356,6 @@
           "date": "2026-07-03T19:18:59.000Z",
           "source": "CoinDesk",
           "summary": "A7A5 claims crypto data providers understate its trading activity, while blockchain analytics firms say the ruble-backed token's volumes have fallen sharply this year."
-        },
-        {
-          "title": "CryptoQuant says bitcoin and altcoin exchange deposits have spiked, indicating higher volatility ahead",
-          "url": "https://www.theblock.co/post/407160/cryptoquant-bitcoin-ether-altcoin-exchange-deposits-volatility?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-03T17:55:56.000Z",
-          "source": "The Block",
-          "summary": "Bitcoin deposits to exchanges recently climbed to nearly 49,000 BTC, \"a rare extreme\" seen only four other times this year, CryptoQuant said."
         }
       ]
     }
