@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-04T19:56:26.210Z",
+  "updatedAt": "2026-07-04T21:05:31.866Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,6 +278,22 @@
       ],
       "articles": [
         {
+          "title": "Nearly 1 million wallets are down $3.81 billion on Trump’s memecoin: report",
+          "url": "https://www.theblock.co/post/407170/nearly-1-million-wallets-are-down-3-81-billion-on-trumps-memecoin-report?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-04T20:44:18.000Z",
+          "source": "The Block",
+          "summary": "Trump's annual financial disclosure showed a $636 million payout tied to the token and more than $1.4 billion in total crypto-related income for 2025."
+        },
+        {
+          "title": "Tokenization's next use case is personalized portfolios, NYLIM executive says",
+          "url": "https://www.coindesk.com/business/2026/07/02/tokenization-s-next-use-case-is-personalized-portfolios-nylim-executive-says",
+          "domain": "coindesk.com",
+          "date": "2026-07-04T20:00:00.000Z",
+          "source": "CoinDesk",
+          "summary": "Thomas Sy, head of multi-asset solutions at the $800-million asset manager, says blockchain can enable complex portfolio construction that's not yet possible in traditional finance."
+        },
+        {
           "title": "Kraken lets traders use tokenized stocks as collateral for leveraged trades",
           "url": "https://cointelegraph.com/news/kraken-lets-traders-use-tokenized-stocks-as-collateral-for-leveraged-trades?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
@@ -300,6 +316,14 @@
           "date": "2026-07-04T18:00:00.000Z",
           "source": "CoinDesk",
           "summary": "Binance founder Changpeng Zhao said Satoshi Nakamoto's bitcoin should be frozen before quantum computers can steal it. Not everyone agrees."
+        },
+        {
+          "title": "How ethical hackers with just a $3,000 server found a flaw that could've put $70 billion in crypto at risk",
+          "url": "https://www.coindesk.com/tech/2026/07/04/how-ethical-hackers-with-just-a-usd3-000-server-found-a-flaw-that-could-ve-put-usd70-billion-in-crypto-at-risk",
+          "domain": "coindesk.com",
+          "date": "2026-07-04T18:00:00.000Z",
+          "source": "CoinDesk",
+          "summary": "A critical flaw in the Aptos blockchain, which was patched, gave researchers a near-90% success rate at breaking a core security guarantee, with attack costs of just hundreds of dollars."
         },
         {
           "title": "Kalshi hits record June trading volume as World Cup fuels prediction markets",
@@ -332,30 +356,6 @@
           "date": "2026-07-04T15:30:52.000Z",
           "source": "CoinDesk",
           "summary": "The TRUMP token is down 96% from its peak, and 85% of secondary market wallets for WLFI are underwater, reflecting a broader downturn in the sector."
-        },
-        {
-          "title": "Europe led on crypto regulation. Now implementation must match ambition",
-          "url": "https://www.coindesk.com/opinion/2026/07/04/europe-led-on-crypto-regulation-now-implementation-must-match-ambition",
-          "domain": "coindesk.com",
-          "date": "2026-07-04T14:00:00.000Z",
-          "source": "CoinDesk",
-          "summary": ""
-        },
-        {
-          "title": "EU moves to block retail investors from explosive boom of multibillion-dollar prediction markets",
-          "url": "https://www.coindesk.com/policy/2026/07/04/eu-moves-to-block-retail-investors-from-explosive-boom-of-multibillion-dollar-prediction-markets",
-          "domain": "coindesk.com",
-          "date": "2026-07-04T13:56:27.000Z",
-          "source": "CoinDesk",
-          "summary": "The region's regulators emphasized that a product's actual function as a derivative matters more than its commercial name or labeling when assessing compliance."
-        },
-        {
-          "title": "Bollinger Bands creator eyes Bitcoin bear-market end, 'W'-shaped reversal",
-          "url": "https://cointelegraph.com/markets/bollinger-bands-creator-eyes-bitcoin-bear-market-end-w-shaped-reversal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-04T13:09:16.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Bitcoin price strength could \"break\" the entire downtrend if the reversal pattern completed, John Bollinger suggested in light of the BTC rebound."
         }
       ]
     }
