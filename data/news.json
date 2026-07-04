@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-04T10:26:10.162Z",
+  "updatedAt": "2026-07-04T11:52:47.303Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,6 +278,14 @@
       ],
       "articles": [
         {
+          "title": "Revolut to delist USDT in August, citing regulatory and risk concerns",
+          "url": "https://cointelegraph.com/news/revolut-usdt-delisting-regulatory-risk-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-04T11:25:34.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Revolut notified some customers it will delist USDT after Aug. 31, with remaining holdings automatically converted into users’ base currency."
+        },
+        {
           "title": "Tim Draper denies moving Bitcoin, reiterates $250,000 BTC prediction",
           "url": "https://cointelegraph.com/news/tim-draper-denies-moving-bitcoin-250k-btc-prediction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
@@ -348,14 +356,6 @@
           "date": "2026-07-03T19:26:21.000Z",
           "source": "CoinTelegraph",
           "summary": "The restriction proposed by Senator Kirsten Gillibrand would bar members of Congress, the US president and their spouses from “issuing or sponsoring their own digital assets.”"
-        },
-        {
-          "title": "This sanctioned Russian stablecoin claims it processes billions, but blockchain analysts disagree",
-          "url": "https://www.coindesk.com/business/2026/07/03/this-sanctioned-russian-stablecoin-claims-it-processes-billions-but-blockchain-analysts-disagree",
-          "domain": "coindesk.com",
-          "date": "2026-07-03T19:18:59.000Z",
-          "source": "CoinDesk",
-          "summary": "A7A5 claims crypto data providers understate its trading activity, while blockchain analytics firms say the ruble-backed token's volumes have fallen sharply this year."
         }
       ]
     }
