@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-04T05:11:54.788Z",
+  "updatedAt": "2026-07-04T08:06:17.361Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,6 +278,22 @@
       ],
       "articles": [
         {
+          "title": "XRP climbs 8% as record holder losses signal better risk-reward for buyers",
+          "url": "https://www.coindesk.com/markets/2026/07/04/xrp-climbs-8-as-one-onchain-gauge-signal-shows-favorable-risk-reward-for-buyers",
+          "domain": "coindesk.com",
+          "date": "2026-07-04T07:08:00.000Z",
+          "source": "CoinDesk",
+          "summary": "The token's 30-day and 365-day MVRV, a measure of how far holders are underwater, sit near -45% and -47%, lows Santiment says XRP has never reached before. Some traders read stretched losses as a contrarian signal."
+        },
+        {
+          "title": "Bitcoin’s next parabolic run may need $1 trillion in fresh capital",
+          "url": "https://www.coindesk.com/markets/2026/07/04/bitcoin-s-next-parabolic-run-may-need-usd1-trillion-in-fresh-capital",
+          "domain": "coindesk.com",
+          "date": "2026-07-04T06:48:42.000Z",
+          "source": "CoinDesk",
+          "summary": "This cycle, about $697 billion in new money has generated a roughly 689% gain, compared with earlier cycles where far less capital drove returns of upto 50,000%."
+        },
+        {
           "title": "Bitcoin profit and loss ratio falls to 43-month low",
           "url": "https://cointelegraph.com/news/bitcoin-realized-profit-loss-ratio-falls-to-lowest-level-since-2022-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
@@ -340,22 +356,6 @@
           "date": "2026-07-03T17:55:56.000Z",
           "source": "The Block",
           "summary": "Bitcoin deposits to exchanges recently climbed to nearly 49,000 BTC, \"a rare extreme\" seen only four other times this year, CryptoQuant said."
-        },
-        {
-          "title": "Donald Trump says ‘nothing wrong’ with $1.4B crypto windfall while in office",
-          "url": "https://cointelegraph.com/news/donald-trump-crypto-investments-president-profit-office?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-03T16:57:26.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The US President disclosed earning more than $1 billion from crypto ventures amid discussions of a digital asset market structure bill in Congress and legislation to ban CBDCs awaiting his desk."
-        },
-        {
-          "title": "ESMA warns many prediction market event contracts already face EU retail ban",
-          "url": "https://cointelegraph.com/news/esma-warns-many-prediction-market-contracts-may-be-prohibited-eu-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-03T16:54:20.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The European regulator said companies cannot circumvent EU financial rules by marketing binary-style products as event contracts rather than derivatives."
         }
       ]
     }
