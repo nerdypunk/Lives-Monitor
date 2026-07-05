@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-05T13:48:22.001Z",
+  "updatedAt": "2026-07-05T15:16:12.009Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,6 +278,22 @@
       ],
       "articles": [
         {
+          "title": "Americans traded $571 million on Polymarket politic bets despite U.S. ban",
+          "url": "https://www.coindesk.com/tech/2026/07/03/americans-traded-usd571-million-on-polymarket-politic-bets-despite-u-s-ban",
+          "domain": "coindesk.com",
+          "date": "2026-07-05T15:00:00.000Z",
+          "source": "CoinDesk",
+          "summary": "U.S.-linked wallets traded $571 million in political contracts over the past year, more than any other country, even though the platform legally cannot serve them. The money leans toward the foreign-conflict markets U.S. venues do not list."
+        },
+        {
+          "title": "Banks have stopped asking if stablecoins belong in finance, now they're considering how",
+          "url": "https://www.coindesk.com/business/2026/07/05/banks-have-stopped-asking-if-stablecoins-belong-in-finance-now-they-re-considering-how",
+          "domain": "coindesk.com",
+          "date": "2026-07-05T14:00:00.000Z",
+          "source": "CoinDesk",
+          "summary": "Financial institutions are racing to become the secure gateways for stablecoins as digital asset volume is projected to explode by 2030."
+        },
+        {
           "title": "Collateral, not yield, will decide which stablecoins win",
           "url": "https://www.coindesk.com/opinion/2026/07/05/collateral-not-yield-will-decide-which-stablecoins-win",
           "domain": "coindesk.com",
@@ -340,22 +356,6 @@
           "date": "2026-07-05T00:50:30.000Z",
           "source": "CoinTelegraph",
           "summary": "Moonbeam didn’t provide a timeline for when it would launch the AI agent platform but told GLMR holders to bridge their tokens from the Polkadot parachain to Base before July 31."
-        },
-        {
-          "title": "Bitcoin ETFs log record eighth straight negative week despite large Thursday inflow",
-          "url": "https://www.theblock.co/post/407173/bitcoin-etfs-log-record-eighth-straight-negative-week-despite-large-thursday-inflow?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-04T23:56:20.000Z",
-          "source": "The Block",
-          "summary": "Hyperliquid ETFs took in $4.3 million, their smallest week since launching in May, down from a record $111 million the week before."
-        },
-        {
-          "title": "Nearly 1 million wallets are down $3.81 billion on Trump’s memecoin: report",
-          "url": "https://www.theblock.co/post/407170/nearly-1-million-wallets-are-down-3-81-billion-on-trumps-memecoin-report?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-04T20:44:18.000Z",
-          "source": "The Block",
-          "summary": "Trump's annual financial disclosure showed a $636 million payout tied to the token and more than $1.4 billion in total crypto-related income for 2025."
         }
       ]
     }
