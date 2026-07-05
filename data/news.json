@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-05T07:49:38.474Z",
+  "updatedAt": "2026-07-05T10:19:31.040Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,6 +278,14 @@
       ],
       "articles": [
         {
+          "title": "Binance outflows triple to $1.2B as ETH withdrawals hit 3-year high",
+          "url": "https://cointelegraph.com/news/binance-outflows-1-23-billion-eth-withdrawals-3-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-05T08:33:39.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Binance recorded $1.23 billion in weekly net outflows, up 207% from the previous week, as Ethereum withdrawals surged to a three-year high."
+        },
+        {
           "title": "Barstool's Portnoy plans to hold bitcoin down to zero after timing it wrong every time",
           "url": "https://www.coindesk.com/markets/2026/07/05/barstool-s-portnoy-plans-to-hold-bitcoin-down-to-zero-after-timing-it-wrong-every-time",
           "domain": "coindesk.com",
@@ -348,14 +356,6 @@
           "date": "2026-07-04T18:07:17.000Z",
           "source": "CoinDesk",
           "summary": "The token hit its highest in over a month during thin July 4 trading, with XRP up 5% in 24 hours to lead gains among majors."
-        },
-        {
-          "title": "Bitcoin experts split over plan to freeze Satoshi's 1.1 million bitcoin as quantum threat grows",
-          "url": "https://www.coindesk.com/business/2026/07/04/bitcoin-experts-split-over-plan-to-freeze-satoshi-s-1-1-million-bitcoin-as-quantum-threat-grows",
-          "domain": "coindesk.com",
-          "date": "2026-07-04T18:00:00.000Z",
-          "source": "CoinDesk",
-          "summary": "Binance founder Changpeng Zhao said Satoshi Nakamoto's bitcoin should be frozen before quantum computers can steal it. Not everyone agrees."
         }
       ]
     }
