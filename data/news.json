@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-05T11:55:31.721Z",
+  "updatedAt": "2026-07-05T13:48:22.001Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -188,6 +188,14 @@
       ],
       "articles": [
         {
+          "title": "Mini monitor measures artificial heartbeat",
+          "url": "https://phys.org/news/2026-06-mini-artificial-heartbeat.html",
+          "domain": "phys.org",
+          "date": "2026-07-05T13:00:04.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "An international team, including the University of Tokyo, has created a sensor inspired by the lateral line in fish—their \"sixth sense\" organ—which measures the pulse of lab-grown 3D heart tissue (cardiac organoids). The device, called a biomechanical well plate, looks like a small white box containing four liquid-filled wells."
+        },
+        {
           "title": "Wild yeast discovery enables non-GM brewing of ornithine-enriched craft beer",
           "url": "https://phys.org/news/2026-07-wild-yeast-discovery-enables-gm.html",
           "domain": "phys.org",
@@ -258,14 +266,6 @@
           "date": "2026-07-02T15:00:01.000Z",
           "source": "Phys.org Biotechnology",
           "summary": "Human embryo models can help researchers study early human development and infertility without relying solely on human embryos. As the technology advances, these models are becoming more complex and can be maintained in culture for longer periods. These developments have raised new questions about how such research should be regulated."
-        },
-        {
-          "title": "AI could bring satellite crop monitoring to the world's most vulnerable farms",
-          "url": "https://phys.org/news/2026-07-ai-satellite-crop-world-vulnerable.html",
-          "domain": "phys.org",
-          "date": "2026-07-02T13:52:24.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Small farms grow much of the world's food, but from space they are nearly invisible. Their fields are tiny and ill-defined, and the satellite tools built to track crops were designed for the large, uniform fields of industrial agriculture, not the sub-hectare plots that feed many of the world's poorest people."
         }
       ]
     },
@@ -277,6 +277,30 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "Collateral, not yield, will decide which stablecoins win",
+          "url": "https://www.coindesk.com/opinion/2026/07/05/collateral-not-yield-will-decide-which-stablecoins-win",
+          "domain": "coindesk.com",
+          "date": "2026-07-05T13:00:00.000Z",
+          "source": "CoinDesk",
+          "summary": "As yield-bearing stablecoins race toward a $50 billion market capitalization, the industry is optimizing for the wrong metric, argues Artem Tolkachev, chief RWA officer at Falcon Finance."
+        },
+        {
+          "title": "Kalshi and prediction market sector embroiled in mixed bag of legal fights across U.S.",
+          "url": "https://www.coindesk.com/news-analysis/2026/07/02/kalshi-and-prediction-market-sector-embroiled-in-mixed-bag-of-legal-fights-across-u-s",
+          "domain": "coindesk.com",
+          "date": "2026-07-05T13:00:00.000Z",
+          "source": "CoinDesk",
+          "summary": "Some of the many battles with state gaming regulators aren't going well for the industry at the moment, but it isn't without its would-be government protectors."
+        },
+        {
+          "title": "South Africa proposes crypto tax guidance under existing framework",
+          "url": "https://cointelegraph.com/news/south-africa-proposes-crypto-tax-draft-guidance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-05T11:52:47.000Z",
+          "source": "CoinTelegraph",
+          "summary": "South Africa’s tax authority proposed draft guidance clarifying how crypto assets are taxed under existing income and capital gains tax rules, seeking public input until Aug. 31."
+        },
         {
           "title": "Binance outflows triple to $1.2B as ETH withdrawals hit 3-year high",
           "url": "https://cointelegraph.com/news/binance-outflows-1-23-billion-eth-withdrawals-3-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -332,30 +356,6 @@
           "date": "2026-07-04T20:44:18.000Z",
           "source": "The Block",
           "summary": "Trump's annual financial disclosure showed a $636 million payout tied to the token and more than $1.4 billion in total crypto-related income for 2025."
-        },
-        {
-          "title": "Tokenization's next use case is personalized portfolios, NYLIM executive says",
-          "url": "https://www.coindesk.com/business/2026/07/02/tokenization-s-next-use-case-is-personalized-portfolios-nylim-executive-says",
-          "domain": "coindesk.com",
-          "date": "2026-07-04T20:00:00.000Z",
-          "source": "CoinDesk",
-          "summary": "Thomas Sy, head of multi-asset solutions at the $800-million asset manager, says blockchain can enable complex portfolio construction that's not yet possible in traditional finance."
-        },
-        {
-          "title": "Kraken lets traders use tokenized stocks as collateral for leveraged trades",
-          "url": "https://cointelegraph.com/news/kraken-lets-traders-use-tokenized-stocks-as-collateral-for-leveraged-trades?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-04T19:37:11.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Eligible users can now use select tokenized stocks and ETFs as collateral for futures and margin trading without selling their holdings."
-        },
-        {
-          "title": "Bitcoin jumps above $63,000, reversing end-June losses",
-          "url": "https://www.coindesk.com/markets/2026/07/04/bitcoin-jumps-above-usd63-000-reversing-end-june-losses",
-          "domain": "coindesk.com",
-          "date": "2026-07-04T18:07:17.000Z",
-          "source": "CoinDesk",
-          "summary": "The token hit its highest in over a month during thin July 4 trading, with XRP up 5% in 24 hours to lead gains among majors."
         }
       ]
     }
