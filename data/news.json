@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-05T19:23:54.067Z",
+  "updatedAt": "2026-07-05T20:36:25.716Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,6 +278,14 @@
       ],
       "articles": [
         {
+          "title": "Vitalik Buterin says Ethereum’s next rebuild will rival the Merge, and take three to four years",
+          "url": "https://www.theblock.co/post/407176/vitalik-buterin-says-ethereums-next-rebuild-will-rival-the-merge-and-take-three-to-four-years?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-05T19:56:39.000Z",
+          "source": "The Block",
+          "summary": "He said quantum safety has \"shifted up a LOT in priority\" and that Hegota, slated for later this year, will likely be Ethereum's last \"pre-Lean\" hard fork."
+        },
+        {
           "title": "Clarity and Congress's summer break: State of Crypto",
           "url": "https://www.coindesk.com/policy/2026/07/05/clarity-and-congress-s-summer-break-state-of-crypto",
           "domain": "coindesk.com",
@@ -348,14 +356,6 @@
           "date": "2026-07-05T06:00:22.000Z",
           "source": "CoinDesk",
           "summary": "Barstool Sports founder Dave Portnoy said he will hold bitcoin all the way down to zero after buying near $100,000."
-        },
-        {
-          "title": "Here’s what happened in crypto today",
-          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-05T03:51:24.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
         }
       ]
     }
