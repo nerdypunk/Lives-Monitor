@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-05T00:17:00.638Z",
+  "updatedAt": "2026-07-05T04:41:12.029Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,6 +278,30 @@
       ],
       "articles": [
         {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-05T03:51:24.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
+        {
+          "title": "Vitalik Buterin shares top priorities for new 'Lean Ethereum' strawmap",
+          "url": "https://cointelegraph.com/news/vitalik-buterin-shares-top-priorities-for-new-lean-ethereum-roadmap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-05T03:50:36.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Part of the Ethereum Foundation’s plan to make Ethereum more private and scalable is to introduce a new virtual machine, with leanISA and RISC-V among the top candidates."
+        },
+        {
+          "title": "Moonbeam to pivot from Polkadot to Base, unveils AI agent framework",
+          "url": "https://cointelegraph.com/news/moonbeam-pivots-from-polkadot-to-base-unveils-ai-agent-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-05T00:50:30.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Moonbeam didn’t provide a timeline for when it would launch the AI agent platform but told GLMR holders to bridge their tokens from the Polkadot parachain to Base before July 31."
+        },
+        {
           "title": "Bitcoin ETFs log record eighth straight negative week despite large Thursday inflow",
           "url": "https://www.theblock.co/post/407173/bitcoin-etfs-log-record-eighth-straight-negative-week-despite-large-thursday-inflow?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
@@ -332,30 +356,6 @@
           "date": "2026-07-04T18:00:00.000Z",
           "source": "CoinDesk",
           "summary": "A critical flaw in the Aptos blockchain, which was patched, gave researchers a near-90% success rate at breaking a core security guarantee, with attack costs of just hundreds of dollars."
-        },
-        {
-          "title": "Kalshi hits record June trading volume as World Cup fuels prediction markets",
-          "url": "https://cointelegraph.com/news/world-cup-drives-prediction-markets-to-record-june-trading-volumes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-04T16:47:27.000Z",
-          "source": "CoinTelegraph",
-          "summary": "DefiLlama data shows Kalshi posted a record month for trading volume as the expanded FIFA World Cup boosted prediction market activity."
-        },
-        {
-          "title": "Aave’s new Monad market tops $100 million in deposits two days after launch",
-          "url": "https://www.theblock.co/post/407167/aaves-new-monad-market-tops-100-million-in-deposits-two-days-after-launch?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-04T16:32:20.000Z",
-          "source": "The Block",
-          "summary": "Aave's V4 deployment also crossed $250 million in deposits on Saturday, a new all-time high for that version of the protocol."
-        },
-        {
-          "title": "Why bitcoin's disconnect from record-high stocks won't last",
-          "url": "https://www.coindesk.com/markets/2026/07/03/why-bitcoin-s-disconnect-from-record-high-stocks-won-t-last",
-          "domain": "coindesk.com",
-          "date": "2026-07-04T16:00:00.000Z",
-          "source": "CoinDesk",
-          "summary": "Researchers at Schwab and Hashdex said AI has diverted capital from digital assets while bitcoin continues to follow a familiar post-halving recovery pattern."
         }
       ]
     }
