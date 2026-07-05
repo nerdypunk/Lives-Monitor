@@ -8,6 +8,51 @@
   },
   "transactions": [
     {
+      "signature": "4F3GPjqBUhdSjovVcq68aLg423QrCJAPpyP6vNMTM6jtGFv9dEW8nb6HykxadP5hLhAkCRxXN9pKem83X3yowKS9",
+      "type": "Transfer",
+      "amountText": "2.19375",
+      "from": "6ACwobpN5CJB7TNdJcHpRHqStvS96AH7kvXqiDaeCzLx",
+      "to": "2eCdmJKwGZ9f7rNEYqdAMf2w1hiicWd7awnKzvJihxTg",
+      "blockTime": 1783234749,
+      "slot": 430900225
+    },
+    {
+      "signature": "QnCY77proKRw4cGhdT3NCbbCuizXf7NmoVcfTNr4y7ckGNMzgEP6fVyGwVSFsc6aWQ59WvMExapfZ8zacU8MGhh",
+      "type": "Transfer",
+      "amountText": "2.25",
+      "from": "BBFbD2fCbEKZTfe8Qp2DopByjxdXDodEc8BQ7TXju5n",
+      "to": "6ACwobpN5CJB7TNdJcHpRHqStvS96AH7kvXqiDaeCzLx",
+      "blockTime": 1783234736,
+      "slot": 430900191
+    },
+    {
+      "signature": "4wX2xfxWCd28crfMd2asnXp26XKjrJQoWygXgjda5TxArN4R8e1v1sGkSc1jU4tjTwXW2AToAhTsmVFrP9aKiPSW",
+      "type": "Transfer",
+      "amountText": "6.4935",
+      "from": "6ACwobpN5CJB7TNdJcHpRHqStvS96AH7kvXqiDaeCzLx",
+      "to": "EHtmnXm6awiqQnEZC1E7h8oQXMnpaYr8HqfrpLGYJGb",
+      "blockTime": 1783234459,
+      "slot": 430899498
+    },
+    {
+      "signature": "5EGVPQ8JmSwBTmQVzJGAGJKZNXLPuU4NhwwFss6uNXMBRioXN4XhEZwQAeQ5LdUkgdxjtUqbAouMMumofHMYLy8f",
+      "type": "Transfer",
+      "amountText": "6.66",
+      "from": "BBFbD2fCbEKZTfe8Qp2DopByjxdXDodEc8BQ7TXju5n",
+      "to": "6ACwobpN5CJB7TNdJcHpRHqStvS96AH7kvXqiDaeCzLx",
+      "blockTime": 1783234450,
+      "slot": 430899476
+    },
+    {
+      "signature": "52hUzZppT7fkidzhDgujhHq3SvTVWjBE76oJzo12BJ1voSFzoEdCbY5rBMvbxTh1xYwe642G3r8krPZHTk2aNJDp",
+      "type": "Transfer",
+      "amountText": "58",
+      "from": "BV9VWBZ16Y5nKNU8haD5RVJvKYYMFArCjkGjADoZCZ3F",
+      "to": "uCWHaqAhTUc9SjCbaNpMUrvumDhLTLcVDRXrXnKbsKU",
+      "blockTime": 1783227079,
+      "slot": 430881145
+    },
+    {
       "signature": "wpnfpXoDdBin8Vi7NyPK1XBeLZGFfT6tjKk5ywawMUeg7NdejZnCu8NzbkKZuXrmENUKs2bhnaY2cumyWEUYhGY",
       "type": "Transfer",
       "amountText": "4.875",
@@ -34659,9 +34704,9 @@
     }
   ],
   "stats": {
-    "last24h": 54,
-    "totalCached": 3850,
+    "last24h": 59,
+    "totalCached": 3855,
     "historyComplete": true
   },
-  "updatedAt": "2026-07-05T04:41:10.638Z"
+  "updatedAt": "2026-07-05T07:49:24.674Z"
 }
