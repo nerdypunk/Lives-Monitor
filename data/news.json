@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-06T12:25:46.157Z",
+  "updatedAt": "2026-07-06T16:01:23.919Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -8,14 +8,6 @@
         "https://news.google.com/rss/search?q=DeSci%20OR%20%22decentralized%20science%22%20OR%20%22BIO%20Protocol%22&hl=en-US&gl=US&ceid=US:en"
       ],
       "articles": [
-        {
-          "title": "Bio Protocol launches OpenLabs, focusing on research crowdfunding for collaboration between humans and AI Agents - Bitget",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1lUjNSdnFibndDMF9DdmZLLTRXMTVrbDFFTGw1OXZURW9kZ2VxcFR5c1p3dmEyWnEtalBvTzY2VDU1RGZGMW9jOXpObW8yNmRhc1dDeUdabmM3TmxZVDdoS3J6VdIBY0FVX3lxTE1lUjNSdnFibndDMF9DdmZLLTRXMTVrbDFFTGw1OXZURW9kZ2VxcFR5c1p3dmEyWnEtalBvTzY2VDU1RGZGMW9jOXpObW8yNmRhc1dDeUdabmM3TmxZVDdoS3J6VQ?oc=5",
-          "domain": "bitget.com",
-          "date": "2026-07-03T14:53:21.000Z",
-          "source": "Bitget",
-          "summary": "Bio Protocol launches OpenLabs, focusing on research crowdfunding for collaboration between humans and AI Agents &nbsp;&nbsp; Bitget"
-        },
         {
           "title": "Bio Protocol develops AI agents to enhance decentralized science operations - Crypto Briefing",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mZGlhbTNwdWQ4dTdRZ1lHYmRVVEx2VWE0Q2h3Rzh5dXlIUFhiRTBoM0Z1Uk5DUzRqcThTMGtUbjI5aGNwTWVyRzdPeWo1Uk90RjFDMnl4VkN4N1FqRjNSNWRuNHZPaGs?oc=5",
@@ -87,6 +79,14 @@
           "date": "2026-05-04T06:44:54.000Z",
           "source": "Yellow.com",
           "summary": "DeSci Has Raised Millions For Research No VC Would Ever Touch &nbsp;&nbsp; Yellow.com"
+        },
+        {
+          "title": "Bio Protocol Jumps 53.85% in Intraday Trading - bloomingbit",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TN0RaS1ExWkVmU1FzMXlsRUJQVmZhQ2lnNEdfcFVVMEloWHFuS3VDdnd5SlpLakNvNzIxdld1LTY5VWlVX2c4U2pZaUlTaHZybXUwag?oc=5",
+          "domain": "en.bloomingbit.io",
+          "date": "2026-05-02T07:00:00.000Z",
+          "source": "bloomingbit",
+          "summary": "Bio Protocol Jumps 53.85% in Intraday Trading &nbsp;&nbsp; bloomingbit"
         }
       ]
     },
@@ -188,6 +188,14 @@
       ],
       "articles": [
         {
+          "title": "Q&A: How camera-equipped homing pigeons could improve robotic vision in flight",
+          "url": "https://phys.org/news/2026-07-qa-camera-equipped-homing-pigeons.html",
+          "domain": "phys.org",
+          "date": "2026-07-06T15:00:08.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Contrary to common assumptions, pigeons do not lock their eyes in place during flight. Instead, they make slow, subtle eye movements that may help them gather more information about their surroundings."
+        },
+        {
           "title": "Author Correction: Sustained nitric oxide production by engineered E. coli remodels the tumor microenvironment and potentiates immunotherapy",
           "url": "https://www.nature.com/articles/s41587-026-03247-5",
           "domain": "nature.com",
@@ -258,14 +266,6 @@
           "date": "2026-07-03T00:00:00.000Z",
           "source": "Nature Biotechnology",
           "summary": "Nature Biotechnology, Published online: 03 July 2026; doi:10.1038/s41587-026-03246-6 Author Correction: Improved RNA base editing with guide RNAs mimicking highly edited endogenous ADAR substrates"
-        },
-        {
-          "title": "How to stop a mouse plague",
-          "url": "https://phys.org/news/2026-07-mouse-plague.html",
-          "domain": "phys.org",
-          "date": "2026-07-02T20:00:03.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "The scenes are biblical. Tens of thousands of rodents scattering across canola fields, behind sheds, into machinery. River fish with bellies full of mice. Carcasses littering the street, the sidewalk, outside your home. In supermarkets, the inescapable stench of dead and dying mice. These are the undeniable signs of a mouse plague."
         }
       ]
     },
@@ -278,84 +278,84 @@
       ],
       "articles": [
         {
-          "title": "Strategy sells 3,588 BTC for $216 million, with total bitcoin holdings still underwater",
-          "url": "https://www.theblock.co/post/407217/strategy-bitcoin-digital-energy?utm_source=rss&utm_medium=rss",
+          "title": "Circle’s USDC is leaving Tether behind in the stablecoin volume race, new data from Visa shows",
+          "url": "https://www.coindesk.com/business/2026/07/06/circle-s-usdc-is-leaving-tether-behind-in-the-stablecoin-volume-race",
+          "domain": "coindesk.com",
+          "date": "2026-07-06T16:00:15.000Z",
+          "source": "CoinDesk",
+          "summary": "As Wall Street banks adopt digital currencies for faster settlements, overall trading volume spiked 63% in just a single month."
+        },
+        {
+          "title": "President Trump says he’s a ‘big crypto guy,’ while distancing himself from family’s crypto ventures",
+          "url": "https://www.theblock.co/post/407312/president-trump-big-crypto-guy-distancing-familys-crypto-ventures?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-07-06T12:22:55.000Z",
+          "date": "2026-07-06T15:53:22.000Z",
           "source": "The Block",
-          "summary": "Strategy's total holdings account for more than 4% of the 21 million bitcoin supply cap — worth around $52.3 billion."
+          "summary": "President Trump called cryptocurrency \"powerful\" during the launch of Trump investment accounts for children."
         },
         {
-          "title": "Michael Saylor's Strategy dramatically ups pace of bitcoin sales, raising $216 million",
-          "url": "https://www.coindesk.com/markets/2026/07/06/michael-saylor-s-strategy-dramatically-ups-pace-of-bitcoin-sales-raising-usd216-million",
+          "title": "One month that shook the market: Saylor's struggles over bitcoin strategy yields big losses",
+          "url": "https://www.coindesk.com/markets/2026/07/06/one-month-that-shook-the-market-saylor-s-struggles-over-bitcoin-strategy-yields-big-loss",
           "domain": "coindesk.com",
-          "date": "2026-07-06T12:16:28.000Z",
+          "date": "2026-07-06T15:47:12.000Z",
           "source": "CoinDesk",
-          "summary": "The company sold 3,588 bitcoin last week to replenish its dollar reserves for dividends on its preferred stock."
+          "summary": "First, it was a tiny amount of bitcoin sales, then it was the purchase of several thousand BTC, and finally, today, the unloading of thousands of BTC. What's happening at Strategy?"
         },
         {
-          "title": "Belgian regulator flags six unauthorized crypto providers after MiCA deadline",
-          "url": "https://cointelegraph.com/news/belgium-unauthorized-crypto-firms-mica-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "Ethereum developers embrace Vitalik Buterin's long-term vision but urge quicker execution",
+          "url": "https://www.coindesk.com/tech/2026/07/06/ethereum-developers-embrace-vitalik-buterin-s-long-term-vision-but-urge-quicker-execution",
+          "domain": "coindesk.com",
+          "date": "2026-07-06T15:34:33.000Z",
+          "source": "CoinDesk",
+          "summary": "The \"Lean Ethereum\" strawmap, updated earlier this week, has gained support from many of the network's researchers, though several say the biggest challenge won't be deciding what to build, but how quickly it can happen."
+        },
+        {
+          "title": "Bitcoin price falls up to 4% on Strategy BTC sale as trader sees Summer 2022 repeat",
+          "url": "https://cointelegraph.com/markets/bitcoin-price-falls-on-strategy-btc-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-07-06T12:15:20.000Z",
+          "date": "2026-07-06T15:22:45.000Z",
           "source": "CoinTelegraph",
-          "summary": "Belgium’s FSMA warned consumers about six crypto-asset service providers it added to a fraudulent CASP list days after the EU’s MiCA transitional period expired."
+          "summary": "Bitcoin wiped out much of its latest gains thanks to a market reaction to Strategy's 3,600 BTC sell-off, but analysis eyed a potential buy announcement in the coming days."
         },
         {
-          "title": "Russia's largest bank plans crypto wallet launch as Moscow clears market path",
-          "url": "https://www.coindesk.com/business/2026/07/06/russia-s-largest-bank-plans-crypto-wallet-launch-as-moscow-clears-market-path",
-          "domain": "coindesk.com",
-          "date": "2026-07-06T11:36:05.000Z",
-          "source": "CoinDesk",
-          "summary": "Services will integrate into \"Sberbank Online\" and \"SberInvestments\" once the \"On Digital Currency and Digital Rights\" bill takes effect in September."
-        },
-        {
-          "title": "SpaceX's Nasdaq 100 inclusion comes with a historical warning",
-          "url": "https://www.coindesk.com/markets/2026/07/06/spacex-s-nasdaq-100-inclusion-comes-with-a-historical-warning",
-          "domain": "coindesk.com",
-          "date": "2026-07-06T11:16:26.000Z",
-          "source": "CoinDesk",
-          "summary": "The largest IPO ever enters the Nasdaq 100. Previous additions like Palantir and Strategy saw volatility after the index inclusion rather than the start of new rallies."
-        },
-        {
-          "title": "U.S. inflation outlook underpins bitcoin bulls after best week since March",
-          "url": "https://www.coindesk.com/daybook-us/2026/07/06/u-s-inflation-outlook-underpins-bitcoin-bulls-after-best-week-since-march",
-          "domain": "coindesk.com",
-          "date": "2026-07-06T11:15:00.000Z",
-          "source": "CoinDesk",
-          "summary": "Your day-ahead look for July 6, 2026"
-        },
-        {
-          "title": "‘Any signs of life?’ Bernstein holds ‘ambitious’ $150K year-end bitcoin target despite 54% drawdown",
-          "url": "https://www.theblock.co/post/407212/any-signs-of-life-bernstein-holds-ambitious-150k-year-end-bitcoin-target-despite-54-drawdown?utm_source=rss&utm_medium=rss",
+          "title": "Keel jumps 10% after former bitcoin miner hires data center veteran as president",
+          "url": "https://www.theblock.co/post/407300/keel-jumps-10-former-bitcoin-miner-hires-data-center-veteran-president?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-07-06T10:49:28.000Z",
+          "date": "2026-07-06T15:01:59.000Z",
           "source": "The Block",
-          "summary": "Bernstein says bitcoin's 54% drawdown is milder than past cycles, retaining its \"ambitious\" $150K year-end target."
+          "summary": "Former Digital Realty executive Ganesh Aiyer will lead Keel's commercial growth and power pipeline expansion."
         },
         {
-          "title": "Crypto bounces back from the brink as altcoin optimism returns despite pockets of weakness",
-          "url": "https://www.coindesk.com/markets/2026/07/06/crypto-bounces-back-from-the-brink-as-altcoin-optimism-returns-despite-pockets-of-weakness",
+          "title": "Securitize eyes acquisitions with $400 million war chest after going public, CEO says",
+          "url": "https://www.coindesk.com/business/2026/07/06/securitize-eyes-acquisitions-with-usd400-million-war-chest-after-going-public-ceo-says",
           "domain": "coindesk.com",
-          "date": "2026-07-06T10:44:45.000Z",
+          "date": "2026-07-06T14:25:32.000Z",
           "source": "CoinDesk",
-          "summary": "BTC holds at $62,800 after last week's brush with $58,000, while LIT surges 50% and the Altcoin Season indicator hits its highest reading in three months."
+          "summary": "Following its NYSE debut, Securitize CEO Carlos Domingo said the firm wants to expand its institutional tokenization platform rather than buy competitors."
         },
         {
-          "title": "$60.4K Becomes 'most important area': Five things to know in Bitcoin this week",
-          "url": "https://cointelegraph.com/markets/604k-becomes-most-important-area-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "Bitmine’s Tom Lee ties ether strength to Clarity Act odds as treasury nears 5% of Ethereum’s total supply",
+          "url": "https://www.theblock.co/post/407283/bitmines-tom-lee-ties-ether-strength-to-clarity-act-odds-as-treasury-nears-5-of-ethereums-total-supply?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-06T14:15:48.000Z",
+          "source": "The Block",
+          "summary": "Bitmine acquired 42,197 ether worth an estimated $74 million last week, lifting its treasury to over 5.7 million ETH."
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-07-06T10:25:20.000Z",
+          "date": "2026-07-06T14:06:57.000Z",
           "source": "CoinTelegraph",
-          "summary": "Bitcoin saw its highest levels in nearly two weeks at the weekly close, but bulls needed a push beyond $65,000 for real trend inflection, said the latest BTC price analysis."
+          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
         },
         {
-          "title": "Bitcoin's Sharpe Ratio slides to lowest since 2022. Here's what it means.",
-          "url": "https://www.coindesk.com/markets/2026/07/06/bitcoin-s-sharpe-ratio-slides-to-lowest-since-2022-here-s-what-it-means",
-          "domain": "coindesk.com",
-          "date": "2026-07-06T10:19:56.000Z",
-          "source": "CoinDesk",
-          "summary": "A reading that negative means investors would have been better off in risk-free assets like 10-year U.S. Treasuries."
+          "title": "TeraWulf signs 20-year data center lease with Anthropic expected to generate $19 billion in revenue",
+          "url": "https://www.theblock.co/post/407282/terawulf-data-center-lease-anthropic-19-billion-revenue?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-06T14:02:39.000Z",
+          "source": "The Block",
+          "summary": "Anthropic will lease at TeraWulf's Justified Data site in Hawesville, Kentucky, which is expected to provide 401 MW of IT load."
         }
       ]
     }
