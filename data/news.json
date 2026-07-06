@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-05T23:46:56.532Z",
+  "updatedAt": "2026-07-06T03:56:35.172Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,7 +278,23 @@
       ],
       "articles": [
         {
-          "title": "Dubai tops Asian crypto hubs, India isolates banks from crypto: Asia Express",
+          "title": "Central bankers sound alarms over agentic AI finance risks",
+          "url": "https://cointelegraph.com/news/central-bankers-sound-alarms-over-agentic-ai-finance-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-06T03:30:19.000Z",
+          "source": "CoinTelegraph",
+          "summary": "“We need to think about new tools and a different way of working with the [AI] market in a more collaborative way,” says Nikhil Rathi, CEO of the UK’s finance watchdog."
+        },
+        {
+          "title": "Trump’s memecoin holders have lost over $3.8B: Report",
+          "url": "https://cointelegraph.com/news/trumps-memecoin-loses-38b-for-nearly-1m-holders-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-06T03:12:14.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Nansen analysis shows that just under half a million wallets had profited on Donald Trump’s memecoin, while the large majority of buyers have lost out."
+        },
+        {
+          "title": "Dubai tops Asian crypto hubs, Taiwan passes crypto laws: Asia Express",
           "url": "https://cointelegraph.com/features/asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
           "date": "2026-07-05T23:35:03.000Z",
@@ -340,22 +356,6 @@
           "date": "2026-07-05T13:00:00.000Z",
           "source": "CoinDesk",
           "summary": "As yield-bearing stablecoins race toward a $50 billion market capitalization, the industry is optimizing for the wrong metric, argues Artem Tolkachev, chief RWA officer at Falcon Finance."
-        },
-        {
-          "title": "Kalshi and prediction market sector embroiled in mixed bag of legal fights across U.S.",
-          "url": "https://www.coindesk.com/news-analysis/2026/07/02/kalshi-and-prediction-market-sector-embroiled-in-mixed-bag-of-legal-fights-across-u-s",
-          "domain": "coindesk.com",
-          "date": "2026-07-05T13:00:00.000Z",
-          "source": "CoinDesk",
-          "summary": "Some of the many battles with state gaming regulators aren't going well for the industry at the moment, but it isn't without its would-be government protectors."
-        },
-        {
-          "title": "South Africa proposes crypto tax guidance under existing framework",
-          "url": "https://cointelegraph.com/news/south-africa-proposes-crypto-tax-draft-guidance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-05T11:52:47.000Z",
-          "source": "CoinTelegraph",
-          "summary": "South Africa’s tax authority proposed draft guidance clarifying how crypto assets are taxed under existing income and capital gains tax rules, seeking public input until Aug. 31."
         }
       ]
     }
