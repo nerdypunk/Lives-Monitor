@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-06T18:20:58.779Z",
+  "updatedAt": "2026-07-06T20:25:53.704Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -98,6 +98,14 @@
       ],
       "articles": [
         {
+          "title": "How Muscle Loss and Bone Loss Are Related",
+          "url": "https://lifespan.io/how-muscle-loss-and-bone-loss-are-related/",
+          "domain": "lifespan.io",
+          "date": "2026-07-06T19:17:12.000Z",
+          "source": "Lifespan.io",
+          "summary": "Researchers have elucidated some of the links between the age-related loss of muscle (sarcopenia) and the age-related loss of bone (osteoporosis). Related in multiple ways Substantial previous […]"
+        },
+        {
           "title": "RNA, AI and the end of one-size-fits-all nutrition",
           "url": "https://longevity.technology/news/rna-ai-and-the-end-of-one-size-fits-all-nutrition/",
           "domain": "longevity.technology",
@@ -168,14 +176,6 @@
           "date": "2026-07-06T09:36:09.000Z",
           "source": "Longevity.Technology",
           "summary": "United Therapeutics has acquired Thymmune Therapeutics, a privately held preclinical biotechnology company developing regenerative thymic cell therapies, in a transaction announced on 2 July 2026. The agreement provides $140 million in cash, subject to post-closing adjustments, plus potential earn-out payments of up to $160 million tied to clinical and regulatory milestones through 2031. Thymmune’s platform […] The post United Therapeutics buys Thymmune Therapeutics for $140m appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Sky Labs’ blood pressure ring adopted for large-scale national health study",
-          "url": "https://longevity.technology/news/sky-labs-blood-pressure-ring-adopted-for-large-scale-national-health-study/",
-          "domain": "longevity.technology",
-          "date": "2026-07-06T09:31:09.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Sky Labs presented its ring-type cuffless blood pressure monitor, CART BP pro, at the 9th Digital Biomarkers in Clinical Trials Summit in Basel, Switzerland, the company announced on 3 July 2026. According to the company, it showcased the device as a data platform for drug clinical trials and Real-World Evidence collection and said the platform […] The post Sky Labs’ blood pressure ring adopted for large-scale national health study appeared first on Longevity.Technology ."
         }
       ]
     },
@@ -278,6 +278,54 @@
       ],
       "articles": [
         {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-06T20:03:50.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
+        {
+          "title": "President Trump’s strategic bitcoin reserve hits a legal and jurisdictional snag: Bloomberg",
+          "url": "https://www.theblock.co/post/407356/trump-strategic-bitcoin-reserve-hits-legal-jurisdictional-snag-bloomberg?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-06T19:56:00.000Z",
+          "source": "The Block",
+          "summary": "President Trump's plans for a strategic bitcoin reserve are hitting a legal and jurisdictional snag, according to reporting from Bloomberg."
+        },
+        {
+          "title": "Ripple secures full MiCA license for crypto services across Europe",
+          "url": "https://cointelegraph.com/news/ripple-secures-full-mica-license-for-crypto-services-across-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-06T19:29:13.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The Luxembourg approval completes the company's MiCA licensing process, enabling it to provide regulated crypto-asset services across the European Economic Area."
+        },
+        {
+          "title": "Paradigm leads $5.5 million seed round in M1X Global to expand tokenized sovereign debt platform",
+          "url": "https://www.theblock.co/post/407341/paradigm-m1x-global-funding-tokenized-sovereign-debt?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-06T19:07:24.000Z",
+          "source": "The Block",
+          "summary": "M1X Global, which worked with the Republic of the Marshall Islands on the issuance of the onchain sovereign bond USDM1, has raised funds."
+        },
+        {
+          "title": "BonkDAO loses $20 million following ‘malicious governance proposal’ attack",
+          "url": "https://www.theblock.co/post/407343/bonkdao-loses-20-million-following-malicious-governance-proposal-attack?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-06T18:59:19.000Z",
+          "source": "The Block",
+          "summary": "The funds have been tracked to crypto exchanges, and South Korea-based Upbit said it has suspended BONK deposits and withdrawals."
+        },
+        {
+          "title": "Judge revives fraud claim against Barry Silbert, DCG in Genesis Yield lawsuit",
+          "url": "https://www.theblock.co/post/407337/judge-revives-fraud-claim-against-barry-silbert-dcg-genesis-yield-lawsuit?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-06T18:55:49.000Z",
+          "source": "The Block",
+          "summary": "The class action centers on Genesis Yield, a lending program that let customers deposit crypto in exchange for interest payments."
+        },
+        {
           "title": "Bitmine announces $74M Ether buys as chair says ‘greater chances of Clarity Act passage’",
           "url": "https://cointelegraph.com/news/bitmine-ether-treasury-chances-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
@@ -308,54 +356,6 @@
           "date": "2026-07-06T16:34:32.000Z",
           "source": "The Block",
           "summary": "Buterin outlined a two-step plan to shift Ethereum's state management to validators and replace per-epoch balance updates with ZK proofs."
-        },
-        {
-          "title": "AVAX One launches CEO search after leader of its Avalanche treasury pivot steps down",
-          "url": "https://www.theblock.co/post/407309/avax-one-ceo-search-leader-avalanche-treasury-pivot-steps-down?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-06T16:07:20.000Z",
-          "source": "The Block",
-          "summary": "SkyBridge founder Anthony Scaramucci backed AVAX One's $550 million Avalanche treasury strategy announced last year."
-        },
-        {
-          "title": "Circle’s USDC is leaving Tether behind in the stablecoin volume race, new data from Visa shows",
-          "url": "https://www.coindesk.com/business/2026/07/06/circle-s-usdc-is-leaving-tether-behind-in-the-stablecoin-volume-race",
-          "domain": "coindesk.com",
-          "date": "2026-07-06T16:00:15.000Z",
-          "source": "CoinDesk",
-          "summary": "As Wall Street banks adopt digital currencies for faster settlements, overall trading volume spiked 63% in just a single month."
-        },
-        {
-          "title": "President Trump says he’s a ‘big crypto guy,’ while distancing himself from family’s crypto ventures",
-          "url": "https://www.theblock.co/post/407312/president-trump-big-crypto-guy-distancing-familys-crypto-ventures?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-06T15:53:22.000Z",
-          "source": "The Block",
-          "summary": "President Trump called cryptocurrency \"powerful\" during the launch of Trump investment accounts for children."
-        },
-        {
-          "title": "Strategy selling hundreds of millions worth of bitcoin raises question about its capital-allocation playbook",
-          "url": "https://www.coindesk.com/markets/2026/07/06/one-month-that-shook-the-market-saylor-s-struggles-over-bitcoin-strategy-yields-big-loss",
-          "domain": "coindesk.com",
-          "date": "2026-07-06T15:47:12.000Z",
-          "source": "CoinDesk",
-          "summary": "First, it was a tiny amount of bitcoin sales; then, the purchase of several thousand BTC; and finally, today, the unloading of thousands of BTC. What's happening at Strategy?"
-        },
-        {
-          "title": "Ethereum developers embrace Vitalik Buterin's long-term vision but urge quicker execution",
-          "url": "https://www.coindesk.com/tech/2026/07/06/ethereum-developers-embrace-vitalik-buterin-s-long-term-vision-but-urge-quicker-execution",
-          "domain": "coindesk.com",
-          "date": "2026-07-06T15:34:33.000Z",
-          "source": "CoinDesk",
-          "summary": "The \"Lean Ethereum\" strawmap, updated earlier this week, has gained support from many of the network's researchers, though several say the biggest challenge won't be deciding what to build, but how quickly it can happen."
-        },
-        {
-          "title": "Bitcoin price falls up to 4% on Strategy BTC sale as trader sees Summer 2022 repeat",
-          "url": "https://cointelegraph.com/markets/bitcoin-price-falls-on-strategy-btc-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-06T15:22:45.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Bitcoin wiped out much of its latest gains thanks to a market reaction to Strategy's 3,600 BTC sell-off, but analysis eyed a potential buy announcement in the coming days."
         }
       ]
     }
