@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-07T08:44:14.656Z",
+  "updatedAt": "2026-07-07T11:33:19.965Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,84 +278,84 @@
       ],
       "articles": [
         {
-          "title": "Two traders sue Polymarket over disputed resolution of Strategy bitcoin sale market",
-          "url": "https://www.theblock.co/post/407368/two-traders-sue-polymarket-strategy-bitcoin-sale?utm_source=rss&utm_medium=rss",
+          "title": "Bitcoin's July gains may be fleeting as U.S. demand stays weak",
+          "url": "https://www.coindesk.com/daybook-us/2026/07/07/bitcoin-s-july-gains-may-be-fleeting-as-u-s-demand-stays-weak",
+          "domain": "coindesk.com",
+          "date": "2026-07-07T11:26:17.000Z",
+          "source": "CoinDesk",
+          "summary": "Your day-ahead look for July 7, 2026"
+        },
+        {
+          "title": "Ctrl Wallet to shut weeks after security exploit",
+          "url": "https://cointelegraph.com/news/ctrl-wallet-shutdown-security-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-07T10:46:24.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The move follows a June 23 exploit that has now resulted in closing down the wallet, with users urged to withdraw their assets before all functions are disabled on Aug. 3, 2026."
+        },
+        {
+          "title": "Bitcoin stalls as open interest decline raises questions about rally's staying power",
+          "url": "https://www.coindesk.com/markets/2026/07/07/bitcoin-stalls-as-open-interest-decline-raises-questions-about-rally-s-staying-power",
+          "domain": "coindesk.com",
+          "date": "2026-07-07T10:44:09.000Z",
+          "source": "CoinDesk",
+          "summary": "BTC retreated from a two-week high of $64,500 as falling open interest and weak spot demand cast doubt on the sustainability of July's 8.4% advance."
+        },
+        {
+          "title": "Vitalik Buterin confirms AI identified his anonymous Ethereum proposal contribution",
+          "url": "https://cointelegraph.com/news/vitalik-buterin-confirms-ai-identified-his-anonymous-ethereum-proposal-contribution?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-07T10:27:04.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The Ethereum co-founder said AI recognized his intellectual habits, ending a two-week public challenge to identify an anonymous contribution he made."
+        },
+        {
+          "title": "Bitcoin can fall below $58K if one of its 'cleanest' metrics copies history: Analysis",
+          "url": "https://cointelegraph.com/markets/bitcoin-can-fall-below-58k-if-one-of-its-cleanest-metrics-copies-history-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-07T10:14:40.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bitcoin NUPL metric data suggested that BTC price action should make new cycle lows in order to preserve historical patterns."
+        },
+        {
+          "title": "Galaxy delivers 133 MW of critical IT load to CoreWeave as Helios bitcoin mine turns AI hub",
+          "url": "https://www.theblock.co/post/407396/galaxy-delivers-133-mw-of-critical-it-load-to-coreweave-as-helios-bitcoin-mine-turns-ai-hub?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-07-07T08:34:34.000Z",
+          "date": "2026-07-07T09:45:09.000Z",
           "source": "The Block",
-          "summary": "Plaintiffs allege Polymarket wrongly resolved the market as \"No\" despite Strategy's SEC filing disclosing it sold 32 BTC between May 26 and May 31."
+          "summary": "Galaxy delivered 133 MW of critical IT load to CoreWeave at its Helios campus, completing Phase I of the West Texas site's AI conversion."
         },
         {
-          "title": "Binance taps into Bitcoin holders’ hunger for yield with new covered call yield play",
-          "url": "https://www.coindesk.com/markets/2026/07/07/binance-taps-into-bitcoin-holders-hunger-for-yield-with-new-covered-call-yield-play",
-          "domain": "coindesk.com",
-          "date": "2026-07-07T08:20:00.000Z",
-          "source": "CoinDesk",
-          "summary": "The product, called BTC Yield, is designed exclusively for people who already hold bitcoin."
-        },
-        {
-          "title": "Bitcoin's recent macro relief faces a challenge from Japanese interest rates",
-          "url": "https://www.coindesk.com/markets/2026/07/07/btc-s-recent-macro-relief-faces-a-challenge-from-japanese-interest-rates",
-          "domain": "coindesk.com",
-          "date": "2026-07-07T07:50:57.000Z",
-          "source": "CoinDesk",
-          "summary": "Japanese bond yields continue to rise, lifting their U.S. counterparts and posing a potential headwind for risk assets."
-        },
-        {
-          "title": "Live markets: Bitcoin and ether ETFs drew inflows on Monday",
-          "url": "https://www.coindesk.com/tech/2026/07/07/live-markets-bitcoin-and-ether-etfs-drew-inflows-on-monday",
-          "domain": "coindesk.com",
-          "date": "2026-07-07T06:51:28.000Z",
-          "source": "CoinDesk",
-          "summary": "Spot bitcoin ETFs still lost a net $526.6 million over the shortened holiday week, an eighth straight week of negative flows."
-        },
-        {
-          "title": "Here’s what happened in crypto today",
-          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "Digital Chamber amicus brief urges dismissal of NY lawsuit over 39,069 Bitcoin wallets",
+          "url": "https://cointelegraph.com/news/digital-chamber-files-ny-lawsuit-39069-bitcoin-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-07-07T06:02:08.000Z",
+          "date": "2026-07-07T09:23:39.000Z",
           "source": "CoinTelegraph",
-          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+          "summary": "The Digital Chamber filed an amicus brief urging the dismissal of the New York lawsuit seeking ownership of 39,069 dormant Bitcoin wallets, arguing it would set a dangerous precedent for self-custodial wallets."
         },
         {
-          "title": "Trader loses $2M in ‘same-block backrun extraction’ exploit",
-          "url": "https://cointelegraph.com/news/trader-loses-2m-in-same-block-backrun-extraction-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-07T05:58:11.000Z",
-          "source": "CoinTelegraph",
-          "summary": "One crypto trader noted the $2 million loss could have been prevented had the victim read the transaction route before signing the transaction."
-        },
-        {
-          "title": "Yield Guild Games cuts 35 staff, shuts game publisher to focus on AI",
-          "url": "https://cointelegraph.com/news/yield-guild-games-cuts-35-staff-shuts-game-publisher-to-focus-on-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-07T05:56:54.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Yield Guild Games said tough crypto and video game market conditions mean its YGG Play business is no longer commercially sustainable."
-        },
-        {
-          "title": "Strategy’s Bitcoin sale may give BTC a ‘durable bottom,’ Grayscale says",
-          "url": "https://cointelegraph.com/news/strategys-bitcoin-sale-may-give-btc-a-durable-bottom-says-grayscale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-07T05:45:59.000Z",
-          "source": "CoinTelegraph",
-          "summary": "“Investors are now more confident about the instrument,” said Grayscale’s Zach Pandl regarding STRC, which reclaimed $90 for the first time in three weeks."
-        },
-        {
-          "title": "BONK faces $20 million treasury drain after attacker spends $4 million to pass malicious proposal",
-          "url": "https://www.coindesk.com/markets/2026/07/07/bonk-faces-usd20-million-treasury-drain-after-attacker-spends-usd4-million-to-pass-malicious-proposal",
-          "domain": "coindesk.com",
-          "date": "2026-07-07T05:40:58.000Z",
-          "source": "CoinDesk",
-          "summary": "The attacker bought enough of the memecoin's tokens to pass a governance proposal that sent the group's holdings to a wallet they controlled, then began selling."
-        },
-        {
-          "title": "What Is the U.S. Strategic Bitcoin Reserve?",
-          "url": "https://www.theblock.co/learn/407371/what-is-the-u-s-strategic-bitcoin-reserve?utm_source=rss&utm_medium=rss",
+          "title": "Tether’s former CIO seeks buyers for part of his stake in the firm: Bloomberg",
+          "url": "https://www.theblock.co/post/407394/tethers-former-cio-seeks-buyers-for-part-of-his-stake-in-the-firm-bloomberg?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-07-07T05:27:23.000Z",
+          "date": "2026-07-07T09:22:26.000Z",
           "source": "The Block",
-          "summary": "The U.S. Strategic Bitcoin Reserve is a government-held stockpile of bitcoin, established by executive order in March 2025. The order treats Bitcoin as a long-term reserve asset, comparable to how the country holds gold, and directs that the coins placed in the reserve are not to be sold. Almost all of the U.S. government’s BTC [&hellip;]"
+          "summary": "Former Tether CIO Richard Heathcote is seeking buyers for part of his 1.26% stake in the firm, according to Bloomberg."
+        },
+        {
+          "title": "Upbit, Naver stock-swap deal faces second delay amid proposed crypto law debate",
+          "url": "https://www.theblock.co/post/407389/upbit-naver-stock-swap-deal-delay?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-07T09:10:51.000Z",
+          "source": "The Block",
+          "summary": "The companies said that the development of the country's landmark crypto legislation could affect the deal's progress or outcome."
+        },
+        {
+          "title": "MiCA-compliant euro stablecoins grew 128% before MiCA transition ended, says Decta",
+          "url": "https://cointelegraph.com/news/mica-euro-stablecoins-growth-casp-deadline-decta-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-07T09:08:45.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Decta's report said the market cap of eight MiCA-compliant euro stablecoins rose to $673.9 million in the year before Europe’s CASP transition period ended."
         }
       ]
     }
