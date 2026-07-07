@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-06T23:13:08.872Z",
+  "updatedAt": "2026-07-07T01:09:49.103Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -23,14 +23,6 @@
           "date": "2026-07-01T07:00:00.000Z",
           "source": "KuCoin",
           "summary": "️DeSci Atoms Market Update 2 July 2026 MarketCap 24hrs Top &nbsp;&nbsp; KuCoin"
-        },
-        {
-          "title": "️DeSci Atoms Market Update 29 June 2026 MarketCap 24hrs Top - KuCoin",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1MaHJDaV83SHcwV2pYX21TUEtaaE1jMjFBdGZVUFlSS0Jrdkd2aXJSclV2Z0Vjb3BpNk9PNEFITXpmZFZNMHBUTXdBV1ZpWldmZUswa0hZWlB5RHBDWlZ5T1VHa1BNdDJHbGpaUHhVYW1YeVll?oc=5",
-          "domain": "kucoin.com",
-          "date": "2026-06-28T07:00:00.000Z",
-          "source": "KuCoin",
-          "summary": "️DeSci Atoms Market Update 29 June 2026 MarketCap 24hrs Top &nbsp;&nbsp; KuCoin"
         },
         {
           "title": "BioProtocol unveils OpenLabs platform at DeSci Berlin to merge AI with decentralized research funding - Bitget",
@@ -87,6 +79,14 @@
           "date": "2026-05-04T06:44:54.000Z",
           "source": "Yellow.com",
           "summary": "DeSci Has Raised Millions For Research No VC Would Ever Touch &nbsp;&nbsp; Yellow.com"
+        },
+        {
+          "title": "Bio Protocol Jumps 53.85% in Intraday Trading - bloomingbit",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TN0RaS1ExWkVmU1FzMXlsRUJQVmZhQ2lnNEdfcFVVMEloWHFuS3VDdnd5SlpLakNvNzIxdld1LTY5VWlVX2c4U2pZaUlTaHZybXUwag?oc=5",
+          "domain": "en.bloomingbit.io",
+          "date": "2026-05-02T07:00:00.000Z",
+          "source": "bloomingbit",
+          "summary": "Bio Protocol Jumps 53.85% in Intraday Trading &nbsp;&nbsp; bloomingbit"
         }
       ]
     },
@@ -278,6 +278,14 @@
       ],
       "articles": [
         {
+          "title": "Strategy sells $216M Bitcoin, Bollinger bullish on BTC: Hodler's Digest, June 29-July 6, 2026",
+          "url": "https://cointelegraph.com/features/bollinger-is-bullish-on-bitcoin-trumps-ludicrous-crypto-profits-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-07T00:03:30.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bollinger Bands creator John Bollinger says the charts suggest Bitcoin could take off from here. Vitalik Buterin unveils a new Ethereum strawmap, but why is it taking so long?"
+        },
+        {
           "title": "Grayscale says Strategy’s recent bitcoin sales should restore confidence in its financing structure",
           "url": "https://www.theblock.co/post/407360/grayscale-strategy-bitcoin-sales-comments?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
@@ -348,14 +356,6 @@
           "date": "2026-07-06T19:07:24.000Z",
           "source": "The Block",
           "summary": "M1X Global, which worked with the Republic of the Marshall Islands on the issuance of the onchain sovereign bond USDM1, has raised funds."
-        },
-        {
-          "title": "BonkDAO loses $20 million following ‘malicious governance proposal’ attack",
-          "url": "https://www.theblock.co/post/407343/bonkdao-loses-20-million-following-malicious-governance-proposal-attack?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-06T18:59:19.000Z",
-          "source": "The Block",
-          "summary": "The funds have been tracked to crypto exchanges, and South Korea-based Upbit said it has suspended BONK deposits and withdrawals."
         }
       ]
     }
