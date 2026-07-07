@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-07T01:09:49.103Z",
+  "updatedAt": "2026-07-07T05:08:32.934Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -23,6 +23,14 @@
           "date": "2026-07-01T07:00:00.000Z",
           "source": "KuCoin",
           "summary": "️DeSci Atoms Market Update 2 July 2026 MarketCap 24hrs Top &nbsp;&nbsp; KuCoin"
+        },
+        {
+          "title": "️DeSci Atoms Market Update 29 June 2026 MarketCap 24hrs Top - KuCoin",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1MaHJDaV83SHcwV2pYX21TUEtaaE1jMjFBdGZVUFlSS0Jrdkd2aXJSclV2Z0Vjb3BpNk9PNEFITXpmZFZNMHBUTXdBV1ZpWldmZUswa0hZWlB5RHBDWlZ5T1VHa1BNdDJHbGpaUHhVYW1YeVll?oc=5",
+          "domain": "kucoin.com",
+          "date": "2026-06-28T07:00:00.000Z",
+          "source": "KuCoin",
+          "summary": "️DeSci Atoms Market Update 29 June 2026 MarketCap 24hrs Top &nbsp;&nbsp; KuCoin"
         },
         {
           "title": "BioProtocol unveils OpenLabs platform at DeSci Berlin to merge AI with decentralized research funding - Bitget",
@@ -79,14 +87,6 @@
           "date": "2026-05-04T06:44:54.000Z",
           "source": "Yellow.com",
           "summary": "DeSci Has Raised Millions For Research No VC Would Ever Touch &nbsp;&nbsp; Yellow.com"
-        },
-        {
-          "title": "Bio Protocol Jumps 53.85% in Intraday Trading - bloomingbit",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TN0RaS1ExWkVmU1FzMXlsRUJQVmZhQ2lnNEdfcFVVMEloWHFuS3VDdnd5SlpLakNvNzIxdld1LTY5VWlVX2c4U2pZaUlTaHZybXUwag?oc=5",
-          "domain": "en.bloomingbit.io",
-          "date": "2026-05-02T07:00:00.000Z",
-          "source": "bloomingbit",
-          "summary": "Bio Protocol Jumps 53.85% in Intraday Trading &nbsp;&nbsp; bloomingbit"
         }
       ]
     },
@@ -188,84 +188,84 @@
       ],
       "articles": [
         {
-          "title": "Q&A: How camera-equipped homing pigeons could improve robotic vision in flight",
-          "url": "https://phys.org/news/2026-07-qa-camera-equipped-homing-pigeons.html",
-          "domain": "phys.org",
-          "date": "2026-07-06T15:00:08.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Contrary to common assumptions, pigeons do not lock their eyes in place during flight. Instead, they make slow, subtle eye movements that may help them gather more information about their surroundings."
+          "title": "Seed-applied biocontrol: towards a new generation of protective strategies",
+          "url": "https://arxiv.org/abs/2607.02621",
+          "domain": "arxiv.org",
+          "date": "2026-07-07T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2607.02621v1 Announce Type: new Abstract: Seeds are fundamental to agricultural productivity but also act as potential vectors for pathogens, leading to substantial losses at seedling emergence. This study focuses on one major arable crop (i.e., Wheat) which is subject to significant biotic stress. The objective is to evaluate the efficacy of biocontrol agents as sustainable alternatives to conventional seed treatments, with the goal of enhancing seed protection and increasing tolerance to biotic threats. Multi-season trials were conducted, integrating physiological, molecular, and metabolic analyses to elucidate the responses of treated seeds across key developmental stages (development, maturation, and germination). The findings indicate that the effectiveness of biocontrol agents is influenced by both the genotype and physiological stage of the seeds. Biocontrol treatments were shown to induce specific defence mechanisms and reduce pathogen pressure. This research study will pave the way to develop robust assessment tools for evaluating the performance of biocontrol strategies and to optimise their deployment in seed protection frameworks."
         },
         {
-          "title": "Author Correction: Sustained nitric oxide production by engineered E. coli remodels the tumor microenvironment and potentiates immunotherapy",
-          "url": "https://www.nature.com/articles/s41587-026-03247-5",
-          "domain": "nature.com",
-          "date": "2026-07-06T00:00:00.000Z",
-          "source": "Nature Biotechnology",
-          "summary": "Nature Biotechnology, Published online: 06 July 2026; doi:10.1038/s41587-026-03247-5 Author Correction: Sustained nitric oxide production by engineered E. coli remodels the tumor microenvironment and potentiates immunotherapy"
+          "title": "Modeling the Impact of Visual Brand Language on Attention, Object Recognition, and Memory Retrieval",
+          "url": "https://arxiv.org/abs/2607.02929",
+          "domain": "arxiv.org",
+          "date": "2026-07-07T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2607.02929v1 Announce Type: new Abstract: Visual brand language is the set of visual properties that convey brand identity for a product. What is the impact of visual brand language on a person's ability to recognize and understand the functional identity of an object? Using an empirically supported modeling framework based on the JIM model of object recognition and the LISA model of analogical inference, we simulated the impact of visual brand language on object recognition, the allocation of attention, and retrieval of functional information about objects. Our simulations predict that brand information captures attention and can slow recognition of an object's functional category, with greater degrees of branding causing larger effects. These results have potential implications for the usability and experience of designed objects."
         },
         {
-          "title": "Quantum computing in transition",
-          "url": "https://www.nature.com/articles/s41587-026-03233-x",
-          "domain": "nature.com",
-          "date": "2026-07-06T00:00:00.000Z",
-          "source": "Nature Biotechnology",
-          "summary": "Nature Biotechnology, Published online: 06 July 2026; doi:10.1038/s41587-026-03233-x Hybrid quantum–classical computers will achieve quantum advantage in biotechnology, bridging the time until a full quantum computer becomes available."
+          "title": "Cellular Adaptation to Signal Fluctuations as Learning",
+          "url": "https://arxiv.org/abs/2607.03545",
+          "domain": "arxiv.org",
+          "date": "2026-07-07T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2607.03545v1 Announce Type: new Abstract: Cells represent one of the most fundamental units of life. Underlying their robust performance against environmental variability, such as temporal fluctuations of chemical signals, between different cell types, is a dynamical interrelation between the two components of an intracellular pathway: a gene-regulatory network and its upstream signal transducers. To understand how a single cell utilizes this feedback to self-regulate its gene-expressions, we develop a multiscale model of the pathway's components, in which the adaptive variables responsible for signal interpretation follow a feedback-induced learning process. We then derive a macroscopic theory capturing the covariations between these components - so-called collective modes. Our theory shows how cells can achieve robust output against signal fluctuations via self-regulation rather than simple noise suppression. Such robustness corresponds to a transition from random- to structured collective modes beyond a critical adaptation rate."
         },
         {
-          "title": "Mini monitor measures artificial heartbeat",
-          "url": "https://phys.org/news/2026-06-mini-artificial-heartbeat.html",
-          "domain": "phys.org",
-          "date": "2026-07-05T13:00:04.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "An international team, including the University of Tokyo, has created a sensor inspired by the lateral line in fish—their \"sixth sense\" organ—which measures the pulse of lab-grown 3D heart tissue (cardiac organoids). The device, called a biomechanical well plate, looks like a small white box containing four liquid-filled wells."
+          "title": "Shunting Inhibition and Dendritic Branching Shape Local Credit Assignment",
+          "url": "https://arxiv.org/abs/2607.03556",
+          "domain": "arxiv.org",
+          "date": "2026-07-07T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2607.03556v1 Announce Type: new Abstract: Biological neurons assign credit across branching dendrites, where synaptic drive, dendritic conductance, local voltage, and somatic teaching signals interact to shape synaptic plasticity. We study conductance-based dendritic networks with E/I synapse banks, shunting inhibition, and tree-structured branch-to-soma coupling, and examine when restricted somatic feedback can approximate compartment-specific backpropagated errors. Exact gradients factor into local eligibility x compartment error terms: the eligibility uses presynaptic activity, driving force, and input resistance, whereas the fast non-local term is a path-specific error obtained by transporting a soma error through dendritic gains. This factorization turns local learning into a credit-signal compression problem. We test the hypothesis that shunting inhibition benefits learning under these constraints when it reshapes the compartment-error field to better match global scalar, per-soma, low-rank, or path-structured feedback. Exact-gradient reconstruction verifies the factorization; path-gain, rank, broadcast-fidelity, inhibition-intervention, and transported-error-oracle diagnostics support the proposed mechanism. Under nonnegative conductances and per-soma 5-factor (5F) feedback, shunting LocalCA remains 5--6 percentage points below matched backpropagation on MNIST, Fashion-MNIST, and figure-ground MNIST, indicating that feedback-field fidelity remains a major bottleneck. These results show how E/I conductance, shunting inhibition, and dendritic branching can reshape credit-signal geometry in restricted local learning."
         },
         {
-          "title": "Wild yeast discovery enables non-GM brewing of ornithine-enriched craft beer",
-          "url": "https://phys.org/news/2026-07-wild-yeast-discovery-enables-gm.html",
-          "domain": "phys.org",
-          "date": "2026-07-05T11:40:04.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "As consumer interest grows in foods and beverages with added nutritional value, brewers are exploring ways to improve fermentation itself rather than relying on post-production additives. Ornithine, a naturally occurring amino acid involved in several biological processes, has attracted attention as a promising ingredient for value-added products. However, increasing ornithine production in brewing yeast is difficult because the metabolic pathway is tightly regulated, making conventional improvement strategies challenging."
+          "title": "Diffusion learning reveals viable parameter manifolds and compensation geometry in biological dynamical systems",
+          "url": "https://arxiv.org/abs/2607.03671",
+          "domain": "arxiv.org",
+          "date": "2026-07-07T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2607.03671v1 Announce Type: new Abstract: Models of complex systems often have many parameters, yet are constrained by far fewer experimentally accessible observables: similar activity can emerge from coordinated parameter changes. We formalize these compatible parameter sets as \\emph{viable parameter manifolds}: the inverse images of a system's target dynamical behaviors under a parameter-to-feature map. The relevant codimension is not the number of reported features, but the effective rank of that map at the target scale. Co-varying features lower the codimension, while poor conditioning, high curvature, or regime mixing degrade learnability. We train conditional score-based diffusion models on simulated parameter--feature pairs and use them as amortized samplers of prior-weighted viable sets. In the Lorenz system, scalar trajectory statistics generate thin viable sheets, and two-feature conditioning localizes a transition-adjacent corridor. In the Izhikevich neuron model, four firing descriptors lie close to a nearly two-dimensional family of features, and the learned inverse images reveal distinct regular and irregular compensation geometries. In a recent ODE reduction of finite spiking networks, the same framework reveals excitatory--inhibitory compensation, timescale--coupling tradeoffs, and input-dependent viable manifolds across 4--12 parameter dimensions. In this view, robustness, compensation, and hidden parameter dependencies are organized as inverse geometry, with diffusion models providing practical tools for sampling, visualizing, and interrogating that geometry."
         },
         {
-          "title": "Trained AI outperforms biologists at spotting salmon lice",
-          "url": "https://phys.org/news/2026-07-ai-outperforms-biologists-salmon-lice.html",
-          "domain": "phys.org",
-          "date": "2026-07-04T13:00:01.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Researchers have taken over 120,000 images of salmon lice larvae in seawater and used them to train AI models. The models were much faster and more accurate than experienced biologists at identifying the parasites that feed on the skin and blood of salmonids."
+          "title": "Triple-Phase Multimodal Knowledge Aggregation Framework for Microbial Keratitis Subtype Diagnosis on Slit-Lamp Photography",
+          "url": "https://arxiv.org/abs/2607.03740",
+          "domain": "arxiv.org",
+          "date": "2026-07-07T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2607.03740v1 Announce Type: new Abstract: Microbial keratitis requires rapid pathogen identification to guide treatment, but culture- and PCR-based diagnostics are slow and resource-intensive. We developed a triple-phase multimodal framework for bacterial-versus-fungal keratitis classification using slit-lamp photographs acquired under blue-light, sclerotic-scatter, and white-light illumination, together with clinical metadata. The model combines cross-modality contrastive learning, modality-specific fine-tuning, and feature-level multimodal ensemble learning for patient-level prediction. We evaluated the framework on a multicenter dataset of 1,645 patients and 17,158 images from India and the United States. The model achieved 85.84% accuracy, 84.46% average F1-score, and 0.885 AUC. Site-specific evaluation showed that pooled results were overly optimistic, whereas resampling- and balance-based re-evaluation provided a more realistic assessment of cross-site generalization. Under all settings, our framework remained the top-performing approach. Upon acceptance, the code will be released and dataset access will be provided subject to University of Michigan data-sharing clearance."
         },
         {
-          "title": "Small-molecule switches put therapeutic CRISPR editing under on-demand control in living tissues",
-          "url": "https://phys.org/news/2026-07-small-molecule-therapeutic-crispr-demand.html",
-          "domain": "phys.org",
-          "date": "2026-07-03T20:40:01.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "In a study published in Science Translational Medicine, a team of researchers led by Dr. Wang Yu from the Shenzhen Institutes of Advanced Technology of the Chinese Academy of Sciences developed PRINCE and Little Prince, dual small-molecule-controlled genome editing systems that allow CRISPR activity to be switched on by drug inducers and kept largely silent in their absence."
+          "title": "Smooth $\\%$MinMax: A Differentiable Relaxation for Codon Harmonization",
+          "url": "https://arxiv.org/abs/2607.03881",
+          "domain": "arxiv.org",
+          "date": "2026-07-07T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2607.03881v1 Announce Type: new Abstract: Codon harmonization aims to adapt the coding sequences for heterologous expression while preserving the native-like patterns of frequent and rare codons that may influence local translation dynamics and co-translational protein folding. However, widely used harmonization metrics, such as $\\%$MinMax, are defined on discrete codon sequences and are, therefore, not readily compatible with gradient-based neural codon design. Here, we introduce Smooth $\\%$MinMax, denoted as $\\%{\\rm MinMax}_{(s)}$, a differentiable relaxation of the conventional hard $\\%$MinMax metric, denoted as $\\%{\\rm MinMax}_{(h)}$. $\\%{\\rm MinMax}_{(s)}$ replaces the discrete codon-usage values with probability-weighted synonymous-codon usage values and replaces the hard $\\%$Max/$\\%$Min branch with a sigmoid-gated interpolation. This formulation preserves the signed interpretation of $\\%{\\rm MinMax}_{(h)}$, while enabling optimization with respect to the synonymous-codon probabilities and learnable parameters. In human-to-Escherichia coli codon harmonization experiments, $\\%{\\rm MinMax}_{(s)}$ closely approximates $\\%{\\rm MinMax}_{(h)}$ and supports gradient-based profile matching in synonymous-codon probability space. These results suggest $\\%{\\rm MinMax}_{(s)}$ as a practical bridge between profile-based codon harmonization and neural synonymous-sequence design."
         },
         {
-          "title": "Giant wheat starch granules—a leap forward in biological engineering with potential benefits for diet, manufacturing",
-          "url": "https://phys.org/news/2026-07-giant-wheat-starch-granules-biological.html",
-          "domain": "phys.org",
-          "date": "2026-07-03T18:00:10.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Scientists have grown wheat containing supersized starch granules—a leap forward in biological engineering with potential benefits for our daily diets and a raft of industrial applications."
+          "title": "Microsecond-precision sound localization emerges from slow equilibrium dynamics",
+          "url": "https://arxiv.org/abs/2607.03890",
+          "domain": "arxiv.org",
+          "date": "2026-07-07T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2607.03890v1 Announce Type: new Abstract: Precise sound localization relies on microsecond sensitivity to interaural time differences (ITDs), yet binaural perception exhibits sluggish tracking of dynamic acoustic cues. How these properties coexist remains unresolved. Here, ITD is represented as a stable equilibrium of neural population dynamics rather than by the classical place-coding framework originally proposed by Jeffress in 1948. In this framework, excitatory and inhibitory interactions across frequency channels generate a population signal that drives a dynamical system toward an equilibrium corresponding to the estimated ITD. Despite relying on relatively slow temporal dynamics, the model achieves microsecond-level precision and reproduces key physiological observations, including frequency-dependent best-delay distributions, without requiring explicit delay lines or precisely timed inhibition. These findings provide a potential explanation for how precise ITD sensitivity can arise from slow neural dynamics."
         },
         {
-          "title": "How a new fungal genome-editing tool could open fresh paths to cancer treatments",
-          "url": "https://phys.org/news/2026-07-fungal-genome-tool-fresh-paths.html",
-          "domain": "phys.org",
-          "date": "2026-07-03T13:40:03.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Researchers have spent decades—and billions of dollars—sequencing animal and crop genomes, but fungi have historically been the forgotten middle child of genomics, only noticed when they're ruining bread or colonizing toes."
+          "title": "Learning Biophysical Models of Large-Scale Multineuronal Data to Enable Precise Neurostimulation",
+          "url": "https://arxiv.org/abs/2607.04063",
+          "domain": "arxiv.org",
+          "date": "2026-07-07T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2607.04063v1 Announce Type: new Abstract: Multi-compartment Hodgkin-Huxley (HH) models provide a principled framework for predicting neural dynamics and responses to electrical stimulation. However, fitting HH biophysical parameters typically requires intracellular recordings, which are invasive and low-throughput, limiting the ability to capture the geometry and cell-specific properties of many neurons in a given neural circuit. Multi-electrode arrays (MEAs) offer a scalable alternative - high-density extracellular measurements from full neural populations, but HH model complexity has so far precluded reliable biophysical inference from extracellular data alone. Here, we introduce a framework to rapidly infer HH parameters from designed features of extracellular MEA measurements by leveraging differentiable biophysical simulation and simulation-based inference, unlocking a wide range of downstream applications. In this work, we focus on a central goal of translational neuroengineering: predicting neural spiking responses to candidate neurostimulation patterns that would take hours to measure clinically. To validate our approach, we collected hundreds of hours of stimulation and recording data from isolated macaque retina with a 30 um-pitch 512-electrode array. Our framework predicted previously unseen multi-electrode stimulation responses with 90.6% accuracy using HH models fit from only a few minutes of recording, replacing hours of stimulus testing."
         },
         {
-          "title": "Author Correction: Improved RNA base editing with guide RNAs mimicking highly edited endogenous ADAR substrates",
-          "url": "https://www.nature.com/articles/s41587-026-03246-6",
-          "domain": "nature.com",
-          "date": "2026-07-03T00:00:00.000Z",
-          "source": "Nature Biotechnology",
-          "summary": "Nature Biotechnology, Published online: 03 July 2026; doi:10.1038/s41587-026-03246-6 Author Correction: Improved RNA base editing with guide RNAs mimicking highly edited endogenous ADAR substrates"
+          "title": "Sodium Allostasis: A New Paradigm for Understanding Cardiovascular Volume Accommodation",
+          "url": "https://arxiv.org/abs/2607.04114",
+          "domain": "arxiv.org",
+          "date": "2026-07-07T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2607.04114v1 Announce Type: new Abstract: Arthur Guyton's classic pressure-natriuresis model posits that dietary sodium challenges induce a transient expansion of blood volume that the kidneys rapidly rectify to restore a strict homeostatic baseline, reducing cardiac output to baseline values despite continued higher sodium diet. While this model remains a cornerstone of medical education, it was established in animal models that included surgical reductions in renal mass. Decades of direct human evidence, including long-term balance and spaceflight simulation studies, show that healthy individuals exhibit substantial, persistent plasma volume expansion and sustained cardiac output elevation during prolonged high-sodium intake with little effect on the mean arterial blood pressure. To reconcile these empirical inconsistencies, we propose \"sodium allostasis\" as an alternative regulatory framework. We argue that sodium regulation operates via two distinct mechanisms: a strict concentration homeostasis that maintains plasma sodium levels (~140 mEq/L) via dilution, and an allostatic accommodation that can sustain a persistently expanded blood volume and higher total body sodium mass. This paradigm fundamentally reframes salt sensitivity. Rather than a primary defect in renal sodium excretion, salt sensitivity reflects a failure of the vasculature to accommodate expanded plasma volume. Furthermore, human and animal data reveal that this chronic allostatic state carries a hidden, profound metabolic cost, forcing energy-intensive sodium reabsorption into poorly oxygenated renal medullary segments and inducing tissue hypoxia independent of blood pressure. Shifting focus from rigid homeostatic volume regulation to vascular accommodation and sodium allostasis provides an accurate physiological foundation for cardiovascular medicine and opens novel, vascular-targeted therapeutic pathways for hypertension and volume disorders."
         }
       ]
     },
@@ -277,6 +277,54 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "XRP stalls near $1.14 as breakout attempt struggles for volume",
+          "url": "https://www.coindesk.com/markets/2026/07/07/xrp-stalls-near-usd1-14-as-breakout-attempt-struggles-for-volume",
+          "domain": "coindesk.com",
+          "date": "2026-07-07T04:46:30.000Z",
+          "source": "CoinDesk",
+          "summary": "Buyers defended the session lows and pushed XRP back toward resistance, but muted overall volume left traders waiting for confirmation above $1.13-$1.14."
+        },
+        {
+          "title": "Bitcoin drops after a run at $64,000, shrugging off Strategy's $213 million BTC sale",
+          "url": "https://www.coindesk.com/markets/2026/07/07/bitcoin-drops-after-a-run-at-usd64-000-shrugging-off-strategy-s-usd213-million-btc-sale",
+          "domain": "coindesk.com",
+          "date": "2026-07-07T04:33:15.000Z",
+          "source": "CoinDesk",
+          "summary": "The token touched $64,400 overnight before easing back, still up about 6% on the week. A fresh missile strike on a Qatari gas ship in the Strait of Hormuz lifted oil and tested the late-June peace deal as Asian tech sold off again."
+        },
+        {
+          "title": "Trump says he became ‘a big crypto guy’ partly for politics",
+          "url": "https://cointelegraph.com/news/trump-says-he-became-a-big-crypto-guy-for-the-politics?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-07T04:10:07.000Z",
+          "source": "CoinTelegraph",
+          "summary": "US President Donald Trump once called Bitcoin “a scam,” but admitted on Monday that he got involved in crypto “a little bit for politics.”"
+        },
+        {
+          "title": "L1s face decentralization 'tug-of-war' as adoption grows: Injective CEO",
+          "url": "https://cointelegraph.com/news/injective-ceo-warns-layer-1-chains-risk-sacrificing-decentralization-for-speed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-07T03:28:23.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Blockchains will face increasing pressure to compromise on decentralization to meet user demand for speed and scalability, Injective CEO Eric Chen said."
+        },
+        {
+          "title": "US Bitcoin reserve hits snag as federal agencies debate for control: Bloomberg",
+          "url": "https://cointelegraph.com/news/trumps-bitcoin-reserve-stalled-by-interagency-dispute-over-control-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-07T02:17:58.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The report follows comments from White House crypto adviser Patrick Witt in May, who said the administration was examining the legal implications of creating a Bitcoin reserve."
+        },
+        {
+          "title": "Bitcoin bulls shake off Strategy's $216M BTC sale as price overtakes $64K",
+          "url": "https://cointelegraph.com/markets/bitcoin-bulls-shake-off-strategys-216m-btc-sale-as-price-overtakes-64k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-07T01:55:34.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bitcoin reversed course from its Monday open selloff and closed the day above $64,000 as bulls began to price in Strategy’s selling."
+        },
         {
           "title": "Strategy sells $216M Bitcoin, Bollinger bullish on BTC: Hodler's Digest, June 29-July 6, 2026",
           "url": "https://cointelegraph.com/features/bollinger-is-bullish-on-bitcoin-trumps-ludicrous-crypto-profits-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -308,54 +356,6 @@
           "date": "2026-07-06T21:40:06.000Z",
           "source": "CoinDesk",
           "summary": "The White House says it's still evaluating the \"best structure\" for the federal fund to hold bitcoin as a long-term reserve and a separate stockpile of other crypto assets."
-        },
-        {
-          "title": "Bitcoin recovers from Strategy's BTC sale, funding rates hit 9%: Are bulls back?",
-          "url": "https://cointelegraph.com/markets/bitcoin-recovers-from-strategy-btc-sale-funding-rates-hit-9-are-bulls-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-06T21:06:00.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Bitcoin sold off as news of Strategy selling BTC shook investors’ nerve but the quick rebound suggests bulls remain ambitiously positioned."
-        },
-        {
-          "title": "BonkDAO reports $20M theft from ‘malicious governance proposal’",
-          "url": "https://cointelegraph.com/news/bonk-dao-malicious-governance-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-06T20:55:11.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The developers behind the memecoin project said they had informed law enforcement after the attack and were working to “recover funds and identify those responsible.”"
-        },
-        {
-          "title": "Here’s what happened in crypto today",
-          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-06T20:03:50.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-        },
-        {
-          "title": "President Trump’s strategic bitcoin reserve hits a legal and jurisdictional snag: Bloomberg",
-          "url": "https://www.theblock.co/post/407356/trump-strategic-bitcoin-reserve-hits-legal-jurisdictional-snag-bloomberg?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-06T19:56:00.000Z",
-          "source": "The Block",
-          "summary": "President Trump's plans for a strategic bitcoin reserve are hitting a legal and jurisdictional snag, according to reporting from Bloomberg."
-        },
-        {
-          "title": "Ripple secures full MiCA license for crypto services across Europe",
-          "url": "https://cointelegraph.com/news/ripple-secures-full-mica-license-for-crypto-services-across-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-06T19:29:13.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The Luxembourg approval completes the company's MiCA licensing process, enabling it to provide regulated crypto-asset services across the European Economic Area."
-        },
-        {
-          "title": "Paradigm leads $5.5 million seed round in M1X Global to expand tokenized sovereign debt platform",
-          "url": "https://www.theblock.co/post/407341/paradigm-m1x-global-funding-tokenized-sovereign-debt?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-06T19:07:24.000Z",
-          "source": "The Block",
-          "summary": "M1X Global, which worked with the Republic of the Marshall Islands on the issuance of the onchain sovereign bond USDM1, has raised funds."
         }
       ]
     }
