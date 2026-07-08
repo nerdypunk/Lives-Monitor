@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-08T04:33:19.521Z",
+  "updatedAt": "2026-07-08T07:15:55.548Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -98,14 +98,6 @@
       ],
       "articles": [
         {
-          "title": "LG AI, D&D Pharmatech push AI-powered peptide drug discovery",
-          "url": "https://longevity.technology/news/lg-ai-dd-pharmatech-push-ai-powered-peptide-drug-discovery/",
-          "domain": "longevity.technology",
-          "date": "2026-07-07T16:55:56.000Z",
-          "source": "Longevity.Technology",
-          "summary": "As South Korea’s peptide market surges, partnership signals how AI is becoming active collaborator in search for medicines for healthy aging. South Korea is one of the world’s most closely watched peptide markets. Demand is rising across therapeutics, biotechnology and even cosmetics, with the country’s therapeutic peptide market projected to reach $3.25 billion by 2033 […] The post LG AI, D&D Pharmatech push AI-powered peptide drug discovery appeared first on Longevity.Technology ."
-        },
-        {
           "title": "Rescuing Calcium Ion Homeostasis Extends Mouse Lifespan",
           "url": "https://lifespan.io/rescuing-calcium-ion-homeostasis-extends-mouse-lifespan/",
           "domain": "lifespan.io",
@@ -114,68 +106,76 @@
           "summary": "Scientists have linked disrupted Ca²⁺ homeostasis to aging in both progeroid and naturally aging mice. Rescuing it with a well-known antidepressant significantly increased the animals’ median and maximum lifespan [1]. […]"
         },
         {
-          "title": "BioAge advances inflammaging drug into Phase 2",
-          "url": "https://longevity.technology/news/bioage-advances-inflammaging-drug-into-phase-2/",
-          "domain": "longevity.technology",
-          "date": "2026-07-07T16:32:29.000Z",
-          "source": "Longevity.Technology",
-          "summary": "BioAge has begun Phase 2 QUELL-CV trial, testing whether NLRP3 inhibition eases cardiovascular inflammatory burden. Inflammation has become something of a recurring character in geroscience. Whether researchers are studying cardiovascular disease, retinal disorders or neurodegeneration, the same chronic, low-grade immune activity keeps appearing in the background – less an innocent bystander than an increasingly persuasive […] The post BioAge advances inflammaging drug into Phase 2 appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "AI-designed IPF drug advances to Phase III",
-          "url": "https://longevity.technology/news/ai-designed-ipf-drug-advances-to-phase-iii/",
-          "domain": "longevity.technology",
-          "date": "2026-07-07T13:00:00.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Insilico’s rentosertib enters late-stage testing, bringing an aging-informed approach to one of medicine’s most challenging fibrotic diseases. Insilico Medicine has initiated a Phase III clinical program for rentosertib, its investigational TNIK inhibitor for idiopathic pulmonary fibrosis (IPF), marking the latest milestone for a drug that has become one of the most closely watched programs in […] The post AI-designed IPF drug advances to Phase III appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "EyePoint Pharmaceuticals highlights clinical trials and new data to improve retina care",
-          "url": "https://longevity.technology/news/eyepoint-pharmaceuticals-highlights-clinical-trials-and-new-data-to-improve-retina-care/",
-          "domain": "longevity.technology",
-          "date": "2026-07-07T11:46:26.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Eyepoint Pharmaceuticals will participate in the ASRS 44th Annual Meeting in Montreal to engage the retina community and explore strategies to advance treatments and improve patient outcomes. The company plans to connect with industry professionals to exchange ideas and collaborate on initiatives that the company presents as pushing the boundaries of current retina care practices. […] The post EyePoint Pharmaceuticals highlights clinical trials and new data to improve retina care appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Alterity aligns with FDA on Phase 3 plan for multiple system atrophy treatment",
-          "url": "https://longevity.technology/news/alterity-aligns-with-fda-on-phase-3-plan-for-multiple-system-atrophy-treatment/",
-          "domain": "longevity.technology",
-          "date": "2026-07-07T11:41:26.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Alterity Therapeutics has received official U.S. Food and Drug Administration meeting minutes that the company says confirm a registrational pathway for ATH434 in multiple system atrophy, providing alignment on key elements of a planned pivotal phase 3 program. According to the company, the FDA agreed on UMSARS Part I as the primary endpoint and endorsed […] The post Alterity aligns with FDA on Phase 3 plan for multiple system atrophy treatment appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "NeuroSense to join Roth webinar on future of ALS treatment",
-          "url": "https://longevity.technology/news/neurosense-to-join-roth-webinar-on-future-of-als-treatment/",
-          "domain": "longevity.technology",
-          "date": "2026-07-07T11:36:26.000Z",
-          "source": "Longevity.Technology",
-          "summary": "NeuroSense announced that it will participate in a Roth Capital Partners key opinion leader webinar titled A Quest to Outrun Amyotrophic Lateral Sclerosis, scheduled for 8 July 2026 at 11:00 a.m. Eastern Time. The session will be hosted by Boobalan Pachaiyappan of Roth and feature Professor Jeremy Shefner and NeuroSense chief executive Alon Ben-Noon, with […] The post NeuroSense to join Roth webinar on future of ALS treatment appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Cumulus Neuroscience and Muse bring at-home sleep EEG to trials",
-          "url": "https://longevity.technology/news/cumulus-neuroscience-and-muse-bring-at-home-sleep-eeg-to-trials/",
-          "domain": "longevity.technology",
-          "date": "2026-07-07T11:31:26.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Cumulus Neuroscience announced a collaboration with Muse by Interaxon to integrate Muse’s at-home sleep EEG into the NeuLogiq Platform, adding objective brain-based sleep measurement to a multi-modal suite for central nervous system clinical trials. The integration was announced on 6 July 2026 from Belfast, Northern Ireland, Dublin and Toronto and will debut at the Alzheimer’s […] The post Cumulus Neuroscience and Muse bring at-home sleep EEG to trials appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "New data shows Alzheon’s oral Alzheimer’s drug reduces brain swelling and preserves memory",
-          "url": "https://longevity.technology/news/new-data-shows-alzheons-oral-alzheimers-drug-reduces-brain-swelling-and-preserves-memory/",
-          "domain": "longevity.technology",
-          "date": "2026-07-07T11:31:10.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Alzheon will present nine posters at the alzheimer’s association international conference 2026 in London from July 12 to 15 detailing expanded analyses from its phase 3 APOLLOE4 trial, phase 2 biomarker studies and long-term extension cohorts for its investigational oral agent Valiltramiprosate (ALZ-801). The presentations cover neurovascular outcomes and amyloid-related imaging abnormalities, diffusion tensor imaging […] The post New data shows Alzheon’s oral Alzheimer’s drug reduces brain swelling and preserves memory appeared first on Longevity.Technology ."
-        },
-        {
           "title": "How Muscle Loss and Bone Loss Are Related",
           "url": "https://lifespan.io/how-muscle-loss-and-bone-loss-are-related/",
           "domain": "lifespan.io",
           "date": "2026-07-06T19:17:12.000Z",
           "source": "Lifespan.io",
           "summary": "Researchers have elucidated some of the links between the age-related loss of muscle (sarcopenia) and the age-related loss of bone […]"
+        },
+        {
+          "title": "Intermittent Fasting Increases Lifespan in Male Mice",
+          "url": "https://lifespan.io/intermittent-fasting-increases-lifespan-in-male-mice/",
+          "domain": "lifespan.io",
+          "date": "2026-07-03T16:33:31.000Z",
+          "source": "Lifespan.io",
+          "summary": "Restricting food access to an 8-hour window increased median lifespan in male mice by 12%. However, that might be due to voluntary […]"
+        },
+        {
+          "title": "Rejuvenation Roundup June 2026",
+          "url": "https://lifespan.io/rejuvenation-roundup-june-2026/",
+          "domain": "lifespan.io",
+          "date": "2026-07-01T17:13:38.000Z",
+          "source": "Lifespan.io",
+          "summary": "Doing something about aging seems to require action at the most basic genomic level. Here’s what’s been done there and in other areas in June. Interviews The Thalion Initiative: A New Non-Profit With Big Ambitions: The longevity field remains small […]"
+        },
+        {
+          "title": "Study Maps Existing Drugs to the Hallmarks of Aging",
+          "url": "https://lifespan.io/study-maps-existing-drugs-to-the-hallmarks-of-aging/",
+          "domain": "lifespan.io",
+          "date": "2026-06-30T16:21:38.000Z",
+          "source": "Lifespan.io",
+          "summary": "A new study suggests a way to predict whether existing drugs can extend human lifespan. This method uses a network approach that detects longevity signals in protein interactions [1]. Slowing aging with existing drugs? Finding drugs that can slow aging, […]"
+        },
+        {
+          "title": "How a Primate-Specific RNA Strand Worsens Senescence",
+          "url": "https://lifespan.io/how-a-primate-specific-rna-strand-worsens-senescence/",
+          "domain": "lifespan.io",
+          "date": "2026-06-29T21:02:28.000Z",
+          "source": "Lifespan.io",
+          "summary": "Researchers have discovered a primate-specific piece of non-coding RNA that is linked to aging and makes senescence worse. The packing matters While non-coding RNA strands (ncRNAs) do not themselves produce proteins, they serve crucial regulatory […]"
+        },
+        {
+          "title": "Cell Type-Specific Aging Predicts Disease Onset",
+          "url": "https://lifespan.io/cell-type-specific-aging-predicts-disease-onset/",
+          "domain": "lifespan.io",
+          "date": "2026-06-26T15:11:47.000Z",
+          "source": "Lifespan.io",
+          "summary": "A new study has used aging trajectories of various cell types to predict diseases such as Alzheimer’s and lung cancer [1]. This expands on previous research into organ-specific aging. Age is more than one number Gone are the days […]"
+        },
+        {
+          "title": "Upregulating a Key Cartilage Factor Leads to Osteoarthritis",
+          "url": "https://lifespan.io/upregulating-a-key-cartilage-factor-leads-to-osteoarthritis/",
+          "domain": "lifespan.io",
+          "date": "2026-06-25T20:25:54.000Z",
+          "source": "Lifespan.io",
+          "summary": "Researchers have found that sustained expression of excess hypoxia-inducible factor (HIF)-1α leads to unwanted formation of blood vessels (angiogenesis) that destroys cartilage and causes […]"
+        },
+        {
+          "title": "NeuroAge Therapeutics Launches Younger 2027",
+          "url": "https://lifespan.io/neuroage-therapeutics-launches-younger-2027/",
+          "domain": "lifespan.io",
+          "date": "2026-06-25T15:50:36.000Z",
+          "source": "Lifespan.io",
+          "summary": "NeuroAge Therapeutics announced Younger 2027, a six-month biological aging contest in which competitors are measured on a clinical-grade aging panel and retested six months later. […]"
+        },
+        {
+          "title": "Glycosylation’s Role in Alzheimer’s Disease",
+          "url": "https://lifespan.io/glycosylations-role-in-alzheimers-disease/",
+          "domain": "lifespan.io",
+          "date": "2026-06-24T16:11:21.000Z",
+          "source": "Lifespan.io",
+          "summary": "A recent study suggests that hyperglycosylation in brain tissue can be a hallmark of Alzheimer’s disease [1]. Lesser-known Alzheimer’s molecular features Pathological deposits of amyloid-β plaques and tau tangles in the brain […]"
         }
       ]
     },
@@ -278,6 +278,54 @@
       ],
       "articles": [
         {
+          "title": "EU to again vote to extend ‘chat control’ rules",
+          "url": "https://cointelegraph.com/news/eu-to-again-vote-to-extend-chat-control-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-08T06:33:46.000Z",
+          "source": "CoinTelegraph",
+          "summary": "So-called “chat control” rules could be revived in the EU, with lawmakers again set to vote on the legislation Thursday."
+        },
+        {
+          "title": "Federal judge denies Kalshi’s bid to block New York gambling law enforcement",
+          "url": "https://www.theblock.co/post/407529/judge-denies-kalshi-motion-new-york?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-08T06:31:22.000Z",
+          "source": "The Block",
+          "summary": "The judge said New York gambling laws, as applied to Kalshi's sports-event contracts, are not preempted by the federal Commodity Exchange Act."
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-08T06:05:32.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
+        {
+          "title": "StarkWare CEO suggests 4% annual Bitcoin inflation to replace 21M cap",
+          "url": "https://cointelegraph.com/news/starkware-ceo-suggests-4-annual-bitcoin-inflation-to-replace-21m-cap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-08T05:48:42.000Z",
+          "source": "CoinTelegraph",
+          "summary": "StarkWare CEO Eli Ben-Sasson argued that Bitcoin private keys get lost over time, meaning the amount of usable Bitcoin will diminish. Many disagree."
+        },
+        {
+          "title": "Swyftx eyes crypto payments after securing Australian license",
+          "url": "https://cointelegraph.com/news/swyftx-eyes-crypto-payments-space-after-securing-australian-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-08T05:30:03.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Swyftx interim co-CEO Andrea Yuen says the company \"won’t be a pure crypto spot exchange in future,” after it secured a license allowing it to offer payment services."
+        },
+        {
+          "title": "Live markets: Japan's collapsing yen is pushing companies into bitcoin and XRP",
+          "url": "https://www.coindesk.com/tech/2026/07/08/live-markets-japan-s-collapsing-yen-is-pushing-companies-into-bitcoin-and-xrp",
+          "domain": "coindesk.com",
+          "date": "2026-07-08T05:29:16.000Z",
+          "source": "CoinDesk",
+          "summary": "Hedge funds have turned the most bearish on the yen since 2007, boosting bets on further losses to nearly 138,000 contracts as of June 30."
+        },
+        {
           "title": "Bitcoin under pressure as U.S.-Iran escalation lifts oil",
           "url": "https://www.coindesk.com/markets/2026/07/08/bitcoin-under-pressure-as-u-s-iran-escalation-lifts-oil",
           "domain": "coindesk.com",
@@ -308,54 +356,6 @@
           "date": "2026-07-08T02:40:13.000Z",
           "source": "CoinTelegraph",
           "summary": "The cost of eliminating margin calls and forced liquidations is an interest rate as high as 14.2% and an obligation to pay on time, Strike CEO Jack Mallers said."
-        },
-        {
-          "title": "SEC crypto rule changes are high on its 2026 agenda",
-          "url": "https://cointelegraph.com/news/sec-crypto-rule-changes-2026-agenda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-07T21:39:48.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The financial regulator’s agenda included proposed rule changes related to crypto broker-dealers, digital assets on national securities exchanges and potential safe harbors."
-        },
-        {
-          "title": "Kraken wins $22 million arbitration against auditor Mazars for ditching the firm during Operation Choke Point 2.0",
-          "url": "https://www.theblock.co/post/407524/kraken-wins-22-million-arbitration-auditor-mazars-for-ditching-during-operation-choke-point-2-0?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-07T21:30:10.000Z",
-          "source": "The Block",
-          "summary": "Payward sued its former auditor, Mazars, for abandoning a nearly complete audit during Operation Choke Point 2.0."
-        },
-        {
-          "title": "Ether climbs toward $2K as Bitmine buys ETH, Robinhood L2 boost",
-          "url": "https://cointelegraph.com/markets/ether-climbs-toward-2k-as-bitmine-buys-eth-robinhood-l2-boost?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-07T21:14:37.000Z",
-          "source": "CoinTelegraph",
-          "summary": "ETH charts a path toward $2,000 as TradFi adoption, DAT buying and a long-awaited network upgrade boost investor interest."
-        },
-        {
-          "title": "CFTC charges North Carolina man over alleged $14 million crypto, futures fraud",
-          "url": "https://www.theblock.co/post/407516/cftc-charges-north-carolina-man-alleged-14-million-crypto-futures-fraud?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-07T20:58:49.000Z",
-          "source": "The Block",
-          "summary": "The CFTC charged a NC man and his company after the agency said he swindled about 60 people out of $14 million in a commodity pool."
-        },
-        {
-          "title": "Vanguard seeks digital assets chief after years of crypto skepticism",
-          "url": "https://cointelegraph.com/news/vanguard-seeks-digital-assets-chief-after-years-of-crypto-skepticism?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-07T20:57:02.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The asset manager is hiring a head of digital assets to lead its strategy for tokenization, stablecoins, blockchain infrastructure and client-facing products."
-        },
-        {
-          "title": "Jack Mallers’ Strike launches ‘volatility-proof’ bitcoin loans built to protect against liquidation",
-          "url": "https://www.theblock.co/post/407511/jack-maller-strike-launches-volatility-proof-bitcoin-loans-protect-against-liquidation?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-07T20:48:00.000Z",
-          "source": "The Block",
-          "summary": "Collateral can be partially liquidated, however, if a borrower misses an interest or maturity payment and fails to pay within a grace period."
         }
       ]
     }
