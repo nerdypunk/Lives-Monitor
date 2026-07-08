@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-08T14:23:11.318Z",
+  "updatedAt": "2026-07-08T16:14:45.899Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -98,6 +98,70 @@
       ],
       "articles": [
         {
+          "title": "Cumulus’ at-home Alzheimer’s testing clears hurdle",
+          "url": "https://longevity.technology/news/cumulus-at-home-alzheimers-testing-clears-hurdle/",
+          "domain": "longevity.technology",
+          "date": "2026-07-08T15:01:23.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Year-long study shows people with mild Alzheimer’s can successfully monitor brain health from home, pointing toward faster research. To understand whether a treatment is working, researchers need data. Lots of it. But collecting that data usually means asking people – many of them older adults living with cognitive decline – to travel repeatedly to specialist […] The post Cumulus’ at-home Alzheimer’s testing clears hurdle appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "Sana Biotech heads to EASD with diabetes cell therapy update",
+          "url": "https://longevity.technology/news/sana-biotech-heads-to-easd-with-diabetes-cell-therapy-update/",
+          "domain": "longevity.technology",
+          "date": "2026-07-08T15:00:51.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Company to spotlight clinical progress on immune-evasive cell therapy that could reshape regenerative medicine for type 1 diabetes. What if the biggest breakthrough in treating type 1 diabetes isn’t replacing the cells that make insulin but convincing the body to simply leave them alone? For many people living with type 1 diabetes (T1D), replacing lost […] The post Sana Biotech heads to EASD with diabetes cell therapy update appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "Theriva Biologics to test new dosing schedule for its pancreatic cancer treatment in Spain",
+          "url": "https://longevity.technology/news/theriva-biologics-to-test-new-dosing-schedule-for-its-pancreatic-cancer-treatment-in-spain/",
+          "domain": "longevity.technology",
+          "date": "2026-07-08T09:51:10.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Theriva Biologics announced that the Spanish Agency of Medicines and Medical Devices (AEMPS) has authorized initiation of VIRAGE2, a Phase 2a, single-arm, single-center, open-label proof-of-concept trial to test increased-frequency dosing of VCN-01 (zabilugene almadenorepvec) combined with gemcitabine/nab-paclitaxel in newly diagnosed metastatic pancreatic ductal adenocarcinoma patients. The study will enroll six evaluable patients at a single […] The post Theriva Biologics to test new dosing schedule for its pancreatic cancer treatment in Spain appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "Helix to support AstraZeneca genomic research in multi-year agreement",
+          "url": "https://longevity.technology/news/helix-to-support-astrazeneca-genomic-research-in-multi-year-agreement/",
+          "domain": "longevity.technology",
+          "date": "2026-07-08T09:46:10.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Helix announced a multi-year agreement with AstraZeneca to provide the biopharmaceutical company access to Helix’s GenoSphere cohorts to support drug discovery and development. According to the company, GenoSphere cohorts combine Exome+ genomic sequencing with rich longitudinal clinical data and are de-identified and fully consented for targeted follow-on studies. The company claims these datasets are powered […] The post Helix to support AstraZeneca genomic research in multi-year agreement appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "Insilico starts final-stage trial of new pill for chronic lung disease",
+          "url": "https://longevity.technology/news/insilico-starts-final-stage-trial-of-new-pill-for-chronic-lung-disease/",
+          "domain": "longevity.technology",
+          "date": "2026-07-08T09:41:10.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Insilico has initiated a Phase III clinical trial of Rentosertib, an oral TNIK inhibitor for idiopathic pulmonary fibrosis (IPF). The prospective, randomized, double-blind, placebo-controlled, parallel-group study plans to enroll 320 patients across 47 centers in China and will evaluate once-daily Rentosertib over 52 weeks. The primary endpoint is the annual rate of decline in forced […] The post Insilico starts final-stage trial of new pill for chronic lung disease appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "Annovis Bio completes enrollment for phase 3 trial of early Alzheimer’s drug",
+          "url": "https://longevity.technology/news/annovis-bio-completes-enrollment-for-phase-3-trial-of-early-alzheimers-drug/",
+          "domain": "longevity.technology",
+          "date": "2026-07-08T09:36:10.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Annovis Bio Inc. has completed enrollment in its pivotal Phase 3 trial of Buntanetap for early Alzheimer’s disease, enrolling 850 patients with pTau217-confirmed AD pathology across 83 US clinical sites. The randomized, placebo-controlled, double-blind dual trial evaluates daily oral Buntanetap 30 mg with two pre-specified readouts: a six-month analysis of symptomatic effects and an 18-month […] The post Annovis Bio completes enrollment for phase 3 trial of early Alzheimer’s drug appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "Kailera’s oral weight loss drug achieves up to 11% weight loss in Phase 3 trials",
+          "url": "https://longevity.technology/news/kaileras-oral-weight-loss-drug-achieves-up-to-11-weight-loss-in-phase-3-trials/",
+          "domain": "longevity.technology",
+          "date": "2026-07-08T09:31:10.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Kailera reported positive topline results from two Phase 3 trials of oral small-molecule GLP-1 receptor agonist HRS-7535 (also known as KAI-7535) conducted by Hengrui in China, according to the company. In HARBOR-1 (obesity/overweight), HRS-7535 met its primary endpoint at Week 44: the 120 mg and 180 mg groups achieved mean weight losses of 9.5% and […] The post Kailera’s oral weight loss drug achieves up to 11% weight loss in Phase 3 trials appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "LG AI, D&D Pharmatech push AI-powered peptide drug discovery",
+          "url": "https://longevity.technology/news/lg-ai-dd-pharmatech-push-ai-powered-peptide-drug-discovery/",
+          "domain": "longevity.technology",
+          "date": "2026-07-07T16:55:56.000Z",
+          "source": "Longevity.Technology",
+          "summary": "As South Korea’s peptide market surges, partnership signals how AI is becoming active collaborator in search for medicines for healthy aging. South Korea is one of the world’s most closely watched peptide markets. Demand is rising across therapeutics, biotechnology and even cosmetics, with the country’s therapeutic peptide market projected to reach $3.25 billion by 2033 […] The post LG AI, D&D Pharmatech push AI-powered peptide drug discovery appeared first on Longevity.Technology ."
+        },
+        {
           "title": "Rescuing Calcium Ion Homeostasis Extends Mouse Lifespan",
           "url": "https://lifespan.io/rescuing-calcium-ion-homeostasis-extends-mouse-lifespan/",
           "domain": "lifespan.io",
@@ -106,76 +170,12 @@
           "summary": "Scientists have linked disrupted Ca²⁺ homeostasis to aging in both progeroid and naturally aging mice. Rescuing it with a well-known antidepressant significantly increased the animals’ median and maximum lifespan [1]. […]"
         },
         {
-          "title": "How Muscle Loss and Bone Loss Are Related",
-          "url": "https://lifespan.io/how-muscle-loss-and-bone-loss-are-related/",
-          "domain": "lifespan.io",
-          "date": "2026-07-06T19:17:12.000Z",
-          "source": "Lifespan.io",
-          "summary": "Researchers have elucidated some of the links between the age-related loss of muscle (sarcopenia) and the age-related loss of bone […]"
-        },
-        {
-          "title": "Intermittent Fasting Increases Lifespan in Male Mice",
-          "url": "https://lifespan.io/intermittent-fasting-increases-lifespan-in-male-mice/",
-          "domain": "lifespan.io",
-          "date": "2026-07-03T16:33:31.000Z",
-          "source": "Lifespan.io",
-          "summary": "Restricting food access to an 8-hour window increased median lifespan in male mice by 12%. However, that might be due to voluntary […]"
-        },
-        {
-          "title": "Rejuvenation Roundup June 2026",
-          "url": "https://lifespan.io/rejuvenation-roundup-june-2026/",
-          "domain": "lifespan.io",
-          "date": "2026-07-01T17:13:38.000Z",
-          "source": "Lifespan.io",
-          "summary": "Doing something about aging seems to require action at the most basic genomic level. Here’s what’s been done there and in other areas in June. Interviews The Thalion Initiative: A New Non-Profit With Big Ambitions: The longevity field remains small […]"
-        },
-        {
-          "title": "Study Maps Existing Drugs to the Hallmarks of Aging",
-          "url": "https://lifespan.io/study-maps-existing-drugs-to-the-hallmarks-of-aging/",
-          "domain": "lifespan.io",
-          "date": "2026-06-30T16:21:38.000Z",
-          "source": "Lifespan.io",
-          "summary": "A new study suggests a way to predict whether existing drugs can extend human lifespan. This method uses a network approach that detects longevity signals in protein interactions [1]. Slowing aging with existing drugs? Finding drugs that can slow aging, […]"
-        },
-        {
-          "title": "How a Primate-Specific RNA Strand Worsens Senescence",
-          "url": "https://lifespan.io/how-a-primate-specific-rna-strand-worsens-senescence/",
-          "domain": "lifespan.io",
-          "date": "2026-06-29T21:02:28.000Z",
-          "source": "Lifespan.io",
-          "summary": "Researchers have discovered a primate-specific piece of non-coding RNA that is linked to aging and makes senescence worse. The packing matters While non-coding RNA strands (ncRNAs) do not themselves produce proteins, they serve crucial regulatory […]"
-        },
-        {
-          "title": "Cell Type-Specific Aging Predicts Disease Onset",
-          "url": "https://lifespan.io/cell-type-specific-aging-predicts-disease-onset/",
-          "domain": "lifespan.io",
-          "date": "2026-06-26T15:11:47.000Z",
-          "source": "Lifespan.io",
-          "summary": "A new study has used aging trajectories of various cell types to predict diseases such as Alzheimer’s and lung cancer [1]. This expands on previous research into organ-specific aging. Age is more than one number Gone are the days […]"
-        },
-        {
-          "title": "Upregulating a Key Cartilage Factor Leads to Osteoarthritis",
-          "url": "https://lifespan.io/upregulating-a-key-cartilage-factor-leads-to-osteoarthritis/",
-          "domain": "lifespan.io",
-          "date": "2026-06-25T20:25:54.000Z",
-          "source": "Lifespan.io",
-          "summary": "Researchers have found that sustained expression of excess hypoxia-inducible factor (HIF)-1α leads to unwanted formation of blood vessels (angiogenesis) that destroys cartilage and causes […]"
-        },
-        {
-          "title": "NeuroAge Therapeutics Launches Younger 2027",
-          "url": "https://lifespan.io/neuroage-therapeutics-launches-younger-2027/",
-          "domain": "lifespan.io",
-          "date": "2026-06-25T15:50:36.000Z",
-          "source": "Lifespan.io",
-          "summary": "NeuroAge Therapeutics announced Younger 2027, a six-month biological aging contest in which competitors are measured on a clinical-grade aging panel and retested six months later. […]"
-        },
-        {
-          "title": "Glycosylation’s Role in Alzheimer’s Disease",
-          "url": "https://lifespan.io/glycosylations-role-in-alzheimers-disease/",
-          "domain": "lifespan.io",
-          "date": "2026-06-24T16:11:21.000Z",
-          "source": "Lifespan.io",
-          "summary": "A recent study suggests that hyperglycosylation in brain tissue can be a hallmark of Alzheimer’s disease [1]. Lesser-known Alzheimer’s molecular features Pathological deposits of amyloid-β plaques and tau tangles in the brain […]"
+          "title": "BioAge advances inflammaging drug into Phase 2",
+          "url": "https://longevity.technology/news/bioage-advances-inflammaging-drug-into-phase-2/",
+          "domain": "longevity.technology",
+          "date": "2026-07-07T16:32:29.000Z",
+          "source": "Longevity.Technology",
+          "summary": "BioAge has begun Phase 2 QUELL-CV trial, testing whether NLRP3 inhibition eases cardiovascular inflammatory burden. Inflammation has become something of a recurring character in geroscience. Whether researchers are studying cardiovascular disease, retinal disorders or neurodegeneration, the same chronic, low-grade immune activity keeps appearing in the background – less an innocent bystander than an increasingly persuasive […] The post BioAge advances inflammaging drug into Phase 2 appeared first on Longevity.Technology ."
         }
       ]
     },
@@ -278,12 +278,68 @@
       ],
       "articles": [
         {
-          "title": "Adam Back's BSTR scraps original SPAC terms, seeks new deal",
+          "title": "Polymarket bets on U.S. marketing blitz to win back trust after 4-year ban: Report",
+          "url": "https://www.coindesk.com/markets/2026/07/08/polymarket-bets-on-u-s-marketing-blitz-to-win-back-trust-after-4-year-ban-report",
+          "domain": "coindesk.com",
+          "date": "2026-07-08T15:58:40.000Z",
+          "source": "CoinDesk",
+          "summary": "The prediction market's head of U.S. operations says the business is taking steps to legitimize itself after years of legal scrutiny."
+        },
+        {
+          "title": "Bitcoin slides as Iran ceasefire collapse sees $75 oil on Hormuz blockade threats",
+          "url": "https://cointelegraph.com/markets/bitcoin-slides-as-iran-ceasefire-collapse-brings-back-hormuz-blockade-threat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-08T15:35:31.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bitcoin price pressure took BTC toward the \"crucial\" $61,000 mark as oil prices soared on the collapse of the US-Iran ceasefire."
+        },
+        {
+          "title": "European Commission looks to expand MiCA to cover emergence of tokenization, non-EU stablecoin issuers: report",
+          "url": "https://www.theblock.co/post/407613/european-commission-expand-mica-tokenization-non-eu-stablecoin-report?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-08T15:32:22.000Z",
+          "source": "The Block",
+          "summary": "The European Commission is reportedly seeking comment from stakeholders on expanding MiCA rules until Sept. 30."
+        },
+        {
+          "title": "Crypto Long & Short: With MSTR concerns assuaged, look to traditional signals around BTC",
+          "url": "https://www.coindesk.com/coindesk-indices/2026/07/08/crypto-long-and-short-with-mstr-concerns-assuaged-look-to-traditional-signals-around-btc",
+          "domain": "coindesk.com",
+          "date": "2026-07-08T15:18:10.000Z",
+          "source": "CoinDesk",
+          "summary": "In this week's Crypto Long & Short, FalconX’s Gaspar Martin writes that BTC is reaching a market bottom and is poised for a turnaround."
+        },
+        {
+          "title": "Crypto VC Paradigm launches $1.2 billion AI fund as it broadens beyond digital assets: BBG",
+          "url": "https://www.coindesk.com/markets/2026/07/08/crypto-vc-paradigm-launches-usd1-2-billion-ai-fund-as-it-broadens-beyond-digital-assets-bbg",
+          "domain": "coindesk.com",
+          "date": "2026-07-08T15:11:45.000Z",
+          "source": "CoinDesk",
+          "summary": "The firm's latest fund backs AI and robotics startups but leadership says it remains committed to crypto investing."
+        },
+        {
+          "title": "Cardano founding entity EMURGO steps down from Pentad governance role after wallet exploit",
+          "url": "https://www.theblock.co/post/407593/cardano-founding-entity-emurgo-steps-down-pentad-governance-role-wallet-exploit?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-08T15:08:31.000Z",
+          "source": "The Block",
+          "summary": "The exploit, which leveraged a flaw in the wallet's address generation system, drained roughly 16 million ADA worth about $2.4 million."
+        },
+        {
+          "title": "Dinari, tZERO join forces on turnkey platform for tokenized U.S. equities",
+          "url": "https://www.coindesk.com/business/2026/07/08/dinari-tzero-join-forces-on-turnkey-platform-for-tokenized-u-s-equities",
+          "domain": "coindesk.com",
+          "date": "2026-07-08T14:35:04.000Z",
+          "source": "CoinDesk",
+          "summary": "The move comes as firms race to build the infrastructure for blockchain-based stocks and debate how tokenized stocks should work."
+        },
+        {
+          "title": "Adam Back's BSTR scraps SPAC merger, seeks new deal",
           "url": "https://www.coindesk.com/markets/2026/07/08/adam-back-s-bstr-scraps-original-spac-terms-seeks-new-deal",
           "domain": "coindesk.com",
           "date": "2026-07-08T14:17:26.000Z",
           "source": "CoinDesk",
-          "summary": "The companies will not complete the transaction under the original July 2025 agreement and the shareholder vote has been postponed indefinitely."
+          "summary": "BSTR and Cantor Equity Partners will not complete their merger under the original July 2025 agreement, with the shareholder postponed indefinitely."
         },
         {
           "title": "Ripple becomes Kansas Jayhawks sports sponsor with XRP patch to appear on jerseys",
@@ -300,62 +356,6 @@
           "date": "2026-07-08T14:01:44.000Z",
           "source": "CoinDesk",
           "summary": "The network aims to process over 100,000 transactions per second by streaming them directly, eliminating public queues to make trades faster and more secure."
-        },
-        {
-          "title": "Bull Bitcoin asks French court to strike down DAC8 implementing decree",
-          "url": "https://cointelegraph.com/news/bull-bitcoin-legal-action-france-dac8?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-08T13:36:44.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The non-custodial Bitcoin exchange petitioned to annul a French decree implementing DAC8, arguing the rules could create surveillance and physical risks for up to 135 million European crypto holders."
-        },
-        {
-          "title": "India crypto tax filings lag trading activity: Report",
-          "url": "https://cointelegraph.com/news/india-crypto-tax-underreporting-rbi-ban-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-08T13:31:15.000Z",
-          "source": "CoinTelegraph",
-          "summary": "India’s tax department reportedly found that fewer than a quarter of the 645,000 people who made crypto transactions reported them on tax returns."
-        },
-        {
-          "title": "The 5 types of real world assets being tokenized fastest onchain",
-          "url": "https://cointelegraph.com/features/as-real-world-asset-tokenization-accelerates-heres-whats-been-put-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-08T13:30:00.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Tokenized Real World Assets span treasuries, real estate, stocks, commodities and private credit. The sector is still small in TradFi terms but it's growing very, very fast."
-        },
-        {
-          "title": "Kazakhstan president signs decree to accelerate crypto adoption",
-          "url": "https://cointelegraph.com/news/kazakhstan-president-decree-accelerate-crypto-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-08T13:19:28.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Kazakhstan targets gas-powered electricity for mining, income tax exemptions for regulated crypto transactions and cross-border stablecoin payments in a new decree signed by the president."
-        },
-        {
-          "title": "Strategy’s 3,588 BTC sale puts future bitcoin selling in focus: analysts",
-          "url": "https://www.theblock.co/post/407555/strategys-3588-btc-sale-puts-future-bitcoin-selling-in-focus-analysts?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-08T13:08:34.000Z",
-          "source": "The Block",
-          "summary": "Strategy sold 3,588 BTC last week, with CF Benchmarks suggesting continued sales would become a concern if they stop being a choice."
-        },
-        {
-          "title": "BTC speculators in focus as analysis says 'textbook Bitcoin bottom' is underway",
-          "url": "https://cointelegraph.com/markets/btc-speculators-in-focus-as-analysis-says-textbook-bitcoin-bottom-is-underway?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-08T12:59:06.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Analysis flagged a Bitcoin moving average derivative that last triggered at the end of the 2022 bear market as BTC price action returned to its reversal zone."
-        },
-        {
-          "title": "Citadel drops U.S. Portofino suit, seeks bankruptcy order against firm's founder in UK",
-          "url": "https://www.coindesk.com/policy/2026/07/08/citadel-drops-u-s-portofino-suit-seeks-bankruptcy-order-against-firm-s-founder-in-uk",
-          "domain": "coindesk.com",
-          "date": "2026-07-08T12:45:30.000Z",
-          "source": "CoinDesk",
-          "summary": "After winning a 6 million-pound London arbitration award, Citadel dropped its U.S. trade secrets case, saying another judgment would likely go uncollected."
         }
       ]
     }
