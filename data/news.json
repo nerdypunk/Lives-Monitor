@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-08T22:11:01.484Z",
+  "updatedAt": "2026-07-08T23:30:59.503Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -88,7 +88,8 @@
           "source": "bloomingbit",
           "summary": "Bio Protocol Jumps 53.85% in Intraday Trading &nbsp;&nbsp; bloomingbit"
         }
-      ]
+      ],
+      "warning": "Google News DeSci returned 503"
     },
     {
       "name": "Longevity",
@@ -188,6 +189,14 @@
       ],
       "articles": [
         {
+          "title": "Planting the future: Researchers put AI to work on the farm",
+          "url": "https://phys.org/news/2026-07-future-ai-farm.html",
+          "domain": "phys.org",
+          "date": "2026-07-08T23:20:03.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Farmers are getting more tools in their toolbox, thanks to new research from the University of Missouri that shows how they can tweak planting practices to make the most of every acre."
+        },
+        {
           "title": "New CRISPR method makes it possible to control protein production in cells",
           "url": "https://phys.org/news/2026-07-crispr-method-protein-production-cells.html",
           "domain": "phys.org",
@@ -258,14 +267,6 @@
           "date": "2026-07-08T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2607.05740v1 Announce Type: new Abstract: \\textbf{Background:} In Costa Rica, dengue is reported and controlled at the canton level, and outbreaks in one canton are often followed by outbreaks in others. Climate models describe where conditions favor transmission but not how dengue moves \\emph{between} places, the directional, between-place spread that shapes where an outbreak travels next. \\noindent \\textbf{Methods:} From weekly case counts for all 81 cantons (1993--2012; \\num{246524} cases) we reconstructed a canton-to-canton spread map using the roughly three-week dengue generation interval, removed the shared seasonal and climatic signal so that only direction-specific spread remained, and summarized it by the receiving and source cantons, an amplification factor, and a directionality index, tracked over five-year windows. \\noindent \\textbf{Results:} Climate-adjusted spread is strongly directional and concentrates in the lowland Caribbean and Pacific cantons (Lim\\'on, Matina, Gu\\'acimo, Garabito, Orotina). A local outbreak is amplified about three- to fourfold across the network even though overall transmission is not growing. This amplification was greatest during the emergence phase of the 1990s and declined markedly as annual reported cases increased, while the \\emph{direction} of spread remained fixed; the decline persists after controlling for the broadening of surveillance coverage. \\noindent \\textbf{Conclusions:} Routine surveillance alone can map which cantons tend to experience dengue and the pathways through which it appears to spread, providing a potential input for prioritizing surveillance and vector control, particularly when a serotype or the disease itself is newly establishing. As a historical description of average behavior over multi-year windows, it is a planning input whose prospective value remains to be tested."
-        },
-        {
-          "title": "Using hierarchical statistical learning models to model individual statistical learning",
-          "url": "https://arxiv.org/abs/2607.05822",
-          "domain": "arxiv.org",
-          "date": "2026-07-08T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2607.05822v1 Announce Type: new Abstract: Statistical learning is essential for individuals to discover structure in the sensory environment, especially during communication via speech or music. Individual differences in statistical learning abilities have been proposed to account for differences in various cognitive functions and development, including developmental disorders such as dyslexia. In this study, we used a Hierarchical Bayesian Statistical Learning (HBSL) model to model individual learning trajectories as recorded using electroencephalography (EEG) while adults with and without dyslexia listened to structured tone sequences. Although we did not find a significant group difference, our results showed a close correspondence of between the model simulations and the real EEG data and novel sequences generated based on individual models were highly similar to the original stimulus sequence. This provides a proof of concept for future research and suggests that the HBSL model accurately represented the statistical sequence structure in a similar way as did human listeners."
         }
       ]
     },
