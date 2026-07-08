@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-08T11:49:58.825Z",
+  "updatedAt": "2026-07-08T14:23:11.318Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -188,6 +188,14 @@
       ],
       "articles": [
         {
+          "title": "It's been 30 years since Dolly the sheep was born—where is cloning technology now?",
+          "url": "https://phys.org/news/2026-07-years-dolly-sheep-born-cloning.html",
+          "domain": "phys.org",
+          "date": "2026-07-08T13:20:01.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "When Dolly the sheep—the first cloned mammal—was born 30 years ago, she became one of the most famous animals in science history. Her arrival sparked predictions of a sci-fi future filled with cloned pets, cloned humans and even resurrected extinct animals like the wooly mammoth. But the reality of cloning has turned out to be much more complicated."
+        },
+        {
           "title": "Governable Individuals: An Identity Layer for Embodied Agents That Keep Learning",
           "url": "https://arxiv.org/abs/2607.05463",
           "domain": "arxiv.org",
@@ -258,14 +266,6 @@
           "date": "2026-07-08T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2607.06284v1 Announce Type: new Abstract: Information Processing Pathway Maps (IPPMs) offer a scalable framework for formalizing the complex sequence of mathematical transformations applied to sensory stimuli. These maps chart the latency and cortical expression of computational steps, relying on statistical inference to link model outputs with observed neural activity. Traditionally, this mapping has relied on frequentist hypothesis testing. However, determining which of several competing computational models best explains neural data is a problem of model adjudication, arguably better suited to probabilistic inference. Here, we present a direct comparison between the established frequentist approach and a novel Bayesian framework for mapping cortical entrainment. While the Bayesian formulation retains the core strength of IPPMs -- generating explicit predictions of time-varying neural signals -- it fundamentally alters the selection criterion, shifting from rejecting a null hypothesis to quantifying the relative evidence for competing computational hypotheses. We evaluate the performance and interpretability of both approaches using an auditory neuroimaging dataset to reconstruct a known loudness-processing pathway. We discuss the implications of this shift for systems neuroscience, specifically regarding the handling of collinear models and the robust accumulation of evidence."
-        },
-        {
-          "title": "Design-CP: Context Parallelism for Design of Protein Nanoparticles",
-          "url": "https://arxiv.org/abs/2607.05439",
-          "domain": "arxiv.org",
-          "date": "2026-07-08T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2607.05439v1 Announce Type: cross Abstract: Many all-atom generative protein models can in principle design large multimeric complexes by jointly modelling all chains, but their quadratic token- and atom-pair representations quickly exceed single-GPU memory as the number of chains and residues modelled grows. We introduce Design-CP, two context-parallel (CP) inference strategies for RFdiffusion 3 (1D row-sharding and 2D grid sharding with ring attention) that distribute the quadratic activations across a multi-GPU mesh while preserving pretrained weights. We characterise their scaling when sampling icosahedral assemblies, showing that the maximum feasible asymmetric subunit (ASU) size grows with the expected square-root trend in GPU count and that 2D sharding achieves better wall-clock scaling. Moreover, we show how strong point-group symmetry constraints make CP usable out of the box for end-to-end, all-atom design of icosahedral nanoparticles, yielding favourable in silico structural and interface metrics. Finally, we demonstrate octahedral nanoparticle design on a small cluster of workstation-grade 16GB GPUs, illustrating how Design-CP can be a practical path towards democratising large-assembly protein design."
         }
       ]
     },
@@ -278,84 +278,84 @@
       ],
       "articles": [
         {
-          "title": "Mobile app Toss and blockchain Optimism to conduct Korean won stablecoin POC : report",
-          "url": "https://cointelegraph.com/news/south-korea-toss-partners-optimism-won-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-08T11:33:11.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Toss has reportedly partnered with Optimism and Sunnyside Labs for a proof of concept on the feasibility of a Korean won-based stablecoin for payments."
-        },
-        {
-          "title": "Bitcoin's inflation quagmire gets stickier as renewed MidEast conflict sends oil price soaring",
-          "url": "https://www.coindesk.com/daybook-us/2026/07/08/bitcoin-s-inflation-quagmire-gets-stickier-as-renewed-mideast-conflict-sends-oil-price-soaring",
+          "title": "Adam Back's BSTR scraps original SPAC terms, seeks new deal",
+          "url": "https://www.coindesk.com/markets/2026/07/08/adam-back-s-bstr-scraps-original-spac-terms-seeks-new-deal",
           "domain": "coindesk.com",
-          "date": "2026-07-08T11:15:42.000Z",
+          "date": "2026-07-08T14:17:26.000Z",
           "source": "CoinDesk",
-          "summary": "Your day-ahead look for July 8, 2026"
+          "summary": "The companies will not complete the transaction under the original July 2025 agreement and the shareholder vote has been postponed indefinitely."
         },
         {
-          "title": "ESMA turns spotlight on crypto custody risks after MiCA transition",
-          "url": "https://cointelegraph.com/news/esma-crypto-custody-scrutiny-mica-transition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-08T10:49:21.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The EU securities regulator will assess custody providers’ key management, incident response and reliance on third-party technology providers."
-        },
-        {
-          "title": "Kalshi files same-day appeal of NY court's rejection of bid to block state gambling law enforcement",
-          "url": "https://cointelegraph.com/news/kalshi-appeals-new-york-sports-event-contracts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-08T10:37:52.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Kalshi appealed to the Second Circuit after a New York federal judge denied its request to block state gambling officials from enforcing local laws against its sports event contracts."
-        },
-        {
-          "title": "Crypto and stocks tumble after Trump declares ceasefire 'over' following Iran strikes",
-          "url": "https://www.coindesk.com/markets/2026/07/08/crypto-and-stocks-tumble-after-trump-declares-ceasefire-over-following-iran-strikes",
-          "domain": "coindesk.com",
-          "date": "2026-07-08T10:37:10.000Z",
-          "source": "CoinDesk",
-          "summary": "Bitcoin fell, altcoins slid after Trump said the ceasefire with Iran is \"over\" as U.S. and Iran traded airstrikes."
-        },
-        {
-          "title": "India central bank seeks to bar financial institutions from exposure to crypto assets: Reuters",
-          "url": "https://www.theblock.co/post/407549/india-central-bank-seeks-to-bar-financial-institutions-from-exposure-to-crypto-assets-reuters?utm_source=rss&utm_medium=rss",
+          "title": "Ripple becomes Kansas Jayhawks sports sponsor with XRP patch to appear on jerseys",
+          "url": "https://www.theblock.co/post/407564/ripple-kansas-jayhawks-sponsor-xrp-patch-on-jerseys?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-07-08T10:29:36.000Z",
+          "date": "2026-07-08T14:02:10.000Z",
           "source": "The Block",
-          "summary": "India's central bank called for banks to be barred from crypto exposure as it reiterated support for tighter restrictions on digital assets."
+          "summary": "Besides the sports partnership, Ripple has committed to fund financial and technology education programs for student-athletes."
         },
         {
-          "title": "Berachain hard fork to replace dual-token model with WBERA rewards",
-          "url": "https://cointelegraph.com/news/berachain-hard-fork-single-token-economy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-08T10:21:12.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Berachain launched the first stage of its PoL Next upgrade, which will phase out the BGT token and shift the network's reward system to WBERA."
-        },
-        {
-          "title": "Reserve Bank of India still favors crypto prohibition to curtail tax evasion: Reuters",
-          "url": "https://www.coindesk.com/policy/2026/07/08/reserve-bank-of-india-still-favors-crypto-prohibition-to-curtail-tax-evasion-reuters",
+          "title": "BNB Chain is building a new layer-1 for high-frequency trading and AI agents",
+          "url": "https://www.coindesk.com/web3/2026/07/08/bnb-chain-is-building-a-new-layer-1-for-high-frequency-trading-and-ai-agents",
           "domain": "coindesk.com",
-          "date": "2026-07-08T09:45:24.000Z",
+          "date": "2026-07-08T14:01:44.000Z",
           "source": "CoinDesk",
-          "summary": "Indian regulators maintained a hawkish stance despite the growing embrace of digital assets and technology by governments worldwide."
+          "summary": "The network aims to process over 100,000 transactions per second by streaming them directly, eliminating public queues to make trades faster and more secure."
         },
         {
-          "title": "Nigel Farage to quit UK Parliament, seek new mandate amid probes into crypto-linked gifts",
-          "url": "https://www.theblock.co/post/407542/nigel-farage-to-quit-uk-parliament-seek-new-mandate-amid-probes-into-crypto-linked-gifts?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-08T09:04:59.000Z",
-          "source": "The Block",
-          "summary": "Nigel Farage resigned as an MP amid two probes over gifts from Tether investor Christopher Harborne and convicted fraudster George Cottrell."
-        },
-        {
-          "title": "Base to activate B20 standard for stablecoins, RWAs and other tokens",
-          "url": "https://cointelegraph.com/news/base-to-activate-b20-standard-for-stablecoins-rwas-and-other-tokens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "Bull Bitcoin asks French court to strike down DAC8 implementing decree",
+          "url": "https://cointelegraph.com/news/bull-bitcoin-legal-action-france-dac8?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-07-08T08:46:02.000Z",
+          "date": "2026-07-08T13:36:44.000Z",
           "source": "CoinTelegraph",
-          "summary": "Base is scheduled to activate its B20 token standard on Wednesday at 6 pm UTC, allowing developers to begin creating native tokens on the network."
+          "summary": "The non-custodial Bitcoin exchange petitioned to annul a French decree implementing DAC8, arguing the rules could create surveillance and physical risks for up to 135 million European crypto holders."
+        },
+        {
+          "title": "India crypto tax filings lag trading activity: Report",
+          "url": "https://cointelegraph.com/news/india-crypto-tax-underreporting-rbi-ban-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-08T13:31:15.000Z",
+          "source": "CoinTelegraph",
+          "summary": "India’s tax department reportedly found that fewer than a quarter of the 645,000 people who made crypto transactions reported them on tax returns."
+        },
+        {
+          "title": "The 5 types of real world assets being tokenized fastest onchain",
+          "url": "https://cointelegraph.com/features/as-real-world-asset-tokenization-accelerates-heres-whats-been-put-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-08T13:30:00.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Tokenized Real World Assets span treasuries, real estate, stocks, commodities and private credit. The sector is still small in TradFi terms but it's growing very, very fast."
+        },
+        {
+          "title": "Kazakhstan president signs decree to accelerate crypto adoption",
+          "url": "https://cointelegraph.com/news/kazakhstan-president-decree-accelerate-crypto-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-08T13:19:28.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Kazakhstan targets gas-powered electricity for mining, income tax exemptions for regulated crypto transactions and cross-border stablecoin payments in a new decree signed by the president."
+        },
+        {
+          "title": "Strategy’s 3,588 BTC sale puts future bitcoin selling in focus: analysts",
+          "url": "https://www.theblock.co/post/407555/strategys-3588-btc-sale-puts-future-bitcoin-selling-in-focus-analysts?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-08T13:08:34.000Z",
+          "source": "The Block",
+          "summary": "Strategy sold 3,588 BTC last week, with CF Benchmarks suggesting continued sales would become a concern if they stop being a choice."
+        },
+        {
+          "title": "BTC speculators in focus as analysis says 'textbook Bitcoin bottom' is underway",
+          "url": "https://cointelegraph.com/markets/btc-speculators-in-focus-as-analysis-says-textbook-bitcoin-bottom-is-underway?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-08T12:59:06.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Analysis flagged a Bitcoin moving average derivative that last triggered at the end of the 2022 bear market as BTC price action returned to its reversal zone."
+        },
+        {
+          "title": "Citadel drops U.S. Portofino suit, seeks bankruptcy order against firm's founder in UK",
+          "url": "https://www.coindesk.com/policy/2026/07/08/citadel-drops-u-s-portofino-suit-seeks-bankruptcy-order-against-firm-s-founder-in-uk",
+          "domain": "coindesk.com",
+          "date": "2026-07-08T12:45:30.000Z",
+          "source": "CoinDesk",
+          "summary": "After winning a 6 million-pound London arbitration award, Citadel dropped its U.S. trade secrets case, saying another judgment would likely go uncollected."
         }
       ]
     }
