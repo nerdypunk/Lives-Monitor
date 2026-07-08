@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-08T16:14:45.899Z",
+  "updatedAt": "2026-07-08T17:54:24.631Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -98,6 +98,22 @@
       ],
       "articles": [
         {
+          "title": "Optimizing Guidelines Toward Optimal Health Outcomes",
+          "url": "https://lifespan.io/optimizing-guidelines-toward-optimal-health-outcomes/",
+          "domain": "lifespan.io",
+          "date": "2026-07-08T16:36:59.000Z",
+          "source": "Lifespan.io",
+          "summary": "In a recently published perspective paper, the author argues that the UK’s official health guidelines on physical activity and protein intake should be revised to recommend levels necessary to achieve optimal health, […]"
+        },
+        {
+          "title": "Longevity capital heads to Gstaad",
+          "url": "https://longevity.technology/news/longevity-capital-heads-to-gstaad/",
+          "domain": "longevity.technology",
+          "date": "2026-07-08T16:34:59.000Z",
+          "source": "Longevity.Technology",
+          "summary": "The seventh Longevity Investors Conference brings science, capital and candid debate together in the Swiss Alps this September. The Longevity Investors Conference (LIC) returns to Le Grand Bellevue in Gstaad, Switzerland, from 14 to 17 September, bringing together investors, founders, scientists and clinicians for four days of discussion centred on one of the sector’s defining […] The post Longevity capital heads to Gstaad appeared first on Longevity.Technology ."
+        },
+        {
           "title": "Cumulus’ at-home Alzheimer’s testing clears hurdle",
           "url": "https://longevity.technology/news/cumulus-at-home-alzheimers-testing-clears-hurdle/",
           "domain": "longevity.technology",
@@ -160,22 +176,6 @@
           "date": "2026-07-07T16:55:56.000Z",
           "source": "Longevity.Technology",
           "summary": "As South Korea’s peptide market surges, partnership signals how AI is becoming active collaborator in search for medicines for healthy aging. South Korea is one of the world’s most closely watched peptide markets. Demand is rising across therapeutics, biotechnology and even cosmetics, with the country’s therapeutic peptide market projected to reach $3.25 billion by 2033 […] The post LG AI, D&D Pharmatech push AI-powered peptide drug discovery appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Rescuing Calcium Ion Homeostasis Extends Mouse Lifespan",
-          "url": "https://lifespan.io/rescuing-calcium-ion-homeostasis-extends-mouse-lifespan/",
-          "domain": "lifespan.io",
-          "date": "2026-07-07T16:33:47.000Z",
-          "source": "Lifespan.io",
-          "summary": "Scientists have linked disrupted Ca²⁺ homeostasis to aging in both progeroid and naturally aging mice. Rescuing it with a well-known antidepressant significantly increased the animals’ median and maximum lifespan [1]. […]"
-        },
-        {
-          "title": "BioAge advances inflammaging drug into Phase 2",
-          "url": "https://longevity.technology/news/bioage-advances-inflammaging-drug-into-phase-2/",
-          "domain": "longevity.technology",
-          "date": "2026-07-07T16:32:29.000Z",
-          "source": "Longevity.Technology",
-          "summary": "BioAge has begun Phase 2 QUELL-CV trial, testing whether NLRP3 inhibition eases cardiovascular inflammatory burden. Inflammation has become something of a recurring character in geroscience. Whether researchers are studying cardiovascular disease, retinal disorders or neurodegeneration, the same chronic, low-grade immune activity keeps appearing in the background – less an innocent bystander than an increasingly persuasive […] The post BioAge advances inflammaging drug into Phase 2 appeared first on Longevity.Technology ."
         }
       ]
     },
@@ -187,6 +187,14 @@
         "https://phys.org/rss-feed/biology-news/biotechnology/"
       ],
       "articles": [
+        {
+          "title": "Making the 'invisible' visible: How high-speed movies could change the way scientists study disease",
+          "url": "https://phys.org/news/2026-07-invisible-visible-high-movies-scientists.html",
+          "domain": "phys.org",
+          "date": "2026-07-08T16:40:04.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "High-speed movies of microscopic worms may sound like a dull night at the cinema, but this advanced imaging capability could help scientists better understand how diseases begin and progress, track subtle changes in cells and study how the body responds to treatments."
+        },
         {
           "title": "It's been 30 years since Dolly the sheep was born—where is cloning technology now?",
           "url": "https://phys.org/news/2026-07-years-dolly-sheep-born-cloning.html",
@@ -258,14 +266,6 @@
           "date": "2026-07-08T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2607.06235v1 Announce Type: new Abstract: We extend the standard susceptible-infected-recovered framework to incorporate natural immune boosting during a short-scale outbreak. By deriving closed-form final size relations, we analytically link total attack rates to boosting dynamics and vaccine coverage. This framework identifies a critical boosting threshold: above it, higher vaccine coverage paradoxically decreases relative vaccine effectiveness. This occurs because successful epidemic suppression deprives vaccinated individuals of the silent pathogen exposures required to maintain their relative immunological advantage. Crucially, the overall population-level impact remains beneficial, consistently reducing absolute disease burden. For highly transmissible variants, asymptotic analysis reveals that relative vaccine effectiveness converges to a positive limit entirely independent of coverage."
-        },
-        {
-          "title": "Quantifying Entrainment Evidence: A Comparison of Frequentist and Bayesian Approaches for Information Processing Pathway Maps",
-          "url": "https://arxiv.org/abs/2607.06284",
-          "domain": "arxiv.org",
-          "date": "2026-07-08T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2607.06284v1 Announce Type: new Abstract: Information Processing Pathway Maps (IPPMs) offer a scalable framework for formalizing the complex sequence of mathematical transformations applied to sensory stimuli. These maps chart the latency and cortical expression of computational steps, relying on statistical inference to link model outputs with observed neural activity. Traditionally, this mapping has relied on frequentist hypothesis testing. However, determining which of several competing computational models best explains neural data is a problem of model adjudication, arguably better suited to probabilistic inference. Here, we present a direct comparison between the established frequentist approach and a novel Bayesian framework for mapping cortical entrainment. While the Bayesian formulation retains the core strength of IPPMs -- generating explicit predictions of time-varying neural signals -- it fundamentally alters the selection criterion, shifting from rejecting a null hypothesis to quantifying the relative evidence for competing computational hypotheses. We evaluate the performance and interpretability of both approaches using an auditory neuroimaging dataset to reconstruct a known loudness-processing pathway. We discuss the implications of this shift for systems neuroscience, specifically regarding the handling of collinear models and the robust accumulation of evidence."
         }
       ]
     },
@@ -277,6 +277,38 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "Adam Back’s Bitcoin treasury company seeks new terms with Cantor for SPAC merger",
+          "url": "https://cointelegraph.com/news/adam-back-bitcoin-treasury-company-terms-spac?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-08T17:31:36.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The Bitcoin Standard Treasury Company and Cantor Equity Partners I announced that they were looking into amending the terms of a 2025 merger deal that “better reflected market conditions.”"
+        },
+        {
+          "title": "Stablecoin-settled TradFi perpetual trading tops $1.1T: Binance Research",
+          "url": "https://cointelegraph.com/news/tradfi-perpetual-trading-surpasses-11t-in-2026-binance-research-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-08T17:23:19.000Z",
+          "source": "CoinTelegraph",
+          "summary": "A new Binance Research report said stablecoins are fast becoming a preferred settlement layer for tokenized TradFi markets while gaining traction in payments and savings."
+        },
+        {
+          "title": "Bank of England governor denies Farage lobbying swayed CBDC policy: Report",
+          "url": "https://cointelegraph.com/news/bank-of-england-governor-denies-farage-lobbying-swayed-cbdc-policy-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-08T17:11:05.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Andrew Bailey reportedly said Bank of England policy remained independent after a meeting with Nigel Farage that included discussions on cryptocurrency."
+        },
+        {
+          "title": "Paradigm raises $1.2 billion fourth fund, expanding beyond crypto into AI and robotics",
+          "url": "https://www.theblock.co/post/407617/paradigm-raises-1-2-billion-fourth-fund-crypto-ai-robotics?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-08T17:02:55.000Z",
+          "source": "The Block",
+          "summary": "Crypto venture firm Paradigm has raised its fourth fund, a $1.2 billion vehicle that will invest in crypto, AI, robotics, and other startups."
+        },
         {
           "title": "Polymarket bets on U.S. marketing blitz to win back trust after 4-year ban: Report",
           "url": "https://www.coindesk.com/markets/2026/07/08/polymarket-bets-on-u-s-marketing-blitz-to-win-back-trust-after-4-year-ban-report",
@@ -310,7 +342,7 @@
           "summary": "In this week's Crypto Long & Short, FalconX’s Gaspar Martin writes that BTC is reaching a market bottom and is poised for a turnaround."
         },
         {
-          "title": "Crypto VC Paradigm launches $1.2 billion AI fund as it broadens beyond digital assets: BBG",
+          "title": "Crypto VC Paradigm launches $1.2 billion AI fund as it broadens beyond digital assets",
           "url": "https://www.coindesk.com/markets/2026/07/08/crypto-vc-paradigm-launches-usd1-2-billion-ai-fund-as-it-broadens-beyond-digital-assets-bbg",
           "domain": "coindesk.com",
           "date": "2026-07-08T15:11:45.000Z",
@@ -324,38 +356,6 @@
           "date": "2026-07-08T15:08:31.000Z",
           "source": "The Block",
           "summary": "The exploit, which leveraged a flaw in the wallet's address generation system, drained roughly 16 million ADA worth about $2.4 million."
-        },
-        {
-          "title": "Dinari, tZERO join forces on turnkey platform for tokenized U.S. equities",
-          "url": "https://www.coindesk.com/business/2026/07/08/dinari-tzero-join-forces-on-turnkey-platform-for-tokenized-u-s-equities",
-          "domain": "coindesk.com",
-          "date": "2026-07-08T14:35:04.000Z",
-          "source": "CoinDesk",
-          "summary": "The move comes as firms race to build the infrastructure for blockchain-based stocks and debate how tokenized stocks should work."
-        },
-        {
-          "title": "Adam Back's BSTR scraps SPAC merger, seeks new deal",
-          "url": "https://www.coindesk.com/markets/2026/07/08/adam-back-s-bstr-scraps-original-spac-terms-seeks-new-deal",
-          "domain": "coindesk.com",
-          "date": "2026-07-08T14:17:26.000Z",
-          "source": "CoinDesk",
-          "summary": "BSTR and Cantor Equity Partners will not complete their merger under the original July 2025 agreement, with the shareholder postponed indefinitely."
-        },
-        {
-          "title": "Ripple becomes Kansas Jayhawks sports sponsor with XRP patch to appear on jerseys",
-          "url": "https://www.theblock.co/post/407564/ripple-kansas-jayhawks-sponsor-xrp-patch-on-jerseys?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-08T14:02:10.000Z",
-          "source": "The Block",
-          "summary": "Besides the sports partnership, Ripple has committed to fund financial and technology education programs for student-athletes."
-        },
-        {
-          "title": "BNB Chain is building a new layer-1 for high-frequency trading and AI agents",
-          "url": "https://www.coindesk.com/web3/2026/07/08/bnb-chain-is-building-a-new-layer-1-for-high-frequency-trading-and-ai-agents",
-          "domain": "coindesk.com",
-          "date": "2026-07-08T14:01:44.000Z",
-          "source": "CoinDesk",
-          "summary": "The network aims to process over 100,000 transactions per second by streaming them directly, eliminating public queues to make trades faster and more secure."
         }
       ]
     }
