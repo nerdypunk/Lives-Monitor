@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-08T17:54:24.631Z",
+  "updatedAt": "2026-07-08T19:38:18.311Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -188,6 +188,14 @@
       ],
       "articles": [
         {
+          "title": "Optimizing RNA design with AI and an Ising machine: Encoding matters",
+          "url": "https://phys.org/news/2026-07-optimizing-rna-ai-ising-machine.html",
+          "domain": "phys.org",
+          "date": "2026-07-08T18:50:01.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "RNA has emerged as one of the most promising molecules in modern medicine, enabling advances from mRNA vaccines and gene therapies to genome editing and synthetic biology. However, designing RNA molecules that reliably fold into a desired secondary structure remains a major challenge. Even for relatively short sequences, the number of possible nucleotide combinations grows exponentially, making it difficult to identify optimal candidates. As a result, conventional computational methods often require extensive candidate evaluations, creating a significant bottleneck when experimental validation is both time-consuming and costly."
+        },
+        {
           "title": "Making the 'invisible' visible: How high-speed movies could change the way scientists study disease",
           "url": "https://phys.org/news/2026-07-invisible-visible-high-movies-scientists.html",
           "domain": "phys.org",
@@ -258,14 +266,6 @@
           "date": "2026-07-08T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2607.06129v1 Announce Type: new Abstract: Diffuse large B-cell lymphoma (DLBCL) is an aggressive form of non-Hodgkin lymphoma with a high recurrence rate. The molecular profiling of DLBCL tumors culminated in several immunohistochemistry algorithms for prognostic stratification. Among those, the Hans classifier is widely used for classifying DLBCL into germinal center B-cell-like (GCB) and non-germinal center/activated B-cell-like (non-GCB/ABC) subtypes. The Hans classifier primarily evaluates protein expression of tumor-associated markers, however the tumor microenvironment (TME) of DLBCL includes a myriad of immune and stromal cells, cytokines, and extracellular matrix components that contribute to tumor growth, immune evasion, and recurrence rate. Although the Hans classifier provides a practical method for subtype identification, incorporation of TME information may improve risk stratification and further refine patient groups. Here, we present an unbiased deep learning-based approach to extract meaningful features from TME of DLBCL tumors for the automated processing and analysis of multiplexed images of a DLBCL patient cohort. Our pipeline quantifies a range of features that describe tumor sample cell composition, morphology, and its spatial organization. We point to alterations in the proportions of several cell populations between GCB and ABC tumors including increased immune cell proportions of the ABC and its preferential interaction with the M2-macrophages. Our analysis offers an in-depth characterization of the DLBCL subtypes and is exemplary of how our pipeline can be used for detailed quantitative analysis of a tumor and its subtypes."
-        },
-        {
-          "title": "Modeling the Impact of Immune Boosting on Population-Level Vaccine Effectiveness",
-          "url": "https://arxiv.org/abs/2607.06235",
-          "domain": "arxiv.org",
-          "date": "2026-07-08T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2607.06235v1 Announce Type: new Abstract: We extend the standard susceptible-infected-recovered framework to incorporate natural immune boosting during a short-scale outbreak. By deriving closed-form final size relations, we analytically link total attack rates to boosting dynamics and vaccine coverage. This framework identifies a critical boosting threshold: above it, higher vaccine coverage paradoxically decreases relative vaccine effectiveness. This occurs because successful epidemic suppression deprives vaccinated individuals of the silent pathogen exposures required to maintain their relative immunological advantage. Crucially, the overall population-level impact remains beneficial, consistently reducing absolute disease burden. For highly transmissible variants, asymptotic analysis reveals that relative vaccine effectiveness converges to a positive limit entirely independent of coverage."
         }
       ]
     },
@@ -277,6 +277,38 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-08T19:22:58.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
+        {
+          "title": "Officials set to revise MiCA to cover non-EU stablecoin issuers: Report",
+          "url": "https://cointelegraph.com/news/officials-revise-mica-non-eu-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-08T19:14:15.000Z",
+          "source": "CoinTelegraph",
+          "summary": "EU officials reportedly plan to consider changes to the Markets in Crypto-Assets framework, dubbed by some as “MiCA 2.0,” in response to a US stablecoin law and rules on tokenized payments and deposits."
+        },
+        {
+          "title": "Cash App owner Block to pay $45 million after states say it made false security promises",
+          "url": "https://www.theblock.co/post/407623/cash-app-owner-block-pay-45-million-states-say-it-made-false-security-promises?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-08T19:00:29.000Z",
+          "source": "The Block",
+          "summary": "Block Inc. has agreed to pay $45 million to settle allegations brought by regulators in nearly every U.S. state."
+        },
+        {
+          "title": "Bitcoin peels back to $62K as Fed-wary futures traders cut risk: Is the BTC rally over?",
+          "url": "https://cointelegraph.com/markets/bitcoin-peels-back-to-62k-as-fed-wary-futures-traders-cut-risk-is-the-btc-rally-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-08T18:41:25.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bitcoin hovered around the $62,000 mark following a spike in oil prices, escalating hot war in Iran and traders’ move to cut risk ahead of a Federal Reserve policy statement."
+        },
         {
           "title": "Adam Back’s Bitcoin treasury company seeks new terms with Cantor for SPAC merger",
           "url": "https://cointelegraph.com/news/adam-back-bitcoin-treasury-company-terms-spac?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -324,38 +356,6 @@
           "date": "2026-07-08T15:35:31.000Z",
           "source": "CoinTelegraph",
           "summary": "Bitcoin price pressure took BTC toward the \"crucial\" $61,000 mark as oil prices soared on the collapse of the US-Iran ceasefire."
-        },
-        {
-          "title": "European Commission looks to expand MiCA to cover emergence of tokenization, non-EU stablecoin issuers: report",
-          "url": "https://www.theblock.co/post/407613/european-commission-expand-mica-tokenization-non-eu-stablecoin-report?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-08T15:32:22.000Z",
-          "source": "The Block",
-          "summary": "The European Commission is reportedly seeking comment from stakeholders on expanding MiCA rules until Sept. 30."
-        },
-        {
-          "title": "Crypto Long & Short: With MSTR concerns assuaged, look to traditional signals around BTC",
-          "url": "https://www.coindesk.com/coindesk-indices/2026/07/08/crypto-long-and-short-with-mstr-concerns-assuaged-look-to-traditional-signals-around-btc",
-          "domain": "coindesk.com",
-          "date": "2026-07-08T15:18:10.000Z",
-          "source": "CoinDesk",
-          "summary": "In this week's Crypto Long & Short, FalconX’s Gaspar Martin writes that BTC is reaching a market bottom and is poised for a turnaround."
-        },
-        {
-          "title": "Crypto VC Paradigm launches $1.2 billion AI fund as it broadens beyond digital assets",
-          "url": "https://www.coindesk.com/markets/2026/07/08/crypto-vc-paradigm-launches-usd1-2-billion-ai-fund-as-it-broadens-beyond-digital-assets-bbg",
-          "domain": "coindesk.com",
-          "date": "2026-07-08T15:11:45.000Z",
-          "source": "CoinDesk",
-          "summary": "The firm's latest fund backs AI and robotics startups but leadership says it remains committed to crypto investing."
-        },
-        {
-          "title": "Cardano founding entity EMURGO steps down from Pentad governance role after wallet exploit",
-          "url": "https://www.theblock.co/post/407593/cardano-founding-entity-emurgo-steps-down-pentad-governance-role-wallet-exploit?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-08T15:08:31.000Z",
-          "source": "The Block",
-          "summary": "The exploit, which leveraged a flaw in the wallet's address generation system, drained roughly 16 million ADA worth about $2.4 million."
         }
       ]
     }
