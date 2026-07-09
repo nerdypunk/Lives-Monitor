@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-09T12:14:49.145Z",
+  "updatedAt": "2026-07-09T15:34:11.294Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -33,12 +33,12 @@
           "summary": "BioProtocol unveils OpenLabs platform at DeSci Berlin to merge AI with decentralized research funding &nbsp;&nbsp; Bitget"
         },
         {
-          "title": "NanoVita Joins ENI Super Node Ecosystem to Advance AI-Driven DeSci - CryptoNews.net",
+          "title": "NanoVita Joins ENI Super Node Ecosystem to Advance AI-Driven DeSci - Cryptonews.net",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTeHF5X2owYXY0WXF1SjQzVjlkRGU3NG11UHMtaEJwUmZKRXlzTGtGTjhVem5IdGxIOFFYc1FzLWNXVzJaNVZ2MzNDcGQzWFd1UFZVVUdxaXJDWG5D?oc=5",
           "domain": "cryptonews.net",
           "date": "2026-06-07T07:00:00.000Z",
-          "source": "CryptoNews.net",
-          "summary": "NanoVita Joins ENI Super Node Ecosystem to Advance AI-Driven DeSci &nbsp;&nbsp; CryptoNews.net"
+          "source": "Cryptonews.net",
+          "summary": "NanoVita Joins ENI Super Node Ecosystem to Advance AI-Driven DeSci &nbsp;&nbsp; Cryptonews.net"
         },
         {
           "title": "What Is Bio Protocol Crypto? Why This AI-Powered DeSci Token Is Exploding in 2026 - Bitcoin Foundation",
@@ -188,6 +188,14 @@
       ],
       "articles": [
         {
+          "title": "Wearables to track plant health: Farmers could use real-time information to manage crop conditions",
+          "url": "https://phys.org/news/2026-07-wearables-track-health-farmers-real.html",
+          "domain": "phys.org",
+          "date": "2026-07-09T14:20:07.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "A smartwatch can tell us the level of oxygen in our blood, when our sleep is restless or the number of steps we take in a day. Now imagine that kind of tracking ability for plants. By the time farmers see curling leaves or stunted growth in their fields, their crops may already have spent days under stress."
+        },
+        {
           "title": "Towards a Pseudo-Labeling Workflow for Celltype-Classification from Explanted Brain Slice Recordings",
           "url": "https://arxiv.org/abs/2607.06569",
           "domain": "arxiv.org",
@@ -258,14 +266,6 @@
           "date": "2026-07-09T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2607.07425v1 Announce Type: new Abstract: Many biological processes are governed by complex dynamical mechanisms that remain incompletely understood despite increasing volumes of experimental data. Biologically-informed neural networks (BINNs) seek to address this challenge by embedding mechanistic differential equations into neural network training, enabling interpretable constitutive operators to be recovered directly from sparse and noisy observations. However, reliable operator recovery depends sensitively on network architecture, optimisation strategy, and data informativeness. Here, we present a systematic empirical study of how these factors influence mechanistic inference using BINNs applied to canonical one-dimensional advection-diffusion-reaction partial differential equation models. Across a suite of benchmark problems, we investigate how network expressivity, learning rate, loss weighting, and batch size influence optimisation behaviour and operator recovery. We show that successful mechanistic inference depends on balancing competing objectives rather than maximising any single aspect of the model or optimisation. Moderately expressive architectures outperform overly complex networks, intermediate learning rates improve optimisation stability, balanced data and PDE losses are essential for accurate operator recovery, and intermediate batch sizes provide the best compromise between computational efficiency and reproducibility. We further identify practical diagnostics for recognising common failure modes, including over-fitting, unstable optimisation, and poor mechanistic recovery when the ground truth is unavailable. Together, these findings provide evidence-based guidelines for deploying BINNs as credible tools for biological model discovery."
-        },
-        {
-          "title": "A hierarchical memory architecture overcomes context limits in long-horizon multi-agent computational modeling",
-          "url": "https://arxiv.org/abs/2607.07666",
-          "domain": "arxiv.org",
-          "date": "2026-07-09T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2607.07666v1 Announce Type: new Abstract: Large language models (LLMs) demonstrate remarkable reasoning capabilities, yet their stateless architecture fundamentally limits deployment in long-horizon research workflows requiring multi-session continuity and quantitative rigor. Here we present Ensemble QSP, a multi-agent framework featuring a three-layer hierarchical memory architecture that keeps injected context bounded and constant in project duration (mid-term project state: median 301 tokens, max 4,050, across 104 runs) by capping each state category and evicting completed work, enabling continuous autonomous operation without context degradation. The system orchestrates five specialist worker agents under domain-expert principal investigators, enforcing physical constraints through physics-based checklists and structured-domain knowledge. Comprehensive benchmarking demonstrates robust autonomous pharmacokinetic-pharmacodynamic model selection without human intervention, consistent result quality across both lower-cost and frontier LLMs, improved PK parameter recovery relative to single-agent baselines, and stable model selection across linguistically diverse prompts of the same task. Feature-level ablation across physiologically based pharmacokinetic (PBPK) models spanning a broad complexity range shows that PI-agent oversight improves debugging efficiency while preserving final accuracy across conditions. The architecture is structurally domain-agnostic, adding a new scientific domain requires only a new PI agent configuration."
         }
       ]
     },
@@ -278,84 +278,84 @@
       ],
       "articles": [
         {
-          "title": "Over $7.2 billion have migrated from LayerZero to Chainlink CCIP as Mantle joins exodus",
-          "url": "https://www.coindesk.com/business/2026/07/09/over-usd7-2-billion-have-migrated-from-layerzero-to-chainlink-ccip-as-mantle-joins-exodus",
-          "domain": "coindesk.com",
-          "date": "2026-07-09T12:00:00.000Z",
-          "source": "CoinDesk",
-          "summary": "Migrations to Chainlink CCIP so far include Kelp and Lombard, both of which brought over $1 billion, as well as Solv Protocol, Virtuals, Re and Kraken’s tokenized assets."
-        },
-        {
-          "title": "CFTC Chair Selig warns regulators will end up ‘writing all the rules’ for crypto if Clarity Act stalls",
-          "url": "https://www.theblock.co/post/407703/cftc-chair-selig-warns-regulators-will-end-up-writing-all-the-rules-for-crypto-if-clarity-act-stalls?utm_source=rss&utm_medium=rss",
+          "title": "Why this Wall Street veteran is betting on Avalanche",
+          "url": "https://www.theblock.co/post/407752/why-this-wall-street-veteran-is-betting-on-avalanche?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-07-09T11:42:34.000Z",
+          "date": "2026-07-09T15:03:40.000Z",
           "source": "The Block",
-          "summary": "CFTC Chair Michael Selig warned regulators may end up writing crypto rules if Congress fails to pass the Clarity Act."
+          "summary": "Avalanche Treasury Company CEO Bart Smith explains his beliefs on the functions of treasury companies and his bull thesis for Avalanche."
         },
         {
-          "title": "Pricing houses in bitcoin exposes dollar's loss of value",
-          "url": "https://www.coindesk.com/daybook-us/2026/07/09/pricing-houses-in-bitcoin-exposes-dollar-s-loss-of-value",
+          "title": "Ethereum's newest nonprofit wants to become Wall Street's guide to crypto",
+          "url": "https://www.coindesk.com/tech/2026/07/09/ethereum-s-newest-nonprofit-wants-to-become-wall-street-s-guide-to-crypto",
           "domain": "coindesk.com",
-          "date": "2026-07-09T11:27:10.000Z",
+          "date": "2026-07-09T14:58:55.000Z",
           "source": "CoinDesk",
-          "summary": "Your day-ahead look for July 9, 2026"
+          "summary": "In this week's edition of The Protocol Newsletter, we’re digging into Ethereum Institutional, a new nonprofit aimed at educating financial institutions and banks about Ethereum."
         },
         {
-          "title": "Sony Bank gets US regulator nod to issue stablecoins",
-          "url": "https://cointelegraph.com/news/sony-bank-preliminary-approval-us-stablecoin-business?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "Supreme Court ruling expanding Trump’s authority over federal agencies raises questions for SEC, CFTC as crypto rulemaking advances",
+          "url": "https://www.theblock.co/post/407750/supreme-court-ruling-expanding-trumps-authority-over-federal-agencies-raises-questions-for-sec-cftc-as-crypto-rulemaking-advances?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-09T14:56:38.000Z",
+          "source": "The Block",
+          "summary": "A recent Supreme Court ruling expanding President Trump's authority to remove leaders of many agencies could have broader implications."
+        },
+        {
+          "title": "MARA gains 14% after unveiling 2 GW Texas AI and bitcoin mining campus plan",
+          "url": "https://www.theblock.co/post/407730/mara-stock-gains-unveiling-2-gw-texas-ai-bitcoin-mining-campus-plan?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-09T14:38:29.000Z",
+          "source": "The Block",
+          "summary": "The deal isn't an upfront purchase, but is structured instead as up to $600 million in milestone-based payments"
+        },
+        {
+          "title": "Hong Kong SFC orders crypto platforms, online brokers to phase out OTP logins",
+          "url": "https://www.theblock.co/post/407732/hong-kong-sfc-orders-crypto-platforms-online-brokers-to-phase-out-otp-logins?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-09T14:01:43.000Z",
+          "source": "The Block",
+          "summary": "Hong Kong SFC orders internet brokers, crypto platforms to replace OTP logins with passkeys within 12 months following 57% spoofing surge."
+        },
+        {
+          "title": "PayPal seeks to increase use of PYUSD stablecoin with native issuance on Polygon",
+          "url": "https://www.theblock.co/post/407719/paypal-seeks-increase-pyusd-stablecoin-native-issuance-on-polygon?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-09T13:54:53.000Z",
+          "source": "The Block",
+          "summary": "The company said its stablecoin will now be issued natively on Polygon, in addition to becoming available through Polygon's Open Money Stack."
+        },
+        {
+          "title": "Tarun Chitra’s Gauntlet raises $125 million Series C from sole investor SBI Holdings",
+          "url": "https://www.theblock.co/post/407723/tarun-chitra-gauntlet-125-million-series-c-funding-sbi-holdings?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-09T13:42:54.000Z",
+          "source": "The Block",
+          "summary": "Chitra said he expects tokenization and vaults to grow the DeFi market faster than overall stablecoin growth over the next few years."
+        },
+        {
+          "title": "‘Bottom building in progress’: Analysts say bitcoin holder capitulation signals late-stage bear market",
+          "url": "https://www.theblock.co/post/407713/bottom-building-in-progress-analysts-say-bitcoin-holder-capitulation-signals-late-stage-bear-market?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-09T13:33:53.000Z",
+          "source": "The Block",
+          "summary": "Bitcoin long-term holder capitulation hit $280M/day, the highest since Dec 2022, a sign Glassnode says may flag a bottom forming."
+        },
+        {
+          "title": "Bitcoin’s quantum dilemma: Bigger blocks or STARK proofs?",
+          "url": "https://cointelegraph.com/features/bigger-blocks-or-stark-proofs-bitcoins-quantum-dilemma?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-07-09T11:18:41.000Z",
+          "date": "2026-07-09T13:30:00.000Z",
           "source": "CoinTelegraph",
-          "summary": "Sony Bank received preliminary approval from the Office of the Comptroller of the Currency to establish a US stablecoin issuance business, with $40 million in starting capital."
+          "summary": "Dealing with large post quantum signatures slowing down Bitcoin can be solved with bigger blocks, or aggregating signatures using STARK proofs."
         },
         {
-          "title": "Interpol operation exposes $122M crypto wallet tied to romance scam laundering",
-          "url": "https://cointelegraph.com/news/interpol-122m-crypto-flows-romance-scam-laundering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-09T11:18:21.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Interpol said a suspect's crypto wallet processed over $122.5 million in 10 months as authorities uncovered the scheme during a global anti-fraud operation that led to 5,811 arrests."
-        },
-        {
-          "title": "Swift rolls out new blockchain ledger to bring 24/7 banking to 17 global giants",
-          "url": "https://www.coindesk.com/business/2026/07/09/swift-rolls-out-24-7-blockchain-payment-systems-with-17-global-banks-across-six-continents",
+          "title": "Aave rolls out vaults for yield-hungry fintech investors",
+          "url": "https://www.coindesk.com/business/2026/07/09/aave-rolls-out-vaults-for-yield-hungry-fintech-investors",
           "domain": "coindesk.com",
-          "date": "2026-07-09T11:08:37.000Z",
+          "date": "2026-07-09T13:01:38.000Z",
           "source": "CoinDesk",
-          "summary": "HSBC, UBS, Wells Fargo and Citi are among the 17 banks now preparing to pilot live transactions using tokenized digital assets on Swift’s new blockchain payments platform."
-        },
-        {
-          "title": "BitGo introduces quantum protection for institutional Bitcoin wallets",
-          "url": "https://www.theblock.co/post/407661/bitgo-quantum-protection-institutional-bitcoin-wallets?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-09T11:05:02.000Z",
-          "source": "The Block",
-          "summary": "Some experts have argued the greater risks posed by quantum computing revolve around a failure to implement new technology."
-        },
-        {
-          "title": "BitGo CEO says single-digit percentages of bitcoin’s supply are ‘probably right’ for large holders amid Strategy’s sale",
-          "url": "https://www.theblock.co/post/407697/bitgo-ceo-says-single-digit-percentages-of-bitcoins-supply-are-probably-right-for-large-holders-amid-strategys-sale?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-09T11:01:37.000Z",
-          "source": "The Block",
-          "summary": "BitGo CEO Mike Belshe said single-digit bitcoin ownership levels make sense for large holders like Strategy after its $216 million sale."
-        },
-        {
-          "title": "Latin America’s biggest stock exchange now offers options on bitcoin, ether and solana futures",
-          "url": "https://www.coindesk.com/business/2026/07/09/brazil-s-b3-exchange-introduces-options-on-bitcoin-ether-and-solana-futures",
-          "domain": "coindesk.com",
-          "date": "2026-07-09T10:55:37.000Z",
-          "source": "CoinDesk",
-          "summary": "These options settle into underlying futures contracts rather than spot cryptoassets, involving no custody, transfer, or administration of tokens."
-        },
-        {
-          "title": "Crypto remains resilient in face of renewed Middle East tensions",
-          "url": "https://www.coindesk.com/markets/2026/07/09/crypto-remains-resilient-in-face-of-renewed-middle-east-tensions",
-          "domain": "coindesk.com",
-          "date": "2026-07-09T10:36:02.000Z",
-          "source": "CoinDesk",
-          "summary": "BTC rose 1.2% to $63,000 and Nasdaq futures jumped 2.6% with markets seemingly unconcerned by U.S. airstrikes on Iran. Bitcoin is now up 9% since the end of June."
+          "summary": "Aave's new Stable Vaults product lets wallets, exchanges and payment apps offer yields on stablecoin deposits"
         }
       ]
     }
