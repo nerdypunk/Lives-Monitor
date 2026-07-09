@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-09T19:13:15.384Z",
+  "updatedAt": "2026-07-09T20:58:01.076Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -98,6 +98,14 @@
       ],
       "articles": [
         {
+          "title": "An Experimental Proposal for Blocking Ambient Radiation",
+          "url": "https://lifespan.io/an-experimental-proposal-for-blocking-ambient-radiation/",
+          "domain": "lifespan.io",
+          "date": "2026-07-09T20:10:54.000Z",
+          "source": "Lifespan.io",
+          "summary": "A perspective published in Aging and Disease has recommended the use of underground laboratory space in order to remove the effects of surface […]"
+        },
+        {
           "title": "FDA, ARPA-H and XPRIZE map out the longevity regulatory frontier",
           "url": "https://longevity.technology/news/fda-arpa-h-and-xprize-map-out-the-longevity-regulatory-frontier/",
           "domain": "longevity.technology",
@@ -167,15 +175,7 @@
           "domain": "lifespan.io",
           "date": "2026-07-08T16:36:59.000Z",
           "source": "Lifespan.io",
-          "summary": "In a recently published perspective paper, the author argues that the UK’s official health guidelines on physical activity and protein intake should be revised to recommend levels necessary to achieve optimal health, rather than the […]"
-        },
-        {
-          "title": "Longevity capital heads to Gstaad",
-          "url": "https://longevity.technology/news/longevity-capital-heads-to-gstaad/",
-          "domain": "longevity.technology",
-          "date": "2026-07-08T16:34:59.000Z",
-          "source": "Longevity.Technology",
-          "summary": "The seventh Longevity Investors Conference brings science, capital and candid debate together in the Swiss Alps this September. The Longevity Investors Conference (LIC) returns to Le Grand Bellevue in Gstaad, Switzerland, from 14 to 17 September, bringing together investors, founders, scientists and clinicians for four days of discussion centred on one of the sector’s defining […] The post Longevity capital heads to Gstaad appeared first on Longevity.Technology ."
+          "summary": "In a recently published perspective paper, the author argues that the UK’s official health guidelines on physical activity and protein intake should be revised to recommend levels necessary to achieve […]"
         }
       ]
     },
@@ -278,84 +278,84 @@
       ],
       "articles": [
         {
-          "title": "Billions flowing out of bitcoin ETFs and private credit funds suggest rising market risks",
-          "url": "https://www.coindesk.com/markets/2026/07/09/billions-flowing-out-of-bitcoin-etfs-and-private-credit-funds-suggest-rising-market-risks",
+          "title": "Grayscale's CFO exits after 7 years with crypto asset manager",
+          "url": "https://www.coindesk.com/business/2026/07/09/grayscale-s-cfo-exits-after-7-years-with-crypto-asset-manager",
           "domain": "coindesk.com",
-          "date": "2026-07-09T18:13:04.000Z",
+          "date": "2026-07-09T20:42:49.000Z",
           "source": "CoinDesk",
-          "summary": "Redemption requests in the $2 trillion private credit market surged to $15.6 billion in the second quarter, dwarfing bitcoin ETF outflows."
+          "summary": "Edward McGee stepped down after seven years, weeks after distribution chief John Hoffman left for Ondo Finance."
         },
         {
-          "title": "White House defends Trump’s regulatory appointments as CFTC vacancies complicate crypto bill push",
-          "url": "https://www.theblock.co/post/407785/white-house-defends-trumps-regulatory-appointments-as-cftc-vacancies-complicate-crypto-bill-push?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-09T17:53:16.000Z",
-          "source": "The Block",
-          "summary": "The White House pushed back against Democrats’ criticism that the administration has declined to appoint commissioners to regulatory agencies."
-        },
-        {
-          "title": "Bitcoin miners’ AI pivot faces investor scrutiny over insider sales",
-          "url": "https://cointelegraph.com/news/bitcoin-miners-ai-pivot-faces-investor-scrutiny-over-insider-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-09T17:09:01.000Z",
-          "source": "CoinTelegraph",
-          "summary": "As AI-driven mining stocks retreat, investors are examining executive stock sales, governance and shareholder alignment across leading Bitcoin miners, according to Blocksbridge Consulting."
-        },
-        {
-          "title": "UK politicians mull permanent crypto donation ban in wake of Nigel Farage scandal",
-          "url": "https://cointelegraph.com/news/uk-politicians-crypto-donation-ban-nigel-farage-scandal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-09T16:42:18.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Labour lawmakers proposed a full moratorium on crypto donations in March, which some have sought be made permanent after millions of dollars in contributions were linked to Reform leader Nigel Farage."
-        },
-        {
-          "title": "Can Bitcoin hold $62K ahead of Friday’s $1.4 billion options expiry?",
-          "url": "https://cointelegraph.com/markets/can-bitcoin-hold-62k-ahead-of-fridays-14-billion-options-expiry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-09T16:31:10.000Z",
-          "source": "CoinTelegraph",
-          "summary": "US 10-year Treasury yields nears dangerous level while major Deribit Bitcoin options expiry approaches."
-        },
-        {
-          "title": "MARA shares surge after 2 GW Texas infrastructure deal expands AI ambitions",
-          "url": "https://cointelegraph.com/news/mara-shares-jump-10-after-2-gw-texas-infrastructure-deal-expands-ai-ambitions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-09T16:26:33.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The Bitcoin miner's shares climbed about 15% after announcing it's acquiring a Texas site with up to 2 GW of power capacity to expand its AI and digital infrastructure strategy."
-        },
-        {
-          "title": "Hyperliquid Policy Center, Phantom urge CFTC to stop treating onchain protocols like traditional brokers and exchanges",
-          "url": "https://www.theblock.co/post/407780/hyperliquid-policy-center-phantom-urge-cftc-to-stop-treating-onchain-protocols-like-traditional-brokers-and-exchanges?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-09T16:00:23.000Z",
-          "source": "The Block",
-          "summary": "The CFTC and Securities and Exchange Commission issued a Request for Information in mid-June on financial innovation."
-        },
-        {
-          "title": "Bitcoin traders reveal key levels as BTC price passes $63K after Trump Iran 'deal' comments",
-          "url": "https://cointelegraph.com/markets/bitcoin-traders-reveal-key-levels-as-btc-price-passes-63k-after-trump-iran-deal-comments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-09T15:56:59.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Bitcoin gained new upside targets for the daily close and beyond after US president Donald Trump said that Iran \"wants to make a deal.\""
-        },
-        {
-          "title": "AI contracts, not bitcoin, now drive miner valuations, and Cipher and TeraWulf look cheap, says analyst",
-          "url": "https://www.coindesk.com/markets/2026/07/09/cipher-terawulf-among-ai-infrastructure-stocks-trading-below-contract-value-compass-point-argues",
+          "title": "With SEC fight over, Coinbase's top legal exec Grewal moves on, and others reassigned",
+          "url": "https://www.coindesk.com/policy/2026/07/09/with-sec-fight-over-coinbase-s-top-legal-exec-grewal-moves-on-and-others-reassigned",
           "domain": "coindesk.com",
-          "date": "2026-07-09T15:53:42.000Z",
+          "date": "2026-07-09T20:31:39.000Z",
           "source": "CoinDesk",
-          "summary": "Compass Point analysts Michael Donovan and Ed Engel said markets are giving little credit to future AI data center pipelines despite billions of dollars in signed leases."
+          "summary": "Coinbase Chief Legal Officer Paul Grewal will depart the exchange, though he'll continue as an adviser, he said Thursday."
         },
         {
-          "title": "JPMorgan says bitcoin’s main risk isn’t Strategy, but blockchain adoption that doesn’t benefit public chains and tokens",
-          "url": "https://www.theblock.co/post/407776/jpmorgan-bitcoin-risk-strategy-blockchain-tokens-crypto?utm_source=rss&utm_medium=rss",
+          "title": "Arbitrum jumps 19% benefitting from Robinhood's $568 million onchain trading frenzy",
+          "url": "https://www.coindesk.com/markets/2026/07/09/arbitrum-jumps-19-benefitting-from-robinhood-s-usd568-million-onchain-trading-frenzy",
+          "domain": "coindesk.com",
+          "date": "2026-07-09T20:28:51.000Z",
+          "source": "CoinDesk",
+          "summary": "The brokerage's new blockchain is off to a fast start, with memecoin trading boosting activity and revenue flowing back to the Arbitrum ecosystem."
+        },
+        {
+          "title": "Bitdeer stock jumps 14% as company expands US mining hardware production",
+          "url": "https://cointelegraph.com/news/bitdeer-stock-jumps-14-bitcoin-mining-hardware-maker-expands-us-manufacturing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-09T20:19:15.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bitdeer shares rallied after the company announced a $36 million Nevada manufacturing facility that will produce its SEALMINER Bitcoin mining machines and expand its hardware business."
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-09T20:17:33.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
+        {
+          "title": "Ethereum Foundation says AI agents find real bugs, but most are false positives",
+          "url": "https://www.theblock.co/post/407793/ethereum-foundation-says-ai-agents-find-real-bugs-but-most-are-false-positives?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-07-09T15:44:13.000Z",
+          "date": "2026-07-09T19:51:23.000Z",
           "source": "The Block",
-          "summary": "JPMorgan says Strategy isn't bitcoin's main structural risk, but blockchain adoption that fails to benefit public blockchains and tokens."
+          "summary": "The Ethereum Foundation's Protocol Security team has been using coordinated AI agents to test critical network infrastructure."
+        },
+        {
+          "title": "White House says it received no Democratic response related to SEC, CFTC vacancies",
+          "url": "https://cointelegraph.com/news/white-house-request-cftc-sec-nominations-democrats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-09T19:48:37.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Both US financial regulators are understaffed at the leadership level and lacking Democratic commissioners, with no announcement from President Donald Trump on filling the roles."
+        },
+        {
+          "title": "CryptoQuant says bitcoin rebound remains a bear-market recovery, not a trend reversal",
+          "url": "https://www.theblock.co/post/407796/cryptoquant-bitcoin-rebound-bear-market-recovery-not-trend-reversal?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-09T19:45:15.000Z",
+          "source": "The Block",
+          "summary": "CryptoQuant said bitcoin's recent rebound should be viewed as a bear-market recovery rather than a trend reversal."
+        },
+        {
+          "title": "Phantom, Hyperliquid ask CFTC to modernize rules for onchain derivatives",
+          "url": "https://cointelegraph.com/news/phantom-hyperliquid-ask-cftc-to-modernize-rules-for-onchain-derivatives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-09T19:36:52.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The companies urged the regulator to exempt blockchain developers and non-custodial wallet providers from rules designed for traditional financial intermediaries."
+        },
+        {
+          "title": "Newest version of crypto Clarity Act may drop as soon as next week, sources say",
+          "url": "https://www.coindesk.com/policy/2026/07/09/newest-version-of-crypto-clarity-act-may-drop-as-soon-as-next-week-sources-say",
+          "domain": "coindesk.com",
+          "date": "2026-07-09T19:34:24.000Z",
+          "source": "CoinDesk",
+          "summary": "After a long stretch without breakthroughs in the crypto market structure bill, insiders say a new draft may emerge in a final push for late-July action — though it still lacks bipartisan buy-in."
         }
       ]
     }
