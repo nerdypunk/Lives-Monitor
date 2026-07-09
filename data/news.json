@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-09T20:58:01.076Z",
+  "updatedAt": "2026-07-09T22:39:19.692Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,12 +278,44 @@
       ],
       "articles": [
         {
+          "title": "New Hampshire snuffs out trailblazing state-government bitcoin bond effort",
+          "url": "https://www.coindesk.com/policy/2026/07/09/new-hampshire-snuffs-out-trailblazing-bitcoin-municipal-bond-effort",
+          "domain": "coindesk.com",
+          "date": "2026-07-09T22:19:54.000Z",
+          "source": "CoinDesk",
+          "summary": "At its last stage for government approval, the state's executive council rejected the bond project 3-2."
+        },
+        {
+          "title": "Bitwise says bitcoin’s ‘floor is rising’ despite AI boom and regulatory delays",
+          "url": "https://www.theblock.co/post/407790/bitwise-says-bitcoins-floor-rising-despite-ai-boom-regulatory-delays?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-09T21:54:35.000Z",
+          "source": "The Block",
+          "summary": "Bitwise says institutions are buying the bitcoin bear market dip, while many larger investors are still awaiting regulatory clarity."
+        },
+        {
+          "title": "Coinbase chief legal officer to transition to advisory role on July 31",
+          "url": "https://cointelegraph.com/news/coinbase-chief-legal-officer-stepping-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-09T21:35:12.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The soon-to-be former chief legal officer did not announce the details of his next move but said that he would continue working with the Board of Coinbase National Trust Company."
+        },
+        {
+          "title": "Coinbase Chief Legal Officer Paul Grewal steps down, remains in advisory role",
+          "url": "https://www.theblock.co/post/407809/coinbase-chief-legal-officer-paul-grewal-steps-down?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-09T21:13:44.000Z",
+          "source": "The Block",
+          "summary": "Coinbase Chief Legal Officer Paul Grewal joined the firm in mid-2020 to lead its legal, compliance and government relations operations."
+        },
+        {
           "title": "Grayscale's CFO exits after 7 years with crypto asset manager",
           "url": "https://www.coindesk.com/business/2026/07/09/grayscale-s-cfo-exits-after-7-years-with-crypto-asset-manager",
           "domain": "coindesk.com",
           "date": "2026-07-09T20:42:49.000Z",
           "source": "CoinDesk",
-          "summary": "Edward McGee stepped down after seven years, weeks after distribution chief John Hoffman left for Ondo Finance."
+          "summary": "Edward McGee stepped down after seven years, months after distribution chief John Hoffman left for Ondo Finance."
         },
         {
           "title": "With SEC fight over, Coinbase's top legal exec Grewal moves on, and others reassigned",
@@ -324,38 +356,6 @@
           "date": "2026-07-09T19:51:23.000Z",
           "source": "The Block",
           "summary": "The Ethereum Foundation's Protocol Security team has been using coordinated AI agents to test critical network infrastructure."
-        },
-        {
-          "title": "White House says it received no Democratic response related to SEC, CFTC vacancies",
-          "url": "https://cointelegraph.com/news/white-house-request-cftc-sec-nominations-democrats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-09T19:48:37.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Both US financial regulators are understaffed at the leadership level and lacking Democratic commissioners, with no announcement from President Donald Trump on filling the roles."
-        },
-        {
-          "title": "CryptoQuant says bitcoin rebound remains a bear-market recovery, not a trend reversal",
-          "url": "https://www.theblock.co/post/407796/cryptoquant-bitcoin-rebound-bear-market-recovery-not-trend-reversal?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-09T19:45:15.000Z",
-          "source": "The Block",
-          "summary": "CryptoQuant said bitcoin's recent rebound should be viewed as a bear-market recovery rather than a trend reversal."
-        },
-        {
-          "title": "Phantom, Hyperliquid ask CFTC to modernize rules for onchain derivatives",
-          "url": "https://cointelegraph.com/news/phantom-hyperliquid-ask-cftc-to-modernize-rules-for-onchain-derivatives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-09T19:36:52.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The companies urged the regulator to exempt blockchain developers and non-custodial wallet providers from rules designed for traditional financial intermediaries."
-        },
-        {
-          "title": "Newest version of crypto Clarity Act may drop as soon as next week, sources say",
-          "url": "https://www.coindesk.com/policy/2026/07/09/newest-version-of-crypto-clarity-act-may-drop-as-soon-as-next-week-sources-say",
-          "domain": "coindesk.com",
-          "date": "2026-07-09T19:34:24.000Z",
-          "source": "CoinDesk",
-          "summary": "After a long stretch without breakthroughs in the crypto market structure bill, insiders say a new draft may emerge in a final push for late-July action — though it still lacks bipartisan buy-in."
         }
       ]
     }
