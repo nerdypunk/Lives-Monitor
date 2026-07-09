@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-08T23:30:59.503Z",
+  "updatedAt": "2026-07-09T01:17:09.350Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -26,7 +26,7 @@
         },
         {
           "title": "BioProtocol unveils OpenLabs platform at DeSci Berlin to merge AI with decentralized research funding - Bitget",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9sSG5XUXNVaUp2UFhXekJuWW1BaGxPcDFSMXhvY2kweTBkbUJmNF9xYUJibmxoZzQxSjZIM3ZEVnpCZFFReHU5WlRNZmFzNTZjV3RONHlmUjhwX0MtU29YUU9Nd2XSAWpBVV95cUxQQjZLTGgtX1VkTW1FZ3RBOHlrMVRVV255ZmMtSWp5WURLdlh0cGJoZ2doUFBYVkYyTWRrLUgzanhGY3kwVFhIOXBNc1BtcHV3ZHM1WXJYOTFoSkpfcGZSTEhVV1p2ci00cU1R?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCNktMaC1fVWRNbUVndEE4eWsxVFVXbnlmYy1JanlZREt2WHRwYmhnZ2hQUFhWRjJNZGstSDNqeEZjeTBUWEg5cE1zUG1wdXdkczVZclg5MWhKSl9wZlJMSFVXWnZyLTRxTVHSAWpBVV95cUxQQjZLTGgtX1VkTW1FZ3RBOHlrMVRVV255ZmMtSWp5WURLdlh0cGJoZ2doUFBYVkYyTWRrLUgzanhGY3kwVFhIOXBNc1BtcHV3ZHM1WXJYOTFoSkpfcGZSTEhVV1p2ci00cU1R?oc=5",
           "domain": "bitget.com",
           "date": "2026-06-19T07:00:00.000Z",
           "source": "Bitget",
@@ -88,8 +88,7 @@
           "source": "bloomingbit",
           "summary": "Bio Protocol Jumps 53.85% in Intraday Trading &nbsp;&nbsp; bloomingbit"
         }
-      ],
-      "warning": "Google News DeSci returned 503"
+      ]
     },
     {
       "name": "Longevity",
