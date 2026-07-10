@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-10T07:03:59.758Z",
+  "updatedAt": "2026-07-10T10:30:15.357Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -31,14 +31,6 @@
           "date": "2026-06-28T07:00:00.000Z",
           "source": "KuCoin",
           "summary": "️DeSci Atoms Market Update 29 June 2026 MarketCap 24hrs Top &nbsp;&nbsp; KuCoin"
-        },
-        {
-          "title": "Bio Protocol launches AI research hub to challenge grant gatekeepers - Crypto News",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNFh5NE1hUkt5RnVBaFFuVU1HYzgxZzBkU0huOXprTVpRV0xWVDJjZEF3LUtqNkZWWDZVU0E5Wm16ZHljR0dYanI2eDZnYnVCQVA0UzJMTmNQekFtMXhxbTRmWmU0cVBfczBKTURTZ0Jnc2s3QkFMdVpuNlNyeks1azhVUHpHYkNQbno0ZGR6aVZuY2c?oc=5",
-          "domain": "crypto.news",
-          "date": "2026-06-20T07:00:00.000Z",
-          "source": "Crypto News",
-          "summary": "Bio Protocol launches AI research hub to challenge grant gatekeepers &nbsp;&nbsp; Crypto News"
         },
         {
           "title": "BioProtocol unveils OpenLabs platform at DeSci Berlin to merge AI with decentralized research funding - Bitget",
@@ -87,6 +79,14 @@
           "date": "2026-05-15T07:00:00.000Z",
           "source": "Coinpedia",
           "summary": "PEPTAI Price Swings Wild As Base Integration Fuels DeSci Hype &nbsp;&nbsp; Coinpedia"
+        },
+        {
+          "title": "DeSci Has Raised Millions For Research No VC Would Ever Touch - Yellow.com",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQzAtQWJmSEtGX1pXdWVOR0RsRnhXWGp4S2VYUEhXREJiM1ljR01reDZfS1hwU0g3eTMzaFdOdnVJb3l2R2lNdmdCVEhuUWExYjB0VTNReUIwUlRxTjhrdmlCV1d5R3VXbGtRWFp3eGQ0VTV0SjhZdGpNOGV2dDNYcnVodm9PWWJHYlE?oc=5",
+          "domain": "yellow.com",
+          "date": "2026-05-04T06:44:54.000Z",
+          "source": "Yellow.com",
+          "summary": "DeSci Has Raised Millions For Research No VC Would Ever Touch &nbsp;&nbsp; Yellow.com"
         }
       ]
     },
@@ -175,7 +175,7 @@
           "domain": "lifespan.io",
           "date": "2026-07-08T16:36:59.000Z",
           "source": "Lifespan.io",
-          "summary": "In a recently published perspective paper, the author argues that the UK’s official health guidelines on physical activity and protein intake should be revised to recommend levels necessary to achieve […]"
+          "summary": "In a recently published perspective paper, the author argues that the UK’s official health guidelines on physical activity and protein intake should be revised to recommend levels necessary to achieve optimal health, […]"
         }
       ]
     },
@@ -278,84 +278,84 @@
       ],
       "articles": [
         {
-          "title": "Bitcoin gets a green light from a reliable momentum gauge. Here are key levels to watch",
-          "url": "https://www.coindesk.com/markets/2026/07/10/bitcoin-gets-a-green-light-from-a-reliable-momentum-gauge-here-are-key-levels-to-watch",
-          "domain": "coindesk.com",
-          "date": "2026-07-10T06:49:13.000Z",
-          "source": "CoinDesk",
-          "summary": "A smoother long-term MACD just flipped bullish, pointing to more upside. Here are key levels that will decide if the ongoing bounce turns into a full blown uptrend."
-        },
-        {
-          "title": "Live markets: Bitcoin ETFs bleed again while ether funds snap a five-day inflow streak",
-          "url": "https://www.coindesk.com/tech/2026/07/10/live-markets-bitcoin-etfs-bleed-again-while-ether-funds-snap-a-five-day-inflow-streak",
-          "domain": "coindesk.com",
-          "date": "2026-07-10T06:21:34.000Z",
-          "source": "CoinDesk",
-          "summary": "Spot bitcoin funds lost about $95 million on Thursday and ether funds roughly $52 million, ending the one bright spot in crypto's institutional flows even as prices rallied."
-        },
-        {
-          "title": "EU parliament passes ‘chat control,’ allowing private chat scans until 2028",
-          "url": "https://cointelegraph.com/news/eu-parliament-passes-chat-control-allowing-private-chat-scans-to-2028?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-10T06:05:38.000Z",
-          "source": "CoinTelegraph",
-          "summary": "EU lawmakers have again allowed tech firms to scan chats for abuse material, but exempted end-to-end encrypted messages."
-        },
-        {
-          "title": "North Carolina passes bill recognizing CFTC preemption over prediction markets",
-          "url": "https://www.theblock.co/post/407830/north-carolina-cftc-preemption-prediction-markets?utm_source=rss&utm_medium=rss",
+          "title": "New Hampshire’s $100 million bitcoin bond proposal fails to pass final vote",
+          "url": "https://www.theblock.co/post/407867/new-hampshire-bitcoin-backed-bond-fails?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-07-10T05:51:59.000Z",
+          "date": "2026-07-10T10:29:07.000Z",
           "source": "The Block",
-          "summary": "North Carolina's new law taxes prediction market platforms at 6% of their net trading fee revenue that is attributable to North Carolina residents."
+          "summary": "Governor Ayotte had expressed support for the proposal, touting it as an innovative way to bring more investment opportunities to the state."
         },
         {
-          "title": "Robinhood Chain sees over $70M in ETH bridged during first week",
-          "url": "https://cointelegraph.com/news/robinhood-chain-sees-over-70m-in-eth-bridged-during-first-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "TeraWulf eyes $3.5B debt raise for Anthropic-linked data center: Report",
+          "url": "https://cointelegraph.com/news/terawulf-3-5-billion-debt-raise-anthropic-data-center?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-07-10T05:44:20.000Z",
+          "date": "2026-07-10T10:14:51.000Z",
           "source": "CoinTelegraph",
-          "summary": "Robinhood’s choice to use Ethereum further solidifies its position as the “ultimate settlement layer and liquidity foundation for tokenized assets,” said HashKey Group’s Tim Sun."
+          "summary": "Bitcoin miner TeraWulf is reportedly seeking $3.5 billion in debt financing led by Morgan Stanley for its Kentucky data center campus leased by AI company Anthropic."
         },
         {
-          "title": "XRP up 2% as buyers push through $1.10 resistance",
-          "url": "https://www.coindesk.com/markets/2026/07/10/xrp-up-2-as-buyers-push-through-usd1-10-resistance",
-          "domain": "coindesk.com",
-          "date": "2026-07-10T05:13:48.000Z",
-          "source": "CoinDesk",
-          "summary": "A late-session volume surge carried XRP above its recent range, with traders now watching whether $1.10 can hold as support."
-        },
-        {
-          "title": "Bitcoin's quiet split: Strong in USD, lagging in JPY as Yen rises on intervention fears",
-          "url": "https://www.coindesk.com/markets/2026/07/10/bitcoin-s-quiet-split-strong-in-usd-lagging-in-jpy-as-yen-rises-on-intervention-fears",
-          "domain": "coindesk.com",
-          "date": "2026-07-10T04:34:06.000Z",
-          "source": "CoinDesk",
-          "summary": "A sharp rise in the yen has left bitcoin and other major cryptocurrencies underperforming in yen terms compared with their dollar-based trading pairs."
-        },
-        {
-          "title": "Zcash targets July 28 launch for Ironwood network upgrade",
-          "url": "https://cointelegraph.com/news/zcash-targets-july-28-launch-for-ironwood-network-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-10T04:25:27.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Zcash’s next upgrade will replace the once-compromised Orchard pool and may offer clues about whether counterfeit tokens were created via a recent bug."
-        },
-        {
-          "title": "Polymarket files applications to offer regulated margin trading in US",
-          "url": "https://www.theblock.co/post/407820/polymarket-margin-trading?utm_source=rss&utm_medium=rss",
+          "title": "Revolut integrates its crypto exchange with AI assistants as agentic trading spreads",
+          "url": "https://www.theblock.co/post/407865/revolut-integrates-its-crypto-exchange-with-ai-assistants-as-agentic-trading-spreads?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-07-10T04:10:25.000Z",
+          "date": "2026-07-10T10:04:08.000Z",
           "source": "The Block",
-          "summary": "Polymarket's rival platform, Kalshi, already received US regulatory approval to provide margin trading back in March."
+          "summary": "Revolut X now connects to Claude, Gemini, OpenClaw, and Cursor, letting crypto users analyze, backtest, and execute trades via AI prompts."
         },
         {
-          "title": "Bitcoin zips higher to nearly $64,000 as chip rally and yen strength drive gains",
-          "url": "https://www.coindesk.com/markets/2026/07/10/bitcoin-zips-to-nearly-usd64-000-as-chip-rally-and-yen-strength-drive-gains",
+          "title": "Metaplanet explores Bitcoin-backed digital credit with JPYC in Japan",
+          "url": "https://cointelegraph.com/news/metaplanet-studies-bitcoin-digital-bonds-japan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-10T09:58:10.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Metaplanet said it is studying Bitcoin-backed digital credit products in Japan with JPYC and Progmat, but no product has been launched."
+        },
+        {
+          "title": "Polymarket seeks approval to bring margin trading to U.S. customers",
+          "url": "https://www.coindesk.com/markets/2026/07/10/polymarket-seeks-approval-to-bring-margin-trading-to-u-s-customers",
           "domain": "coindesk.com",
-          "date": "2026-07-10T03:57:58.000Z",
+          "date": "2026-07-10T09:35:21.000Z",
           "source": "CoinDesk",
-          "summary": "Bitcoin is up 4.2% over seven days that contained an oil shock, a bond selloff and two rounds of U.S. strikes on Iran."
+          "summary": "Polymarket's application to allow users to take positions that are not fully collateralized follows authorization granted to rival Kalshi in March."
+        },
+        {
+          "title": "Bitcoin returns to $64.3K with new three-week BTC price highs imminent",
+          "url": "https://cointelegraph.com/markets/bitcoin-returns-to-64k-with-three-week-btc-price-highs-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-10T09:32:23.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bitcoin bulls faced \"crucial resistance\" at $65,000 next as BTC price action diverged from oil and US dollar strength."
+        },
+        {
+          "title": "Bitcoin's $60,000-$70,000 range becomes third longest consolidation in history",
+          "url": "https://www.coindesk.com/markets/2026/07/10/bitcoin-s-usd60k-to-usd70k-range-becomes-third-longest-consolidation-in-history",
+          "domain": "coindesk.com",
+          "date": "2026-07-10T09:16:52.000Z",
+          "source": "CoinDesk",
+          "summary": "Bitcoin has spent 307 days in the $60,000-$70,000 range, the third longest consolidation in any $10,000 price band."
+        },
+        {
+          "title": "DOJ charges federal inmate over alleged theft of $290,000 in crypto forfeited to US government",
+          "url": "https://www.theblock.co/post/407854/doj-charges-federal-inmate-over-alleged-theft-of-290000-in-crypto-forfeited-to-us-government?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-10T09:13:08.000Z",
+          "source": "The Block",
+          "summary": "Federal inmate Rossen Iossifov faces new charges for allegedly taking $290,000 in government-forfeited cryptocurrency."
+        },
+        {
+          "title": "Cathie Wood’s Ark Invest buys $14 million worth of Circle, offloads Robinhood shares",
+          "url": "https://www.theblock.co/post/407853/ark-invest-buys-14-million-worth-circle?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-10T09:09:24.000Z",
+          "source": "The Block",
+          "summary": "Circle Internet Group's stock dropped 1.65% during Thursday's trading session, extending its one-month decline to 20.2%."
+        },
+        {
+          "title": "Metaplanet explores bringing bitcoin-backed digital credit to Japan",
+          "url": "https://www.coindesk.com/markets/2026/07/10/metaplanet-explores-bringing-bitcoin-backed-digital-credit-to-japan",
+          "domain": "coindesk.com",
+          "date": "2026-07-10T09:08:20.000Z",
+          "source": "CoinDesk",
+          "summary": "The bitcoin treasury company is working with JPYC and Progmat to explore tokenized credit products backed by bitcoin, aiming to create efficient, 24/7 credit markets in Japan."
         }
       ]
     }
