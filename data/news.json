@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-10T03:40:42.942Z",
+  "updatedAt": "2026-07-10T07:03:59.758Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -8,6 +8,14 @@
         "https://news.google.com/rss/search?q=DeSci%20OR%20%22decentralized%20science%22%20OR%20%22BIO%20Protocol%22&hl=en-US&gl=US&ceid=US:en"
       ],
       "articles": [
+        {
+          "title": "Bio Protocol launches AI agents to automate dec... - Pluang",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdW9VV0Z1SEpCYjZLNDFGekc3V2dVQ19acm40RWhha1VRcU52WmVDMUxUaTVrdm9UaDBJbURma01OSmJ5TGNrUmhKV2pGU3hicDVNd3FXaXI4Mzd3UlpVMUw3WWp4MEJJRFN2Z3dCVmNxVW9rMENXZTE2NFM3c2xhVzFPdnRReVE4eVN4a1RhZXF6MkdaOVhnMXZLQ2REU3o4ZDZMdUw3ZUhqNWUz?oc=5",
+          "domain": "pluang.com",
+          "date": "2026-07-02T04:41:27.000Z",
+          "source": "Pluang",
+          "summary": "Bio Protocol launches AI agents to automate dec... &nbsp;&nbsp; Pluang"
+        },
         {
           "title": "Bio Protocol develops AI agents to enhance decentralized science operations - Crypto Briefing",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mZGlhbTNwdWQ4dTdRZ1lHYmRVVEx2VWE0Q2h3Rzh5dXlIUFhiRTBoM0Z1Uk5DUzRqcThTMGtUbjI5aGNwTWVyRzdPeWo1Uk90RjFDMnl4VkN4N1FqRjNSNWRuNHZPaGs?oc=5",
@@ -79,14 +87,6 @@
           "date": "2026-05-15T07:00:00.000Z",
           "source": "Coinpedia",
           "summary": "PEPTAI Price Swings Wild As Base Integration Fuels DeSci Hype &nbsp;&nbsp; Coinpedia"
-        },
-        {
-          "title": "DeSci Has Raised Millions For Research No VC Would Ever Touch - Yellow.com",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQzAtQWJmSEtGX1pXdWVOR0RsRnhXWGp4S2VYUEhXREJiM1ljR01reDZfS1hwU0g3eTMzaFdOdnVJb3l2R2lNdmdCVEhuUWExYjB0VTNReUIwUlRxTjhrdmlCV1d5R3VXbGtRWFp3eGQ0VTV0SjhZdGpNOGV2dDNYcnVodm9PWWJHYlE?oc=5",
-          "domain": "yellow.com",
-          "date": "2026-05-04T06:44:54.000Z",
-          "source": "Yellow.com",
-          "summary": "DeSci Has Raised Millions For Research No VC Would Ever Touch &nbsp;&nbsp; Yellow.com"
         }
       ]
     },
@@ -188,84 +188,84 @@
       ],
       "articles": [
         {
-          "title": "Wearables to track plant health: Farmers could use real-time information to manage crop conditions",
-          "url": "https://phys.org/news/2026-07-wearables-track-health-farmers-real.html",
-          "domain": "phys.org",
-          "date": "2026-07-09T14:20:07.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "A smartwatch can tell us the level of oxygen in our blood, when our sleep is restless or the number of steps we take in a day. Now imagine that kind of tracking ability for plants. By the time farmers see curling leaves or stunted growth in their fields, their crops may already have spent days under stress."
+          "title": "UMA-Inverse: Ligand-Conditioned Protein Inverse Folding with a Distogram-Supervised Dense Pair Encoder",
+          "url": "https://arxiv.org/abs/2607.07866",
+          "domain": "arxiv.org",
+          "date": "2026-07-10T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2607.07866v1 Announce Type: new Abstract: Designing protein sequences that bind specific ligands benefits from an inverse-folding model conditioned on full ligand geometry. We present UMA-Inverse, which replaces the sparse graph backbone of LigandMPNN with a dense pair-representation encoder: a six-block PairMixer (triangle multiplication, no triangle self-attention or sequence track) refines all residue-residue and residue-ligand atom pairs, supervised by an auxiliary distogram objective, and an autoregressive decoder attends over ligand atoms through a learned, position-specific readout of the pair tensor. The model is compact ($\\sim$3.3 M parameters). On the LigandMPNN test splits it reaches 56.1%/55.1%/35.3% interface recovery (small-molecule/metal/nucleotide). It trails LigandMPNN, but by less than the published numbers suggest: re-run under our identical protocol, LigandMPNN scores 59.8/64.4/53.3 (vs. published 63.3/77.5/50.5). In a pocket-fixed setting the redesigns are confidently folded and ligand-binding-competent under Boltz-2 cofolding, again modestly behind LigandMPNN. Its distinctive property is representational: the dense encoder propagates ligand identity to residues far beyond the interface, where LigandMPNN's signal decays. We offer UMA-Inverse as a compact baseline for ligand-conditioned inverse folding that trails LigandMPNN in accuracy, together with a characterization of how a dense all-pairs encoder distributes ligand information."
         },
         {
-          "title": "Towards a Pseudo-Labeling Workflow for Celltype-Classification from Explanted Brain Slice Recordings",
-          "url": "https://arxiv.org/abs/2607.06569",
+          "title": "Anthropogenic disturbance expands the climatic limits of annual plant dominance",
+          "url": "https://arxiv.org/abs/2607.08251",
           "domain": "arxiv.org",
-          "date": "2026-07-09T04:00:00.000Z",
+          "date": "2026-07-10T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2607.06569v1 Announce Type: new Abstract: This paper proposes an unsupervised workflow to pseudo-label extracellular spikes from human brain slice MEA recordings into two putative cell types: pyramidal cells and interneurons. Here, the raw data from the data acquisition system is used and processed. The pipeline for pre-processing includes bandpass filtering, threshold--based spike detection, frame alignment and normalization. In the ML workflow, dimensionality reduction (PCA, t-SNE, UMAP), clustering (GMM, k-means). To achieve an online system, template matching and OSort under varying curation strictness is also considered. All pipelines are evaluated by different cluster quality with within-cluster Pearson correlation, Silhouette score, and Calinski-Harabasz index. Applying stricter curation improves separation at some cost to inclusivity."
+          "summary": "arXiv:2607.08251v1 Announce Type: new Abstract: Disturbance regimes and nutrient inputs are changing worldwide, with consequences for the structure and functioning of plant communities. Classical life-history theory predicts that disturbance should shift communities from long-lived perennials toward short-lived annuals, and that nutrient enrichment may amplify this shift. However, these predictions have not been tested experimentally across broad environmental gradients. Here, using a global coordinated grassland experiment spanning 37 sites, we tested how physical disturbance, vegetation removal and shallow soil tillage, and fertilisation reshape annual-perennial balance, and whether disturbance relaxes the climatic limits of annual dominance. Disturbance nearly doubled the proportion of annual species and more than doubled the relative cover of annuals, whereas fertilisation had little influence and did not interact with disturbance. The disturbance-driven shift arose through contrasting pathways: in graminoids and legumes, it reflected the loss of perennial cover, while in forbs, the expansion of annual cover. In the absence of disturbance, annual dominance was restricted to systems with extremely hot and dry summers, but disturbance nearly tripled the extent of climate space in which annuals dominated. By rapidly reassembling after disturbance, annuals may help maintain vegetation cover, but their expansion also signals loss of perennial cover and the long-term ecosystem functions associated with it."
         },
         {
-          "title": "Esports and Physiological Tremor a StarCraft 2 Tournament Study",
-          "url": "https://arxiv.org/abs/2607.06577",
+          "title": "A Non-Hermitian Potential Well Formalism for Conscious--Preconscious--Subliminal Processing",
+          "url": "https://arxiv.org/abs/2607.08302",
           "domain": "arxiv.org",
-          "date": "2026-07-09T04:00:00.000Z",
+          "date": "2026-07-10T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2607.06577v1 Announce Type: new Abstract: Physiological tremor of the upper limb is a sensitive neuromuscular indicator that may be modulated by cognitive load and competitive stress, yet its behaviour in real esports conditions remains uncharacterised. We measured wrist accelerometer-based tremor in 16 healthy adult male StarCraft~2 players across two tournament days, computing log power spectral density ($log(PSD)$) and dominant frequency in four bands (2--4, 8--14, 10--20, and 1--25Hz) and comparing them to published population norms using linear mixed models. Players deviated significantly from the reference in all bands: $log(PSD)$ was elevated at 2--4~Hz and substantially reduced at higher frequencies (Cohen's $d = 1.6$--$2.3$), suggesting long-term neuromuscular adaptation to the fine-motor demands of esports. Tremor indicators declined systematically over the tournament day. Contrary to the fatigue-related increases typical of traditional motor tasks. Neither game outcome nor actions per minute significantly predicted post-game tremor. These findings suggest physiological tremor may reflect a generalised psychophysiological adaptation to competitive esports rather than being a short-term performance predictor."
+          "summary": "arXiv:2607.08302v1 Announce Type: new Abstract: We propose a phenomenological model of the Global Neuronal Workspace (GNW) in which early sensory processing generates an effective complex-valued landscape governing the dynamics of high-level stimulus representations. This landscape provides a dynamical bridge between sensory encoding and conscious access, enabling both processes to be described within a unified framework. High-level representations are encoded in a cloud function defined on a Hilbert space over a perceptual state space, thereby combining the holistic structure of mental images with a neural implementation. Its dynamics is governed by a nonlinear Schr\\\"odinger-type equation in imaginary time with a non-Hermitian, non-normal Hamiltonian and a nonlinear Lotka--Volterra-type term that preserves norm and enables spatially nonlocal interactions. The Hermitian and anti-Hermitian parts of the Hamiltonian generate complementary processes: recognition via dissipative localization at minima of the GNW landscape and information broadcasting via spatial spreading across the state space. The resulting dynamics reproduces the subliminal--preconscious--conscious hierarchy of sensory processing. Conscious access corresponds to the emergence of a bound state, which occurs only when both the GNW landscape depth and the degree of top-down attention exceed threshold values. The resulting framework provides a tractable dynamical description linking sensory processing, attention, and conscious access within a unified dynamical setting."
         },
         {
-          "title": "Recovering Candidate Circadian Regulators of Arrhythmic Pituitary Hormone Genes Using Reliability-Weighted Magnetic Laplacian with rwMagLap",
-          "url": "https://arxiv.org/abs/2607.06579",
+          "title": "Impact of Nirsevimab prophylaxis on RSV dynamics: a stage-structured modelling study",
+          "url": "https://arxiv.org/abs/2607.08344",
           "domain": "arxiv.org",
-          "date": "2026-07-09T04:00:00.000Z",
+          "date": "2026-07-10T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2607.06579v1 Announce Type: new Abstract: We study how to recover candidate circadian-clock regulators of pituitary hormone genes that are important for women's health but do not show a clear 24-hour rhythm in bulk tissue, aiming to nominate clock-linked regulatory targets that could inform future chronopharmacologic and chronotherapeutic strategies. We propose \\textbf{rwMagLap}, which builds a graph on rhythmic backbone genes. For each edge, we combine 24-hour fit quality with peak-time phase, represented as a complex unit-circle value, yielding a Hermitian adjacency matrix and a magnetic Laplacian. We insert arrhythmic hormone genes, treated as anchors, by a reliability-weighted nearest-neighbor projection. The projected anchor-neighbor weights are pooled into a soft teleport distribution, and complex personalized PageRank then ranks rhythmic backbone genes by the magnitude of their PageRank scores. In pituitary data, we find that all 11 women's-health anchors are arrhythmic. Even so, we find that the top-50 list is $7.95\\times$ enriched for the 13-gene KEGG circadian set (7 of the 8 set genes in the 454-gene backbone; corrected Benjamini-Hochberg (BH) $p_{\\mathrm{BH}}=4\\times10^{-6}$) and $4.54\\times$ enriched for the 111-gene Reactome set (8 of 16 genes; $p_{\\mathrm{BH}}=1.6\\times10^{-4}$), while a phase-blind real-valued baseline recovers none. We recover candidates through reliability weighting and phase-aware seeding rather than through magnetic propagation. The magnetic phase adds a different capability: it represents temporal order. On pituitary backbone, the magnetic embedding recovers measured peak-time order of connected pituitary genes with accuracy $0.971$, while $q{=}0$, i.e., no magnetic charge, is at chance."
+          "summary": "arXiv:2607.08344v1 Announce Type: new Abstract: Respiratory syncytial virus (RSV) is a leading cause of bronchiolitis and other lower respiratory tract infections in infants. Increased viral circulation in the post-COVID era and heterogeneous prevention strategies across regions have made RSV control more challenging. We develop a stage-structured, age-stratified Susceptible-Infected-Recovered (SIR) compartmental model tailored to the Italian setting to investigate the population-level impact of infant prophylaxis with Nirsevimab, a long-acting monoclonal antibody. Scenario-based simulations over a multi-year horizon show that increasing infant protection coverage substantially reduces RSV incidence among infants and also yields indirect benefits in older age groups. In particular, extending coverage to infants born outside the epidemic season further lowers cumulative incidence, although infant-targeted prophylaxis alone does not reduce the control reproduction number below the epidemic threshold in the parameter range explored. These findings suggest that broader and more consistent infant Nirsevimab coverage may reduce RSV burden and support the evaluation of alternative implementation strategies in the Italian context."
         },
         {
-          "title": "Trajectory Inference of Human Aging from Cross-Sectional DNA Methylation Data",
-          "url": "https://arxiv.org/abs/2607.06583",
+          "title": "DrugGen 2: A disease-aware language model for enhancing drug discovery",
+          "url": "https://arxiv.org/abs/2607.08404",
           "domain": "arxiv.org",
-          "date": "2026-07-09T04:00:00.000Z",
+          "date": "2026-07-10T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2607.06583v1 Announce Type: new Abstract: DNA methylation (DNAm) serves as one of the most robust molecular biomarkers of biological aging. While conventional epigenetic clocks accurately predict chronological age from high-dimensional CpG profiles, they treat aging as a static regression task, meaning they can only output a single score rather than simulating how an entire profile continuously changes over time. To reconstruct these continuous dynamics, we frame lifelong human epigenetic aging as a trajectory inference problem across discrete age snapshots derived from widely available cross-sectional data. We introduce a two-stage computational pipeline: first, an age-regularized Variational Autoencoder (VAE) maps high-dimensional CpG profiles onto a chronologically ordered latent manifold while preserving a generative decoder bridge back to the original methylation space. Second, we model the continuous movement across this latent space via Regularized Unbalanced Optimal Transport (RUOT) that unifies deterministic drift, random diffusion, and non-conservative mass changes. By resolving this RUOT formulation using the DeepRUOT framework, our model fluidly accommodates population-level density shifts like survivorship bias and cellular attrition without requiring rigid biological priors. Evaluated on a large-scale, 80-year pan-tissue dataset, our model demonstrates robust distribution interpolation and uncovers a prominent late-life surge in the learned growth field that mathematically captures the variance expansion driven by stochastic epigenetic drift. Finally, by decoding continuous latent paths back to individual CpG sites, we reconstruct and empirically verify distinct biological aging archetypes, offering a rigorous, generative paradigm for simulating human molecular aging."
+          "summary": "arXiv:2607.08404v1 Announce Type: new Abstract: Current computational approaches for drug design typically focus on generating molecules conditioned on specific targets or general molecular properties, often neglecting the influence of disease context on target behavior and therapeutic outcomes. To address this gap, we introduce DrugGen-2, a novel generative model that designs small molecules conditioned on both disease ontology and target protein sequences. DrugGen-2 was developed by fine-tuning a pre-trained GPT-2 model on a curated dataset of approved drugs linked to their diseases and targets, using a two-step strategy of supervised fine-tuning followed by reinforcement learning via group relative policy optimization (GRPO). This process was guided by reward functions optimizing for chemical validity, novelty, diversity, and high predicted binding affinity. When evaluated on five protein targets relevant to diabetic nephropathy, DrugGen-2 significantly outperformed baseline models (DrugGPT and DrugGen). It demonstrated a superior capacity to generate unique molecules, exhibited greater structural similarity to approved drugs, and achieved improved predicted binding affinities across all targets. Molecular docking analyses further supported these findings, identifying candidate ligands with strong binding potential, including compounds with predicted affinities (-9.917, -9.485, and -9.367) exceeding those of reference drugs such as enalapril for angiotensin-converting enzyme (-8.283). By integrating disease-specific context into molecular generation, DrugGen-2 advances AI-assisted drug discovery, offering a powerful tool for de novo design and drug repurposing that accounts for the complex interplay between diseases and molecular targets."
         },
         {
-          "title": "Polynomial encoding of rooted trees with branch lengths",
-          "url": "https://arxiv.org/abs/2607.06591",
+          "title": "SHIFT: Survival Prediction from Incomplete and Heterogeneous Genomic Data",
+          "url": "https://arxiv.org/abs/2607.07725",
           "domain": "arxiv.org",
-          "date": "2026-07-09T04:00:00.000Z",
+          "date": "2026-07-10T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2607.06591v1 Announce Type: new Abstract: Phylogenetic trees are rooted trees with branch lengths that record genetic divergence or elapsed time, and quantifying differences between them is central to a wide range of evolutionary and epidemiological analyses. Graph-polynomial encodings of rooted trees provide an accurate, interpretable, and computationally efficient way to compare tree shapes, but existing polynomial encodings must be paired with auxiliary structures to study rooted trees with branch lengths. We introduce a bivariate polynomial encoding that incorporates branch lengths directly into a recursive computation from the leaf vertices to the root vertex of a tree. We prove that, for rooted trees with branch lengths and no vertices of degree two, which include all standard phylogenetic trees, two trees have the same polynomial if and only if their underlying unlabeled trees are isomorphic and the branch lengths of corresponding edges are equal. We apply the polynomial encoding to three published HIV-1 phylogenies sampled in different epidemiological settings and show that it accurately separates the three datasets based on their tree topologies and branch lengths, outperforming previous polynomial-based approaches for analyzing rooted trees with branch lengths."
+          "summary": "arXiv:2607.07725v1 Announce Type: cross Abstract: Genomic prediction models often fail to transfer across institutions because sequencing panels differ across sites, creating structural feature missingness at deployment. Existing approaches to this challenge typically restrict analysis to genes shared across cohorts, exclude patients with incomplete profiles, or rely on test-time imputation, all of which can reduce robustness and limit the use of multi-center data. We propose Survival prediction Handling Incomplete Features using Transformer (SHIFT), a missingness-aware survival model that directly predicts from incomplete genomic inputs without test-time imputation. SHIFT represents each genomic feature separately and uses masked self-attention, along with a feature-availability mask, so that predictions are based only on observed inputs. Further, we introduce variable-rate feature masking during training to improve robustness to heterogeneous missingness patterns. We evaluate the approach on glioblastoma and lung squamous cell carcinoma with external validation across multiple cohorts, including a challenging setting with severe cross-cohort panel mismatch. Across these settings, SHIFT shows strong generalization and compares favorably with standard survival baselines and imputation-based approaches, while using a single model across differing feature sets. We also find that incorporating patients from incomplete cohorts during development can improve performance on external data, suggesting that partially observed cohorts need not be excluded from model building. These results support missingness-aware modeling as a practical strategy for multi-center survival prediction in precision oncology."
         },
         {
-          "title": "Selection Mechanisms, Stationary Distributions, and Reversibility in Multiallelic Moran Models",
-          "url": "https://arxiv.org/abs/2607.06732",
+          "title": "Projected Energy Matching for Generative 3D Priors",
+          "url": "https://arxiv.org/abs/2607.07749",
           "domain": "arxiv.org",
-          "date": "2026-07-09T04:00:00.000Z",
+          "date": "2026-07-10T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2607.06732v1 Announce Type: new Abstract: The Moran process with selection and recurrent mutation is a classical model in population genetics, yet how the placement of selection within the update rule shapes the stationary distribution has received little attention. We study a finite, well-mixed haploid population of constant size $n$ with $m$ labeled alleles, parent-independent mutation, and allele-specific fitnesses. Within this common framework we compare three Moran update kernels that differ only in the stage at which selection acts: during reproduction, when the offspring copies one of two sampled parents (Scheme~I); through fitness-biased mate choice, followed by neutral copying (Scheme~II); and at death, so that fitter individuals are less likely to be replaced (Scheme~III). Although all three favor fitter alleles, they define different Markov chains. For two alleles, each scheme reduces to a birth-death chain and admits an exact stationary law, but the three laws differ. For $m\\ge 3$, the placement of selection becomes decisive: Schemes~I and~II are generally nonreversible when fitnesses are unequal, so no detailed-balance product form exists, whereas Scheme~III remains reversible for every $m$ and has a closed stationary distribution -- a Dirichlet-multinomial core modified by an explicit fitness factor. We further show that all three mechanisms can act simultaneously in the two-allele case without losing exact solvability, and we derive weak-selection expansions that make explicit how small fitness differences tilt the neutral beta-binomial and Dirichlet-multinomial benchmarks. Together, these results clarify when neutral stationary structure survives the introduction of selection and when multiallelic Moran dynamics become genuinely nonreversible"
+          "summary": "arXiv:2607.07749v1 Announce Type: cross Abstract: Energy Matching has emerged as a powerful generative framework that combines flow model efficiency with the explicit likelihood of Energy-Based Models (EBMs) via a single, time-independent scalar potential. However, directly training this potential on high-dimensional 3D data remains computationally challenging. While distilling a pre-trained flow model circumvents some of the initial training costs, we demonstrate that velocity fields inevitably contain non-conservative rotational artifacts (curl). Forcing a strictly conservative scalar potential to match this unconstrained field creates a \"structural conflict\", which degrades generation quality and mode coverage. To solve this, we propose Projected Energy Matching, a scalable framework that resolves these structural and computational bottlenecks. We introduce Helmholtz Distillation, a structural relaxation that leverages a Hutchinson trace estimator to explicitly absorb rotational noise into an auxiliary residual network. We subsequently refine this landscape using Negative Caching, a memory-efficient strategy that reuses negative samples across micro-batches, rendering sampling tractable during contrastive training with gradient accumulation. We deploy our method as an unconditional prior for real-world medical CT inverse problems, specifically sparse-view reconstruction. Ultimately, our amortized pipeline reduces total compute to a small fraction of that required by standard energy matching, while achieving high-fidelity reconstructions and successfully resolving severe measurement artifacts."
         },
         {
-          "title": "Enhanced sampling and cryo-EM data resolve magnesium binding to RNA",
-          "url": "https://arxiv.org/abs/2607.07186",
+          "title": "Contravariance Theory: Strong Alignment for Minimal Solutions to Hard Tasks",
+          "url": "https://arxiv.org/abs/2607.08561",
           "domain": "arxiv.org",
-          "date": "2026-07-09T04:00:00.000Z",
+          "date": "2026-07-10T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2607.07186v1 Announce Type: new Abstract: Magnesium ions are essential for RNA structure but difficult to model due to slow binding kinetics and experimental limitations. We present an enhanced-sampling strategy that accelerates Mg$^{2+}$ inner-shell binding by orders of magnitude, enabling quantitative exploration of ion-binding motifs in a large ribozyme. The method combines a barrier-flattening bias with Hamiltonian replica exchange to efficiently sample multiple equivalent binding sites, and builds on an approach that achieved top performance in the CASP16 blind assessment of RNA solvation structure. Using cryo-electron microscopy maps for validation, we introduce a local analysis framework that infers the population of individual binding motifs from their agreement with experimental density, enabling site-by-site validation. We find that insufficient sampling of inner-shell binding leads to significantly poorer agreement with experiment, whereas force fields predicting different inner/outer binding equilibria remain largely indistinguishable at the current experimental resolution. These results highlight the dominant role of sampling in modelling divalent ion binding and provide a general strategy for integrating simulations with experimental data in complex biomolecular systems."
+          "summary": "arXiv:2607.08561v1 Announce Type: cross Abstract: A series of results from the NeuroAI over the past fifteen years have raised core questions both about how to compare Deep Neural Network (DNN) models to the brain, and about how much convergent evolution to expect between artificial networks and real brain networks. Here, we show that for any two minimal DNN solutions to a sufficiently hard task: (i) \"weak\" alignment of network representations based on affine mappings guarantees \"strong\" alignment of privileged axes, and (ii) alignment \"zippers\" up the network hierarchy, causing the emergence of privileged axes from end-to-end task optimization. These results formalize the notion of contravariance from Cao and Yamins [2024], and illustrate important consequences for the theory of NeuroAI: with sufficiently strong tasks, choice of metric for inter-network comparison is not all that sensitive, and that convergent evolution is probably inevitable."
         },
         {
-          "title": "Bayesian Learning of Distance Metrics Beyond RMSD for Biomolecule Alignment, Clustering, and Domain Identification",
-          "url": "https://arxiv.org/abs/2607.07352",
+          "title": "Stochastic dynamics at the back of a gene drive eradication wave",
+          "url": "https://arxiv.org/abs/2502.21268",
           "domain": "arxiv.org",
-          "date": "2026-07-09T04:00:00.000Z",
+          "date": "2026-07-10T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2607.07352v1 Announce Type: new Abstract: Root-mean-square deviation (RMSD) is the standard metric of structural comparison in molecular dynamics (MD) simulations. In its conventional form, RMSD assigns equal weight to all atoms regardless of mobility. Hence, flexible loops and disordered regions can dominate a global RMSD, while the rigid functional core contributes negligibly to the overall metric. To address this issue, we introduce the Bayes-optimal RMSD (BRMSD), which optimizes per-atom weights jointly with structural averages by maximizing a Bayesian posterior. In a trade-off between low RMSD and weight uniformity, a position-fluctuation parameter $\\sigma$ controls the transition from classical RMSD ($\\sigma \\to \\infty$) to a progressive focus on a rigid core ($\\sigma \\to 0$). The BRMSD framework supports analysis modules for structural alignment, focused alignment onto a user-specified domain, trajectory smoothing, soft $K$-means conformational clustering, and rigid-domain identification. These modules are implemented in the open-source Python package BRMSD (https://github.com/bio-phys/BRMSD) and benchmarked on two MD systems, the endoplasmic reticulum translocon-associated protein SND3 and the phosphotransferase adenylate kinase."
+          "summary": "arXiv:2502.21268v3 Announce Type: replace Abstract: Gene drive alleles bias their own inheritance to offspring. They can fix in a wild-type population in spite of a fitness cost, and even lead to the eradication of the target population if the fitness cost is high. However, this outcome may be prevented or delayed if areas previously cleared by the drive are recolonised by wild-type individuals. Here, we investigate the conditions under which these stochastic wild-type recolonisation events are likely and when they are unlikely to occur in one spatial dimension. More precisely, we examine the conditions ensuring that the last individual carrying a wild-type allele is surrounded by a large enough number of drive homozygous individuals, resulting in a very low chance of wild-type recolonisation. To do so, we make a deterministic approximation of the distribution of drive alleles within the wave, and we split the distribution of wild-type alleles into a deterministic part and a stochastic part. Our analytical and numerical results suggest that the probability of wild-type recolonisation events increases with lower fitness of drive individuals and with smaller local carrying capacity. Numerical simulations show that these results extend to two spatial dimensions. The role of the migration rate however, is less clear but has a lower impact. We further demonstrate that, in the event of wild-type recolonization, the probability of subsequent drive reinvasion decreases with smaller values of the intrinsic growth rate of the population. Overall, our study paves the way for further analysis of wild-type recolonisation at the back of eradication traveling waves."
         },
         {
-          "title": "Reliable mechanistic operator recovery with biologically-informed neural networks: principles for architecture and optimisation design",
-          "url": "https://arxiv.org/abs/2607.07425",
+          "title": "Decoding the Hot-Mitochondrion Paradox",
+          "url": "https://arxiv.org/abs/2507.16824",
           "domain": "arxiv.org",
-          "date": "2026-07-09T04:00:00.000Z",
+          "date": "2026-07-10T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2607.07425v1 Announce Type: new Abstract: Many biological processes are governed by complex dynamical mechanisms that remain incompletely understood despite increasing volumes of experimental data. Biologically-informed neural networks (BINNs) seek to address this challenge by embedding mechanistic differential equations into neural network training, enabling interpretable constitutive operators to be recovered directly from sparse and noisy observations. However, reliable operator recovery depends sensitively on network architecture, optimisation strategy, and data informativeness. Here, we present a systematic empirical study of how these factors influence mechanistic inference using BINNs applied to canonical one-dimensional advection-diffusion-reaction partial differential equation models. Across a suite of benchmark problems, we investigate how network expressivity, learning rate, loss weighting, and batch size influence optimisation behaviour and operator recovery. We show that successful mechanistic inference depends on balancing competing objectives rather than maximising any single aspect of the model or optimisation. Moderately expressive architectures outperform overly complex networks, intermediate learning rates improve optimisation stability, balanced data and PDE losses are essential for accurate operator recovery, and intermediate batch sizes provide the best compromise between computational efficiency and reproducibility. We further identify practical diagnostics for recognising common failure modes, including over-fitting, unstable optimisation, and poor mechanistic recovery when the ground truth is unavailable. Together, these findings provide evidence-based guidelines for deploying BINNs as credible tools for biological model discovery."
+          "summary": "arXiv:2507.16824v3 Announce Type: replace Abstract: In a 2018 paper and a subsequent article published in 2023, researchers reported that mitochondria maintain temperatures 10oC-15oC higher than the surrounding cytoplasm-a finding that deviates by five to six orders of magnitude from theoretical predictions based on Fourier's law of heat conduction. In 2022, we proposed a solution to this apparent paradox. In the present perspective, we build upon that framework and introduce new ideas to further unravel how a biological membrane-whether of an organelle or a whole cell-can become significantly warmer than its environment. We propose that ion-translocating proteins embedded in the inner mitochondrial membrane (IMM) can be modeled as ratchet engines, introducing a novel, previously overlooked mode of heat transfer. This mechanism, coupled with localized heat release during the cyclical dehydration-translocation-hydration of ions through membrane proteins, may generate transient but substantial temperature spikes. The cumulative thermal occupancy of these microscopic events across the three-dimensional surface of the IMM can account for the elevated temperatures detected by molecular probes."
         }
       ]
     },
@@ -278,84 +278,84 @@
       ],
       "articles": [
         {
-          "title": "Hackers tried to backdoor Injective npm package to steal wallet keys",
-          "url": "https://cointelegraph.com/news/hackers-compromise-injective-npm-package-with-malware-to-steal-wallet-keys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-10T03:07:47.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The incident is significant for developers and applications that handle Injective wallet workflows, Socket researchers said."
-        },
-        {
-          "title": "DeFi may be ‘quietly re-rating’ given outperformance against Bitcoin: Bitwise",
-          "url": "https://cointelegraph.com/news/defi-quietly-re-rating-holds-up-unusually-well-in-downturn-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-10T02:30:44.000Z",
-          "source": "CoinTelegraph",
-          "summary": "“DeFi usually swings much harder than Bitcoin, so holding up this well is unusual,” says Bitwise, as DeFi tokens have outperformed Bitcoin."
-        },
-        {
-          "title": "New Hampshire snuffs out trailblazing state-government bitcoin bond effort",
-          "url": "https://www.coindesk.com/policy/2026/07/09/new-hampshire-snuffs-out-trailblazing-bitcoin-municipal-bond-effort",
+          "title": "Bitcoin gets a green light from a reliable momentum gauge. Here are key levels to watch",
+          "url": "https://www.coindesk.com/markets/2026/07/10/bitcoin-gets-a-green-light-from-a-reliable-momentum-gauge-here-are-key-levels-to-watch",
           "domain": "coindesk.com",
-          "date": "2026-07-09T22:19:54.000Z",
+          "date": "2026-07-10T06:49:13.000Z",
           "source": "CoinDesk",
-          "summary": "At its last stage for government approval, the state's executive council rejected the bond project 3-2."
+          "summary": "A smoother long-term MACD just flipped bullish, pointing to more upside. Here are key levels that will decide if the ongoing bounce turns into a full blown uptrend."
         },
         {
-          "title": "Bitwise says bitcoin’s ‘floor is rising’ despite AI boom and regulatory delays",
-          "url": "https://www.theblock.co/post/407790/bitwise-says-bitcoins-floor-rising-despite-ai-boom-regulatory-delays?utm_source=rss&utm_medium=rss",
+          "title": "Live markets: Bitcoin ETFs bleed again while ether funds snap a five-day inflow streak",
+          "url": "https://www.coindesk.com/tech/2026/07/10/live-markets-bitcoin-etfs-bleed-again-while-ether-funds-snap-a-five-day-inflow-streak",
+          "domain": "coindesk.com",
+          "date": "2026-07-10T06:21:34.000Z",
+          "source": "CoinDesk",
+          "summary": "Spot bitcoin funds lost about $95 million on Thursday and ether funds roughly $52 million, ending the one bright spot in crypto's institutional flows even as prices rallied."
+        },
+        {
+          "title": "EU parliament passes ‘chat control,’ allowing private chat scans until 2028",
+          "url": "https://cointelegraph.com/news/eu-parliament-passes-chat-control-allowing-private-chat-scans-to-2028?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-10T06:05:38.000Z",
+          "source": "CoinTelegraph",
+          "summary": "EU lawmakers have again allowed tech firms to scan chats for abuse material, but exempted end-to-end encrypted messages."
+        },
+        {
+          "title": "North Carolina passes bill recognizing CFTC preemption over prediction markets",
+          "url": "https://www.theblock.co/post/407830/north-carolina-cftc-preemption-prediction-markets?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-07-09T21:54:35.000Z",
+          "date": "2026-07-10T05:51:59.000Z",
           "source": "The Block",
-          "summary": "Bitwise says institutions are buying the bitcoin bear market dip, while many larger investors are still awaiting regulatory clarity."
+          "summary": "North Carolina's new law taxes prediction market platforms at 6% of their net trading fee revenue that is attributable to North Carolina residents."
         },
         {
-          "title": "Coinbase chief legal officer to transition to advisory role on July 31",
-          "url": "https://cointelegraph.com/news/coinbase-chief-legal-officer-stepping-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "Robinhood Chain sees over $70M in ETH bridged during first week",
+          "url": "https://cointelegraph.com/news/robinhood-chain-sees-over-70m-in-eth-bridged-during-first-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-07-09T21:35:12.000Z",
+          "date": "2026-07-10T05:44:20.000Z",
           "source": "CoinTelegraph",
-          "summary": "The soon-to-be former chief legal officer did not announce the details of his next move but said that he would continue working with the Board of Coinbase National Trust Company."
+          "summary": "Robinhood’s choice to use Ethereum further solidifies its position as the “ultimate settlement layer and liquidity foundation for tokenized assets,” said HashKey Group’s Tim Sun."
         },
         {
-          "title": "Coinbase Chief Legal Officer Paul Grewal steps down, remains in advisory role",
-          "url": "https://www.theblock.co/post/407809/coinbase-chief-legal-officer-paul-grewal-steps-down?utm_source=rss&utm_medium=rss",
+          "title": "XRP up 2% as buyers push through $1.10 resistance",
+          "url": "https://www.coindesk.com/markets/2026/07/10/xrp-up-2-as-buyers-push-through-usd1-10-resistance",
+          "domain": "coindesk.com",
+          "date": "2026-07-10T05:13:48.000Z",
+          "source": "CoinDesk",
+          "summary": "A late-session volume surge carried XRP above its recent range, with traders now watching whether $1.10 can hold as support."
+        },
+        {
+          "title": "Bitcoin's quiet split: Strong in USD, lagging in JPY as Yen rises on intervention fears",
+          "url": "https://www.coindesk.com/markets/2026/07/10/bitcoin-s-quiet-split-strong-in-usd-lagging-in-jpy-as-yen-rises-on-intervention-fears",
+          "domain": "coindesk.com",
+          "date": "2026-07-10T04:34:06.000Z",
+          "source": "CoinDesk",
+          "summary": "A sharp rise in the yen has left bitcoin and other major cryptocurrencies underperforming in yen terms compared with their dollar-based trading pairs."
+        },
+        {
+          "title": "Zcash targets July 28 launch for Ironwood network upgrade",
+          "url": "https://cointelegraph.com/news/zcash-targets-july-28-launch-for-ironwood-network-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-10T04:25:27.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Zcash’s next upgrade will replace the once-compromised Orchard pool and may offer clues about whether counterfeit tokens were created via a recent bug."
+        },
+        {
+          "title": "Polymarket files applications to offer regulated margin trading in US",
+          "url": "https://www.theblock.co/post/407820/polymarket-margin-trading?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-07-09T21:13:44.000Z",
+          "date": "2026-07-10T04:10:25.000Z",
           "source": "The Block",
-          "summary": "Coinbase Chief Legal Officer Paul Grewal joined the firm in mid-2020 to lead its legal, compliance and government relations operations."
+          "summary": "Polymarket's rival platform, Kalshi, already received US regulatory approval to provide margin trading back in March."
         },
         {
-          "title": "Grayscale's CFO exits after 7 years with crypto asset manager",
-          "url": "https://www.coindesk.com/business/2026/07/09/grayscale-s-cfo-exits-after-7-years-with-crypto-asset-manager",
+          "title": "Bitcoin zips higher to nearly $64,000 as chip rally and yen strength drive gains",
+          "url": "https://www.coindesk.com/markets/2026/07/10/bitcoin-zips-to-nearly-usd64-000-as-chip-rally-and-yen-strength-drive-gains",
           "domain": "coindesk.com",
-          "date": "2026-07-09T20:42:49.000Z",
+          "date": "2026-07-10T03:57:58.000Z",
           "source": "CoinDesk",
-          "summary": "Edward McGee stepped down after seven years, months after distribution chief John Hoffman left for Ondo Finance."
-        },
-        {
-          "title": "With SEC fight over, Coinbase's top legal exec Grewal moves on, and others reassigned",
-          "url": "https://www.coindesk.com/policy/2026/07/09/with-sec-fight-over-coinbase-s-top-legal-exec-grewal-moves-on-and-others-reassigned",
-          "domain": "coindesk.com",
-          "date": "2026-07-09T20:31:39.000Z",
-          "source": "CoinDesk",
-          "summary": "Coinbase Chief Legal Officer Paul Grewal will depart the exchange, though he'll continue as an adviser, he said Thursday."
-        },
-        {
-          "title": "Arbitrum jumps 19% benefitting from Robinhood's $568 million onchain trading frenzy",
-          "url": "https://www.coindesk.com/markets/2026/07/09/arbitrum-jumps-19-benefitting-from-robinhood-s-usd568-million-onchain-trading-frenzy",
-          "domain": "coindesk.com",
-          "date": "2026-07-09T20:28:51.000Z",
-          "source": "CoinDesk",
-          "summary": "The brokerage's new blockchain is off to a fast start, with memecoin trading boosting activity and revenue flowing back to the Arbitrum ecosystem."
-        },
-        {
-          "title": "Bitdeer stock jumps 14% as company expands US mining hardware production",
-          "url": "https://cointelegraph.com/news/bitdeer-stock-jumps-14-bitcoin-mining-hardware-maker-expands-us-manufacturing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-09T20:19:15.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Bitdeer shares rallied after the company announced a $36 million Nevada manufacturing facility that will produce its SEALMINER Bitcoin mining machines and expand its hardware business."
+          "summary": "Bitcoin is up 4.2% over seven days that contained an oil shock, a bond selloff and two rounds of U.S. strikes on Iran."
         }
       ]
     }
