@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-10T20:43:53.802Z",
+  "updatedAt": "2026-07-10T21:44:33.646Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,6 +278,30 @@
       ],
       "articles": [
         {
+          "title": "Meta's Chief Data Officer Says Agentic Commerce is the \"Next Tier of Business\"",
+          "url": "https://www.coindesk.com/coindesk-news/2026/07/10/meta-s-chief-data-officer-says-agentic-commerce-is-the-next-tier-of-business",
+          "domain": "coindesk.com",
+          "date": "2026-07-10T21:26:55.000Z",
+          "source": "CoinDesk",
+          "summary": "Alex Schultz says stablecoins are assumed inside Meta. The harder problem is getting the rest of the world there."
+        },
+        {
+          "title": "Kraken to overhaul app with AI investing assistant",
+          "url": "https://cointelegraph.com/news/kraken-to-rebuild-app-around-ai-powered-trading-agents-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-10T21:07:39.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The redesigned app will use AI to recommend trades and tailor investing tools around users' financial goals as Kraken expands into broader financial services."
+        },
+        {
+          "title": "Senate Democrats call for hearings into Trump’s ties to crypto amid CLARITY Act discussions",
+          "url": "https://cointelegraph.com/news/senate-democrats-hearings-donald-trump-crypto-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-10T21:03:57.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Five senators called for committee hearings to investigate US President Donald Trump’s policies potentially being influenced by crypto funding from United Arab Emirates-linked and other entities."
+        },
+        {
           "title": "Here’s what happened in crypto today",
           "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
@@ -332,30 +356,6 @@
           "date": "2026-07-10T16:39:45.000Z",
           "source": "The Block",
           "summary": "Empery Digital used part of the proceeds for a 25% stake in an AI data center campus project."
-        },
-        {
-          "title": "Backpack joins race for 24/7 stock markets with tokenized equities",
-          "url": "https://cointelegraph.com/news/backpack-launches-247-trading-for-tokenized-us-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-10T16:36:36.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The launch comes as tokenized stocks become one of the fastest-growing corners of crypto, with exchanges and traditional finance firms racing to expand 24/7 trading."
-        },
-        {
-          "title": "Kraken to relaunch its mobile app with agentic trading and advice at the center",
-          "url": "https://www.theblock.co/post/407899/kraken-to-relaunch-its-mobile-app-with-agentic-trading-and-advise-at-the-center?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-10T16:27:23.000Z",
-          "source": "The Block",
-          "summary": "Kraken is adding autonomous AI agents capable of monitoring markets and suggesting trades for users."
-        },
-        {
-          "title": "Cambridge research puts 31% of Ethereum node activity in the US, where a third offline can stall finalization",
-          "url": "https://www.theblock.co/post/407909/cambridge-research-puts-ethereum-node-activity-in-us-where-third-offline-can-stall-finalization?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-10T16:07:20.000Z",
-          "source": "The Block",
-          "summary": "Cambridge finds 31% of Ethereum node activity in the U.S., clustered on AWS, Hetzner and OVH, raising jurisdictional/counterparty questions."
         }
       ]
     }
