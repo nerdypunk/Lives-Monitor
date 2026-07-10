@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-10T17:28:55.134Z",
+  "updatedAt": "2026-07-10T19:06:33.561Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,6 +278,22 @@
       ],
       "articles": [
         {
+          "title": "SK Hynix’s $26.5 billion US listing brought to Telegram users via xStocks",
+          "url": "https://www.theblock.co/post/407923/sk-hynixs-26-5-billion-us-listing-brought-to-telegram-users-via-xstocks?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-10T18:49:02.000Z",
+          "source": "The Block",
+          "summary": "Solana said that tokenized SK Hynix shares on SOL can be acquired through Backpack, xStocks and Ondo Finance."
+        },
+        {
+          "title": "New Hampshire council votes down $100M Bitcoin bonds",
+          "url": "https://cointelegraph.com/news/new-hampshire-votes-against-bitcoin-bonds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-10T17:23:10.000Z",
+          "source": "CoinTelegraph",
+          "summary": "State representative Keith Ammon said the New Hampshire executive council's vote against Bitcoin-backed bonds was “short-sighted,” urging the body to reconsider the measure."
+        },
+        {
           "title": "Empery Digital offloads 1,400 bitcoins to help fund AI pivot, pay debt",
           "url": "https://www.theblock.co/post/407900/empery-digital-offloads-1400-bitcoins-help-fund-ai-pivot-pay-debt?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
@@ -299,7 +315,7 @@
           "domain": "theblock.co",
           "date": "2026-07-10T16:27:23.000Z",
           "source": "The Block",
-          "summary": "Kraken is adding autonomous AI agents capable of monitoring markets, suggesting trades and even executing on behalf of users."
+          "summary": "Kraken is adding autonomous AI agents capable of monitoring markets and suggesting trades for users."
         },
         {
           "title": "Cambridge research puts 31% of Ethereum node activity in the US, where a third offline can stall finalization",
@@ -340,22 +356,6 @@
           "date": "2026-07-10T14:59:30.000Z",
           "source": "CoinTelegraph",
           "summary": "Bitcoin price gains came thanks to US whales propeling the Coinbase Premium above a key trend line, new analysis from CryptoQuant reported."
-        },
-        {
-          "title": "A16z’s Andreessen lands Federal Reserve role as AI reshapes policy debate",
-          "url": "https://cointelegraph.com/news/federal-reserve-a16z-co-founder-monetary-policy-task-force?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-10T14:12:53.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The Fed named a16z co-founder Marc Andreessen to co-lead an AI productivity and jobs task force under Chair Kevin Warsh’s policy review."
-        },
-        {
-          "title": "MiCA licensing only the beginning as crypto custodians face scrutiny",
-          "url": "https://cointelegraph.com/news/mica-only-beginning-crypto-custodians-scrutiny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-10T13:54:50.000Z",
-          "source": "CoinTelegraph",
-          "summary": "A MiCA license allows crypto firms to operate in the EU, but the ESMA’s review will test whether custodians can meet the required security and resilience standards."
         }
       ]
     }
