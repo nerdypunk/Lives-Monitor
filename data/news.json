@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-10T15:33:33.700Z",
+  "updatedAt": "2026-07-10T17:28:55.134Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -98,6 +98,14 @@
       ],
       "articles": [
         {
+          "title": "Combining Senolytics and Stem Cells Shows Promise in Mice",
+          "url": "https://lifespan.io/combining-senolytics-and-stem-cells-shows-promise-in-mice/",
+          "domain": "lifespan.io",
+          "date": "2026-07-10T16:34:16.000Z",
+          "source": "Lifespan.io",
+          "summary": "A new study associated with Immorta Bio suggests that combining a senolytic vaccine with mesenchymal stem cells might create a synergistic impact. However, the findings rest on acute, artificially induced injury models rather […]"
+        },
+        {
           "title": "US longevity policy takes center stage in Washington",
           "url": "https://longevity.technology/news/us-longevity-policy-takes-center-stage-in-washington/",
           "domain": "longevity.technology",
@@ -167,15 +175,7 @@
           "domain": "lifespan.io",
           "date": "2026-07-09T20:10:54.000Z",
           "source": "Lifespan.io",
-          "summary": "A perspective published in Aging and Disease has recommended the use of underground laboratory space in order to remove the effects of surface […]"
-        },
-        {
-          "title": "FDA, ARPA-H and XPRIZE map out the longevity regulatory frontier",
-          "url": "https://longevity.technology/news/fda-arpa-h-and-xprize-map-out-the-longevity-regulatory-frontier/",
-          "domain": "longevity.technology",
-          "date": "2026-07-09T16:35:27.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Standard disease frameworks are meeting their match as pioneers lean on functional metrics and pragmatic stepping stone indications. The longevity landscape shifted in May at a landmark public meeting convened by the Reagan-Udall Foundation for the FDA. Co-sponsored by ARPA-H’s PROSPR program and the XPRIZE Foundation, the summit tackled the commercial ecosystem’s most stubborn bottleneck: […] The post FDA, ARPA-H and XPRIZE map out the longevity regulatory frontier appeared first on Longevity.Technology ."
+          "summary": "A perspective published in Aging and Disease has recommended the use of underground laboratory space in order to remove the effects of surface radiation on biological clocks. A question of entropy The cascading failure […]"
         }
       ]
     },
@@ -278,6 +278,54 @@
       ],
       "articles": [
         {
+          "title": "Empery Digital offloads 1,400 bitcoins to help fund AI pivot, pay debt",
+          "url": "https://www.theblock.co/post/407900/empery-digital-offloads-1400-bitcoins-help-fund-ai-pivot-pay-debt?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-10T16:39:45.000Z",
+          "source": "The Block",
+          "summary": "Empery Digital used part of the proceeds for a 25% stake in an AI data center campus project."
+        },
+        {
+          "title": "Backpack joins race for 24/7 stock markets with tokenized equities",
+          "url": "https://cointelegraph.com/news/backpack-launches-247-trading-for-tokenized-us-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-10T16:36:36.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The launch comes as tokenized stocks become one of the fastest-growing corners of crypto, with exchanges and traditional finance firms racing to expand 24/7 trading."
+        },
+        {
+          "title": "Kraken to relaunch its mobile app with agentic trading and advice at the center",
+          "url": "https://www.theblock.co/post/407899/kraken-to-relaunch-its-mobile-app-with-agentic-trading-and-advise-at-the-center?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-10T16:27:23.000Z",
+          "source": "The Block",
+          "summary": "Kraken is adding autonomous AI agents capable of monitoring markets, suggesting trades and even executing on behalf of users."
+        },
+        {
+          "title": "Cambridge research puts 31% of Ethereum node activity in the US, where a third offline can stall finalization",
+          "url": "https://www.theblock.co/post/407909/cambridge-research-puts-ethereum-node-activity-in-us-where-third-offline-can-stall-finalization?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-10T16:07:20.000Z",
+          "source": "The Block",
+          "summary": "Cambridge finds 31% of Ethereum node activity in the U.S., clustered on AWS, Hetzner and OVH, raising jurisdictional/counterparty questions."
+        },
+        {
+          "title": "U.S. government digital dollar set to be banned tonight under housing law's CBDC limit",
+          "url": "https://www.coindesk.com/policy/2026/07/10/u-s-government-digital-dollar-set-to-be-banned-tonight-under-housing-law-s-cbdc-limit",
+          "domain": "coindesk.com",
+          "date": "2026-07-10T16:02:21.000Z",
+          "source": "CoinDesk",
+          "summary": "Despite President Donald Trump's refusal to sign Congress' bipartisan housing bill, it's set to go into effect at midnight, and its temporary CBDC ban along with it."
+        },
+        {
+          "title": "Crypto Biz: How stablecoins found their niche",
+          "url": "https://cointelegraph.com/news/crypto-biz-how-stablecoins-found-their-niche?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-10T15:37:37.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Stablecoins are carving out specialized roles as regulation reshapes the market, while Strategy’s Bitcoin sale and Vanguard’s tokenization push highlight crypto’s evolving financial landscape."
+        },
+        {
           "title": "Hyundai becomes first major South Korean company to introduce internal stablecoin transfers",
           "url": "https://www.coindesk.com/business/2026/07/10/hyundai-becomes-first-major-south-korean-company-to-introduce-internal-stablecoin-transfers",
           "domain": "coindesk.com",
@@ -308,54 +356,6 @@
           "date": "2026-07-10T13:54:50.000Z",
           "source": "CoinTelegraph",
           "summary": "A MiCA license allows crypto firms to operate in the EU, but the ESMA’s review will test whether custodians can meet the required security and resilience standards."
-        },
-        {
-          "title": "Here’s what happened in crypto today",
-          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-10T13:46:13.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-        },
-        {
-          "title": "Will the crypto lobby's $189M campaign get CLARITY over the line?",
-          "url": "https://cointelegraph.com/features/how-crypto-built-political-influence-in-washington?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-10T13:30:00.000Z",
-          "source": "CoinTelegraph",
-          "summary": "As the CLARITY Act advances, crypto's growing political influence in Washington is under scrutiny. But the crypto lobby's massive campaign spend is only part of the story."
-        },
-        {
-          "title": "Binance co-CEO says 70% of EU withdrawals went to self-custody after MiCA deadline, with just 30% going to licensed platforms",
-          "url": "https://www.theblock.co/post/407888/binance-co-ceo-says-70-of-eu-withdrawals-went-to-self-custody-after-mica-deadline-with-just-30-going-to-licensed-platforms?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-10T13:17:52.000Z",
-          "source": "The Block",
-          "summary": "Richard Teng said 70% of EU user withdrawals following its service suspension moved to self-custody rather than MiCA-regulated platforms."
-        },
-        {
-          "title": "‘Communication challenge, nothing more’: Standard Chartered keeps $100,000 bitcoin target, calls Strategy selloff a signaling problem",
-          "url": "https://www.theblock.co/post/407884/communication-challenge-nothing-more-standard-chartered-keeps-100000-bitcoin-target-calls-strategy-selloff-a-signaling-problem?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-10T12:46:18.000Z",
-          "source": "The Block",
-          "summary": "Standard Chartered retained its $100,000 end-2026 bitcoin target, calling Strategy's STRC pivot a signaling problem, not a solvency one."
-        },
-        {
-          "title": "OKX, MetaMask, Matter Labs back dispute resolution court for AI agents",
-          "url": "https://www.coindesk.com/business/2026/07/10/okx-metamask-matter-labs-back-dispute-resolution-court-for-ai-agents",
-          "domain": "coindesk.com",
-          "date": "2026-07-10T12:29:08.000Z",
-          "source": "CoinDesk",
-          "summary": "The Genlayer Foundation is leading the 27-firm consortium that makes AI-based payments, escrow and dispute resolution interoperable."
-        },
-        {
-          "title": "US charges prisoner over alleged laundering of seized Kraken crypto",
-          "url": "https://cointelegraph.com/news/us-prisoner-290k-crypto-restrained-kraken-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-10T12:27:40.000Z",
-          "source": "CoinTelegraph",
-          "summary": "US prosecutors charged Rossen Iossifov over the alleged laundering of $290,000 in forfeited crypto from a Kraken account."
         }
       ]
     }
