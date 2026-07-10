@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-10T10:30:15.357Z",
+  "updatedAt": "2026-07-10T12:55:12.179Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -31,6 +31,14 @@
           "date": "2026-06-28T07:00:00.000Z",
           "source": "KuCoin",
           "summary": "️DeSci Atoms Market Update 29 June 2026 MarketCap 24hrs Top &nbsp;&nbsp; KuCoin"
+        },
+        {
+          "title": "Bio Protocol launches AI research hub to challenge grant gatekeepers - Crypto News",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNFh5NE1hUkt5RnVBaFFuVU1HYzgxZzBkU0huOXprTVpRV0xWVDJjZEF3LUtqNkZWWDZVU0E5Wm16ZHljR0dYanI2eDZnYnVCQVA0UzJMTmNQekFtMXhxbTRmWmU0cVBfczBKTURTZ0Jnc2s3QkFMdVpuNlNyeks1azhVUHpHYkNQbno0ZGR6aVZuY2c?oc=5",
+          "domain": "crypto.news",
+          "date": "2026-06-20T07:00:00.000Z",
+          "source": "Crypto News",
+          "summary": "Bio Protocol launches AI research hub to challenge grant gatekeepers &nbsp;&nbsp; Crypto News"
         },
         {
           "title": "BioProtocol unveils OpenLabs platform at DeSci Berlin to merge AI with decentralized research funding - Bitget",
@@ -79,14 +87,6 @@
           "date": "2026-05-15T07:00:00.000Z",
           "source": "Coinpedia",
           "summary": "PEPTAI Price Swings Wild As Base Integration Fuels DeSci Hype &nbsp;&nbsp; Coinpedia"
-        },
-        {
-          "title": "DeSci Has Raised Millions For Research No VC Would Ever Touch - Yellow.com",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQzAtQWJmSEtGX1pXdWVOR0RsRnhXWGp4S2VYUEhXREJiM1ljR01reDZfS1hwU0g3eTMzaFdOdnVJb3l2R2lNdmdCVEhuUWExYjB0VTNReUIwUlRxTjhrdmlCV1d5R3VXbGtRWFp3eGQ0VTV0SjhZdGpNOGV2dDNYcnVodm9PWWJHYlE?oc=5",
-          "domain": "yellow.com",
-          "date": "2026-05-04T06:44:54.000Z",
-          "source": "Yellow.com",
-          "summary": "DeSci Has Raised Millions For Research No VC Would Ever Touch &nbsp;&nbsp; Yellow.com"
         }
       ]
     },
@@ -97,6 +97,46 @@
         "https://longevity.technology/feed/"
       ],
       "articles": [
+        {
+          "title": "Kenai Therapeutics completes enrollment for Parkinson’s cell therapy trial",
+          "url": "https://longevity.technology/news/kenai-therapeutics-completes-enrollment-for-parkinsons-cell-therapy-trial/",
+          "domain": "longevity.technology",
+          "date": "2026-07-10T10:46:10.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Kenai Therapeutics has completed enrollment in the REPLACE Phase 1b/2a clinical trial of RNDP-001 for moderate to moderate-severe idiopathic Parkinson’s disease, the company announced on 7 July 2026, in San Diego. RNDP-001 is an off-the-shelf, allogeneic neuron replacement cell therapy designed to restore dopaminergic neurons lost in Parkinson’s disease. The open-label, multicenter REPLACE study is […] The post Kenai Therapeutics completes enrollment for Parkinson’s cell therapy trial appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "FibroBiologics produces third batch of experimental cell therapy for diabetic foot ulcers",
+          "url": "https://longevity.technology/news/fibrobiologics-produces-third-batch-of-experimental-cell-therapy-for-diabetic-foot-ulcers/",
+          "domain": "longevity.technology",
+          "date": "2026-07-10T10:41:10.000Z",
+          "source": "Longevity.Technology",
+          "summary": "FibroBiologics completed manufacturing of a third batch of its CYWC628 drug product for the ongoing Phase 1/2 clinical trial in patients with diabetic foot ulcers. The batch was produced under cGMP standards and is undergoing required safety and quality testing ahead of release for clinical use. Upon release of the third batch, the company expects […] The post FibroBiologics produces third batch of experimental cell therapy for diabetic foot ulcers appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "Elysium pilot study links Basis to reduced menopause symptoms",
+          "url": "https://longevity.technology/news/elysium-pilot-study-links-basis-to-reduced-menopause-symptoms/",
+          "domain": "longevity.technology",
+          "date": "2026-07-10T10:36:10.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Elysium reported results from an open-label pilot study of 40 healthy women over 35, 32 of whom self-reported symptoms associated with the menopause transition and eight who reported minimal or no symptoms. Participants received Basis for seven days. After seven days, participants in the symptom group self-reported reductions of 50 percent or more in the […] The post Elysium pilot study links Basis to reduced menopause symptoms appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "Insilico Medicine expects revenue to nearly quadruple to over $100m",
+          "url": "https://longevity.technology/news/insilico-medicine-expects-revenue-to-nearly-quadruple-to-over-100m/",
+          "domain": "longevity.technology",
+          "date": "2026-07-10T10:31:25.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Insilico Medicine, a generative AI-driven clinical-stage biotech listed on the Hong Kong Stock Exchange (03696.HK), issued a positive profit alert for the six months ended 30 June 2026. The company expects revenue of approximately USD102.5 million to USD106.5 million, a year-on-year increase of about 272.7% to 287.3%. Net profit is projected at approximately USD33.5 million […] The post Insilico Medicine expects revenue to nearly quadruple to over $100m appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "Amprion secures multi-million-dollar funding to expand brain disease diagnostic testing",
+          "url": "https://longevity.technology/news/amprion-secures-multi-million-dollar-funding-to-expand-brain-disease-diagnostic-testing/",
+          "domain": "longevity.technology",
+          "date": "2026-07-10T10:31:10.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Amprion, headquartered in San Diego, announced on 8 July 2026 that it reached an agreement with Decathlon Capital Partners for a multi-million-dollar growth-funding investment to expand diagnostic testing capacity for neurodegenerative diseases, including Parkinson’s disease, Lewy body dementia and Alzheimer’s disease. According to the company, the tailored financing provides flexible amortization, is non-dilutive to existing […] The post Amprion secures multi-million-dollar funding to expand brain disease diagnostic testing appeared first on Longevity.Technology ."
+        },
         {
           "title": "An Experimental Proposal for Blocking Ambient Radiation",
           "url": "https://lifespan.io/an-experimental-proposal-for-blocking-ambient-radiation/",
@@ -136,46 +176,6 @@
           "date": "2026-07-09T10:51:10.000Z",
           "source": "Longevity.Technology",
           "summary": "Haut.AI launched Body Analysis, an AI-powered full-body skin analysis platform designed to help beauty and wellness brands deliver personalized, data-driven bodycare at scale. The module expands the firm’s skin-analysis suite beyond the face and provides objective, quantitative skin measurement across the full body through a single unified pipeline. According to the company, the technology was […] The post Haut.AI unveils body analysis for personalized bodycare appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Alterity secures fda alignment for ATH434 phase 3 pathway",
-          "url": "https://longevity.technology/news/alterity-secures-fda-alignment-for-ath434-phase-3-pathway/",
-          "domain": "longevity.technology",
-          "date": "2026-07-09T10:46:10.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Alterity Therapeutics received official End-of-Phase 2 meeting minutes from the U.S. Food and Drug Administration confirming a registrational pathway for ATH434 in multiple system atrophy. The minutes confirm key elements of the Phase 3 program announced 9 June 2026, and indicate the FDA agreed that a single pivotal Phase 3 trial, supported by confirmatory evidence, […] The post Alterity secures fda alignment for ATH434 phase 3 pathway appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Nanoscope, Catalent to manufacture and launch vision-restoring gene therapy",
-          "url": "https://longevity.technology/news/nanoscope-catalent-to-manufacture-and-launch-vision-restoring-gene-therapy/",
-          "domain": "longevity.technology",
-          "date": "2026-07-09T10:41:10.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Catalent and Nanoscope Therapeutics expanded their collaboration to support late-phase clinical and commercial supply of MCO-010, Nanoscope’s lead optogenetic gene therapy. Under the agreement, Catalent will provide commercial-compliant packaging and distribution and has secured the commercial packaging validation program to support Nanoscope’s Biologics License Application. A rolling submission with the U.S. Food and Drug Administration […] The post Nanoscope, Catalent to manufacture and launch vision-restoring gene therapy appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "BlueRock, RoslinCT partner to expand developer access to stem cell therapies",
-          "url": "https://longevity.technology/news/bluerock-roslinct-partner-to-expand-developer-access-to-stem-cell-therapies/",
-          "domain": "longevity.technology",
-          "date": "2026-07-09T10:36:10.000Z",
-          "source": "Longevity.Technology",
-          "summary": "RoslinCT and BlueRock Therapeutics have entered a strategic partnership to broaden access to BlueRock’s clinical-grade induced pluripotent stem cell lines for cell therapy developers. RoslinCT will add access to BlueRock’s clinical-grade lines alongside its own and will offer matched research-grade samples to prospective customers, while BlueRock will retain oversight of commercial licensing. The companies completed […] The post BlueRock, RoslinCT partner to expand developer access to stem cell therapies appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "DiamiR to present three biomarker studies at 2026 AAIC",
-          "url": "https://longevity.technology/news/diamir-to-present-three-biomarker-studies-at-2026-aaic/",
-          "domain": "longevity.technology",
-          "date": "2026-07-09T10:31:10.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Aptorum Group Limited and DiamiR Biosciences announced that DiamiR will present three posters at the Alzheimer’s Association International Conference (AAIC) in London 11-15 July 2026, showcasing biomarker work from DiamiR’s CLIA-certified, CAP-accredited laboratory. Alidad Mireskandari, Ph.D., DiamiR’s chief executive officer, is listed as presenter for: Poster 1160, “Plasma-based APOE Genotyping: Development and Optimization of A […] The post DiamiR to present three biomarker studies at 2026 AAIC appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Optimizing Guidelines Toward Optimal Health Outcomes",
-          "url": "https://lifespan.io/optimizing-guidelines-toward-optimal-health-outcomes/",
-          "domain": "lifespan.io",
-          "date": "2026-07-08T16:36:59.000Z",
-          "source": "Lifespan.io",
-          "summary": "In a recently published perspective paper, the author argues that the UK’s official health guidelines on physical activity and protein intake should be revised to recommend levels necessary to achieve optimal health, […]"
         }
       ]
     },
@@ -187,6 +187,22 @@
         "https://phys.org/rss-feed/biology-news/biotechnology/"
       ],
       "articles": [
+        {
+          "title": "Bacteria turn dissolved uranium into stable compound in 130 days, study finds",
+          "url": "https://phys.org/news/2026-07-bacteria-dissolved-uranium-stable-compound.html",
+          "domain": "phys.org",
+          "date": "2026-07-10T12:20:10.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Researchers at the Helmholtz-Zentrum Dresden-Rossendorf (HZDR), together with Wismut GmbH and scientists from the University of Granada in Spain, have demonstrated for the first time that bacteria can convert uranium dissolved in water into a stable chemical compound when they have access to glycerol as a food source."
+        },
+        {
+          "title": "Assessing lab animals with AI",
+          "url": "https://phys.org/news/2026-07-lab-animals-ai.html",
+          "domain": "phys.org",
+          "date": "2026-07-10T12:00:05.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Rutgers Office for Research (OfR) leaders collaborated with researchers around the world to develop an artificial intelligence (AI) program that has the potential to revolutionize lab research."
+        },
         {
           "title": "UMA-Inverse: Ligand-Conditioned Protein Inverse Folding with a Distogram-Supervised Dense Pair Encoder",
           "url": "https://arxiv.org/abs/2607.07866",
@@ -250,22 +266,6 @@
           "date": "2026-07-10T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2607.08561v1 Announce Type: cross Abstract: A series of results from the NeuroAI over the past fifteen years have raised core questions both about how to compare Deep Neural Network (DNN) models to the brain, and about how much convergent evolution to expect between artificial networks and real brain networks. Here, we show that for any two minimal DNN solutions to a sufficiently hard task: (i) \"weak\" alignment of network representations based on affine mappings guarantees \"strong\" alignment of privileged axes, and (ii) alignment \"zippers\" up the network hierarchy, causing the emergence of privileged axes from end-to-end task optimization. These results formalize the notion of contravariance from Cao and Yamins [2024], and illustrate important consequences for the theory of NeuroAI: with sufficiently strong tasks, choice of metric for inter-network comparison is not all that sensitive, and that convergent evolution is probably inevitable."
-        },
-        {
-          "title": "Stochastic dynamics at the back of a gene drive eradication wave",
-          "url": "https://arxiv.org/abs/2502.21268",
-          "domain": "arxiv.org",
-          "date": "2026-07-10T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2502.21268v3 Announce Type: replace Abstract: Gene drive alleles bias their own inheritance to offspring. They can fix in a wild-type population in spite of a fitness cost, and even lead to the eradication of the target population if the fitness cost is high. However, this outcome may be prevented or delayed if areas previously cleared by the drive are recolonised by wild-type individuals. Here, we investigate the conditions under which these stochastic wild-type recolonisation events are likely and when they are unlikely to occur in one spatial dimension. More precisely, we examine the conditions ensuring that the last individual carrying a wild-type allele is surrounded by a large enough number of drive homozygous individuals, resulting in a very low chance of wild-type recolonisation. To do so, we make a deterministic approximation of the distribution of drive alleles within the wave, and we split the distribution of wild-type alleles into a deterministic part and a stochastic part. Our analytical and numerical results suggest that the probability of wild-type recolonisation events increases with lower fitness of drive individuals and with smaller local carrying capacity. Numerical simulations show that these results extend to two spatial dimensions. The role of the migration rate however, is less clear but has a lower impact. We further demonstrate that, in the event of wild-type recolonization, the probability of subsequent drive reinvasion decreases with smaller values of the intrinsic growth rate of the population. Overall, our study paves the way for further analysis of wild-type recolonisation at the back of eradication traveling waves."
-        },
-        {
-          "title": "Decoding the Hot-Mitochondrion Paradox",
-          "url": "https://arxiv.org/abs/2507.16824",
-          "domain": "arxiv.org",
-          "date": "2026-07-10T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2507.16824v3 Announce Type: replace Abstract: In a 2018 paper and a subsequent article published in 2023, researchers reported that mitochondria maintain temperatures 10oC-15oC higher than the surrounding cytoplasm-a finding that deviates by five to six orders of magnitude from theoretical predictions based on Fourier's law of heat conduction. In 2022, we proposed a solution to this apparent paradox. In the present perspective, we build upon that framework and introduce new ideas to further unravel how a biological membrane-whether of an organelle or a whole cell-can become significantly warmer than its environment. We propose that ion-translocating proteins embedded in the inner mitochondrial membrane (IMM) can be modeled as ratchet engines, introducing a novel, previously overlooked mode of heat transfer. This mechanism, coupled with localized heat release during the cyclical dehydration-translocation-hydration of ions through membrane proteins, may generate transient but substantial temperature spikes. The cumulative thermal occupancy of these microscopic events across the three-dimensional surface of the IMM can account for the elevated temperatures detected by molecular probes."
         }
       ]
     },
@@ -278,84 +278,84 @@
       ],
       "articles": [
         {
-          "title": "New Hampshire’s $100 million bitcoin bond proposal fails to pass final vote",
-          "url": "https://www.theblock.co/post/407867/new-hampshire-bitcoin-backed-bond-fails?utm_source=rss&utm_medium=rss",
+          "title": "‘Communication challenge, nothing more’: Standard Chartered keeps $100,000 bitcoin target, calls Strategy selloff a signaling problem",
+          "url": "https://www.theblock.co/post/407884/communication-challenge-nothing-more-standard-chartered-keeps-100000-bitcoin-target-calls-strategy-selloff-a-signaling-problem?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-07-10T10:29:07.000Z",
+          "date": "2026-07-10T12:46:18.000Z",
           "source": "The Block",
-          "summary": "Governor Ayotte had expressed support for the proposal, touting it as an innovative way to bring more investment opportunities to the state."
+          "summary": "Standard Chartered retained its $100,000 end-2026 bitcoin target, calling Strategy's STRC pivot a signaling problem, not a solvency one."
         },
         {
-          "title": "TeraWulf eyes $3.5B debt raise for Anthropic-linked data center: Report",
-          "url": "https://cointelegraph.com/news/terawulf-3-5-billion-debt-raise-anthropic-data-center?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-10T10:14:51.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Bitcoin miner TeraWulf is reportedly seeking $3.5 billion in debt financing led by Morgan Stanley for its Kentucky data center campus leased by AI company Anthropic."
-        },
-        {
-          "title": "Revolut integrates its crypto exchange with AI assistants as agentic trading spreads",
-          "url": "https://www.theblock.co/post/407865/revolut-integrates-its-crypto-exchange-with-ai-assistants-as-agentic-trading-spreads?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-10T10:04:08.000Z",
-          "source": "The Block",
-          "summary": "Revolut X now connects to Claude, Gemini, OpenClaw, and Cursor, letting crypto users analyze, backtest, and execute trades via AI prompts."
-        },
-        {
-          "title": "Metaplanet explores Bitcoin-backed digital credit with JPYC in Japan",
-          "url": "https://cointelegraph.com/news/metaplanet-studies-bitcoin-digital-bonds-japan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-10T09:58:10.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Metaplanet said it is studying Bitcoin-backed digital credit products in Japan with JPYC and Progmat, but no product has been launched."
-        },
-        {
-          "title": "Polymarket seeks approval to bring margin trading to U.S. customers",
-          "url": "https://www.coindesk.com/markets/2026/07/10/polymarket-seeks-approval-to-bring-margin-trading-to-u-s-customers",
+          "title": "OKX, MetaMask, Matter Labs back dispute resolution court for AI agents",
+          "url": "https://www.coindesk.com/business/2026/07/10/okx-metamask-matter-labs-back-dispute-resolution-court-for-ai-agents",
           "domain": "coindesk.com",
-          "date": "2026-07-10T09:35:21.000Z",
+          "date": "2026-07-10T12:29:08.000Z",
           "source": "CoinDesk",
-          "summary": "Polymarket's application to allow users to take positions that are not fully collateralized follows authorization granted to rival Kalshi in March."
+          "summary": "The Genlayer Foundation is leading the 27-firm consortium that makes AI-based payments, escrow and dispute resolution interoperable."
         },
         {
-          "title": "Bitcoin returns to $64.3K with new three-week BTC price highs imminent",
-          "url": "https://cointelegraph.com/markets/bitcoin-returns-to-64k-with-three-week-btc-price-highs-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "US charges prisoner over alleged laundering of seized Kraken crypto",
+          "url": "https://cointelegraph.com/news/us-prisoner-290k-crypto-restrained-kraken-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-07-10T09:32:23.000Z",
+          "date": "2026-07-10T12:27:40.000Z",
           "source": "CoinTelegraph",
-          "summary": "Bitcoin bulls faced \"crucial resistance\" at $65,000 next as BTC price action diverged from oil and US dollar strength."
+          "summary": "US prosecutors charged Rossen Iossifov over the alleged laundering of $290,000 in forfeited crypto from a Kraken account."
         },
         {
-          "title": "Bitcoin's $60,000-$70,000 range becomes third longest consolidation in history",
-          "url": "https://www.coindesk.com/markets/2026/07/10/bitcoin-s-usd60k-to-usd70k-range-becomes-third-longest-consolidation-in-history",
+          "title": "Wall Street banks tighten prediction market rules for staff as insider fears spread",
+          "url": "https://cointelegraph.com/news/wall-street-prediction-market-trading-insider-fears?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-10T11:51:02.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Wall Street banks, including Goldman Sachs and Morgan Stanley, are restricting employee prediction market trades as insider trading fears spread across Polymarket and Kalshi."
+        },
+        {
+          "title": "Circle soars after securing U.S. trust bank approval in crypto expansion",
+          "url": "https://www.coindesk.com/business/2026/07/10/circle-secures-u-s-trust-bank-approval-in-crypto-expansion",
           "domain": "coindesk.com",
-          "date": "2026-07-10T09:16:52.000Z",
+          "date": "2026-07-10T11:41:47.000Z",
           "source": "CoinDesk",
-          "summary": "Bitcoin has spent 307 days in the $60,000-$70,000 range, the third longest consolidation in any $10,000 price band."
+          "summary": "The approval adds to a growing list of crypto firms seeking federal banking licenses as the industry moves into the regulated financial system."
         },
         {
-          "title": "DOJ charges federal inmate over alleged theft of $290,000 in crypto forfeited to US government",
-          "url": "https://www.theblock.co/post/407854/doj-charges-federal-inmate-over-alleged-theft-of-290000-in-crypto-forfeited-to-us-government?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-10T09:13:08.000Z",
-          "source": "The Block",
-          "summary": "Federal inmate Rossen Iossifov faces new charges for allegedly taking $290,000 in government-forfeited cryptocurrency."
-        },
-        {
-          "title": "Cathie Wood’s Ark Invest buys $14 million worth of Circle, offloads Robinhood shares",
-          "url": "https://www.theblock.co/post/407853/ark-invest-buys-14-million-worth-circle?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-10T09:09:24.000Z",
-          "source": "The Block",
-          "summary": "Circle Internet Group's stock dropped 1.65% during Thursday's trading session, extending its one-month decline to 20.2%."
-        },
-        {
-          "title": "Metaplanet explores bringing bitcoin-backed digital credit to Japan",
-          "url": "https://www.coindesk.com/markets/2026/07/10/metaplanet-explores-bringing-bitcoin-backed-digital-credit-to-japan",
+          "title": "Japan's 'invest locally' plan likely to spur demand for assets like bitcoin, gold",
+          "url": "https://www.coindesk.com/daybook-us/2026/07/10/japan-s-invest-locally-plan-likely-to-spur-demand-for-assets-like-bitcoin-gold",
           "domain": "coindesk.com",
-          "date": "2026-07-10T09:08:20.000Z",
+          "date": "2026-07-10T11:37:31.000Z",
           "source": "CoinDesk",
-          "summary": "The bitcoin treasury company is working with JPYC and Progmat to explore tokenized credit products backed by bitcoin, aiming to create efficient, 24/7 credit markets in Japan."
+          "summary": "Your day-ahead look for July 10, 2026"
+        },
+        {
+          "title": "USDC issuer Circle wins final approval for US national trust bank charter",
+          "url": "https://cointelegraph.com/news/circle-final-occ-approval-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-10T11:37:25.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Circle announces it received final OCC approval for a national trust bank that will initially serve the company and affiliates, with possible future custody services for institutional clients."
+        },
+        {
+          "title": "Stablecoin firm Circle wins final OCC approval to open national trust bank",
+          "url": "https://www.theblock.co/post/407876/stablecoin-firm-circle-wins-final-occ-approval-to-open-national-trust-bank?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-10T11:25:14.000Z",
+          "source": "The Block",
+          "summary": "Circle wins final OCC approval for First National Digital Currency Bank, with USDC reserve management planned for a later phase."
+        },
+        {
+          "title": "Japanese lender launches Bitcoin-backed loans of up to $6.2M",
+          "url": "https://cointelegraph.com/news/japan-cryl-bitcoin-backed-loans-6-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-10T11:24:06.000Z",
+          "source": "CoinTelegraph",
+          "summary": "CRYL is offering Bitcoin-backed loans to individuals and businesses as Japanese firms explore broader uses for BTC in lending and credit markets."
+        },
+        {
+          "title": "Ledger researchers disclose Tangem card flaw; Tangem says risk to everyday users is ‘virtually non-existent’",
+          "url": "https://www.theblock.co/post/407871/ledger-researchers-disclose-tangem-card-flaw-tangem-says-risk-to-everyday-users-is-virtually-non-existent?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-10T11:08:31.000Z",
+          "source": "The Block",
+          "summary": "Ledger researchers disclosed a laser attack that resets Tangem card passwords by bypassing a recovery-state check in the firmware."
         }
       ]
     }
