@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-10T19:06:33.561Z",
+  "updatedAt": "2026-07-10T20:43:53.802Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,6 +278,38 @@
       ],
       "articles": [
         {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-10T20:14:39.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
+        {
+          "title": "DOJ to drop charges against man accused in $722 million BitClub crypto Ponzi scheme: Bloomberg",
+          "url": "https://www.theblock.co/post/407931/doj-drop-charges-against-man-accused-722-million-bitclub-crypto-ponzi-scheme-bloomberg?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-10T20:12:46.000Z",
+          "source": "The Block",
+          "summary": "A former contestant on 'The Apprentice' is one of the persons urging the DOJ to drop the charges, the report said."
+        },
+        {
+          "title": "Here’s what’s next for the Clarity Act as Congress returns to Washington",
+          "url": "https://www.theblock.co/post/407930/whats-next-for-clarity-act-congress-returns-to-washington?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-10T19:50:57.000Z",
+          "source": "The Block",
+          "summary": "Congress returns to Washington next week, ready to take up cryptocurrency legislation before the midterm election calendar takes over."
+        },
+        {
+          "title": "US CBDC ban to go into effect without Trump signoff on housing bill",
+          "url": "https://cointelegraph.com/news/us-cbdc-ban-donald-trump-housing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-10T19:33:03.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Donald Trump confirmed on social media that he would not sign the 21st Century ROAD to Housing Act, which includes a ban on a US CBDC until the end of 2030, setting the stage for the bill to become law on Saturday."
+        },
+        {
           "title": "SK Hynix’s $26.5 billion US listing brought to Telegram users via xStocks",
           "url": "https://www.theblock.co/post/407923/sk-hynixs-26-5-billion-us-listing-brought-to-telegram-users-via-xstocks?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
@@ -324,38 +356,6 @@
           "date": "2026-07-10T16:07:20.000Z",
           "source": "The Block",
           "summary": "Cambridge finds 31% of Ethereum node activity in the U.S., clustered on AWS, Hetzner and OVH, raising jurisdictional/counterparty questions."
-        },
-        {
-          "title": "U.S. government digital dollar set to be banned tonight under housing law's CBDC limit",
-          "url": "https://www.coindesk.com/policy/2026/07/10/u-s-government-digital-dollar-set-to-be-banned-tonight-under-housing-law-s-cbdc-limit",
-          "domain": "coindesk.com",
-          "date": "2026-07-10T16:02:21.000Z",
-          "source": "CoinDesk",
-          "summary": "Despite President Donald Trump's refusal to sign Congress' bipartisan housing bill, it's set to go into effect at midnight, and its temporary CBDC ban along with it."
-        },
-        {
-          "title": "Crypto Biz: How stablecoins found their niche",
-          "url": "https://cointelegraph.com/news/crypto-biz-how-stablecoins-found-their-niche?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-10T15:37:37.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Stablecoins are carving out specialized roles as regulation reshapes the market, while Strategy’s Bitcoin sale and Vanguard’s tokenization push highlight crypto’s evolving financial landscape."
-        },
-        {
-          "title": "Hyundai becomes first major South Korean company to introduce internal stablecoin transfers",
-          "url": "https://www.coindesk.com/business/2026/07/10/hyundai-becomes-first-major-south-korean-company-to-introduce-internal-stablecoin-transfers",
-          "domain": "coindesk.com",
-          "date": "2026-07-10T15:26:43.000Z",
-          "source": "CoinDesk",
-          "summary": "The initiative builds on a broader shift by companies exploring stablecoins to move money between international operations more efficiently."
-        },
-        {
-          "title": "Bitcoin whales sent BTC price to $64K as Coinbase Premium broke key level: CryptoQuant",
-          "url": "https://cointelegraph.com/markets/bitcoin-whales-sent-btc-price-to-64k-as-coinbase-premium-broke-key-level-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-10T14:59:30.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Bitcoin price gains came thanks to US whales propeling the Coinbase Premium above a key trend line, new analysis from CryptoQuant reported."
         }
       ]
     }
