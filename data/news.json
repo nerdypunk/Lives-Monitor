@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-11T17:31:05.046Z",
+  "updatedAt": "2026-07-11T18:36:54.125Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -41,12 +41,12 @@
           "summary": "Bio Protocol launches AI research hub to challenge grant gatekeepers &nbsp;&nbsp; Crypto News"
         },
         {
-          "title": "BioProtocol unveils OpenLabs platform at DeSci Berlin to merge AI with decentralized research funding - Crypto Briefing",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5sbkJNU3o3UENfWkVYZ2xfLTIxUDRTeWM0V2RlS0U3cUk5XzB5UGxIRXZZSkxSSVpwWl9mdV9panJEdjY2SGFMcHJmVFhVWXFhd2FKNDd4STRWUm9vSHppZU1uLTJlOVJoSW1abGxB?oc=5",
-          "domain": "cryptobriefing.com",
+          "title": "BioProtocol unveils OpenLabs platform at DeSci Berlin to merge AI with decentralized research funding - Bitget",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9sSG5XUXNVaUp2UFhXekJuWW1BaGxPcDFSMXhvY2kweTBkbUJmNF9xYUJibmxoZzQxSjZIM3ZEVnpCZFFReHU5WlRNZmFzNTZjV3RONHlmUjhwX0MtU29YUU9Nd2XSAWpBVV95cUxQQjZLTGgtX1VkTW1FZ3RBOHlrMVRVV255ZmMtSWp5WURLdlh0cGJoZ2doUFBYVkYyTWRrLUgzanhGY3kwVFhIOXBNc1BtcHV3ZHM1WXJYOTFoSkpfcGZSTEhVV1p2ci00cU1R?oc=5",
+          "domain": "bitget.com",
           "date": "2026-06-19T07:00:00.000Z",
-          "source": "Crypto Briefing",
-          "summary": "BioProtocol unveils OpenLabs platform at DeSci Berlin to merge AI with decentralized research funding &nbsp;&nbsp; Crypto Briefing"
+          "source": "Bitget",
+          "summary": "BioProtocol unveils OpenLabs platform at DeSci Berlin to merge AI with decentralized research funding &nbsp;&nbsp; Bitget"
         },
         {
           "title": "NanoVita Joins ENI Super Node Ecosystem to Advance AI-Driven DeSci - Cryptonews.net",
@@ -278,6 +278,14 @@
       ],
       "articles": [
         {
+          "title": "Lending protocol Bonzo loses 77% of value locked as $9 million oracle exploit rattles Hedera",
+          "url": "https://www.coindesk.com/web3/2026/07/11/lending-protocol-bonzo-loses-77-of-value-locked-as-usd9-million-oracle-exploit-rattles-hedera",
+          "domain": "coindesk.com",
+          "date": "2026-07-11T18:06:58.000Z",
+          "source": "CoinDesk",
+          "summary": "Bonzo Lend lost approximately $9.05 million after an attacker exploited a verification flaw in a third-party Supra oracle contract on the Hedera network."
+        },
+        {
           "title": "Crypto IPO market stalls as capital rotates to AI and macro uncertainty weighs",
           "url": "https://www.coindesk.com/business/2026/07/08/crypto-ipo-market-stalls-as-capital-rotates-to-ai-and-macro-uncertainty-weighs",
           "domain": "coindesk.com",
@@ -348,14 +356,6 @@
           "date": "2026-07-11T11:21:07.000Z",
           "source": "CoinTelegraph",
           "summary": "Bitcoin price gains approached 10% for the first two weeks of the month, but analysis warned of the bear market returning from August onward."
-        },
-        {
-          "title": "Dollar stablecoins could improve FX access but amplify currency runs: IMF paper",
-          "url": "https://cointelegraph.com/news/imf-stablecoins-fx-access-currency-runs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-11T09:14:12.000Z",
-          "source": "CoinTelegraph",
-          "summary": "An IMF working paper says dollar stablecoins can improve access to foreign currency but may also help coordinate exits from local currencies during periods of severe exchange-rate stress."
         }
       ]
     }
