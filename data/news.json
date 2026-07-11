@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-11T01:11:01.777Z",
+  "updatedAt": "2026-07-11T04:29:51.067Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -188,6 +188,14 @@
       ],
       "articles": [
         {
+          "title": "New platform creates digital map for marine biobanks",
+          "url": "https://phys.org/news/2026-07-platform-digital-marine-biobanks.html",
+          "domain": "phys.org",
+          "date": "2026-07-11T03:40:01.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "A new digital platform developed under the leadership of CIIMAR is making Portugal's marine biodiversity more accessible by bringing together thousands of biological resources into a single access point. The Blue Biobanks Digital Research Platform aims to bridge scientific research and industry by simplifying the identification of organisms and biological materials with potential applications in areas such as biotechnology, bioremediation, aquaculture, health, cosmetics and many others."
+        },
+        {
           "title": "Bacteria turn dissolved uranium into stable compound in 130 days, study finds",
           "url": "https://phys.org/news/2026-07-bacteria-dissolved-uranium-stable-compound.html",
           "domain": "phys.org",
@@ -204,68 +212,60 @@
           "summary": "Rutgers Office for Research (OfR) leaders collaborated with researchers around the world to develop an artificial intelligence (AI) program that has the potential to revolutionize lab research."
         },
         {
-          "title": "UMA-Inverse: Ligand-Conditioned Protein Inverse Folding with a Distogram-Supervised Dense Pair Encoder",
-          "url": "https://arxiv.org/abs/2607.07866",
-          "domain": "arxiv.org",
-          "date": "2026-07-10T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2607.07866v1 Announce Type: new Abstract: Designing protein sequences that bind specific ligands benefits from an inverse-folding model conditioned on full ligand geometry. We present UMA-Inverse, which replaces the sparse graph backbone of LigandMPNN with a dense pair-representation encoder: a six-block PairMixer (triangle multiplication, no triangle self-attention or sequence track) refines all residue-residue and residue-ligand atom pairs, supervised by an auxiliary distogram objective, and an autoregressive decoder attends over ligand atoms through a learned, position-specific readout of the pair tensor. The model is compact ($\\sim$3.3 M parameters). On the LigandMPNN test splits it reaches 56.1%/55.1%/35.3% interface recovery (small-molecule/metal/nucleotide). It trails LigandMPNN, but by less than the published numbers suggest: re-run under our identical protocol, LigandMPNN scores 59.8/64.4/53.3 (vs. published 63.3/77.5/50.5). In a pocket-fixed setting the redesigns are confidently folded and ligand-binding-competent under Boltz-2 cofolding, again modestly behind LigandMPNN. Its distinctive property is representational: the dense encoder propagates ligand identity to residues far beyond the interface, where LigandMPNN's signal decays. We offer UMA-Inverse as a compact baseline for ligand-conditioned inverse folding that trails LigandMPNN in accuracy, together with a characterization of how a dense all-pairs encoder distributes ligand information."
+          "title": "Engineered ADARs enable precision A-to-G base editing of DNA",
+          "url": "https://www.nature.com/articles/s41587-026-03223-z",
+          "domain": "nature.com",
+          "date": "2026-07-10T00:00:00.000Z",
+          "source": "Nature Biotechnology",
+          "summary": "Nature Biotechnology, Published online: 10 July 2026; doi:10.1038/s41587-026-03223-z Bystander edits are minimized by engineering an adenosine deaminase acting on RNA for DNA base editing."
         },
         {
-          "title": "Anthropogenic disturbance expands the climatic limits of annual plant dominance",
-          "url": "https://arxiv.org/abs/2607.08251",
-          "domain": "arxiv.org",
-          "date": "2026-07-10T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2607.08251v1 Announce Type: new Abstract: Disturbance regimes and nutrient inputs are changing worldwide, with consequences for the structure and functioning of plant communities. Classical life-history theory predicts that disturbance should shift communities from long-lived perennials toward short-lived annuals, and that nutrient enrichment may amplify this shift. However, these predictions have not been tested experimentally across broad environmental gradients. Here, using a global coordinated grassland experiment spanning 37 sites, we tested how physical disturbance, vegetation removal and shallow soil tillage, and fertilisation reshape annual-perennial balance, and whether disturbance relaxes the climatic limits of annual dominance. Disturbance nearly doubled the proportion of annual species and more than doubled the relative cover of annuals, whereas fertilisation had little influence and did not interact with disturbance. The disturbance-driven shift arose through contrasting pathways: in graminoids and legumes, it reflected the loss of perennial cover, while in forbs, the expansion of annual cover. In the absence of disturbance, annual dominance was restricted to systems with extremely hot and dry summers, but disturbance nearly tripled the extent of climate space in which annuals dominated. By rapidly reassembling after disturbance, annuals may help maintain vegetation cover, but their expansion also signals loss of perennial cover and the long-term ecosystem functions associated with it."
+          "title": "Efficient in vivo cytosine base editing using virus-like particles with uracil DNA glycosylase inhibition",
+          "url": "https://www.nature.com/articles/s41587-026-03227-9",
+          "domain": "nature.com",
+          "date": "2026-07-10T00:00:00.000Z",
+          "source": "Nature Biotechnology",
+          "summary": "Nature Biotechnology, Published online: 10 July 2026; doi:10.1038/s41587-026-03227-9 In vivo cytosine base editing is made efficient with potent glycosylase inhibition."
         },
         {
-          "title": "A Non-Hermitian Potential Well Formalism for Conscious--Preconscious--Subliminal Processing",
-          "url": "https://arxiv.org/abs/2607.08302",
-          "domain": "arxiv.org",
-          "date": "2026-07-10T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2607.08302v1 Announce Type: new Abstract: We propose a phenomenological model of the Global Neuronal Workspace (GNW) in which early sensory processing generates an effective complex-valued landscape governing the dynamics of high-level stimulus representations. This landscape provides a dynamical bridge between sensory encoding and conscious access, enabling both processes to be described within a unified framework. High-level representations are encoded in a cloud function defined on a Hilbert space over a perceptual state space, thereby combining the holistic structure of mental images with a neural implementation. Its dynamics is governed by a nonlinear Schr\\\"odinger-type equation in imaginary time with a non-Hermitian, non-normal Hamiltonian and a nonlinear Lotka--Volterra-type term that preserves norm and enables spatially nonlocal interactions. The Hermitian and anti-Hermitian parts of the Hamiltonian generate complementary processes: recognition via dissipative localization at minima of the GNW landscape and information broadcasting via spatial spreading across the state space. The resulting dynamics reproduces the subliminal--preconscious--conscious hierarchy of sensory processing. Conscious access corresponds to the emergence of a bound state, which occurs only when both the GNW landscape depth and the degree of top-down attention exceed threshold values. The resulting framework provides a tractable dynamical description linking sensory processing, attention, and conscious access within a unified dynamical setting."
+          "title": "Wearables to track plant health: Farmers could use real-time information to manage crop conditions",
+          "url": "https://phys.org/news/2026-07-wearables-track-health-farmers-real.html",
+          "domain": "phys.org",
+          "date": "2026-07-09T14:20:07.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "A smartwatch can tell us the level of oxygen in our blood, when our sleep is restless or the number of steps we take in a day. Now imagine that kind of tracking ability for plants. By the time farmers see curling leaves or stunted growth in their fields, their crops may already have spent days under stress."
         },
         {
-          "title": "Impact of Nirsevimab prophylaxis on RSV dynamics: a stage-structured modelling study",
-          "url": "https://arxiv.org/abs/2607.08344",
-          "domain": "arxiv.org",
-          "date": "2026-07-10T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2607.08344v1 Announce Type: new Abstract: Respiratory syncytial virus (RSV) is a leading cause of bronchiolitis and other lower respiratory tract infections in infants. Increased viral circulation in the post-COVID era and heterogeneous prevention strategies across regions have made RSV control more challenging. We develop a stage-structured, age-stratified Susceptible-Infected-Recovered (SIR) compartmental model tailored to the Italian setting to investigate the population-level impact of infant prophylaxis with Nirsevimab, a long-acting monoclonal antibody. Scenario-based simulations over a multi-year horizon show that increasing infant protection coverage substantially reduces RSV incidence among infants and also yields indirect benefits in older age groups. In particular, extending coverage to infants born outside the epidemic season further lowers cumulative incidence, although infant-targeted prophylaxis alone does not reduce the control reproduction number below the epidemic threshold in the parameter range explored. These findings suggest that broader and more consistent infant Nirsevimab coverage may reduce RSV burden and support the evaluation of alternative implementation strategies in the Italian context."
+          "title": "Biotech’s digital twin dilemma",
+          "url": "https://www.nature.com/articles/s41587-026-03211-3",
+          "domain": "nature.com",
+          "date": "2026-07-09T00:00:00.000Z",
+          "source": "Nature Biotechnology",
+          "summary": "Nature Biotechnology, Published online: 09 July 2026; doi:10.1038/s41587-026-03211-3 From virtual patients to simulated cells and organs-on-chips, digital twins are forecasting disease and guiding drug development. Scientists now must figure out how to define, validate and deploy these models."
         },
         {
-          "title": "DrugGen 2: A disease-aware language model for enhancing drug discovery",
-          "url": "https://arxiv.org/abs/2607.08404",
-          "domain": "arxiv.org",
-          "date": "2026-07-10T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2607.08404v1 Announce Type: new Abstract: Current computational approaches for drug design typically focus on generating molecules conditioned on specific targets or general molecular properties, often neglecting the influence of disease context on target behavior and therapeutic outcomes. To address this gap, we introduce DrugGen-2, a novel generative model that designs small molecules conditioned on both disease ontology and target protein sequences. DrugGen-2 was developed by fine-tuning a pre-trained GPT-2 model on a curated dataset of approved drugs linked to their diseases and targets, using a two-step strategy of supervised fine-tuning followed by reinforcement learning via group relative policy optimization (GRPO). This process was guided by reward functions optimizing for chemical validity, novelty, diversity, and high predicted binding affinity. When evaluated on five protein targets relevant to diabetic nephropathy, DrugGen-2 significantly outperformed baseline models (DrugGPT and DrugGen). It demonstrated a superior capacity to generate unique molecules, exhibited greater structural similarity to approved drugs, and achieved improved predicted binding affinities across all targets. Molecular docking analyses further supported these findings, identifying candidate ligands with strong binding potential, including compounds with predicted affinities (-9.917, -9.485, and -9.367) exceeding those of reference drugs such as enalapril for angiotensin-converting enzyme (-8.283). By integrating disease-specific context into molecular generation, DrugGen-2 advances AI-assisted drug discovery, offering a powerful tool for de novo design and drug repurposing that accounts for the complex interplay between diseases and molecular targets."
+          "title": "High-quality phage assembly from metagenomes with PALACE",
+          "url": "https://www.nature.com/articles/s41587-026-03188-z",
+          "domain": "nature.com",
+          "date": "2026-07-09T00:00:00.000Z",
+          "source": "Nature Biotechnology",
+          "summary": "Nature Biotechnology, Published online: 09 July 2026; doi:10.1038/s41587-026-03188-z PALACE combines homology features and deep learning to improve phage assembly from metagenomics."
         },
         {
-          "title": "SHIFT: Survival Prediction from Incomplete and Heterogeneous Genomic Data",
-          "url": "https://arxiv.org/abs/2607.07725",
-          "domain": "arxiv.org",
-          "date": "2026-07-10T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2607.07725v1 Announce Type: cross Abstract: Genomic prediction models often fail to transfer across institutions because sequencing panels differ across sites, creating structural feature missingness at deployment. Existing approaches to this challenge typically restrict analysis to genes shared across cohorts, exclude patients with incomplete profiles, or rely on test-time imputation, all of which can reduce robustness and limit the use of multi-center data. We propose Survival prediction Handling Incomplete Features using Transformer (SHIFT), a missingness-aware survival model that directly predicts from incomplete genomic inputs without test-time imputation. SHIFT represents each genomic feature separately and uses masked self-attention, along with a feature-availability mask, so that predictions are based only on observed inputs. Further, we introduce variable-rate feature masking during training to improve robustness to heterogeneous missingness patterns. We evaluate the approach on glioblastoma and lung squamous cell carcinoma with external validation across multiple cohorts, including a challenging setting with severe cross-cohort panel mismatch. Across these settings, SHIFT shows strong generalization and compares favorably with standard survival baselines and imputation-based approaches, while using a single model across differing feature sets. We also find that incorporating patients from incomplete cohorts during development can improve performance on external data, suggesting that partially observed cohorts need not be excluded from model building. These results support missingness-aware modeling as a practical strategy for multi-center survival prediction in precision oncology."
+          "title": "Planting the future: Researchers put AI to work on the farm",
+          "url": "https://phys.org/news/2026-07-future-ai-farm.html",
+          "domain": "phys.org",
+          "date": "2026-07-08T23:20:03.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Farmers are getting more tools in their toolbox, thanks to new research from the University of Missouri that shows how they can tweak planting practices to make the most of every acre."
         },
         {
-          "title": "Projected Energy Matching for Generative 3D Priors",
-          "url": "https://arxiv.org/abs/2607.07749",
-          "domain": "arxiv.org",
-          "date": "2026-07-10T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2607.07749v1 Announce Type: cross Abstract: Energy Matching has emerged as a powerful generative framework that combines flow model efficiency with the explicit likelihood of Energy-Based Models (EBMs) via a single, time-independent scalar potential. However, directly training this potential on high-dimensional 3D data remains computationally challenging. While distilling a pre-trained flow model circumvents some of the initial training costs, we demonstrate that velocity fields inevitably contain non-conservative rotational artifacts (curl). Forcing a strictly conservative scalar potential to match this unconstrained field creates a \"structural conflict\", which degrades generation quality and mode coverage. To solve this, we propose Projected Energy Matching, a scalable framework that resolves these structural and computational bottlenecks. We introduce Helmholtz Distillation, a structural relaxation that leverages a Hutchinson trace estimator to explicitly absorb rotational noise into an auxiliary residual network. We subsequently refine this landscape using Negative Caching, a memory-efficient strategy that reuses negative samples across micro-batches, rendering sampling tractable during contrastive training with gradient accumulation. We deploy our method as an unconditional prior for real-world medical CT inverse problems, specifically sparse-view reconstruction. Ultimately, our amortized pipeline reduces total compute to a small fraction of that required by standard energy matching, while achieving high-fidelity reconstructions and successfully resolving severe measurement artifacts."
-        },
-        {
-          "title": "Contravariance Theory: Strong Alignment for Minimal Solutions to Hard Tasks",
-          "url": "https://arxiv.org/abs/2607.08561",
-          "domain": "arxiv.org",
-          "date": "2026-07-10T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2607.08561v1 Announce Type: cross Abstract: A series of results from the NeuroAI over the past fifteen years have raised core questions both about how to compare Deep Neural Network (DNN) models to the brain, and about how much convergent evolution to expect between artificial networks and real brain networks. Here, we show that for any two minimal DNN solutions to a sufficiently hard task: (i) \"weak\" alignment of network representations based on affine mappings guarantees \"strong\" alignment of privileged axes, and (ii) alignment \"zippers\" up the network hierarchy, causing the emergence of privileged axes from end-to-end task optimization. These results formalize the notion of contravariance from Cao and Yamins [2024], and illustrate important consequences for the theory of NeuroAI: with sufficiently strong tasks, choice of metric for inter-network comparison is not all that sensitive, and that convergent evolution is probably inevitable."
+          "title": "New CRISPR method makes it possible to control protein production in cells",
+          "url": "https://phys.org/news/2026-07-crispr-method-protein-production-cells.html",
+          "domain": "phys.org",
+          "date": "2026-07-08T20:00:01.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "The speed at which a cell produces proteins is a decisive factor in determining whether it divides, specializes or retains its stem cell properties. A team of researchers led by Professor Stefan H. Stricker, professor of epigenetic engineering at LMU's Biomedical Center and research group leader at Helmholtz Munich, has worked with international partners to demonstrate directly for the first time that the amount of ribosomal RNA (rRNA) directly regulates these processes. Their results were published in the journal Science."
         }
       ]
     },
@@ -277,6 +277,46 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-11T04:13:13.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
+        {
+          "title": "Robinhood says its AI agent feature will ‘soon’ be assisting crypto traders",
+          "url": "https://cointelegraph.com/news/robinhood-says-ai-agents-will-be-trading-for-crypto-users-soon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-11T04:12:30.000Z",
+          "source": "CoinTelegraph",
+          "summary": "More than 70,000 agentic accounts have already been created by Robinhood equities and options traders since late May, when Robinhood launched a beta version of the product."
+        },
+        {
+          "title": "Housing bill that includes a CBDC ban passed into law without Trump’s signature",
+          "url": "https://www.theblock.co/post/406548/housing-bill-cbdc-ban-passed-into-law-without-trump-signature?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-11T04:08:36.000Z",
+          "source": "The Block",
+          "summary": "The 21st Century ROAD to Housing Act, which includes a provision that bans the Fed from issuing a CBDC, has become law."
+        },
+        {
+          "title": "Bitcoin analysts predict $300,000–$500,000 price in 2029. The math says no",
+          "url": "https://www.coindesk.com/markets/2026/07/10/bitcoin-analysts-predict-usd300-000-usd500-000-price-in-2029-the-math-says-no",
+          "domain": "coindesk.com",
+          "date": "2026-07-11T02:30:00.000Z",
+          "source": "CoinDesk",
+          "summary": "Analysts predict a rally to $300,000 or more by 2029. But key data suggests the era of moonshots may be over."
+        },
+        {
+          "title": "DOJ moves to dismiss charges against alleged $722M BitClub fraudster: Report",
+          "url": "https://cointelegraph.com/news/doj-to-dismiss-charges-against-alleged-722m-bitclub-crypto-fraudster-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-11T01:30:31.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Matthew Goettsche was set to face trial in October for conspiracy to commit wire fraud and selling unregistered securities."
+        },
         {
           "title": "Meta's Chief Data Officer Says Agentic Commerce is the \"Next Tier of Business\"",
           "url": "https://www.coindesk.com/coindesk-news/2026/07/10/meta-s-chief-data-officer-says-agentic-commerce-is-the-next-tier-of-business",
@@ -302,14 +342,6 @@
           "summary": "Five senators called for committee hearings to investigate US President Donald Trump’s policies potentially being influenced by crypto funding from United Arab Emirates-linked and other entities."
         },
         {
-          "title": "Here’s what happened in crypto today",
-          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-10T20:14:39.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-        },
-        {
           "title": "DOJ to drop charges against man accused in $722 million BitClub crypto Ponzi scheme: Bloomberg",
           "url": "https://www.theblock.co/post/407931/doj-drop-charges-against-man-accused-722-million-bitclub-crypto-ponzi-scheme-bloomberg?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
@@ -324,38 +356,6 @@
           "date": "2026-07-10T19:50:57.000Z",
           "source": "The Block",
           "summary": "Congress returns to Washington next week, ready to take up cryptocurrency legislation before the midterm election calendar takes over."
-        },
-        {
-          "title": "US CBDC ban to go into effect without Trump signoff on housing bill",
-          "url": "https://cointelegraph.com/news/us-cbdc-ban-donald-trump-housing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-10T19:33:03.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Donald Trump confirmed on social media that he would not sign the 21st Century ROAD to Housing Act, which includes a ban on a US CBDC until the end of 2030, setting the stage for the bill to become law on Saturday."
-        },
-        {
-          "title": "SK Hynix’s $26.5 billion US listing brought to Telegram users via xStocks",
-          "url": "https://www.theblock.co/post/407923/sk-hynixs-26-5-billion-us-listing-brought-to-telegram-users-via-xstocks?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-10T18:49:02.000Z",
-          "source": "The Block",
-          "summary": "Solana said that tokenized SK Hynix shares on SOL can be acquired through Backpack, xStocks and Ondo Finance."
-        },
-        {
-          "title": "New Hampshire council votes down $100M Bitcoin bonds",
-          "url": "https://cointelegraph.com/news/new-hampshire-votes-against-bitcoin-bonds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-10T17:23:10.000Z",
-          "source": "CoinTelegraph",
-          "summary": "State representative Keith Ammon said the New Hampshire executive council's vote against Bitcoin-backed bonds was “short-sighted,” urging the body to reconsider the measure."
-        },
-        {
-          "title": "Empery Digital offloads 1,400 bitcoins to help fund AI pivot, pay debt",
-          "url": "https://www.theblock.co/post/407900/empery-digital-offloads-1400-bitcoins-help-fund-ai-pivot-pay-debt?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-10T16:39:45.000Z",
-          "source": "The Block",
-          "summary": "Empery Digital used part of the proceeds for a 25% stake in an AI data center campus project."
         }
       ]
     }
