@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-11T12:30:35.138Z",
+  "updatedAt": "2026-07-11T14:05:37.050Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,12 +278,36 @@
       ],
       "articles": [
         {
-          "title": "Bitcoin treasury company Empery Digital sold about half of BTC stack",
+          "title": "Bitcoin nearing late stages of bear market: Jamie Coutts, Real Vision",
+          "url": "https://cointelegraph.com/features/bitcoin-is-approaching-the-second-half-of-the-bear-market-jamie-coutts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-11T13:30:00.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Real Vision chief crypto analyst Jamie Coutts said it's far too early to call $1 million by 2030, but he's confident Bitcoin could climb up to $250,000 over the next couple of years."
+        },
+        {
+          "title": "Ethereum climbs 3% on tokenization boom: Can bulls push ETH price past $1,800?",
+          "url": "https://cointelegraph.com/markets/ethereum-climbs-3-on-tokenization-boom-can-bulls-push-eth-price-past-1800?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-11T12:55:18.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Despite strong tokenization gains and institutional accumulation, weak onchain and derivatives data leaves ETH vulnerable to a $1,700 retest."
+        },
+        {
+          "title": "Bitcoin treasury company Empery Digital sold about half of its BTC stack",
           "url": "https://www.coindesk.com/markets/2026/07/11/bitcoin-treasury-company-empery-digital-sold-about-half-of-btc-stack",
           "domain": "coindesk.com",
           "date": "2026-07-11T12:25:05.000Z",
           "source": "CoinDesk",
           "summary": "It's a sign of the times as the troubled company swaps its bitcoin treasury ambitions for AI data centers."
+        },
+        {
+          "title": "AI found an Ethereum bug that could take validators offline, but humans had to prove it",
+          "url": "https://www.coindesk.com/tech/2026/07/10/ai-found-an-ethereum-bug-that-could-take-validators-offline-but-humans-had-to-prove-it",
+          "domain": "coindesk.com",
+          "date": "2026-07-11T12:00:00.000Z",
+          "source": "CoinDesk",
+          "summary": "The Ethereum Foundation pointed coordinated AI agents at the software its validators run and got a remotely triggerable crash out of it. It also got a pile of confident, well-written findings that were not bugs at all."
         },
         {
           "title": "Bonzo Lend loses $9M in oracle exploit on Hedera",
@@ -332,30 +356,6 @@
           "date": "2026-07-11T04:08:36.000Z",
           "source": "The Block",
           "summary": "The 21st Century ROAD to Housing Act, which includes a provision that bans the Fed from issuing a CBDC, has become law."
-        },
-        {
-          "title": "Bitcoin analysts predict $300,000–$500,000 price in 2029. The math says no",
-          "url": "https://www.coindesk.com/markets/2026/07/10/bitcoin-analysts-predict-usd300-000-usd500-000-price-in-2029-the-math-says-no",
-          "domain": "coindesk.com",
-          "date": "2026-07-11T02:30:00.000Z",
-          "source": "CoinDesk",
-          "summary": "Analysts predict a rally to $300,000 or more by 2029. But key data suggests the era of moonshots may be over."
-        },
-        {
-          "title": "DOJ moves to dismiss charges against alleged $722M BitClub fraudster: Report",
-          "url": "https://cointelegraph.com/news/doj-to-dismiss-charges-against-alleged-722m-bitclub-crypto-fraudster-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-11T01:30:31.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Matthew Goettsche was set to face trial in October for conspiracy to commit wire fraud and selling unregistered securities."
-        },
-        {
-          "title": "Meta's Chief Data Officer Says Agentic Commerce is the \"Next Tier of Business\"",
-          "url": "https://www.coindesk.com/coindesk-news/2026/07/10/meta-s-chief-data-officer-says-agentic-commerce-is-the-next-tier-of-business",
-          "domain": "coindesk.com",
-          "date": "2026-07-10T21:26:55.000Z",
-          "source": "CoinDesk",
-          "summary": "Alex Schultz says stablecoins are assumed inside Meta. The harder problem is getting the rest of the world there."
         }
       ]
     }
