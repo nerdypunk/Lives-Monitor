@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-11T14:05:37.050Z",
+  "updatedAt": "2026-07-11T15:17:04.130Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,6 +278,14 @@
       ],
       "articles": [
         {
+          "title": "The UK has finally shown it’s serious about crypto",
+          "url": "https://www.coindesk.com/opinion/2026/07/11/the-uk-has-finally-shown-it-s-serious-about-crypto",
+          "domain": "coindesk.com",
+          "date": "2026-07-11T15:00:00.000Z",
+          "source": "CoinDesk",
+          "summary": "Several recent regulatory steps indicate the UK might finally stop dragging its feet when it comes to crypto, argues Wirex CEO Chet Shah."
+        },
+        {
           "title": "Bitcoin nearing late stages of bear market: Jamie Coutts, Real Vision",
           "url": "https://cointelegraph.com/features/bitcoin-is-approaching-the-second-half-of-the-bear-market-jamie-coutts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
@@ -348,14 +356,6 @@
           "date": "2026-07-11T04:12:30.000Z",
           "source": "CoinTelegraph",
           "summary": "More than 70,000 agentic accounts have already been created by Robinhood equities and options traders since late May, when Robinhood launched a beta version of the product."
-        },
-        {
-          "title": "Housing bill that includes a CBDC ban passed into law without Trump’s signature",
-          "url": "https://www.theblock.co/post/406548/housing-bill-cbdc-ban-passed-into-law-without-trump-signature?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-11T04:08:36.000Z",
-          "source": "The Block",
-          "summary": "The 21st Century ROAD to Housing Act, which includes a provision that bans the Fed from issuing a CBDC, has become law."
         }
       ]
     }
