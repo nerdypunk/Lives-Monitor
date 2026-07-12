@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-12T08:54:51.637Z",
+  "updatedAt": "2026-07-12T10:37:10.658Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,6 +278,14 @@
       ],
       "articles": [
         {
+          "title": "Cambridge study puts Ethereum near the lower end of PoS energy intensity",
+          "url": "https://cointelegraph.com/news/ethereum-pos-energy-intensity-cambridge-study?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-12T09:18:17.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Cambridge estimated that Ethereum consumes 7.87 GWh annually and has the second-lowest market-value-adjusted energy intensity among the PoS networks studied."
+        },
+        {
           "title": "Bitcoin, ether little changed as U.S. launches fresh Iran strikes",
           "url": "https://www.coindesk.com/markets/2026/07/12/bitcoin-ether-little-changed-as-u-s-launches-fresh-iran-strikes",
           "domain": "coindesk.com",
@@ -348,14 +356,6 @@
           "date": "2026-07-11T17:07:24.000Z",
           "source": "CoinDesk",
           "summary": "Funding constraints and investor caution, not regulation, are delaying crypto IPOs, according to Cohen & Company Capital Markets' Christian Lopez."
-        },
-        {
-          "title": "Bitcoin, ether ETFs snap eight-week outflow streaks with $282 million combined inflow",
-          "url": "https://www.theblock.co/post/407957/bitcoin-ether-etfs-snap-eight-week-outflow-streaks-with-282-million-combined-inflow?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-11T15:19:15.000Z",
-          "source": "The Block",
-          "summary": "The preceding eight weeks drained a combined $9.46 billion from the two groups, meaning this week’s rebound recovered only about 3% of those outflows."
         }
       ]
     }
