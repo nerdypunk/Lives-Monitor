@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-12T22:55:32.559Z",
+  "updatedAt": "2026-07-12T23:59:15.113Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,6 +278,14 @@
       ],
       "articles": [
         {
+          "title": "Robinhood L2 sparks ETH optimism, Saylor 'muddies waters.' Hodler's Digest, July 5-12, 2026",
+          "url": "https://cointelegraph.com/features/ethereum-climbs-as-robinhood-l2-takes-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-12T23:24:26.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Even Ethereum's critics believe Robinhood Chain is bullish for ETH. Nigel Farage and Donald Trump become embroiled in crypto related scandals, and more."
+        },
+        {
           "title": "Crypto fatwa sparks debate over Pakistan’s digital asset framework",
           "url": "https://www.theblock.co/post/407969/crypto-fatwa-sparks-debate-over-pakistans-digital-asset-framework?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
@@ -348,14 +356,6 @@
           "date": "2026-07-12T06:18:15.000Z",
           "source": "CoinDesk",
           "summary": "The U.S. hit Iran for the third time this week and Tehran has reportedly closed the Strait of Hormuz again."
-        },
-        {
-          "title": "Ripple once weighed shutting down and handing XRP to shareholders, CEO says",
-          "url": "https://www.coindesk.com/markets/2026/07/12/ripple-once-weighed-shutting-down-and-handing-xrp-to-shareholders-ceo-says",
-          "domain": "coindesk.com",
-          "date": "2026-07-12T06:09:49.000Z",
-          "source": "CoinDesk",
-          "summary": "Ripple's Brad Garlinghouse says he and co-founder Chris Larsen considered winding the company down and handing its XRP to shareholders before deciding to fight the 2020 lawsuit."
         }
       ]
     }
