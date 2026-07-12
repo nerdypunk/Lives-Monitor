@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-12T03:47:03.181Z",
+  "updatedAt": "2026-07-12T06:37:15.549Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -20,17 +20,9 @@
           "title": "Bio Protocol develops AI agents to enhance decentralized science operations - Crypto Briefing",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mZGlhbTNwdWQ4dTdRZ1lHYmRVVEx2VWE0Q2h3Rzh5dXlIUFhiRTBoM0Z1Uk5DUzRqcThTMGtUbjI5aGNwTWVyRzdPeWo1Uk90RjFDMnl4VkN4N1FqRjNSNWRuNHZPaGs?oc=5",
           "domain": "cryptobriefing.com",
-          "date": "2026-07-02T02:53:43.000Z",
+          "date": "2026-07-01T07:00:00.000Z",
           "source": "Crypto Briefing",
           "summary": "Bio Protocol develops AI agents to enhance decentralized science operations &nbsp;&nbsp; Crypto Briefing"
-        },
-        {
-          "title": "️DeSci Atoms Market Update 29 June 2026 MarketCap 24hrs Top - KuCoin",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1MaHJDaV83SHcwV2pYX21TUEtaaE1jMjFBdGZVUFlSS0Jrdkd2aXJSclV2Z0Vjb3BpNk9PNEFITXpmZFZNMHBUTXdBV1ZpWldmZUswa0hZWlB5RHBDWlZ5T1VHa1BNdDJHbGpaUHhVYW1YeVll?oc=5",
-          "domain": "kucoin.com",
-          "date": "2026-06-28T07:00:00.000Z",
-          "source": "KuCoin",
-          "summary": "️DeSci Atoms Market Update 29 June 2026 MarketCap 24hrs Top &nbsp;&nbsp; KuCoin"
         },
         {
           "title": "Bio Protocol launches AI research hub to challenge grant gatekeepers - Crypto News",
@@ -87,6 +79,14 @@
           "date": "2026-05-15T07:00:00.000Z",
           "source": "Coinpedia",
           "summary": "PEPTAI Price Swings Wild As Base Integration Fuels DeSci Hype &nbsp;&nbsp; Coinpedia"
+        },
+        {
+          "title": "DeSci Has Raised Millions For Research No VC Would Ever Touch - Yellow.com",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQzAtQWJmSEtGX1pXdWVOR0RsRnhXWGp4S2VYUEhXREJiM1ljR01reDZfS1hwU0g3eTMzaFdOdnVJb3l2R2lNdmdCVEhuUWExYjB0VTNReUIwUlRxTjhrdmlCV1d5R3VXbGtRWFp3eGQ0VTV0SjhZdGpNOGV2dDNYcnVodm9PWWJHYlE?oc=5",
+          "domain": "yellow.com",
+          "date": "2026-05-04T06:44:54.000Z",
+          "source": "Yellow.com",
+          "summary": "DeSci Has Raised Millions For Research No VC Would Ever Touch &nbsp;&nbsp; Yellow.com"
         }
       ]
     },
@@ -278,7 +278,47 @@
       ],
       "articles": [
         {
-          "title": "Empery Digital shares rise after selling Bitcoin treasury to fund AI data center project",
+          "title": "Bitcoin, ether little changed as U.S. launches fresh Iran strikes",
+          "url": "https://www.coindesk.com/markets/2026/07/12/bitcoin-ether-little-changed-as-u-s-launches-fresh-iran-strikes",
+          "domain": "coindesk.com",
+          "date": "2026-07-12T06:18:15.000Z",
+          "source": "CoinDesk",
+          "summary": "The U.S. hit Iran for the third time this week and Tehran has reportedly closed the Strait of Hormuz again."
+        },
+        {
+          "title": "Ripple once weighed shutting down and handing XRP to shareholders, CEO says",
+          "url": "https://www.coindesk.com/markets/2026/07/12/ripple-once-weighed-shutting-down-and-handing-xrp-to-shareholders-ceo-says",
+          "domain": "coindesk.com",
+          "date": "2026-07-12T06:09:49.000Z",
+          "source": "CoinDesk",
+          "summary": "Ripple's Brad Garlinghouse says he and co-founder Chris Larsen considered winding the company down and handing its XRP to shareholders before deciding to fight the 2020 lawsuit."
+        },
+        {
+          "title": "Bitcoin’s BIP 110 fork deadline nears with miner support at zero",
+          "url": "https://www.coindesk.com/tech/2026/07/12/bitcoin-s-bip-110-fork-deadline-nears-with-miner-support-at-zero",
+          "domain": "coindesk.com",
+          "date": "2026-07-12T05:49:52.000Z",
+          "source": "CoinDesk",
+          "summary": "The BIP 110 proposal would cap arbitrary data on Bitcoin for a year, but Saylor, Adam Back and others say turning a spam dispute into a consensus fight could create a bigger risk than the spam itself."
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-12T04:24:58.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
+        {
+          "title": "Bitcoin bulls Michael Saylor, Adam Back slam BIP-110 Ordinals proposal",
+          "url": "https://cointelegraph.com/news/bitcoin-leaders-michael-saylor-and-adam-back-rebuff-bip-110-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-12T04:24:36.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The ongoing debate comes despite a broad downturn in Ordinals transaction activity over the last two years."
+        },
+        {
+          "title": "Empery Digital shares rise after selling Bitcoin to fund AI data center project",
           "url": "https://cointelegraph.com/news/empery-digital-shares-rise-after-selling-bitcoin-treasury-to-fund-ai-data-center-project?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
           "date": "2026-07-12T01:00:54.000Z",
@@ -316,46 +356,6 @@
           "date": "2026-07-11T15:19:15.000Z",
           "source": "The Block",
           "summary": "The preceding eight weeks drained a combined $9.46 billion from the two groups, meaning this week’s rebound recovered only about 3% of those outflows."
-        },
-        {
-          "title": "The UK has finally shown it’s serious about crypto",
-          "url": "https://www.coindesk.com/opinion/2026/07/11/the-uk-has-finally-shown-it-s-serious-about-crypto",
-          "domain": "coindesk.com",
-          "date": "2026-07-11T15:00:00.000Z",
-          "source": "CoinDesk",
-          "summary": "Several recent regulatory steps indicate the UK might finally stop dragging its feet when it comes to crypto, argues Wirex CEO Chet Shah."
-        },
-        {
-          "title": "Bitcoin nearing late stages of bear market: Jamie Coutts, Real Vision",
-          "url": "https://cointelegraph.com/features/bitcoin-is-approaching-the-second-half-of-the-bear-market-jamie-coutts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-11T13:30:00.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Real Vision chief crypto analyst Jamie Coutts said it's far too early to call $1 million by 2030, but he's confident Bitcoin could climb up to $250,000 over the next couple of years."
-        },
-        {
-          "title": "Ethereum climbs 3% on tokenization boom: Can bulls push ETH price past $1,800?",
-          "url": "https://cointelegraph.com/markets/ethereum-climbs-3-on-tokenization-boom-can-bulls-push-eth-price-past-1800?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-11T12:55:18.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Despite strong tokenization gains and institutional accumulation, weak onchain and derivatives data leaves ETH vulnerable to a $1,700 retest."
-        },
-        {
-          "title": "Bitcoin treasury company Empery Digital sold about half of its BTC stack",
-          "url": "https://www.coindesk.com/markets/2026/07/11/bitcoin-treasury-company-empery-digital-sold-about-half-of-btc-stack",
-          "domain": "coindesk.com",
-          "date": "2026-07-11T12:25:05.000Z",
-          "source": "CoinDesk",
-          "summary": "It's a sign of the times as the troubled company swaps its bitcoin treasury ambitions for AI data centers."
-        },
-        {
-          "title": "AI found an Ethereum bug that could take validators offline, but humans had to prove it",
-          "url": "https://www.coindesk.com/tech/2026/07/10/ai-found-an-ethereum-bug-that-could-take-validators-offline-but-humans-had-to-prove-it",
-          "domain": "coindesk.com",
-          "date": "2026-07-11T12:00:00.000Z",
-          "source": "CoinDesk",
-          "summary": "The Ethereum Foundation pointed coordinated AI agents at the software its validators run and got a remotely triggerable crash out of it. It also got a pile of confident, well-written findings that were not bugs at all."
         }
       ]
     }
