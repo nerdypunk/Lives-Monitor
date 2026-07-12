@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-12T10:37:10.658Z",
+  "updatedAt": "2026-07-12T11:44:39.762Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,6 +278,14 @@
       ],
       "articles": [
         {
+          "title": "Bitcoin is nearing a power law support line Fidelity has tracked since 2015",
+          "url": "https://www.coindesk.com/markets/2026/07/12/bitcoin-is-nearing-a-power-law-support-line-fidelity-has-tracked-since-2015",
+          "domain": "coindesk.com",
+          "date": "2026-07-12T11:30:00.000Z",
+          "source": "CoinDesk",
+          "summary": "The group's Dir. of Global Macro Jurien Timmer calls it an accumulation zone but notes the lack of a catalyst to bounce yet."
+        },
+        {
           "title": "Cambridge study puts Ethereum near the lower end of PoS energy intensity",
           "url": "https://cointelegraph.com/news/ethereum-pos-energy-intensity-cambridge-study?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
@@ -348,14 +356,6 @@
           "date": "2026-07-11T18:06:58.000Z",
           "source": "CoinDesk",
           "summary": "Bonzo Lend lost approximately $9.05 million after an attacker exploited a verification flaw in a third-party Supra oracle contract on the Hedera network."
-        },
-        {
-          "title": "Crypto IPO market stalls as capital rotates to AI and macro uncertainty weighs",
-          "url": "https://www.coindesk.com/business/2026/07/08/crypto-ipo-market-stalls-as-capital-rotates-to-ai-and-macro-uncertainty-weighs",
-          "domain": "coindesk.com",
-          "date": "2026-07-11T17:07:24.000Z",
-          "source": "CoinDesk",
-          "summary": "Funding constraints and investor caution, not regulation, are delaying crypto IPOs, according to Cohen & Company Capital Markets' Christian Lopez."
         }
       ]
     }
