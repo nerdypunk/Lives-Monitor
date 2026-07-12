@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-12T14:16:48.189Z",
+  "updatedAt": "2026-07-12T15:34:47.698Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -305,9 +305,9 @@
           "title": "Cambridge study puts Ethereum near the lower end of PoS energy intensity",
           "url": "https://cointelegraph.com/news/ethereum-pos-energy-intensity-cambridge-study?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-07-12T09:18:17.000Z",
+          "date": "2026-07-12T09:29:00.000Z",
           "source": "CoinTelegraph",
-          "summary": "Cambridge estimated that Ethereum consumes 7.87 GWh annually and has the second-lowest market-value-adjusted energy intensity among the PoS networks studied."
+          "summary": "Cambridge estimated that Ethereum consumes 7.87 GWh annually and has the second-lowest market-value-adjusted energy intensity among the proof-of-stake networks studied."
         },
         {
           "title": "Bitcoin, ether little changed as U.S. launches fresh Iran strikes",
@@ -334,20 +334,20 @@
           "summary": "The BIP 110 proposal would cap arbitrary data on Bitcoin for a year, but Saylor, Adam Back and others say turning a spam dispute into a consensus fight could create a bigger risk than the spam itself."
         },
         {
+          "title": "Bitcoin bulls Michael Saylor, Adam Back slam BIP-110 Ordinals proposal",
+          "url": "https://cointelegraph.com/news/bitcoin-leaders-michael-saylor-and-adam-back-rebuff-bip-110-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-12T04:28:00.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The ongoing debate over a proposed temporary fork comes despite a broad downturn in Ordinals transaction activity over the last two years."
+        },
+        {
           "title": "Here’s what happened in crypto today",
           "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
           "date": "2026-07-12T04:24:58.000Z",
           "source": "CoinTelegraph",
           "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-        },
-        {
-          "title": "Bitcoin bulls Michael Saylor, Adam Back slam BIP-110 Ordinals proposal",
-          "url": "https://cointelegraph.com/news/bitcoin-leaders-michael-saylor-and-adam-back-rebuff-bip-110-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-12T04:24:36.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The ongoing debate comes despite a broad downturn in Ordinals transaction activity over the last two years."
         },
         {
           "title": "Empery Digital shares rise after selling Bitcoin to fund AI data center project",
