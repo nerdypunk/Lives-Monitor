@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-13T22:04:03.688Z",
+  "updatedAt": "2026-07-13T23:14:22.641Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,6 +278,14 @@
       ],
       "articles": [
         {
+          "title": "Bitcoin and Ethereum tweet volume falls to 12-month lows despite institutional crypto boom",
+          "url": "https://www.theblock.co/post/408061/bitcoin-ethereum-tweet-volume-falls-12-month-lows-despite-institutional-crypto-boom?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-13T22:06:02.000Z",
+          "source": "The Block",
+          "summary": "Retail attention via social chatter is back to 2020 levels even as institutional involvement has moved in the opposite direction."
+        },
+        {
           "title": "Global law firm launches MiCA compliance tool as crypto companies navigate new EU rules",
           "url": "https://cointelegraph.com/news/global-law-firm-mica-compliance-tool-crypto-companies-navigate-new-eu-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
@@ -348,14 +356,6 @@
           "date": "2026-07-13T17:49:10.000Z",
           "source": "CoinDesk",
           "summary": "Discussion among Democrats have fixed on the president's personal gains when hashing out the crypto market structure bill's ethics provision."
-        },
-        {
-          "title": "Bolivia mulls recognizing USDT as payment currency amid dollar shortage",
-          "url": "https://cointelegraph.com/news/bolivia-weighs-usdt-payment-currency-amid-dollar-shortage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-13T17:20:51.000Z",
-          "source": "CoinTelegraph",
-          "summary": "As foreign currency reserves remain under pressure, Bolivia is considering a framework to let the world’s largest stablecoin be used for payments, savings and trade."
         }
       ]
     }
