@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-13T21:00:12.591Z",
+  "updatedAt": "2026-07-13T22:04:03.688Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,6 +278,14 @@
       ],
       "articles": [
         {
+          "title": "Global law firm launches MiCA compliance tool as crypto companies navigate new EU rules",
+          "url": "https://cointelegraph.com/news/global-law-firm-mica-compliance-tool-crypto-companies-navigate-new-eu-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-13T21:40:32.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Reed Smith’s Aquarius platform automates regulatory filings and legal workflows as demand for MiCA compliance tools grows across Europe."
+        },
+        {
           "title": "Hyperliquid’s HIP-3 markets surge to nearly 50% of perp volume as onchain stock trading grows",
           "url": "https://www.theblock.co/post/408064/hyperliquid-hip-3-markets-surge-50-perp-volume-onchain-stock-trading-grows?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
@@ -348,14 +356,6 @@
           "date": "2026-07-13T17:20:51.000Z",
           "source": "CoinTelegraph",
           "summary": "As foreign currency reserves remain under pressure, Bolivia is considering a framework to let the world’s largest stablecoin be used for payments, savings and trade."
-        },
-        {
-          "title": "Onchain Pokémon cards come to Solana-based DEX Jupiter",
-          "url": "https://www.theblock.co/post/408059/onchain-pokemon-cards-come-to-solana-based-dex-jupiter?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-13T16:56:34.000Z",
-          "source": "The Block",
-          "summary": "While tokenized Pokémon cards aren’t new, having Jupiter enter the space could give the whole category a legitimacy boost."
         }
       ]
     }
