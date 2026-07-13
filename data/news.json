@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-13T19:50:06.119Z",
+  "updatedAt": "2026-07-13T21:00:12.591Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,6 +278,30 @@
       ],
       "articles": [
         {
+          "title": "Hyperliquid’s HIP-3 markets surge to nearly 50% of perp volume as onchain stock trading grows",
+          "url": "https://www.theblock.co/post/408064/hyperliquid-hip-3-markets-surge-50-perp-volume-onchain-stock-trading-grows?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-13T20:33:47.000Z",
+          "source": "The Block",
+          "summary": "HIP-3's share of total Hyperliquid perp volume has climbed from roughly 2% at the start of the year to around 50% now."
+        },
+        {
+          "title": "Binance.US CEO says exchange is rebuilding, eyes return to 20% U.S. market share",
+          "url": "https://www.coindesk.com/coindesk-news/2026/07/13/binance-us-ceo-says-exchange-is-rebuilding-eyes-return-to-20-u-s-market-share",
+          "domain": "coindesk.com",
+          "date": "2026-07-13T20:27:47.000Z",
+          "source": "CoinDesk",
+          "summary": "Binance.US is betting ultra-low fees, new regulated products and deeper liquidity will help it regain customers after two years of regulatory setbacks."
+        },
+        {
+          "title": "Franklin Crypto CIO says crypto prices are disconnected from fundamentals",
+          "url": "https://www.coindesk.com/markets/2026/07/13/franklin-crypto-cio-says-crypto-prices-are-disconnected-from-fundamentals",
+          "domain": "coindesk.com",
+          "date": "2026-07-13T20:15:29.000Z",
+          "source": "CoinDesk",
+          "summary": "Institutional adoption of crypto is accelerating even as digital asset prices fail to reflect the industry's strongest fundamentals in years, Seth Ginns said."
+        },
+        {
           "title": "TeraWulf CEO: 'Not All Megawatts Are Created Equally' in AI Race",
           "url": "https://www.coindesk.com/coindesk-news/2026/07/13/terawulf-ceo-not-all-megawatts-are-created-equally-in-ai-race",
           "domain": "coindesk.com",
@@ -332,30 +356,6 @@
           "date": "2026-07-13T16:56:34.000Z",
           "source": "The Block",
           "summary": "While tokenized Pokémon cards aren’t new, having Jupiter enter the space could give the whole category a legitimacy boost."
-        },
-        {
-          "title": "Hyundai completes USDT treasury settlement pilot between US and Mexico",
-          "url": "https://cointelegraph.com/news/hyundai-completes-usdt-treasury-settlement-pilot-between-us-and-mexico?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-13T16:45:16.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Hyundai completed a proof-of-concept using Tether's USDT to settle a cross-border treasury transfer between its US and Mexican subsidiaries, highlighting growing enterprise interest in stablecoin-based payments."
-        },
-        {
-          "title": "UK lays out tokenized finance roadmap with projected £33 billion annual boost",
-          "url": "https://www.theblock.co/post/408046/uk-lays-out-tokenized-finance-roadmap-projected-33-billion-annual-boost?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-13T16:42:36.000Z",
-          "source": "The Block",
-          "summary": "Industry leaders say payment infrastructure must evolve alongside tokenized assets to enable real-time settlement."
-        },
-        {
-          "title": "Mizuho says Circle bank approval doesn't solve USDC growth, stablecoin competition risks",
-          "url": "https://www.coindesk.com/business/2026/07/13/mizuho-says-circle-bank-approval-doesn-t-solve-usdc-growth-stablecoin-competition-risks",
-          "domain": "coindesk.com",
-          "date": "2026-07-13T16:34:48.000Z",
-          "source": "CoinDesk",
-          "summary": "Japanese investment bank Mizuho reiterated its neutral rating on Circle, saying OCC approval for a national trust bank doesn't address slowing USDC growth or rising competition."
         }
       ]
     }
