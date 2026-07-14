@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-14T10:18:07.908Z",
+  "updatedAt": "2026-07-14T11:55:58.462Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -188,6 +188,22 @@
       ],
       "articles": [
         {
+          "title": "First-of-its-kind surgery performed on western lowland gorilla at the San Diego Zoo Safari Park",
+          "url": "https://phys.org/news/2026-07-kind-surgery-western-lowland-gorilla.html",
+          "domain": "phys.org",
+          "date": "2026-07-14T11:00:04.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Mizani, a 12-year-old male western lowland gorilla at the San Diego Zoo Safari Park, underwent a first-of-its-kind mastoidectomy to treat an infection that had spread into portions of his skull. The surgery was performed by a multidisciplinary team of wildlife health experts from the San Diego Zoo Safari Park and surgeons from UC San Diego Health."
+        },
+        {
+          "title": "Research brings the era of microbial cell factories one step closer",
+          "url": "https://phys.org/news/2026-07-era-microbial-cell-factories-closer.html",
+          "domain": "phys.org",
+          "date": "2026-07-14T10:35:14.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "The era of \"biomanufacturing,\" in which microbes, not petroleum, produce chemical products, is one step closer. A KAIST research team has analyzed the key challenges limiting the commercialization of biomanufacturing and proposed an AI-driven strategy for industrialization."
+        },
+        {
           "title": "Longitudinal MRI template of the baboon brain from birth to adolescence",
           "url": "https://arxiv.org/abs/2607.09746",
           "domain": "arxiv.org",
@@ -250,22 +266,6 @@
           "date": "2026-07-14T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2607.11011v1 Announce Type: new Abstract: Tumor evolution is shaped by cell division, cell death, competition, and constraints imposed by the local microenvironment. Because these dynamics are usually not observed directly, phylogenetic trees inferred from somatic variation in sampled tumor cells can provide an indirect record of the population history that produced the sample. In this paper, we examine whether the distribution of inferred internal branching times exhibits signatures that depend on the underlying tumor growth regime. Specifically, we study the distribution of internal branching times in continuous-time birth-death models of tumor evolution. Exponentially growing populations exhibit a unimodal distribution of internal branching times, with the mode located near the root. In contrast, logistic growth, which models expansion constrained by carrying capacity, yields a substantially more intricate genealogical structure: the distribution of branching times undergoes a systematic transition as the time elapsed since tumor initiation increases. Specifically, this progression shifts from an expansion-dominated phase, through an intermediate early-recent bimodal phase, to a final recent-dominated phase. Extensive simulations of reconstructed tumor genealogies support these theoretical findings."
-        },
-        {
-          "title": "Stochastic individual-bases models",
-          "url": "https://arxiv.org/abs/2607.11520",
-          "domain": "arxiv.org",
-          "date": "2026-07-14T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2607.11520v1 Announce Type: new Abstract: These are lecture notes for an advanced topics course in the master's programme at Bonn University. It aims to give a concise review of some of the work that has been done around the topic of adaptive dynamics from a rigorous stochastic point of view over the last 25 years and to make this area accessible to students with a good knowledge of probability in general, and the theory of Markov processes in particular. Our emphasis is on the issue of emerging scaling limits, where scaling parameters are time, population size, mutation rates, and mutation step size. These allow to exhibit within a fairly simple class of models a variety of biologically relevant phenomena. These notes are organised in three parts. Part 1 presents some historical background as well as the mathematical setting and main tools. Part 2 is the core of the notes and discusses the various scaling regimes and scaling limits. Part 3 looks at some extensions on the basic model, notably diploid models, phenotypic plasticity, and effects of environmental changes over time."
-        },
-        {
-          "title": "Introducing entropy measures to PK/PD models in propofol anesthesia as a replacement of BIS",
-          "url": "https://arxiv.org/abs/2607.11535",
-          "domain": "arxiv.org",
-          "date": "2026-07-14T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2607.11535v1 Announce Type: new Abstract: Depth of anesthesia is a complex but important vital state to analyze during a surgery or other procedure. One parameter to estimate this state is the bispectral index (BIS), a value ranging from 0 to 100 with a target of 40 to 60 for a stable state during surgery, which is based on the electroencephalogram (EEG). Despite its widespread clinical use, the BIS remains the subject of ongoing discussion as the exact algorithm underlying the BIS is not publicly disclosed, motivating the search for alternative EEG-based indices. In this publication, two entropy-based EEG measures, Permutation Entropy (PeEn) and Entropy of Difference (EoD) are investigated as potential alternatives to replace the BIS for anesthesia monitoring. Both measures quantify the complexity and irregularity of EEG signals and have previously been proposed as indicators of changes in consciousness and anesthetic depth. Their performance is evaluated by comparing with the simulated BIS values generated using the pharmacokinetic/pharmacodynamic (PK/PD) models, proposed by Marsh, Schnider and Eleveld. For each model, the root mean squared error (RMSE) between the simulated BIS and the recorded BIS, PeEn, or EoD is calculated, respectively. Statistical analysis using the Wilcoxon rank-sum test reveal no significant differences between the median RMSE values of the simulated BIS, PeEn, and EoD across the investigated PK/PD models. These results suggest that PeEn and EoD provide performance comparable to that of the simulated BIS, indicating that they may represent promising EEG-based indicators for monitoring depth of anesthesia."
         }
       ]
     },
@@ -278,84 +278,84 @@
       ],
       "articles": [
         {
-          "title": "Hobby-level miner bags $200K solo BTC block with budget Bitaxe rig",
-          "url": "https://cointelegraph.com/news/solo-bitcoin-miner-200k-block-budget-bitaxe-rig?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "ABA, state banking groups push back on CLARITY Act stablecoin yield provisions",
+          "url": "https://cointelegraph.com/news/aba-banking-associations-clarity-act-yield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-07-14T10:06:47.000Z",
+          "date": "2026-07-14T11:40:00.000Z",
           "source": "CoinTelegraph",
-          "summary": "A solo Bitcoin miner secured a $200,000 block reward with a budget mining rig, pushing payouts to hobby-level miners to $4.7 million for the past year."
+          "summary": "ABA and state banking associations published a joint letter calling for more detail on the CLARITY Act’s stablecoin yield provisions, ahead of the bill’s House hearing on July 17."
         },
         {
-          "title": "Former LASD deputy jailed for obstructing crypto ‘mogul’ Adam Iza extortion probe",
-          "url": "https://www.theblock.co/post/408193/former-lasd-deputy-jailed-for-obstructing-crypto-mogul-adam-iza-extortion-probe?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-14T09:55:02.000Z",
-          "source": "The Block",
-          "summary": "A former LASD deputy was sentenced to 18 months in federal prison for lying about an Adam Iza extortion incident."
-        },
-        {
-          "title": "Bitcoin bear market will bottom when two-month RSI metric hits zero, trader predicts",
-          "url": "https://cointelegraph.com/markets/bitcoin-bear-market-will-bottom-when-two-month-rsi-metric-hits-zero-trader-predicts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "Solana community lead enters UK by-election with onchain transparency pitch",
+          "url": "https://cointelegraph.com/news/solana-community-lead-uk-by-election-pension-self-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-07-14T09:54:58.000Z",
+          "date": "2026-07-14T11:34:13.000Z",
           "source": "CoinTelegraph",
-          "summary": "Bitcoin RSI continued to copy previous bear markets as a trader predicted that historical BTC price bottom signals would \"happen again\" in 2026."
+          "summary": "Superteam UK lead Stephen “Cap” Newnham is taking on Nigel Farage in the Clacton by-election with pledges on pension reform and onchain transparency."
         },
         {
-          "title": "South Korea maintains blockchain economy push as AI takes center stage",
-          "url": "https://www.theblock.co/post/408180/south-korea-blockchain-economy-h2-2026?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-14T08:51:22.000Z",
-          "source": "The Block",
-          "summary": "Plans include the enactment of the Digital Asset Basic Act and advancement of a CBDC project linked to the tokenization of government bonds."
-        },
-        {
-          "title": "South Korea to test tokenized government bonds with CBDC in 2027",
-          "url": "https://cointelegraph.com/news/south-korea-tokenized-government-bonds-cbdc-pilot-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "ECB picks 36 payment providers to test digital euro ahead of 2027 pilot",
+          "url": "https://cointelegraph.com/news/ecb-36-payment-providers-digital-euro-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-07-14T08:44:06.000Z",
+          "date": "2026-07-14T11:16:38.000Z",
           "source": "CoinTelegraph",
-          "summary": "South Korea will test tokenized government bonds linked to the Bank of Korea’s wholesale CBDC system in 2027 as token securities rules take effect."
+          "summary": "The European Central Bank will beta test a digital euro with 36 providers, including Revolut, after the project drew more than 50 applications."
         },
         {
-          "title": "US banking groups urge Senate to strengthen stablecoin provisions in Clarity Act",
-          "url": "https://www.theblock.co/post/408144/us-banking-groups-urge-stablecoin-provisions-clarity-act?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-14T08:32:49.000Z",
-          "source": "The Block",
-          "summary": "The groups warned that the current bill could allow stablecoins to substitute for bank deposits and increase the risk of deposit flight from community banks."
-        },
-        {
-          "title": "US spot Bitcoin ETFs post $425M outflow after brief rebound",
-          "url": "https://cointelegraph.com/news/bitcoin-etf-425-million-daily-outflow-inflows-reverse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-14T08:24:31.000Z",
-          "source": "CoinTelegraph",
-          "summary": "US spot Bitcoin ETFs saw their largest single-day outflows in July, with $424.66 million leaving the funds, reversing a brief return to positive weekly flows."
-        },
-        {
-          "title": "Live updates: Bitcoin holds $62,600 as the Iran conflict reignites and CPI looms",
-          "url": "https://www.coindesk.com/business/2026/07/14/live-updates-bitcoin-holds-usd62-600-as-the-iran-conflict-reignites-and-cpi-looms",
+          "title": "U.S.-Iran escalation weighs on bitcoin, stocks as oil climbs",
+          "url": "https://www.coindesk.com/daybook-us/2026/07/14/u-s-iran-escalation-weighs-on-bitcoin-stocks-as-oil-climbs",
           "domain": "coindesk.com",
-          "date": "2026-07-14T06:55:24.000Z",
+          "date": "2026-07-14T11:15:06.000Z",
           "source": "CoinDesk",
-          "summary": "Trump reinstated the Hormuz blockade, sending oil higher and rate-hike bets up, reversing the peace trade that helped bitcoin recover in early July. Today's inflation print is the next test."
+          "summary": "Your day-ahead look for July 14, 2026"
         },
         {
-          "title": "What Is RLUSD? Ripple’s XRP-Native Stablecoin Explained",
-          "url": "https://www.theblock.co/learn/408170/what-is-rlusd?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-14T06:53:47.000Z",
-          "source": "The Block",
-          "summary": "RLUSD is a regulated stablecoin issued by Ripple Labs — the firm behind the XRP blockchain — designed to maintain a steady value of one U.S. dollar per token. Each RLUSD is backed one-to-one by a reserve of cash, short-term U.S. Treasury bills, and other cash equivalents, and is redeemable for U.S. dollars by approved [&hellip;]"
-        },
-        {
-          "title": "U.S. government moves $288 million in seized bitcoin, ether to Coinbase Prime",
-          "url": "https://www.coindesk.com/markets/2026/07/14/u-s-government-moves-usd288-million-in-seized-bitcoin-ether-to-coinbase-prime",
+          "title": "Bitcoin's BIP-110 sparked a fight over who gets to decide the future of Bitcoin",
+          "url": "https://www.coindesk.com/tech/2026/07/14/bitcoin-s-bip-110-sparked-a-fight-over-who-gets-to-decide-the-future-of-bitcoin",
           "domain": "coindesk.com",
-          "date": "2026-07-14T06:28:43.000Z",
+          "date": "2026-07-14T11:01:16.000Z",
           "source": "CoinDesk",
-          "summary": "Coins from the Farace and BTC-e seizures moved through fresh wallets before landing on the exchange, despite president Donald Trump's previous no-sell reserve order."
+          "summary": "BIP-110 sought to limit non-financial data on Bitcoin's blockchain but instead reignited debates over censorship and decentralization."
+        },
+        {
+          "title": "Prediction markets just crushed traditional sportsbooks in a massive $50 billion World Cup breakout",
+          "url": "https://www.coindesk.com/business/2026/07/14/prediction-markets-just-crushed-traditional-sportsbooks-in-a-massive-usd50-billion-world-cup-breakout",
+          "domain": "coindesk.com",
+          "date": "2026-07-14T11:00:00.000Z",
+          "source": "CoinDesk",
+          "summary": "Prediction markets just topped $50 billion in monthly volume, capping off the first month of the 2026 FIFA World Cup."
+        },
+        {
+          "title": "UK HMRC adopts ‘no gain, no loss’ tax treatment for crypto lending, liquidity pools",
+          "url": "https://www.theblock.co/post/408206/uk-hmrc-adopts-no-gain-no-loss-tax-treatment-for-crypto-lending-liquidity-pools?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-14T10:59:02.000Z",
+          "source": "The Block",
+          "summary": "HMRC adopts \"no gain, no loss\" treatment for certain crypto loans and liquidity pool transactions, deferring CGT until economic disposal."
+        },
+        {
+          "title": "Bitcoin’s great rotation: Long-term holders pass supply to a new generation of buyers",
+          "url": "https://www.coindesk.com/markets/2026/07/14/bitcoin-s-great-rotation-long-term-holders-pass-supply-to-a-new-generation-of-buyers",
+          "domain": "coindesk.com",
+          "date": "2026-07-14T10:46:42.000Z",
+          "source": "CoinDesk",
+          "summary": "Long-term holders are quietly transferring supply to a new generation of buyers, but looming Federal Reserve rate hikes could still trigger the capitulation markets have been waiting for."
+        },
+        {
+          "title": "AI has not triggered DeFi ‘hackpocalypse,’ Dragonfly partner says",
+          "url": "https://cointelegraph.com/news/dragonfly-defi-ai-hackpocalypse-fears?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-14T10:39:13.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Total value stolen and median hack size are declining compared to 2025, signaling that the AI hacking apocalypse was a false alarm, argued Dragonfly managing partner Haseeb Qureshi."
+        },
+        {
+          "title": "Bitcoin steadies at $62,600 as South Koreans flee stocks rout for crypto",
+          "url": "https://www.coindesk.com/markets/2026/07/14/bitcoin-steadies-at-usd62-600-as-south-koreans-flee-stocks-rout-for-crypto",
+          "domain": "coindesk.com",
+          "date": "2026-07-14T10:39:03.000Z",
+          "source": "CoinDesk",
+          "summary": "Bitcoin consolidated after Monday's selloff as Donald Trump threatened more Iran strikes, gold extended its slide and a KOSPI index meltdown sent South Korean crypto volumes soaring."
         }
       ]
     }
