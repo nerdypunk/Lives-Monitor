@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-15T18:46:45.584Z",
+  "updatedAt": "2026-07-15T20:13:25.855Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -103,7 +103,7 @@
           "domain": "lifespan.io",
           "date": "2026-07-15T17:08:51.000Z",
           "source": "Lifespan.io",
-          "summary": "Today, Forever Healthy announces the launch of a set of new tools to make it easier than ever for AI agents, research pipelines, and AI environments […]"
+          "summary": "Today, Forever Healthy announces the launch of a set of new tools to make it easier than ever for AI agents, research pipelines, and AI environments to integrate Evipedia. Evipedia is Forever Healthy’s comprehensive, continuously updated online […]"
         },
         {
           "title": "From lab to factory: Klotho reaches a new milestone",
@@ -188,6 +188,14 @@
       ],
       "articles": [
         {
+          "title": "New algorithm improves gene expression marker identification across diverse biological systems",
+          "url": "https://phys.org/news/2026-07-algorithm-gene-marker-identification-diverse.html",
+          "domain": "phys.org",
+          "date": "2026-07-15T20:00:04.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Researchers have developed a new computational approach that enables more accurate selection of genes that characterize different cellular states from mRNA-seq data, offering a more interpretable way to analyze complex biological data. The study, published in Frontiers in Immunology, involved researchers from the Germans Trias i Pujol Research Institute (IGTP), Universitat Politècnica de Catalunya (UPC), IrsiCaixa and the Centro de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBEREHD)."
+        },
+        {
           "title": "Diacylglycerols for cleaner oil processing, functional foods and medical nutrition",
           "url": "https://phys.org/news/2026-07-diacylglycerols-cleaner-oil-functional-foods.html",
           "domain": "phys.org",
@@ -258,14 +266,6 @@
           "date": "2026-07-15T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2607.12382v1 Announce Type: cross Abstract: How can an agent build a structured map of its world from nothing but an ongoing sequence of raw sensory input and its own movements, especially when natural variation means exact sensory patterns rarely repeat? The Clone-Structured Causal Graph algorithm (CSCG), a normative hippocampus model, shows how an interpretable map can be learned from aliased observations. However, CSCG requires a predefined discrete alphabet, and its expectation-maximization formulation is not easily combined with existing neural network modules, preventing the end-to-end processing of raw image sequences. We remove this barrier by reformulating CSCG as a single, fully differentiable module, gradCSCG, and coupling it to a learned vector-quantized variational autoencoder (VQ-VAE) perceptual front-end. A soft emission forward pass allows the map-learning objective to flow back into perception, while a set of loss-balancing mechanisms mitigates module collapse during joint training. We demonstrate, first, that gradient training reproduces CSCG's results on original symbolic grid worlds by recovering room topology from heavily aliased observations. Second, we show that map recovery remains robust on MNIST image sequences, where each visit to a location yields a newly sampled image of its assigned digit. Across four heavily aliased environments, the end-to-end pipeline successfully uncovers the underlying adjacency graph with high edge precision and recall, directly from visual input. This work provides a proof of principle that CSCG can serve as a composable building block in a deep learning architecture."
-        },
-        {
-          "title": "Entropy-Driven Initiation and Cellular Uptake Mediated by Viscoelastic Cytoskeleton: A Kinetic Phase Diagram from Onsager Variational Principle",
-          "url": "https://arxiv.org/abs/2607.12766",
-          "domain": "arxiv.org",
-          "date": "2026-07-15T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2607.12766v1 Announce Type: cross Abstract: A fundamental question in receptor-mediated endocytosis remains unanswered: what initial driving force brings ligands and receptors into close proximity? While previous models assume pre-existing contact and overlook this initiation problem, we propose that entropic forces from nanoscale biomolecules in crowded cellular environments provide the essential driving mechanism. We develop a unified continuum model rooted in the Onsager variational principle, where engulfment depth serves as the generalized coordinate and the driving force derives from a free energy landscape of entropic, binding, membrane, and cytoskeleton contributions. The framework naturally incorporates: (i) entropy-driven adhesion as initiation; (ii) ligand-receptor binding as the sustaining force; (iii) membrane deformation via the Helfrich-Canham Hamiltonian; and (iv) cytoskeleton viscoelasticity through the elastic-viscoelastic correspondence principle. The kinetic phase diagram predicts a critical biomolecule concentration for initiation, a lower bound of ligand density for complete engulfment, a finite size window for engulfable particles, and an optimal virus radius of 30--60 nm that decreases with increasing binding energy. The Onsager solubility condition naturally yields the phase boundaries. The model exhibits asymptotic consistency with the classic Asakura-Oosawa result in the large-particle flat-surface limit. Stiffer cells lead to longer engulfment times and narrower size windows. Strikingly, the optimal size matches HIV-1 dimensions under physiologically realistic parameters. This work provides a variational foundation for cellular uptake with implications for virology, nanotechnology, and drug delivery."
         }
       ]
     },
@@ -277,6 +277,38 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "Stanford study says 5-minute Bitcoin prediction markets enable settlement manipulation",
+          "url": "https://cointelegraph.com/news/stanford-study-5-minute-bitcoin-prediction-markets-enable-settlement-manipulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-15T20:05:08.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Researchers found that Polymarket’s five-minute Bitcoin prediction markets create incentives to manipulate spot prices around contract settlement, proposing longer settlement windows as a potential fix."
+        },
+        {
+          "title": "‘Hugely positive’ meeting on Thursday with Trump to discuss ethics raises hopes for passage of sweeping crypto legislation",
+          "url": "https://www.theblock.co/post/408517/hugely-positive-meeting-thursday-trump-ethics-raises-hopes-passage-crypto-legislation?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-15T20:03:29.000Z",
+          "source": "The Block",
+          "summary": "Ethics will be front and center Thursday at a meeting with President Donald Trump, a small group of lawmakers and White House staff."
+        },
+        {
+          "title": "Benchmark says Securitize investors should ‘strip out the noise’ after post-SPAC selloff",
+          "url": "https://www.theblock.co/post/408511/benchmark-says-securitize-investors-strip-out-noise-after-post-spac-selloff?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-15T19:49:50.000Z",
+          "source": "The Block",
+          "summary": "Separately, Securitize announced a partnership with Cantor Fitzgerald to support blockchain-based IPOs and secondary offerings."
+        },
+        {
+          "title": "Revolut receives in-principle approval from UAE authorities for crypto services",
+          "url": "https://cointelegraph.com/news/revolut-approval-uae-crypto-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-15T19:34:39.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Dubai’s Virtual Assets Regulatory Authority approved the London-headquartered fintech company for broker-dealer, management and investment, and exchange services in the UAE."
+        },
         {
           "title": "Coinbase’s Jesse Pollak hands Base app leadership to Cobie after admitting social bets fell short",
           "url": "https://www.theblock.co/post/408504/coinbases-jesse-pollak-hands-base-app-leadership-cobie-social-bets-fell-short?utm_source=rss&utm_medium=rss",
@@ -324,38 +356,6 @@
           "date": "2026-07-15T16:52:28.000Z",
           "source": "CoinDesk",
           "summary": "The move creates a pathway for public companies to raise capital onchain and issue tokenized securities."
-        },
-        {
-          "title": "Crypto clearinghouse Glacis Labs raises $6.8 million seed to expand ZeroDelta platform",
-          "url": "https://www.theblock.co/post/408490/crypto-clearinghouse-glacis-labs-zerodelta-funding?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-15T16:43:07.000Z",
-          "source": "The Block",
-          "summary": "Glacis aims to expand ZeroDelta, its multichain clearing platform for stablecoins, into tokenized securities and foreign exchange over time."
-        },
-        {
-          "title": "Aave launches V4 on Avalanche, laying groundwork for tokenized credit markets",
-          "url": "https://cointelegraph.com/news/aave-brings-v4-to-avalanche-laying-groundwork-for-tokenized-asset-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-15T16:29:39.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The deployment marks Aave V4’s first expansion beyond Ethereum and introduces lending infrastructure designed to support future markets for tokenized real-world assets."
-        },
-        {
-          "title": "Kraken Institutional taps Upshift to build vaults that earn yield on idle bitcoin, ETH and stablecoins",
-          "url": "https://www.theblock.co/post/408448/kraken-institutional-taps-upshift-to-build-vaults-that-earn-yield-on-idle-bitcoin-eth-and-stablecoins?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-15T16:05:02.000Z",
-          "source": "The Block",
-          "summary": "Upshift will build dedicated vaults tailored to each client’s specific investment strategy and risk considerations."
-        },
-        {
-          "title": "Securitize, Cantor target tokenized IPOs for public markets",
-          "url": "https://cointelegraph.com/news/securitize-cantor-target-tokenized-ipos-for-public-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-15T15:59:36.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Securitize and Cantor Fitzgerald are developing infrastructure for tokenized IPOs and secondary equity offerings within the existing US securities framework."
         }
       ]
     }
