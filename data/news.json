@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-15T12:43:41.296Z",
+  "updatedAt": "2026-07-15T14:29:04.663Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -188,6 +188,14 @@
       ],
       "articles": [
         {
+          "title": "Diacylglycerols for cleaner oil processing, functional foods and medical nutrition",
+          "url": "https://phys.org/news/2026-07-diacylglycerols-cleaner-oil-functional-foods.html",
+          "domain": "phys.org",
+          "date": "2026-07-15T13:20:01.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Fats and oils are essential to life. They provide energy, support the absorption of fat-soluble vitamins, contribute to the structure of cell membranes, and give foods their flavor, texture and mouthfeel. Yet the way fats are produced, processed and consumed is changing. Food manufacturers are under pressure to develop ingredients that are not only safe and stable, but also better aligned with health, sustainability and clean-label expectations."
+        },
+        {
           "title": "AlphaFunctor: Bridging The Gap Between Protein Function Annotation and Property Prediction",
           "url": "https://arxiv.org/abs/2607.12196",
           "domain": "arxiv.org",
@@ -258,14 +266,6 @@
           "date": "2026-07-15T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2607.12766v1 Announce Type: cross Abstract: A fundamental question in receptor-mediated endocytosis remains unanswered: what initial driving force brings ligands and receptors into close proximity? While previous models assume pre-existing contact and overlook this initiation problem, we propose that entropic forces from nanoscale biomolecules in crowded cellular environments provide the essential driving mechanism. We develop a unified continuum model rooted in the Onsager variational principle, where engulfment depth serves as the generalized coordinate and the driving force derives from a free energy landscape of entropic, binding, membrane, and cytoskeleton contributions. The framework naturally incorporates: (i) entropy-driven adhesion as initiation; (ii) ligand-receptor binding as the sustaining force; (iii) membrane deformation via the Helfrich-Canham Hamiltonian; and (iv) cytoskeleton viscoelasticity through the elastic-viscoelastic correspondence principle. The kinetic phase diagram predicts a critical biomolecule concentration for initiation, a lower bound of ligand density for complete engulfment, a finite size window for engulfable particles, and an optimal virus radius of 30--60 nm that decreases with increasing binding energy. The Onsager solubility condition naturally yields the phase boundaries. The model exhibits asymptotic consistency with the classic Asakura-Oosawa result in the large-particle flat-surface limit. Stiffer cells lead to longer engulfment times and narrower size windows. Strikingly, the optimal size matches HIV-1 dimensions under physiologically realistic parameters. This work provides a variational foundation for cellular uptake with implications for virology, nanotechnology, and drug delivery."
-        },
-        {
-          "title": "Learning Mechanistic Reasoning for Chemical Reactions with Large Language Models",
-          "url": "https://arxiv.org/abs/2607.12771",
-          "domain": "arxiv.org",
-          "date": "2026-07-15T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2607.12771v1 Announce Type: cross Abstract: Reaction mechanisms consist of the step-by-step sequences of elementary reactions that explain chemical transformations. Learning the mechanism logic is therefore essential for enhancing the fundamental chemical intelligence of large language models (LLMs). The stepwise deduction of reaction mechanism aligns naturally with the reasoning paradigms of reasoning LLMs. However, current chemical LLMs primarily emphasize coarse-grained name reactions for product prediction and retrosynthesis, often leading to physical inconsistencies and hallucinations. In contrast, specialized small-scale generative models for mechanism inference typically suffer from restricted generalization capacity across diverse chemical spaces. To overcome these limitations, we built a novel, large-scale reasoning dataset of reaction mechanisms. Furthermore, we established the FukuyamaBench, a difficult benchmark derived from Fukuyama's Advanced Organic Reaction Mechanism book, to rigorously evaluate model performance on hierarchical mechanism reasoning. Our fine-tuned Qwen3-30B-A3B achieves 8.3% exact pathway match on FukuyamaBench Set~A, surpassing the specialized FlowER model (5.1%), demonstrating that mechanism-aware training substantially enhances chemical reasoning in language models."
         }
       ]
     },
@@ -278,84 +278,84 @@
       ],
       "articles": [
         {
-          "title": "Circle suspended Tether-backed fund over market manipulation concerns, arbitration filings show",
-          "url": "https://www.theblock.co/post/408377/circle-suspended-tether-backed-fund-over-market-manipulation-concerns-arbitration-filings-show?utm_source=rss&utm_medium=rss",
+          "title": "Open USD poses biggest threat yet to Circle's USDC, CoinShares says",
+          "url": "https://www.coindesk.com/business/2026/07/15/open-usd-poses-biggest-threat-yet-to-circle-s-usdc-coinshares-says",
+          "domain": "coindesk.com",
+          "date": "2026-07-15T14:03:54.000Z",
+          "source": "CoinDesk",
+          "summary": "The consortium-backed stablecoin would share reserve income with partners instead of the issuer, pressuring Circle's margins if it debuts in 2026."
+        },
+        {
+          "title": "DTCC begins first tokenized stock and Treasury production trades involving JPMorgan, BlackRock and Goldman",
+          "url": "https://www.theblock.co/post/408419/dtcc-begins-first-tokenized-stock-and-treasury-production-trades-involving-jpmorgan-blackrock-and-goldman-wsj?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-07-15T12:23:46.000Z",
+          "date": "2026-07-15T13:54:22.000Z",
           "source": "The Block",
-          "summary": "Circle suspended Heka Funds over suspected market manipulation after learning Tether had invested $800 million in the arbitrage fund."
+          "summary": "JPMorgan will tokenize part of its Invesco QQQ Trust holdings held at DTCC, while Microsoft, Circle, and SPY shares will also be tokenized."
         },
         {
-          "title": "BlackRock's crypto assets fall 39% despite $15 billion of net inflows",
-          "url": "https://www.coindesk.com/markets/2026/07/15/blackrock-s-crypto-assets-fall-39-despite-usd15-billion-of-net-inflows",
-          "domain": "coindesk.com",
-          "date": "2026-07-15T12:12:01.000Z",
-          "source": "CoinDesk",
-          "summary": "BlackRock's digital asset funds attracted $15 billion in net inflows over the past year, but falling crypto prices drove the value of those holdings sharply lower."
-        },
-        {
-          "title": "The launchpad that fueled Robinhood Chain's memecoin boom just gave away all its revenue",
-          "url": "https://www.coindesk.com/business/2026/07/15/the-launchpad-that-fueled-robinhood-chain-s-memecoin-boom-just-gave-away-all-its-revenue",
-          "domain": "coindesk.com",
-          "date": "2026-07-15T12:11:58.000Z",
-          "source": "CoinDesk",
-          "summary": "Noxa, the launchpad behind CASHCAT's rise, racked up nearly $12 million in fees before going dark, giving away its revenue, and leaving Robinhood Chain's memecoin economy in freefall."
-        },
-        {
-          "title": "Japan reclassifies crypto as a financial asset, paves way for tax cuts",
-          "url": "https://www.coindesk.com/policy/2026/07/15/japan-reclassifies-crypto-as-a-financial-asset-paves-way-for-tax-cuts",
-          "domain": "coindesk.com",
-          "date": "2026-07-15T12:05:33.000Z",
-          "source": "CoinDesk",
-          "summary": "Lawmakers said crypto has outgrown its role as a payment method and requires rules designed for investment products."
-        },
-        {
-          "title": "Strategy feels 'very secure' until bitcoin reaches $8,000-$10,000, says CEO",
-          "url": "https://www.coindesk.com/markets/2026/07/15/strategy-feels-very-secure-until-bitcoin-reaches-usd8-000-usd10-000-says-ceo",
-          "domain": "coindesk.com",
-          "date": "2026-07-15T12:00:33.000Z",
-          "source": "CoinDesk",
-          "summary": "Le highlighted increasing the U.S.-dollar reserve as an important lever in preferred stock STRC’s recovery back to around $90 having fallen below $75 last month."
-        },
-        {
-          "title": "Bitcoin rally cools as investors digest inflation data, oil clouds outlook",
-          "url": "https://www.coindesk.com/daybook-us/2026/07/15/bitcoin-rally-cools-as-investors-digest-inflation-data-oil-clouds-outlook",
-          "domain": "coindesk.com",
-          "date": "2026-07-15T11:46:06.000Z",
-          "source": "CoinDesk",
-          "summary": "Your day-ahead look for July 15, 2026"
-        },
-        {
-          "title": "Crypto steadies as Middle East tensions counter U.S. inflation report boost",
-          "url": "https://www.coindesk.com/markets/2026/07/15/crypto-steadies-as-middle-east-tensions-counter-u-s-inflation-report-boost",
-          "domain": "coindesk.com",
-          "date": "2026-07-15T11:05:49.000Z",
-          "source": "CoinDesk",
-          "summary": "Bitcoin held steady at a three-week high as rising tensions between the U.S. and Iran reined in gains from Tuesday's softer-than-expected inflation numbers."
-        },
-        {
-          "title": "Japan passes crypto overhaul to bring digital assets under financial rules",
-          "url": "https://cointelegraph.com/news/japan-crypto-amendment-digital-assets-financial-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-15T11:05:46.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Japan’s revised Financial Instruments and Exchange Act introduces crypto insider trading rules, tougher penalties and new oversight requirements for crypto businesses."
-        },
-        {
-          "title": "South Korea to bring digital assets under new state asset management system",
-          "url": "https://cointelegraph.com/news/south-korea-digital-assets-state-asset-management?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-15T10:53:34.000Z",
-          "source": "CoinTelegraph",
-          "summary": "South Korea’s Economy Ministry plans to include digital assets and intellectual property under the country’s new state-asset management framework."
-        },
-        {
-          "title": "Czech Republic moves to block Polymarket over unlicensed gambling",
-          "url": "https://www.theblock.co/post/408371/czech-republic-moves-to-block-polymarket-over-unlicensed-gambling?utm_source=rss&utm_medium=rss",
+          "title": "Core Scientific’s 75% return on AI deal isn’t the template for bitcoin miners, Bernstein says",
+          "url": "https://www.theblock.co/post/408412/core-scientific-return-on-ai-deal-isnt-template-for-bitcoin-miners-bernstein-says?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-07-15T10:45:44.000Z",
+          "date": "2026-07-15T13:38:56.000Z",
           "source": "The Block",
-          "summary": "The Czech Republic moved to block Polymarket, joining other European jurisdictions targeting prediction markets over unlicensed gambling."
+          "summary": "Bernstein pegs TeraWulf at 5% and Cipher at 4% stabilized ROA, calling Core Scientific's 75% figure a capex-advantaged outlier."
+        },
+        {
+          "title": "Tokenization startup Tradable plans to bring $1 billion worth of private credit assets to Stellar",
+          "url": "https://www.theblock.co/post/408399/tokenization-startup-tradable-plans-bring-1-billion-private-credit-assets-stellar?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-15T13:35:07.000Z",
+          "source": "The Block",
+          "summary": "Stellar has become a top choice for institutional tokenization, including from the likes of Franklin Templeton and WisdomTree."
+        },
+        {
+          "title": "Is Robinhood Chain’s success bullish or bearish for ETH the asset?",
+          "url": "https://cointelegraph.com/features/has-robinhoods-layer-2-given-eth-a-new-bull-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-15T13:30:00.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Surging volumes on Robinhood Chain could be very good for Ethereum, but only if the “ETH is money” crowd turn out to be right."
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-15T13:22:37.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
+        {
+          "title": "A timeline of the Ethereum Foundation's ongoing shakeup",
+          "url": "https://www.coindesk.com/tech/2026/07/15/a-timeline-of-the-ethereum-foundation-s-ongoing-shakeup",
+          "domain": "coindesk.com",
+          "date": "2026-07-15T13:19:48.000Z",
+          "source": "CoinDesk",
+          "summary": "In this week's edition of The Protocol Newsletter, we’re unpacking the timeline of all the changes at the Ethereum Foundation this year."
+        },
+        {
+          "title": "Crypto firms face AML risks during post-MiCA migration, says AMLA chair",
+          "url": "https://cointelegraph.com/news/amla-customer-migration-strain-mica-licensed-casps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-15T13:08:43.000Z",
+          "source": "CoinTelegraph",
+          "summary": "AMLA is expanding its crypto oversight as firms complete the transition to the EU’s MiCA licensing regime."
+        },
+        {
+          "title": "Bitmine says ETH staking generated $45.7 million, accounting for 98% of quarterly revenue",
+          "url": "https://www.theblock.co/post/408400/bitmine-eth-staking-generated-45-7-million-accounting-98-of-quarterly-revenue?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-15T13:04:46.000Z",
+          "source": "The Block",
+          "summary": "Bitmine generated $45.7 million from Ethereum staking, which accounted for 98% of quarterly revenue as the company expanded MAVAN."
+        },
+        {
+          "title": "How Crypto Venues Are Building Financial Operating Systems: Binance as a Super App",
+          "url": "https://www.theblock.co/post/408308/how-crypto-venues-are-building-financial-operating-systems-binance-as-a-super-app?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-15T12:56:18.000Z",
+          "source": "The Block",
+          "summary": "From Trading Venue to Financial Operating System Across crypto’s largest venues, the fundamentals of execution, including pricing, depth, latency, and fees, are converging. These remain critical to the business and a precondition for competing at scale, but as they standardize across the top platforms, they become harder to differentiate on. Alongside them, ecosystem breadth is [&hellip;]"
         }
       ]
     }
