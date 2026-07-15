@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-14T23:35:42.918Z",
+  "updatedAt": "2026-07-15T01:01:44.137Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -17,20 +17,20 @@
           "summary": "️DeSci Atoms Market Update 14 July 2026 MarketCap 24hrs Top &nbsp;&nbsp; KuCoin"
         },
         {
-          "title": "Bio Protocol launches AI agents to automate dec... - Pluang",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdW9VV0Z1SEpCYjZLNDFGekc3V2dVQ19acm40RWhha1VRcU52WmVDMUxUaTVrdm9UaDBJbURma01OSmJ5TGNrUmhKV2pGU3hicDVNd3FXaXI4Mzd3UlpVMUw3WWp4MEJJRFN2Z3dCVmNxVW9rMENXZTE2NFM3c2xhVzFPdnRReVE4eVN4a1RhZXF6MkdaOVhnMXZLQ2REU3o4ZDZMdUw3ZUhqNWUz?oc=5",
-          "domain": "pluang.com",
-          "date": "2026-07-02T04:41:27.000Z",
-          "source": "Pluang",
-          "summary": "Bio Protocol launches AI agents to automate dec... &nbsp;&nbsp; Pluang"
-        },
-        {
           "title": "Bio Protocol develops AI agents to enhance decentralized science operations - Crypto Briefing",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mZGlhbTNwdWQ4dTdRZ1lHYmRVVEx2VWE0Q2h3Rzh5dXlIUFhiRTBoM0Z1Uk5DUzRqcThTMGtUbjI5aGNwTWVyRzdPeWo1Uk90RjFDMnl4VkN4N1FqRjNSNWRuNHZPaGs?oc=5",
           "domain": "cryptobriefing.com",
           "date": "2026-07-01T07:00:00.000Z",
           "source": "Crypto Briefing",
           "summary": "Bio Protocol develops AI agents to enhance decentralized science operations &nbsp;&nbsp; Crypto Briefing"
+        },
+        {
+          "title": "Bio Protocol launches AI agents to automate dec... - Pluang",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdW9VV0Z1SEpCYjZLNDFGekc3V2dVQ19acm40RWhha1VRcU52WmVDMUxUaTVrdm9UaDBJbURma01OSmJ5TGNrUmhKV2pGU3hicDVNd3FXaXI4Mzd3UlpVMUw3WWp4MEJJRFN2Z3dCVmNxVW9rMENXZTE2NFM3c2xhVzFPdnRReVE4eVN4a1RhZXF6MkdaOVhnMXZLQ2REU3o4ZDZMdUw3ZUhqNWUz?oc=5",
+          "domain": "pluang.com",
+          "date": "2026-07-01T07:00:00.000Z",
+          "source": "Pluang",
+          "summary": "Bio Protocol launches AI agents to automate dec... &nbsp;&nbsp; Pluang"
         },
         {
           "title": "Bio Protocol launches AI research hub to challenge grant gatekeepers - Crypto News",
@@ -278,6 +278,14 @@
       ],
       "articles": [
         {
+          "title": "Over 95% of Coinbase’s code is now written with AI",
+          "url": "https://cointelegraph.com/news/over-95-of-coinbases-code-is-now-written-with-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-14T22:30:00.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Coinbase’s Rob Witoff said the company is leaning more on AI to help with execution, but still needs high-agency humans for judgment and strategy."
+        },
+        {
           "title": "Three US senators oppose CLARITY Act on ethics grounds with vote expected soon",
           "url": "https://cointelegraph.com/news/us-senators-oppose-clarity-act-vote-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
@@ -348,14 +356,6 @@
           "date": "2026-07-14T17:59:25.000Z",
           "source": "The Block",
           "summary": "The U.S. and UK are deepening cooperation on digital assets, particularly for stablecoins and tokenized assets."
-        },
-        {
-          "title": "Binance bets on becoming a crypto 'super app' as stablecoins reshape growth",
-          "url": "https://www.coindesk.com/business/2026/07/14/binance-bets-on-becoming-a-crypto-super-app-as-stablecoins-reshape-growth",
-          "domain": "coindesk.com",
-          "date": "2026-07-14T17:33:19.000Z",
-          "source": "CoinDesk",
-          "summary": "Shunyet Jan, Binance’s head of spot trading and derivatives, said the exchange is focusing more on payments and financial services than on trading alone as it drives the next phase of its expansion."
         }
       ]
     }
