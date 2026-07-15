@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-15T06:37:01.820Z",
+  "updatedAt": "2026-07-15T09:01:18.016Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -103,7 +103,7 @@
           "domain": "lifespan.io",
           "date": "2026-07-14T13:50:42.000Z",
           "source": "Lifespan.io",
-          "summary": "A new study suggests that aging or Parkinson’s-triggering mutations create inflammation in peripheral tissues, and then circulating extracellular vesicles spread it to the brain, which might contribute to the disease [1]. Brain on fire Nature […]"
+          "summary": "A new study suggests that aging or Parkinson’s-triggering mutations create inflammation in peripheral tissues, and then circulating extracellular vesicles spread it to the brain, which might contribute to the disease [1]. Brain […]"
         },
         {
           "title": "Fresh analyses reshape Alzheon’s oral Alzheimer’s drug",
@@ -278,6 +278,46 @@
       ],
       "articles": [
         {
+          "title": "US Treasury freezes over $130 million tied to Iran-linked crypto wallets",
+          "url": "https://www.theblock.co/post/408357/us-treasury-freezes-130-million-iran-linked-wallets?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-15T08:44:27.000Z",
+          "source": "The Block",
+          "summary": "Treasury Secretary Scott Bessent says OFAC sanctioned multiple Iran-linked crypto wallets, freezing over $130 million."
+        },
+        {
+          "title": "Live markets: Bitcoin, ether ETFs draw inflows as majors rise as much as 5%",
+          "url": "https://www.coindesk.com/tech/2026/07/15/live-markets-bitcoin-ether-etfs-draw-inflows-as-majors-rise-as-much-as-5",
+          "domain": "coindesk.com",
+          "date": "2026-07-15T08:29:18.000Z",
+          "source": "CoinDesk",
+          "summary": "U.S. spot bitcoin ETFs took in about $181 million on Tuesday, a day after shedding roughly $425 million, per SoSoValue data. Ether ETFs added about $58 million."
+        },
+        {
+          "title": "Stripe, Advent offer $53B to acquire PayPal: Report",
+          "url": "https://cointelegraph.com/news/stripe-advent-53b-acquire-paypal-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-15T08:23:15.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Stripe and Advent reportedly offered to buy PayPal for $53 billion, at a 28% premium compared to the company’s Tuesday closing price."
+        },
+        {
+          "title": "UK plans first G7 digital sovereign bond by early 2027",
+          "url": "https://www.coindesk.com/business/2026/07/15/uk-plans-first-g7-digital-sovereign-bond-by-early-2027",
+          "domain": "coindesk.com",
+          "date": "2026-07-15T08:16:34.000Z",
+          "source": "CoinDesk",
+          "summary": "The security will launch on HSBC’s Orion platform within the BoE and FCA’s Digital Securities Sandbox to test reduced settlement times and costs."
+        },
+        {
+          "title": "South Korea to bring crypto under new state asset management law",
+          "url": "https://www.theblock.co/post/408350/south-korea-crypto-asset-management-law?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-15T07:19:45.000Z",
+          "source": "The Block",
+          "summary": "The Ministry of Finance and Economy said it will establish the 'National Asset Basic Act' to update the government's asset management system."
+        },
+        {
           "title": "Visa, Mastercard and Ripple back x402 as agent payments average 32 cents",
           "url": "https://www.coindesk.com/tech/2026/07/15/visa-mastercard-and-ripple-join-the-standard-letting-ai-agents-pay-in-stablecoins",
           "domain": "coindesk.com",
@@ -316,46 +356,6 @@
           "date": "2026-07-15T05:10:00.000Z",
           "source": "The Block",
           "summary": "TeraWulf said that its data centers in New York remain operational and that its ongoing development plans are unaffected."
-        },
-        {
-          "title": "US freezes $131M in Iran-linked crypto as Middle East tensions rise",
-          "url": "https://cointelegraph.com/news/us-freezes-131m-in-iran-linked-crypto-as-middle-east-tensions-rise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-15T03:17:59.000Z",
-          "source": "CoinTelegraph",
-          "summary": "“US Treasury is committed to disrupting and degrading Iran’s illicit financial activities, including its abuse of digital assets,” US Treasury Secretary Scott Bessent said Tuesday."
-        },
-        {
-          "title": "How Asset Managers Are Investing in Crypto",
-          "url": "https://www.theblock.co/learn/408181/how-asset-managers-are-investing-in-crypto?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-15T01:55:20.000Z",
-          "source": "The Block",
-          "summary": "Asset managers invest in crypto mainly through regulated products: spot ETFs, digital asset funds, tokenized funds, qualified custodians, and blockchain company equity. Most invest on behalf of clients rather than for their own accounts. Their aim is to deliver digital asset exposure inside the brokerage, retirement, and advisory structures clients already use, with the custody, [&hellip;]"
-        },
-        {
-          "title": "Bitcoin vs Gold as a Reserve Asset",
-          "url": "https://www.theblock.co/learn/408147/bitcoin-vs-gold-as-a-reserve-asset?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-15T01:52:59.000Z",
-          "source": "The Block",
-          "summary": "A reserve asset is something an institution or government holds to preserve value, provide liquidity, and act as a store of wealth outside its day-to-day operating currency. Bitcoin and gold are both treated as reserve assets because each is scarce, hard to counterfeit, and independent of any single company’s performance. Gold has filled that role [&hellip;]"
-        },
-        {
-          "title": "Ark Invest adds $14 million in Circle shares while selling Robinhood",
-          "url": "https://www.theblock.co/post/408336/ark-invest-adds-14-million-in-circle?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-15T01:52:11.000Z",
-          "source": "The Block",
-          "summary": "Ark Invest bought $14 million worth of Circle and $1.5 million worth of Block Inc., while selling $3.2 million worth of Robinhood."
-        },
-        {
-          "title": "Bitmine generated $46M from Ethereum staking last quarter",
-          "url": "https://cointelegraph.com/news/bitmine-generated-46m-from-ethereum-staking-last-quarter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-15T01:28:14.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Ethereum staking generated 98% of Bitmine’s revenue last quarter as the company’s pivot from Bitcoin mining gained momentum following its March validator launch."
         }
       ]
     }
