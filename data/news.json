@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-15T14:29:04.663Z",
+  "updatedAt": "2026-07-15T16:06:19.311Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -177,7 +177,8 @@
           "source": "Lifespan.io",
           "summary": "A new study suggests a way to predict whether existing drugs can extend human lifespan. This method uses a network approach that detects longevity signals in protein interactions [1]. Slowing aging with existing drugs? Finding drugs that can slow […]"
         }
-      ]
+      ],
+      "warning": "Longevity.Technology did not return RSS or Atom XML"
     },
     {
       "name": "Biotech",
@@ -278,84 +279,84 @@
       ],
       "articles": [
         {
-          "title": "Open USD poses biggest threat yet to Circle's USDC, CoinShares says",
-          "url": "https://www.coindesk.com/business/2026/07/15/open-usd-poses-biggest-threat-yet-to-circle-s-usdc-coinshares-says",
+          "title": "Kraken Institutional taps Upshift to build vaults that earn yield on idle bitcoin, ETH and stablecoins",
+          "url": "https://www.theblock.co/post/408448/kraken-institutional-taps-upshift-to-build-vaults-that-earn-yield-on-idle-bitcoin-eth-and-stablecoins?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-15T16:05:02.000Z",
+          "source": "The Block",
+          "summary": "Upshift will build dedicated vaults tailored to each client’s specific investment strategy and risk considerations."
+        },
+        {
+          "title": "‘Bull markets everywhere’: Bitwise says crypto equities beat every major asset class but emerging markets in H1 2026",
+          "url": "https://www.theblock.co/post/408449/bull-markets-everywhere-bitwise-crypto-equities-beat-major-asset-class-h1?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-15T15:50:36.000Z",
+          "source": "The Block",
+          "summary": "Crypto assets fell 36% while crypto equities gained 23% in the first half of the year, with tokenized RWAs hitting a record $33 billion in Q2."
+        },
+        {
+          "title": "Ostium pauses trading after apparent $18 million vault exploit",
+          "url": "https://www.theblock.co/post/408450/ostium-pauses-trading-after-apparent-18-million-vault-exploit?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-15T15:47:52.000Z",
+          "source": "The Block",
+          "summary": "Onchain data shows the Ostium attacker dispersing the stolen funds across multiple wallets after converting USDC into ETH."
+        },
+        {
+          "title": "Ostium suffers $18 million exploit as oracle attack wave continues to hit DeFi",
+          "url": "https://www.coindesk.com/business/2026/07/15/ostium-suffers-usd18-million-exploit-as-oracle-attack-wave-continues-to-hit-defi",
           "domain": "coindesk.com",
-          "date": "2026-07-15T14:03:54.000Z",
+          "date": "2026-07-15T15:27:43.000Z",
           "source": "CoinDesk",
-          "summary": "The consortium-backed stablecoin would share reserve income with partners instead of the issuer, pressuring Circle's margins if it debuts in 2026."
+          "summary": "A hacker used Ostium's own price-reporting infrastructure against the protocol, submitting falsified future-dated oracle data to manufacture fake trading profits and trigger an $18 million payout."
         },
         {
-          "title": "DTCC begins first tokenized stock and Treasury production trades involving JPMorgan, BlackRock and Goldman",
-          "url": "https://www.theblock.co/post/408419/dtcc-begins-first-tokenized-stock-and-treasury-production-trades-involving-jpmorgan-blackrock-and-goldman-wsj?utm_source=rss&utm_medium=rss",
+          "title": "William Blair cuts Coinbase forecasts but says crypto downturn nearing a bottom",
+          "url": "https://www.theblock.co/post/408423/blair-cuts-coinbase-forecasts-but-crypto-downturn-nearing-bottom?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-07-15T13:54:22.000Z",
+          "date": "2026-07-15T15:16:20.000Z",
           "source": "The Block",
-          "summary": "JPMorgan will tokenize part of its Invesco QQQ Trust holdings held at DTCC, while Microsoft, Circle, and SPY shares will also be tokenized."
+          "summary": "William Blair expects Coinbase's earnings to bottom in the second half of 2026 before rebounding next year."
         },
         {
-          "title": "Core Scientific’s 75% return on AI deal isn’t the template for bitcoin miners, Bernstein says",
-          "url": "https://www.theblock.co/post/408412/core-scientific-return-on-ai-deal-isnt-template-for-bitcoin-miners-bernstein-says?utm_source=rss&utm_medium=rss",
+          "title": "Stani Kulechov on Aave V4, Avalanche, and why RWAs will hit $100 billion this year",
+          "url": "https://www.theblock.co/post/408366/stani-kulechov-on-aave-v4-avalanche-and-why-rwas-will-hit-100-billion-this-year?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-07-15T13:38:56.000Z",
+          "date": "2026-07-15T15:03:29.000Z",
           "source": "The Block",
-          "summary": "Bernstein pegs TeraWulf at 5% and Cipher at 4% stabilized ROA, calling Core Scientific's 75% figure a capex-advantaged outlier."
+          "summary": "Aave Labs founder Stani Kulechov on V4's Avalanche debut, disrupting prime brokers, and why RWAs will double to $100 billion by December."
         },
         {
-          "title": "Tokenization startup Tradable plans to bring $1 billion worth of private credit assets to Stellar",
-          "url": "https://www.theblock.co/post/408399/tokenization-startup-tradable-plans-bring-1-billion-private-credit-assets-stellar?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-15T13:35:07.000Z",
-          "source": "The Block",
-          "summary": "Stellar has become a top choice for institutional tokenization, including from the likes of Franklin Templeton and WisdomTree."
-        },
-        {
-          "title": "Is Robinhood Chain’s success bullish or bearish for ETH the asset?",
-          "url": "https://cointelegraph.com/features/has-robinhoods-layer-2-given-eth-a-new-bull-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-15T13:30:00.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Surging volumes on Robinhood Chain could be very good for Ethereum, but only if the “ETH is money” crowd turn out to be right."
-        },
-        {
-          "title": "Here’s what happened in crypto today",
-          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-15T13:22:37.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-        },
-        {
-          "title": "A timeline of the Ethereum Foundation's ongoing shakeup",
-          "url": "https://www.coindesk.com/tech/2026/07/15/a-timeline-of-the-ethereum-foundation-s-ongoing-shakeup",
+          "title": "The privacy paradox of protecting kids online",
+          "url": "https://www.coindesk.com/opinion/2026/07/14/the-privacy-paradox-of-protecting-kids-online",
           "domain": "coindesk.com",
-          "date": "2026-07-15T13:19:48.000Z",
+          "date": "2026-07-15T14:58:50.000Z",
           "source": "CoinDesk",
-          "summary": "In this week's edition of The Protocol Newsletter, we’re unpacking the timeline of all the changes at the Ethereum Foundation this year."
+          "summary": "We don’t need to imagine the privacy pitfalls of age verification. They’ve been happening for years, argues Cardano Foundation CEO Frederik Gregaard."
         },
         {
-          "title": "Crypto firms face AML risks during post-MiCA migration, says AMLA chair",
-          "url": "https://cointelegraph.com/news/amla-customer-migration-strain-mica-licensed-casps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "Crypto Long & Short: To ETH or not to ETH — is SOL the better diversifier?",
+          "url": "https://www.coindesk.com/coindesk-indices/2026/07/15/crypto-long-and-short-to-eth-or-not-to-eth-is-sol-the-better-diversifier",
+          "domain": "coindesk.com",
+          "date": "2026-07-15T14:58:09.000Z",
+          "source": "CoinDesk",
+          "summary": "In this week's, Morgan Stanley’s Denny Galindo writes that as the crypto market expands, solana has historically been a better portfolio diversifier than ether, despite being more volatile."
+        },
+        {
+          "title": "Bitcoin hits $65.5K as more surprise US inflation data sparks three-week BTC price high",
+          "url": "https://cointelegraph.com/markets/bitcoin-hits-655k-as-more-surprise-us-inflation-data-sparks-three-week-btc-price-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-07-15T13:08:43.000Z",
+          "date": "2026-07-15T14:45:28.000Z",
           "source": "CoinTelegraph",
-          "summary": "AMLA is expanding its crypto oversight as firms complete the transition to the EU’s MiCA licensing regime."
+          "summary": "Bitcoin moved up to its highest levels since June 22 as US PPI inflation numbers provided the week’s second surprise macro data drop."
         },
         {
-          "title": "Bitmine says ETH staking generated $45.7 million, accounting for 98% of quarterly revenue",
-          "url": "https://www.theblock.co/post/408400/bitmine-eth-staking-generated-45-7-million-accounting-98-of-quarterly-revenue?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-15T13:04:46.000Z",
-          "source": "The Block",
-          "summary": "Bitmine generated $45.7 million from Ethereum staking, which accounted for 98% of quarterly revenue as the company expanded MAVAN."
-        },
-        {
-          "title": "How Crypto Venues Are Building Financial Operating Systems: Binance as a Super App",
-          "url": "https://www.theblock.co/post/408308/how-crypto-venues-are-building-financial-operating-systems-binance-as-a-super-app?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-15T12:56:18.000Z",
-          "source": "The Block",
-          "summary": "From Trading Venue to Financial Operating System Across crypto’s largest venues, the fundamentals of execution, including pricing, depth, latency, and fees, are converging. These remain critical to the business and a precondition for competing at scale, but as they standardize across the top platforms, they become harder to differentiate on. Alongside them, ecosystem breadth is [&hellip;]"
+          "title": "White House expected to meet with senators to work on ethics concerns in crypto bill",
+          "url": "https://www.coindesk.com/policy/2026/07/15/high-level-white-house-meeting-said-to-be-planned-to-hash-out-clarity-act-ethics-section",
+          "domain": "coindesk.com",
+          "date": "2026-07-15T14:37:36.000Z",
+          "source": "CoinDesk",
+          "summary": "The most contentious piece of the crypto market structure bill is unresolved in the final weeks of Senate runway, and administration officials are expected to meet on it."
         }
       ]
     }
