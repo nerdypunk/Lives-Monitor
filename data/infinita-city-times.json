@@ -1,8 +1,14 @@
 {
   "source": "Infinita City Times",
   "feed": "https://www.infinitacitytimes.com/feed",
-  "updatedAt": "2026-07-15T20:13:10.722Z",
+  "updatedAt": "2026-07-15T21:17:10.488Z",
   "items": [
+    {
+      "title": "We've Partnered with SheFi!",
+      "link": "https://www.infinitacitytimes.com/p/weve-partnered-with-shefi",
+      "date": "Wed, 15 Jul 2026 20:17:38 GMT",
+      "summary": "Get 15% off SheFi Cohort 17!"
+    },
     {
       "title": "Infinita Newsletter: June ’26",
       "link": "https://www.infinitacitytimes.com/p/infinita-newsletter-june-26",
@@ -56,12 +62,6 @@
       "link": "https://www.infinitacitytimes.com/p/inside-infinitas-biohub-demo-day",
       "date": "Fri, 29 May 2026 14:02:16 GMT",
       "summary": "From longevity biotech to decentralized infrastructure, BioHub Demo Day showcased some of the startups building inside Infinita’s ecosystem."
-    },
-    {
-      "title": "Infinita Newsletter: May",
-      "link": "https://www.infinitacitytimes.com/p/infinita-newsletter-may",
-      "date": "Wed, 27 May 2026 01:36:21 GMT",
-      "summary": "How a founder cured his cancer, why most patients can't & what we're up to at Infinita"
     }
   ]
 }
