@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-15T22:31:41.163Z",
+  "updatedAt": "2026-07-15T23:42:05.832Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,6 +278,14 @@
       ],
       "articles": [
         {
+          "title": "From Perpetual Swaps to Perpetual CFDs: The Regulated Evolution",
+          "url": "https://www.theblock.co/post/408553/from-perpetual-swaps-to-perpetual-cfds-the-regulated-evolution?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-15T23:19:00.000Z",
+          "source": "The Block",
+          "summary": "The 24/7 Trading Imperative Fixed exchange sessions are a structural mismatch with the global retail base. The NYSE opens at 9:30 a.m. Eastern and closes at 4:00 p.m., a window designed for an era when the participant base was concentrated in a single geography and order flow was physically intermediated. That assumption has shifted as [&hellip;]"
+        },
+        {
           "title": "Stripe-PayPal deal could accelerate shift to blockchain-based money, Polygon exec says",
           "url": "https://www.theblock.co/post/408525/stripe-paypal-deal-accelerate-stablecoins-blockchain?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
@@ -348,14 +356,6 @@
           "date": "2026-07-15T19:34:39.000Z",
           "source": "CoinTelegraph",
           "summary": "Dubai’s Virtual Assets Regulatory Authority approved the London-headquartered fintech company for broker-dealer, management and investment, and exchange services in the UAE."
-        },
-        {
-          "title": "Coinbase’s Jesse Pollak hands Base app leadership to Cobie after admitting social bets fell short",
-          "url": "https://www.theblock.co/post/408504/coinbases-jesse-pollak-hands-base-app-leadership-cobie-social-bets-fell-short?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-15T17:58:49.000Z",
-          "source": "The Block",
-          "summary": "Coinbase executive Jesse Pollak will focus on Base blockchain's infrastructure, prioritizing trading, stablecoin payments, and AI agents."
         }
       ]
     }
