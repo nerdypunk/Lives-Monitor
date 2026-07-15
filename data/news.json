@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-15T01:01:44.137Z",
+  "updatedAt": "2026-07-15T04:17:47.045Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -8,14 +8,6 @@
         "https://news.google.com/rss/search?q=DeSci%20OR%20%22decentralized%20science%22%20OR%20%22BIO%20Protocol%22&hl=en-US&gl=US&ceid=US:en"
       ],
       "articles": [
-        {
-          "title": "️DeSci Atoms Market Update 14 July 2026 MarketCap 24hrs Top - KuCoin",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5MRm1GS2hyUGNxRmpoZ3k5SFpvazBCWDQ0ZjZvcEVMMGJTN1cwYUtHNklHQXNZemdVX1dGYmVZd2UtQkU5UDdnTUxlX00zbFhkakYyQldod0lKaUJXWGptblZFR3gwTUtnUHFkU1hZcUg1NmhI?oc=5",
-          "domain": "kucoin.com",
-          "date": "2026-07-14T07:02:17.000Z",
-          "source": "KuCoin",
-          "summary": "️DeSci Atoms Market Update 14 July 2026 MarketCap 24hrs Top &nbsp;&nbsp; KuCoin"
-        },
         {
           "title": "Bio Protocol develops AI agents to enhance decentralized science operations - Crypto Briefing",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mZGlhbTNwdWQ4dTdRZ1lHYmRVVEx2VWE0Q2h3Rzh5dXlIUFhiRTBoM0Z1Uk5DUzRqcThTMGtUbjI5aGNwTWVyRzdPeWo1Uk90RjFDMnl4VkN4N1FqRjNSNWRuNHZPaGs?oc=5",
@@ -49,14 +41,6 @@
           "summary": "BioProtocol unveils OpenLabs platform at DeSci Berlin to merge AI with decentralized research funding &nbsp;&nbsp; Crypto Briefing"
         },
         {
-          "title": "NanoVita Joins ENI Super Node Ecosystem to Advance AI-Driven DeSci - Cryptonews.net",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTeHF5X2owYXY0WXF1SjQzVjlkRGU3NG11UHMtaEJwUmZKRXlzTGtGTjhVem5IdGxIOFFYc1FzLWNXVzJaNVZ2MzNDcGQzWFd1UFZVVUdxaXJDWG5D?oc=5",
-          "domain": "cryptonews.net",
-          "date": "2026-06-07T07:00:00.000Z",
-          "source": "Cryptonews.net",
-          "summary": "NanoVita Joins ENI Super Node Ecosystem to Advance AI-Driven DeSci &nbsp;&nbsp; Cryptonews.net"
-        },
-        {
           "title": "What Is Bio Protocol Crypto? Why This AI-Powered DeSci Token Is Exploding in 2026 - Bitcoin Foundation",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaTBzQS1yNmZxbFJIZGg5ellncXI4dWxRS0VhZS1WWkZVQVRuUkFwcERUTVp5azBCeEFsWUJfZ0RHYWxQdFZQQm44NHFPdmtOSjByM1dwd1RGMXFmMUNxMUpMZVBQbVR5MzJHQ1BYLTdKYUx3MkE3TUR2Rzhhb1lWWUExUTVtb1N2VTZsYU4zR0tZQnRpcDNPOG1aX2dMeEh4M1VMUVV6N2RaeWtVRFdUSXdyOUw2Uk1zTHE4SjN6Ymw4Zw?oc=5",
           "domain": "bitcoinfoundation.org",
@@ -87,6 +71,22 @@
           "date": "2026-05-15T07:00:00.000Z",
           "source": "TradingView",
           "summary": "PEPTAI Price Swings Wild As Base Integration Fuels DeSci Hype &nbsp;&nbsp; TradingView"
+        },
+        {
+          "title": "DeSci Has Raised Millions For Research No VC Would Ever Touch - Yellow.com",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQzAtQWJmSEtGX1pXdWVOR0RsRnhXWGp4S2VYUEhXREJiM1ljR01reDZfS1hwU0g3eTMzaFdOdnVJb3l2R2lNdmdCVEhuUWExYjB0VTNReUIwUlRxTjhrdmlCV1d5R3VXbGtRWFp3eGQ0VTV0SjhZdGpNOGV2dDNYcnVodm9PWWJHYlE?oc=5",
+          "domain": "yellow.com",
+          "date": "2026-05-04T06:44:54.000Z",
+          "source": "Yellow.com",
+          "summary": "DeSci Has Raised Millions For Research No VC Would Ever Touch &nbsp;&nbsp; Yellow.com"
+        },
+        {
+          "title": "Bio Protocol Jumps 53.85% in Intraday Trading - bloomingbit",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TN0RaS1ExWkVmU1FzMXlsRUJQVmZhQ2lnNEdfcFVVMEloWHFuS3VDdnd5SlpLakNvNzIxdld1LTY5VWlVX2c4U2pZaUlTaHZybXUwag?oc=5",
+          "domain": "en.bloomingbit.io",
+          "date": "2026-05-02T07:00:00.000Z",
+          "source": "bloomingbit",
+          "summary": "Bio Protocol Jumps 53.85% in Intraday Trading &nbsp;&nbsp; bloomingbit"
         }
       ]
     },
@@ -188,84 +188,84 @@
       ],
       "articles": [
         {
-          "title": "New cell imaging method shines a light on blind spots",
-          "url": "https://phys.org/news/2026-07-cell-imaging-method.html",
-          "domain": "phys.org",
-          "date": "2026-07-14T19:40:05.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Cells are crowded, dynamic places where thousands of molecules interact in tight quarters. Until now, scientists lacked a reliable way to see many of these molecular interactions as they happen. Researchers at the University of Illinois Chicago have now developed a new imaging method that allows scientists to see previously hidden enzyme activities in small regions across the whole cell. The findings, published in the Proceedings of the National Academy of Sciences, open new possibilities for understanding how cells process information."
-        },
-        {
-          "title": "New platform uncovers genetic edits that boost plant-derived compound production",
-          "url": "https://phys.org/news/2026-07-platform-uncovers-genetic-boost-derived.html",
-          "domain": "phys.org",
-          "date": "2026-07-14T17:20:06.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Microorganisms are increasingly being engineered to manufacture valuable compounds ranging from medicines and food ingredients to biofuels and industrial chemicals. However, turning microbes into efficient production platforms requires extensive strain optimization. Finding the right genetic changes to transform an ordinary microbe into a high-performing producer remains a major challenge, as beneficial genetic targets and gene combinations are often hidden within complex cellular networks."
-        },
-        {
-          "title": "DNA origami turns secret messages into nano–Morse code that acts as multiplayer molecular encryption",
-          "url": "https://phys.org/news/2026-07-dna-origami-secret-messages-nanomorse.html",
-          "domain": "phys.org",
-          "date": "2026-07-14T15:20:07.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Mathematics has always been at the core of securing information. From online banking to government communications, modern society relies on cryptography, in which complex mathematical algorithms transform readable information into an unreadable form to keep it secure. But as computing power grows and quantum technology advances, these mathematical safeguards are increasingly vulnerable to being broken. That's where biology stepped in."
-        },
-        {
-          "title": "Engineers find a precise way to grow artificial blood vessels",
-          "url": "https://phys.org/news/2026-07-precise-artificial-blood-vessels.html",
-          "domain": "phys.org",
-          "date": "2026-07-14T14:30:02.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Tissue engineers are finding ways to grow living organs and tissues from cells, with the aim of replacing diseased and damaged counterparts in the body. Scientists have successfully grown artificial muscles, livers, kidneys, skin and other tissues. But there's been no reliable way to engineer precisely patterned networks of blood vessels, some of which can be finer than a human hair."
-        },
-        {
-          "title": "First-of-its-kind surgery performed on western lowland gorilla at the San Diego Zoo Safari Park",
-          "url": "https://phys.org/news/2026-07-kind-surgery-western-lowland-gorilla.html",
-          "domain": "phys.org",
-          "date": "2026-07-14T11:00:04.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Mizani, a 12-year-old male western lowland gorilla at the San Diego Zoo Safari Park, underwent a first-of-its-kind mastoidectomy to treat an infection that had spread into portions of his skull. The surgery was performed by a multidisciplinary team of wildlife health experts from the San Diego Zoo Safari Park and surgeons from UC San Diego Health."
-        },
-        {
-          "title": "Research brings the era of microbial cell factories one step closer",
-          "url": "https://phys.org/news/2026-07-era-microbial-cell-factories-closer.html",
-          "domain": "phys.org",
-          "date": "2026-07-14T10:35:14.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "The era of \"biomanufacturing,\" in which microbes, not petroleum, produce chemical products, is one step closer. A KAIST research team has analyzed the key challenges limiting the commercialization of biomanufacturing and proposed an AI-driven strategy for industrialization."
-        },
-        {
-          "title": "Longitudinal MRI template of the baboon brain from birth to adolescence",
-          "url": "https://arxiv.org/abs/2607.09746",
+          "title": "AlphaFunctor: Bridging The Gap Between Protein Function Annotation and Property Prediction",
+          "url": "https://arxiv.org/abs/2607.12196",
           "domain": "arxiv.org",
-          "date": "2026-07-14T04:00:00.000Z",
+          "date": "2026-07-15T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2607.09746v1 Announce Type: new Abstract: The baboon (Papio) is an invaluable resource within nonhuman primate research, having the advantage of being a cercopithecoid (Old World monkey) with one of the largest brains among non-hominid primates. In order to facilitate comparative developmental neuroscience research, we present the BABACOOL (BAby Brain Atlas COnstruction for Optimized Labeled segmentation) approach for creating multi-modal developmental atlases, which we used to produce BaBa21, a population-based longitudinal developmental baboon template. BaBa21 is a spatio-temporal template that consists of structural (T1- and T2-weighted) images and tissue probability maps from a population of 21 baboons (Papio anubis) scanned at 4 timepoints beginning from about 2 weeks after birth and continuing to sexual maturity (5 years). Further, his study offers a fully automatic method for generating a template at any intermediate age for future age-specific group studies. This resource is made available to provide a normalization target for baboon data across the lifespan, including intermediate timepoints, and moreover facilitate neuroimaging research in baboons, comparative research with humans and nonhuman primate species for which developmental templates are available (e.g., macaques)."
+          "summary": "arXiv:2607.12196v1 Announce Type: new Abstract: The fundamental relationship among protein sequence, structure, function, and physicochemical properties is a central principle in biology. While in principle protein function and properties should be able to be derived directly from protein sequence, in practice protein function and property prediction methods have been designed around specific datasets and specific property or function subsets, leading to an enormous gap between function annotation and property prediction. To address these challenges, we introduce AlphaFunctor, a category theory based foundation model-like platform to bridge the gap between protein function annotation and property prediction. Based on the hypothesis that protein function and properties can be directly derived from protein sequence, AlphaFunctor predicts protein functions as represented by Gene Ontology terms directly from sequence. Using these function predictions, AlphaFunctor further maps protein functions using topological spectral theory, path-complex neural networks, and protein domain analysis onto downstream property prediction. AlphaFunctor is (pre)trained in nearly 0.6 million protein function data points to deliver the state-of-the-art protein function annotation on three benchmark datasets. Without task-specific network redesign, AlphaFunctor maps qualitative protein function annotation to various qualitative and quantitative protein property predictions, outperforming other dataset-specific and task-specific competing predictors."
         },
         {
-          "title": "G2P Explorer: A Native iOS Framework for Residue-Level Genomics to Proteomics Visualization and Structural Variant Interpretation",
-          "url": "https://arxiv.org/abs/2607.09838",
+          "title": "Contrasting statistical patterns in melodic and molecular evolution reveal distinctive constraints in a culturally evolving system",
+          "url": "https://arxiv.org/abs/2607.12673",
           "domain": "arxiv.org",
-          "date": "2026-07-14T04:00:00.000Z",
+          "date": "2026-07-15T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2607.09838v1 Announce Type: new Abstract: Genetic testing reports coding variants far faster than they can be interpreted, and placing a variant in its biophysical context, the domain it perturbs, whether its residue is buried or exposed, whether it lies near a disulfide bond or a predicted binding pocket increasingly requires projecting it onto a three dimensional protein model. The Genomics 2 Proteins (G2P) portal unifies the gene-to-structure identifier chain with a dense, residue indexed annotation table, but its visualization layer presumes a desktop browser and is awkward at the bedside, in the classroom, or in the field, where a phone or tablet is often the only device. We present G2P Explorer, a native iOS framework that consumes the public G2P REST API on device, parses its seventy one column tab separated feature tables without loss of fidelity, and presents the result through six interlinked modules sharing a single observable view model. Beyond porting, it contributes a SwiftUI Canvas multi-track sequence renderer, an on device reconstruction of the portal's unavailable isoform alignment route, a bidirectional Swift JavaScript structural bridge that absorbs the AlphaFold model file versioning scheme, and a fault tolerant ingestion layer that parses semi structured free text and distinguishes absent annotations from zero. Each searched protein is cached on device after the first fetch, so it reopens instantly and works offline, and the embedded structural view is drawn in a reduced form suited to a small screen. Across six proteins spanning 189-1{,}863 residues, the framework sustains interactive frame times (3.1-16.6\\,ms) and modest memory (16-72\\,MB). G2P Explorer is an open, reproducible mobile companion to the G2P portal for hypothesis generation, teaching, and on the go variant interpretation."
+          "summary": "arXiv:2607.12673v1 Announce Type: new Abstract: Evolved sequences can be used to infer the rules of evolution. Orally transmitted folk melodies are evolved sequences whose similarity to protein sequences (one-dimensional, drawn from a limited alphabet) invites application of bioinformatics methods to study cultural evolution. A major obstacle is that melodies encode rhythm, which breaks some assumptions of standard sequence-alignment algorithms. We develop a rhythm-aware alignment method and apply it to \\num{40000} Irish dance tune variants, enabling the first large-scale automated melodic alignment. Four canonical bioinformatics analyses -- mutability, substitution matrices, positional conservation, and covariance -- reveal patterns distinct from those of molecular evolution, revealing the forces that shape each domain: biochemical and biophysical constraints for proteins; memory, motor, and social biases for melodies. Together the results show that bioinformatics provides a powerful framework -- conceptual as much as algorithmic -- for studying cultural evolution. Although the cultural transmission of music has been discussed for centuries, here we show how to analyze it at large scale."
         },
         {
-          "title": "A Differential Framework for Dynamic Programming in Biological Sequence Analysis",
-          "url": "https://arxiv.org/abs/2607.09872",
+          "title": "Real-time fall detection based on vision for low-power edge platforms",
+          "url": "https://arxiv.org/abs/2607.12909",
           "domain": "arxiv.org",
-          "date": "2026-07-14T04:00:00.000Z",
+          "date": "2026-07-15T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2607.09872v1 Announce Type: new Abstract: Background: Dynamic programming in biological sequence analysis computes probabilities or partition functions by summing over exponentially many latent paths, alignments, derivation trees, or RNA secondary structures. Their backward and outside quantities are used model-specifically, but the relation between differential sensitivities and exact finite sequence changes is rarely stated in a common framework. Methods: We represent hidden Markov models, affine-gap alignment ensembles, stochastic context-free grammars, and RNA secondary-structure ensembles as sum--product dynamic programs, defining backward and outside quantities as adjoints of forward or inside variables and sequence changes as finite replacements of sequence-dependent local factors. Results: Posterior item marginals are normalized inside--outside products, local-event posteriors additionally include the local factor and child inside terms, and expected feature counts are logarithmic derivatives of the partition function. For HMMs, ordinary SCFGs, and single-position substitutions in affine-gap alignment, the partition function is multi-affine in position-specific factor groups, so a one-site change is recovered exactly from first-derivative coefficients and multisite changes from mixed derivatives. In nearest-neighbor RNA models a substitution alters overlapping loop, stacking, and multiloop factors and boundary contexts, so exact mutation effects instead require context-dependent inside--outside recombination, as in the Rchange algorithm. Numerical experiments reproduce brute-force recomputation to machine precision. Conclusions: The framework identifies when derivatives give exact finite sequence effects and when broader recombination is required, providing a unified basis for posterior marginals, expected counts, parameter sensitivity, mutation analysis, and sequence design."
+          "summary": "arXiv:2607.12909v1 Announce Type: new Abstract: Falling detection is vital for elderly care and intelligent surveillance; however, prevailing vision-based approaches predominantly frame it as static pose classification or discrete temporal pattern matching, fundamentally overlooking the instability dynamics of the human support system. This paper proposes a physics-informed falling detection framework that recasts falling as a stability-loss event in a coupled dynamical system. We introduce a novel dual-LTC architecture comprising a Center-of-Mass (CoM) subsystem and a Base-of-Support (BoS) subsystem, both instantiated as Liquid Time-Constant (LTC) neural networks to continuously model inertial trajectory evolution and ground-contact adjustment through adaptive time constants, Physical interpretability of falling motion. A learnable coupling module emulates physical interaction between the two subsystems, while a Stability Manifold classifier operates in the joint latent space to detect boundary crossing via Lyapunov-inspired stability metrics. Complementary counterfactual trajectory projection and Time-to-Collision (TTC) estimation further enable irreversibility assessment and early warning. The architecture is designed to support a three-state prediction paradigm (Normal, Falling, Fallen); in this preliminary study, we validate the core stability discrimination capability on a two-class dataset (Normal vs. Falling), leaving the full three-state temporal transition to future work. Unlike conventional CNN--RNN pipelines, the proposed formulation encodes continuous-time mechanical inertia, yielding a sub-50K-parameter network capable of real-time inference on resource-constrained edge devices. Extensive experiments demonstrate competitive accuracy with superior physical interpretability, validating its efficacy for low-compute visual fall detection."
         },
         {
-          "title": "Emergent Generalization by Representation Learning in Artificial Neural Networks",
-          "url": "https://arxiv.org/abs/2607.10430",
+          "title": "On Tree-Network Distinguishability and Full Identifiability of Phylogenetic Networks",
+          "url": "https://arxiv.org/abs/2607.12919",
           "domain": "arxiv.org",
-          "date": "2026-07-14T04:00:00.000Z",
+          "date": "2026-07-15T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2607.10430v1 Announce Type: new Abstract: Dimensionality reduction has proven powerful for identifying neural manifolds, which are low-dimensional structures underlying high-dimensional neural activity. These low-dimensional representations have improved the interpretability of population-level coding. Yet whether such low-dimensional representations are biologically relevant and confer functional advantages in learning systems, or merely reflect neuron-level activity, remains contested in neuroscience. We show that an explicit information bottleneck forcing a recurrent neural network to learn a low-dimensional representation is necessary for rotational and out-of-distribution generalisation in a time-series prediction task. Using information-theoretic measures of causal emergence, we characterise the dynamics of this representation across the memorisation-to-generalisation transition, finding a non-monotonic trajectory which shows an initial decrease, a minimum, and a subsequent rise to a maximum, even as prediction loss falls monotonically. This trajectory scales with task complexity, and the magnitude of emergent structure reliably predicts generalisation performance. Analysis of CA1 hippocampal activity in mice learning an alternating maze task reveals analogous non-monotonic emergence dynamics that track behavioural performance. Together, these findings indicate that the ability of neural networks to learn compact, distributed and emergent representations confers a functional advantage for generalisation, supporting a causal role for learned representations in cognition."
+          "summary": "arXiv:2607.12919v1 Announce Type: new Abstract: Phylogenetic networks generalize phylogenetic trees to evolutionary histories that include reticulate events such as recombination, horizontal gene transfer, and hybridization. Under a Markov model of nucleotide substitution, a phylogenetic network determines a distribution of leaf-patterns. Here, we study the identifiability of the network topology from this distribution under the Jukes-Cantor (JC), Kimura 2-parameter (K2P), and Kimura 3-parameter (K3P) models. Our first result is that the semi-directed network parameter of a level-1 phylogenetic network (modulo redirecting triangles) is fully identifiable under all three models, on a biologically reasonable parameter space in which substitution rates are probabilistic and mixing parameters are non-trivial (i.e., not 0 or 1). In contrast to the generic identifiability established in prior work, this holds at every point of the parameter space, not merely off of a measure-zero subset. Our second result distinguishes phylogenetic networks from phylogenetic trees, on the same parameter space, under JC and K2P. We prove that no phylogenetic network and phylogenetic tree can induce the same leaf-pattern distribution unless the network is a tree, possibly augmented with certain substructures called $2$-blobs. This means the presence of reticulate evolution creates, in most cases, a detectable signature in the leaf-pattern distribution. More broadly, these results have consequences for identifiability beyond the models and network classes studied here, including for several coalescent-based models."
+        },
+        {
+          "title": "Optimal photostimulation selection for iterative activity maps",
+          "url": "https://arxiv.org/abs/2607.12930",
+          "domain": "arxiv.org",
+          "date": "2026-07-15T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2607.12930v1 Announce Type: new Abstract: All-optical two-photon holographic optogenetics enables causal circuit mapping by stimulating defined neurons or ensembles while imaging population activity. Yet exhaustive connectivity mapping remains experimentally prohibitive because of combinatorial complexity, tissue heating, photodamage, and experimental time. We present OPhELIA (Optimal Photostimulation sElection for Iterative Activity maps), a Bayesian framework for selecting informative perturbations under limited trial budgets. OPhELIA combines Beta-Bernoulli connectivity inference with an ambiguity-based acquisition heuristic and learned priors derived from pre-stimulation neural activity, augmenting active learning and compressed sensing. In standalone simulations and in vivo larval zebrafish visuomotor experiments, OPhELIA with active learning improves trial-efficient approximation of exhaustive functional connectomes. In combinatorial in vivo experiments, OPhELIA with compressed sensing most closely recovers an exhaustive connectome using only 5% of trials. These results establish OPhELIA as a sample-efficient framework for causal connectomics."
+        },
+        {
+          "title": "Constructed Reality, Contested Priors: Decoupling and the Architecture of Cognitive Relapse Under the Free Energy Principle",
+          "url": "https://arxiv.org/abs/2607.11958",
+          "domain": "arxiv.org",
+          "date": "2026-07-15T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2607.11958v1 Announce Type: cross Abstract: Under the free energy principle, a predictive system does not observe reality directly; it maintains a generative model of the world and experiences that model's best current hypothesis. Can a synthetic environment be made consistent enough that a predictive system's own inference machinery adopts it as this default hypothesis, permanently displacing the environment that first shaped it? We call this state ontological inversion. Because inducing and monitoring such a transition in a nervous system is neither ethical nor technically feasible, we study the underlying computational problem through a controlled proxy: a convolutional variational autoencoder paired with a recurrent latent predictor, whose evidence lower bound objective is mathematically identical, up to sign, to variational free energy itself. The network is trained first on a baseline visual domain, then on a mixed stream in which a swept rehearsal ratio r controls how much baseline content persists during transition to a target domain. Representational capacity, what the latent space can discriminate, is tracked separately from default behavior, what the system generates when left unconstrained. Across a full sweep of 90 runs, the two diverge sharply: representational accuracy stays near ceiling, 0.97 to 0.998, regardless of r, while default behavior spans nearly the system's entire range depending on r alone, a decoupling of learning from acceptance. More strikingly, at intermediate r the system's default output rises toward the target domain, then partially reverts toward the baseline while training continues unchanged, a structural failure we term cognitive relapse. Resistance to reality-adoption is not reducible to learning speed; it is a structural property with its own distinct failure modes, established here as a computational existence proof and nothing further."
+        },
+        {
+          "title": "Harvesting Reshapes Dynamical Populations",
+          "url": "https://arxiv.org/abs/2607.12093",
+          "domain": "arxiv.org",
+          "date": "2026-07-15T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2607.12093v1 Announce Type: cross Abstract: Harvesting -- the periodic removal of individuals above or below a threshold trait value -- reshapes heterogeneous populations without altering their underlying stochastic dynamics. We study how repeated harvesting events steer the evolution of probability densities for classes of stochastic processes exhibiting both normal and anomalous dynamics, as well as a prototypical predator-prey model. Removal of the upper portion of the density drives the system to a quasi-steady state when viewed at the ``harvesting clock''. This state depends only on the harvesting threshold and frequency but not on the initial conditions. Removal of the lower portion of the density fixes its shape while generating a constant effective drift that exceeds that of the unharvested mean. Our results suggest the possibility of manipulating the dynamics of stochastic populations through external selection interventions."
+        },
+        {
+          "title": "Differentiable Clone-Structured Causal Graphs for End-to-End Cognitive Map Learning from Image Sequences",
+          "url": "https://arxiv.org/abs/2607.12382",
+          "domain": "arxiv.org",
+          "date": "2026-07-15T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2607.12382v1 Announce Type: cross Abstract: How can an agent build a structured map of its world from nothing but an ongoing sequence of raw sensory input and its own movements, especially when natural variation means exact sensory patterns rarely repeat? The Clone-Structured Causal Graph algorithm (CSCG), a normative hippocampus model, shows how an interpretable map can be learned from aliased observations. However, CSCG requires a predefined discrete alphabet, and its expectation-maximization formulation is not easily combined with existing neural network modules, preventing the end-to-end processing of raw image sequences. We remove this barrier by reformulating CSCG as a single, fully differentiable module, gradCSCG, and coupling it to a learned vector-quantized variational autoencoder (VQ-VAE) perceptual front-end. A soft emission forward pass allows the map-learning objective to flow back into perception, while a set of loss-balancing mechanisms mitigates module collapse during joint training. We demonstrate, first, that gradient training reproduces CSCG's results on original symbolic grid worlds by recovering room topology from heavily aliased observations. Second, we show that map recovery remains robust on MNIST image sequences, where each visit to a location yields a newly sampled image of its assigned digit. Across four heavily aliased environments, the end-to-end pipeline successfully uncovers the underlying adjacency graph with high edge precision and recall, directly from visual input. This work provides a proof of principle that CSCG can serve as a composable building block in a deep learning architecture."
+        },
+        {
+          "title": "Entropy-Driven Initiation and Cellular Uptake Mediated by Viscoelastic Cytoskeleton: A Kinetic Phase Diagram from Onsager Variational Principle",
+          "url": "https://arxiv.org/abs/2607.12766",
+          "domain": "arxiv.org",
+          "date": "2026-07-15T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2607.12766v1 Announce Type: cross Abstract: A fundamental question in receptor-mediated endocytosis remains unanswered: what initial driving force brings ligands and receptors into close proximity? While previous models assume pre-existing contact and overlook this initiation problem, we propose that entropic forces from nanoscale biomolecules in crowded cellular environments provide the essential driving mechanism. We develop a unified continuum model rooted in the Onsager variational principle, where engulfment depth serves as the generalized coordinate and the driving force derives from a free energy landscape of entropic, binding, membrane, and cytoskeleton contributions. The framework naturally incorporates: (i) entropy-driven adhesion as initiation; (ii) ligand-receptor binding as the sustaining force; (iii) membrane deformation via the Helfrich-Canham Hamiltonian; and (iv) cytoskeleton viscoelasticity through the elastic-viscoelastic correspondence principle. The kinetic phase diagram predicts a critical biomolecule concentration for initiation, a lower bound of ligand density for complete engulfment, a finite size window for engulfable particles, and an optimal virus radius of 30--60 nm that decreases with increasing binding energy. The Onsager solubility condition naturally yields the phase boundaries. The model exhibits asymptotic consistency with the classic Asakura-Oosawa result in the large-particle flat-surface limit. Stiffer cells lead to longer engulfment times and narrower size windows. Strikingly, the optimal size matches HIV-1 dimensions under physiologically realistic parameters. This work provides a variational foundation for cellular uptake with implications for virology, nanotechnology, and drug delivery."
+        },
+        {
+          "title": "Learning Mechanistic Reasoning for Chemical Reactions with Large Language Models",
+          "url": "https://arxiv.org/abs/2607.12771",
+          "domain": "arxiv.org",
+          "date": "2026-07-15T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2607.12771v1 Announce Type: cross Abstract: Reaction mechanisms consist of the step-by-step sequences of elementary reactions that explain chemical transformations. Learning the mechanism logic is therefore essential for enhancing the fundamental chemical intelligence of large language models (LLMs). The stepwise deduction of reaction mechanism aligns naturally with the reasoning paradigms of reasoning LLMs. However, current chemical LLMs primarily emphasize coarse-grained name reactions for product prediction and retrosynthesis, often leading to physical inconsistencies and hallucinations. In contrast, specialized small-scale generative models for mechanism inference typically suffer from restricted generalization capacity across diverse chemical spaces. To overcome these limitations, we built a novel, large-scale reasoning dataset of reaction mechanisms. Furthermore, we established the FukuyamaBench, a difficult benchmark derived from Fukuyama's Advanced Organic Reaction Mechanism book, to rigorously evaluate model performance on hierarchical mechanism reasoning. Our fine-tuned Qwen3-30B-A3B achieves 8.3% exact pathway match on FukuyamaBench Set~A, surpassing the specialized FlowER model (5.1%), demonstrating that mechanism-aware training substantially enhances chemical reasoning in language models."
         }
       ]
     },
@@ -278,7 +278,47 @@
       ],
       "articles": [
         {
-          "title": "Over 95% of Coinbase’s code is now written with AI",
+          "title": "US freezes $131M in Iran-linked crypto as Middle East tensions rise",
+          "url": "https://cointelegraph.com/news/us-freezes-131m-in-iran-linked-crypto-as-middle-east-tensions-rise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-15T03:17:59.000Z",
+          "source": "CoinTelegraph",
+          "summary": "“US Treasury is committed to disrupting and degrading Iran’s illicit financial activities, including its abuse of digital assets,” US Treasury Secretary Scott Bessent said Tuesday."
+        },
+        {
+          "title": "How Asset Managers Are Investing in Crypto",
+          "url": "https://www.theblock.co/learn/408181/how-asset-managers-are-investing-in-crypto?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-15T01:55:20.000Z",
+          "source": "The Block",
+          "summary": "Asset managers invest in crypto mainly through regulated products: spot ETFs, digital asset funds, tokenized funds, qualified custodians, and blockchain company equity. Most invest on behalf of clients rather than for their own accounts. Their aim is to deliver digital asset exposure inside the brokerage, retirement, and advisory structures clients already use, with the custody, [&hellip;]"
+        },
+        {
+          "title": "Bitcoin vs Gold as a Reserve Asset",
+          "url": "https://www.theblock.co/learn/408147/bitcoin-vs-gold-as-a-reserve-asset?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-15T01:52:59.000Z",
+          "source": "The Block",
+          "summary": "A reserve asset is something an institution or government holds to preserve value, provide liquidity, and act as a store of wealth outside its day-to-day operating currency. Bitcoin and gold are both treated as reserve assets because each is scarce, hard to counterfeit, and independent of any single company’s performance. Gold has filled that role [&hellip;]"
+        },
+        {
+          "title": "Ark Invest adds $14 million in Circle shares while selling Robinhood",
+          "url": "https://www.theblock.co/post/408336/ark-invest-adds-14-million-in-circle?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-15T01:52:11.000Z",
+          "source": "The Block",
+          "summary": "Ark Invest bought $14 million worth of Circle and $1.5 million worth of Block Inc., while selling $3.2 million worth of Robinhood."
+        },
+        {
+          "title": "Bitmine generated $46M from Ethereum staking last quarter",
+          "url": "https://cointelegraph.com/news/bitmine-generated-46m-from-ethereum-staking-last-quarter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-15T01:28:14.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Ethereum staking generated 98% of Bitmine’s revenue last quarter as the company’s pivot from Bitcoin mining gained momentum following its March validator launch."
+        },
+        {
+          "title": "Over 95% of Coinbase’s code is now written with help of AI",
           "url": "https://cointelegraph.com/news/over-95-of-coinbases-code-is-now-written-with-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
           "date": "2026-07-14T22:30:00.000Z",
@@ -316,46 +356,6 @@
           "date": "2026-07-14T20:04:31.000Z",
           "source": "CoinTelegraph",
           "summary": "Backed by Dragonfly, FirstMark and Coinbase Ventures, the startup is expanding software that helps businesses integrate stablecoins into treasury and payment workflows."
-        },
-        {
-          "title": "Here’s what happened in crypto today",
-          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-14T19:52:11.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-        },
-        {
-          "title": "US, UK treasuries to align transatlantic rules on tokenization and stablecoins",
-          "url": "https://cointelegraph.com/news/us-uk-treasuries-rules-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-14T19:45:20.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The two governments issued recommendations on the treatment of digital assets as the US prepares to implement a 2025 law on payment stablecoins."
-        },
-        {
-          "title": "CFTC orders Kalshi to honor Michigan trades, escalating clash with state regulators",
-          "url": "https://www.theblock.co/post/408323/cftc-orders-kalshi-honor-michigan-trades-escalating-clash-state-regulators?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-14T19:08:00.000Z",
-          "source": "The Block",
-          "summary": "Jurisdiction over prediction market platforms is an ongoing dispute between the CFTC and multiple state regulators."
-        },
-        {
-          "title": "Some U.S. Senate Democrats come out against Clarity Act, calling it a 'corrupt' bill",
-          "url": "https://www.coindesk.com/policy/2026/07/14/some-u-s-senate-democrats-come-out-against-clarity-act-calling-it-a-corrupt-bill",
-          "domain": "coindesk.com",
-          "date": "2026-07-14T18:57:15.000Z",
-          "source": "CoinDesk",
-          "summary": "Certain Democrats are taking an increasingly rigorous stand against the crypto market structure bill, which needs a significant number from their party to pass."
-        },
-        {
-          "title": "US-UK transatlantic taskforce unveils digital asset roadmap promoting stablecoin innovation",
-          "url": "https://www.theblock.co/post/408305/us-uk-transatlantic-taskforce-unveils-digital-asset-roadmap-promoting-stablecoin-innovation?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-14T17:59:25.000Z",
-          "source": "The Block",
-          "summary": "The U.S. and UK are deepening cooperation on digital assets, particularly for stablecoins and tokenized assets."
         }
       ]
     }
