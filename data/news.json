@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-15T21:17:24.982Z",
+  "updatedAt": "2026-07-15T22:31:41.163Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -103,7 +103,7 @@
           "domain": "lifespan.io",
           "date": "2026-07-15T17:08:51.000Z",
           "source": "Lifespan.io",
-          "summary": "Today, Forever Healthy announces the launch of a set of new tools to make it easier than ever for AI agents, research pipelines, and AI environments to integrate Evipedia. Evipedia is Forever Healthy’s comprehensive, continuously updated online […]"
+          "summary": "Today, Forever Healthy announces the launch of a set of new tools to make it easier than ever for AI agents, research pipelines, and AI environments to integrate Evipedia. Evipedia is […]"
         },
         {
           "title": "From lab to factory: Klotho reaches a new milestone",
@@ -278,6 +278,22 @@
       ],
       "articles": [
         {
+          "title": "Stripe-PayPal deal could accelerate shift to blockchain-based money, Polygon exec says",
+          "url": "https://www.theblock.co/post/408525/stripe-paypal-deal-accelerate-stablecoins-blockchain?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-15T21:41:07.000Z",
+          "source": "The Block",
+          "summary": "\"Within the next few years the majority of money will live and move on blockchain in one form or another,\" according to Polygon Labs."
+        },
+        {
+          "title": "Public Hyperliquid treasury firm Hyperion enters into new 500k HYPE bond agreement with Skew",
+          "url": "https://www.theblock.co/post/408538/hyperliquid-treasury-firm-hyperion-new-500k-hype-bond-skew?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-15T21:33:12.000Z",
+          "source": "The Block",
+          "summary": "Hyperion will deploy 500,000 tokens to Skew through a HYPE Asset Use Service (HAUS) agreement in exchange for equity and revenue share."
+        },
+        {
           "title": "Strategy CEO says company isn’t going anywhere as bitcoin buyer, sees debt concerns only below $10,000 BTC",
           "url": "https://www.theblock.co/post/408532/strategy-ceo-bitcoin-debt-concerns-btc-interview?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
@@ -340,22 +356,6 @@
           "date": "2026-07-15T17:58:49.000Z",
           "source": "The Block",
           "summary": "Coinbase executive Jesse Pollak will focus on Base blockchain's infrastructure, prioritizing trading, stablecoin payments, and AI agents."
-        },
-        {
-          "title": "US Senator blasts AG pick for ‘dismantling’ crypto unit, Trump’s CZ pardon",
-          "url": "https://cointelegraph.com/news/todd-blanche-hearing-dismantling-justice-crypto-unit-donald-trumps-pardon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-15T17:56:00.000Z",
-          "source": "CoinTelegraph",
-          "summary": "President Donald Trump’s pick for US Attorney General faced criticism from members of the Senate Judiciary Committee on his approach to crypto enforcement and the pardon of former Binance CEO Changpeng Zhao."
-        },
-        {
-          "title": "Ostium pauses trading as security firms report multimillion-dollar oracle exploit",
-          "url": "https://cointelegraph.com/news/ostium-pauses-trading-as-security-firms-report-multimillion-dollar-oracle-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-15T17:14:21.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Ostium halted trading and advised revoking contract approvals after blockchain security firms reported an apparent oracle-related exploit of its OLP liquidity vault, with estimated losses ranging from $18 million to $22 million."
         }
       ]
     }
