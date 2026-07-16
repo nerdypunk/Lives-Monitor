@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-16T13:01:33.760Z",
+  "updatedAt": "2026-07-16T15:14:01.022Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -98,6 +98,22 @@
       ],
       "articles": [
         {
+          "title": "Neko Health secures $700m to fuel expansion",
+          "url": "https://longevity.technology/news/neko-health-secures-700m-to-fuel-expansion/",
+          "domain": "longevity.technology",
+          "date": "2026-07-16T14:12:36.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Preventive health platform will use new funding to expand into US while growing longitudinal health dataset and proprietary diagnostic tech. Neko Health has raised $700 million in a Series C financing round led by Lightspeed Venture Partners and co-led by OG Venture Partners, valuing the Swedish preventive health company at approximately $1.8 billion – a […] The post Neko Health secures $700m to fuel expansion appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "Can Asian banks follow Indonesia’s longevity move?",
+          "url": "https://longevity.technology/news/can-asian-banks-follow-indonesias-longevity-move/",
+          "domain": "longevity.technology",
+          "date": "2026-07-16T13:55:49.000Z",
+          "source": "Longevity.Technology",
+          "summary": "AIA and BCA are turning preventive longevity into wealth management service, hinting at future where banks may help protect more than assets. For decades, private banking has revolved around a familiar promise: grow wealth, preserve wealth and pass it on to the next generation. However, what if preserving wealth also meant preserving the person who […] The post Can Asian banks follow Indonesia’s longevity move? appeared first on Longevity.Technology ."
+        },
+        {
           "title": "Startup Juno Bio raises $3.8m for smarter women’s diagnostics",
           "url": "https://longevity.technology/news/startup-juno-bio-raises-3-8m-for-smarter-womens-diagnostics/",
           "domain": "longevity.technology",
@@ -160,22 +176,6 @@
           "date": "2026-07-15T11:41:37.000Z",
           "source": "Longevity.Technology",
           "summary": "BioAge Labs has dosed the first participant in QUELL-CV, a randomized, double-blind, placebo-controlled, dose-ranging Phase 2 proof-of-concept trial of BGE-102, according to the company. BGE-102 is described as a potent, structurally novel, orally available, brain-penetrant small molecule NLRP3 inhibitor developed from a hit identified via HitGen’s DEL technology and being advanced as a once-daily oral […] The post BioAge doses first patient in Phase 2 trial of new cardiovascular drug appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Halia Therapeutics presents promising Alzheimer’s drug data, outlines upcoming clinical trial",
-          "url": "https://longevity.technology/news/halia-therapeutics-presents-promising-alzheimers-drug-data-outlines-upcoming-clinical-trial/",
-          "domain": "longevity.technology",
-          "date": "2026-07-15T11:36:37.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Halia Therapeutics announced two posters at the Alzheimer’s Association International Conference (AAIC) 2026, held 12–15 July, that link preclinical work on its brain-penetrant LRRK2 inhibitor HT-4253 to a planned biomarker-driven Phase 2a trial in APOE4 carriers. According to the company, preclinical studies showed HT-4253 inhibited LRRK2 autophosphorylation and Rab10 phosphorylation in human cell models, reduced […] The post Halia Therapeutics presents promising Alzheimer’s drug data, outlines upcoming clinical trial appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Tenpoint seeks UK approval for once-daily eye drop to treat age-related near vision loss",
-          "url": "https://longevity.technology/news/tenpoint-seeks-uk-approval-for-once-daily-eye-drop-to-treat-age-related-near-vision-loss/",
-          "domain": "longevity.technology",
-          "date": "2026-07-15T11:36:36.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Tenpoint Therapeutics has submitted a Marketing Authorization Application to the United Kingdom Medicines and Healthcare products Regulatory Agency for YUVEZZI, a once-daily dual-agent eye drop (carbachol and brimonidine tartrate 2.75%/0.1%) developed to treat presbyopia in adults. The MAA was filed through the MHRA’s International Recognition Procedure and will take into account the product’s U.S. Food […] The post Tenpoint seeks UK approval for once-daily eye drop to treat age-related near vision loss appeared first on Longevity.Technology ."
         }
       ]
     },
@@ -278,84 +278,84 @@
       ],
       "articles": [
         {
+          "title": "The Clarity Act is the most important consumer protection effort in years",
+          "url": "https://www.coindesk.com/opinion/2026/07/16/the-clarity-act-is-the-most-important-consumer-protection-effort-in-years",
+          "domain": "coindesk.com",
+          "date": "2026-07-16T15:07:30.000Z",
+          "source": "CoinDesk",
+          "summary": "Consumers should not have to wait for another crisis to get the protections they deserve, argues Summer Mersinger, CEO of the Blockchain Association."
+        },
+        {
+          "title": "SBI extends onchain finance push with Ondo deal to tokenize Japanese stocks",
+          "url": "https://www.theblock.co/post/408633/sbi-extends-onchain-finance-push-with-ondo-deal-tokenize-japanese-stocks?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-16T14:59:02.000Z",
+          "source": "The Block",
+          "summary": "Japan's SBI Holdings will use JPYSC for settlement and collateral while distributing Ondo products through its network."
+        },
+        {
+          "title": "Crypto for Advisors: Strengthening defenses against AI fraud",
+          "url": "https://www.coindesk.com/coindesk-indices/2026/07/16/crypto-for-advisors-strengthening-defenses-against-ai-fraud",
+          "domain": "coindesk.com",
+          "date": "2026-07-16T14:54:11.000Z",
+          "source": "CoinDesk",
+          "summary": "Strengthening defenses against AI fraud"
+        },
+        {
+          "title": "Keyrock closes deal for BlockFills’ institutional trading and brokerage assets",
+          "url": "https://www.theblock.co/post/408639/keyrock-closes-deal-blockfill-institutional-trading-brokerage-assets?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-16T14:42:26.000Z",
+          "source": "The Block",
+          "summary": "The Brussels-based firm was earlier selected as the buyer for $3.25 million in BlockFills’ Chapter 11 bankruptcy process."
+        },
+        {
+          "title": "Crypto brokerage firm Alpaca raises $135 million for tokenized stock infrastructure",
+          "url": "https://www.coindesk.com/business/2026/07/16/crypto-brokerage-firm-alpaca-raises-usd135-million-for-tokenized-stock-infrastructure",
+          "domain": "coindesk.com",
+          "date": "2026-07-16T14:19:32.000Z",
+          "source": "CoinDesk",
+          "summary": "The company has previously cleared or held in custody roughly 94% of tokenized U.S. equities and now holds over $1.5 billion in underlying stocks."
+        },
+        {
+          "title": "Polygon Labs announces second round of layoffs in 2026 as firm looks to finalize Coinme acquisition",
+          "url": "https://www.theblock.co/post/408625/polygon-labs-second-round-of-layoffs-2026-finalize-coinme-acquisition?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-16T13:47:51.000Z",
+          "source": "The Block",
+          "summary": "\"Two rounds of changes in one year is a lot to ask of a team, and I understand it is hard to manage,\" Polygon Labs CEO Marc Boiron said."
+        },
+        {
+          "title": "Alpaca raises $135M to fund tokenized agent-first infrastructure",
+          "url": "https://cointelegraph.com/news/alpaca-raises-135m-to-fund-tokenized-agent-first-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-16T13:34:19.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The BNP-backed brokerage infrastructure provider is expanding into tokenized markets and AI-native financial services as both DeFi and TradFi companies pursue onchain business."
+        },
+        {
+          "title": "Gambling on random Pokémon cards: Onchain gagcha hits record high as crypto sinks",
+          "url": "https://cointelegraph.com/features/pokemon-cards-as-rwas-gacha-spending-hits-records-as-crypto-sinks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-16T13:30:00.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Users spent a record $324 million on onchain gacha in June, even as Bitcoin hit a 21-month low. The thrill of scoring a top Pokemon card from a random pack is becoming big business"
+        },
+        {
+          "title": "Prediction markets defy crypto downturn with record Q2 volume: CoinGecko",
+          "url": "https://cointelegraph.com/news/crypto-cool-q2-prediction-markets-hit-records-coingecko?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-16T13:05:09.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Prediction markets reached a record $113.8 billion in notional volume in Q2 as spot CEX trading, derivatives volume and stablecoin market cap declined."
+        },
+        {
           "title": "Ledger wants AI agents to manage crypto without holding your keys",
           "url": "https://www.coindesk.com/tech/2026/07/15/ledger-wants-ai-agents-to-manage-crypto-without-holding-your-keys",
           "domain": "coindesk.com",
           "date": "2026-07-16T13:00:00.000Z",
           "source": "CoinDesk",
           "summary": "AI agents can read wallet balances and analyze portfolios but requires every sensitive action to be approved on a Ledger hardware device before it can be executed."
-        },
-        {
-          "title": "Ledger unveils hardware-backed Agent Stack to prevent rogue AI transactions",
-          "url": "https://www.theblock.co/post/408549/ledger-unveils-hardware-backed-agent-stack?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-16T13:00:00.000Z",
-          "source": "The Block",
-          "summary": "With Ledger Agent Stack, users can deploy bots to read balances, suggest transactions, prepare swaps and draft operations."
-        },
-        {
-          "title": "MoonPay acquires Y Combinator-backed crypto deposits startup Glide in all-equity deal",
-          "url": "https://www.theblock.co/post/408603/moonpay-acquires-y-combinator-crypto-glide-all-equity-deal?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-16T13:00:00.000Z",
-          "source": "The Block",
-          "summary": "Crypto unicorn MoonPay has acquired Glide, a Y Combinator-backed crypto deposits startup, in an all-equity deal."
-        },
-        {
-          "title": "Dune research finds 85% of concentrated DeFi liquidity is underutilized, with $150M in annual fees foregone",
-          "url": "https://www.theblock.co/post/408591/dune-research-finds-85-of-concentrated-defi-liquidity-is-underutilized-with-150m-in-annual-fees-foregone?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-16T12:50:02.000Z",
-          "source": "The Block",
-          "summary": "Dune research commissioned by 1inch finds 85% of concentrated DeFi liquidity underutilized, with $150M in annual fees forgone."
-        },
-        {
-          "title": "Tether invests $20 million in Ualá as the fintech firm reaches $3.2 billion valuation",
-          "url": "https://www.theblock.co/post/408604/tether-invests-20-million-in-uala-as-the-fintech-firm-reaches-3-2-billion-valuation?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-16T12:46:06.000Z",
-          "source": "The Block",
-          "summary": "Tether invested $20 million in Argentine neobank Ualá, joining a $197 million funding round that valued the fintech at $3.2 billion."
-        },
-        {
-          "title": "Tokenized stocks market cap gains to record $2.3B",
-          "url": "https://cointelegraph.com/news/tokenized-stocks-rise-23b-all-time-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-16T12:35:52.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The market capitalization of tokenized stocks rose to a record $2.3 billion, as investors sought exposure to the growing list of tokenized equity products launched by cryptocurrency exchanges."
-        },
-        {
-          "title": "FATF urges faster crypto AML enforcement as stablecoin crime increases",
-          "url": "https://cointelegraph.com/news/fatf-urges-crypto-aml-enforcement-stablecoin-crime?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-16T12:05:45.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The global task force said criminal networks are using stablecoins and developing proprietary tokens to evade asset freezes as countries struggle to enforce crypto AML rules."
-        },
-        {
-          "title": "Galaxy targets institutional stablecoin yield with new DeFi vaults",
-          "url": "https://www.coindesk.com/tech/2026/07/16/galaxy-targets-institutional-stablecoin-yield-with-new-defi-vaults",
-          "domain": "coindesk.com",
-          "date": "2026-07-16T12:00:00.000Z",
-          "source": "CoinDesk",
-          "summary": "The crypto financial services firm launched Galaxy Curator, a Morpho-based platform that gives Fireblocks' 2,400 institutional clients access to onchain yield strategies."
-        },
-        {
-          "title": "ARK pushes back against a16z’s ‘TradFi wants blockchain, not DeFi’ claim",
-          "url": "https://cointelegraph.com/news/ark-sentora-a16zs-tradfi-blockchain-defi-thesis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-16T11:35:30.000Z",
-          "source": "CoinTelegraph",
-          "summary": "ARK Invest’s director of research disputed a16z crypto’s thesis that traditional finance will adopt permissioned blockchain infrastructure instead of decentralized finance, saying institutions will increasingly rely on DeFi rails."
-        },
-        {
-          "title": "The most popular bitcoin call option has slipped by $10,000",
-          "url": "https://www.coindesk.com/daybook-us/2026/07/16/the-most-popular-bitcoin-call-option-has-slipped-by-usd10-000",
-          "domain": "coindesk.com",
-          "date": "2026-07-16T11:27:53.000Z",
-          "source": "CoinDesk",
-          "summary": "Your day-ahead look for July 18, 2026"
         }
       ]
     }

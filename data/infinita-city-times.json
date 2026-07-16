@@ -1,8 +1,14 @@
 {
   "source": "Infinita City Times",
   "feed": "https://www.infinitacitytimes.com/feed",
-  "updatedAt": "2026-07-16T13:01:17.672Z",
+  "updatedAt": "2026-07-16T15:13:46.672Z",
   "items": [
+    {
+      "title": "Ep. 112: Tim Urban on Startup Cities, AI Safety, Longevity, and Building Better Societies",
+      "link": "https://www.infinitacitytimes.com/p/ep-112-tim-urban-on-startup-cities",
+      "date": "Thu, 16 Jul 2026 14:02:15 GMT",
+      "summary": "Tim Urban, creator of Wait But Why and the mind behind one of the most-watched TED Talks of all time, joins us to talk about why progress does not happen automatically."
+    },
     {
       "title": "We've Partnered with SheFi!",
       "link": "https://www.infinitacitytimes.com/p/weve-partnered-with-shefi",
@@ -56,12 +62,6 @@
       "link": "https://www.infinitacitytimes.com/p/ep-110-tomas-pueyo-and-trey-goff",
       "date": "Thu, 04 Jun 2026 14:02:01 GMT",
       "summary": "In this episode, the famous blogger Tomas Pueyo (Uncharted Territories) interviews Trey Goff (Chief of Staff & Head of Public Policy at Prospera) & Niklas Anzinger (Founder & CEO of Infinita City)."
-    },
-    {
-      "title": "Inside Infinita’s BioHub Demo Day",
-      "link": "https://www.infinitacitytimes.com/p/inside-infinitas-biohub-demo-day",
-      "date": "Fri, 29 May 2026 14:02:16 GMT",
-      "summary": "From longevity biotech to decentralized infrastructure, BioHub Demo Day showcased some of the startups building inside Infinita’s ecosystem."
     }
   ]
 }
