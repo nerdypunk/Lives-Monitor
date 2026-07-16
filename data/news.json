@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-16T07:03:25.456Z",
+  "updatedAt": "2026-07-16T09:29:49.090Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -15,14 +15,6 @@
           "date": "2026-07-14T07:02:17.000Z",
           "source": "KuCoin",
           "summary": "️DeSci Atoms Market Update 14 July 2026 MarketCap 24hrs Top &nbsp;&nbsp; KuCoin"
-        },
-        {
-          "title": "Bio Protocol develops AI agents to enhance decentralized science operations - Crypto Briefing",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mZGlhbTNwdWQ4dTdRZ1lHYmRVVEx2VWE0Q2h3Rzh5dXlIUFhiRTBoM0Z1Uk5DUzRqcThTMGtUbjI5aGNwTWVyRzdPeWo1Uk90RjFDMnl4VkN4N1FqRjNSNWRuNHZPaGs?oc=5",
-          "domain": "cryptobriefing.com",
-          "date": "2026-07-01T07:00:00.000Z",
-          "source": "Crypto Briefing",
-          "summary": "Bio Protocol develops AI agents to enhance decentralized science operations &nbsp;&nbsp; Crypto Briefing"
         },
         {
           "title": "Bio Protocol launches AI agents to automate dec... - Pluang",
@@ -87,6 +79,14 @@
           "date": "2026-05-04T06:44:54.000Z",
           "source": "Yellow.com",
           "summary": "DeSci Has Raised Millions For Research No VC Would Ever Touch &nbsp;&nbsp; Yellow.com"
+        },
+        {
+          "title": "Bio Protocol Jumps 53.85% in Intraday Trading - bloomingbit",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TN0RaS1ExWkVmU1FzMXlsRUJQVmZhQ2lnNEdfcFVVMEloWHFuS3VDdnd5SlpLakNvNzIxdld1LTY5VWlVX2c4U2pZaUlTaHZybXUwag?oc=5",
+          "domain": "en.bloomingbit.io",
+          "date": "2026-05-02T07:00:00.000Z",
+          "source": "bloomingbit",
+          "summary": "Bio Protocol Jumps 53.85% in Intraday Trading &nbsp;&nbsp; bloomingbit"
         }
       ]
     },
@@ -278,6 +278,46 @@
       ],
       "articles": [
         {
+          "title": "Lummis, Gallego secure unanimous Senate approval opposing Sam Bankman-Fried clemency",
+          "url": "https://www.theblock.co/post/408581/lummis-gallego-secure-unanimous-senate-approval-opposing-sam-bankman-fried-clemency?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-16T09:21:09.000Z",
+          "source": "The Block",
+          "summary": "The U.S. Senate unanimously approved a resolution opposing a presidential pardon or commutation for convicted FTX founder Sam Bankman-Fried."
+        },
+        {
+          "title": "Visa says stablecoins will power micro-commerce in AI agentic economy",
+          "url": "https://www.theblock.co/post/408574/visa-stablecoins-agentic-ai-commerce?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-16T08:29:18.000Z",
+          "source": "The Block",
+          "summary": "Visa said it expects agentic commerce to integrate a hybrid flow that combines both card and stablecoin rails at different stages of a task."
+        },
+        {
+          "title": "Tether invests $20M into Argentine neobank Ualá",
+          "url": "https://cointelegraph.com/news/tether-invests-20m-argentine-neobank-uala?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-16T08:27:31.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Tether reportedly invested $20 million into Ualá, as part of the Argentine neobank’s $197 million funding round announced earlier in March."
+        },
+        {
+          "title": "Bitcoin $107K buyers providing ‘early signals’ of 2026 bear-market bottom: Glassnode",
+          "url": "https://cointelegraph.com/markets/bitcoin-107-buyers-providing-early-signals-of-2026-bear-market-bottom-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-16T08:11:25.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bitcoin realized losses appeared to be copying a reversal structure that marked previous bear-market bottoms, with $69,000 a new BTC price battleground."
+        },
+        {
+          "title": "Robinhood Chain memecoin launchpad Vlad.fun halts after ‘internal integrity’ issue",
+          "url": "https://cointelegraph.com/news/robinhood-chain-memecoin-vladfun-halts-integrity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-16T07:43:45.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Vlad.fun suspended its platform after discovering a “serious internal integrity issue” involving members of its team, without disclosing the nature of the alleged misconduct."
+        },
+        {
           "title": "Bitcoin whale moves $383 million in BTC after 8 years of dormancy: onchain data",
           "url": "https://www.theblock.co/post/408570/bitcoin-whale-moves-8-years?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
@@ -294,12 +334,20 @@
           "summary": "The deal gives Hyperion an equity stake in Skew and a share of listing-service revenue as it expands the utility of its HYPE treasury assets."
         },
         {
-          "title": "Live updates: ZachXBT calls hardware wallets complete garbage; BTC steady near $65,000",
+          "title": "Live updates: ZachXBT calls hardware wallets complete garbage; BTC steady after Korea rate hike",
           "url": "https://www.coindesk.com/markets/2026/07/16/live-updates-zachxbt-calls-hardware-wallets-complete-garbage-btc-steady-near-usd65-000",
           "domain": "coindesk.com",
           "date": "2026-07-16T06:20:00.000Z",
           "source": "CoinDesk",
           "summary": "Blockchain investigator ZachXBT came down heavily on hardware wallets. BTC traded steady near $65,000 after South Korea's rate hike."
+        },
+        {
+          "title": "U.S. Senate unanimously opposes clemency for FTX founder Sam Bankman-Fried",
+          "url": "https://www.coindesk.com/policy/2026/07/16/u-s-senate-unanimously-opposes-clemency-for-ftx-founder-sam-bankman-fried",
+          "domain": "coindesk.com",
+          "date": "2026-07-16T06:00:43.000Z",
+          "source": "CoinDesk",
+          "summary": "The nonbinding resolution passed without objection after Bankman-Fried asked for clemency, months after Trump pardoned other major crypto figures, including Changpeng Zhao and Ross Ulbricht."
         },
         {
           "title": "Here’s what happened in crypto today",
@@ -308,54 +356,6 @@
           "date": "2026-07-16T05:55:48.000Z",
           "source": "CoinTelegraph",
           "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-        },
-        {
-          "title": "A bitcoin wallet dormant since the 2017 peak just moved $383 million",
-          "url": "https://www.coindesk.com/markets/2026/07/16/a-bitcoin-wallet-dormant-since-the-2017-peak-just-moved-usd383-million",
-          "domain": "coindesk.com",
-          "date": "2026-07-16T05:12:26.000Z",
-          "source": "CoinDesk",
-          "summary": "The coins went to a fresh address rather than an exchange, so nothing has been sold yet."
-        },
-        {
-          "title": "Ether outruns bitcoin as ETF money returns, almost all of from BlackRock's fund",
-          "url": "https://www.coindesk.com/markets/2026/07/16/ether-outruns-bitcoin-as-etf-money-returns-almost-all-of-from-blackrock-s-fund",
-          "domain": "coindesk.com",
-          "date": "2026-07-16T04:56:15.000Z",
-          "source": "CoinDesk",
-          "summary": "This is not a broad rally as bitcoin is up 4% over the same stretch, and solana, TRON and hyperliquid are all lower."
-        },
-        {
-          "title": "Trump to meet with senators over CLARITY Act on Thursday: Politico",
-          "url": "https://cointelegraph.com/news/trump-to-meet-with-senators-over-clarity-act-on-thursday-politico?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-16T04:18:29.000Z",
-          "source": "CoinTelegraph",
-          "summary": "US President Donald Trump is set to meet with several senators on Thursday as negotiators race to get the CLARITY Act across the line before the Senate’s August recess."
-        },
-        {
-          "title": "Two groups of bitcoin Investors sell on the rise as U.S. inflation lifts prices to nearly $65,000",
-          "url": "https://www.coindesk.com/markets/2026/07/16/two-groups-of-bitcoin-investors-sell-on-the-rise-as-inflation-lifts-prices-to-nearly-usd65-000",
-          "domain": "coindesk.com",
-          "date": "2026-07-16T04:09:10.000Z",
-          "source": "CoinDesk",
-          "summary": "Bitcoin surges toward $65,000 on softer-than-expected inflation data, but on-chain signals show two key investor groups selling into the bounce."
-        },
-        {
-          "title": "California pair charged with laundering crypto proceeds from darknet fentanyl sales",
-          "url": "https://www.theblock.co/post/408560/california-duo-darknet-drug-crypto-money-laundering?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-16T02:23:34.000Z",
-          "source": "The Block",
-          "summary": "The pair allegedly shipped over 500 drug parcels over a seven-month period and laundered hundreds of thousands of dollars through crypto."
-        },
-        {
-          "title": "Base’s social bet left it trailing in prediction markets and perps: Pollak",
-          "url": "https://cointelegraph.com/news/bases-social-bet-left-it-trailing-in-prediction-markets-and-perps-pollak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-16T01:14:58.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Base creator Jesse Pollak is stepping back from leadership of the Base App after admitting he was “definitively wrong” to bet on social experiences driving crypto adoption."
         }
       ]
     }
