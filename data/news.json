@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-16T15:14:01.022Z",
+  "updatedAt": "2026-07-16T16:44:10.204Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,6 +278,70 @@
       ],
       "articles": [
         {
+          "title": "Stripe’s $53 billion PayPal bid is a high-stakes play to own the future of digital payments",
+          "url": "https://www.coindesk.com/business/2026/07/16/stripe-s-usd53-billion-paypal-bid-is-a-high-stakes-play-to-own-the-future-of-digital-payments",
+          "domain": "coindesk.com",
+          "date": "2026-07-16T16:37:16.000Z",
+          "source": "CoinDesk",
+          "summary": "If Stripe acquires PayPal, the real prize could be consumer wallets, stablecoin issuance or the infrastructure powering the next generation of digital payments."
+        },
+        {
+          "title": "Morgan Stanley’s E*TRADE launches spot crypto trading through Zero Hash",
+          "url": "https://cointelegraph.com/news/morgan-stanleys-etrade-rolls-out-spot-crypto-trading-for-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-16T16:32:01.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Eligible E*TRADE retail clients can now buy, sell and hold Bitcoin, Ether and Solana through a partnership with crypto infrastructure provider Zero Hash."
+        },
+        {
+          "title": "Tradable’s $1B Stellar deal adds to institutional tokenization boom",
+          "url": "https://cointelegraph.com/news/tradables-1b-stellar-deal-adds-to-institutional-tokenization-boom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-16T16:19:16.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Tradable will bring up to $1 billion in private credit assets to Stellar, extending the blockchain’s push into institutional finance and tokenized real-world assets."
+        },
+        {
+          "title": "Visa backs Open USD with new stablecoin platform as Circle faces fresh competition",
+          "url": "https://www.coindesk.com/business/2026/07/16/visa-backs-open-usd-with-new-stablecoin-platform-as-circle-faces-fresh-competition",
+          "domain": "coindesk.com",
+          "date": "2026-07-16T16:14:30.000Z",
+          "source": "CoinDesk",
+          "summary": "Visa launched a stablecoin platform that lets banks and fintechs issue, manage and settle digital dollars through its payments network."
+        },
+        {
+          "title": "$1.9 trillion asset manager T. Rowe Price launches first actively managed multi-token crypto ETF",
+          "url": "https://www.theblock.co/post/408667/t-rowe-price-launches-first-actively-managed-multi-token-crypto-etf?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-16T16:09:15.000Z",
+          "source": "The Block",
+          "summary": "T. Rowe Price's TKNZ Active Crypto ETF began trading Thursday after the firm filed for the product in October."
+        },
+        {
+          "title": "Multicoin Capital makes first Hyperliquid ecosystem investment in Trasia, an Asia-focused trading platform",
+          "url": "https://www.theblock.co/post/408670/multicoin-capital-hyperliquid-ecosystem-investment-trasia?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-16T16:00:02.000Z",
+          "source": "The Block",
+          "summary": "Built on Hyperliquid, Trasia was co-founded by former Multicoin Capital partner Mable Jiang and aims to serve Asian traders."
+        },
+        {
+          "title": "Keyrock acquires BlockFills trading assets to expand institutional crypto business",
+          "url": "https://www.coindesk.com/business/2026/07/16/keyrock-acquires-blockfills-trading-assets-to-expand-institutional-crypto-business",
+          "domain": "coindesk.com",
+          "date": "2026-07-16T15:26:15.000Z",
+          "source": "CoinDesk",
+          "summary": "The deal adds institutional trading clients, derivatives expertise and regulatory licenses as Keyrock looks to deepen its presence in crypto capital markets."
+        },
+        {
+          "title": "Visa launching internal stablecoin platform for clients that provides access to OUSD: report",
+          "url": "https://www.theblock.co/post/408645/visa-launching-internal-stablecoin-platform-provides-access-ousd-fortune?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-16T15:15:28.000Z",
+          "source": "The Block",
+          "summary": "Open Standard's stablecoin is expected to become a major competitor to Circle's USDC, the dominant stablecoin in the U.S."
+        },
+        {
           "title": "The Clarity Act is the most important consumer protection effort in years",
           "url": "https://www.coindesk.com/opinion/2026/07/16/the-clarity-act-is-the-most-important-consumer-protection-effort-in-years",
           "domain": "coindesk.com",
@@ -286,76 +350,12 @@
           "summary": "Consumers should not have to wait for another crisis to get the protections they deserve, argues Summer Mersinger, CEO of the Blockchain Association."
         },
         {
-          "title": "SBI extends onchain finance push with Ondo deal to tokenize Japanese stocks",
-          "url": "https://www.theblock.co/post/408633/sbi-extends-onchain-finance-push-with-ondo-deal-tokenize-japanese-stocks?utm_source=rss&utm_medium=rss",
+          "title": "US jury indicts South Dakota crypto investor on 29 counts over alleged $20 million investor fraud",
+          "url": "https://www.theblock.co/post/408654/us-jury-indicts-south-dakota-crypto-investor-29-counts-alleged-20m-investor-fraud?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-07-16T14:59:02.000Z",
+          "date": "2026-07-16T15:06:14.000Z",
           "source": "The Block",
-          "summary": "Japan's SBI Holdings will use JPYSC for settlement and collateral while distributing Ondo products through its network."
-        },
-        {
-          "title": "Crypto for Advisors: Strengthening defenses against AI fraud",
-          "url": "https://www.coindesk.com/coindesk-indices/2026/07/16/crypto-for-advisors-strengthening-defenses-against-ai-fraud",
-          "domain": "coindesk.com",
-          "date": "2026-07-16T14:54:11.000Z",
-          "source": "CoinDesk",
-          "summary": "Strengthening defenses against AI fraud"
-        },
-        {
-          "title": "Keyrock closes deal for BlockFills’ institutional trading and brokerage assets",
-          "url": "https://www.theblock.co/post/408639/keyrock-closes-deal-blockfill-institutional-trading-brokerage-assets?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-16T14:42:26.000Z",
-          "source": "The Block",
-          "summary": "The Brussels-based firm was earlier selected as the buyer for $3.25 million in BlockFills’ Chapter 11 bankruptcy process."
-        },
-        {
-          "title": "Crypto brokerage firm Alpaca raises $135 million for tokenized stock infrastructure",
-          "url": "https://www.coindesk.com/business/2026/07/16/crypto-brokerage-firm-alpaca-raises-usd135-million-for-tokenized-stock-infrastructure",
-          "domain": "coindesk.com",
-          "date": "2026-07-16T14:19:32.000Z",
-          "source": "CoinDesk",
-          "summary": "The company has previously cleared or held in custody roughly 94% of tokenized U.S. equities and now holds over $1.5 billion in underlying stocks."
-        },
-        {
-          "title": "Polygon Labs announces second round of layoffs in 2026 as firm looks to finalize Coinme acquisition",
-          "url": "https://www.theblock.co/post/408625/polygon-labs-second-round-of-layoffs-2026-finalize-coinme-acquisition?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-16T13:47:51.000Z",
-          "source": "The Block",
-          "summary": "\"Two rounds of changes in one year is a lot to ask of a team, and I understand it is hard to manage,\" Polygon Labs CEO Marc Boiron said."
-        },
-        {
-          "title": "Alpaca raises $135M to fund tokenized agent-first infrastructure",
-          "url": "https://cointelegraph.com/news/alpaca-raises-135m-to-fund-tokenized-agent-first-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-16T13:34:19.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The BNP-backed brokerage infrastructure provider is expanding into tokenized markets and AI-native financial services as both DeFi and TradFi companies pursue onchain business."
-        },
-        {
-          "title": "Gambling on random Pokémon cards: Onchain gagcha hits record high as crypto sinks",
-          "url": "https://cointelegraph.com/features/pokemon-cards-as-rwas-gacha-spending-hits-records-as-crypto-sinks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-16T13:30:00.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Users spent a record $324 million on onchain gacha in June, even as Bitcoin hit a 21-month low. The thrill of scoring a top Pokemon card from a random pack is becoming big business"
-        },
-        {
-          "title": "Prediction markets defy crypto downturn with record Q2 volume: CoinGecko",
-          "url": "https://cointelegraph.com/news/crypto-cool-q2-prediction-markets-hit-records-coingecko?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-16T13:05:09.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Prediction markets reached a record $113.8 billion in notional volume in Q2 as spot CEX trading, derivatives volume and stablecoin market cap declined."
-        },
-        {
-          "title": "Ledger wants AI agents to manage crypto without holding your keys",
-          "url": "https://www.coindesk.com/tech/2026/07/15/ledger-wants-ai-agents-to-manage-crypto-without-holding-your-keys",
-          "domain": "coindesk.com",
-          "date": "2026-07-16T13:00:00.000Z",
-          "source": "CoinDesk",
-          "summary": "AI agents can read wallet balances and analyze portfolios but requires every sensitive action to be approved on a Ledger hardware device before it can be executed."
+          "summary": "DOJ indicted Sioux Falls crypto investor Benjamin Paul Wiener on 29 counts over an alleged $20 million fraud, with a trial set for Sept. 15."
         }
       ]
     }
