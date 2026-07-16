@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-16T21:35:17.777Z",
+  "updatedAt": "2026-07-16T22:39:23.368Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,6 +278,14 @@
       ],
       "articles": [
         {
+          "title": "Polygon CEO announces job cuts amid Coinme acquisition",
+          "url": "https://cointelegraph.com/news/polygon-ceo-job-cuts-coinme-transition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-16T22:05:06.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The round of layoffs was part of Polygon transitioning operations to payments following a $250 million deal to acquire Coinme and Sequence in January."
+        },
+        {
           "title": "Trump teleprompter operator made $100K betting on Kalshi markets tied to speeches: ABC",
           "url": "https://cointelegraph.com/news/trump-teleprompter-operator-made-100k-betting-kalshi-markets-tied-to-speeches-abc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
@@ -348,14 +356,6 @@
           "date": "2026-07-16T18:45:25.000Z",
           "source": "CoinTelegraph",
           "summary": "The Dutch Authority for the Financial Markets approved BitPay’s application as a crypto-asset service provider under the Markets in Crypto-Assets requirements."
-        },
-        {
-          "title": "$1.9 trillion asset manager T. Rowe Price bets on active management with first multi-token crypto ETF",
-          "url": "https://www.coindesk.com/markets/2026/07/16/usd1-9-trillion-asset-manager-t-rowe-price-bets-on-active-management-with-first-multi-token-crypto-etf",
-          "domain": "coindesk.com",
-          "date": "2026-07-16T18:38:13.000Z",
-          "source": "CoinDesk",
-          "summary": "T. Rowe Price launched what it says is the industry's first actively managed multi-token spot crypto ETF, offering diversified exposure to digital assets."
         }
       ]
     }
