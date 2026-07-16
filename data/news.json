@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-16T19:18:07.657Z",
+  "updatedAt": "2026-07-16T20:26:55.738Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -127,7 +127,7 @@
           "domain": "lifespan.io",
           "date": "2026-07-15T17:08:51.000Z",
           "source": "Lifespan.io",
-          "summary": "Today, Forever Healthy announces the launch of a set of new tools to make it easier than ever for AI agents, research pipelines, and AI environments to integrate Evipedia. Evipedia is Forever Healthy’s comprehensive, continuously updated online encyclopedia […]"
+          "summary": "Today, Forever Healthy announces the launch of a set of new tools to make it easier than ever for AI […]"
         },
         {
           "title": "From lab to factory: Klotho reaches a new milestone",
@@ -278,6 +278,38 @@
       ],
       "articles": [
         {
+          "title": "1inch co-founder says he was fired, announces new venture",
+          "url": "https://cointelegraph.com/news/1inch-co-founder-not-involved-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-16T20:05:45.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Anton Bukov said that he no longer took an active role at 1inch and had been “fired” in 2025 after pushing for changes to the company’s management and operations."
+        },
+        {
+          "title": "MegaETH sunsets Mega Mafia accelerator program, noting ‘most’ of its successful apps left",
+          "url": "https://www.theblock.co/post/408718/megaeth-sunsets-mega-mafia-accelerator-program-noting-most-successful-apps-left?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-16T19:58:35.000Z",
+          "source": "The Block",
+          "summary": "MegaETH did not take equity or governance positions in the approximately 20 projects incubated in the Mega Mafia."
+        },
+        {
+          "title": "Injective files for SEC transfer agent registration to bring securities ownership records onchain",
+          "url": "https://cointelegraph.com/news/injective-files-sec-transfer-agent-registration-bring-securities-ownership-records-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-16T19:27:53.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The company said the filing would create a regulated pathway for maintaining ownership records for tokenized securities onchain."
+        },
+        {
+          "title": "JPMorgan says bitcoin outlook sees ‘encouraging sign’ as Strategy boosts cash reserves",
+          "url": "https://www.theblock.co/post/408712/jpmorgan-bitcoin-outlook-encouraging-sign-strategy-cash-reserves?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-16T19:21:56.000Z",
+          "source": "The Block",
+          "summary": "Strategy's larger cash reserves and improving institutional demand in bitcoin futures are \"encouraging signs\" for bitcoin, JPMorgan said."
+        },
+        {
           "title": "Here’s what happened in crypto today",
           "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
@@ -324,38 +356,6 @@
           "date": "2026-07-16T18:00:00.000Z",
           "source": "The Block",
           "summary": "Crypto.com plans to use proceeds from its “first institutional funding round\" to expand its tokenization and derivatives operations."
-        },
-        {
-          "title": "Trump’s longtime teleprompter operator accused of using insider knowledge to place bets on Kalshi: ABC News",
-          "url": "https://www.theblock.co/post/408692/trump-longtime-teleprompter-operator-accused-insider-knowledge-place-bets-kalshi-abc-news?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-16T17:24:49.000Z",
-          "source": "The Block",
-          "summary": "President Trump's teleprompter is under scrutiny following a report alleging that he used insider knowledge to place bets on Kalshi."
-        },
-        {
-          "title": "Bitcoin price dips on US stocks sell-off as Micron losses pass 30%",
-          "url": "https://cointelegraph.com/markets/bitcoin-price-dips-with-us-stocks-as-tech-sell-off-as-micron-losses-pass-30?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-16T16:58:02.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Bitcoin fell 1.5% from local highs amid a reversal in US stocks as markets moved from bullish US inflation cues to retail profit-taking."
-        },
-        {
-          "title": "Ethics in crypto market structure ‘really not our concern,’ says Blockchain Association CEO",
-          "url": "https://cointelegraph.com/news/ethics-crypto-market-structure-concerns-blockchain-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-16T16:47:09.000Z",
-          "source": "CoinTelegraph",
-          "summary": "A former CFTC commissioner urged lawmakers not to “kill all the hard work that we put in the rest of the bill” by making ethics a make-or-break issue on crypto market structure."
-        },
-        {
-          "title": "Stripe’s $53 billion PayPal bid is a high-stakes play to own the future of digital payments",
-          "url": "https://www.coindesk.com/business/2026/07/16/stripe-s-usd53-billion-paypal-bid-is-a-high-stakes-play-to-own-the-future-of-digital-payments",
-          "domain": "coindesk.com",
-          "date": "2026-07-16T16:37:16.000Z",
-          "source": "CoinDesk",
-          "summary": "If Stripe acquires PayPal, the real prize could be consumer wallets, stablecoin issuance or the infrastructure powering the next generation of digital payments."
         }
       ]
     }
