@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-16T20:26:55.738Z",
+  "updatedAt": "2026-07-16T21:35:17.777Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -98,6 +98,14 @@
       ],
       "articles": [
         {
+          "title": "Activating a Key Receptor Fights Thymic Involution in Mice",
+          "url": "https://lifespan.io/activating-a-key-receptor-fights-thymic-involution-in-mice/",
+          "domain": "lifespan.io",
+          "date": "2026-07-16T20:43:18.000Z",
+          "source": "Lifespan.io",
+          "summary": "Publishing in Aging Cell, researchers have devised a way to delay the aging of the thymus by targeting GPR40, a key receptor in its […]"
+        },
+        {
           "title": "Neko Health secures $700m to fuel expansion",
           "url": "https://longevity.technology/news/neko-health-secures-700m-to-fuel-expansion/",
           "domain": "longevity.technology",
@@ -127,7 +135,7 @@
           "domain": "lifespan.io",
           "date": "2026-07-15T17:08:51.000Z",
           "source": "Lifespan.io",
-          "summary": "Today, Forever Healthy announces the launch of a set of new tools to make it easier than ever for AI […]"
+          "summary": "Today, Forever Healthy announces the launch of a set of new tools to make it easier than ever for AI agents, research pipelines, and AI environments […]"
         },
         {
           "title": "From lab to factory: Klotho reaches a new milestone",
@@ -168,14 +176,6 @@
           "date": "2026-07-15T11:46:37.000Z",
           "source": "Longevity.Technology",
           "summary": "Biogen and Ionis presented Phase 2 CELIA results at AAIC 2026 showing that Diranersen reduced cerebrospinal fluid total tau by 50–65% and produced decreases on tau PET alongside slowing of clinical decline in people with early Alzheimer’s disease. CELIA enrolled 416 participants with mild cognitive impairment due to Alzheimer’s disease or mild Alzheimer’s dementia and […] The post Biogen, Ionis therapy slows early Alzheimer’s progression in Phase 2 trial appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "BioAge doses first patient in Phase 2 trial of new cardiovascular drug",
-          "url": "https://longevity.technology/news/bioage-doses-first-patient-in-phase-2-trial-of-new-cardiovascular-drug/",
-          "domain": "longevity.technology",
-          "date": "2026-07-15T11:41:37.000Z",
-          "source": "Longevity.Technology",
-          "summary": "BioAge Labs has dosed the first participant in QUELL-CV, a randomized, double-blind, placebo-controlled, dose-ranging Phase 2 proof-of-concept trial of BGE-102, according to the company. BGE-102 is described as a potent, structurally novel, orally available, brain-penetrant small molecule NLRP3 inhibitor developed from a hit identified via HitGen’s DEL technology and being advanced as a once-daily oral […] The post BioAge doses first patient in Phase 2 trial of new cardiovascular drug appeared first on Longevity.Technology ."
         }
       ]
     },
@@ -278,6 +278,22 @@
       ],
       "articles": [
         {
+          "title": "Trump teleprompter operator made $100K betting on Kalshi markets tied to speeches: ABC",
+          "url": "https://cointelegraph.com/news/trump-teleprompter-operator-made-100k-betting-kalshi-markets-tied-to-speeches-abc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-16T20:49:23.000Z",
+          "source": "CoinTelegraph",
+          "summary": "According to ABC News, federal regulators are investigating whether the longtime White House staffer used nonpublic information to profit from event contracts tied to President Donald Trump’s speeches."
+        },
+        {
+          "title": "Bitcoin outlook improves amid 6% weekly gain: Can BTC bulls push higher?",
+          "url": "https://cointelegraph.com/markets/bitcoin-outlook-improves-amid-6-weekly-gain-can-btc-bulls-push-higher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-16T20:29:20.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bitcoin buyers have returned to spot, futures and ETF markets but geopolitical headwinds could quickly unravel the progress of the past two weeks."
+        },
+        {
           "title": "1inch co-founder says he was fired, announces new venture",
           "url": "https://cointelegraph.com/news/1inch-co-founder-not-involved-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
@@ -340,22 +356,6 @@
           "date": "2026-07-16T18:38:13.000Z",
           "source": "CoinDesk",
           "summary": "T. Rowe Price launched what it says is the industry's first actively managed multi-token spot crypto ETF, offering diversified exposure to digital assets."
-        },
-        {
-          "title": "Citadel Securities invests $400 million in Crypto.com, valuing exchange at $20 billion",
-          "url": "https://www.coindesk.com/business/2026/07/16/citadel-securities-invests-usd400-million-in-crypto-com-valuing-exchange-at-usd20-billion",
-          "domain": "coindesk.com",
-          "date": "2026-07-16T18:00:00.000Z",
-          "source": "CoinDesk",
-          "summary": "The exchange's first institutional funding round values it at $20 billion and will fund expansion into tokenized securities and derivatives."
-        },
-        {
-          "title": "Citadel Securities invests $400 million in Crypto.com at $20 billion valuation",
-          "url": "https://www.theblock.co/post/408688/citadel-securities-invests-400-million-crypto-com-20-billion-valuation?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-16T18:00:00.000Z",
-          "source": "The Block",
-          "summary": "Crypto.com plans to use proceeds from its “first institutional funding round\" to expand its tokenization and derivatives operations."
         }
       ]
     }
