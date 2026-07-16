@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-16T09:29:49.090Z",
+  "updatedAt": "2026-07-16T11:20:06.190Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -8,6 +8,14 @@
         "https://news.google.com/rss/search?q=DeSci%20OR%20%22decentralized%20science%22%20OR%20%22BIO%20Protocol%22&hl=en-US&gl=US&ceid=US:en"
       ],
       "articles": [
+        {
+          "title": "Google DeepMind and Isomorphic Labs team up on bioresilience, and crypto's DeSci sector should be paying attention - Crypto Briefing",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9fOV9xNmNZbFp3S1ZCM3VYTzZZSnBsal9XODNsSDdYNXl1bmFteTFCNHhlZGJaSEFtTTAyMXdmM1htMmpuQkIwUGRGR0NQX0VQVVdwQ1BKWUljRk40SVUzMHFtZGVPdGp1alBORzUtclZnM1N3Z1RjRzc4bzM?oc=5",
+          "domain": "cryptobriefing.com",
+          "date": "2026-07-16T10:27:00.000Z",
+          "source": "Crypto Briefing",
+          "summary": "Google DeepMind and Isomorphic Labs team up on bioresilience, and crypto's DeSci sector should be paying attention &nbsp;&nbsp; Crypto Briefing"
+        },
         {
           "title": "️DeSci Atoms Market Update 14 July 2026 MarketCap 24hrs Top - KuCoin",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5MRm1GS2hyUGNxRmpoZ3k5SFpvazBCWDQ0ZjZvcEVMMGJTN1cwYUtHNklHQXNZemdVX1dGYmVZd2UtQkU5UDdnTUxlX00zbFhkakYyQldod0lKaUJXWGptblZFR3gwTUtnUHFkU1hZcUg1NmhI?oc=5",
@@ -79,14 +87,6 @@
           "date": "2026-05-04T06:44:54.000Z",
           "source": "Yellow.com",
           "summary": "DeSci Has Raised Millions For Research No VC Would Ever Touch &nbsp;&nbsp; Yellow.com"
-        },
-        {
-          "title": "Bio Protocol Jumps 53.85% in Intraday Trading - bloomingbit",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TN0RaS1ExWkVmU1FzMXlsRUJQVmZhQ2lnNEdfcFVVMEloWHFuS3VDdnd5SlpLakNvNzIxdld1LTY5VWlVX2c4U2pZaUlTaHZybXUwag?oc=5",
-          "domain": "en.bloomingbit.io",
-          "date": "2026-05-02T07:00:00.000Z",
-          "source": "bloomingbit",
-          "summary": "Bio Protocol Jumps 53.85% in Intraday Trading &nbsp;&nbsp; bloomingbit"
         }
       ]
     },
@@ -278,6 +278,54 @@
       ],
       "articles": [
         {
+          "title": "Bitcoin pulls back to $64,000 after hitting monthly high as bears take control",
+          "url": "https://www.coindesk.com/markets/2026/07/16/bitcoin-pulls-back-to-usd64-000-after-hitting-monthly-high-as-bears-take-control",
+          "domain": "coindesk.com",
+          "date": "2026-07-16T10:35:56.000Z",
+          "source": "CoinDesk",
+          "summary": "Profit-taking after bitcoin hit a $65,500 monthly high combined with fresh Iranian strikes on U.S. bases sent crypto lower, with bears leading price action across most tokens."
+        },
+        {
+          "title": "Autonomous AI agent economy faces infrastructure gaps: Visa, Artemis",
+          "url": "https://cointelegraph.com/news/autonomous-ai-agent-economy-infrastructure-gaps-visa-artemis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-16T10:33:34.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Visa and Artemis found that infrastructure bottlenecks are preventing broader commercial adoption of the autonomous AI agent economy."
+        },
+        {
+          "title": "Tether invests $20 million in Argentine neobank Ualá as it expands Latin America push",
+          "url": "https://www.coindesk.com/business/2026/07/16/tether-invests-usd20-million-in-argentine-neobank-uala-as-it-expands-latin-america-push",
+          "domain": "coindesk.com",
+          "date": "2026-07-16T10:12:05.000Z",
+          "source": "CoinDesk",
+          "summary": "Ualá’s CEO clarified Tether is acting solely as a financial investor, citing current regional regulations preventing any immediate USDT integration."
+        },
+        {
+          "title": "U.S. adds four Iran central bank crypto wallets to sanctions, Tether freezes $131 million of contents",
+          "url": "https://www.coindesk.com/business/2026/07/16/u-s-adds-four-iran-central-bank-crypto-wallets-to-sanctions-tether-freezes-usd131-million-of-contents",
+          "domain": "coindesk.com",
+          "date": "2026-07-16T10:07:06.000Z",
+          "source": "CoinDesk",
+          "summary": "The freeze targets TRON-based addresses that held over $165 million, preventing those specific funds from being transferred or redeemed."
+        },
+        {
+          "title": "Volvo Group tests proprietary cryptocurrency for supplier transactions in blockchain push",
+          "url": "https://www.theblock.co/post/408586/volvo-group-tests-proprietary-cryptocurrency?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-16T09:56:49.000Z",
+          "source": "The Block",
+          "summary": "Volvo Group's proprietary cryptocurrency project remains in the ideation stage and is not yet industrialized."
+        },
+        {
+          "title": "US Senate unanimously adopts resolution opposing clemency for SBF",
+          "url": "https://cointelegraph.com/news/senate-adopts-resolution-opposing-clemency-sbf-ftx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-16T09:26:11.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The Senate approved a resolution opposing clemency for former FTX CEO Sam Bankman-Fried as prediction markets put the odds of a Trump pardon by July 31 below 1%."
+        },
+        {
           "title": "Lummis, Gallego secure unanimous Senate approval opposing Sam Bankman-Fried clemency",
           "url": "https://www.theblock.co/post/408581/lummis-gallego-secure-unanimous-senate-approval-opposing-sam-bankman-fried-clemency?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
@@ -308,54 +356,6 @@
           "date": "2026-07-16T08:11:25.000Z",
           "source": "CoinTelegraph",
           "summary": "Bitcoin realized losses appeared to be copying a reversal structure that marked previous bear-market bottoms, with $69,000 a new BTC price battleground."
-        },
-        {
-          "title": "Robinhood Chain memecoin launchpad Vlad.fun halts after ‘internal integrity’ issue",
-          "url": "https://cointelegraph.com/news/robinhood-chain-memecoin-vladfun-halts-integrity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-16T07:43:45.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Vlad.fun suspended its platform after discovering a “serious internal integrity issue” involving members of its team, without disclosing the nature of the alleged misconduct."
-        },
-        {
-          "title": "Bitcoin whale moves $383 million in BTC after 8 years of dormancy: onchain data",
-          "url": "https://www.theblock.co/post/408570/bitcoin-whale-moves-8-years?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-16T06:54:08.000Z",
-          "source": "The Block",
-          "summary": "A bitcoin OG wallet transferred 5,908 BTC to a new address on Wednesday, according to Lookonchain, citing Arkham data."
-        },
-        {
-          "title": "Hyperion DeFi to deploy 500K HYPE for Hyperliquid HIP-3 markets",
-          "url": "https://cointelegraph.com/news/hyperion-defi-to-deploy-500k-hype-for-hyperliquid-hip-3-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-16T06:41:14.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The deal gives Hyperion an equity stake in Skew and a share of listing-service revenue as it expands the utility of its HYPE treasury assets."
-        },
-        {
-          "title": "Live updates: ZachXBT calls hardware wallets complete garbage; BTC steady after Korea rate hike",
-          "url": "https://www.coindesk.com/markets/2026/07/16/live-updates-zachxbt-calls-hardware-wallets-complete-garbage-btc-steady-near-usd65-000",
-          "domain": "coindesk.com",
-          "date": "2026-07-16T06:20:00.000Z",
-          "source": "CoinDesk",
-          "summary": "Blockchain investigator ZachXBT came down heavily on hardware wallets. BTC traded steady near $65,000 after South Korea's rate hike."
-        },
-        {
-          "title": "U.S. Senate unanimously opposes clemency for FTX founder Sam Bankman-Fried",
-          "url": "https://www.coindesk.com/policy/2026/07/16/u-s-senate-unanimously-opposes-clemency-for-ftx-founder-sam-bankman-fried",
-          "domain": "coindesk.com",
-          "date": "2026-07-16T06:00:43.000Z",
-          "source": "CoinDesk",
-          "summary": "The nonbinding resolution passed without objection after Bankman-Fried asked for clemency, months after Trump pardoned other major crypto figures, including Changpeng Zhao and Ross Ulbricht."
-        },
-        {
-          "title": "Here’s what happened in crypto today",
-          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-16T05:55:48.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
         }
       ]
     }
