@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-17T04:28:14.255Z",
+  "updatedAt": "2026-07-17T06:41:21.037Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -23,6 +23,14 @@
           "date": "2026-07-14T07:02:17.000Z",
           "source": "KuCoin",
           "summary": "️DeSci Atoms Market Update 14 July 2026 MarketCap 24hrs Top &nbsp;&nbsp; KuCoin"
+        },
+        {
+          "title": "Bio Protocol develops AI agents to enhance decentralized science operations - Crypto Briefing",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mZGlhbTNwdWQ4dTdRZ1lHYmRVVEx2VWE0Q2h3Rzh5dXlIUFhiRTBoM0Z1Uk5DUzRqcThTMGtUbjI5aGNwTWVyRzdPeWo1Uk90RjFDMnl4VkN4N1FqRjNSNWRuNHZPaGs?oc=5",
+          "domain": "cryptobriefing.com",
+          "date": "2026-07-01T07:00:00.000Z",
+          "source": "Crypto Briefing",
+          "summary": "Bio Protocol develops AI agents to enhance decentralized science operations &nbsp;&nbsp; Crypto Briefing"
         },
         {
           "title": "Bio Protocol launches AI agents to automate dec... - Pluang",
@@ -79,14 +87,6 @@
           "date": "2026-05-15T07:00:00.000Z",
           "source": "Coinpedia",
           "summary": "PEPTAI Price Swings Wild As Base Integration Fuels DeSci Hype &nbsp;&nbsp; Coinpedia"
-        },
-        {
-          "title": "DeSci Has Raised Millions For Research No VC Would Ever Touch - Yellow.com",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQzAtQWJmSEtGX1pXdWVOR0RsRnhXWGp4S2VYUEhXREJiM1ljR01reDZfS1hwU0g3eTMzaFdOdnVJb3l2R2lNdmdCVEhuUWExYjB0VTNReUIwUlRxTjhrdmlCV1d5R3VXbGtRWFp3eGQ0VTV0SjhZdGpNOGV2dDNYcnVodm9PWWJHYlE?oc=5",
-          "domain": "yellow.com",
-          "date": "2026-05-04T06:44:54.000Z",
-          "source": "Yellow.com",
-          "summary": "DeSci Has Raised Millions For Research No VC Would Ever Touch &nbsp;&nbsp; Yellow.com"
         }
       ]
     },
@@ -278,6 +278,30 @@
       ],
       "articles": [
         {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-17T06:05:29.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
+        {
+          "title": "Ordinals advocate Leonidas proposes new Bitcoin client: ‘$DOG Mode’",
+          "url": "https://cointelegraph.com/news/ordinals-dev-leonidas-proposes-new-bitcoin-client-dog-mode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-17T05:54:04.000Z",
+          "source": "CoinTelegraph",
+          "summary": "“Over time the economic incentives will drive $DOG Mode’s adoption and force Bitcoin Core to stop gatekeeping and allow these completely valid transactions,” said Leonidas."
+        },
+        {
+          "title": "Bitcoin’s anti-spam fight gets a 'DOG Mode' reply",
+          "url": "https://www.coindesk.com/tech/2026/07/17/bitcoin-s-anti-spam-fight-gets-a-dog-mode-reply",
+          "domain": "coindesk.com",
+          "date": "2026-07-17T05:32:00.000Z",
+          "source": "CoinDesk",
+          "summary": "While BIP 110 wants to restrict data through a consensus change and has almost no miner support, a new DOG Mode client wants the opposite and requires no vote at all."
+        },
+        {
           "title": "USDT vs USDC: Comparing the Two Largest Stablecoins",
           "url": "https://www.theblock.co/learn/408738/usdt-vs-usdc-comparing-the-two-largest-stablecoins?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
@@ -291,10 +315,10 @@
           "domain": "cointelegraph.com",
           "date": "2026-07-17T04:16:32.000Z",
           "source": "CoinTelegraph",
-          "summary": "The launch gives Bybit a locally operated platform in one of Asia’s largest crypto markets, home to more than 21 million registered users."
+          "summary": "The launch gives Bybit a locally operated platform in one of Asia’s largest crypto markets, home to more than 21 million crypto exchange users."
         },
         {
-          "title": "Bitcoin under $64,000 after new U.S. strike on Iran. Trump's China comment adds to uncertainty",
+          "title": "Bitcoin under $63,000 after new U.S. strike on Iran. Trump's China comment adds to uncertainty",
           "url": "https://www.coindesk.com/markets/2026/07/17/bitcoin-under-usd64-000-after-u-s-strike-on-iran-trump-s-china-comment-adds-to-uncertainty",
           "domain": "coindesk.com",
           "date": "2026-07-17T04:10:09.000Z",
@@ -332,30 +356,6 @@
           "date": "2026-07-17T00:12:40.000Z",
           "source": "CoinTelegraph",
           "summary": "Bitcoin futures traders are propping up the current market move, while liquidation heatmap data provides hints on where BTC price may go next."
-        },
-        {
-          "title": "Citadel Securities invests $400M in Crypto.com at $20B valuation",
-          "url": "https://cointelegraph.com/news/citadel-securities-invests-400m-in-cryptocom-at-20b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-16T23:47:12.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Crypto exchanges have increasingly positioned themselves as bridges between digital asset markets and traditional finance."
-        },
-        {
-          "title": "Polygon CEO announces job cuts amid Coinme acquisition",
-          "url": "https://cointelegraph.com/news/polygon-ceo-job-cuts-coinme-transition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-16T22:05:06.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The round of layoffs was part of Polygon transitioning operations to payments following a $250 million deal to acquire Coinme and Sequence in January."
-        },
-        {
-          "title": "Trump teleprompter operator made $100K betting on Kalshi markets tied to speeches: ABC",
-          "url": "https://cointelegraph.com/news/trump-teleprompter-operator-made-100k-betting-kalshi-markets-tied-to-speeches-abc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-16T20:49:23.000Z",
-          "source": "CoinTelegraph",
-          "summary": "According to ABC News, federal regulators are investigating whether the longtime White House staffer used nonpublic information to profit from event contracts tied to President Donald Trump’s speeches."
         }
       ]
     }
