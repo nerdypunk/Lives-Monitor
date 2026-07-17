@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-17T21:35:16.691Z",
+  "updatedAt": "2026-07-17T22:33:27.258Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,6 +278,14 @@
       ],
       "articles": [
         {
+          "title": "FTX to distribute $900M to creditors in fifth payment round",
+          "url": "https://cointelegraph.com/news/ftx-distribute-millions-creditors-fifth-payment-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-17T21:40:18.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The FTX Recovery Trust and company have distributed about $10 billion since the exchange filed for bankruptcy in November 2022, leaving users cut off from their funds."
+        },
+        {
           "title": "Bank of America taps new leaders to bridge crypto, AI and traditional finance",
           "url": "https://www.theblock.co/post/408830/bank-america-taps-new-leaders-bridge-crypto-ai-traditional-finance?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
@@ -348,14 +356,6 @@
           "date": "2026-07-17T17:23:01.000Z",
           "source": "CoinDesk",
           "summary": "Crypto and blockchain experts say this week's moves show the two established finance companies are increasingly competing for control of the infrastructure behind digital payments."
-        },
-        {
-          "title": "OKX Europe lets users convert USDT to MiCA-compliant USDC",
-          "url": "https://cointelegraph.com/news/okx-europe-lets-users-convert-usdt-to-mica-compliant-usdc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-17T16:54:37.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The feature offers European customers a voluntary path away from Tether’s USDT as MiCA rules reshape the region’s stablecoin market."
         }
       ]
     }
