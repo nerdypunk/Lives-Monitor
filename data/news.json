@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-17T20:34:57.060Z",
+  "updatedAt": "2026-07-17T21:35:16.691Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,6 +278,14 @@
       ],
       "articles": [
         {
+          "title": "Bank of America taps new leaders to bridge crypto, AI and traditional finance",
+          "url": "https://www.theblock.co/post/408830/bank-america-taps-new-leaders-bridge-crypto-ai-traditional-finance?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-17T21:08:02.000Z",
+          "source": "The Block",
+          "summary": "Sonali Theisen was named head of BofA's global digital assets platform, while Kevin Milsom was tapped to serve as head of AI transformation"
+        },
+        {
           "title": "Galaxy lands 15-year Texas Tech stadium naming rights deal",
           "url": "https://cointelegraph.com/news/galaxy-lands-15-year-texas-tech-stadium-naming-rights-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
@@ -348,14 +356,6 @@
           "date": "2026-07-17T16:54:37.000Z",
           "source": "CoinTelegraph",
           "summary": "The feature offers European customers a voluntary path away from Tether’s USDT as MiCA rules reshape the region’s stablecoin market."
-        },
-        {
-          "title": "Senator Warren requests 2026 reporting for Trump’s crypto earnings after $1.4B disclosure",
-          "url": "https://cointelegraph.com/news/senator-warren-2026-reporting-donald-trump-crypto-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-17T16:48:22.000Z",
-          "source": "CoinTelegraph",
-          "summary": "With the Senate likely voting on a crypto bill within days, Elizabeth Warren asked for information on Donald Trump’s earnings between January and July ahead of a 2027 deadline."
         }
       ]
     }
