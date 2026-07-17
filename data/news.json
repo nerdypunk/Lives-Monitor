@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-17T15:41:44.022Z",
+  "updatedAt": "2026-07-17T16:49:29.760Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,6 +278,30 @@
       ],
       "articles": [
         {
+          "title": "Bitcoin slides toward $63,000 as Coinbase premium stays negative for a record 60 days",
+          "url": "https://www.theblock.co/post/408793/bitcoin-slides-63000-coinbase-premium-stays-negative-record-60-days?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-17T16:38:50.000Z",
+          "source": "The Block",
+          "summary": "Bitcoin fell near $63,000 as chip stocks sold off, the Coinbase premium stayed negative a record 60 days, and ETF flows remain thin."
+        },
+        {
+          "title": "Cardano hands core development to outside teams in decentralization push",
+          "url": "https://www.coindesk.com/tech/2026/07/17/cardano-hands-core-development-to-outside-teams-in-decentralization-push",
+          "domain": "coindesk.com",
+          "date": "2026-07-17T16:23:26.000Z",
+          "source": "CoinDesk",
+          "summary": "Input Output will transfer control of the Haskell node, Plutus, Hydra and other components as founder Charles Hoskinson says the network must change and start growing again."
+        },
+        {
+          "title": "Bitcoin ETFs could mirror gold’s history of ‘spectacular gains’ and ‘painful drawdowns,’ analyst says",
+          "url": "https://www.theblock.co/post/408782/bitcoin-etfs-ibit-mirror-golds-history-spectacular-gains-painful-drawdowns-analyst?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-17T15:40:50.000Z",
+          "source": "The Block",
+          "summary": "Bloomberg ETF analyst Eric Balchunas compared IBIT’s short time above $100 billion with GLD’s precipitous rise in 2011."
+        },
+        {
           "title": "Inside Robinhood’s high-stakes bet to onboard 10 million casual users onto decentralized finance",
           "url": "https://www.coindesk.com/business/2026/07/17/inside-robinhood-s-high-stakes-bet-to-onboard-10-million-casual-investors-onto-decentralized-finance",
           "domain": "coindesk.com",
@@ -332,30 +356,6 @@
           "date": "2026-07-17T13:30:00.000Z",
           "source": "CoinTelegraph",
           "summary": "Kraken, Bitstamp, 1inch and Bitfinex have all set up shop in the British Virgin Islands — but you might find it tricky to book an on-site meeting with one of their executives."
-        },
-        {
-          "title": "SBI Holdings completes majority acquisition of Singapore crypto platform Coinhako following MAS approval",
-          "url": "https://www.theblock.co/post/408761/sbi-holdings-completes-majority-acquisition-of-singapore-crypto-platform-coinhako-following-mas-approval?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-17T13:15:13.000Z",
-          "source": "The Block",
-          "summary": "SBI Holdings acquired Singapore's Coinhako after MAS approval, folding the licensed exchange into its expanding digital asset network."
-        },
-        {
-          "title": "Crypto-style derivatives reach AI compute ahead of planned CME and ICE futures: Bernstein",
-          "url": "https://www.theblock.co/post/408758/crypto-style-derivatives-reach-ai-compute-ahead-of-planned-cme-and-ice-futures-bernstein?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-17T12:48:20.000Z",
-          "source": "The Block",
-          "summary": "Crypto-style perps and prediction markets hit AI compute ahead of CME and ICE, with regulated GPU futures targeted for late 2026."
-        },
-        {
-          "title": "Bitcoin faces fresh headwinds as China’s Kimi beats Claude, GPT in coding benchmark",
-          "url": "https://www.coindesk.com/markets/2026/07/17/bitcoin-faces-fresh-headwinds-as-china-s-kimi-beats-claude-gpt-in-coding-benchmark",
-          "domain": "coindesk.com",
-          "date": "2026-07-17T12:45:11.000Z",
-          "source": "CoinDesk",
-          "summary": "Moonshot's Kimi K3 took the top spot in frontend coding away from Claude and OpenAI, and it's free. Semiconductor stocks fell, and crypto fell with them."
         }
       ]
     }
