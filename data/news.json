@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-17T14:08:01.999Z",
+  "updatedAt": "2026-07-17T15:41:44.022Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -98,6 +98,14 @@
       ],
       "articles": [
         {
+          "title": "Elysium Health links NAD+ to menopause in new study",
+          "url": "https://longevity.technology/news/elysium-health-links-nad-to-menopause-in-new-study/",
+          "domain": "longevity.technology",
+          "date": "2026-07-17T14:47:55.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Pilot research suggests Basis may ease menopausal symptoms while offering fresh clues about how NAD+ influences reproductive aging. The ultimate crossover event? NAD+ has been one of longevity’s favorite molecules. It has become almost synonymous with healthy aging, with companies positioning NAD+-boosting products around energy, cellular repair and age-related decline. Menopause, meanwhile, has largely lived […] The post Elysium Health links NAD+ to menopause in new study appeared first on Longevity.Technology ."
+        },
+        {
           "title": "SkinStylus secures new FDA win for healthier skin aging",
           "url": "https://longevity.technology/news/skinstylus-secures-new-fda-win-for-healthier-skin-aging/",
           "domain": "longevity.technology",
@@ -168,14 +176,6 @@
           "date": "2026-07-15T16:09:10.000Z",
           "source": "Longevity.Technology",
           "summary": "Dubai’s new longevity authority could reshape where advanced therapies are developed and delivered – and AEON says it’s only the beginning. What if the world’s safest place to access next-generation longevity therapies is Dubai? Could Dubai become longevity’s proving ground? Ambitious, yes, but these are questions that feel less hypothetical following the establishment of the […] The post AEON welcomes Dubai’s longevity strategy appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Why fewer than 1% of people have sequenced their genomes",
-          "url": "https://longevity.technology/news/why-fewer-than-1-of-people-have-sequenced-their-genomes/",
-          "domain": "longevity.technology",
-          "date": "2026-07-15T14:14:03.000Z",
-          "source": "Longevity.Technology",
-          "summary": "As AI becomes increasingly capable of interpreting complex biology, genome sequencing may finally become more about making sense of it. For all the excitement around personalized medicine, one statistic still feels strangely out of place. The cost of sequencing an entire human genome has collapsed from nearly $3 billion during the Human Genome Project (HGP) […] The post Why fewer than 1% of people have sequenced their genomes appeared first on Longevity.Technology ."
         }
       ]
     },
@@ -278,12 +278,44 @@
       ],
       "articles": [
         {
+          "title": "Inside Robinhood’s high-stakes bet to onboard 10 million casual users onto decentralized finance",
+          "url": "https://www.coindesk.com/business/2026/07/17/inside-robinhood-s-high-stakes-bet-to-onboard-10-million-casual-investors-onto-decentralized-finance",
+          "domain": "coindesk.com",
+          "date": "2026-07-17T15:36:39.000Z",
+          "source": "CoinDesk",
+          "summary": "The company says its advantage lies in bringing retail customers onchain, but early activity remains dominated by memecoins, while its original tokenization vision remains small."
+        },
+        {
+          "title": "Bitcoin price sags under $62.5K as Iran strikes add to US stocks pressure",
+          "url": "https://cointelegraph.com/markets/bitcoin-price-sags-under-625k-as-iran-strikes-add-to-us-stocks-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-17T14:37:39.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bitcoin saw a key rejection at local highs before reversing lower, moving with stocks for a second day as US-Iran war downside took its toll."
+        },
+        {
+          "title": "Galaxy Digital puts its name on Texas Tech football stadium in 15-year partnership",
+          "url": "https://www.theblock.co/post/408772/galaxy-digital-puts-name-texas-tech-football-stadium-15-year-partnership?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-17T14:33:42.000Z",
+          "source": "The Block",
+          "summary": "The deal's financial terms were not disclosed, but Yahoo Sports reported the agreement is worth more than $70 million."
+        },
+        {
           "title": "HSBC wins Bank of England approval to enter Digital Securities Sandbox",
           "url": "https://cointelegraph.com/news/hsbc-bank-of-england-approval-digital-securities-sandbox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
           "date": "2026-07-17T13:54:27.000Z",
           "source": "CoinTelegraph",
           "summary": "The Bank of England approved HSBC Orion to go live in its Digital Securities Sandbox, with the first Digital Gilt Instrument transaction expected in the first quarter of 2027."
+        },
+        {
+          "title": "Japan's SBI Group is building Asia's first cross-border digital asset empire",
+          "url": "https://www.coindesk.com/business/2026/07/17/japan-s-sbi-group-is-building-asia-s-first-cross-border-digital-asset-empire",
+          "domain": "coindesk.com",
+          "date": "2026-07-17T13:46:46.000Z",
+          "source": "CoinDesk",
+          "summary": "The securities giant announced today the consolidation of Singapore-based Coinhako as part of a rapid regional expansion that includes a tokenization partnership with Ondo Finance."
         },
         {
           "title": "SBI acquires Singaporean crypto platform Coinhako after MAS approval",
@@ -295,7 +327,7 @@
         },
         {
           "title": "The British Virgin Islands are a top crypto hub no one ever talks about: Here’s why",
-          "url": "https://cointelegraph.com/features/why-is-the-british-virgin-islands-becoming-a-legal-home-for-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/magazine/why-is-the-british-virgin-islands-becoming-a-legal-home-for-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
           "date": "2026-07-17T13:30:00.000Z",
           "source": "CoinTelegraph",
@@ -324,38 +356,6 @@
           "date": "2026-07-17T12:45:11.000Z",
           "source": "CoinDesk",
           "summary": "Moonshot's Kimi K3 took the top spot in frontend coding away from Claude and OpenAI, and it's free. Semiconductor stocks fell, and crypto fell with them."
-        },
-        {
-          "title": "Here’s what happened in crypto today",
-          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-17T12:30:36.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-        },
-        {
-          "title": "Dutch court declares crypto platform Knaken bankrupt over missing funds",
-          "url": "https://cointelegraph.com/news/dutch-court-knaken-crypto-platform-bankruptcy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-17T12:21:55.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The Rotterdam court said bankruptcy was necessary to ensure an orderly settlement because the company lacked enough assets to fully repay users."
-        },
-        {
-          "title": "Stablecoin growth will erode bank deposits, says ECB’s Cipollone",
-          "url": "https://cointelegraph.com/news/stablecoin-growth-bank-deposits-ecbs-cipollone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-17T12:03:51.000Z",
-          "source": "CoinTelegraph",
-          "summary": "ECB’s Piero Cipollone said stablecoin adoption could erode bank deposits, but the digital euro will keep banks at the center of payments."
-        },
-        {
-          "title": "AI frenzy losing steam leaves bitcoin less volatile than South Korean stocks",
-          "url": "https://www.coindesk.com/daybook-us/2026/07/17/ai-frenzy-losing-steam-leaves-bitcoin-less-volatile-than-south-korean-stocks",
-          "domain": "coindesk.com",
-          "date": "2026-07-17T11:48:20.000Z",
-          "source": "CoinDesk",
-          "summary": "Your day-ahead look for July 17, 2026"
         }
       ]
     }
