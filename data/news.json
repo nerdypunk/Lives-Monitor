@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-17T19:34:05.622Z",
+  "updatedAt": "2026-07-17T20:34:57.060Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,6 +278,30 @@
       ],
       "articles": [
         {
+          "title": "Galaxy lands 15-year Texas Tech stadium naming rights deal",
+          "url": "https://cointelegraph.com/news/galaxy-lands-15-year-texas-tech-stadium-naming-rights-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-17T20:03:32.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Galaxy Digital will rename Texas Tech’s football stadium under a 15-year agreement, expanding its West Texas presence as the state attracts growing crypto investment."
+        },
+        {
+          "title": "CryptoQuant says Strategy still needs disciplined bitcoin buying and selling framework",
+          "url": "https://www.theblock.co/post/408825/cryptoquant-strategy-bitcoin-buying-selling-framework-mstr?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-17T20:01:43.000Z",
+          "source": "The Block",
+          "summary": "CryptoQuant said Michael Saylor's Strategy still needs still needs clearer rules for when to buy and sell bitcoin."
+        },
+        {
+          "title": "Consensys unknowingly outsourced developer work to North Korean",
+          "url": "https://cointelegraph.com/news/consensys-north-korean-hacker-software-developer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-17T19:33:58.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Through an introduction with a “reputable third-party service provider,“ the company took on a developer who, as part of an investigation, was revealed to be tied to North Korea."
+        },
+        {
           "title": "Crypto Biz: When dollars disappear, stablecoins step in",
           "url": "https://cointelegraph.com/news/crypto-biz-when-dollars-disappear-stablecoins-step-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
@@ -332,30 +356,6 @@
           "date": "2026-07-17T16:48:22.000Z",
           "source": "CoinTelegraph",
           "summary": "With the Senate likely voting on a crypto bill within days, Elizabeth Warren asked for information on Donald Trump’s earnings between January and July ahead of a 2027 deadline."
-        },
-        {
-          "title": "Bitcoin slides toward $63,000 as Coinbase premium stays negative for a record 60 days",
-          "url": "https://www.theblock.co/post/408793/bitcoin-slides-63000-coinbase-premium-stays-negative-record-60-days?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-17T16:38:50.000Z",
-          "source": "The Block",
-          "summary": "Bitcoin fell near $63,000 as chip stocks sold off, the Coinbase premium stayed negative a record 60 days, and ETF flows remain thin."
-        },
-        {
-          "title": "Cardano hands core development to outside teams in decentralization push",
-          "url": "https://www.coindesk.com/tech/2026/07/17/cardano-hands-core-development-to-outside-teams-in-decentralization-push",
-          "domain": "coindesk.com",
-          "date": "2026-07-17T16:23:26.000Z",
-          "source": "CoinDesk",
-          "summary": "Input Output will transfer control of the Haskell node, Plutus, Hydra and other components as founder Charles Hoskinson says the network must change and start growing again."
-        },
-        {
-          "title": "Bitcoin ETFs could mirror gold’s history of ‘spectacular gains’ and ‘painful drawdowns,’ analyst says",
-          "url": "https://www.theblock.co/post/408782/bitcoin-etfs-ibit-mirror-golds-history-spectacular-gains-painful-drawdowns-analyst?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-17T15:40:50.000Z",
-          "source": "The Block",
-          "summary": "Bloomberg ETF analyst Eric Balchunas compared IBIT’s short time above $100 billion with GLD’s precipitous rise in 2011."
         }
       ]
     }
