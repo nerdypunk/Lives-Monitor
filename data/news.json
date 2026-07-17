@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-17T08:59:47.216Z",
+  "updatedAt": "2026-07-17T10:56:30.211Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,6 +278,46 @@
       ],
       "articles": [
         {
+          "title": "Live markets: Bitcoin slips to $63,000 as the chip rout goes global",
+          "url": "https://www.coindesk.com/markets/2026/07/17/live-markets-bitcoin-slips-to-usd63-000-as-the-chip-rout-goes-global",
+          "domain": "coindesk.com",
+          "date": "2026-07-17T10:43:57.000Z",
+          "source": "CoinDesk",
+          "summary": "A deepening global selloff in chipmakers dragged risk assets lower, pulling bitcoin back from the $65,000 it reached on this week's soft inflation print."
+        },
+        {
+          "title": "ESMA Adds 14 New CASPs to MiCA Register as Licensing Slows",
+          "url": "https://cointelegraph.com/news/mica-licensing-momentum-slows-post-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-17T10:29:35.000Z",
+          "source": "CoinTelegraph",
+          "summary": "ESMA adds 14 CASPs to its MiCA register, with banks and Ripple Payments Europe among the new entries as total providers reach 294."
+        },
+        {
+          "title": "Risk-off wave drags bitcoin below $63,000 as AI selloff spreads from stocks to crypto",
+          "url": "https://www.coindesk.com/markets/2026/07/17/risk-off-wave-drags-bitcoin-below-usd63-000-as-ai-selloff-spreads-from-stocks-to-crypto",
+          "domain": "coindesk.com",
+          "date": "2026-07-17T10:26:06.000Z",
+          "source": "CoinDesk",
+          "summary": "Crypto fell as AI stock fatigue and U.S.-Iran tensions weighed on sentiment, though a technical measure hints at oversold conditions heading into the weekend."
+        },
+        {
+          "title": "Bitcoin bottom countdown nears 50 days after BTC supply in loss passed 50%",
+          "url": "https://cointelegraph.com/markets/bitcoin-bottom-countdown-nears-50-days-after-btc-supply-in-loss-passed-50?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-17T09:51:33.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bitcoin supply in loss hit 50% nearly 50 days ago, mimicking the countdown to BTC price bear-market bottoms."
+        },
+        {
+          "title": "US indicts crypto investor over alleged $20M fraud scheme",
+          "url": "https://cointelegraph.com/news/us-indicts-crypto-investor-over-alleged-20m-fraud-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-17T09:25:33.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Federal prosecutors allege the South Dakota investor used false promises to raise money, repaid earlier investors with new funds and laundered proceeds through crypto exchanges."
+        },
+        {
           "title": "Airbnb CEO says X account was hacked, attacker posted AI-slop on tokenization",
           "url": "https://www.coindesk.com/web3/2026/07/17/airbnb-ceo-says-x-account-was-hacked-attacker-posted-ai-slop-thread-on-tokenization",
           "domain": "coindesk.com",
@@ -316,46 +356,6 @@
           "date": "2026-07-17T07:29:41.000Z",
           "source": "CoinDesk",
           "summary": "Japan's Nikkei had its worst day since March. Ether is still the only major holding a gain on the week, barely."
-        },
-        {
-          "title": "This $28 million ether market bet aims to profit from pure market chaos",
-          "url": "https://www.coindesk.com/markets/2026/07/17/this-usd28-million-ether-market-bet-aims-to-profit-from-pure-market-chaos",
-          "domain": "coindesk.com",
-          "date": "2026-07-17T07:28:52.000Z",
-          "source": "CoinDesk",
-          "summary": "The mega trade aims to profit from a potential surge in ether price turbulence."
-        },
-        {
-          "title": "Bitcoin ETFs add $368M in three-day buying streak",
-          "url": "https://cointelegraph.com/news/bitcoin-etfs-368-million-three-day-buying-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-17T07:23:02.000Z",
-          "source": "CoinTelegraph",
-          "summary": "US spot Bitcoin ETFs attracted $79.2 million on Thursday, lifting their three-day inflow total to about $368 million as Bitcoin attempted a price recovery."
-        },
-        {
-          "title": "Here’s what happened in crypto today",
-          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-17T06:05:29.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-        },
-        {
-          "title": "Ordinals advocate Leonidas proposes new Bitcoin client: ‘$DOG Mode’",
-          "url": "https://cointelegraph.com/news/ordinals-dev-leonidas-proposes-new-bitcoin-client-dog-mode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-17T05:54:04.000Z",
-          "source": "CoinTelegraph",
-          "summary": "“Over time the economic incentives will drive $DOG Mode’s adoption and force Bitcoin Core to stop gatekeeping and allow these completely valid transactions,” said Leonidas."
-        },
-        {
-          "title": "Bitcoin Ordinals leader proposes a way to bypass data restriction efforts",
-          "url": "https://www.coindesk.com/tech/2026/07/17/bitcoin-s-anti-spam-fight-gets-a-dog-mode-reply",
-          "domain": "coindesk.com",
-          "date": "2026-07-17T05:32:00.000Z",
-          "source": "CoinDesk",
-          "summary": "While BIP 110 wants to restrict data through a consensus change and has almost no miner support, a new DOG Mode client wants the opposite and requires no vote at all."
         }
       ]
     }
