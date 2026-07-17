@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-17T18:08:51.759Z",
+  "updatedAt": "2026-07-17T19:34:05.622Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,6 +278,30 @@
       ],
       "articles": [
         {
+          "title": "Crypto Biz: When dollars disappear, stablecoins step in",
+          "url": "https://cointelegraph.com/news/crypto-biz-when-dollars-disappear-stablecoins-step-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-17T19:23:53.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bolivia moves to recognize USDT amid a dollar shortage, while Bitcoin miners’ AI ambitions face fresh investor scrutiny."
+        },
+        {
+          "title": "FTX to distribute roughly $900 million to creditors in fifth wave of payouts",
+          "url": "https://www.theblock.co/post/408803/ftx-to-distribute-roughly-900-million-to-creditors-in-fifth-wave-of-payouts?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-17T18:27:59.000Z",
+          "source": "The Block",
+          "summary": "So far the company's bankruptcy estate has distributed nearly $10 billion to creditors and other claimants since repayments began in 2025."
+        },
+        {
+          "title": "Trezor exec pushes back on ZachXBT claim that hardware wallets are ‘complete garbage’",
+          "url": "https://www.theblock.co/post/408794/trezor-exec-pushes-back-zachxbt-claim-hardware-wallets-complete-garbage?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-17T18:13:25.000Z",
+          "source": "The Block",
+          "summary": "\"I do not advise using them for important tasks like signing transactions or storing funds,\" ZachXBT wrote this week."
+        },
+        {
           "title": "Polymarket traders cut Clarity Act passage odds to record low as Senate delay drags on",
           "url": "https://www.coindesk.com/markets/2026/07/17/polymarket-traders-cut-clarity-act-passage-odds-to-record-low-as-senate-delay-drags-on",
           "domain": "coindesk.com",
@@ -332,30 +356,6 @@
           "date": "2026-07-17T15:40:50.000Z",
           "source": "The Block",
           "summary": "Bloomberg ETF analyst Eric Balchunas compared IBIT’s short time above $100 billion with GLD’s precipitous rise in 2011."
-        },
-        {
-          "title": "Inside Robinhood’s high-stakes bet to onboard 10 million casual users onto decentralized finance",
-          "url": "https://www.coindesk.com/business/2026/07/17/inside-robinhood-s-high-stakes-bet-to-onboard-10-million-casual-investors-onto-decentralized-finance",
-          "domain": "coindesk.com",
-          "date": "2026-07-17T15:36:39.000Z",
-          "source": "CoinDesk",
-          "summary": "The company says its advantage lies in bringing retail customers onchain, but early activity remains dominated by memecoins, while its original tokenization vision remains small."
-        },
-        {
-          "title": "Bitcoin price sags under $62.5K as Iran strikes add to US stocks pressure",
-          "url": "https://cointelegraph.com/markets/bitcoin-price-sags-under-625k-as-iran-strikes-add-to-us-stocks-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-17T14:37:39.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Bitcoin saw a key rejection at local highs before reversing lower, moving with stocks for a second day as US-Iran war downside took its toll."
-        },
-        {
-          "title": "Galaxy Digital puts its name on Texas Tech football stadium in 15-year partnership",
-          "url": "https://www.theblock.co/post/408772/galaxy-digital-puts-name-texas-tech-football-stadium-15-year-partnership?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-17T14:33:42.000Z",
-          "source": "The Block",
-          "summary": "The deal's financial terms were not disclosed, but Yahoo Sports reported the agreement is worth more than $70 million."
         }
       ]
     }
