@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-18T18:11:28.213Z",
+  "updatedAt": "2026-07-18T19:33:36.857Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -23,14 +23,6 @@
           "date": "2026-07-14T07:02:17.000Z",
           "source": "KuCoin",
           "summary": "️DeSci Atoms Market Update 14 July 2026 MarketCap 24hrs Top &nbsp;&nbsp; KuCoin"
-        },
-        {
-          "title": "Bio Protocol launches OpenLabs, focusing on research crowdfunding for collaboration between humans and AI Agents - Bitget",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15NVc4c0E0cVJBT2JiM3RWMVpZOW15eEdqUjF0WHZsQmtZS3JXWmdEOHBzcEdvMjI4LWVDYm1Wd1RrYldQR2dsUWJjZ0hzbzJmOVkyRW9kQTJkZ19jUmFCaFBpMUVEbTcwaGfSAWpBVV95cUxNeTVXOHNBNHFSQU9iYjN0VjFaWTlteXhHalIxdFh2bEJrWUtyV1pnRDhwc3BHbzIyOC1lQ2JtVndUa2JXUEdnbFFiY2dIc28yZjlZMkVvZEEyZGdfY1JhQmhQaTFFRG03MGhn?oc=5",
-          "domain": "bitget.com",
-          "date": "2026-07-03T07:00:00.000Z",
-          "source": "Bitget",
-          "summary": "Bio Protocol launches OpenLabs, focusing on research crowdfunding for collaboration between humans and AI Agents &nbsp;&nbsp; Bitget"
         },
         {
           "title": "Bio Protocol develops AI agents to enhance decentralized science operations - Crypto Briefing",
@@ -87,6 +79,14 @@
           "date": "2026-05-28T07:00:00.000Z",
           "source": "Binance",
           "summary": "What Is Decentralized Science (DeSci)? &nbsp;&nbsp; Binance"
+        },
+        {
+          "title": "PEPTAI Price Swings Wild As Base Integration Fuels DeSci Hype - Coinpedia",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWUpyR0I0YkxiZktvX3hfWlZwc0JIZFU1czE4dHN5SkhjdlJnMFVqb1V4cUY2Z2M0ZXB3VWV4b05zOWdVSGhhblJ2ZGpFMlNhaHJLcF9mZFpHM3d1RHF5b2d3V2ZxUEZfcTJZRHB5Uzd1QWl0bXJuZDlMZG1QR0xvRDZMYkg3STJDaUJibGNEdnBFQmPSAZgBQVVfeXFMTTQ0SUZHQjIzZ2I3dm9UWk5IV3M3NzY0WkRpYnRxblZzUGZVc2lscWg5RXRCV2RzU3NianNNTFd5cVNJYTlRRWNkcnozazZzXzNyODJSZ3VEektmZlZVX1hzbURxcmhUenFzMTdoaG9YSHhlaHFuUnhiWTFOU1kzVTM5Tl8zUFlORnp3WERnaFhNa2ZRUl9ZbkI?oc=5",
+          "domain": "coinpedia.org",
+          "date": "2026-05-15T07:00:00.000Z",
+          "source": "Coinpedia",
+          "summary": "PEPTAI Price Swings Wild As Base Integration Fuels DeSci Hype &nbsp;&nbsp; Coinpedia"
         }
       ]
     },
@@ -278,6 +278,22 @@
       ],
       "articles": [
         {
+          "title": "Bitcoin Japan, which holds no bitcoin, taps EVO Fund in planned $60 million raise to finally buy some",
+          "url": "https://www.theblock.co/post/408838/bitcoin-japan-which-holds-no-bitcoin-taps-evo-fund-in-planned-60-million-raise-to-finally-buy-some?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-18T18:47:49.000Z",
+          "source": "The Block",
+          "summary": "A prior December raise instead funded stakes tied to SpaceX and Figure AI, which the company says are its two AI infrastructure investments to date."
+        },
+        {
+          "title": "Crypto executives say digital native generations may never need a bank account",
+          "url": "https://www.coindesk.com/business/2026/07/17/crypto-executives-say-digital-native-generations-may-never-need-a-bank-account",
+          "domain": "coindesk.com",
+          "date": "2026-07-18T18:30:00.000Z",
+          "source": "CoinDesk",
+          "summary": "teakhouse Financial co-founder Adrian Cachinero says digital-native generations may rely less on banks, while Binance says younger users are already driving crypto adoption in emerging markets."
+        },
+        {
           "title": "DOG Mode explains Bitcoin's next governance fight",
           "url": "https://www.coindesk.com/tech/2026/07/18/dog-mode-explains-bitcoin-s-next-governance-fight",
           "domain": "coindesk.com",
@@ -340,22 +356,6 @@
           "date": "2026-07-18T11:40:48.000Z",
           "source": "CoinTelegraph",
           "summary": "Cybersecurity company Kaspersky said a newly identified malware framework is targeting cryptocurrency investors through social engineering tactics and trojanized GitHub apps."
-        },
-        {
-          "title": "French gambling regulator orders ISPs to block Polymarket",
-          "url": "https://cointelegraph.com/news/french-gambling-authority-blocks-polymarket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-18T09:58:55.000Z",
-          "source": "CoinTelegraph",
-          "summary": "France’s gambling authority has ordered the country’s internet service providers to geoblock Polymarket, citing illegal gambling and market manipulation concerns."
-        },
-        {
-          "title": "FTX to distribute $900M to creditors in fifth payment round",
-          "url": "https://cointelegraph.com/news/ftx-distribute-millions-creditors-fifth-payment-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-17T21:40:18.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The FTX Recovery Trust and company have distributed about $10 billion since the exchange filed for bankruptcy in November 2022, leaving users cut off from their funds."
         }
       ]
     }
