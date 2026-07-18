@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-18T11:12:55.271Z",
+  "updatedAt": "2026-07-18T12:07:00.892Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,6 +278,22 @@
       ],
       "articles": [
         {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-18T11:42:51.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
+        {
+          "title": "Kaspersky identifies malware framework targeting crypto investors",
+          "url": "https://cointelegraph.com/news/kaspersky-malware-framework-crypto-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-18T11:40:48.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Cybersecurity company Kaspersky said a newly identified malware framework is targeting cryptocurrency investors through social engineering tactics and trojanized GitHub apps."
+        },
+        {
           "title": "French gambling regulator orders ISPs to block Polymarket",
           "url": "https://cointelegraph.com/news/french-gambling-authority-blocks-polymarket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
@@ -340,22 +356,6 @@
           "date": "2026-07-17T18:27:59.000Z",
           "source": "The Block",
           "summary": "So far the company's bankruptcy estate has distributed nearly $10 billion to creditors and other claimants since repayments began in 2025."
-        },
-        {
-          "title": "Trezor exec pushes back on ZachXBT claim that hardware wallets are ‘complete garbage’",
-          "url": "https://www.theblock.co/post/408794/trezor-exec-pushes-back-zachxbt-claim-hardware-wallets-complete-garbage?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-17T18:13:25.000Z",
-          "source": "The Block",
-          "summary": "\"I do not advise using them for important tasks like signing transactions or storing funds,\" ZachXBT wrote this week."
-        },
-        {
-          "title": "Polymarket traders cut Clarity Act passage odds to record low as Senate delay drags on",
-          "url": "https://www.coindesk.com/markets/2026/07/17/polymarket-traders-cut-clarity-act-passage-odds-to-record-low-as-senate-delay-drags-on",
-          "domain": "coindesk.com",
-          "date": "2026-07-17T18:00:11.000Z",
-          "source": "CoinDesk",
-          "summary": "Polymarket bettors have cut the odds of the CLARITY Act passing this year to a record low as Senate negotiations over ethics provisions remain unresolved."
         }
       ]
     }
