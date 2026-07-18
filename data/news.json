@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-18T16:03:03.063Z",
+  "updatedAt": "2026-07-18T17:15:39.959Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,6 +278,22 @@
       ],
       "articles": [
         {
+          "title": "DOG Mode explains Bitcoin's next governance fight",
+          "url": "https://www.coindesk.com/tech/2026/07/18/dog-mode-explains-bitcoin-s-next-governance-fight",
+          "domain": "coindesk.com",
+          "date": "2026-07-18T17:00:00.000Z",
+          "source": "CoinDesk",
+          "summary": "Leonidas' DOG Mode client challenges Bitcoin's default relay policies, reopening a philosophical debate over censorship, free markets and who really governs the network."
+        },
+        {
+          "title": "Trump targets Brazil's payments system while dollar stablecoins are quietly overtaking country's payments",
+          "url": "https://www.coindesk.com/business/2026/07/18/trump-targets-brazil-s-payments-system-while-dollar-stablecoins-quietly-dominate-country-s-payments",
+          "domain": "coindesk.com",
+          "date": "2026-07-18T16:09:59.000Z",
+          "source": "CoinDesk",
+          "summary": "Washington views Brazil’s promotion of non-dollar payment channels, including Pix and the growth of stablecoins, as a potential threat to dollar-based trade, even as dollar-linked stablecoins account for about 90% of Brazil's crypto transactions."
+        },
+        {
           "title": "Here is why a massive $1.6 billion in crypto liquidity is sitting idle and wasting away",
           "url": "https://www.coindesk.com/web3/2026/07/18/here-is-why-a-massive-usd1-6-billion-in-crypto-liquidity-is-sitting-idle-and-wasting-away",
           "domain": "coindesk.com",
@@ -340,22 +356,6 @@
           "date": "2026-07-17T21:40:18.000Z",
           "source": "CoinTelegraph",
           "summary": "The FTX Recovery Trust and company have distributed about $10 billion since the exchange filed for bankruptcy in November 2022, leaving users cut off from their funds."
-        },
-        {
-          "title": "Bank of America taps new leaders to bridge crypto, AI and traditional finance",
-          "url": "https://www.theblock.co/post/408830/bank-america-taps-new-leaders-bridge-crypto-ai-traditional-finance?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-17T21:08:02.000Z",
-          "source": "The Block",
-          "summary": "Sonali Theisen was named head of BofA's global digital assets platform, while Kevin Milsom was tapped to serve as head of AI transformation"
-        },
-        {
-          "title": "Galaxy lands 15-year Texas Tech stadium naming rights deal",
-          "url": "https://cointelegraph.com/news/galaxy-lands-15-year-texas-tech-stadium-naming-rights-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-17T20:03:32.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Galaxy Digital will rename Texas Tech’s football stadium under a 15-year agreement, expanding its West Texas presence as the state attracts growing crypto investment."
         }
       ]
     }
