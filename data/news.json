@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-18T14:57:36.828Z",
+  "updatedAt": "2026-07-18T16:03:03.063Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,6 +278,14 @@
       ],
       "articles": [
         {
+          "title": "Here is why a massive $1.6 billion in crypto liquidity is sitting idle and wasting away",
+          "url": "https://www.coindesk.com/web3/2026/07/18/here-is-why-a-massive-usd1-6-billion-in-crypto-liquidity-is-sitting-idle-and-wasting-away",
+          "domain": "coindesk.com",
+          "date": "2026-07-18T15:50:31.000Z",
+          "source": "CoinDesk",
+          "summary": "About $542 million weekly sat outside active trading ranges, meaning this capital earned zero fees and provided no market depth."
+        },
+        {
           "title": "Massive bitcoin call spreads target $72,000 by month end, right when the Fed meets",
           "url": "https://www.coindesk.com/markets/2026/07/18/massive-bitcoin-call-spreads-target-usd72-000-by-month-end-right-when-the-fed-meets",
           "domain": "coindesk.com",
@@ -348,14 +356,6 @@
           "date": "2026-07-17T20:03:32.000Z",
           "source": "CoinTelegraph",
           "summary": "Galaxy Digital will rename Texas Tech’s football stadium under a 15-year agreement, expanding its West Texas presence as the state attracts growing crypto investment."
-        },
-        {
-          "title": "CryptoQuant says Strategy still needs disciplined bitcoin buying and selling framework",
-          "url": "https://www.theblock.co/post/408825/cryptoquant-strategy-bitcoin-buying-selling-framework-mstr?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-17T20:01:43.000Z",
-          "source": "The Block",
-          "summary": "CryptoQuant said Michael Saylor's Strategy still needs still needs clearer rules for when to buy and sell bitcoin."
         }
       ]
     }
