@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-18T09:58:49.948Z",
+  "updatedAt": "2026-07-18T11:12:55.271Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -103,7 +103,7 @@
           "domain": "lifespan.io",
           "date": "2026-07-17T16:52:17.000Z",
           "source": "Lifespan.io",
-          "summary": "Scientists have engineered an enzyme that removes an advanced glycation end product (AGE) from proteins. This type of age-related modification, which affects protein […]"
+          "summary": "Scientists have engineered an enzyme that removes an advanced glycation end product (AGE) from proteins. This type of age-related modification, which affects protein function and can trigger inflammation, has previously been considered extremely hard to reverse [1]. […]"
         },
         {
           "title": "Elysium Health links NAD+ to menopause in new study",
@@ -135,7 +135,7 @@
           "domain": "lifespan.io",
           "date": "2026-07-16T20:43:18.000Z",
           "source": "Lifespan.io",
-          "summary": "Publishing in Aging Cell, researchers have devised a way to delay the aging of the thymus by targeting GPR40, a key receptor in its epithelial cells. The organ that involutes The thymus trains a certain subset of immune cells, which […]"
+          "summary": "Publishing in Aging Cell, researchers have devised a way to delay the aging of the thymus by targeting GPR40, a key […]"
         },
         {
           "title": "Neko Health secures $700m to fuel expansion",
@@ -167,7 +167,7 @@
           "domain": "lifespan.io",
           "date": "2026-07-15T17:08:51.000Z",
           "source": "Lifespan.io",
-          "summary": "Today, Forever Healthy announces the launch of a set of new tools to make it easier than ever for AI agents, research pipelines, and AI environments to integrate Evipedia. Evipedia is Forever Healthy’s comprehensive, continuously updated online […]"
+          "summary": "Today, Forever Healthy announces the launch of a set of new tools to make it easier than ever for AI agents, research pipelines, and AI environments to integrate Evipedia. Evipedia […]"
         },
         {
           "title": "From lab to factory: Klotho reaches a new milestone",
@@ -278,6 +278,14 @@
       ],
       "articles": [
         {
+          "title": "French gambling regulator orders ISPs to block Polymarket",
+          "url": "https://cointelegraph.com/news/french-gambling-authority-blocks-polymarket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-18T09:58:55.000Z",
+          "source": "CoinTelegraph",
+          "summary": "France’s gambling authority has ordered the country’s internet service providers to geoblock Polymarket, citing illegal gambling and market manipulation concerns."
+        },
+        {
           "title": "FTX to distribute $900M to creditors in fifth payment round",
           "url": "https://cointelegraph.com/news/ftx-distribute-millions-creditors-fifth-payment-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
@@ -348,14 +356,6 @@
           "date": "2026-07-17T18:00:11.000Z",
           "source": "CoinDesk",
           "summary": "Polymarket bettors have cut the odds of the CLARITY Act passing this year to a record low as Senate negotiations over ethics provisions remain unresolved."
-        },
-        {
-          "title": "Stripe and Swift race to control the next generation of global payments infrastructure",
-          "url": "https://www.coindesk.com/business/2026/07/17/stripe-and-swift-race-to-control-the-next-generation-of-global-payments-infrastructure",
-          "domain": "coindesk.com",
-          "date": "2026-07-17T17:23:01.000Z",
-          "source": "CoinDesk",
-          "summary": "Crypto and blockchain experts say this week's moves show the two established finance companies are increasingly competing for control of the infrastructure behind digital payments."
         }
       ]
     }
