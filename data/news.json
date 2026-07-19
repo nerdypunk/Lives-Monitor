@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-19T15:00:05.210Z",
+  "updatedAt": "2026-07-19T16:04:20.949Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,6 +278,14 @@
       ],
       "articles": [
         {
+          "title": "Bitcoin's biggest advocate, Michael Saylor, says new plan to clean up the blockchain is 'a bad idea'",
+          "url": "https://www.coindesk.com/tech/2026/07/19/bitcoin-s-biggest-advocate-michael-saylor-says-new-plan-to-clean-up-the-blockchain-is-a-bad-idea",
+          "domain": "coindesk.com",
+          "date": "2026-07-19T15:19:21.000Z",
+          "source": "CoinDesk",
+          "summary": "Michael Saylor argues that a new proposal, BIP-110, to temporarily block \"spam\" data from the Bitcoin blockchain would undermine the network's neutrality and create a dangerous precedent for censorship."
+        },
+        {
           "title": "AI is destroying the internet. Math is our only hope.",
           "url": "https://www.coindesk.com/opinion/2026/07/17/ai-is-destroying-the-internet-math-is-our-only-hope",
           "domain": "coindesk.com",
@@ -348,14 +356,6 @@
           "date": "2026-07-19T05:37:34.000Z",
           "source": "CoinDesk",
           "summary": "The new Zakura client is the first live piece of a plan to take Zcash from roughly one private transaction per second to payment-network scale."
-        },
-        {
-          "title": "US regulators miss GENIUS Act’s one-year deadline for final stablecoin rules",
-          "url": "https://www.theblock.co/post/408843/us-regulators-miss-genius-acts-one-year-deadline-for-final-stablecoin-rules?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-18T22:04:40.000Z",
-          "source": "The Block",
-          "summary": "The delay does not postpone the law’s Jan. 18, 2027 effective date, leaving regulators and stablecoin issuers with a compressed implementation window."
         }
       ]
     }
