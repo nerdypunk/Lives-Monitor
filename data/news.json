@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-19T19:45:12.119Z",
+  "updatedAt": "2026-07-19T20:32:39.644Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,6 +278,14 @@
       ],
       "articles": [
         {
+          "title": "Upbit parent Dunamu faces sanction process nearly eight months after $30 million hack: report",
+          "url": "https://www.theblock.co/post/408848/upbit-parent-dunamu-faces-sanction-process-nearly-eight-months-after-30-million-hack-report?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-19T20:31:29.000Z",
+          "source": "The Block",
+          "summary": "The severity of any sanctions remains unclear because South Korea's current crypto law contains no direct sanction provisions for hacking or IT failures."
+        },
+        {
           "title": "The GENIUS Act turns 1: State of Crypto",
           "url": "https://www.coindesk.com/policy/2026/07/19/the-genius-act-turns-1-state-of-crypto",
           "domain": "coindesk.com",
@@ -348,14 +356,6 @@
           "date": "2026-07-19T12:56:00.000Z",
           "source": "CoinTelegraph",
           "summary": "US regulators failed to finalize implementing regulations by the GENIUS Act’s one-year deadline, issuing 10 proposed rules instead."
-        },
-        {
-          "title": "Upbit parent Dunamu faces South Korean regulator sanctions process: Report",
-          "url": "https://cointelegraph.com/news/south-korean-regulator-inspection-letter-upbit-36m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-19T10:23:00.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Korea’s Virtual Asset User Protection Act lacks explicit sanctions provisions for hacking and similar incidents, clouding the scope of penalties facing the Upbit operator Dunamu."
         }
       ]
     }
