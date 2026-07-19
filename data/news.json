@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-19T21:36:03.444Z",
+  "updatedAt": "2026-07-19T22:36:35.490Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,6 +278,14 @@
       ],
       "articles": [
         {
+          "title": "Saylor urges Bitcoin to reject BIP-110 in 110-point essay as soft fork’s August showdown approaches",
+          "url": "https://www.theblock.co/post/408850/saylor-urges-bitcoin-to-reject-bip-110-in-110-point-essay-as-soft-forks-august-showdown-approaches?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-19T21:51:32.000Z",
+          "source": "The Block",
+          "summary": "Saylor followed up Sunday with a cryptic tracker-chart post captioned \"What's next?\" ahead of Strategy's expected Monday disclosure."
+        },
+        {
           "title": "Upbit parent Dunamu faces sanction process nearly eight months after $30 million hack: report",
           "url": "https://www.theblock.co/post/408848/upbit-parent-dunamu-faces-sanction-process-nearly-eight-months-after-30-million-hack-report?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
@@ -348,14 +356,6 @@
           "date": "2026-07-19T13:00:00.000Z",
           "source": "CoinDesk",
           "summary": "The Wyoming-based firm launched USD-settled bitcoin and ether options, saying product design, not demand, has held back adoption."
-        },
-        {
-          "title": "US agencies miss GENIUS Act deadline for final stablecoin rules",
-          "url": "https://cointelegraph.com/news/federal-agencies-miss-genius-act-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-19T12:56:00.000Z",
-          "source": "CoinTelegraph",
-          "summary": "US regulators failed to finalize implementing regulations by the GENIUS Act’s one-year deadline, issuing 10 proposed rules instead."
         }
       ]
     }
