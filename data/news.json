@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-19T18:28:39.741Z",
+  "updatedAt": "2026-07-19T19:45:12.119Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,10 +278,18 @@
       ],
       "articles": [
         {
+          "title": "The GENIUS Act turns 1: State of Crypto",
+          "url": "https://www.coindesk.com/policy/2026/07/19/the-genius-act-turns-1-state-of-crypto",
+          "domain": "coindesk.com",
+          "date": "2026-07-19T18:30:00.000Z",
+          "source": "CoinDesk",
+          "summary": "The stablecoin-focused GENIUS Act became a law a year ago."
+        },
+        {
           "title": "Here’s what happened in crypto today",
           "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-07-19T18:20:00.000Z",
+          "date": "2026-07-19T18:23:00.000Z",
           "source": "CoinTelegraph",
           "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
         },
@@ -348,14 +356,6 @@
           "date": "2026-07-19T10:23:00.000Z",
           "source": "CoinTelegraph",
           "summary": "Korea’s Virtual Asset User Protection Act lacks explicit sanctions provisions for hacking and similar incidents, clouding the scope of penalties facing the Upbit operator Dunamu."
-        },
-        {
-          "title": "Bitcoin’s quantum problem gets a recovery tool, but not for Satoshi’s 1.1 million coins",
-          "url": "https://www.coindesk.com/tech/2026/07/19/bitcoin-s-quantum-problem-gets-a-recovery-tool-but-not-for-satoshi-s-1-1-million-coin",
-          "domain": "coindesk.com",
-          "date": "2026-07-19T10:00:00.000Z",
-          "source": "CoinDesk",
-          "summary": "Project Eleven says it has funded a proof that lets a wallet's own key-derivation path stand in as ownership after quantum computers can forge its signatures. It runs in 243 milliseconds on a laptop."
         }
       ]
     }
