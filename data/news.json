@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-19T17:17:06.865Z",
+  "updatedAt": "2026-07-19T18:28:39.741Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,6 +278,22 @@
       ],
       "articles": [
         {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-19T18:20:00.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
+        {
+          "title": "France orders internet providers to block Polymarket ahead of World Cup final",
+          "url": "https://www.theblock.co/post/408846/france-orders-internet-providers-to-block-polymarket-ahead-of-world-cup-final?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-19T17:56:54.000Z",
+          "source": "The Block",
+          "summary": "The order cuts French users off ahead of the World Cup final, which will settle the largest event markets in the industry's history."
+        },
+        {
           "title": "Saylor turns up heat with ‘110 reasons’ why BIP-110 is a bad idea",
           "url": "https://cointelegraph.com/news/saylor-turns-up-heat-with-110-reasons-why-bip-110-is-a-bad-idea?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
@@ -300,14 +316,6 @@
           "date": "2026-07-19T14:00:00.000Z",
           "source": "CoinDesk",
           "summary": "The rise of autonomous AI agents necessitates the utilization of zero-knowledge proofs, argues Brian Trunzo, chief growth officer at Succinct Labs."
-        },
-        {
-          "title": "Here’s what happened in crypto today",
-          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-19T13:20:25.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
         },
         {
           "title": "Tether's USDT hits 2-year countdown threatening its position on U.S. crypto platforms",
@@ -348,14 +356,6 @@
           "date": "2026-07-19T10:00:00.000Z",
           "source": "CoinDesk",
           "summary": "Project Eleven says it has funded a proof that lets a wallet's own key-derivation path stand in as ownership after quantum computers can forge its signatures. It runs in 243 milliseconds on a laptop."
-        },
-        {
-          "title": "Inside Zcash's new node that targets Visa-scale privacy at 50,000 transactions per second",
-          "url": "https://www.coindesk.com/tech/2026/07/16/inside-zcash-s-new-node-that-targets-visa-scale-privacy-at-50-000-transactions-per-second",
-          "domain": "coindesk.com",
-          "date": "2026-07-19T05:37:34.000Z",
-          "source": "CoinDesk",
-          "summary": "The new Zakura client is the first live piece of a plan to take Zcash from roughly one private transaction per second to payment-network scale."
         }
       ]
     }
