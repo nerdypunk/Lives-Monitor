@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-19T07:16:53.849Z",
+  "updatedAt": "2026-07-19T09:28:30.245Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,6 +278,14 @@
       ],
       "articles": [
         {
+          "title": "Electronic Transactions Association CEO Expecting More Partnerships with Bitcoin Startups",
+          "url": "https://cointelegraph.com/news/electronic-transactions-association-ceo-expecting-more-partnerships-with-bitcoin-startups?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-19T09:16:42.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Electronic Transactions Association (ETA) CEO, Jason Oxman, indicated that members of his organization might start recognizing Bitcoin’s disruptive potential, suggesting that this might lead to more partnerships between traditional electronic payment providers and Bitcoin startups."
+        },
+        {
           "title": "Inside Zcash's new node that targets Visa-scale privacy at 50,000 transactions per second",
           "url": "https://www.coindesk.com/tech/2026/07/16/inside-zcash-s-new-node-that-targets-visa-scale-privacy-at-50-000-transactions-per-second",
           "domain": "coindesk.com",
@@ -348,14 +356,6 @@
           "date": "2026-07-18T14:15:15.000Z",
           "source": "CoinDesk",
           "summary": "Large traders are betting on a BTC price rise to $72,000 by the end of the month, latest options market flow suggests."
-        },
-        {
-          "title": "UNI burn poised to grow as Uniswap governance votes on v4 fees and Robinhood Chain expansion",
-          "url": "https://www.theblock.co/post/408836/uni-burn-poised-to-grow-as-uniswap-governance-votes-on-v4-fees-and-robinhood-chain-expansion?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-18T14:04:54.000Z",
-          "source": "The Block",
-          "summary": "Both proposals route new fees into the UNI burn system created under December's \"UNIfication\" overhaul, with voting open from July 19 through July 26."
         }
       ]
     }
