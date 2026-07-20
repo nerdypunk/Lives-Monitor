@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-20T20:41:27.768Z",
+  "updatedAt": "2026-07-20T21:50:08.535Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -98,12 +98,20 @@
       ],
       "articles": [
         {
+          "title": "Exosomes From Stem Cells Fight Liver Disease in Mice",
+          "url": "https://lifespan.io/exosomes-from-stem-cells-fight-liver-disease-in-mice/",
+          "domain": "lifespan.io",
+          "date": "2026-07-20T20:59:34.000Z",
+          "source": "Lifespan.io",
+          "summary": "Researchers have described a method of using exosomes derived from mesenchymal stem cells (MSCs) to fight harmful metabolic changes in the liver. Another look […]"
+        },
+        {
           "title": "Engineered Enzyme Reverses Age-Related Protein Damage",
           "url": "https://lifespan.io/engineered-enzyme-reverses-age-related-protein-damage/",
           "domain": "lifespan.io",
           "date": "2026-07-17T16:52:17.000Z",
           "source": "Lifespan.io",
-          "summary": "Scientists have engineered an enzyme that removes an advanced glycation end product (AGE) from proteins. This type of age-related modification, which affects protein function and can trigger inflammation, has previously been considered extremely hard to reverse [1]. Can we rejuvenate […]"
+          "summary": "Scientists have engineered an enzyme that removes an advanced glycation end product (AGE) from proteins. This type of age-related modification, […]"
         },
         {
           "title": "Activating a Key Receptor Fights Thymic Involution in Mice",
@@ -111,7 +119,7 @@
           "domain": "lifespan.io",
           "date": "2026-07-16T20:43:18.000Z",
           "source": "Lifespan.io",
-          "summary": "Publishing in Aging Cell, researchers have devised a way to delay the aging of the thymus by targeting GPR40, a key receptor in its epithelial cells. The organ that involutes The thymus trains a certain subset of immune cells, which […]"
+          "summary": "Publishing in Aging Cell, researchers have devised a way to delay the aging of the thymus by targeting GPR40, a key receptor in its epithelial cells. The organ that involutes The thymus trains a certain subset […]"
         },
         {
           "title": "Forever Healthy Launches Evipedia AI Integration",
@@ -119,7 +127,7 @@
           "domain": "lifespan.io",
           "date": "2026-07-15T17:08:51.000Z",
           "source": "Lifespan.io",
-          "summary": "Today, Forever Healthy announces the launch of a set of new tools to make it easier than ever for AI agents, research pipelines, and AI environments to integrate Evipedia. Evipedia is Forever Healthy’s […]"
+          "summary": "Today, Forever Healthy announces the launch of a set of new tools to make it easier than ever for AI agents, research pipelines, and AI environments to integrate Evipedia. Evipedia is Forever Healthy’s comprehensive, continuously updated […]"
         },
         {
           "title": "Peripheral Inflammation May Drive Parkinson’s",
@@ -127,7 +135,7 @@
           "domain": "lifespan.io",
           "date": "2026-07-14T13:50:42.000Z",
           "source": "Lifespan.io",
-          "summary": "A new study suggests that aging or Parkinson’s-triggering mutations create inflammation in peripheral tissues, and then circulating extracellular vesicles spread it to the brain, which might contribute to the disease […]"
+          "summary": "A new study suggests that aging or Parkinson’s-triggering mutations create inflammation in peripheral tissues, and then circulating extracellular vesicles spread it to the brain, which might […]"
         },
         {
           "title": "Gabriel Cian on Building the 2060 Longevity Ecosystem",
@@ -135,7 +143,7 @@
           "domain": "lifespan.io",
           "date": "2026-07-13T15:50:44.000Z",
           "source": "Lifespan.io",
-          "summary": "In this follow-up interview, we speak with Gabriel Cian about how the 2060 ecosystem has evolved since last year’s Forum, what he learned from the first edition, and how he is thinking about investment, scientific credibility, health optimization, policy, […]"
+          "summary": "In this follow-up interview, we speak with Gabriel Cian about how the 2060 ecosystem has evolved since last year’s Forum, what he learned from the first edition, and […]"
         },
         {
           "title": "Combining Senolytics and Stem Cells Shows Promise in Mice",
@@ -143,7 +151,7 @@
           "domain": "lifespan.io",
           "date": "2026-07-10T16:34:16.000Z",
           "source": "Lifespan.io",
-          "summary": "A new study associated with Immorta Bio suggests that combining a senolytic vaccine with mesenchymal stem cells might create a synergistic impact. However, the findings rest on acute, […]"
+          "summary": "A new study associated with Immorta Bio suggests that combining a senolytic vaccine with mesenchymal stem cells might create a synergistic impact. However, the findings rest on acute, artificially induced injury models […]"
         },
         {
           "title": "An Experimental Proposal for Blocking Ambient Radiation",
@@ -159,7 +167,7 @@
           "domain": "lifespan.io",
           "date": "2026-07-08T16:36:59.000Z",
           "source": "Lifespan.io",
-          "summary": "In a recently published perspective paper, the author argues that the UK’s official health guidelines on physical activity and protein intake should be revised to […]"
+          "summary": "In a recently published perspective paper, the author argues that the UK’s official health guidelines on physical activity and protein intake should be revised to recommend levels necessary to achieve optimal health, rather than the […]"
         },
         {
           "title": "Rescuing Calcium Ion Homeostasis Extends Mouse Lifespan",
@@ -167,15 +175,7 @@
           "domain": "lifespan.io",
           "date": "2026-07-07T16:33:47.000Z",
           "source": "Lifespan.io",
-          "summary": "Scientists have linked disrupted Ca²⁺ homeostasis to aging in both progeroid and naturally aging mice. Rescuing it with a well-known antidepressant significantly increased the animals’ median and maximum lifespan [1]. Calcium ions in progeria and […]"
-        },
-        {
-          "title": "How Muscle Loss and Bone Loss Are Related",
-          "url": "https://lifespan.io/how-muscle-loss-and-bone-loss-are-related/",
-          "domain": "lifespan.io",
-          "date": "2026-07-06T19:17:12.000Z",
-          "source": "Lifespan.io",
-          "summary": "Researchers have elucidated some of the links between the age-related loss of muscle (sarcopenia) and the age-related loss of bone (osteoporosis). Related in multiple ways Substantial previous research has described the relationship between muscle and bone health. While […]"
+          "summary": "Scientists have linked disrupted Ca²⁺ homeostasis to aging in both progeroid and naturally aging mice. Rescuing it with a well-known antidepressant significantly increased the animals’ median and maximum lifespan [1]. Calcium ions in progeria and natural aging Cells use calcium […]"
         }
       ]
     },
@@ -278,6 +278,54 @@
       ],
       "articles": [
         {
+          "title": "Democrats added certain consumer protection rules to CLARITY: Coinbase exec",
+          "url": "https://cointelegraph.com/news/democrats-consumer-protections-clarity-act-ethics-debate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-20T21:41:23.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Coinbase vice chair Ryan VanGrack said that Democratic lawmakers had added provisions on customer protection to a digital asset market structure bill under consideration in the US Senate."
+        },
+        {
+          "title": "Grayscale could take Worldcoin to Wall Street after ETF filing with the SEC",
+          "url": "https://www.theblock.co/post/408995/grayscale-worldcoin-etf-filing-sec?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-20T21:25:00.000Z",
+          "source": "The Block",
+          "summary": "The first exchange-traded fund tied to Worldcoin could soon be headed to U.S. markets, as Grayscale files for a Worldcoin ETF."
+        },
+        {
+          "title": "Tether Gold recognized as Accepted Spot Commodity in Abu Dhabi financial center",
+          "url": "https://cointelegraph.com/news/tether-gold-recognized-as-accepted-spot-commodity-in-abu-dhabi-financial-center?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-20T21:21:54.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The recognition allows regulated firms in Abu Dhabi Global Market to offer services involving Tether Gold as tokenized commodities gain broader adoption."
+        },
+        {
+          "title": "Bitcoin defies recent tech stocks sell-off. Are bulls eyeing a $70K rally?",
+          "url": "https://cointelegraph.com/markets/bitcoin-defies-recent-tech-stocks-sell-off-are-bulls-eyeing-70k-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-20T21:20:09.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Despite muted derivatives sentiment, Bitcoin’s decoupling and Strategy’s cash raise set the stage for a potential rally to $70,000."
+        },
+        {
+          "title": "Kalshi, Polymarket open interest falls 20% as World Cup frenzy winds down",
+          "url": "https://www.theblock.co/post/408965/kalshi-polymarket-open-interest-falls-20-as-world-cup-frenzy-winds-down?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-20T21:12:50.000Z",
+          "source": "The Block",
+          "summary": "Sports accounted for 80% of both Kalshi and Polymarket's total volumes throughout the weekslong World Cup tournament."
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-20T21:07:27.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
+        {
           "title": "SEC sues Mining Automatic and founder over alleged $22M crypto mining scheme",
           "url": "https://cointelegraph.com/news/sec-sues-mining-automatic-and-founder-over-alleged-22m-crypto-mining-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
@@ -308,54 +356,6 @@
           "date": "2026-07-20T19:29:11.000Z",
           "source": "CoinTelegraph",
           "summary": "The wallet company said it expected the layoffs to generate between $10 million and $13 million in savings as part of its strategy to build a full-stack card issuance and payments platform."
-        },
-        {
-          "title": "AI-assisted hacking is outpacing traditional code reviews, NEAR co-founder says",
-          "url": "https://www.theblock.co/post/408943/ai-assisted-hacking-outpacing-traditional-code-reviews-near-co-founder-says?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-20T18:20:02.000Z",
-          "source": "The Block",
-          "summary": "NEAR co-founder Polosukhin called formal verification a necessary shift for securing blockchain code from AI hacking."
-        },
-        {
-          "title": "Hut 8, IREN deals lift AI-focused Bitcoin mining stocks",
-          "url": "https://cointelegraph.com/news/hut-8-iren-deals-lift-ai-focused-bitcoin-mining-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-20T17:27:31.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Bitcoin miners rallied as investors cheered multi-billion-dollar AI infrastructure contracts, underscoring the sector’s accelerating shift toward data centers and cloud computing."
-        },
-        {
-          "title": "Former NY Governor Cuomo joins OKX board, touts 24/7 tokenized trading",
-          "url": "https://www.theblock.co/post/408938/former-ny-governor-cuomo-joins-okx-board-touts-24-7-tokenized-trading?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-20T17:25:58.000Z",
-          "source": "The Block",
-          "summary": "Andrew Cuomo said OKX could help bring round-the-clock trading and more international capital into U.S. markets."
-        },
-        {
-          "title": "Nigerian president signs order on approach to crypto regulation, taxes",
-          "url": "https://cointelegraph.com/news/nigeria-order-crypto-regulatory-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-20T16:59:50.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The West African country’s executive order established a virtual asset council and addressed the fragmentation of crypto regulation for oversight and enforcement."
-        },
-        {
-          "title": "Bernstein raises Robinhood price target, cites tokenization and prediction markets",
-          "url": "https://cointelegraph.com/news/bernstein-raises-robinhood-price-target-cites-tokenization-and-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-20T16:53:25.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The brokerage’s blockchain strategy, including tokenized equities and its Arbitrum-based Robinhood Chain, could reduce its reliance on traditional crypto trading, analysts said."
-        },
-        {
-          "title": "Bitcoin price hits $65K wall as stocks battle ‘record’ institutional tech sell-off",
-          "url": "https://cointelegraph.com/markets/bitcoin-price-hits-65k-wall-as-stock-battle-record-institutional-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-20T15:47:00.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Bitcoin faced troublesome resistance at $65,000 while traders still saw a potential BTC price breakout into a “bullish market structure.”"
         }
       ]
     }
