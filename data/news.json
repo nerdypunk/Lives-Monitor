@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-20T08:10:25.363Z",
+  "updatedAt": "2026-07-20T11:14:22.910Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -88,8 +88,7 @@
           "source": "Binance",
           "summary": "What Is Decentralized Science (DeSci)? &nbsp;&nbsp; Binance"
         }
-      ],
-      "warning": "Google News DeSci returned 503"
+      ]
     },
     {
       "name": "Longevity",
@@ -104,7 +103,31 @@
           "domain": "lifespan.io",
           "date": "2026-07-17T16:52:17.000Z",
           "source": "Lifespan.io",
-          "summary": "Scientists have engineered an enzyme that removes an advanced glycation end product (AGE) from proteins. This type of age-related modification, which affects protein function and can […]"
+          "summary": "Scientists have engineered an enzyme that removes an advanced glycation end product (AGE) from proteins. This type of age-related modification, which affects protein function and can trigger inflammation, has previously been considered extremely hard to reverse [1]. Can […]"
+        },
+        {
+          "title": "Elysium Health links NAD+ to menopause in new study",
+          "url": "https://longevity.technology/news/elysium-health-links-nad-to-menopause-in-new-study/",
+          "domain": "longevity.technology",
+          "date": "2026-07-17T14:47:55.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Pilot research suggests Basis may ease menopausal symptoms while offering fresh clues about how NAD+ influences reproductive aging. The ultimate crossover event? NAD+ has been one of longevity’s favorite molecules. It has become almost synonymous with healthy aging, with companies positioning NAD+-boosting products around energy, cellular repair and age-related decline. Menopause, meanwhile, has largely lived […] The post Elysium Health links NAD+ to menopause in new study appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "SkinStylus secures new FDA win for healthier skin aging",
+          "url": "https://longevity.technology/news/skinstylus-secures-new-fda-win-for-healthier-skin-aging/",
+          "domain": "longevity.technology",
+          "date": "2026-07-17T13:57:09.000Z",
+          "source": "Longevity.Technology",
+          "summary": "FDA clearance for all skin types is making regenerative skin health more inclusive, evidence-based and focused on aging well. The first place many of us notice aging isn’t in the mirror as a whole – it’s around the eyes. Crow’s feet, fine lines and creases around the periorbital area often appear long before deeper wrinkles […] The post SkinStylus secures new FDA win for healthier skin aging appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "Alamar’s blood test breakthrough targets key Alzheimer’s marker",
+          "url": "https://longevity.technology/news/alamars-blood-test-breakthrough-targets-key-alzheimers-marker/",
+          "domain": "longevity.technology",
+          "date": "2026-07-17T13:35:33.000Z",
+          "source": "Longevity.Technology",
+          "summary": "New assay could make tracking Alzheimer’s progression easier, bringing precision diagnostics a step closer to everyday research. Blood tests have been hailed as the future of Alzheimer’s diagnosis. They are cheaper than brain scans, far less invasive than spinal taps and could eventually make early detection available to many more people. However, there has always […] The post Alamar’s blood test breakthrough targets key Alzheimer’s marker appeared first on Longevity.Technology ."
         },
         {
           "title": "Activating a Key Receptor Fights Thymic Involution in Mice",
@@ -115,68 +138,44 @@
           "summary": "Publishing in Aging Cell, researchers have devised a way to delay the aging of the thymus by targeting GPR40, a key receptor in its epithelial cells. The organ […]"
         },
         {
+          "title": "Neko Health secures $700m to fuel expansion",
+          "url": "https://longevity.technology/news/neko-health-secures-700m-to-fuel-expansion/",
+          "domain": "longevity.technology",
+          "date": "2026-07-16T14:12:36.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Preventive health platform will use new funding to expand into US while growing longitudinal health dataset and proprietary diagnostic tech. Neko Health has raised $700 million in a Series C financing round led by Lightspeed Venture Partners and co-led by OG Venture Partners, valuing the Swedish preventive health company at approximately $1.8 billion – a […] The post Neko Health secures $700m to fuel expansion appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "Can Asian banks follow Indonesia’s longevity move?",
+          "url": "https://longevity.technology/news/can-asian-banks-follow-indonesias-longevity-move/",
+          "domain": "longevity.technology",
+          "date": "2026-07-16T13:55:49.000Z",
+          "source": "Longevity.Technology",
+          "summary": "AIA and BCA are turning preventive longevity into wealth management service, hinting at future where banks may help protect more than assets. For decades, private banking has revolved around a familiar promise: grow wealth, preserve wealth and pass it on to the next generation. However, what if preserving wealth also meant preserving the person who […] The post Can Asian banks follow Indonesia’s longevity move? appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "Startup Juno Bio raises $3.8m for smarter women’s diagnostics",
+          "url": "https://longevity.technology/news/startup-juno-bio-raises-3-8m-for-smarter-womens-diagnostics/",
+          "domain": "longevity.technology",
+          "date": "2026-07-16T13:00:00.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Funding backs new diagnostics platform as the company aims to improve how women’s health conditions are identified and managed. Women’s health startup Juno Bio has secured $3.8 million in seed funding to expand its clinical diagnostics platform, marking a significant step in a field that has long suffered from underinvestment and underdiagnosis. The round was […] The post Startup Juno Bio raises $3.8m for smarter women’s diagnostics appeared first on Longevity.Technology ."
+        },
+        {
           "title": "Forever Healthy Launches Evipedia AI Integration",
           "url": "https://lifespan.io/forever-healthy-launches-evipedia-ai-integration/",
           "domain": "lifespan.io",
           "date": "2026-07-15T17:08:51.000Z",
           "source": "Lifespan.io",
-          "summary": "Today, Forever Healthy announces the launch of a set of new tools to make it easier than ever for AI agents, research pipelines, and AI environments to […]"
+          "summary": "Today, Forever Healthy announces the launch of a set of new tools to make it easier than ever for AI agents, research pipelines, […]"
         },
         {
-          "title": "Peripheral Inflammation May Drive Parkinson’s",
-          "url": "https://lifespan.io/peripheral-inflammation-may-drive-parkinsons/",
-          "domain": "lifespan.io",
-          "date": "2026-07-14T13:50:42.000Z",
-          "source": "Lifespan.io",
-          "summary": "A new study suggests that aging or Parkinson’s-triggering mutations create inflammation in peripheral tissues, and then circulating extracellular vesicles spread it to the brain, which might contribute to the disease [1]. Brain on fire Nature […]"
-        },
-        {
-          "title": "Gabriel Cian on Building the 2060 Longevity Ecosystem",
-          "url": "https://lifespan.io/gabriel-cian-on-building-the-2060-longevity-ecosystem/",
-          "domain": "lifespan.io",
-          "date": "2026-07-13T15:50:44.000Z",
-          "source": "Lifespan.io",
-          "summary": "In this follow-up interview, we speak with Gabriel Cian about how the 2060 ecosystem has evolved since last year’s Forum, what he learned from the first […]"
-        },
-        {
-          "title": "Combining Senolytics and Stem Cells Shows Promise in Mice",
-          "url": "https://lifespan.io/combining-senolytics-and-stem-cells-shows-promise-in-mice/",
-          "domain": "lifespan.io",
-          "date": "2026-07-10T16:34:16.000Z",
-          "source": "Lifespan.io",
-          "summary": "A new study associated with Immorta Bio suggests that combining a senolytic vaccine with mesenchymal stem cells might create a synergistic impact. However, the findings rest on acute, artificially induced injury models rather than natural aging [1]. Clearing out senescent […]"
-        },
-        {
-          "title": "An Experimental Proposal for Blocking Ambient Radiation",
-          "url": "https://lifespan.io/an-experimental-proposal-for-blocking-ambient-radiation/",
-          "domain": "lifespan.io",
-          "date": "2026-07-09T20:10:54.000Z",
-          "source": "Lifespan.io",
-          "summary": "A perspective published in Aging and Disease has recommended the use of underground laboratory space in order to remove the effects of surface radiation on biological clocks. A question […]"
-        },
-        {
-          "title": "Optimizing Guidelines Toward Optimal Health Outcomes",
-          "url": "https://lifespan.io/optimizing-guidelines-toward-optimal-health-outcomes/",
-          "domain": "lifespan.io",
-          "date": "2026-07-08T16:36:59.000Z",
-          "source": "Lifespan.io",
-          "summary": "In a recently published perspective paper, the author argues that the UK’s official health guidelines on physical activity and protein intake should be revised to recommend levels necessary to achieve optimal health, rather than the bare minimum currently […]"
-        },
-        {
-          "title": "Rescuing Calcium Ion Homeostasis Extends Mouse Lifespan",
-          "url": "https://lifespan.io/rescuing-calcium-ion-homeostasis-extends-mouse-lifespan/",
-          "domain": "lifespan.io",
-          "date": "2026-07-07T16:33:47.000Z",
-          "source": "Lifespan.io",
-          "summary": "Scientists have linked disrupted Ca²⁺ homeostasis to aging in both progeroid and naturally aging mice. Rescuing it with a well-known antidepressant significantly increased the animals’ median and maximum lifespan [1]. Calcium […]"
-        },
-        {
-          "title": "How Muscle Loss and Bone Loss Are Related",
-          "url": "https://lifespan.io/how-muscle-loss-and-bone-loss-are-related/",
-          "domain": "lifespan.io",
-          "date": "2026-07-06T19:17:12.000Z",
-          "source": "Lifespan.io",
-          "summary": "Researchers have elucidated some of the links between the age-related loss of muscle (sarcopenia) and the age-related loss of bone (osteoporosis). Related in multiple ways Substantial previous research has described the […]"
+          "title": "From lab to factory: Klotho reaches a new milestone",
+          "url": "https://longevity.technology/news/from-lab-to-factory-klotho-reaches-a-new-milestone/",
+          "domain": "longevity.technology",
+          "date": "2026-07-15T16:09:57.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Avaí Bio completes a manufacturing step that could move one of longevity’s most-watched proteins closer to the clinic. The hardest part of longevity may be figuring out how to manufacture it. That idea feels especially timely after Avaí Bio announced it has completed a Good Manufacturing Practice (GMP) Master Cell Bank for its alpha-Klotho therapy […] The post From lab to factory: Klotho reaches a new milestone appeared first on Longevity.Technology ."
         }
       ]
     },
@@ -279,84 +278,84 @@
       ],
       "articles": [
         {
-          "title": "South Korea eyes September launch for second phase of CBDC pilot: Report",
-          "url": "https://cointelegraph.com/news/south-korea-september-second-phase-cbdc-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "Bank of Korea prepares for live CBDC transactions with 9 banks in September",
+          "url": "https://www.coindesk.com/business/2026/07/20/bank-of-korea-prepares-for-live-cbdc-transactions-with-nine-banks-in-september",
+          "domain": "coindesk.com",
+          "date": "2026-07-20T11:10:07.000Z",
+          "source": "CoinDesk",
+          "summary": "Major banking heavyweights join a massive blockchain network test that will allow retail consumers to trade tokenized won freely across commercial lines."
+        },
+        {
+          "title": "Crypto institutions look beyond audits as trust signals falter: Hacken",
+          "url": "https://cointelegraph.com/news/institutions-crypto-security-beyond-audits-hacken-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-07-20T07:18:28.000Z",
+          "date": "2026-07-20T11:00:00.000Z",
           "source": "CoinTelegraph",
-          "summary": "The Bank of Korea’s CBDC pilot will add two regional banks, new payment features and tests of government subsidy payments using tokenized bank deposits"
+          "summary": "Institutional due diligence is shifting toward continuous monitoring, signer controls and incident readiness after operational failures accounted for most crypto losses."
         },
         {
-          "title": "Live markets: Oil bounce and lingering AI selloff pushes bitcoin under $64,000",
-          "url": "https://www.coindesk.com/tech/2026/07/20/live-markets-oil-bounce-and-lingering-ai-selloff-pushes-bitcoin-under-usd64-000",
-          "domain": "coindesk.com",
-          "date": "2026-07-20T07:15:47.000Z",
-          "source": "CoinDesk",
-          "summary": "War drives oil up, the Kimi selloff drags chips down, and bitcoin sits between them."
-        },
-        {
-          "title": "Moonshot AI IPO push follows Kimi, Alibaba AI releases that shook bitcoin",
-          "url": "https://www.coindesk.com/tech/2026/07/20/moonshot-ai-ipo-push-follows-kimi-alibaba-ai-releases-that-shook-bitcoin",
-          "domain": "coindesk.com",
-          "date": "2026-07-20T07:08:07.000Z",
-          "source": "CoinDesk",
-          "summary": "Days after Kimi K3 rattled chip stocks, Moonshot is moving toward a Hong Kong listing at a $30 billion-plus valuation while Alibaba's Qwen goes open-weight."
-        },
-        {
-          "title": "Bitcoin ETFs see new money again, but inflows remain ‘peanuts’ relative to the recent exodus",
-          "url": "https://www.coindesk.com/markets/2026/07/20/bitcoin-etfs-see-new-money-again-but-inflows-remain-peanuts-relative-to-the-recent-exodus",
-          "domain": "coindesk.com",
-          "date": "2026-07-20T05:46:36.000Z",
-          "source": "CoinDesk",
-          "summary": "Bitcoin ETFs have attracted $273 million in new inflows in two weeks, but the total is barely enough to cover a single \"slow\" week of recent selling."
-        },
-        {
-          "title": "Hyperliquid’s HIP-4 to support permissionless deployment for outcome markets",
-          "url": "https://www.theblock.co/post/408875/hyperliquid-hip-4-permissionless-deployment?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-20T05:34:45.000Z",
-          "source": "The Block",
-          "summary": "HIP-4 deployers must stake 500,000 HYPE tokens and can take up to 50% fees on their validator-aligned markets."
-        },
-        {
-          "title": "Bitcoin flat near $64,000 as oil hits a one-month high and Kimi AI selloff lingers",
-          "url": "https://www.coindesk.com/markets/2026/07/20/bitcoin-flat-near-usd64-000-as-oil-hits-a-one-month-high-and-kimi-ai-selloff-lingers",
-          "domain": "coindesk.com",
-          "date": "2026-07-20T05:31:43.000Z",
-          "source": "CoinDesk",
-          "summary": "Brent jumped almost 4% on escalating U.S.-Iran strikes, while Asian chip stocks stayed under pressure from Friday's Chinese AI shock."
-        },
-        {
-          "title": "Here’s what happened in crypto today",
-          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "Capital B approves 10-for-1 reverse stock split to broaden investor base",
+          "url": "https://cointelegraph.com/news/capital-b-reverse-stock-split-investor-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-07-20T04:56:55.000Z",
+          "date": "2026-07-20T10:54:00.000Z",
           "source": "CoinTelegraph",
-          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+          "summary": "Europe’s second-biggest Bitcoin treasury company said the September reverse stock split should attract more institutional investors to the French company."
         },
         {
-          "title": "Cardano activates van Rossem hard fork",
-          "url": "https://cointelegraph.com/news/cardano-activates-van-rossem-hard-fork-paving-way-for-leios?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "Russia’s parliament to hold final readings on crypto bill Tuesday",
+          "url": "https://cointelegraph.com/news/russia-crypto-bill-final-readings-july-21?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-07-20T04:26:17.000Z",
+          "date": "2026-07-20T10:37:23.000Z",
           "source": "CoinTelegraph",
-          "summary": "The upgrade reduces smart contract execution costs while laying the groundwork for Ouroboros Leios, a major scalability upgrade expected later this year."
+          "summary": "Russia’s State Duma is set to consider the crypto regulation bill in second and third readings, with rules for investors and cross-border payments included."
         },
         {
-          "title": "Japanese logistics firm turns to JPYC stablecoin to fight labor shortages: report",
-          "url": "https://www.theblock.co/post/408862/japanese-logistics-firm-jpyc?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-20T03:48:32.000Z",
-          "source": "The Block",
-          "summary": "By offering contractors faster payments with stablecoins, the firm seeks to attract more business partners, according to Nikkei."
+          "title": "Grayscale plans regular cash payouts from ETH, SOL staking rewards",
+          "url": "https://cointelegraph.com/news/grayscale-eth-sol-staking-cash-payouts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-20T10:36:30.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Grayscale plans to establish regular cash distributions from staking rewards generated by its Ether and Solana exchange-traded products."
         },
         {
-          "title": "Allbridge Core pauses protocol after $1.65 million flash loan exploit: onchain analysts",
-          "url": "https://www.theblock.co/post/408855/allbridge-core-exploit?utm_source=rss&utm_medium=rss",
+          "title": "Crypto market slips even as equities advance. Pump surges on social-media chatter",
+          "url": "https://www.coindesk.com/markets/2026/07/20/crypto-market-slips-even-as-equities-advance-pump-surges-on-social-media-chatter",
+          "domain": "coindesk.com",
+          "date": "2026-07-20T10:33:14.000Z",
+          "source": "CoinDesk",
+          "summary": "With a Fear and Greed index pointing solidly at \"fear,\" crypto prices drifted lower even as stock index futures rose. PUMP's 20% surge was the only real headline in an otherwise quiet session."
+        },
+        {
+          "title": "Trader maintains $67K BTC price target: Five things to know in Bitcoin this week",
+          "url": "https://cointelegraph.com/markets/trader-preserves-67k-btc-price-target-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-20T10:26:36.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bitcoin preserved a key long-term trend line as support for a third week as US-Iran war tensions delivered new five-week highs in oil prices."
+        },
+        {
+          "title": "Hyperliquid plans to add decentralized prediction markets in upgrade to HIP-4",
+          "url": "https://www.coindesk.com/business/2026/07/20/hyperliquid-plans-to-add-decentralized-prediction-markets-in-upgrade-to-hip-4",
+          "domain": "coindesk.com",
+          "date": "2026-07-20T10:04:25.000Z",
+          "source": "CoinDesk",
+          "summary": "Permissionless prediction markets will become available first on testnet and later on mainnet, Hyperliquid said."
+        },
+        {
+          "title": "TD Cowen cuts Smarter Web Company price target 36% on revised bitcoin outlook",
+          "url": "https://www.theblock.co/post/408883/td-cowen-cuts-smarter-web-company-price-target-36-on-revised-bitcoin-outlook?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-07-20T03:33:56.000Z",
+          "date": "2026-07-20T09:58:50.000Z",
           "source": "The Block",
-          "summary": "Security firms PeckShield and CertiK flagged that the attacker has bridged the stolen funds from Solana to Ethereum."
+          "summary": "TD Cowen cut Smarter Web's price target to £0.64 while maintaining a Buy rating, citing revised bitcoin forecasts and treasury assumptions."
+        },
+        {
+          "title": "Bitcoin ETF inflows extend to second week, but recovery lacks momentum",
+          "url": "https://cointelegraph.com/news/bitcoin-etf-inflows-second-but-recovery-lacks-momentum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-20T09:33:19.000Z",
+          "source": "CoinTelegraph",
+          "summary": "US spot Bitcoin ETFs extended their inflow streak to two weeks with $75.7 million in net inflows, but analysts said demand remains insufficient to fuel a sustained uptrend."
         }
       ]
     }
