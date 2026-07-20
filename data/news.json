@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-20T19:08:08.105Z",
+  "updatedAt": "2026-07-20T20:41:27.768Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,6 +278,38 @@
       ],
       "articles": [
         {
+          "title": "SEC sues Mining Automatic and founder over alleged $22M crypto mining scheme",
+          "url": "https://cointelegraph.com/news/sec-sues-mining-automatic-and-founder-over-alleged-22m-crypto-mining-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-20T20:27:54.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The SEC alleges Mining Automatic and its founder raised $22 million from investors by promising guaranteed crypto mining returns while spending only a fraction of the funds on mining operations."
+        },
+        {
+          "title": "Trump’s crypto ethics stance leaves Clarity Act negotiations in limbo",
+          "url": "https://www.theblock.co/post/408804/president-trump-agrees-some-level-ethics-language-potentially-clearing-hurdles-pass-crypto-bill?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-20T20:26:38.000Z",
+          "source": "The Block",
+          "summary": "A meeting last week to discuss an ethics provision to address President Trump's vast crypto wealth has become something of a black box."
+        },
+        {
+          "title": "Vietnam sets new crypto trading fines on par with drunk-driving penalties",
+          "url": "https://www.theblock.co/post/408980/vietnam-new-unlicensed-crypto-trading-fines-on-par-drunk-driving-penalties?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-20T19:47:47.000Z",
+          "source": "The Block",
+          "summary": "Domestic investors who trade crypto without going through a licensed service provider face fines of roughly $1,140 to $1,900."
+        },
+        {
+          "title": "Exodus to cut 25% of staff in company reorganization",
+          "url": "https://cointelegraph.com/news/crypto-wallet-exodus-cut-staff-company-reorganization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-20T19:29:11.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The wallet company said it expected the layoffs to generate between $10 million and $13 million in savings as part of its strategy to build a full-stack card issuance and payments platform."
+        },
+        {
           "title": "AI-assisted hacking is outpacing traditional code reviews, NEAR co-founder says",
           "url": "https://www.theblock.co/post/408943/ai-assisted-hacking-outpacing-traditional-code-reviews-near-co-founder-says?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
@@ -324,38 +356,6 @@
           "date": "2026-07-20T15:47:00.000Z",
           "source": "CoinTelegraph",
           "summary": "Bitcoin faced troublesome resistance at $65,000 while traders still saw a potential BTC price breakout into a “bullish market structure.”"
-        },
-        {
-          "title": "IREN jumps 16% after raising AI cloud revenue target above $4B",
-          "url": "https://cointelegraph.com/news/iren-jumps-16-after-raising-ai-cloud-revenue-target-above-4b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-20T15:20:25.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The Bitcoin miner raised its year-end AI cloud revenue target to more than $4 billion after signing $2.8 billion in new contracts with AI developers."
-        },
-        {
-          "title": "Benchmark backs Exodus after 25% workforce cut, says stablecoin pivot is being overlooked",
-          "url": "https://www.theblock.co/post/408924/benchmark-backs-exodus-workforce-cut-stablecoin-pivot-overlooked?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-20T15:07:52.000Z",
-          "source": "The Block",
-          "summary": "Late Friday afternoon, Exodus said it expects the restructuring to generate $10 million to $13 million in annualized cost savings."
-        },
-        {
-          "title": "Inside Cardano's 'Van Rossum' hard fork, and what it means for users",
-          "url": "https://www.coindesk.com/markets/2026/07/20/inside-cardano-s-van-rossum-hard-fork-and-what-it-means-for-users",
-          "domain": "coindesk.com",
-          "date": "2026-07-20T14:31:23.000Z",
-          "source": "CoinDesk",
-          "summary": "The Van Rossem hard fork moved Cardano to version 11 on Saturday. And for the first time, Cardano's community voted in the upgrade, not the company that built it."
-        },
-        {
-          "title": "Hut 8 fully commercializes 1 GW Texas AI campus with second $9.8B lease as IREN signs $2.8B in contracts; shares climb double digits",
-          "url": "https://www.theblock.co/post/408920/hut-8-fully-commercializes-1-gw-texas-ai-campus-with-second-9-8b-lease-as-iren-signs-2-8b-in-contracts-shares-climb-double-digits?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-20T14:12:46.000Z",
-          "source": "The Block",
-          "summary": "Hut 8 and IREN shares climb on fresh AI data center deals worth billions as the bitcoin-to-AI pivot continues to accelerate."
         }
       ]
     }
