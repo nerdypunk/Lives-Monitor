@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-21T21:14:37.018Z",
+  "updatedAt": "2026-07-21T22:14:13.009Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -188,6 +188,14 @@
       ],
       "articles": [
         {
+          "title": "Cone snail venom peptide could enable injectable non-opioid pain relief",
+          "url": "https://phys.org/news/2026-07-cone-snail-venom-peptide-enable.html",
+          "domain": "phys.org",
+          "date": "2026-07-21T22:00:01.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "An international research team led by the Medical University of Vienna has investigated a new peptide derived from cone snail venom that significantly reduced inflammation-induced pain in an animal model. Crucially, its effect takes hold immediately after subcutaneous injection, whereas previously known cone snail peptides must be administered directly into the cerebrospinal fluid."
+        },
+        {
           "title": "Decades-old strains reveal Brakhagea, a budding bacterial genus with bioactive potential",
           "url": "https://phys.org/news/2026-07-decades-strains-reveal-brakhagea-budding.html",
           "domain": "phys.org",
@@ -258,14 +266,6 @@
           "date": "2026-07-21T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2607.17004v1 Announce Type: new Abstract: Gene expression is a stochastic process that gives rise to large fluctuations in protein levels leading to phenotypic heterogeneity in clonal cell populations; post-transcriptional regulation plays a crucial role in controlling the level of phenotypic variability within a population, which is directly tied to cell-fate decisions. As such, substantial efforts have been directed towards quantitatively modeling the effects of various post-transcriptional mechanisms on the strength of fluctuations in protein levels (noise). However, the corresponding effects of post-transcriptional regulation on the occurrence of rare events corresponding to large deviations are far less explored and have only been considered for a special model. Here, we take a general model of post-transcriptional regulation and apply the partitioning of Poisson arrivals (PPA) framework to map it onto a model that resembles promoter-based regulation of transcription, leading to a general framework to obtain objects of interest in large deviations (i.e. large deviation rate function for quantifying the likelihood of observing rare protein production rates and the corresponding driven process that characterizes the system dynamics conditional on the rare event) for models of post-transcriptional regulation directly from prior results for promoter-based models. The results derived create new avenues to analyze rare events in general models of post-transcriptional regulation pertaining to various different biological settings."
-        },
-        {
-          "title": "Network Characteristics of Individual Pigments in Cyanobacterial Photosystem II Core Complexes",
-          "url": "https://arxiv.org/abs/2607.17096",
-          "domain": "arxiv.org",
-          "date": "2026-07-21T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2607.17096v1 Announce Type: new Abstract: Part of the excitation energy transfer (EET) characteristics of the photosystem II (PSII) comes from the interconnection between pigments. To understand the correlation between the EET and the pigments' interaction structure, we construct a network from the EET rates, which are related to both the distance between the pigments (chlorophylls and pheophytins) and their spatial orientations. Especially, we investigate how well the PS II core complex's EET functionality can be explained by using only the network topology in Thermosynechococcus vulcanus 1.9 \\AA. Starting from the F\\\"orster theory, we construct a network of EET pathways. For an analysis of the network structure, we calculate common network-structural measures like betweenness centrality, eigenvector centrality and weighted clustering. These measures can reflect the role of individual pigments in the EET network. In our work, we found that some well-known properties were reproduced by the network analysis of the simplified network, which means that the topology of the network encodes functionally relevant information. For example, from the network structural analysis, we can infer that most of the chlorophyll molecules (chlorophylls) in the pigment-protein complex CP47 have a heightened probability of transferring energy compared with other chlorophylls. We also see that the active branch chlorophylls in the reaction center are characterized by a high eigenvector centrality, a high betweenness centrality, and a low weighted clustering coefficient. This is indicative of functionally important vertices."
         }
       ]
     },
@@ -278,6 +278,22 @@
       ],
       "articles": [
         {
+          "title": "Crypto lobby group TDC sues Illinois to block digital asset tax",
+          "url": "https://www.coindesk.com/policy/2026/07/21/crypto-lobby-group-tdc-sues-illinois-to-block-digital-asset-tax",
+          "domain": "coindesk.com",
+          "date": "2026-07-21T22:08:10.000Z",
+          "source": "CoinDesk",
+          "summary": "Illinois enacted a 0.2% tax on all crypto transactions last month, with the tax taking effect next year."
+        },
+        {
+          "title": "CLARITY Act could help CFTC deal with prediction markets: Lawyer",
+          "url": "https://cointelegraph.com/news/clarity-act-cftc-prediction-markets-resources?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-21T21:36:43.000Z",
+          "source": "CoinTelegraph",
+          "summary": "According to one lawyer testifying before a House subcommittee hearing, the CLARITY Act could grant the CFTC the authority it needs to address the “explosive growth of prediction markets.”"
+        },
+        {
           "title": "Crypto Clarity Act still at mercy of ethics section as Democrats balk at Trump deal",
           "url": "https://www.coindesk.com/policy/2026/07/21/crypto-clarity-act-still-at-mercy-of-ethics-section-as-democrats-balk-at-trump-deal",
           "domain": "coindesk.com",
@@ -286,7 +302,7 @@
           "summary": "The White House has circulated some details of the conflict-of-interest limits the president agreed to with Republican negotiators, but talks are still underway."
         },
         {
-          "title": "Trump-backed crypto ethics rule puts DOJ in charge of enforcement, prohibits federal officials from issuing cryptocurrencies",
+          "title": "Trump-backed crypto ethics rule puts DOJ in charge of enforcement, prohibits federal officials from issuing cryptocurrencies: sources",
           "url": "https://www.theblock.co/post/409173/trump-backed-crypto-ethics-rule-doj-enforcement-prohibits-federal-officials-issuing-cryptocurrencies?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
           "date": "2026-07-21T21:11:05.000Z",
@@ -340,22 +356,6 @@
           "date": "2026-07-21T20:05:33.000Z",
           "source": "CoinDesk",
           "summary": "BTC has rebounded 15% from the July lows, but some analysts cautioned that the next move hinges on clearing a level where many recent buyers may look to sell."
-        },
-        {
-          "title": "Satsuma shareholders approve bitcoin treasury liquidation and London delisting",
-          "url": "https://www.theblock.co/post/409155/satsuma-shareholders-approve-bitcoin-treasury-liquidation-london-delisting?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-21T20:04:51.000Z",
-          "source": "The Block",
-          "summary": "The vote comes less than a year after UK-based Satsuma Technology raised $218 million to pursue its bitcoin strategy."
-        },
-        {
-          "title": "Congress weighs its role as fight over sports betting prediction market oversight forges on",
-          "url": "https://www.theblock.co/post/409152/congress-weighs-its-role-as-fight-over-sports-betting-prediction-market-oversight-forges-on?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-21T19:28:39.000Z",
-          "source": "The Block",
-          "summary": "As state and federal regulators continue to clash over who should oversee sports-related prediction markets, lawmakers consider stepping in."
         }
       ]
     }
