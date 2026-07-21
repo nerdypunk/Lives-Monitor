@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-21T18:01:41.342Z",
+  "updatedAt": "2026-07-21T19:52:32.701Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,12 +278,76 @@
       ],
       "articles": [
         {
-          "title": "Movement Labs files for Chapter 11 bankruptcy months after token scandal and strategic overhaul",
+          "title": "Congress weighs its role as fight over sports betting prediction market oversight forges on",
+          "url": "https://www.theblock.co/post/409152/congress-weighs-its-role-as-fight-over-sports-betting-prediction-market-oversight-forges-on?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-21T19:28:39.000Z",
+          "source": "The Block",
+          "summary": "As state and federal regulators continue to clash over who should oversee sports-related prediction markets, lawmakers consider stepping in."
+        },
+        {
+          "title": "Pakistan steps up crypto enforcement with dedicated federal unit",
+          "url": "https://cointelegraph.com/news/pakistan-crypto-enforcement-dedicated-unit-crimes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-21T19:19:22.000Z",
+          "source": "CoinTelegraph",
+          "summary": "A senior official with Pakistan’s Federal Investigation Agency reportedly recommended other agencies establish similar units to address crypto-related crime."
+        },
+        {
+          "title": "Ousted founder’s $1.6 million claim tops Movement Labs’ bankruptcy filing",
+          "url": "https://www.theblock.co/post/409151/ousted-founders-1-6-million-claim-tops-movement-labs-bankruptcy-filing?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-21T19:11:02.000Z",
+          "source": "The Block",
+          "summary": "MVMT filed for bankruptcy earlier this month, reporting assets between $100,001 and $500,000 and liabilities of up to $10 million."
+        },
+        {
+          "title": "RippleX sees XRP Ledger agentic transactions hitting 10-million mark soon",
+          "url": "https://www.theblock.co/post/408987/ripplex-sees-xrp-ledger-agentic-transactions-hitting-10-million-mark-soon?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-21T18:47:21.000Z",
+          "source": "The Block",
+          "summary": "Ripple recently joined x402 Foundation, serving as a premier member alongside Coinbase, Circle, and Visa."
+        },
+        {
+          "title": "Galaxy launches Bitcoin quantum computing initiative, commits up to $5 million in developer grants",
+          "url": "https://www.theblock.co/post/409129/galaxy-bitcoin-quantum-computing-threat-initiative?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-21T18:21:12.000Z",
+          "source": "The Block",
+          "summary": "Galaxy has launched the Bitcoin Quantum Readiness Initiative, including committing up to $5 million in developer grants."
+        },
+        {
+          "title": "Pavel Durov says Telegram to roll out native Gram crypto wallet",
+          "url": "https://cointelegraph.com/news/telegram-launch-native-self-custody-gram-wallet-for-over-1-billion-users-durov?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-21T18:20:58.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Telegram founder Pavel Durov said the messaging platform will roll out a native non-custodial Gram wallet this summer, bringing self-custody crypto transactions to its more than 1 billion users."
+        },
+        {
+          "title": "White House pushes Senate Democrats to take 'historic' crypto Clarity Act ethics deal",
+          "url": "https://www.coindesk.com/policy/2026/07/21/white-house-pushes-senate-democrats-to-take-historic-crypto-clarity-act-ethics-deal",
+          "domain": "coindesk.com",
+          "date": "2026-07-21T18:14:39.000Z",
+          "source": "CoinDesk",
+          "summary": "Without revealing any details about the actual agreement from President Trump on potential presidential restrictions, his White House is urging its acceptance."
+        },
+        {
+          "title": "Solana, Hyperliquid ETFs dominate altcoin fund flows despite flying under the radar",
+          "url": "https://www.theblock.co/post/408963/solana-hyperliquid-etfs-dominate-altcoin-fund-flows-despite-flying-under-the-radar?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-21T18:06:01.000Z",
+          "source": "The Block",
+          "summary": "Solana ETFs boast an impressive $904 million AUM, while the Hyperliquid funds have $350 million in net inflows."
+        },
+        {
+          "title": "Movement Labs files for Chapter 11 bankruptcy months after token scandal",
           "url": "https://www.coindesk.com/policy/2026/07/21/movement-labs-files-for-chapter-11-months-after-token-scandal-and-strategic-overhaul",
           "domain": "coindesk.com",
           "date": "2026-07-21T17:54:40.000Z",
           "source": "CoinDesk",
-          "summary": "The filing comes after months of upheaval that included a controversial market-making agreement, an internal investigation into its MOVE token launch, a Binance ban tied to its market maker and a last-ditch pivot from Ethereum scaling to cross-border payments."
+          "summary": "The filing comes after months of upheaval that included a controversial market-making agreement, an internal investigation into its MOVE token launch and a Binance ban tied to its market maker."
         },
         {
           "title": "Russia passes landmark crypto bill allowing regulated retail trading",
@@ -292,70 +356,6 @@
           "date": "2026-07-21T17:48:29.000Z",
           "source": "The Block",
           "summary": "Non-qualified Russian crypto investors face a 300,000-ruble annual purchase limit after Russia's State Duma passed a landmark crypto bill."
-        },
-        {
-          "title": "Crypto market breakout could accelerate as AI trade cools, analyst says",
-          "url": "https://cointelegraph.com/news/crypto-market-breakout-ai-trade-cools-analyst-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-21T17:46:30.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Bitcoin topped $67,000 while crypto stocks rallied on optimism over US crypto legislation and signs investors may be rotating out of AI trades."
-        },
-        {
-          "title": "White House agrees to ethics provisions in market structure bill",
-          "url": "https://cointelegraph.com/news/white-house-ethics-provisions-crypto-market-structure-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-21T17:30:58.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The price of Bitcoin moved above $66,000 to reach a seven-week high on Tuesday as reports circulated of a deal with the White House to address ethics in the CLARITY Act."
-        },
-        {
-          "title": "Augustus raises $180 million Series B at $1 billion valuation to build the ‘Global Dollar Bank’",
-          "url": "https://www.theblock.co/post/409119/augustus-raises-180-million-series-b-global-dollar-bank?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-21T16:51:02.000Z",
-          "source": "The Block",
-          "summary": "Augustus supports stablecoins alongside traditional payment rails including Swift, ACH, and SEPA, according to a press release."
-        },
-        {
-          "title": "Claude's Fable 5 just solved an 87-year-old math problem, and it matters for bitcoin",
-          "url": "https://www.coindesk.com/tech/2026/07/21/claude-s-fable-5-just-solved-an-87-year-old-math-problem-and-it-matters-for-bitcoin",
-          "domain": "coindesk.com",
-          "date": "2026-07-21T16:19:24.000Z",
-          "source": "CoinDesk",
-          "summary": "Claude Fabel 5 disproved the Jacobian conjecture over the weekend, landing days after the capabilities of China's Kimi AI became the biggest force moving bitcoin markets."
-        },
-        {
-          "title": "Galaxy sets up $5 million fund to help shield Bitcoin against quantum computing threats",
-          "url": "https://www.coindesk.com/tech/2026/07/21/galaxy-sets-up-usd5-million-fund-to-help-shield-bitcoin-against-quantum-computing-threats",
-          "domain": "coindesk.com",
-          "date": "2026-07-21T16:16:14.000Z",
-          "source": "CoinDesk",
-          "summary": "The crypto financial services firm is funding developers to strengthen the blockchain's security before quantum computers become powerful enough to steal billions in crypto."
-        },
-        {
-          "title": "BIS warns stablecoins could weaken capital controls in emerging markets",
-          "url": "https://cointelegraph.com/news/bis-study-says-stablecoins-bypass-capital-controls-more-easily-than-bank-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-21T16:11:54.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Researchers found dollar-backed stablecoins are less affected by capital controls than traditional bank deposits, raising new questions about monetary sovereignty in emerging markets."
-        },
-        {
-          "title": "Bitget plans US expansion ‘with or without’ Clarity Act, CEO says",
-          "url": "https://www.theblock.co/post/409100/bitget-plans-us-expansion-with-without-clarity-act-ceo-says?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-21T16:11:41.000Z",
-          "source": "The Block",
-          "summary": "Bitget CEO Gracy Chen is leading the crypto exchange's push into the U.S. after initially shelving expansion plans in 2022."
-        },
-        {
-          "title": "Uphold launches fractional share trading in US for more than 4,000 stocks and ETFs",
-          "url": "https://www.theblock.co/post/409087/uphold-launches-fractional-share-trading-4000-stocks-and-etfs?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-21T16:08:50.000Z",
-          "source": "The Block",
-          "summary": "“Uphold customers can now sell Bitcoin to buy Berkshire Hathaway shares in a single step on the app,\" the company's U.S. president said."
         }
       ]
     }
