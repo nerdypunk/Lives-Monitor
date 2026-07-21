@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-21T09:17:00.543Z",
+  "updatedAt": "2026-07-21T11:24:00.526Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,6 +278,22 @@
       ],
       "articles": [
         {
+          "title": "Crypto markets rally on Clarity progress report, Asian chip-stock rebound",
+          "url": "https://www.coindesk.com/markets/2026/07/21/crypto-markets-rally-on-clarity-progress-report-asian-chip-stock-rebound",
+          "domain": "coindesk.com",
+          "date": "2026-07-21T11:02:48.000Z",
+          "source": "CoinDesk",
+          "summary": "Speculation that President Donald Trump agreed to a crucial ethics provision for the crypto market structure bill underpinned the gains."
+        },
+        {
+          "title": "Bitcoin price gains to $66.3K as range breakout attempt sparks one-month high",
+          "url": "https://cointelegraph.com/markets/bitcoin-price-hits-663k-as-range-breakout-attempt-sparks-one-month-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-21T10:26:35.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bitcoin beat out local resistance to pass $66,000 amid predictions of as much as 6% BTC price upside if momentum continued."
+        },
+        {
           "title": "CoinShares launches UCITS platform targeting Europe’s institutional investors",
           "url": "https://www.theblock.co/post/409029/coinshares-launches-europe-ucits-platform?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
@@ -302,7 +318,7 @@
           "summary": "London Stock Exchange plans an overnight venue as traditional exchanges extend trading hours amid competition from 24/7 crypto platforms."
         },
         {
-          "title": "Bitcoin ETFs post five-day inflow streak, longest since May",
+          "title": "Bitcoin ETFs post 5-day inflow streak, longest since May",
           "url": "https://cointelegraph.com/news/bitcoin-etfs-five-day-inflow-streak-btc-65k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
           "date": "2026-07-21T07:28:29.000Z",
@@ -340,22 +356,6 @@
           "date": "2026-07-21T06:42:52.000Z",
           "source": "CoinDesk",
           "summary": "The run has pulled in roughly $727 million, the most sustained stretch of buying since the record outflows of June."
-        },
-        {
-          "title": "UK Parliament begins inquiry into banking chokepoint for crypto businesses",
-          "url": "https://www.coindesk.com/policy/2026/07/21/uk-parliamentary-group-begins-inquiry-into-banking-chokepoint-for-crypto-businesses",
-          "domain": "coindesk.com",
-          "date": "2026-07-21T06:15:26.000Z",
-          "source": "CoinDesk",
-          "summary": "The U.K.’s Crypto and Digital Assets All-Party Parliamentary Group (APPG) is focused on banks that refused crypto firms accounts or introduced restrictions on crypto transactions."
-        },
-        {
-          "title": "Here’s what happened in crypto today",
-          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-21T05:50:34.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
         }
       ]
     }
