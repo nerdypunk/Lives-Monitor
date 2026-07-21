@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-21T19:52:32.701Z",
+  "updatedAt": "2026-07-21T21:14:37.018Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -188,6 +188,14 @@
       ],
       "articles": [
         {
+          "title": "Decades-old strains reveal Brakhagea, a budding bacterial genus with bioactive potential",
+          "url": "https://phys.org/news/2026-07-decades-strains-reveal-brakhagea-budding.html",
+          "domain": "phys.org",
+          "date": "2026-07-21T21:10:01.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Some microorganisms that hold great promise for research have long lain dormant in historical collections. But only through new methods are their diversity and potential becoming apparent. The team led by Professor Christian Jogler at Friedrich Schiller University in Jena examined one such collection: bacterial strains isolated between the 1980s and the early 2000s by Heinz Schlesner from various bodies of water in northern Germany, including the Schlei, a Baltic Sea fjord, as well as ponds and a wastewater lagoon."
+        },
+        {
           "title": "Google wants to release 16 million sterile mosquitoes: Australian tests offer a valuable lesson",
           "url": "https://phys.org/news/2026-07-google-million-sterile-mosquitoes-australian.html",
           "domain": "phys.org",
@@ -258,14 +266,6 @@
           "date": "2026-07-21T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2607.17096v1 Announce Type: new Abstract: Part of the excitation energy transfer (EET) characteristics of the photosystem II (PSII) comes from the interconnection between pigments. To understand the correlation between the EET and the pigments' interaction structure, we construct a network from the EET rates, which are related to both the distance between the pigments (chlorophylls and pheophytins) and their spatial orientations. Especially, we investigate how well the PS II core complex's EET functionality can be explained by using only the network topology in Thermosynechococcus vulcanus 1.9 \\AA. Starting from the F\\\"orster theory, we construct a network of EET pathways. For an analysis of the network structure, we calculate common network-structural measures like betweenness centrality, eigenvector centrality and weighted clustering. These measures can reflect the role of individual pigments in the EET network. In our work, we found that some well-known properties were reproduced by the network analysis of the simplified network, which means that the topology of the network encodes functionally relevant information. For example, from the network structural analysis, we can infer that most of the chlorophyll molecules (chlorophylls) in the pigment-protein complex CP47 have a heightened probability of transferring energy compared with other chlorophylls. We also see that the active branch chlorophylls in the reaction center are characterized by a high eigenvector centrality, a high betweenness centrality, and a low weighted clustering coefficient. This is indicative of functionally important vertices."
-        },
-        {
-          "title": "Harmonised benchmarking of foundation models for single-cell and spatial transcriptomics reveals context-dependent generalisation",
-          "url": "https://arxiv.org/abs/2607.17227",
-          "domain": "arxiv.org",
-          "date": "2026-07-21T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2607.17227v1 Announce Type: new Abstract: Single-cell and spatial foundation models promise transferable biological representations, yet their generality remains largely untested across modalities, biological domains and analytical tasks. We benchmarked six representative models, Nicheformer, CellPLM, scGPT-spatial, GenePT, scELMo and Novae, using a harmonised framework spanning scRNA-seq, spatial transcriptomics and Perturb-seq. We evaluated zero-shot and continually pretrained clustering, supervised annotation, marker-gene concordance and perturbation prediction. Model performance was strongly conditional: expression-trained cell-level transformers best resolved many cell-identity tasks, spatial and graph-aware models better preserved tissue architecture, and language-derived gene embeddings were competitive for selected perturbation-response metrics. No model dominated across tasks, and rankings shifted with modality, preprocessing, tokenisation, biological prior, domain shift and metric choice. This benchmark provides practical guidance for model selection and argues that future models should be judged by biological generalisation, interpretability and perturbation-grounded validity, not by scale or leaderboard performance alone."
         }
       ]
     },
@@ -278,84 +278,84 @@
       ],
       "articles": [
         {
+          "title": "Crypto Clarity Act still at mercy of ethics section as Democrats balk at Trump deal",
+          "url": "https://www.coindesk.com/policy/2026/07/21/crypto-clarity-act-still-at-mercy-of-ethics-section-as-democrats-balk-at-trump-deal",
+          "domain": "coindesk.com",
+          "date": "2026-07-21T21:14:03.000Z",
+          "source": "CoinDesk",
+          "summary": "The White House has circulated some details of the conflict-of-interest limits the president agreed to with Republican negotiators, but talks are still underway."
+        },
+        {
+          "title": "Trump-backed crypto ethics rule puts DOJ in charge of enforcement, prohibits federal officials from issuing cryptocurrencies",
+          "url": "https://www.theblock.co/post/409173/trump-backed-crypto-ethics-rule-doj-enforcement-prohibits-federal-officials-issuing-cryptocurrencies?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-21T21:11:05.000Z",
+          "source": "The Block",
+          "summary": "Newly approved ethics language signed by President Donald Trump would prohibit federal officials from issuing cryptocurrencies."
+        },
+        {
+          "title": "The Digital Chamber sues Illinois over incoming crypto transaction tax",
+          "url": "https://www.theblock.co/post/409160/the-digital-chamber-sues-illinois-over-incoming-crypto-transaction-tax?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-21T21:05:02.000Z",
+          "source": "The Block",
+          "summary": "The Digital Chamber is taking Illinois to court over its decision to pass a law imposing a 0.2% tax on digital asset transactions."
+        },
+        {
+          "title": "Movement Labs files for Chapter 11 bankruptcy after months of MOVE token turmoil",
+          "url": "https://cointelegraph.com/news/movement-labs-files-chapter-11-bankruptcy-move-token-turmoil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-21T20:59:32.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The blockchain developer will continue operating under court supervision as it restructures following a market-making scandal, a co-founder’s suspension, and exchange delistings that rocked the project."
+        },
+        {
+          "title": "Canton developer Digital Asset raises additional $10 million at same $2 billion equity valuation",
+          "url": "https://www.theblock.co/post/409168/canton-digital-asset-additional-10-million-funding-same-2-billion-equity-valuation-expanding-round-365-million?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-21T20:42:34.000Z",
+          "source": "The Block",
+          "summary": "Canton Network developer Digital Asset has raised an additional $10 million from Shinhan Financial Group and SC Ventures."
+        },
+        {
+          "title": "Ether breaks the $1.9K resistance; is $2.1K the next target for ETH bulls?",
+          "url": "https://cointelegraph.com/markets/ether-breaks-the-1900-resistance-is-2100-the-next-target-for-eth-bulls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-21T20:26:13.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Ether’s rally faces onchain headwinds, but rising staking demand and Google earnings could spark the push toward $2,100."
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-21T20:12:18.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
+        {
+          "title": "Bitcoin rally faces key test at $68,000 as 'summer slumber' grips crypto, analysts say",
+          "url": "https://www.coindesk.com/markets/2026/07/21/bitcoin-rally-faces-key-test-at-usd68-000-as-summer-slumber-grips-crypto-analysts-say",
+          "domain": "coindesk.com",
+          "date": "2026-07-21T20:05:33.000Z",
+          "source": "CoinDesk",
+          "summary": "BTC has rebounded 15% from the July lows, but some analysts cautioned that the next move hinges on clearing a level where many recent buyers may look to sell."
+        },
+        {
+          "title": "Satsuma shareholders approve bitcoin treasury liquidation and London delisting",
+          "url": "https://www.theblock.co/post/409155/satsuma-shareholders-approve-bitcoin-treasury-liquidation-london-delisting?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-21T20:04:51.000Z",
+          "source": "The Block",
+          "summary": "The vote comes less than a year after UK-based Satsuma Technology raised $218 million to pursue its bitcoin strategy."
+        },
+        {
           "title": "Congress weighs its role as fight over sports betting prediction market oversight forges on",
           "url": "https://www.theblock.co/post/409152/congress-weighs-its-role-as-fight-over-sports-betting-prediction-market-oversight-forges-on?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
           "date": "2026-07-21T19:28:39.000Z",
           "source": "The Block",
           "summary": "As state and federal regulators continue to clash over who should oversee sports-related prediction markets, lawmakers consider stepping in."
-        },
-        {
-          "title": "Pakistan steps up crypto enforcement with dedicated federal unit",
-          "url": "https://cointelegraph.com/news/pakistan-crypto-enforcement-dedicated-unit-crimes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-21T19:19:22.000Z",
-          "source": "CoinTelegraph",
-          "summary": "A senior official with Pakistan’s Federal Investigation Agency reportedly recommended other agencies establish similar units to address crypto-related crime."
-        },
-        {
-          "title": "Ousted founder’s $1.6 million claim tops Movement Labs’ bankruptcy filing",
-          "url": "https://www.theblock.co/post/409151/ousted-founders-1-6-million-claim-tops-movement-labs-bankruptcy-filing?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-21T19:11:02.000Z",
-          "source": "The Block",
-          "summary": "MVMT filed for bankruptcy earlier this month, reporting assets between $100,001 and $500,000 and liabilities of up to $10 million."
-        },
-        {
-          "title": "RippleX sees XRP Ledger agentic transactions hitting 10-million mark soon",
-          "url": "https://www.theblock.co/post/408987/ripplex-sees-xrp-ledger-agentic-transactions-hitting-10-million-mark-soon?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-21T18:47:21.000Z",
-          "source": "The Block",
-          "summary": "Ripple recently joined x402 Foundation, serving as a premier member alongside Coinbase, Circle, and Visa."
-        },
-        {
-          "title": "Galaxy launches Bitcoin quantum computing initiative, commits up to $5 million in developer grants",
-          "url": "https://www.theblock.co/post/409129/galaxy-bitcoin-quantum-computing-threat-initiative?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-21T18:21:12.000Z",
-          "source": "The Block",
-          "summary": "Galaxy has launched the Bitcoin Quantum Readiness Initiative, including committing up to $5 million in developer grants."
-        },
-        {
-          "title": "Pavel Durov says Telegram to roll out native Gram crypto wallet",
-          "url": "https://cointelegraph.com/news/telegram-launch-native-self-custody-gram-wallet-for-over-1-billion-users-durov?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-21T18:20:58.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Telegram founder Pavel Durov said the messaging platform will roll out a native non-custodial Gram wallet this summer, bringing self-custody crypto transactions to its more than 1 billion users."
-        },
-        {
-          "title": "White House pushes Senate Democrats to take 'historic' crypto Clarity Act ethics deal",
-          "url": "https://www.coindesk.com/policy/2026/07/21/white-house-pushes-senate-democrats-to-take-historic-crypto-clarity-act-ethics-deal",
-          "domain": "coindesk.com",
-          "date": "2026-07-21T18:14:39.000Z",
-          "source": "CoinDesk",
-          "summary": "Without revealing any details about the actual agreement from President Trump on potential presidential restrictions, his White House is urging its acceptance."
-        },
-        {
-          "title": "Solana, Hyperliquid ETFs dominate altcoin fund flows despite flying under the radar",
-          "url": "https://www.theblock.co/post/408963/solana-hyperliquid-etfs-dominate-altcoin-fund-flows-despite-flying-under-the-radar?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-21T18:06:01.000Z",
-          "source": "The Block",
-          "summary": "Solana ETFs boast an impressive $904 million AUM, while the Hyperliquid funds have $350 million in net inflows."
-        },
-        {
-          "title": "Movement Labs files for Chapter 11 bankruptcy months after token scandal",
-          "url": "https://www.coindesk.com/policy/2026/07/21/movement-labs-files-for-chapter-11-months-after-token-scandal-and-strategic-overhaul",
-          "domain": "coindesk.com",
-          "date": "2026-07-21T17:54:40.000Z",
-          "source": "CoinDesk",
-          "summary": "The filing comes after months of upheaval that included a controversial market-making agreement, an internal investigation into its MOVE token launch and a Binance ban tied to its market maker."
-        },
-        {
-          "title": "Russia passes landmark crypto bill allowing regulated retail trading",
-          "url": "https://www.theblock.co/post/409121/russia-passes-landmark-crypto-bill-allowing-regulated-retail-trading?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-21T17:48:29.000Z",
-          "source": "The Block",
-          "summary": "Non-qualified Russian crypto investors face a 300,000-ruble annual purchase limit after Russia's State Duma passed a landmark crypto bill."
         }
       ]
     }
