@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-21T03:47:21.688Z",
+  "updatedAt": "2026-07-21T06:32:06.211Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -8,6 +8,14 @@
         "https://news.google.com/rss/search?q=DeSci%20OR%20%22decentralized%20science%22%20OR%20%22BIO%20Protocol%22&hl=en-US&gl=US&ceid=US:en"
       ],
       "articles": [
+        {
+          "title": "️DeSci Atoms Market Update 20 July 2026 MarketCap 24hrs Top - KuCoin",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE90VzZpc3NCb0ZNWkZwakpWNWMzUFhRRmtDemR4OGw2R0lXTVIxM2pwbl9EajFoSTlLVjMzemNNYVhkckhnRGxTSzBldHJRb3NYR2h1QUlPdm1yUWFuREFWbjE5eHhFdG1aelp5LUdCNV9kQQ?oc=5",
+          "domain": "kucoin.com",
+          "date": "2026-07-20T10:44:16.000Z",
+          "source": "KuCoin",
+          "summary": "️DeSci Atoms Market Update 20 July 2026 MarketCap 24hrs Top &nbsp;&nbsp; KuCoin"
+        },
         {
           "title": "Google DeepMind and Isomorphic Labs team up on bioresilience, and crypto's DeSci sector should be paying attention - Crypto Briefing",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9fOV9xNmNZbFp3S1ZCM3VYTzZZSnBsal9XODNsSDdYNXl1bmFteTFCNHhlZGJaSEFtTTAyMXdmM1htMmpuQkIwUGRGR0NQX0VQVVdwQ1BKWUljRk40SVUzMHFtZGVPdGp1alBORzUtclZnM1N3Z1RjRzc4bzM?oc=5",
@@ -79,14 +87,6 @@
           "date": "2026-05-29T07:00:00.000Z",
           "source": "Binance",
           "summary": "What Is Bio Protocol (BIO)? &nbsp;&nbsp; Binance"
-        },
-        {
-          "title": "What Is Decentralized Science (DeSci)? - Binance",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRjZMYmttUnVFeEl1WFJjNXFZdmdudXZkelA1bUNlbTU1OERDVlVZTWxHMWZvdlhGaEZ4ZVRBVGkweVktRUdCOVZfc0tLbHJIQ2hGSUQyM29iX1lZMmd0T3NsamRPMWtGRi04bzRLdWlqbmRUakRzdDBYdHZoQ3oxWDBDLTN0QQ?oc=5",
-          "domain": "binance.com",
-          "date": "2026-05-28T07:00:00.000Z",
-          "source": "Binance",
-          "summary": "What Is Decentralized Science (DeSci)? &nbsp;&nbsp; Binance"
         }
       ]
     },
@@ -106,60 +106,12 @@
           "summary": "Researchers have described a method of using exosomes derived from mesenchymal stem cells (MSCs) to fight harmful metabolic changes in the liver. Another look […]"
         },
         {
-          "title": "Forged in adversity: how cellular resilience drives repair",
-          "url": "https://longevity.technology/news/forged-in-adversity-how-cellular-resilience-drives-repair/",
-          "domain": "longevity.technology",
-          "date": "2026-07-20T15:58:54.000Z",
-          "source": "Longevity.Technology",
-          "summary": "True cellular therapeutics require stem cells built to survive hostile tissue microenvironments and reconstruct them from within. When an organ suffers an ischemic event or begins the slower deterioration of age-related decay, the local microenvironment does not wait patiently for help to arrive. It becomes, almost immediately, a hostile place – saturated with inflammatory cytokines, […] The post Forged in adversity: how cellular resilience drives repair appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Eternal calls time on its longevity clinics",
-          "url": "https://longevity.technology/news/eternal-calls-time-on-its-longevity-clinics/",
-          "domain": "longevity.technology",
-          "date": "2026-07-20T15:42:40.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Report says performance health startup winding down despite calls for preventive care, raising questions about how longevity medicine scales. Fitt Insider reports that Eternal, the venture-backed health platform founded in 2025, is closing its San Francisco and New York clinics and ceasing operations after informing members by email that services will end later this month. […] The post Eternal calls time on its longevity clinics appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Haut.AI expands AI skin analysis to the whole body",
-          "url": "https://longevity.technology/news/haut-ai-expands-ai-skin-analysis-to-the-whole-body/",
-          "domain": "longevity.technology",
-          "date": "2026-07-20T15:38:58.000Z",
-          "source": "Longevity.Technology",
-          "summary": "New platform reflects growing demand for personalized bodycare as consumers increasingly turn to AI for tailored skincare guidance. Walk into any beauty retailer today and you’ll find shelves lined with exfoliators, serums, creams, oils and treatments promising smoother, brighter or firmer skin. The irony is that the more choices consumers have, the harder it has […] The post Haut.AI expands AI skin analysis to the whole body appeared first on Longevity.Technology ."
-        },
-        {
           "title": "Engineered Enzyme Reverses Age-Related Protein Damage",
           "url": "https://lifespan.io/engineered-enzyme-reverses-age-related-protein-damage/",
           "domain": "lifespan.io",
           "date": "2026-07-17T16:52:17.000Z",
           "source": "Lifespan.io",
           "summary": "Scientists have engineered an enzyme that removes an advanced glycation end product (AGE) from proteins. This type of age-related modification, […]"
-        },
-        {
-          "title": "Elysium Health links NAD+ to menopause in new study",
-          "url": "https://longevity.technology/news/elysium-health-links-nad-to-menopause-in-new-study/",
-          "domain": "longevity.technology",
-          "date": "2026-07-17T14:47:55.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Pilot research suggests Basis may ease menopausal symptoms while offering fresh clues about how NAD+ influences reproductive aging. The ultimate crossover event? NAD+ has been one of longevity’s favorite molecules. It has become almost synonymous with healthy aging, with companies positioning NAD+-boosting products around energy, cellular repair and age-related decline. Menopause, meanwhile, has largely lived […] The post Elysium Health links NAD+ to menopause in new study appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "SkinStylus secures new FDA win for healthier skin aging",
-          "url": "https://longevity.technology/news/skinstylus-secures-new-fda-win-for-healthier-skin-aging/",
-          "domain": "longevity.technology",
-          "date": "2026-07-17T13:57:09.000Z",
-          "source": "Longevity.Technology",
-          "summary": "FDA clearance for all skin types is making regenerative skin health more inclusive, evidence-based and focused on aging well. The first place many of us notice aging isn’t in the mirror as a whole – it’s around the eyes. Crow’s feet, fine lines and creases around the periorbital area often appear long before deeper wrinkles […] The post SkinStylus secures new FDA win for healthier skin aging appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Alamar’s blood test breakthrough targets key Alzheimer’s marker",
-          "url": "https://longevity.technology/news/alamars-blood-test-breakthrough-targets-key-alzheimers-marker/",
-          "domain": "longevity.technology",
-          "date": "2026-07-17T13:35:33.000Z",
-          "source": "Longevity.Technology",
-          "summary": "New assay could make tracking Alzheimer’s progression easier, bringing precision diagnostics a step closer to everyday research. Blood tests have been hailed as the future of Alzheimer’s diagnosis. They are cheaper than brain scans, far less invasive than spinal taps and could eventually make early detection available to many more people. However, there has always […] The post Alamar’s blood test breakthrough targets key Alzheimer’s marker appeared first on Longevity.Technology ."
         },
         {
           "title": "Activating a Key Receptor Fights Thymic Involution in Mice",
@@ -170,12 +122,60 @@
           "summary": "Publishing in Aging Cell, researchers have devised a way to delay the aging of the thymus by targeting GPR40, a key receptor in its epithelial cells. The organ that involutes The thymus trains a certain subset […]"
         },
         {
-          "title": "Neko Health secures $700m to fuel expansion",
-          "url": "https://longevity.technology/news/neko-health-secures-700m-to-fuel-expansion/",
-          "domain": "longevity.technology",
-          "date": "2026-07-16T14:12:36.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Preventive health platform will use new funding to expand into US while growing longitudinal health dataset and proprietary diagnostic tech. Neko Health has raised $700 million in a Series C financing round led by Lightspeed Venture Partners and co-led by OG Venture Partners, valuing the Swedish preventive health company at approximately $1.8 billion – a […] The post Neko Health secures $700m to fuel expansion appeared first on Longevity.Technology ."
+          "title": "Forever Healthy Launches Evipedia AI Integration",
+          "url": "https://lifespan.io/forever-healthy-launches-evipedia-ai-integration/",
+          "domain": "lifespan.io",
+          "date": "2026-07-15T17:08:51.000Z",
+          "source": "Lifespan.io",
+          "summary": "Today, Forever Healthy announces the launch of a set of new tools to make it easier than ever for AI agents, research pipelines, and AI environments to integrate Evipedia. Evipedia is Forever Healthy’s comprehensive, continuously updated […]"
+        },
+        {
+          "title": "Peripheral Inflammation May Drive Parkinson’s",
+          "url": "https://lifespan.io/peripheral-inflammation-may-drive-parkinsons/",
+          "domain": "lifespan.io",
+          "date": "2026-07-14T13:50:42.000Z",
+          "source": "Lifespan.io",
+          "summary": "A new study suggests that aging or Parkinson’s-triggering mutations create inflammation in peripheral tissues, and then circulating extracellular vesicles spread it to the brain, which might […]"
+        },
+        {
+          "title": "Gabriel Cian on Building the 2060 Longevity Ecosystem",
+          "url": "https://lifespan.io/gabriel-cian-on-building-the-2060-longevity-ecosystem/",
+          "domain": "lifespan.io",
+          "date": "2026-07-13T15:50:44.000Z",
+          "source": "Lifespan.io",
+          "summary": "In this follow-up interview, we speak with Gabriel Cian about how the 2060 ecosystem has evolved since last year’s Forum, what he learned from the first edition, and […]"
+        },
+        {
+          "title": "Combining Senolytics and Stem Cells Shows Promise in Mice",
+          "url": "https://lifespan.io/combining-senolytics-and-stem-cells-shows-promise-in-mice/",
+          "domain": "lifespan.io",
+          "date": "2026-07-10T16:34:16.000Z",
+          "source": "Lifespan.io",
+          "summary": "A new study associated with Immorta Bio suggests that combining a senolytic vaccine with mesenchymal stem cells might create a synergistic impact. However, the findings rest on acute, artificially induced injury models […]"
+        },
+        {
+          "title": "An Experimental Proposal for Blocking Ambient Radiation",
+          "url": "https://lifespan.io/an-experimental-proposal-for-blocking-ambient-radiation/",
+          "domain": "lifespan.io",
+          "date": "2026-07-09T20:10:54.000Z",
+          "source": "Lifespan.io",
+          "summary": "A perspective published in Aging and Disease has recommended the use of underground laboratory space in order to remove the effects of surface radiation on biological clocks. A question of entropy The cascading failure of bodily systems, […]"
+        },
+        {
+          "title": "Optimizing Guidelines Toward Optimal Health Outcomes",
+          "url": "https://lifespan.io/optimizing-guidelines-toward-optimal-health-outcomes/",
+          "domain": "lifespan.io",
+          "date": "2026-07-08T16:36:59.000Z",
+          "source": "Lifespan.io",
+          "summary": "In a recently published perspective paper, the author argues that the UK’s official health guidelines on physical activity and protein intake should be revised to recommend levels necessary to achieve optimal health, rather than the […]"
+        },
+        {
+          "title": "Rescuing Calcium Ion Homeostasis Extends Mouse Lifespan",
+          "url": "https://lifespan.io/rescuing-calcium-ion-homeostasis-extends-mouse-lifespan/",
+          "domain": "lifespan.io",
+          "date": "2026-07-07T16:33:47.000Z",
+          "source": "Lifespan.io",
+          "summary": "Scientists have linked disrupted Ca²⁺ homeostasis to aging in both progeroid and naturally aging mice. Rescuing it with a well-known antidepressant significantly increased the animals’ median and maximum lifespan [1]. Calcium ions in progeria and natural aging Cells use calcium […]"
         }
       ]
     },
@@ -188,84 +188,84 @@
       ],
       "articles": [
         {
-          "title": "Q&A: How anaerobic digestion can help reduce emissions and increase income streams",
-          "url": "https://phys.org/news/2026-07-qa-anaerobic-digestion-emissions-income.html",
-          "domain": "phys.org",
-          "date": "2026-07-21T02:00:04.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "An advanced technology that could benefit farmers' bottom line and help meet the rising demand for domestic energy production borrows a key ingredient from a centuries-old practice of burning dried manure to warm homes where trees were sparse or expensive: animal waste."
-        },
-        {
-          "title": "World's first gene edited Culicoides biting midges open door for livestock disease research",
-          "url": "https://phys.org/news/2026-07-world-gene-culicoides-midges-door.html",
-          "domain": "phys.org",
-          "date": "2026-07-20T17:40:12.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Scientists have successfully edited the genome of biting midges, opening the door to new research on how these insects transmit disease. Culicoides biting midges are small blood-feeding insects responsible for spreading important vector-borne viruses such as bluetongue virus (BTV), Schmallenberg virus (SBV) and epizootic hemorrhagic disease virus (EHDV), which cause major losses to livestock production worldwide. Despite their importance as disease vectors, Culicoides are among the smallest blood-feeding insects, just 1–4 mm (0.04–0.16 inches) long, making them difficult to study in the laboratory."
-        },
-        {
-          "title": "New machine-learning tool improves accuracy of genomics research",
-          "url": "https://phys.org/news/2026-07-machine-tool-accuracy-genomics.html",
-          "domain": "phys.org",
-          "date": "2026-07-20T14:40:02.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "University of Virginia School of Medicine scientists have identified a widespread source of error in a popular method for studying the genome and created a machine-learning tool to correct it. The free tool could improve the reliability of both conventional and single-cell data generated using this method, giving researchers a clearer view of how gene activity is controlled in health and disease and providing stronger foundations for future diagnostic and drug-development efforts."
-        },
-        {
-          "title": "Fourth-year vet students reveal clues to horse MEED and dog bone cancer",
-          "url": "https://phys.org/news/2026-07-fourth-year-vet-students-reveal.html",
-          "domain": "phys.org",
-          "date": "2026-07-20T12:00:04.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Texas Tech University's School of Veterinary Medicine fourth-year students Kayden Tanner and Marshall Mays have both been published in international journals after putting hundreds of hours into their research papers."
-        },
-        {
-          "title": "Estimating Time-Dependent COVID-19 Parameters Using Kolmogorov-Arnold Network and Fourier Series",
-          "url": "https://arxiv.org/abs/2607.15302",
+          "title": "Emergent topological structure in spontaneous brain-organoid activity",
+          "url": "https://arxiv.org/abs/2607.16517",
           "domain": "arxiv.org",
-          "date": "2026-07-20T04:00:00.000Z",
+          "date": "2026-07-21T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2607.15302v1 Announce Type: new Abstract: We introduce a novel method for estimating COVID-19 time-varying parameters. These parameters are in the context of an SIRD compartmental differential equations. The time-dependent parameters are the transmission rate $\\beta(t)$, recovery rate $\\gamma(t)$, and mortality rate $\\mu(t)$. The method harnesses the novel Kolmogorov-Arnold Network (KAN), which is a type of artificial neural network. In KAN, we learn activation functions that are represented using Fourier series, hence the abbreviation KAN-F. We define three KAN-F functions $\\widehat{\\beta}$, $\\widehat{\\gamma}$, $\\widehat{\\mu}$ that model the true parameters $\\beta(t)$, $\\gamma(t)$, $\\mu(t)$, respectively. The objective loss function that has to be minimized is subject to Physics-Informed Neural Network (PINN) or Epi-DNN. We estimate the COVID-19 time-dependent parameters using COVID-19 data of three South-East Asian countries: Indonesia, Singapore, Malaysia. The time period of choice for the data coincides with the period where SARS-CoV-2 Delta variant (B.1.617.2) was dominant. Using Epi-DNN and KAN-F, we are able to estimate $\\beta(t)$, $\\gamma(t)$, and $\\mu(t)$, with decent accuracy and comparative efficiency. The total number of training epochs for Indonesia is 4316 steps, for Singapore is 8408 steps, and for Malaysia is 8000 steps. For all countries, each of the three functions $\\widehat{\\beta}$, $\\widehat{\\gamma}$, and $\\widehat{\\mu}$ has the same KAN-F architecture of 2 hidden layers. Specifically, we implement 8 input neurons, 17 neurons for the first hidden layer, 35 neurons for the second hidden layer, and 1 output neuron. The number of Fourier terms for each activation function is $30$."
+          "summary": "arXiv:2607.16517v1 Announce Type: new Abstract: Neural activity is widely held to organize on low-dimensional structure embedded in a high-dimensional state space. Persistent homology reads such structure directly from the pattern of pairwise correlations, without assuming in advance which variables are relevant. We apply persistent homology to microelectrode-array (MEA) recordings of spontaneous activity from human (Lancaster) and mouse (Pa\\c{s}ca) cortical organoids, spanning $26$--$234$ simultaneously sorted units, and ask whether topological data analysis resolves structure at the node counts that neural recordings actually deliver. Building weighted networks in correlation space and characterizing them by Vietoris--Rips filtration, we find that the first homology ($H_1$, loops) rises significantly above a rate- and population-preserving null in $14$ of $18$ datasets. This loop structure occupies a non-redundant core: it is robust to random removal of units yet disrupted by targeted removal of the units that carry it. Topological richness grows with network size, and second homology ($H_2$) emerges significantly above the null only in the larger networks. These results show that persistent homology resolves structured topology in neural recordings at the scale experiments actually deliver."
         },
         {
-          "title": "Structural Compression for Phylogenetic Inference under Alignment Instability and Indel-Rich Evolution",
-          "url": "https://arxiv.org/abs/2607.15308",
+          "title": "The Origins of Transient Bimodality",
+          "url": "https://arxiv.org/abs/2607.16531",
           "domain": "arxiv.org",
-          "date": "2026-07-20T04:00:00.000Z",
+          "date": "2026-07-21T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2607.15308v1 Announce Type: new Abstract: Phylogenetic inference traditionally relies on aligned characters under substitution models, but this framework becomes less reliable when alignments are unstable or when evolution is dominated by insertions, deletions, repeats, and other structural changes. We adapt Ladderpath as an alignment-free distance approach for phylogenetic inference. Motivated by algorithmic information theory, Ladderpath decomposes sequences into derived, reusable units (``ladderons'', rather than fixed-length $k$-mers) organized hierarchically, from which pairwise distances are computed. The premise is that shared derived sequence structure, including repeated or reused segments that are poorly represented by column-wise substitutions, can retain phylogenetic information. The bacteriophage T7 known lineage, the cpSSR repeat-rich marker, and a cytochrome~$c$ protein dataset confirm that Ladderpath recovers topologies consistent with the known experimental history or with established alignment-based methods. Its advantage emerges under stress: in block-translocation and indel-dominated simulations Ladderpath remains stable while alignment-dependent pipelines deteriorate; on banana mitochondrial and plastome genomes it scales to genome length and captures the expected contrast between organellar histories, all from unaligned input. These results support Ladderpath as an alignment-free, structurally informed method that could complement standard pipelines in cases where higher-order sequence structure carries phylogenetic signal."
+          "summary": "arXiv:2607.16531v1 Announce Type: new Abstract: Many dynamical systems exhibit diverse modes of behavior. In biology, such modes can represent individual or cell fates. While the emergence of multimodality is commonly studied, transient bimodality is much less well understood. Under transient bimodality, a system moving from a well-defined initial to a final state transiently undergoes a bifurcation into multiple probability modes. This noise-driven phenomenon can significantly impact processes such as cell differentiation and speciation in the presence of changing environmental conditions. We detail a theoretical approach for understanding transient bimodality connecting results from ecology, optics, chemical reaction networks and cell biology, propose a ``minimal model'' of transient bimodality and derive a general criterion for its presence. We show that fast-to-slow dynamics can lead to transient bimodality in addition to the well-known case of slow-to-fast dynamics. Finally, we discuss the role of transient bimodality across the scientific literature, with emphasis on biochemical kinetics and gene regulation."
         },
         {
-          "title": "DyneTrion: A Spatio-temporally Coherent Generative Emulator for Protein Dynamics Across Timescales",
-          "url": "https://arxiv.org/abs/2607.15309",
+          "title": "Orientation Reading by Production Vision-Language Models on Optotype Charts: A Controlled Multi-Model Evaluation Across Reasoning Modes, Prompts, and Access Modalities",
+          "url": "https://arxiv.org/abs/2607.16595",
           "domain": "arxiv.org",
-          "date": "2026-07-20T04:00:00.000Z",
+          "date": "2026-07-21T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2607.15309v1 Announce Type: new Abstract: Proteins function through coordinated motion across multiple spatial and temporal scales, underpinning processes such as ligand binding, allostery, and catalysis. However, accessing long-timescale conformational change through molecular dynamics (MD) simulations remains prohibitively expensive for systematic exploration across diverse systems. Here, we present DyneTrion, a generative protein dynamics emulator that jointly enforces geometric symmetry, structural consistency and temporal coherence within a single framework. DyneTrion uses a tri-attention architecture that integrates invariant point attention (IPA) for SE(3)-robust geometric updates, spatial attention anchored to a reference conformation to preserve structural integrity, and temporal attention to model correlated evolution across time frames. Across 100-ns MD trajectory simulation benchmarks, DyneTrion reproduces MD-derived flexibility, ensemble distributions and interaction observables while maintaining stereochemical validity during extrapolation. To evaluate long time-scale generalization, we introduce dynamicPDB, a dataset of over 10,000 proteins with up to 1-$\\mu$s all-atom trajectories at 10-ps resolution and accompanying physical annotations. On microsecond trajectories, DyneTrion preserves free-energy landscapes and metastable-state populations, and it supports large conformational propagation in apo-to-holo transitions and fast folders. Together, DyneTrion provides a scalable path from static structure prediction toward time-resolved, ensemble-faithful protein modeling. The code is publicly available at https://github.com/fudan-generative-vision/DyneTrion"
+          "summary": "arXiv:2607.16595v1 Announce Type: new Abstract: OBJECTIVES: Vision-language models are increasingly used to interpret medical and everyday images through consumer chat interfaces, yet their ability to read orientation - the single perceptual operation tested by the tumbling-E acuity optotype - is poorly characterized on the surfaces through which they are actually used. METHODS: We evaluated four production vision-language models (referred to as Claude, GPT, GROK, and Gemini) through their consumer chat interfaces on a locked set of seven optotype charts: four uniform tumbling-E charts (one per cardinal orientation), two mixed-orientation tumbling-E charts, and one Snellen letter chart as a specificity control. Each model was run in two reasoning modes (Fast and Thinking) under two prompt variants (with and without an explicit orientation-decoding rule) by up to three operators. The corpus comprised 920 scoreable trials and 50,420 glyph judgements. The primary outcome was glyph-level accuracy against the chart's designed orientation, summarized with Wilson 95% confidence intervals. RESULTS: Accuracy ranged from 43.0% to 97.0% across models on identical charts, and the strongest model depended on reasoning mode (GPT 97.0% in Fast mode; GROK 96.6% in Thinking mode). Errors were not random but collapsed onto a model-specific attractor direction. Models were 96-100% internally self-consistent yet ranged widely in accuracy, dissociating reliability from validity. An answer-key-free ensemble-consensus estimate tracked accuracy closely (r = 0.998). For one model, consumer-interface accuracy fell 25-27 points below programmatic access, almost entirely on a single orientation. CONCLUSIONS: A single accuracy figure conceals clinically relevant, orientation-specific failure modes; vision-language models should be evaluated along multiple axes and on the deployment surface before image-interpretation outputs are trusted."
         },
         {
-          "title": "A New Method to Predict the Effect of an Intervention in the Host Population to Reduce the Magnitude of an Outbreak of a Vector-Borne Infection",
-          "url": "https://arxiv.org/abs/2607.15445",
+          "title": "The Positive Experience Principle: Forecasting Conscious Choices with AI Embeddings",
+          "url": "https://arxiv.org/abs/2607.16659",
           "domain": "arxiv.org",
-          "date": "2026-07-20T04:00:00.000Z",
+          "date": "2026-07-21T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2607.15445v1 Announce Type: new Abstract: In this paper, we propose a new model to estimate the impact of an intervention on human hosts of a vector-borne infection, such as dengue, which occurs in yearly outbreaks of different magnitudes. The model applies to these outbreaks and, in fact, is independent of their intensity, that is, it does not require the steady-state assumption. The model takes as input the officially reported age-dependent number of cases of a vector-borne infection. It is deterministic and does not account for stochasticity. Our objective is to estimate the impact of the intervention (the efficacy), and we rely on the observed fact that the age distribution of the proportion of cases of the infections transmitted by the same vector is independent of both the intensity of transmission and the geographic area studied, at least for Brazilian regions. This finding is highlighted in the main text and forms the basis of our calculations. A hypothetical intervention is simulated using a dengue vaccine, which allows the determination of the optimal strategy for a vaccination campaign."
+          "summary": "arXiv:2607.16659v1 Announce Type: new Abstract: A fundamental challenge in the science of consciousness is the lack of a universal, predictive framework for motivated behavior. While existing theories excel at describing specific mechanisms, from neural pathways to computational models, they do not provide a foundational principle that explains the consistent direction of conscious systems toward certain states and away from others. To address this gap, we propose the Positive Experience Principle (PEP), a unifying principle stating that conscious systems have an inherent tendency to move toward states of higher positive subjective experience. This tendency is quantified by a Positive Experience Value (PEV), a scalar metric derived from the physical configurations defined by our earlier Universal Consciousness Code (UCC) theory. The PEP bridges physics, neuroscience, and psychology by positing that diverse behaviors are manifestations of a single, fundamental drive to optimize PEV. The PEP generates testable predictions for the dynamics of conscious systems, offering a path toward a unified science of behavior."
         },
         {
-          "title": "BODIESReg: An Open-Source Pipeline for Registering 3D Body Scans Using Pose-Aligned Initialization",
-          "url": "https://arxiv.org/abs/2607.15463",
+          "title": "Evolutionary dynamics in public goods games with general frequency-dependent returns",
+          "url": "https://arxiv.org/abs/2607.16809",
           "domain": "arxiv.org",
-          "date": "2026-07-20T04:00:00.000Z",
+          "date": "2026-07-21T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2607.15463v1 Announce Type: new Abstract: Biomechanical models are used to quantify and optimize human movement in clinical rehabilitation, sports science, and occupational health. Personalizing these models requires accurate identification of anatomical landmarks and body segment parameters, which can be derived from 3D body surface scans. Registering these surfaces to a canonical template is essential for automated landmark detection and model scaling. However, fitting parametric body models to real-world 3D point clouds remains challenging: non-linear optimization can converge to suboptimal solutions when target poses deviate substantially from the default pose of a template. We present BODIESReg, an open-source registration pipeline that addresses this initialization problem by constructing a pose-aligned mesh before distance minimization begins. In automatic mode, BODIESReg can be used for end-to-end registration without user intervention and processes multiple scans in batch. We evaluated BODIESReg on two complementary datasets: CHI3D, a synthetic dataset containing complex human poses, and MorphoMotion, a set of real-world 3D optical scans. Automatic registration succeeded for 82.9% of CHI3D scans and for all MorphoMotion scans. Among successful registrations, mean surface-fit error were below 10 mm across both datasets. For cases where automatic initialization fails, we provide interactive tools for manual pose correction and correspondence selection. BODIESReg supports large-scale registration of 3D body scans for biomechanical research."
+          "summary": "arXiv:2607.16809v1 Announce Type: new Abstract: The public goods game serves as a significant paradigm for investigating the emergence and maintenance of cooperation in conflicting situations. In the traditional public goods game, the multiplication factor characterizing the synergy effect of common efforts is typically assumed to be constant. In real-world scenarios, however, investment returns are often dynamic and vary with the strategic composition of the interaction group. To date, the evolutionary dynamics of the public goods game with such frequency-dependent returns have remained not fully understood. In this work, we introduce a general frequency-dependent multiplication factor that depends on the strategy composition within the game group. Through theoretical analysis, we derive the mathematical conditions under which cooperation is favored. Our results show that whether cooperation has an evolutionary advantage over defection depends on the investment return rate in the full-contribution state of the game group, irrespective of the return rates in other states. An increase in this rate leads to a higher abundance of cooperators. Furthermore, we introduce a general frequency-dependent multiplication factor into the public goods game with peer punishment, and systematically explore its effects on the cooperation dilemma and the second-order free-rider problem. Our results highlight that the abundance of cooperators or punishers is governed solely by the investment return values in the full-cooperation and full-punishment compositions of the group. A higher return rate in the full-cooperation state facilitates the promotion of cooperation, whereas a higher return rate in the full-punishment state favors the emergence of punishment. Our theoretical findings are verified by individual-based simulations."
         },
         {
-          "title": "Classes of phylogenetic networks that are robust to root placement",
-          "url": "https://arxiv.org/abs/2607.15625",
+          "title": "Laboratory Trajectories Improve Kidney Failure Risk Estimation",
+          "url": "https://arxiv.org/abs/2607.17000",
           "domain": "arxiv.org",
-          "date": "2026-07-20T04:00:00.000Z",
+          "date": "2026-07-21T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2607.15625v1 Announce Type: new Abstract: Standard phylogenetic reconstruction techniques often yield unrooted phylogenetic networks; these are subsequently rooted to infer evolutionary history. A common problem in this process is to determine the structural classes to which the resulting network will belong. In this paper, we investigate unrooted networks in which the choice of any root results in a valid rooted phylogenetic network, a property we define as {\\em robustly orientable}. We then establish a strict structural condition for this class, specifically, that an unrooted network is robustly orientable if and only if it contains no sink components. We also show that if an unrooted network is level-$2$ or less, or if it is tree-based, then it is robustly orientable. Furthermore, we define an unrooted network to be {\\em robustly class $\\mathcal C$} if the choice of any root results in a network belonging to class $\\mathcal C$. We demonstrate that an unrooted network is robustly tree-child or robustly stack-free if and only if it is level-$1$ or less. Finally, we show that a phylogenetic network is robustly normal if and only if it is a phylogenetic tree."
+          "summary": "arXiv:2607.17000v1 Announce Type: new Abstract: Accurate kidney failure risk assessment is critical to timely intervention in chronic kidney disease (CKD). Existing equations (e.g. Kidney Failure Risk Equation; KFRE) rely on single laboratory measurements to estimate short- and long-term kidney failure risk, leaving longitudinal laboratory patterns unused. Here we introduce Clalit Longitudinal Assessment of Risk of Kidney Failure (CLARK), an interpretable longitudinal extension of latest-value methods which incorporates routinely collected repeat laboratory measures. We develop CLARK using data from 5.4 million individuals, identifying 270,009 patients with CKD to create one of the largest longitudinal CKD cohorts to date, with 12,087 kidney replacement therapy initiation events and a median follow-up of 10.4 years. Across laboratory configurations and prediction horizons, CLARK demonstrated improved discrimination over static models (e.g., 2-year average precision 0.541 vs 0.516 in the eGFR-only setting). At intervention thresholds, trajectory-based models improved identification of high-risk patients, especially for longer-term prediction, suggesting that interpretable longitudinal laboratory features may enhance kidney failure risk assessment through improved identification of patients most likely to benefit from timely intervention."
+        },
+        {
+          "title": "Post-transcriptional Regulation of Stochastic Gene Expression Conditioned on Large Deviations",
+          "url": "https://arxiv.org/abs/2607.17004",
+          "domain": "arxiv.org",
+          "date": "2026-07-21T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2607.17004v1 Announce Type: new Abstract: Gene expression is a stochastic process that gives rise to large fluctuations in protein levels leading to phenotypic heterogeneity in clonal cell populations; post-transcriptional regulation plays a crucial role in controlling the level of phenotypic variability within a population, which is directly tied to cell-fate decisions. As such, substantial efforts have been directed towards quantitatively modeling the effects of various post-transcriptional mechanisms on the strength of fluctuations in protein levels (noise). However, the corresponding effects of post-transcriptional regulation on the occurrence of rare events corresponding to large deviations are far less explored and have only been considered for a special model. Here, we take a general model of post-transcriptional regulation and apply the partitioning of Poisson arrivals (PPA) framework to map it onto a model that resembles promoter-based regulation of transcription, leading to a general framework to obtain objects of interest in large deviations (i.e. large deviation rate function for quantifying the likelihood of observing rare protein production rates and the corresponding driven process that characterizes the system dynamics conditional on the rare event) for models of post-transcriptional regulation directly from prior results for promoter-based models. The results derived create new avenues to analyze rare events in general models of post-transcriptional regulation pertaining to various different biological settings."
+        },
+        {
+          "title": "Network Characteristics of Individual Pigments in Cyanobacterial Photosystem II Core Complexes",
+          "url": "https://arxiv.org/abs/2607.17096",
+          "domain": "arxiv.org",
+          "date": "2026-07-21T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2607.17096v1 Announce Type: new Abstract: Part of the excitation energy transfer (EET) characteristics of the photosystem II (PSII) comes from the interconnection between pigments. To understand the correlation between the EET and the pigments' interaction structure, we construct a network from the EET rates, which are related to both the distance between the pigments (chlorophylls and pheophytins) and their spatial orientations. Especially, we investigate how well the PS II core complex's EET functionality can be explained by using only the network topology in Thermosynechococcus vulcanus 1.9 \\AA. Starting from the F\\\"orster theory, we construct a network of EET pathways. For an analysis of the network structure, we calculate common network-structural measures like betweenness centrality, eigenvector centrality and weighted clustering. These measures can reflect the role of individual pigments in the EET network. In our work, we found that some well-known properties were reproduced by the network analysis of the simplified network, which means that the topology of the network encodes functionally relevant information. For example, from the network structural analysis, we can infer that most of the chlorophyll molecules (chlorophylls) in the pigment-protein complex CP47 have a heightened probability of transferring energy compared with other chlorophylls. We also see that the active branch chlorophylls in the reaction center are characterized by a high eigenvector centrality, a high betweenness centrality, and a low weighted clustering coefficient. This is indicative of functionally important vertices."
+        },
+        {
+          "title": "Harmonised benchmarking of foundation models for single-cell and spatial transcriptomics reveals context-dependent generalisation",
+          "url": "https://arxiv.org/abs/2607.17227",
+          "domain": "arxiv.org",
+          "date": "2026-07-21T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2607.17227v1 Announce Type: new Abstract: Single-cell and spatial foundation models promise transferable biological representations, yet their generality remains largely untested across modalities, biological domains and analytical tasks. We benchmarked six representative models, Nicheformer, CellPLM, scGPT-spatial, GenePT, scELMo and Novae, using a harmonised framework spanning scRNA-seq, spatial transcriptomics and Perturb-seq. We evaluated zero-shot and continually pretrained clustering, supervised annotation, marker-gene concordance and perturbation prediction. Model performance was strongly conditional: expression-trained cell-level transformers best resolved many cell-identity tasks, spatial and graph-aware models better preserved tissue architecture, and language-derived gene embeddings were competitive for selected perturbation-response metrics. No model dominated across tasks, and rankings shifted with modality, preprocessing, tokenisation, biological prior, domain shift and metric choice. This benchmark provides practical guidance for model selection and argues that future models should be judged by biological generalisation, interpretability and perturbation-grounded validity, not by scale or leaderboard performance alone."
+        },
+        {
+          "title": "Evaluating Conformal Reliability of Pathway-Level Transcriptomic Signatures Under Cross-Cohort Shift in Sepsis Mortality Prediction",
+          "url": "https://arxiv.org/abs/2607.17405",
+          "domain": "arxiv.org",
+          "date": "2026-07-21T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2607.17405v1 Announce Type: new Abstract: Blood transcriptomic profiling enables prognostic modeling by capturing the host immune response at the molecular level. Yet, the within-cohort evaluation strategies employed by many transcriptomic models inadequately reflect deployment across independent hospitals. Outside deployment scenarios introduce a cohort shift that can substantially degrade predictive performance and reliability of uncertainty estimates. We present a framework for evaluating transcriptomic sepsis mortality prediction under realistic cross-cohort deployment, systematically comparing gene-level, pathway-level and hybrid molecular representations. Four publicly available whole-blood transcriptomic cohorts consisting of 936 patients and 248 mortality events were harmonized into a shared 7,660-gene feature space and evaluated under leave-one-cohort-out validation using logistic regression, random forests, XGBoost and LightGBM. Beyond AUROC and AUPRC, model behavior was evaluated via conformal prediction, calibration analysis, selective prediction and the proposed Pathway Stability Index. Gene-level and hybrid representations were found to generally achieve the strongest discriminative performance, whereas pathway-level representations exhibited greater robustness across model families, more reliable uncertainty behavior under cross-cohort shift and stable molecular signatures enriched for immune and host-defense processes identified through Gene Ontology and KEGG enrichment analyses. These findings demonstrate that molecular representation influences not only predictive discrimination but also calibration, uncertainty reliability, biological coherence and transferability under external validation."
         }
       ]
     },
@@ -277,6 +277,46 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "UK Parliament begins inquiry into banking chokepoint for crypto businesses",
+          "url": "https://www.coindesk.com/policy/2026/07/21/uk-parliamentary-group-begins-inquiry-into-banking-chokepoint-for-crypto-businesses",
+          "domain": "coindesk.com",
+          "date": "2026-07-21T06:15:26.000Z",
+          "source": "CoinDesk",
+          "summary": "The UK’s Crypto and Digital Assets All-Party Parliamentary Group (APPG) is focused on banks that refused crypto firms accounts or introduced restrictions on crypto transactions."
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-21T05:50:34.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
+        {
+          "title": "Bitcoin hits a two-week high near $65,500 as the chip trade turns back into a tailwind",
+          "url": "https://www.coindesk.com/markets/2026/07/21/bitcoin-hits-a-two-week-high-near-usd65-500-as-the-chip-trade-turns-back-into-a-tailwind",
+          "domain": "coindesk.com",
+          "date": "2026-07-21T05:34:00.000Z",
+          "source": "CoinDesk",
+          "summary": "Asian semiconductor shares rebounded hard, a five-day ETF inflow streak passed $600 million, and oil pulled back on Middle East diplomacy."
+        },
+        {
+          "title": "Washington judge blocks Kalshi’s sports prediction markets over state gambling laws",
+          "url": "https://www.theblock.co/post/409011/washington-kalshi-preliminary-injunction?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-21T05:09:24.000Z",
+          "source": "The Block",
+          "summary": "A Washington state court granted the state's motion for a preliminary injunction, saying Kalshi operates illegal gambling activities."
+        },
+        {
+          "title": "Grayscale files S-1 for first US Worldcoin ETF",
+          "url": "https://cointelegraph.com/news/grayscale-files-s-1-for-worldcoin-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-21T03:56:10.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The filing expands Grayscale’s growing lineup of crypto-related exchange-traded products outside of Bitcoin and Ether."
+        },
         {
           "title": "Celsius co-founders Leon, Goldstein to pay FTC over $6M",
           "url": "https://cointelegraph.com/news/celsius-co-founders-leon-goldstein-to-pay-ftc-over-6m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -316,46 +356,6 @@
           "date": "2026-07-21T00:58:26.000Z",
           "source": "The Block",
           "summary": "President Trump has agreed to ethics language — potentially moving the ball forward to getting crypto legislation passed into law."
-        },
-        {
-          "title": "Patrick Witt defers military training as CLARITY heads to Senate",
-          "url": "https://cointelegraph.com/news/patrick-witt-defers-military-training-as-clarity-heads-to-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-21T00:02:04.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The decision keeps the administration’s chief crypto policy negotiator in place during what could be a decisive few weeks for the CLARITY Act."
-        },
-        {
-          "title": "Democrats added certain consumer protection rules to CLARITY: Coinbase exec",
-          "url": "https://cointelegraph.com/news/democrats-consumer-protections-clarity-act-ethics-debate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-20T21:41:23.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Coinbase vice chair Ryan VanGrack said that Democratic lawmakers had added provisions on customer protection to a digital asset market structure bill under consideration in the US Senate."
-        },
-        {
-          "title": "Grayscale could take Worldcoin to Wall Street after ETF filing with the SEC",
-          "url": "https://www.theblock.co/post/408995/grayscale-worldcoin-etf-filing-sec?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-20T21:25:00.000Z",
-          "source": "The Block",
-          "summary": "The first exchange-traded fund tied to Worldcoin could soon be headed to U.S. markets, as Grayscale files for a Worldcoin ETF."
-        },
-        {
-          "title": "Tether Gold recognized as Accepted Spot Commodity in Abu Dhabi financial center",
-          "url": "https://cointelegraph.com/news/tether-gold-recognized-as-accepted-spot-commodity-in-abu-dhabi-financial-center?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-20T21:21:54.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The recognition allows regulated firms in Abu Dhabi Global Market to offer services involving Tether Gold as tokenized commodities gain broader adoption."
-        },
-        {
-          "title": "Bitcoin defies recent tech stocks sell-off. Are bulls eyeing a $70K rally?",
-          "url": "https://cointelegraph.com/markets/bitcoin-defies-recent-tech-stocks-sell-off-are-bulls-eyeing-70k-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-20T21:20:09.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Despite muted derivatives sentiment, Bitcoin’s decoupling and Strategy’s cash raise set the stage for a potential rally to $70,000."
         }
       ]
     }
