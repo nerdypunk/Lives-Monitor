@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-21T15:06:26.944Z",
+  "updatedAt": "2026-07-21T16:43:30.151Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -8,6 +8,14 @@
         "https://news.google.com/rss/search?q=DeSci%20OR%20%22decentralized%20science%22%20OR%20%22BIO%20Protocol%22&hl=en-US&gl=US&ceid=US:en"
       ],
       "articles": [
+        {
+          "title": "️DeSci Atoms Market Update 20 July 2026 MarketCap 24hrs Top - KuCoin",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE90VzZpc3NCb0ZNWkZwakpWNWMzUFhRRmtDemR4OGw2R0lXTVIxM2pwbl9EajFoSTlLVjMzemNNYVhkckhnRGxTSzBldHJRb3NYR2h1QUlPdm1yUWFuREFWbjE5eHhFdG1aelp5LUdCNV9kQQ?oc=5",
+          "domain": "kucoin.com",
+          "date": "2026-07-20T10:44:16.000Z",
+          "source": "KuCoin",
+          "summary": "️DeSci Atoms Market Update 20 July 2026 MarketCap 24hrs Top &nbsp;&nbsp; KuCoin"
+        },
         {
           "title": "Google DeepMind and Isomorphic Labs team up on bioresilience, and crypto's DeSci sector should be paying attention - Crypto Briefing",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9fOV9xNmNZbFp3S1ZCM3VYTzZZSnBsal9XODNsSDdYNXl1bmFteTFCNHhlZGJaSEFtTTAyMXdmM1htMmpuQkIwUGRGR0NQX0VQVVdwQ1BKWUljRk40SVUzMHFtZGVPdGp1alBORzUtclZnM1N3Z1RjRzc4bzM?oc=5",
@@ -79,17 +87,8 @@
           "date": "2026-06-03T07:00:00.000Z",
           "source": "Bitcoin Foundation",
           "summary": "What Is Bio Protocol Crypto? Why This AI-Powered DeSci Token Is Exploding in 2026 &nbsp;&nbsp; Bitcoin Foundation"
-        },
-        {
-          "title": "What Is Bio Protocol (BIO)? - Binance",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9MbFcyT1E4N1JvdnZCODQyc1pTRXZWWEk5VTVwbUlLLUtvWmJWN1F4Umw2am00VVBpRlVCaEk5NGR1ZXNvSU1oWGE3OWYtMWlYRURIeHY3SHBVQ0l3RkdmVnVQbXgwUTlLNjg0ZFBmLXpfamdtVmdR?oc=5",
-          "domain": "binance.com",
-          "date": "2026-05-29T07:00:00.000Z",
-          "source": "Binance",
-          "summary": "What Is Bio Protocol (BIO)? &nbsp;&nbsp; Binance"
         }
-      ],
-      "warning": "Google News DeSci returned 503"
+      ]
     },
     {
       "name": "Longevity",
@@ -99,12 +98,20 @@
       ],
       "articles": [
         {
+          "title": "Regular Training Erases Parts of Muscle Aging Signature",
+          "url": "https://lifespan.io/regular-training-erases-parts-of-muscle-aging-signature/",
+          "domain": "lifespan.io",
+          "date": "2026-07-21T15:54:54.000Z",
+          "source": "Lifespan.io",
+          "summary": "A new study suggests that regular planned exercise, not just being generally active, protects against certain aspects of muscle aging [1]. Are […]"
+        },
+        {
           "title": "Exosomes From Stem Cells Fight Liver Disease in Mice",
           "url": "https://lifespan.io/exosomes-from-stem-cells-fight-liver-disease-in-mice/",
           "domain": "lifespan.io",
           "date": "2026-07-20T20:59:34.000Z",
           "source": "Lifespan.io",
-          "summary": "Researchers have described a method of using exosomes derived from mesenchymal stem cells (MSCs) to fight harmful metabolic changes in the liver. Another look […]"
+          "summary": "Researchers have described a method of using exosomes derived from mesenchymal stem cells (MSCs) to fight harmful metabolic changes in the liver. Another look at exosomes This is far from the first attempt at using […]"
         },
         {
           "title": "Forged in adversity: how cellular resilience drives repair",
@@ -136,7 +143,7 @@
           "domain": "lifespan.io",
           "date": "2026-07-17T16:52:17.000Z",
           "source": "Lifespan.io",
-          "summary": "Scientists have engineered an enzyme that removes an advanced glycation end product (AGE) from proteins. This type of age-related modification, […]"
+          "summary": "Scientists have engineered an enzyme that removes an advanced glycation end product (AGE) from proteins. This type of age-related modification, which affects protein function and can trigger inflammation, has previously been considered extremely hard to reverse [1]. Can […]"
         },
         {
           "title": "Elysium Health links NAD+ to menopause in new study",
@@ -168,15 +175,7 @@
           "domain": "lifespan.io",
           "date": "2026-07-16T20:43:18.000Z",
           "source": "Lifespan.io",
-          "summary": "Publishing in Aging Cell, researchers have devised a way to delay the aging of the thymus by targeting GPR40, a key receptor in its epithelial cells. The organ that involutes The thymus trains a certain subset […]"
-        },
-        {
-          "title": "Neko Health secures $700m to fuel expansion",
-          "url": "https://longevity.technology/news/neko-health-secures-700m-to-fuel-expansion/",
-          "domain": "longevity.technology",
-          "date": "2026-07-16T14:12:36.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Preventive health platform will use new funding to expand into US while growing longitudinal health dataset and proprietary diagnostic tech. Neko Health has raised $700 million in a Series C financing round led by Lightspeed Venture Partners and co-led by OG Venture Partners, valuing the Swedish preventive health company at approximately $1.8 billion – a […] The post Neko Health secures $700m to fuel expansion appeared first on Longevity.Technology ."
+          "summary": "Publishing in Aging Cell, researchers have devised a way to delay the aging of the thymus by targeting GPR40, a key […]"
         }
       ]
     },
@@ -188,6 +187,14 @@
         "https://phys.org/rss-feed/biology-news/biotechnology/"
       ],
       "articles": [
+        {
+          "title": "Google wants to release 16 million sterile mosquitoes: Australian tests offer a valuable lesson",
+          "url": "https://phys.org/news/2026-07-google-million-sterile-mosquitoes-australian.html",
+          "domain": "phys.org",
+          "date": "2026-07-21T16:40:01.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "In the United States, Google's, now Alphabet's, Debug initiative has asked the federal government for permission to release up to 32 million sterilized male mosquitoes in California and Florida."
+        },
         {
           "title": "Emergent topological structure in spontaneous brain-organoid activity",
           "url": "https://arxiv.org/abs/2607.16517",
@@ -259,14 +266,6 @@
           "date": "2026-07-21T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2607.17227v1 Announce Type: new Abstract: Single-cell and spatial foundation models promise transferable biological representations, yet their generality remains largely untested across modalities, biological domains and analytical tasks. We benchmarked six representative models, Nicheformer, CellPLM, scGPT-spatial, GenePT, scELMo and Novae, using a harmonised framework spanning scRNA-seq, spatial transcriptomics and Perturb-seq. We evaluated zero-shot and continually pretrained clustering, supervised annotation, marker-gene concordance and perturbation prediction. Model performance was strongly conditional: expression-trained cell-level transformers best resolved many cell-identity tasks, spatial and graph-aware models better preserved tissue architecture, and language-derived gene embeddings were competitive for selected perturbation-response metrics. No model dominated across tasks, and rankings shifted with modality, preprocessing, tokenisation, biological prior, domain shift and metric choice. This benchmark provides practical guidance for model selection and argues that future models should be judged by biological generalisation, interpretability and perturbation-grounded validity, not by scale or leaderboard performance alone."
-        },
-        {
-          "title": "Evaluating Conformal Reliability of Pathway-Level Transcriptomic Signatures Under Cross-Cohort Shift in Sepsis Mortality Prediction",
-          "url": "https://arxiv.org/abs/2607.17405",
-          "domain": "arxiv.org",
-          "date": "2026-07-21T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2607.17405v1 Announce Type: new Abstract: Blood transcriptomic profiling enables prognostic modeling by capturing the host immune response at the molecular level. Yet, the within-cohort evaluation strategies employed by many transcriptomic models inadequately reflect deployment across independent hospitals. Outside deployment scenarios introduce a cohort shift that can substantially degrade predictive performance and reliability of uncertainty estimates. We present a framework for evaluating transcriptomic sepsis mortality prediction under realistic cross-cohort deployment, systematically comparing gene-level, pathway-level and hybrid molecular representations. Four publicly available whole-blood transcriptomic cohorts consisting of 936 patients and 248 mortality events were harmonized into a shared 7,660-gene feature space and evaluated under leave-one-cohort-out validation using logistic regression, random forests, XGBoost and LightGBM. Beyond AUROC and AUPRC, model behavior was evaluated via conformal prediction, calibration analysis, selective prediction and the proposed Pathway Stability Index. Gene-level and hybrid representations were found to generally achieve the strongest discriminative performance, whereas pathway-level representations exhibited greater robustness across model families, more reliable uncertainty behavior under cross-cohort shift and stable molecular signatures enriched for immune and host-defense processes identified through Gene Ontology and KEGG enrichment analyses. These findings demonstrate that molecular representation influences not only predictive discrimination but also calibration, uncertainty reliability, biological coherence and transferability under external validation."
         }
       ]
     },
@@ -279,84 +278,84 @@
       ],
       "articles": [
         {
-          "title": "London Stock Exchange’s LSE 24 signals a bet on digital, AI-driven markets: TD Cowen",
-          "url": "https://www.theblock.co/post/409089/london-stock-exchanges-lse-24-signals-bet-on-digital-ai-driven-markets-td-cowen?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-21T14:46:07.000Z",
-          "source": "The Block",
-          "summary": "London Stock Exchange will launch LSE 24, a 24/5 venue trading 17:00–07:50, with testing by end-2026 and ETPs first in H1 2027."
-        },
-        {
-          "title": "Augustus raises $180 million to build a clearing bank for the AI and stablecoin era",
-          "url": "https://www.coindesk.com/business/2026/07/21/augustus-raises-usd180-million-to-build-a-clearing-bank-for-the-ai-and-stablecoin-era",
+          "title": "Claude's Fable 5 just solved an 87-year-old math problem, and it matters for bitcoin",
+          "url": "https://www.coindesk.com/tech/2026/07/21/claude-s-fable-5-just-solved-an-87-year-old-math-problem-and-it-matters-for-bitcoin",
           "domain": "coindesk.com",
-          "date": "2026-07-21T14:27:03.000Z",
+          "date": "2026-07-21T16:19:24.000Z",
           "source": "CoinDesk",
-          "summary": "The firm, freshly valued at $1 billion, aims to replace legacy correspondent banking with always-on infrastructure that connects traditional payment systems and stablecoins."
+          "summary": "Claude Fabel 5 disproved the Jacobian conjecture over the weekend, landing days after the capabilities of China's Kimi AI became the biggest force moving bitcoin markets."
         },
         {
-          "title": "Malaysia shuts down Balaji Srinivasan’s Network School in Forest City",
-          "url": "https://www.theblock.co/post/409076/malaysia-shuts-down-balaji-srinivasans-network-school-forest-city?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-21T13:50:19.000Z",
-          "source": "The Block",
-          "summary": "Malaysia revoked Network School's license, ordering the Balaji Srinivasan-founded digital nomad commune to cease operations July 22."
-        },
-        {
-          "title": "Jack Mallers leaves Twenty One as Strike exits Tether’s three-way bitcoin merger",
-          "url": "https://www.theblock.co/post/409075/jack-mallers-leaves-twenty-one-as-strike-exits-tethers-three-way-bitcoin-merger?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-21T13:47:00.000Z",
-          "source": "The Block",
-          "summary": "Twenty One Capital named Raphael Zagury CEO, replacing founder Jack Mallers, as Strike exits a Tether-backed three-way merger."
-        },
-        {
-          "title": "MoneyGram's CEO says blockchain works best when customers don't know it's there",
-          "url": "https://www.coindesk.com/tech/2026/07/17/moneygram-s-ceo-says-blockchain-works-best-when-customers-don-t-know-it-s-there",
+          "title": "Galaxy sets up $5 million fund to help shield Bitcoin against quantum computing threats",
+          "url": "https://www.coindesk.com/tech/2026/07/21/galaxy-sets-up-usd5-million-fund-to-help-shield-bitcoin-against-quantum-computing-threats",
           "domain": "coindesk.com",
-          "date": "2026-07-21T13:38:13.000Z",
+          "date": "2026-07-21T16:16:14.000Z",
           "source": "CoinDesk",
-          "summary": "In an interview with CoinDesk, MoneyGram CEO Anthony Soohoo said that their blockchain strategy has evolved from early experimentation into a broader effort to modernize the company's global payments infrastructure."
+          "summary": "The crypto financial services firm is funding developers to strengthen the blockchain's security before quantum computers become powerful enough to steal billions in crypto."
         },
         {
-          "title": "CoinShares debuts Bitcoin mining ETF in Europe entrance",
-          "url": "https://cointelegraph.com/news/coinshares-debuts-bitcoin-mining-ucits-etf-in-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "BIS warns stablecoins could weaken capital controls in emerging markets",
+          "url": "https://cointelegraph.com/news/bis-study-says-stablecoins-bypass-capital-controls-more-easily-than-bank-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-07-21T13:34:26.000Z",
+          "date": "2026-07-21T16:11:54.000Z",
           "source": "CoinTelegraph",
-          "summary": "The UCITS ETF, CoinShares’ first in Europe, began trading on Deutsche Börse Xetra, tracking a rules-based index of publicly listed BTC miners."
+          "summary": "Researchers found dollar-backed stablecoins are less affected by capital controls than traditional bank deposits, raising new questions about monetary sovereignty in emerging markets."
         },
         {
-          "title": "Arcus rolls out 24/7 tokenized US stocks and perpetual markets on Robinhood Chain",
-          "url": "https://www.theblock.co/post/408895/arcus-rolls-out-24-7-tokenized-us-stocks-and-perpetual-markets-on-robinhood-chain?utm_source=rss&utm_medium=rss",
+          "title": "Bitget plans US expansion ‘with or without’ Clarity Act, CEO says",
+          "url": "https://www.theblock.co/post/409100/bitget-plans-us-expansion-with-without-clarity-act-ceo-says?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-07-21T13:30:00.000Z",
+          "date": "2026-07-21T16:11:41.000Z",
           "source": "The Block",
-          "summary": "Arcus rolled out 24/7 trading for over 95 Stock Tokens on Robinhood Chain and also introduced beta perpetual markets with USDG collateral."
+          "summary": "Bitget CEO Gracy Chen is leading the crypto exchange's push into the U.S. after initially shelving expansion plans in 2022."
         },
         {
-          "title": "Aztec upgrades to V5 in alpha, adding full private execution environment to decentralized Ethereum L2",
-          "url": "https://www.theblock.co/post/409065/aztec-upgrades-v5-alpha-adding-private-execution-environment-decentralized-ethereum-l2?utm_source=rss&utm_medium=rss",
+          "title": "Uphold launches fractional share trading in US for more than 4,000 stocks and ETFs",
+          "url": "https://www.theblock.co/post/409087/uphold-launches-fractional-share-trading-4000-stocks-and-etfs?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-07-21T13:20:40.000Z",
+          "date": "2026-07-21T16:08:50.000Z",
           "source": "The Block",
-          "summary": "Aztec V5 focuses on supporting \"client-side proving,\" enabling computation-heavy ZK proofs on simple devices like phones and laptops."
+          "summary": "“Uphold customers can now sell Bitcoin to buy Berkshire Hathaway shares in a single step on the app,\" the company's U.S. president said."
         },
         {
-          "title": "Robinhood-backed DEX Arcus expands with tokenized assets, perps",
-          "url": "https://cointelegraph.com/news/robinhood-backed-dex-arcus-debut-multi-asset-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "MEXC adds Bittensor TAO staking for its global user base",
+          "url": "https://cointelegraph.com/news/mexc-adds-bittensor-tao-staking-for-its-global-user-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-07-21T13:16:22.000Z",
+          "date": "2026-07-21T15:53:08.000Z",
           "source": "CoinTelegraph",
-          "summary": "Arcus, built by the dYdX team, adds tokenized stocks and perpetual futures on Robinhood Chain as platforms compete to bring traditional assets onchain."
+          "summary": "The integration with validator Yuma gives millions of MEXC users access to Bittensor, an AI-focused blockchain whose ecosystem now spans 128 specialized subnets."
         },
         {
-          "title": "Here’s what happened in crypto today",
-          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "Coinbase says ‘low-risk’ config change behind 50-minute July 14 outage impacting trading, card transactions",
+          "url": "https://www.theblock.co/post/409105/coinbase-says-low-risk-config-change-behind-50-minute-july-14-outage-impacting-trading-card-transactions?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-21T15:35:21.000Z",
+          "source": "The Block",
+          "summary": "Coinbase said user funds were never at risk, and user transactions that were stuck “in-flight” were completed once service was restored."
+        },
+        {
+          "title": "Telegram plans ‘largest rollout of a non-custodial crypto wallet in human history’",
+          "url": "https://www.theblock.co/post/409099/telegram-plans-largest-rollout-non-custodial-crypto-wallet-in-history?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-21T15:20:25.000Z",
+          "source": "The Block",
+          "summary": "The messaging platform has long been viewed as a potential gateway for bringing a wider audience into crypto."
+        },
+        {
+          "title": "Russia’s parliament passes crypto market law with $3,800 annual cap for retail investors",
+          "url": "https://www.coindesk.com/policy/2026/07/21/russia-s-parliament-passes-crypto-market-law-rules-to-take-effect-sept-1",
+          "domain": "coindesk.com",
+          "date": "2026-07-21T15:19:44.000Z",
+          "source": "CoinDesk",
+          "summary": "While citizens still cannot use Bitcoin to buy groceries, the Kremlin is officially letting companies use digital tokens to bypass sanctions and other global trade hurdles."
+        },
+        {
+          "title": "Bitcoin nears seven-week high as stocks ignore Iran strikes, Trump 10% tariff plans",
+          "url": "https://cointelegraph.com/markets/bitcoin-nears-seven-week-high-as-stocks-ignore-iran-strikes-trump-10-tariff-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-07-21T13:14:31.000Z",
+          "date": "2026-07-21T15:14:37.000Z",
           "source": "CoinTelegraph",
-          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+          "summary": "Bitcoin and crypto joined US stocks in brushing off US-Iran war escalation and the threat of fresh trade tariffs before the end of the month."
         }
       ]
     }
