@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-22T09:15:44.109Z",
+  "updatedAt": "2026-07-22T11:25:21.992Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,84 +278,84 @@
       ],
       "articles": [
         {
+          "title": "Here's why bitcoin bulls should take a closer look at interest rates",
+          "url": "https://www.coindesk.com/daybook-us/2026/07/22/here-s-why-bitcoin-bulls-should-take-a-closer-look-at-interest-rates",
+          "domain": "coindesk.com",
+          "date": "2026-07-22T11:23:36.000Z",
+          "source": "CoinDesk",
+          "summary": "Your day-ahead look for July 22, 2026"
+        },
+        {
+          "title": "SecondFi to shut down after $2.4 million ADA wallet theft",
+          "url": "https://www.coindesk.com/web3/2026/07/22/secondfi-to-shut-down-after-usd2-4-million-ada-wallet-theft",
+          "domain": "coindesk.com",
+          "date": "2026-07-22T11:10:27.000Z",
+          "source": "CoinDesk",
+          "summary": "The breach stemmed from a vulnerability in transaction signing software that enabled the derivation of private keys from blockchain transaction data."
+        },
+        {
+          "title": "Talos brings institutional trading tools to Kalshi prediction markets",
+          "url": "https://cointelegraph.com/news/talos-brings-institutional-trading-tools-to-kalshi-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-22T11:00:00.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The integration provides institutional clients with access to Kalshi’s event contracts and crypto perpetuals via Talos’ existing trading infrastructure."
+        },
+        {
+          "title": "South Korea crypto volumes shrink as retail investors shift to stocks",
+          "url": "https://cointelegraph.com/news/south-korea-crypto-volume-decline-kospi-retail-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-22T10:47:09.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Trading activity on South Korea’s five major crypto exchanges fell sharply as the KOSPI surged, signaling a shift in retail investors toward equities."
+        },
+        {
+          "title": "Bitcoin retreats from one-month high as oil tops $85, inflation concerns resurface",
+          "url": "https://www.coindesk.com/markets/2026/07/22/bitcoin-retreats-from-one-month-high-as-oil-tops-usd85-inflation-concerns-resurface",
+          "domain": "coindesk.com",
+          "date": "2026-07-22T10:33:33.000Z",
+          "source": "CoinDesk",
+          "summary": "BTC retreated from a one-month high as WTI crude topped $85 for the first time since June, reigniting inflation concerns and pushing investors toward gold, silver and the safety of bitcoin over altcoins."
+        },
+        {
+          "title": "Kraken parent expands tokenized stocks to Hong Kong, UK and South Korea equities",
+          "url": "https://www.coindesk.com/business/2026/07/22/kraken-parent-expands-tokenized-stocks-to-hong-kong-uk-and-south-korea-equities",
+          "domain": "coindesk.com",
+          "date": "2026-07-22T10:30:00.000Z",
+          "source": "CoinDesk",
+          "summary": "Payward's xStocks pushes beyond U.S. equities as competition to bring global stock markets onchain accelerates."
+        },
+        {
+          "title": "Foundry asks Bitcoin miners to vote on BIP-110 support",
+          "url": "https://cointelegraph.com/news/foundry-bitcoin-miners-vote-bip-110?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-22T10:29:42.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Foundry USA asked its mining customers to signal their support for BIP-110, an actively debated proposal seeking to shrink the amount of data that can be stored in a Bitcoin transaction."
+        },
+        {
+          "title": "SecondFi to wind down after $2.6M ADA theft linked to wallet flaw",
+          "url": "https://cointelegraph.com/news/secondfi-shutdown-ada-theft-wallet-flaw?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-22T09:42:00.000Z",
+          "source": "CoinTelegraph",
+          "summary": "SecondFi will wind down after a $2.6 million ADA theft, while users still await recovery tools that were initially expected within weeks of the exploit."
+        },
+        {
+          "title": "Galaxy pledges $5M for developers quantum-proofing Bitcoin",
+          "url": "https://cointelegraph.com/news/galaxy-pledges-5m-developers-quantum-proofing-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-22T09:30:05.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Galaxy pledged up to $5 million in grants for developers working on Bitcoin’s quantum security and elected a council of quantum-advisory experts to research quantum-resistant migration solutions."
+        },
+        {
           "title": "Balance stablecoin collapses 99% after $1 million exploit drains its bitcoin vaults",
           "url": "https://www.coindesk.com/tech/2026/07/22/balance-stablecoin-collapses-99-after-usd1-million-exploit-drains-its-bitcoin-vaults",
           "domain": "coindesk.com",
           "date": "2026-07-22T09:01:54.000Z",
           "source": "CoinDesk",
           "summary": "An attacker fed the lending system a fake, abnormally low bitcoin price, liquidated vaults that should have been safe, and pocketed the difference in a single transaction."
-        },
-        {
-          "title": "Live updates: Bitcoin under $66,000 as traders await Alphabet earnings to gauge AI trade",
-          "url": "https://www.coindesk.com/tech/2026/07/22/live-updates-bitcoin-under-usd66-000-as-traders-await-alphabet-earnings-to-gauge-ai-trade",
-          "domain": "coindesk.com",
-          "date": "2026-07-22T08:13:28.000Z",
-          "source": "CoinDesk",
-          "summary": "A two-day chip rebound stalled ahead of Alphabet's earnings in a sign of whether the hundreds of billions going into AI is paying off. Bitcoin has tracked that trade all month."
-        },
-        {
-          "title": "Bitcoin ETFs extend inflow streak to 6 days with $203M added",
-          "url": "https://cointelegraph.com/news/bitcoin-etfs-203-million-inflow-streak-six-days?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-22T07:57:03.000Z",
-          "source": "CoinTelegraph",
-          "summary": "US spot Bitcoin ETFs extended their inflow streak to six sessions, bringing in about $930 million while remaining down $4.84 billion on a net basis year to date."
-        },
-        {
-          "title": "BIS warns USD stablecoins can evade capital controls, challenging traditional market regulations",
-          "url": "https://www.theblock.co/post/409193/bis-warns-stablecoins-capital-controls?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-22T07:47:26.000Z",
-          "source": "The Block",
-          "summary": "BIS says that FX restrictions and capital controls are less effective against stablecoins than against foreign currency bank deposits."
-        },
-        {
-          "title": "US seeks forfeiture of $25 million in crypto tied to global fraud investigations",
-          "url": "https://www.theblock.co/post/409194/us-seeks-forfeiture-25-million-crypto?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-22T07:41:49.000Z",
-          "source": "The Block",
-          "summary": "US prosecutors seek forfeiture of $25 million in crypto recovered from five investigations into international fraud and laundering networks."
-        },
-        {
-          "title": "AI models escaped OpenAI’s sandbox and hit Hugging Face. Crypto is where that gets dangerous",
-          "url": "https://www.coindesk.com/markets/2026/07/22/ai-models-escaped-openai-s-sandbox-and-hit-hugging-face-crypto-is-where-that-gets-dangerous",
-          "domain": "coindesk.com",
-          "date": "2026-07-22T06:01:56.000Z",
-          "source": "CoinDesk",
-          "summary": "OpenAI said the systems had their cyber guardrails lowered for an internal benchmark, but the incident shows how autonomous exploit chains could pose a deeper threat to smart contracts."
-        },
-        {
-          "title": "Here’s what happened in crypto today",
-          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-22T05:43:51.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-        },
-        {
-          "title": "Bitcoin holds near $66,300 as chips extend their rally and the yen hits a 40-year low",
-          "url": "https://www.coindesk.com/markets/2026/07/22/bitcoin-holds-near-usd66-300-as-chips-extend-their-rally-and-the-yen-hits-a-40-year-low",
-          "domain": "coindesk.com",
-          "date": "2026-07-22T05:03:39.000Z",
-          "source": "CoinDesk",
-          "summary": "Semiconductor stocks led a second day of gains on AI optimism, while the yen slid past 163 per dollar for the first time since 1986."
-        },
-        {
-          "title": "HTX keeps rotating wallets to evade UK sanctions screening: TRM Labs",
-          "url": "https://www.theblock.co/post/409187/htx-rotates-wallets-uk-sanctions-screening?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-22T04:23:08.000Z",
-          "source": "The Block",
-          "summary": "UK authorities sanctioned the crypto exchange in May for its alleged role in facilitating Russian sanctions evasion."
-        },
-        {
-          "title": "Balance Coin crashes 99% after reported $915K exploit",
-          "url": "https://cointelegraph.com/news/algorithmic-stablecoin-balance-coin-plummets-99-after-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-22T03:12:48.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The attack allowed the exploiter to liquidate multiple Bitcoin-backed vaults before swapping the assets for profit."
         }
       ]
     }
