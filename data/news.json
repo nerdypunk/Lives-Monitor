@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-22T00:11:30.644Z",
+  "updatedAt": "2026-07-22T03:49:20.725Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -188,6 +188,22 @@
       ],
       "articles": [
         {
+          "title": "Birds flying in 'V' formation save energy with flatter flaps, new research shows",
+          "url": "https://phys.org/news/2026-07-birds-flying-formation-energy-flatter.html",
+          "domain": "phys.org",
+          "date": "2026-07-22T01:00:05.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Scientists have known for years that birds like geese and ibises gain an aerodynamic advantage from flying in a \"V\" formation. Now, researchers from Brown University have provided new insights into the nature of that advantage."
+        },
+        {
+          "title": "Testing innovation speeds up detection of deadly tick-borne disease",
+          "url": "https://phys.org/news/2026-07-deadly-borne-disease.html",
+          "domain": "phys.org",
+          "date": "2026-07-22T00:20:01.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "A new method at the University of Missouri could transform how Rocky Mountain spotted fever is diagnosed. The method detects the deadly tick-borne disease in just 40 minutes—a leap that could help patients get lifesaving treatment sooner. The study, \"A rapid isothermal RPA–CRISPR/Cas12a assay for detection of Rickettsia rickettsii,\" was published in Frontiers in Microbiology."
+        },
+        {
           "title": "Cone snail venom peptide could enable injectable non-opioid pain relief",
           "url": "https://phys.org/news/2026-07-cone-snail-venom-peptide-enable.html",
           "domain": "phys.org",
@@ -250,22 +266,6 @@
           "date": "2026-07-21T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2607.16809v1 Announce Type: new Abstract: The public goods game serves as a significant paradigm for investigating the emergence and maintenance of cooperation in conflicting situations. In the traditional public goods game, the multiplication factor characterizing the synergy effect of common efforts is typically assumed to be constant. In real-world scenarios, however, investment returns are often dynamic and vary with the strategic composition of the interaction group. To date, the evolutionary dynamics of the public goods game with such frequency-dependent returns have remained not fully understood. In this work, we introduce a general frequency-dependent multiplication factor that depends on the strategy composition within the game group. Through theoretical analysis, we derive the mathematical conditions under which cooperation is favored. Our results show that whether cooperation has an evolutionary advantage over defection depends on the investment return rate in the full-contribution state of the game group, irrespective of the return rates in other states. An increase in this rate leads to a higher abundance of cooperators. Furthermore, we introduce a general frequency-dependent multiplication factor into the public goods game with peer punishment, and systematically explore its effects on the cooperation dilemma and the second-order free-rider problem. Our results highlight that the abundance of cooperators or punishers is governed solely by the investment return values in the full-cooperation and full-punishment compositions of the group. A higher return rate in the full-cooperation state facilitates the promotion of cooperation, whereas a higher return rate in the full-punishment state favors the emergence of punishment. Our theoretical findings are verified by individual-based simulations."
-        },
-        {
-          "title": "Laboratory Trajectories Improve Kidney Failure Risk Estimation",
-          "url": "https://arxiv.org/abs/2607.17000",
-          "domain": "arxiv.org",
-          "date": "2026-07-21T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2607.17000v1 Announce Type: new Abstract: Accurate kidney failure risk assessment is critical to timely intervention in chronic kidney disease (CKD). Existing equations (e.g. Kidney Failure Risk Equation; KFRE) rely on single laboratory measurements to estimate short- and long-term kidney failure risk, leaving longitudinal laboratory patterns unused. Here we introduce Clalit Longitudinal Assessment of Risk of Kidney Failure (CLARK), an interpretable longitudinal extension of latest-value methods which incorporates routinely collected repeat laboratory measures. We develop CLARK using data from 5.4 million individuals, identifying 270,009 patients with CKD to create one of the largest longitudinal CKD cohorts to date, with 12,087 kidney replacement therapy initiation events and a median follow-up of 10.4 years. Across laboratory configurations and prediction horizons, CLARK demonstrated improved discrimination over static models (e.g., 2-year average precision 0.541 vs 0.516 in the eGFR-only setting). At intervention thresholds, trajectory-based models improved identification of high-risk patients, especially for longer-term prediction, suggesting that interpretable longitudinal laboratory features may enhance kidney failure risk assessment through improved identification of patients most likely to benefit from timely intervention."
-        },
-        {
-          "title": "Post-transcriptional Regulation of Stochastic Gene Expression Conditioned on Large Deviations",
-          "url": "https://arxiv.org/abs/2607.17004",
-          "domain": "arxiv.org",
-          "date": "2026-07-21T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2607.17004v1 Announce Type: new Abstract: Gene expression is a stochastic process that gives rise to large fluctuations in protein levels leading to phenotypic heterogeneity in clonal cell populations; post-transcriptional regulation plays a crucial role in controlling the level of phenotypic variability within a population, which is directly tied to cell-fate decisions. As such, substantial efforts have been directed towards quantitatively modeling the effects of various post-transcriptional mechanisms on the strength of fluctuations in protein levels (noise). However, the corresponding effects of post-transcriptional regulation on the occurrence of rare events corresponding to large deviations are far less explored and have only been considered for a special model. Here, we take a general model of post-transcriptional regulation and apply the partitioning of Poisson arrivals (PPA) framework to map it onto a model that resembles promoter-based regulation of transcription, leading to a general framework to obtain objects of interest in large deviations (i.e. large deviation rate function for quantifying the likelihood of observing rare protein production rates and the corresponding driven process that characterizes the system dynamics conditional on the rare event) for models of post-transcriptional regulation directly from prior results for promoter-based models. The results derived create new avenues to analyze rare events in general models of post-transcriptional regulation pertaining to various different biological settings."
         }
       ]
     },
@@ -277,6 +277,38 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "Balance Coin crashes 99% after reported $915K exploit",
+          "url": "https://cointelegraph.com/news/algorithmic-stablecoin-balance-coin-plummets-99-after-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-22T03:12:48.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Blockchain security firms linked the collapse to a suspected attack on 42DAO, the decentralized organization that governs the Balance Protocol ecosystem."
+        },
+        {
+          "title": "Pakistan launches crypto investigation unit to crack down on digital asset crimes: report",
+          "url": "https://www.theblock.co/post/409180/pakistan-crypto-investigation-unit?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-22T02:46:51.000Z",
+          "source": "The Block",
+          "summary": "FIA's Muhammad Athar Waheed suggested that other major agencies form dedicated teams to tackle digital asset crimes."
+        },
+        {
+          "title": "OpenAI says AI models escaped containment to hack Hugging Face",
+          "url": "https://cointelegraph.com/news/openai-models-hacked-hugging-face-to-cheat-on-a-test?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-22T02:45:55.000Z",
+          "source": "CoinTelegraph",
+          "summary": "OpenAI called it an “unprecedented cyber incident” after its AI models broke out of their sandbox to hack an AI startup during a security evaluation."
+        },
+        {
+          "title": "Balaji’s Network School turns to Kazakhstan amid Malaysia setback",
+          "url": "https://cointelegraph.com/news/balajis-network-school-turns-to-kazakhstan-amid-malaysia-setback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-22T01:05:25.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The agreement gives Balaji Srinivasan’s tech community a potential new base as Malaysian authorities clamp down on the Network School over alleged licensing breaches."
+        },
         {
           "title": "Crypto lobby group Digital Chamber sues Illinois to block digital asset tax",
           "url": "https://www.coindesk.com/policy/2026/07/21/crypto-lobby-group-tdc-sues-illinois-to-block-digital-asset-tax",
@@ -324,38 +356,6 @@
           "date": "2026-07-21T20:59:32.000Z",
           "source": "CoinTelegraph",
           "summary": "The blockchain developer will continue operating under court supervision as it restructures following a market-making scandal, a co-founder’s suspension, and exchange delistings that rocked the project."
-        },
-        {
-          "title": "Canton developer Digital Asset raises additional $10 million at same $2 billion equity valuation",
-          "url": "https://www.theblock.co/post/409168/canton-digital-asset-additional-10-million-funding-same-2-billion-equity-valuation-expanding-round-365-million?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-21T20:42:34.000Z",
-          "source": "The Block",
-          "summary": "Canton Network developer Digital Asset has raised an additional $10 million from Shinhan Financial Group and SC Ventures."
-        },
-        {
-          "title": "Ether breaks the $1.9K resistance; is $2.1K the next target for ETH bulls?",
-          "url": "https://cointelegraph.com/markets/ether-breaks-the-1900-resistance-is-2100-the-next-target-for-eth-bulls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-21T20:26:13.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Ether’s rally faces onchain headwinds, but rising staking demand and Google earnings could spark the push toward $2,100."
-        },
-        {
-          "title": "Here’s what happened in crypto today",
-          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-21T20:12:18.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-        },
-        {
-          "title": "Bitcoin rally faces key test at $68,000 as 'summer slumber' grips crypto, analysts say",
-          "url": "https://www.coindesk.com/markets/2026/07/21/bitcoin-rally-faces-key-test-at-usd68-000-as-summer-slumber-grips-crypto-analysts-say",
-          "domain": "coindesk.com",
-          "date": "2026-07-21T20:05:33.000Z",
-          "source": "CoinDesk",
-          "summary": "BTC has rebounded 15% from the July lows, but some analysts cautioned that the next move hinges on clearing a level where many recent buyers may look to sell."
         }
       ]
     }
