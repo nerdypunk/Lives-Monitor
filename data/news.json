@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-22T19:45:28.139Z",
+  "updatedAt": "2026-07-22T20:49:10.725Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,6 +278,22 @@
       ],
       "articles": [
         {
+          "title": "Tesla holds bitcoin treasury steady, reports $112M impairment loss",
+          "url": "https://www.coindesk.com/markets/2026/07/22/tesla-holds-bitcoin-steady-reports-usd112m-impairment-loss",
+          "domain": "coindesk.com",
+          "date": "2026-07-22T20:40:24.000Z",
+          "source": "CoinDesk",
+          "summary": "The electric vehicle maker maintained its 11,509 BTC treasury through the second quarter as bitcoin declined 14%, alongside mixed earnings that beat revenue expectations but missed on profit."
+        },
+        {
+          "title": "Crypto PAC pours $1M into Michigan Democratic primary race",
+          "url": "https://cointelegraph.com/news/crypto-pac-michigan-democratic-primary-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-22T20:38:08.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Donavan McKinney, running against Michigan incumbent Shri Thanedar, said that “the crypto lobby is paying my opponent back for helping Trump“ with the PAC-funded ads."
+        },
+        {
           "title": "Here’s what happened in crypto today",
           "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
@@ -340,22 +356,6 @@
           "date": "2026-07-22T16:55:08.000Z",
           "source": "The Block",
           "summary": "The SEC reached a settlement with Coinbase on Wednesday, ending a years-long legal dispute over the agency's handling of records requests."
-        },
-        {
-          "title": "Senate releases latest version of Clarity Act including software developer protections and ethics provision with ‘sunset’ date in 2029",
-          "url": "https://www.theblock.co/post/409442/senate-releases-latest-clarity-act-software-developer-protections-ethics-provision-sunset-date-2029?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-22T16:46:22.000Z",
-          "source": "The Block",
-          "summary": "After months of deliberations, Republicans released the latest text for broader cryptocurrency legislation."
-        },
-        {
-          "title": "Digital Chamber sues Illinois officials over new state 0.2% crypto tax",
-          "url": "https://cointelegraph.com/news/digital-chamber-lawsuit-illinois-crypto-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-22T16:28:10.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The group alleged that the tax signed into law in June “discriminates against people who transact in digital assets“ and should be blocked from implementation and enforcement."
         }
       ]
     }
