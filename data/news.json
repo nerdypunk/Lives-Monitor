@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-22T18:10:13.102Z",
+  "updatedAt": "2026-07-22T19:45:28.139Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -98,6 +98,14 @@
       ],
       "articles": [
         {
+          "title": "Regulatory blind spots in the longevity economy",
+          "url": "https://longevity.technology/news/regulatory-blind-spots-in-the-longevity-economy/",
+          "domain": "longevity.technology",
+          "date": "2026-07-22T18:24:19.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Wellthspan Advisory’s Nadine Esposito explains why resilient longevity companies will outlast fast‑growth ones. The longevity sector is expanding at remarkable speed. Depending on where you draw the boundaries, the broader longevity market – diagnostics, digital health, prevention, and age‑related services – was already worth tens of billions of dollars in 2020 and is on track […] The post Regulatory blind spots in the longevity economy appeared first on Longevity.Technology ."
+        },
+        {
           "title": "The Progress and Future of Biological Aging Clocks",
           "url": "https://lifespan.io/the-progress-and-future-of-biological-aging-clocks/",
           "domain": "lifespan.io",
@@ -168,14 +176,6 @@
           "date": "2026-07-20T20:59:34.000Z",
           "source": "Lifespan.io",
           "summary": "Researchers have described a method of using exosomes derived from mesenchymal stem cells (MSCs) to fight harmful metabolic changes in the liver. Another look at […]"
-        },
-        {
-          "title": "Forged in adversity: how cellular resilience drives repair",
-          "url": "https://longevity.technology/news/forged-in-adversity-how-cellular-resilience-drives-repair/",
-          "domain": "longevity.technology",
-          "date": "2026-07-20T15:58:54.000Z",
-          "source": "Longevity.Technology",
-          "summary": "True cellular therapeutics require stem cells built to survive hostile tissue microenvironments and reconstruct them from within. When an organ suffers an ischemic event or begins the slower deterioration of age-related decay, the local microenvironment does not wait patiently for help to arrive. It becomes, almost immediately, a hostile place – saturated with inflammatory cytokines, […] The post Forged in adversity: how cellular resilience drives repair appeared first on Longevity.Technology ."
         }
       ]
     },
@@ -278,6 +278,22 @@
       ],
       "articles": [
         {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-22T19:24:18.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
+        {
+          "title": "US officials barred until 2029 from issuing or sponsoring tokens under CLARITY’s proposed ethics rules",
+          "url": "https://cointelegraph.com/news/clarity-act-ethics-public-officials-president-barred-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-22T18:41:30.000Z",
+          "source": "CoinTelegraph",
+          "summary": "According to Senator Cynthia Lummis, one of the bill’s advocates, the ethics language would apply to US presidents’ crypto ventures, including Donald Trump’s."
+        },
+        {
           "title": "Clarity Act’s impact on Circle could be negative over the long term, Mizuho says",
           "url": "https://www.theblock.co/post/409453/clarity-act-impact-on-circle-could-be-negative-over-long-term-mizuho?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
@@ -340,22 +356,6 @@
           "date": "2026-07-22T16:28:10.000Z",
           "source": "CoinTelegraph",
           "summary": "The group alleged that the tax signed into law in June “discriminates against people who transact in digital assets“ and should be blocked from implementation and enforcement."
-        },
-        {
-          "title": "New Clarity Act emerges that's a start on the final draft, makes ethics rule temporary",
-          "url": "https://www.coindesk.com/policy/2026/07/22/new-clarity-act-emerges-that-s-a-start-on-the-final-draft-makes-ethics-rule-temporary",
-          "domain": "coindesk.com",
-          "date": "2026-07-22T16:15:55.000Z",
-          "source": "CoinDesk",
-          "summary": "Lawmakers have circulated text of the latest draft that will be pushed toward a Senate finish line, but they're still debating a core government-ethics piece."
-        },
-        {
-          "title": "BitGo, OTC Markets plan tokenized securities access for broker-dealers",
-          "url": "https://cointelegraph.com/news/bitgo-otc-markets-tokenized-securities-broker-dealers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-22T16:10:22.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The proposed alliance would enable more than 150 broker-dealers to trade and settle digital asset securities through OTC Link ATS using BitGo’s custody infrastructure."
         }
       ]
     }
