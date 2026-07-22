@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-22T22:06:40.922Z",
+  "updatedAt": "2026-07-22T23:16:34.306Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -98,36 +98,12 @@
       ],
       "articles": [
         {
-          "title": "Regulatory blind spots in the longevity economy",
-          "url": "https://longevity.technology/news/regulatory-blind-spots-in-the-longevity-economy/",
-          "domain": "longevity.technology",
-          "date": "2026-07-22T18:24:19.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Wellthspan Advisory’s Nadine Esposito explains why resilient longevity companies will outlast fast‑growth ones. The longevity sector is expanding at remarkable speed. Depending on where you draw the boundaries, the broader longevity market – diagnostics, digital health, prevention, and age‑related services – was already worth tens of billions of dollars in 2020 and is on track […] The post Regulatory blind spots in the longevity economy appeared first on Longevity.Technology ."
-        },
-        {
           "title": "The Progress and Future of Biological Aging Clocks",
           "url": "https://lifespan.io/the-progress-and-future-of-biological-aging-clocks/",
           "domain": "lifespan.io",
           "date": "2026-07-22T16:52:22.000Z",
           "source": "Lifespan.io",
           "summary": "A recent review discusses the development of biological aging clocks, their capabilities and limitations, the discoveries they enabled, and possible future developments in […]"
-        },
-        {
-          "title": "Nova Capital commits $100m to back UAE longevity platform",
-          "url": "https://longevity.technology/news/nova-capital-commits-100m-to-back-uae-longevity-platform/",
-          "domain": "longevity.technology",
-          "date": "2026-07-22T16:42:14.000Z",
-          "source": "Longevity.Technology",
-          "summary": "New UAE-backed venture bets future of longevity lies not in standalone wellness brands, but in building ecosystem people never have to leave. In the wellness industry, one app tracks your sleep, another counts your steps, a smartwatch nudges you to stand, your gym has its own membership, your nutrition advice comes from somewhere else and […] The post Nova Capital commits $100m to back UAE longevity platform appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "The next frontier in Alzheimer’s trials? Sleep",
-          "url": "https://longevity.technology/news/the-next-frontier-in-alzheimers-trials-sleep/",
-          "domain": "longevity.technology",
-          "date": "2026-07-22T16:41:39.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Cumulus Neuroscience and Muse bring lab-grade sleep monitoring into patients’ homes, signaling a shift in how brain health may be measured. One of the biggest ironies in sleep research has been that scientists often ask people to sleep in one of the least natural places imaginable: a lab. Hooked up to wires, surrounded by unfamiliar […] The post The next frontier in Alzheimer’s trials? Sleep appeared first on Longevity.Technology ."
         },
         {
           "title": "Regular Training Erases Parts of Muscle Aging Signature",
@@ -146,36 +122,60 @@
           "summary": "In this follow-up interview, we speak with Gabriel Cian about how the 2060 ecosystem has evolved since last year’s Forum, what he learned from the first edition, and how he is thinking about investment, scientific credibility, health […]"
         },
         {
-          "title": "Amprion lands funding to expand brain disease testing",
-          "url": "https://longevity.technology/news/amprion-lands-funding-to-expand-brain-disease-testing/",
-          "domain": "longevity.technology",
-          "date": "2026-07-21T13:00:06.000Z",
-          "source": "Longevity.Technology",
-          "summary": "As investment fuels brain diagnostics, Amprion’s expansion highlights growing belief that better tests are just as important as better drugs. The race against neurodegenerative disease has largely focused on finding the next breakthrough drug. However, a growing number of researchers are beginning to ask a different question: what if one of the biggest bottlenecks isn’t […] The post Amprion lands funding to expand brain disease testing appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "Hilo aims to make blood pressure a daily habit",
-          "url": "https://longevity.technology/news/hilo-aims-to-make-blood-pressure-a-daily-habit/",
-          "domain": "longevity.technology",
-          "date": "2026-07-21T13:00:00.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Swiss-developed system brings longitudinal blood pressure monitoring to the US, reflecting broader shift toward continuous preventive health. Blood pressure is one of medicine’s oldest biomarkers; it is also one of its most neglected. While cardiovascular risk accumulates over decades, measurement often remains confined to fleeting moments – a hurried clinic appointment, an annual health check […] The post Hilo aims to make blood pressure a daily habit appeared first on Longevity.Technology ."
-        },
-        {
-          "title": "AI meets Amazon in longevity beauty push",
-          "url": "https://longevity.technology/news/ai-meets-amazon-in-longevity-beauty-push/",
-          "domain": "longevity.technology",
-          "date": "2026-07-21T12:52:01.000Z",
-          "source": "Longevity.Technology",
-          "summary": "Debut and Natura team up to develop an AI-discovered skin longevity ingredient that could reach consumers as early as 2027. What if discovering tomorrow’s skincare ingredient no longer took decades (or centuries), but only a few days? That is the provocative claim sitting at the core of a new partnership between biotech company Debut and […] The post AI meets Amazon in longevity beauty push appeared first on Longevity.Technology ."
-        },
-        {
           "title": "Exosomes From Stem Cells Fight Liver Disease in Mice",
           "url": "https://lifespan.io/exosomes-from-stem-cells-fight-liver-disease-in-mice/",
           "domain": "lifespan.io",
           "date": "2026-07-20T20:59:34.000Z",
           "source": "Lifespan.io",
           "summary": "Researchers have described a method of using exosomes derived from mesenchymal stem cells (MSCs) to fight harmful metabolic changes in the liver. Another look at […]"
+        },
+        {
+          "title": "Engineered Enzyme Reverses Age-Related Protein Damage",
+          "url": "https://lifespan.io/engineered-enzyme-reverses-age-related-protein-damage/",
+          "domain": "lifespan.io",
+          "date": "2026-07-17T16:52:17.000Z",
+          "source": "Lifespan.io",
+          "summary": "Scientists have engineered an enzyme that removes an advanced glycation end product (AGE) from proteins. This type of age-related modification, which affects protein function and can trigger inflammation, has previously been considered extremely hard to reverse [1]. Can we […]"
+        },
+        {
+          "title": "Activating a Key Receptor Fights Thymic Involution in Mice",
+          "url": "https://lifespan.io/activating-a-key-receptor-fights-thymic-involution-in-mice/",
+          "domain": "lifespan.io",
+          "date": "2026-07-16T20:43:18.000Z",
+          "source": "Lifespan.io",
+          "summary": "Publishing in Aging Cell, researchers have devised a way to delay the aging of the thymus by targeting GPR40, a key receptor in its epithelial cells. The organ that involutes The thymus trains a certain subset […]"
+        },
+        {
+          "title": "Forever Healthy Launches Evipedia AI Integration",
+          "url": "https://lifespan.io/forever-healthy-launches-evipedia-ai-integration/",
+          "domain": "lifespan.io",
+          "date": "2026-07-15T17:08:51.000Z",
+          "source": "Lifespan.io",
+          "summary": "Today, Forever Healthy announces the launch of a set of new tools to make it easier than ever for AI agents, research pipelines, and AI environments to integrate Evipedia. Evipedia is Forever Healthy’s comprehensive, continuously updated […]"
+        },
+        {
+          "title": "Peripheral Inflammation May Drive Parkinson’s",
+          "url": "https://lifespan.io/peripheral-inflammation-may-drive-parkinsons/",
+          "domain": "lifespan.io",
+          "date": "2026-07-14T13:50:42.000Z",
+          "source": "Lifespan.io",
+          "summary": "A new study suggests that aging or Parkinson’s-triggering mutations create inflammation in peripheral tissues, and then circulating extracellular vesicles spread it to the brain, which […]"
+        },
+        {
+          "title": "Combining Senolytics and Stem Cells Shows Promise in Mice",
+          "url": "https://lifespan.io/combining-senolytics-and-stem-cells-shows-promise-in-mice/",
+          "domain": "lifespan.io",
+          "date": "2026-07-10T16:34:16.000Z",
+          "source": "Lifespan.io",
+          "summary": "A new study associated with Immorta Bio suggests that combining a senolytic vaccine with mesenchymal stem cells might create a synergistic impact. […]"
+        },
+        {
+          "title": "An Experimental Proposal for Blocking Ambient Radiation",
+          "url": "https://lifespan.io/an-experimental-proposal-for-blocking-ambient-radiation/",
+          "domain": "lifespan.io",
+          "date": "2026-07-09T20:10:54.000Z",
+          "source": "Lifespan.io",
+          "summary": "A perspective published in Aging and Disease has recommended the use of underground laboratory space in order to remove the effects of surface radiation on […]"
         }
       ]
     },
@@ -278,6 +278,14 @@
       ],
       "articles": [
         {
+          "title": "Key Democratic lawmakers say crypto Clarity Act 'falls short' on ethics, other issues",
+          "url": "https://www.coindesk.com/policy/2026/07/22/key-democratic-lawmakers-say-crypto-clarity-act-falls-short-on-ethics-other-issues",
+          "domain": "coindesk.com",
+          "date": "2026-07-22T22:22:25.000Z",
+          "source": "CoinDesk",
+          "summary": "Several of the Democrats most likely to vote for the crypto market structure bill said they had issues with the new draft published by Republicans earlier in the day."
+        },
+        {
           "title": "Bipartisan support ‘critical’ as Democrats push back on GOP crypto bill on ethics grounds",
           "url": "https://www.theblock.co/post/409470/bipartisan-support-critical-as-democrats-push-back-on-gop-crypto-bill-on-ethics-grounds?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
@@ -348,14 +356,6 @@
           "date": "2026-07-22T17:46:18.000Z",
           "source": "The Block",
           "summary": "Benchmark’s new price target implies roughly 75% upside, with Hut 8 shares already up nearly 120% year to date."
-        },
-        {
-          "title": "SEC’s Peirce says crypto vaults and onchain lending may fall under securities laws",
-          "url": "https://cointelegraph.com/news/secs-hester-peirce-says-crypto-vaults-and-onchain-lending-may-fall-under-securities-laws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-22T17:39:57.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The SEC commissioner said crypto vaults, onchain lending products and other asset management tools may trigger US securities laws depending on how they are structured and operated."
         }
       ]
     }
