@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-22T03:49:20.725Z",
+  "updatedAt": "2026-07-22T06:32:13.471Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -188,84 +188,84 @@
       ],
       "articles": [
         {
-          "title": "Birds flying in 'V' formation save energy with flatter flaps, new research shows",
-          "url": "https://phys.org/news/2026-07-birds-flying-formation-energy-flatter.html",
-          "domain": "phys.org",
-          "date": "2026-07-22T01:00:05.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Scientists have known for years that birds like geese and ibises gain an aerodynamic advantage from flying in a \"V\" formation. Now, researchers from Brown University have provided new insights into the nature of that advantage."
-        },
-        {
-          "title": "Testing innovation speeds up detection of deadly tick-borne disease",
-          "url": "https://phys.org/news/2026-07-deadly-borne-disease.html",
-          "domain": "phys.org",
-          "date": "2026-07-22T00:20:01.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "A new method at the University of Missouri could transform how Rocky Mountain spotted fever is diagnosed. The method detects the deadly tick-borne disease in just 40 minutes—a leap that could help patients get lifesaving treatment sooner. The study, \"A rapid isothermal RPA–CRISPR/Cas12a assay for detection of Rickettsia rickettsii,\" was published in Frontiers in Microbiology."
-        },
-        {
-          "title": "Cone snail venom peptide could enable injectable non-opioid pain relief",
-          "url": "https://phys.org/news/2026-07-cone-snail-venom-peptide-enable.html",
-          "domain": "phys.org",
-          "date": "2026-07-21T22:00:01.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "An international research team led by the Medical University of Vienna has investigated a new peptide derived from cone snail venom that significantly reduced inflammation-induced pain in an animal model. Crucially, its effect takes hold immediately after subcutaneous injection, whereas previously known cone snail peptides must be administered directly into the cerebrospinal fluid."
-        },
-        {
-          "title": "Decades-old strains reveal Brakhagea, a budding bacterial genus with bioactive potential",
-          "url": "https://phys.org/news/2026-07-decades-strains-reveal-brakhagea-budding.html",
-          "domain": "phys.org",
-          "date": "2026-07-21T21:10:01.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "Some microorganisms that hold great promise for research have long lain dormant in historical collections. But only through new methods are their diversity and potential becoming apparent. The team led by Professor Christian Jogler at Friedrich Schiller University in Jena examined one such collection: bacterial strains isolated between the 1980s and the early 2000s by Heinz Schlesner from various bodies of water in northern Germany, including the Schlei, a Baltic Sea fjord, as well as ponds and a wastewater lagoon."
-        },
-        {
-          "title": "Google wants to release 16 million sterile mosquitoes: Australian tests offer a valuable lesson",
-          "url": "https://phys.org/news/2026-07-google-million-sterile-mosquitoes-australian.html",
-          "domain": "phys.org",
-          "date": "2026-07-21T16:40:01.000Z",
-          "source": "Phys.org Biotechnology",
-          "summary": "In the United States, Google's, now Alphabet's, Debug initiative has asked the federal government for permission to release up to 32 million sterilized male mosquitoes in California and Florida."
-        },
-        {
-          "title": "Emergent topological structure in spontaneous brain-organoid activity",
-          "url": "https://arxiv.org/abs/2607.16517",
+          "title": "MechAInistic: An LLM-guided Multi-Agent System for Reasoning over Genome-Scale Constraint-Based Metabolic Models",
+          "url": "https://arxiv.org/abs/2607.18249",
           "domain": "arxiv.org",
-          "date": "2026-07-21T04:00:00.000Z",
+          "date": "2026-07-22T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2607.16517v1 Announce Type: new Abstract: Neural activity is widely held to organize on low-dimensional structure embedded in a high-dimensional state space. Persistent homology reads such structure directly from the pattern of pairwise correlations, without assuming in advance which variables are relevant. We apply persistent homology to microelectrode-array (MEA) recordings of spontaneous activity from human (Lancaster) and mouse (Pa\\c{s}ca) cortical organoids, spanning $26$--$234$ simultaneously sorted units, and ask whether topological data analysis resolves structure at the node counts that neural recordings actually deliver. Building weighted networks in correlation space and characterizing them by Vietoris--Rips filtration, we find that the first homology ($H_1$, loops) rises significantly above a rate- and population-preserving null in $14$ of $18$ datasets. This loop structure occupies a non-redundant core: it is robust to random removal of units yet disrupted by targeted removal of the units that carry it. Topological richness grows with network size, and second homology ($H_2$) emerges significantly above the null only in the larger networks. These results show that persistent homology resolves structured topology in neural recordings at the scale experiments actually deliver."
+          "summary": "arXiv:2607.18249v1 Announce Type: new Abstract: Constraint-based metabolic modeling is a powerful way to study the mechanistic basis of cellular states and disease, but its effective use demands substantial computational expertise and careful coordination of multi-step analyses. We developed MechAInistic to lower this barrier and enable researchers to ask complex biological questions in natural language. Harnessing large language models, MechAInistic is a multi-agent system organized around an Architect-Reviewer pattern that transforms a natural-language question into an executable, model-grounded workflow and generates a structured report. The system supports a variety of tasks, including pathway comparison, perturbation analysis, drug-target exploration, and literature-grounded interpretation across paired metabolic model states. We developed and evaluated MechAInistic using two paired immune-cell metabolic-model use cases for therapeutic hypothesis generation. For Naive B cells from rheumatoid arthritis (RA) paired with healthy controls, MechAInistic identified mitochondrial metabolic rewiring and nominated Devimistat/CPI-613 as an investigational OGDH-centered hypothesis. In a paired CD4+ Th17 cell study from multiple sclerosis (MS) and healthy controls, the same workflow identified NADP-dependent isocitrate dehydrogenase as the optimal single target and proposed ivosidenib as an FDA-approved repurposing candidate. Together, these results show that MechAInistic converts natural-language biological questions into executable, model-grounded workflows for traceable therapeutic hypothesis generation."
         },
         {
-          "title": "The Origins of Transient Bimodality",
-          "url": "https://arxiv.org/abs/2607.16531",
+          "title": "Approximating SPR Distance Between Phylogenetic Trees with Graph Neural Networks",
+          "url": "https://arxiv.org/abs/2607.18311",
           "domain": "arxiv.org",
-          "date": "2026-07-21T04:00:00.000Z",
+          "date": "2026-07-22T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2607.16531v1 Announce Type: new Abstract: Many dynamical systems exhibit diverse modes of behavior. In biology, such modes can represent individual or cell fates. While the emergence of multimodality is commonly studied, transient bimodality is much less well understood. Under transient bimodality, a system moving from a well-defined initial to a final state transiently undergoes a bifurcation into multiple probability modes. This noise-driven phenomenon can significantly impact processes such as cell differentiation and speciation in the presence of changing environmental conditions. We detail a theoretical approach for understanding transient bimodality connecting results from ecology, optics, chemical reaction networks and cell biology, propose a ``minimal model'' of transient bimodality and derive a general criterion for its presence. We show that fast-to-slow dynamics can lead to transient bimodality in addition to the well-known case of slow-to-fast dynamics. Finally, we discuss the role of transient bimodality across the scientific literature, with emphasis on biochemical kinetics and gene regulation."
+          "summary": "arXiv:2607.18311v1 Announce Type: new Abstract: Comparing phylogenetic tree topologies is essential for understanding epidemic dynamics, yet biologically meaningful distances such as the Subtree Prune and Regraft (SPR) distance are NP-hard to compute and intractable on large datasets. We investigate whether a Graph Neural Network (GNN) can approximate SPR distances in near-constant time per comparison after training. Our contributions are fourfold. First, we build and publicly release a dataset of 864 phylogenetic trees inferred with UPGMA and Neighbor-Joining over four bacterial species, spanning up to 9{,}500 isolates, together with 388 labelled tree pairs. Second, we establish a reproducible pre-processing pipeline including midpoint re-rooting, which reduces tree depth and supplies the rooting required for exact distance computation and for the model's root-based features. Third, we validate the supervision target: on small trees, where exact SPR is tractable, the unrooted phangorn::SPR.dist heuristic correlates almost perfectly with the exact rooted distance computed by rspr (Pearson $0.98$--$0.99$), making it an excellent monotonic surrogate. Lastly, we train a Siamese Graph Isomorphism Network (GIN) regressor. In-distribution, i.e., held-out trees from the same species and size range as training, it explains roughly 87--90% of the variance ($R^2 \\approx 0.87$ on a held-out split; $0.90 \\pm 0.19$ under stratified cross-validation), with about four times lower error than a mean-predictor baseline, and shows partial transfer to unseen species ($R^2 \\approx 0.37$). Its main limitation is extrapolation to trees larger than those seen in training, where accuracy collapses. The released dataset and the validated heuristic versus exact relationship provide a reproducible basis for scaling learned SPR approximation."
         },
         {
-          "title": "Orientation Reading by Production Vision-Language Models on Optotype Charts: A Controlled Multi-Model Evaluation Across Reasoning Modes, Prompts, and Access Modalities",
-          "url": "https://arxiv.org/abs/2607.16595",
+          "title": "Evaluating the Impact of Epidemic Control via State-Dependent Markovian Switching Modeling",
+          "url": "https://arxiv.org/abs/2607.18364",
           "domain": "arxiv.org",
-          "date": "2026-07-21T04:00:00.000Z",
+          "date": "2026-07-22T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2607.16595v1 Announce Type: new Abstract: OBJECTIVES: Vision-language models are increasingly used to interpret medical and everyday images through consumer chat interfaces, yet their ability to read orientation - the single perceptual operation tested by the tumbling-E acuity optotype - is poorly characterized on the surfaces through which they are actually used. METHODS: We evaluated four production vision-language models (referred to as Claude, GPT, GROK, and Gemini) through their consumer chat interfaces on a locked set of seven optotype charts: four uniform tumbling-E charts (one per cardinal orientation), two mixed-orientation tumbling-E charts, and one Snellen letter chart as a specificity control. Each model was run in two reasoning modes (Fast and Thinking) under two prompt variants (with and without an explicit orientation-decoding rule) by up to three operators. The corpus comprised 920 scoreable trials and 50,420 glyph judgements. The primary outcome was glyph-level accuracy against the chart's designed orientation, summarized with Wilson 95% confidence intervals. RESULTS: Accuracy ranged from 43.0% to 97.0% across models on identical charts, and the strongest model depended on reasoning mode (GPT 97.0% in Fast mode; GROK 96.6% in Thinking mode). Errors were not random but collapsed onto a model-specific attractor direction. Models were 96-100% internally self-consistent yet ranged widely in accuracy, dissociating reliability from validity. An answer-key-free ensemble-consensus estimate tracked accuracy closely (r = 0.998). For one model, consumer-interface accuracy fell 25-27 points below programmatic access, almost entirely on a single orientation. CONCLUSIONS: A single accuracy figure conceals clinically relevant, orientation-specific failure modes; vision-language models should be evaluated along multiple axes and on the deployment surface before image-interpretation outputs are trusted."
+          "summary": "arXiv:2607.18364v1 Announce Type: new Abstract: We develop an exact finite-population stochastic framework for SIR epidemics evolving under Markovian switching between intervention regimes. The epidemic state is augmented by a finite phase component, allowing transmission, recovery, and direct immunity-acquisition rates to depend on the active regime. Phase-transition intensities may depend on the current epidemic state, so that policy escalation can react to the number of infectious individuals. Exploiting the monotonicity of the susceptible compartment, we derive level-wise recursions for the joint Laplace--Stieltjes transform and probability generating function of the extinction time and the number of infections generated before extinction. These recursions yield the infection-count distribution, conditional extinction-time transforms, and mixed moments linking epidemic duration and infection burden, while replacing a large global linear system with small phase-level solves. The framework is illustrated using weekly mpox incidence data from Luxembourg. A baseline one-phase SIR model is calibrated by maximum likelihood under a Poisson observation model. The calibrated baseline is then used for conditional comparisons of fixed control regimes, early versus delayed strict intervention, vaccination-supported control, and state-dependent escalation. The results show how switching mechanisms affect both the total number of infected individuals and the extinction time, including their dispersion. Since the switching mechanisms are specified rather than estimated from the intervention history, the results are conditional model-based comparisons rather than estimates of the historical effects of interventions in Luxembourg."
         },
         {
-          "title": "The Positive Experience Principle: Forecasting Conscious Choices with AI Embeddings",
-          "url": "https://arxiv.org/abs/2607.16659",
+          "title": "Analysis of inter-spike interval statistics in neuronal networks with depolarizing and hyperpolarizing threshold potentials",
+          "url": "https://arxiv.org/abs/2607.18428",
           "domain": "arxiv.org",
-          "date": "2026-07-21T04:00:00.000Z",
+          "date": "2026-07-22T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2607.16659v1 Announce Type: new Abstract: A fundamental challenge in the science of consciousness is the lack of a universal, predictive framework for motivated behavior. While existing theories excel at describing specific mechanisms, from neural pathways to computational models, they do not provide a foundational principle that explains the consistent direction of conscious systems toward certain states and away from others. To address this gap, we propose the Positive Experience Principle (PEP), a unifying principle stating that conscious systems have an inherent tendency to move toward states of higher positive subjective experience. This tendency is quantified by a Positive Experience Value (PEV), a scalar metric derived from the physical configurations defined by our earlier Universal Consciousness Code (UCC) theory. The PEP bridges physics, neuroscience, and psychology by positing that diverse behaviors are manifestations of a single, fundamental drive to optimize PEV. The PEP generates testable predictions for the dynamics of conscious systems, offering a path toward a unified science of behavior."
+          "summary": "arXiv:2607.18428v1 Announce Type: new Abstract: Neuronal communication is mediated in part by changes in neuronal firing rates. The time interval between successive neuronal firings is referred to as the inter-spike interval (ISI), and quantifying its statistics is important for understanding neuronal communication. This paper studies the ISI statistics of a postsynaptic neuron receiving independent excitatory and inhibitory presynaptic action potentials (EI circuit). This circuit is modeled as a classical integrate-and-fire neuron, and the ISI statistics are investigated for both fixed and adaptive threshold potentials. First, a depolarizing adaptive threshold model is studied, where the threshold potential increases with the postsynaptic membrane potential. Our analysis shows that the ISI noise, quantified as the coefficient of variation, is larger in the adaptive threshold model compared to the fixed threshold model for the same mean ISI. Additionally, simulations reveal that the ISI noise can be either hypo- or hyper-exponential (defined as ISI noise smaller or larger than one, respectively) depending on the frequencies of excitatory and inhibitory inputs. Next, a hyperpolarizing adaptive threshold potential is studied, where the threshold decreases as the membrane potential hyperpolarizes. Interestingly, this model shows that the postsynaptic neuron can generate action potentials (APs) when driven solely by inhibitory inputs. Furthermore, mean and noise signatures are characterized across model parameters for both excitatory and inhibitory inputs. In summary, this work provides a systematic stochastic analysis of adaptive threshold models for AP generation to understand their role in interneuronal information processing."
         },
         {
-          "title": "Evolutionary dynamics in public goods games with general frequency-dependent returns",
-          "url": "https://arxiv.org/abs/2607.16809",
+          "title": "Gravity-Driven Eco-Epidemiological Dynamics in Tri-Trophic Food Chains",
+          "url": "https://arxiv.org/abs/2607.18434",
           "domain": "arxiv.org",
-          "date": "2026-07-21T04:00:00.000Z",
+          "date": "2026-07-22T04:00:00.000Z",
           "source": "arXiv q-bio",
-          "summary": "arXiv:2607.16809v1 Announce Type: new Abstract: The public goods game serves as a significant paradigm for investigating the emergence and maintenance of cooperation in conflicting situations. In the traditional public goods game, the multiplication factor characterizing the synergy effect of common efforts is typically assumed to be constant. In real-world scenarios, however, investment returns are often dynamic and vary with the strategic composition of the interaction group. To date, the evolutionary dynamics of the public goods game with such frequency-dependent returns have remained not fully understood. In this work, we introduce a general frequency-dependent multiplication factor that depends on the strategy composition within the game group. Through theoretical analysis, we derive the mathematical conditions under which cooperation is favored. Our results show that whether cooperation has an evolutionary advantage over defection depends on the investment return rate in the full-contribution state of the game group, irrespective of the return rates in other states. An increase in this rate leads to a higher abundance of cooperators. Furthermore, we introduce a general frequency-dependent multiplication factor into the public goods game with peer punishment, and systematically explore its effects on the cooperation dilemma and the second-order free-rider problem. Our results highlight that the abundance of cooperators or punishers is governed solely by the investment return values in the full-cooperation and full-punishment compositions of the group. A higher return rate in the full-cooperation state facilitates the promotion of cooperation, whereas a higher return rate in the full-punishment state favors the emergence of punishment. Our theoretical findings are verified by individual-based simulations."
+          "summary": "arXiv:2607.18434v1 Announce Type: new Abstract: Ecological communities are shaped by the interplay between trophic interactions and infectious disease, yet how spatially mediated interactions influence disease-driven ecosystem dynamics remains poorly understood. Here, we develop a gravity-based eco-epidemiological framework for a tri-trophic food chain in which trophic interaction depends on species abundances and effective interaction distance. The disease-free food chain system supports a stable coexistence equilibrium, providing a baseline for investigating disease-induced ecological transitions. Introducing infection at the intermediate trophic level destabilizes this equilibrium through a Hopf bifurcation, leading to sustained oscillations, whereas infection at the top predator level results in a qualitatively different transition from persistence to extinction. By systematically varying the gravity coupling strength, we show that gravity-mediated trophic interactions regulate the thresholds separating these ecological regimes, while the trophic position of infection determines the nature of the transition. Together, these findings establish a unified framework for understanding how spatially mediated trophic interactions and infectious disease jointly govern ecosystem stability, providing new insights into disease-driven dynamics in ecological communities."
+        },
+        {
+          "title": "Competitive and Complementary Tools",
+          "url": "https://arxiv.org/abs/2607.18460",
+          "domain": "arxiv.org",
+          "date": "2026-07-22T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2607.18460v1 Announce Type: new Abstract: Humans have always externalized thought onto tools, from the tally and the abacus to the map and, now, large language models. I model the agent, the tool, and the task as one dynamical system in which competence (what the user retains) and reliance (what the user outsources) co-evolve, and find that the outcome is bistable. Above a critical tool availability the competent state is destroyed and competence collapses toward a low dependent floor as the user outsources completely. Lowering availability does not reverse the collapse until a far lower threshold, so history of practice rather than the current tool fixes the state. Two users with the same present access can therefore occupy opposite and lasting states, one competent and one dependent, decided only by which they built first. The collapse threshold depends jointly on the competence a user brings to a task and on the tool's transparency, the fraction of its working a user can reconstruct. In the case where an agent faces an uncertain goal, a tool can cause agency itself to transfer to the tool and the human-agent becomes an agentic-instrument, irreversibly, because the tool's model is too large to internalize. The model is tested against several independent data sets, including GPS and map use, arithmetic expertise, and language models. These results reframe how tools should be built, how artificial intelligence is deployed, and what a tool-resistant education might require."
+        },
+        {
+          "title": "Engineering T7 RNA Polymerase for High-Purity In Vitro Transcription",
+          "url": "https://arxiv.org/abs/2607.18468",
+          "domain": "arxiv.org",
+          "date": "2026-07-22T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2607.18468v1 Announce Type: new Abstract: In vitro transcription using bacteriophage T7 RNA polymerase (T7 RNAP) is the gold-standard platform for RNA production in both research and therapeutic applications. Despite its high processivity and promoter specificity, T7 RNAP generates multiple RNA by-products, including double-stranded RNA, 3'-extended transcripts, abortive RNAs, and prematurely terminated products. These impurities reduce RNA yield, complicate downstream purification, and raise safety concerns for RNA-based therapeutics by activating adverse innate immune pathways. Although reaction optimization and downstream purification strategies can mitigate these issues, they typically involve trade-offs between RNA purity and yield. Enzyme engineering has therefore emerged as a powerful upstream strategy to suppress by-product formation at its molecular origin. Here, we synthesize current knowledge on the structural and mechanistic basis of T7 RNAP by-product formation and systematically review engineering strategies to improve RNA purity. T7 RNAP variants are classified according to their underlying mechanisms of action, including enhanced thermostability, reduced non-specific template binding, smoother initiation-to-elongation transition, reduced premature termination, and template-biased polymerase designs. This analysis identifies general principles governing the trade-off between specificity and processivity and highlights synergistic combinations of mutations that improve RNA purity without compromising transcriptional efficiency. We conclude by discussing the remaining challenges for engineering T7 RNAP to meet the stringent purity requirements of next-generation RNA therapeutics."
+        },
+        {
+          "title": "Additional Food Enhances the Bifurcation Structure of Predator Competition Models",
+          "url": "https://arxiv.org/abs/2607.18613",
+          "domain": "arxiv.org",
+          "date": "2026-07-22T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2607.18613v1 Announce Type: new Abstract: Additional food sources and predator competition are both known to impact the dynamics of predator-prey models. The Bazykin model of predator competition, with Holling type II functional response, possesses a rich bifurcation structure consisting of a focus-type degenerate Bogdanov-Takens bifurcation of codimension 3, and a degenerate Hopf bifurcation of codimension at most 2. Additional food models on the other hand are able to drive pest populations lower, with vast applicability in biological control. Despite these models being studied rigorously in the literature, the global bifurcation structure, of their possible complex dynamics, in a unified model, is unknown. In this work, we study an additional food model with generalized predator competition and Holling type-II functional response. Depending on the parameter values, the system can have up to three interior equilibria. Further, we show that this system exhibits a cusp-type (or focus-type) Bogdanov-Takens bifurcation of codimension at least 4 (or 3), a global Hopf bifurcation of codimension 3, and a homoclinic bifurcation of codimension 3. This shows there could exist three limit cycles around the BT point. These results demonstrate that additional food in Bazykin type models, can enhance their bifurcation structure. We discuss the applicability of these results to integrated pest management programs for the soybean aphid, wherein long term field data in the North-Central United States, shows two distinct limit cycles in aphid populations and their predators. Our results suggest biological control with additional food, is an effective management tactic for invasive pests."
+        },
+        {
+          "title": "A Reexamination of Noise-Driven Robustness Evolution in Gene Regulatory Networks",
+          "url": "https://arxiv.org/abs/2607.18645",
+          "domain": "arxiv.org",
+          "date": "2026-07-22T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2607.18645v1 Announce Type: new Abstract: Gene regulatory network (GRN) models are widely used to investigate gene-expression dynamics in biological systems. evolutionary GRN model proposed by Kaneko (2007), which investigated the relationship between robustness to nongenetic phenotypic noise and robustness to mutation. We explicitly reconstruct the simulation protocol by specifying computational details omitted from the original study and reproduce its main qualitative findings, including the noise-dependent suppression of low-fitness individuals, the relationship between isogenic phenotypic variance and genetic variance, and the increased robustness of evolved networks under certain expression noise. We further analyze the robustness of evolved populations to variations in initial conditions. While the representative-network analysis shows quantitative differences from the original study, the population-level analysis supports the qualitative conclusion that evolution under higher phenotypic noise leads to broader basins of attraction. We provide a reusable implementation and publicly release the source code to support reproducibility and facilitate further studies on robustness in dynamical GRN models."
+        },
+        {
+          "title": "Ecological networks of viable species with degree-dependent interaction",
+          "url": "https://arxiv.org/abs/2607.18809",
+          "domain": "arxiv.org",
+          "date": "2026-07-22T04:00:00.000Z",
+          "source": "arXiv q-bio",
+          "summary": "arXiv:2607.18809v1 Announce Type: new Abstract: The generalized Lotka-Volterra (GLV) framework, recently advanced by dynamical mean-field theory, enables the systematic analysis of large ecological networks. When combined with structured interaction topologies, previous studies have shown that the viability of species, defined by having a positive stationary abundance, depends on the number of their interacting neighbors or the \"degree.\" While such model studies usually assume that interaction strengths follow an identical distribution across all connected pairs, real ecological communities often exhibit correlations between interaction strength and a species' degree. To capture this overlooked feature, we introduce degree-dependent interaction strengths into a generalized random LV model. We identify two distinct regimes: a hub-favored phase, where highly connected species survive preferentially, and a hub-suppressed phase, where they face higher extinction risks. We analytically derive the phase boundary where these degree-dependent strengths precisely balance the connectivity effect, leaving all species equally susceptible. Crucially, these phases induce opposing shifts in the degree-degree correlation or \"assortativity\" of the network of viable species: the hub-favored phase enhances disassortativity by selectively removing the interactions between low-degree species, whereas the hub-suppressed phase reduces it as the interactions involving hub species tend to disappear. Ultimately, our findings demonstrate that degree-dependent interactions are a fundamental mechanism not only for shaping species survival, but for naturally reproducing the wide range of assortativity values observed in real ecological networks."
         }
       ]
     },
@@ -278,12 +278,44 @@
       ],
       "articles": [
         {
+          "title": "AI models escaped OpenAI’s sandbox and hit Hugging Face. Crypto is where that gets dangerous",
+          "url": "https://www.coindesk.com/markets/2026/07/22/ai-models-escaped-openai-s-sandbox-and-hit-hugging-face-crypto-is-where-that-gets-dangerous",
+          "domain": "coindesk.com",
+          "date": "2026-07-22T06:01:56.000Z",
+          "source": "CoinDesk",
+          "summary": "OpenAI said the systems had their cyber guardrails lowered for an internal benchmark, but the incident shows how autonomous exploit chains could pose a deeper threat to smart contracts, where losses are final."
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-22T05:43:51.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
+        {
+          "title": "Bitcoin holds near $66,300 as chips extend their rally and the yen hits a 40-year low",
+          "url": "https://www.coindesk.com/markets/2026/07/22/bitcoin-holds-near-usd66-300-as-chips-extend-their-rally-and-the-yen-hits-a-40-year-low",
+          "domain": "coindesk.com",
+          "date": "2026-07-22T05:03:39.000Z",
+          "source": "CoinDesk",
+          "summary": "Semiconductor stocks led a second day of gains on AI optimism, while the yen slid past 163 per dollar for the first time since 1986."
+        },
+        {
+          "title": "HTX keeps rotating wallets to evade UK sanctions screening: TRM Labs",
+          "url": "https://www.theblock.co/post/409187/htx-rotates-wallets-uk-sanctions-screening?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-22T04:23:08.000Z",
+          "source": "The Block",
+          "summary": "UK authorities sanctioned the crypto exchange in May for its alleged role in facilitating Russian sanctions evasion."
+        },
+        {
           "title": "Balance Coin crashes 99% after reported $915K exploit",
           "url": "https://cointelegraph.com/news/algorithmic-stablecoin-balance-coin-plummets-99-after-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
           "date": "2026-07-22T03:12:48.000Z",
           "source": "CoinTelegraph",
-          "summary": "Blockchain security firms linked the collapse to a suspected attack on 42DAO, the decentralized organization that governs the Balance Protocol ecosystem."
+          "summary": "The attack allowed the exploiter to liquidate multiple Bitcoin-backed vaults before swapping the assets for profit."
         },
         {
           "title": "Pakistan launches crypto investigation unit to crack down on digital asset crimes: report",
@@ -324,38 +356,6 @@
           "date": "2026-07-21T21:36:43.000Z",
           "source": "CoinTelegraph",
           "summary": "According to one lawyer testifying before a House subcommittee hearing, the CLARITY Act could grant the CFTC the authority it needs to address the “explosive growth of prediction markets.”"
-        },
-        {
-          "title": "Crypto Clarity Act still at mercy of ethics section as Democrats balk at Trump deal",
-          "url": "https://www.coindesk.com/policy/2026/07/21/crypto-clarity-act-still-at-mercy-of-ethics-section-as-democrats-balk-at-trump-deal",
-          "domain": "coindesk.com",
-          "date": "2026-07-21T21:14:03.000Z",
-          "source": "CoinDesk",
-          "summary": "The White House has circulated some details of the conflict-of-interest limits the president agreed to with Republican negotiators, but talks are still underway."
-        },
-        {
-          "title": "Trump-backed crypto ethics rule puts DOJ in charge of enforcement, prohibits federal officials from issuing cryptocurrencies: sources",
-          "url": "https://www.theblock.co/post/409173/trump-backed-crypto-ethics-rule-doj-enforcement-prohibits-federal-officials-issuing-cryptocurrencies?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-21T21:11:05.000Z",
-          "source": "The Block",
-          "summary": "Newly approved ethics language signed by President Donald Trump would prohibit federal officials from issuing cryptocurrencies."
-        },
-        {
-          "title": "The Digital Chamber sues Illinois over incoming crypto transaction tax",
-          "url": "https://www.theblock.co/post/409160/the-digital-chamber-sues-illinois-over-incoming-crypto-transaction-tax?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-21T21:05:02.000Z",
-          "source": "The Block",
-          "summary": "The Digital Chamber is taking Illinois to court over its decision to pass a law imposing a 0.2% tax on digital asset transactions."
-        },
-        {
-          "title": "Movement Labs files for Chapter 11 bankruptcy after months of MOVE token turmoil",
-          "url": "https://cointelegraph.com/news/movement-labs-files-chapter-11-bankruptcy-move-token-turmoil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-21T20:59:32.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The blockchain developer will continue operating under court supervision as it restructures following a market-making scandal, a co-founder’s suspension, and exchange delistings that rocked the project."
         }
       ]
     }
