@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-22T15:10:43.477Z",
+  "updatedAt": "2026-07-22T16:48:40.356Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -103,7 +103,7 @@
           "domain": "lifespan.io",
           "date": "2026-07-21T15:54:54.000Z",
           "source": "Lifespan.io",
-          "summary": "A new study suggests that regular planned exercise, not just being generally active, protects against certain aspects of muscle aging [1]. Are trained muscles younger? With age, skeletal muscles lose strength, metabolic flexibility, and mitochondrial capacity. While regular […]"
+          "summary": "A new study suggests that regular planned exercise, not just being generally active, protects against certain aspects of muscle aging [1]. Are trained muscles younger? With age, skeletal muscles lose strength, metabolic flexibility, and mitochondrial capacity. […]"
         },
         {
           "title": "Gabriel Cian on Building the 2060 Longevity Ecosystem",
@@ -111,7 +111,7 @@
           "domain": "lifespan.io",
           "date": "2026-07-21T15:50:44.000Z",
           "source": "Lifespan.io",
-          "summary": "In this follow-up interview, we speak with Gabriel Cian about how the 2060 ecosystem has evolved since last year’s Forum, what he […]"
+          "summary": "In this follow-up interview, we speak with Gabriel Cian about how the 2060 ecosystem has evolved since last year’s Forum, what he learned from the […]"
         },
         {
           "title": "Exosomes From Stem Cells Fight Liver Disease in Mice",
@@ -127,7 +127,7 @@
           "domain": "lifespan.io",
           "date": "2026-07-17T16:52:17.000Z",
           "source": "Lifespan.io",
-          "summary": "Scientists have engineered an enzyme that removes an advanced glycation end product (AGE) from proteins. This type of age-related modification, which affects protein function […]"
+          "summary": "Scientists have engineered an enzyme that removes an advanced glycation end product (AGE) from proteins. This type of age-related modification, which affects protein function and can trigger inflammation, has previously been considered extremely […]"
         },
         {
           "title": "Activating a Key Receptor Fights Thymic Involution in Mice",
@@ -135,7 +135,7 @@
           "domain": "lifespan.io",
           "date": "2026-07-16T20:43:18.000Z",
           "source": "Lifespan.io",
-          "summary": "Publishing in Aging Cell, researchers have devised a way to delay the aging of the thymus by targeting GPR40, a key receptor in its epithelial cells. The organ that involutes The thymus trains […]"
+          "summary": "Publishing in Aging Cell, researchers have devised a way to delay the aging of the thymus by targeting GPR40, a key receptor in its epithelial cells. The organ […]"
         },
         {
           "title": "Forever Healthy Launches Evipedia AI Integration",
@@ -143,7 +143,7 @@
           "domain": "lifespan.io",
           "date": "2026-07-15T17:08:51.000Z",
           "source": "Lifespan.io",
-          "summary": "Today, Forever Healthy announces the launch of a set of new tools to make it easier than ever for AI agents, […]"
+          "summary": "Today, Forever Healthy announces the launch of a set of new tools to make it easier than ever for AI agents, research pipelines, and AI environments to integrate Evipedia. Evipedia is Forever Healthy’s comprehensive, continuously updated online encyclopedia […]"
         },
         {
           "title": "Peripheral Inflammation May Drive Parkinson’s",
@@ -151,7 +151,7 @@
           "domain": "lifespan.io",
           "date": "2026-07-14T13:50:42.000Z",
           "source": "Lifespan.io",
-          "summary": "A new study suggests that aging or Parkinson’s-triggering mutations create inflammation in peripheral tissues, and then circulating extracellular vesicles spread […]"
+          "summary": "A new study suggests that aging or Parkinson’s-triggering mutations create inflammation in peripheral tissues, and then circulating extracellular vesicles spread it to the […]"
         },
         {
           "title": "Combining Senolytics and Stem Cells Shows Promise in Mice",
@@ -159,7 +159,7 @@
           "domain": "lifespan.io",
           "date": "2026-07-10T16:34:16.000Z",
           "source": "Lifespan.io",
-          "summary": "A new study associated with Immorta Bio suggests that combining a senolytic vaccine with mesenchymal stem cells might create a synergistic […]"
+          "summary": "A new study associated with Immorta Bio suggests that combining a senolytic vaccine with mesenchymal stem cells might create a synergistic impact. However, the findings rest on acute, […]"
         },
         {
           "title": "An Experimental Proposal for Blocking Ambient Radiation",
@@ -175,7 +175,7 @@
           "domain": "lifespan.io",
           "date": "2026-07-08T16:36:59.000Z",
           "source": "Lifespan.io",
-          "summary": "In a recently published perspective paper, the author argues that the UK’s official health guidelines on physical activity and protein intake should be revised to recommend levels necessary to achieve optimal health, rather than the bare minimum […]"
+          "summary": "In a recently published perspective paper, the author argues that the UK’s official health guidelines on physical activity and protein intake should be revised to recommend levels necessary to achieve optimal health, rather […]"
         }
       ]
     },
@@ -187,6 +187,30 @@
         "https://phys.org/rss-feed/biology-news/biotechnology/"
       ],
       "articles": [
+        {
+          "title": "Engineered enzyme erases a stubborn mark of aging by up to 70% in human tissue samples",
+          "url": "https://phys.org/news/2026-07-enzyme-erases-stubborn-aging-human.html",
+          "domain": "phys.org",
+          "date": "2026-07-22T16:40:07.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "A biotech company called Revel Pharmaceuticals is looking into ways to reverse aging, and the company's science team, along with researchers from the company Calico and the University of Colorado, may be a step closer to realizing the so-called fountain of youth. The team recently published their study in Nature Communications detailing how they engineered an enzyme capable of reversing a particular form of age-related damage and demonstrated its competence with test results."
+        },
+        {
+          "title": "Researchers develop new AI system for highly accurate mapping and modeling of orchards",
+          "url": "https://phys.org/news/2026-07-ai-highly-accurate-orchards.html",
+          "domain": "phys.org",
+          "date": "2026-07-22T16:40:04.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "In precision agriculture, where data is used to automate and optimize agricultural tasks for maximum yield, large-scale mapping and digital modeling of the land of interest are essential. This digital backbone enables tasks such as yield estimation, targeted spraying and phenotyping while also providing the foundation for autonomous navigation, perception and robotic operation. However, in modern commercial orchards, with their large scale, high tree density and structured layouts, achieving consistent mapping and accurate 3D modeling remains challenging."
+        },
+        {
+          "title": "Ordinary moss generates surprisingly complex electrical activity",
+          "url": "https://phys.org/news/2026-07-ordinary-moss-generates-complex-electrical.html",
+          "domain": "phys.org",
+          "date": "2026-07-22T15:40:03.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Moss may well be something that most of us barely give a second thought, but there is far more to this small nonvascular plant than meets the eye. A new study published in the journal Royal Society Open Science reports that it displays a surprising amount of electrical activity."
+        },
         {
           "title": "Green LED light could help keep leafy greens fresher longer, study suggests",
           "url": "https://phys.org/news/2026-07-green-leafy-greens-fresher-longer.html",
@@ -242,30 +266,6 @@
           "date": "2026-07-22T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2607.18428v1 Announce Type: new Abstract: Neuronal communication is mediated in part by changes in neuronal firing rates. The time interval between successive neuronal firings is referred to as the inter-spike interval (ISI), and quantifying its statistics is important for understanding neuronal communication. This paper studies the ISI statistics of a postsynaptic neuron receiving independent excitatory and inhibitory presynaptic action potentials (EI circuit). This circuit is modeled as a classical integrate-and-fire neuron, and the ISI statistics are investigated for both fixed and adaptive threshold potentials. First, a depolarizing adaptive threshold model is studied, where the threshold potential increases with the postsynaptic membrane potential. Our analysis shows that the ISI noise, quantified as the coefficient of variation, is larger in the adaptive threshold model compared to the fixed threshold model for the same mean ISI. Additionally, simulations reveal that the ISI noise can be either hypo- or hyper-exponential (defined as ISI noise smaller or larger than one, respectively) depending on the frequencies of excitatory and inhibitory inputs. Next, a hyperpolarizing adaptive threshold potential is studied, where the threshold decreases as the membrane potential hyperpolarizes. Interestingly, this model shows that the postsynaptic neuron can generate action potentials (APs) when driven solely by inhibitory inputs. Furthermore, mean and noise signatures are characterized across model parameters for both excitatory and inhibitory inputs. In summary, this work provides a systematic stochastic analysis of adaptive threshold models for AP generation to understand their role in interneuronal information processing."
-        },
-        {
-          "title": "Gravity-Driven Eco-Epidemiological Dynamics in Tri-Trophic Food Chains",
-          "url": "https://arxiv.org/abs/2607.18434",
-          "domain": "arxiv.org",
-          "date": "2026-07-22T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2607.18434v1 Announce Type: new Abstract: Ecological communities are shaped by the interplay between trophic interactions and infectious disease, yet how spatially mediated interactions influence disease-driven ecosystem dynamics remains poorly understood. Here, we develop a gravity-based eco-epidemiological framework for a tri-trophic food chain in which trophic interaction depends on species abundances and effective interaction distance. The disease-free food chain system supports a stable coexistence equilibrium, providing a baseline for investigating disease-induced ecological transitions. Introducing infection at the intermediate trophic level destabilizes this equilibrium through a Hopf bifurcation, leading to sustained oscillations, whereas infection at the top predator level results in a qualitatively different transition from persistence to extinction. By systematically varying the gravity coupling strength, we show that gravity-mediated trophic interactions regulate the thresholds separating these ecological regimes, while the trophic position of infection determines the nature of the transition. Together, these findings establish a unified framework for understanding how spatially mediated trophic interactions and infectious disease jointly govern ecosystem stability, providing new insights into disease-driven dynamics in ecological communities."
-        },
-        {
-          "title": "Competitive and Complementary Tools",
-          "url": "https://arxiv.org/abs/2607.18460",
-          "domain": "arxiv.org",
-          "date": "2026-07-22T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2607.18460v1 Announce Type: new Abstract: Humans have always externalized thought onto tools, from the tally and the abacus to the map and, now, large language models. I model the agent, the tool, and the task as one dynamical system in which competence (what the user retains) and reliance (what the user outsources) co-evolve, and find that the outcome is bistable. Above a critical tool availability the competent state is destroyed and competence collapses toward a low dependent floor as the user outsources completely. Lowering availability does not reverse the collapse until a far lower threshold, so history of practice rather than the current tool fixes the state. Two users with the same present access can therefore occupy opposite and lasting states, one competent and one dependent, decided only by which they built first. The collapse threshold depends jointly on the competence a user brings to a task and on the tool's transparency, the fraction of its working a user can reconstruct. In the case where an agent faces an uncertain goal, a tool can cause agency itself to transfer to the tool and the human-agent becomes an agentic-instrument, irreversibly, because the tool's model is too large to internalize. The model is tested against several independent data sets, including GPS and map use, arithmetic expertise, and language models. These results reframe how tools should be built, how artificial intelligence is deployed, and what a tool-resistant education might require."
-        },
-        {
-          "title": "Engineering T7 RNA Polymerase for High-Purity In Vitro Transcription",
-          "url": "https://arxiv.org/abs/2607.18468",
-          "domain": "arxiv.org",
-          "date": "2026-07-22T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2607.18468v1 Announce Type: new Abstract: In vitro transcription using bacteriophage T7 RNA polymerase (T7 RNAP) is the gold-standard platform for RNA production in both research and therapeutic applications. Despite its high processivity and promoter specificity, T7 RNAP generates multiple RNA by-products, including double-stranded RNA, 3'-extended transcripts, abortive RNAs, and prematurely terminated products. These impurities reduce RNA yield, complicate downstream purification, and raise safety concerns for RNA-based therapeutics by activating adverse innate immune pathways. Although reaction optimization and downstream purification strategies can mitigate these issues, they typically involve trade-offs between RNA purity and yield. Enzyme engineering has therefore emerged as a powerful upstream strategy to suppress by-product formation at its molecular origin. Here, we synthesize current knowledge on the structural and mechanistic basis of T7 RNAP by-product formation and systematically review engineering strategies to improve RNA purity. T7 RNAP variants are classified according to their underlying mechanisms of action, including enhanced thermostability, reduced non-specific template binding, smoother initiation-to-elongation transition, reduced premature termination, and template-biased polymerase designs. This analysis identifies general principles governing the trade-off between specificity and processivity and highlights synergistic combinations of mutations that improve RNA purity without compromising transcriptional efficiency. We conclude by discussing the remaining challenges for engineering T7 RNAP to meet the stringent purity requirements of next-generation RNA therapeutics."
         }
       ]
     },
@@ -278,84 +278,84 @@
       ],
       "articles": [
         {
-          "title": "Benchmark lowers Coinbase earnings estimates but says Clarity Act could eclipse weak second quarter",
-          "url": "https://www.theblock.co/post/409390/benchmark-lowers-coinbase-earnings-estimates-clarity-act-eclipse-weak-quarter?utm_source=rss&utm_medium=rss",
+          "title": "Senate releases latest version of Clarity Act including software developer protections and ethics provision with ‘sunset’ date in 2029",
+          "url": "https://www.theblock.co/post/409442/senate-releases-latest-clarity-act-software-developer-protections-ethics-provision-sunset-date-2029?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-07-22T15:03:42.000Z",
+          "date": "2026-07-22T16:46:22.000Z",
           "source": "The Block",
-          "summary": "Coinbase trading activity stabilized in June after crypto spot volumes slumped throughout most of the quarter."
+          "summary": "After months of deliberations, Republicans released the latest text for broader cryptocurrency legislation."
         },
         {
-          "title": "Polymarket ‘surprised’ France blocked site as information source, plans legal challenge",
-          "url": "https://www.theblock.co/post/409395/polymarket-surprised-france-blocked-site-information-source-plans-legal-challenge?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-22T14:59:00.000Z",
-          "source": "The Block",
-          "summary": "Last week, the ANJ ordered French internet service providers to block access to Polymarket ahead of the World Cup final."
+          "title": "Digital Chamber sues Illinois officials over new state 0.2% crypto tax",
+          "url": "https://cointelegraph.com/news/digital-chamber-lawsuit-illinois-crypto-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-22T16:28:10.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The group alleged that the tax signed into law in June “discriminates against people who transact in digital assets“ and should be blocked from implementation and enforcement."
         },
         {
-          "title": "‘Optimistic signals’ meet a $68,000 wall as bitcoin’s recovery faces its next test: analysts",
-          "url": "https://www.theblock.co/post/409398/optimistic-signals-meet-68000-wall-bitcoin-recovery-faces-next-test-analysts?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-22T14:55:18.000Z",
-          "source": "The Block",
-          "summary": "Bitcoin holds above $65,800 as spot ETFs log a sixth day of inflows. Bitfinex analysts flag $68K resistance as the next test."
-        },
-        {
-          "title": "Tokenized equity perps drive RWA trading boom to $470 billion monthly volume",
-          "url": "https://www.theblock.co/post/408961/tokenized-equity-perps-drive-rwa-trading-boom-to-470-billion-monthly-volume?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-22T14:08:01.000Z",
-          "source": "The Block",
-          "summary": "Within the broader RWA category, tokenized equities have been the more popular asset class to trade over tokenized commodities."
-        },
-        {
-          "title": "U.S. seeks forfeiture of $25 million in crypto tied to romance and investment scams",
-          "url": "https://www.coindesk.com/policy/2026/07/22/u-s-seeks-forfeiture-of-usd25-million-in-crypto-tied-to-romance-and-investment-scams",
+          "title": "New Clarity Act emerges that's a start on the final draft, makes ethics rule temporary",
+          "url": "https://www.coindesk.com/policy/2026/07/22/new-clarity-act-emerges-that-s-a-start-on-the-final-draft-makes-ethics-rule-temporary",
           "domain": "coindesk.com",
-          "date": "2026-07-22T13:45:58.000Z",
+          "date": "2026-07-22T16:15:55.000Z",
           "source": "CoinDesk",
-          "summary": "The cases add to more than $800 million that authorities say a dedicated federal scam task force has recovered."
+          "summary": "Lawmakers have circulated text of the latest draft that will be pushed toward a Senate finish line, but they're still debating a core government-ethics piece."
         },
         {
-          "title": "Forget Nvidia: The next big AI trade could be crypto and blockchain",
-          "url": "https://www.coindesk.com/markets/2026/07/21/forget-nvidia-the-next-big-ai-trade-could-be-crypto-and-blockchain",
-          "domain": "coindesk.com",
-          "date": "2026-07-22T13:32:40.000Z",
-          "source": "CoinDesk",
-          "summary": "Franklin Templeton’s Sandy Kaul and Circle CEO Jeremy Allaire argue that as autonomous AI agents start spending money on their own, blockchain networks will power the next big AI trade."
-        },
-        {
-          "title": "The digital euro: Surveillance money, or a better alternative to cash?",
-          "url": "https://cointelegraph.com/magazine/what-is-the-digital-euro-all-you-need-to-know-about-europes-cbdc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "BitGo, OTC Markets plan tokenized securities access for broker-dealers",
+          "url": "https://cointelegraph.com/news/bitgo-otc-markets-tokenized-securities-broker-dealers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-07-22T13:30:00.000Z",
+          "date": "2026-07-22T16:10:22.000Z",
           "source": "CoinTelegraph",
-          "summary": "Proponents of the digital euro say its a better alternative to cash that’s fully backed by the ECB. But critics argue it could provide the EU with too much power over its citizens."
+          "summary": "The proposed alliance would enable more than 150 broker-dealers to trade and settle digital asset securities through OTC Link ATS using BitGo’s custody infrastructure."
         },
         {
-          "title": "Franklin Templeton calls agentic AI next ‘killer’ use case for blockchain",
-          "url": "https://cointelegraph.com/news/agentic-ai-killer-use-case-blockchain-franklin-templeton?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-22T13:18:50.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Franklin Templeton’s digital assets lead said that the autonomous AI agent economy will increase demand for blockchain protocols hosting machine-to-machine micropayments."
-        },
-        {
-          "title": "Here’s what happened in crypto today",
-          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-22T12:54:29.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-        },
-        {
-          "title": "Zilliqa halts native transactions over bug in its Ledger app dating to 2019",
-          "url": "https://www.theblock.co/post/409383/zilliqa-halts-native-transactions-over-bug-in-its-ledger-app-dating-to-2019?utm_source=rss&utm_medium=rss",
+          "title": "Crypto directly employs 34,000 in the US and contributes $55 billion to the economy: NCA report",
+          "url": "https://www.theblock.co/post/409417/crypto-directly-employs-34000-in-the-us-and-contributes-55-billion-to-the-economy-nca-report?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-07-22T12:39:11.000Z",
+          "date": "2026-07-22T16:00:00.000Z",
           "source": "The Block",
-          "summary": "Zilliqa halted native transactions after revealing a bug in its Ledger app dating to 2019 that exposed private keys via onchain signatures."
+          "summary": "Crypto directly employs 34,000 in the U.S. and contributes $55 billion to the economy in 2026, according to an NCA-funded report."
+        },
+        {
+          "title": "Bitcoin price avoids major Iran jitters as S&P 500 ‘short squeeze’ on horizon",
+          "url": "https://cointelegraph.com/markets/bitcoin-price-avoids-major-iran-jitters-as-sp-500-short-squeeze-on-horizon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-22T15:55:20.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bitcoin and US stocks stayed strong in the face of US-Iran escalation as analysis predicted BTC price action outperforming equities later."
+        },
+        {
+          "title": "Revolut hits $115 billion valuation in employee share sale: WSJ",
+          "url": "https://www.coindesk.com/business/2026/07/22/revolut-hits-usd115-billion-valuation-in-employee-share-sale-wsj",
+          "domain": "coindesk.com",
+          "date": "2026-07-22T15:53:54.000Z",
+          "source": "CoinDesk",
+          "summary": "The company reported strong 2025 performance, with a $2.3 billion pre-tax profit, $6 billion in revenue, and over 75 million customers."
+        },
+        {
+          "title": "Crypto ‘wrench attacks’ persist as total climbs to 52 and value targeted jumps more than tenfold, CertiK says",
+          "url": "https://www.theblock.co/post/409418/crypto-wrench-attacks-persist-total-climbs-52-value-targeted-jumps-tenfold-certik?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-22T15:48:35.000Z",
+          "source": "The Block",
+          "summary": "CertiK recommends limiting public information that connects a person’s identity, location or routine to their crypto holdings."
+        },
+        {
+          "title": "SEC's Peirce warns some DeFi vaults, onchain lending may fall under securities laws",
+          "url": "https://www.coindesk.com/policy/2026/07/22/sec-s-peirce-warns-some-defi-vaults-onchain-lending-may-fall-under-securities-laws",
+          "domain": "coindesk.com",
+          "date": "2026-07-22T15:37:36.000Z",
+          "source": "CoinDesk",
+          "summary": "The commissioner said onchain vaults and lending strategies could resemble investment funds or advisers, depending on how they are structured."
+        },
+        {
+          "title": "UK digital bond plans hinge on one missing piece: onchain cash",
+          "url": "https://www.coindesk.com/business/2026/07/22/uk-digital-bond-plans-hinge-on-one-missing-piece-onchain-cash",
+          "domain": "coindesk.com",
+          "date": "2026-07-22T15:36:49.000Z",
+          "source": "CoinDesk",
+          "summary": "Experts say Britain's digital gilt pilot can unlock trapped liquidity in financial markets only if regulators approve an onchain stablecoin."
         }
       ]
     }
