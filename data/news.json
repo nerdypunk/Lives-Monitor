@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-22T23:16:34.306Z",
+  "updatedAt": "2026-07-23T01:03:25.694Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -98,12 +98,36 @@
       ],
       "articles": [
         {
+          "title": "Regulatory blind spots in the longevity economy",
+          "url": "https://longevity.technology/news/regulatory-blind-spots-in-the-longevity-economy/",
+          "domain": "longevity.technology",
+          "date": "2026-07-22T18:24:19.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Wellthspan Advisory’s Nadine Esposito explains why resilient longevity companies will outlast fast‑growth ones. The longevity sector is expanding at remarkable speed. Depending on where you draw the boundaries, the broader longevity market – diagnostics, digital health, prevention, and age‑related services – was already worth tens of billions of dollars in 2020 and is on track […] The post Regulatory blind spots in the longevity economy appeared first on Longevity.Technology ."
+        },
+        {
           "title": "The Progress and Future of Biological Aging Clocks",
           "url": "https://lifespan.io/the-progress-and-future-of-biological-aging-clocks/",
           "domain": "lifespan.io",
           "date": "2026-07-22T16:52:22.000Z",
           "source": "Lifespan.io",
           "summary": "A recent review discusses the development of biological aging clocks, their capabilities and limitations, the discoveries they enabled, and possible future developments in […]"
+        },
+        {
+          "title": "Nova Capital commits $100m to back UAE longevity platform",
+          "url": "https://longevity.technology/news/nova-capital-commits-100m-to-back-uae-longevity-platform/",
+          "domain": "longevity.technology",
+          "date": "2026-07-22T16:42:14.000Z",
+          "source": "Longevity.Technology",
+          "summary": "New UAE-backed venture bets future of longevity lies not in standalone wellness brands, but in building ecosystem people never have to leave. In the wellness industry, one app tracks your sleep, another counts your steps, a smartwatch nudges you to stand, your gym has its own membership, your nutrition advice comes from somewhere else and […] The post Nova Capital commits $100m to back UAE longevity platform appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "The next frontier in Alzheimer’s trials? Sleep",
+          "url": "https://longevity.technology/news/the-next-frontier-in-alzheimers-trials-sleep/",
+          "domain": "longevity.technology",
+          "date": "2026-07-22T16:41:39.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Cumulus Neuroscience and Muse bring lab-grade sleep monitoring into patients’ homes, signaling a shift in how brain health may be measured. One of the biggest ironies in sleep research has been that scientists often ask people to sleep in one of the least natural places imaginable: a lab. Hooked up to wires, surrounded by unfamiliar […] The post The next frontier in Alzheimer’s trials? Sleep appeared first on Longevity.Technology ."
         },
         {
           "title": "Regular Training Erases Parts of Muscle Aging Signature",
@@ -122,60 +146,36 @@
           "summary": "In this follow-up interview, we speak with Gabriel Cian about how the 2060 ecosystem has evolved since last year’s Forum, what he learned from the first edition, and how he is thinking about investment, scientific credibility, health […]"
         },
         {
+          "title": "Amprion lands funding to expand brain disease testing",
+          "url": "https://longevity.technology/news/amprion-lands-funding-to-expand-brain-disease-testing/",
+          "domain": "longevity.technology",
+          "date": "2026-07-21T13:00:06.000Z",
+          "source": "Longevity.Technology",
+          "summary": "As investment fuels brain diagnostics, Amprion’s expansion highlights growing belief that better tests are just as important as better drugs. The race against neurodegenerative disease has largely focused on finding the next breakthrough drug. However, a growing number of researchers are beginning to ask a different question: what if one of the biggest bottlenecks isn’t […] The post Amprion lands funding to expand brain disease testing appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "Hilo aims to make blood pressure a daily habit",
+          "url": "https://longevity.technology/news/hilo-aims-to-make-blood-pressure-a-daily-habit/",
+          "domain": "longevity.technology",
+          "date": "2026-07-21T13:00:00.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Swiss-developed system brings longitudinal blood pressure monitoring to the US, reflecting broader shift toward continuous preventive health. Blood pressure is one of medicine’s oldest biomarkers; it is also one of its most neglected. While cardiovascular risk accumulates over decades, measurement often remains confined to fleeting moments – a hurried clinic appointment, an annual health check […] The post Hilo aims to make blood pressure a daily habit appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "AI meets Amazon in longevity beauty push",
+          "url": "https://longevity.technology/news/ai-meets-amazon-in-longevity-beauty-push/",
+          "domain": "longevity.technology",
+          "date": "2026-07-21T12:52:01.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Debut and Natura team up to develop an AI-discovered skin longevity ingredient that could reach consumers as early as 2027. What if discovering tomorrow’s skincare ingredient no longer took decades (or centuries), but only a few days? That is the provocative claim sitting at the core of a new partnership between biotech company Debut and […] The post AI meets Amazon in longevity beauty push appeared first on Longevity.Technology ."
+        },
+        {
           "title": "Exosomes From Stem Cells Fight Liver Disease in Mice",
           "url": "https://lifespan.io/exosomes-from-stem-cells-fight-liver-disease-in-mice/",
           "domain": "lifespan.io",
           "date": "2026-07-20T20:59:34.000Z",
           "source": "Lifespan.io",
           "summary": "Researchers have described a method of using exosomes derived from mesenchymal stem cells (MSCs) to fight harmful metabolic changes in the liver. Another look at […]"
-        },
-        {
-          "title": "Engineered Enzyme Reverses Age-Related Protein Damage",
-          "url": "https://lifespan.io/engineered-enzyme-reverses-age-related-protein-damage/",
-          "domain": "lifespan.io",
-          "date": "2026-07-17T16:52:17.000Z",
-          "source": "Lifespan.io",
-          "summary": "Scientists have engineered an enzyme that removes an advanced glycation end product (AGE) from proteins. This type of age-related modification, which affects protein function and can trigger inflammation, has previously been considered extremely hard to reverse [1]. Can we […]"
-        },
-        {
-          "title": "Activating a Key Receptor Fights Thymic Involution in Mice",
-          "url": "https://lifespan.io/activating-a-key-receptor-fights-thymic-involution-in-mice/",
-          "domain": "lifespan.io",
-          "date": "2026-07-16T20:43:18.000Z",
-          "source": "Lifespan.io",
-          "summary": "Publishing in Aging Cell, researchers have devised a way to delay the aging of the thymus by targeting GPR40, a key receptor in its epithelial cells. The organ that involutes The thymus trains a certain subset […]"
-        },
-        {
-          "title": "Forever Healthy Launches Evipedia AI Integration",
-          "url": "https://lifespan.io/forever-healthy-launches-evipedia-ai-integration/",
-          "domain": "lifespan.io",
-          "date": "2026-07-15T17:08:51.000Z",
-          "source": "Lifespan.io",
-          "summary": "Today, Forever Healthy announces the launch of a set of new tools to make it easier than ever for AI agents, research pipelines, and AI environments to integrate Evipedia. Evipedia is Forever Healthy’s comprehensive, continuously updated […]"
-        },
-        {
-          "title": "Peripheral Inflammation May Drive Parkinson’s",
-          "url": "https://lifespan.io/peripheral-inflammation-may-drive-parkinsons/",
-          "domain": "lifespan.io",
-          "date": "2026-07-14T13:50:42.000Z",
-          "source": "Lifespan.io",
-          "summary": "A new study suggests that aging or Parkinson’s-triggering mutations create inflammation in peripheral tissues, and then circulating extracellular vesicles spread it to the brain, which […]"
-        },
-        {
-          "title": "Combining Senolytics and Stem Cells Shows Promise in Mice",
-          "url": "https://lifespan.io/combining-senolytics-and-stem-cells-shows-promise-in-mice/",
-          "domain": "lifespan.io",
-          "date": "2026-07-10T16:34:16.000Z",
-          "source": "Lifespan.io",
-          "summary": "A new study associated with Immorta Bio suggests that combining a senolytic vaccine with mesenchymal stem cells might create a synergistic impact. […]"
-        },
-        {
-          "title": "An Experimental Proposal for Blocking Ambient Radiation",
-          "url": "https://lifespan.io/an-experimental-proposal-for-blocking-ambient-radiation/",
-          "domain": "lifespan.io",
-          "date": "2026-07-09T20:10:54.000Z",
-          "source": "Lifespan.io",
-          "summary": "A perspective published in Aging and Disease has recommended the use of underground laboratory space in order to remove the effects of surface radiation on […]"
         }
       ]
     },
@@ -187,6 +187,14 @@
         "https://phys.org/rss-feed/biology-news/biotechnology/"
       ],
       "articles": [
+        {
+          "title": "Genome tool places large genetic sequences precisely in rice and tobacco without DNA breaks",
+          "url": "https://phys.org/news/2026-07-genome-tool-large-genetic-sequences.html",
+          "domain": "phys.org",
+          "date": "2026-07-22T23:40:01.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Researchers at King Abdullah University of Science and Technology (KAUST) have developed a new way to add large pieces of genetic information to plants, overcoming a challenge that has limited plant biotechnology for decades. The advance could help scientists build more complex traits into plants in the future, supporting research into areas such as crop resilience, sustainable agriculture, biotechnology and the use of plants as scalable platforms for producing therapeutics and biologics."
+        },
         {
           "title": "Solar-powered process turns CO₂ into protein-building amino acids",
           "url": "https://phys.org/news/2026-07-solar-powered-protein-amino-acids.html",
@@ -258,14 +266,6 @@
           "date": "2026-07-22T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2607.18311v1 Announce Type: new Abstract: Comparing phylogenetic tree topologies is essential for understanding epidemic dynamics, yet biologically meaningful distances such as the Subtree Prune and Regraft (SPR) distance are NP-hard to compute and intractable on large datasets. We investigate whether a Graph Neural Network (GNN) can approximate SPR distances in near-constant time per comparison after training. Our contributions are fourfold. First, we build and publicly release a dataset of 864 phylogenetic trees inferred with UPGMA and Neighbor-Joining over four bacterial species, spanning up to 9{,}500 isolates, together with 388 labelled tree pairs. Second, we establish a reproducible pre-processing pipeline including midpoint re-rooting, which reduces tree depth and supplies the rooting required for exact distance computation and for the model's root-based features. Third, we validate the supervision target: on small trees, where exact SPR is tractable, the unrooted phangorn::SPR.dist heuristic correlates almost perfectly with the exact rooted distance computed by rspr (Pearson $0.98$--$0.99$), making it an excellent monotonic surrogate. Lastly, we train a Siamese Graph Isomorphism Network (GIN) regressor. In-distribution, i.e., held-out trees from the same species and size range as training, it explains roughly 87--90% of the variance ($R^2 \\approx 0.87$ on a held-out split; $0.90 \\pm 0.19$ under stratified cross-validation), with about four times lower error than a mean-predictor baseline, and shows partial transfer to unseen species ($R^2 \\approx 0.37$). Its main limitation is extrapolation to trees larger than those seen in training, where accuracy collapses. The released dataset and the validated heuristic versus exact relationship provide a reproducible basis for scaling learned SPR approximation."
-        },
-        {
-          "title": "Evaluating the Impact of Epidemic Control via State-Dependent Markovian Switching Modeling",
-          "url": "https://arxiv.org/abs/2607.18364",
-          "domain": "arxiv.org",
-          "date": "2026-07-22T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2607.18364v1 Announce Type: new Abstract: We develop an exact finite-population stochastic framework for SIR epidemics evolving under Markovian switching between intervention regimes. The epidemic state is augmented by a finite phase component, allowing transmission, recovery, and direct immunity-acquisition rates to depend on the active regime. Phase-transition intensities may depend on the current epidemic state, so that policy escalation can react to the number of infectious individuals. Exploiting the monotonicity of the susceptible compartment, we derive level-wise recursions for the joint Laplace--Stieltjes transform and probability generating function of the extinction time and the number of infections generated before extinction. These recursions yield the infection-count distribution, conditional extinction-time transforms, and mixed moments linking epidemic duration and infection burden, while replacing a large global linear system with small phase-level solves. The framework is illustrated using weekly mpox incidence data from Luxembourg. A baseline one-phase SIR model is calibrated by maximum likelihood under a Poisson observation model. The calibrated baseline is then used for conditional comparisons of fixed control regimes, early versus delayed strict intervention, vaccination-supported control, and state-dependent escalation. The results show how switching mechanisms affect both the total number of infected individuals and the extinction time, including their dispersion. Since the switching mechanisms are specified rather than estimated from the intervention history, the results are conditional model-based comparisons rather than estimates of the historical effects of interventions in Luxembourg."
         }
       ]
     },
@@ -277,6 +277,14 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "Senator Lummis: Ethics, other provisions in crypto Clarity Act to be further discussed",
+          "url": "https://www.coindesk.com/policy/2026/07/22/senator-lummis-ethics-other-provisions-in-crypto-clarity-act-to-be-further-discussed",
+          "domain": "coindesk.com",
+          "date": "2026-07-22T23:19:41.000Z",
+          "source": "CoinDesk",
+          "summary": "Senator Cynthia Lummis, one of the lead negotiators on the bill, told CoinDesk she was \"pleased\" that the updated bill was ready for release."
+        },
         {
           "title": "Key Democratic lawmakers say crypto Clarity Act 'falls short' on ethics, other issues",
           "url": "https://www.coindesk.com/policy/2026/07/22/key-democratic-lawmakers-say-crypto-clarity-act-falls-short-on-ethics-other-issues",
@@ -348,14 +356,6 @@
           "date": "2026-07-22T17:57:11.000Z",
           "source": "CoinTelegraph",
           "summary": "Anthropic will provide Claude AI models to companies participating in the UK Financial Conduct Authority’s next Supercharged Sandbox cohort, as the regulator pushes to test AI applications in financial services."
-        },
-        {
-          "title": "Benchmark sees Hut 8 becoming a ‘power-first data center REIT,’ raises target another 18%",
-          "url": "https://www.theblock.co/post/409439/benchmark-hut-8-becoming-power-first-data-center-reit-raises-target-18?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-22T17:46:18.000Z",
-          "source": "The Block",
-          "summary": "Benchmark’s new price target implies roughly 75% upside, with Hut 8 shares already up nearly 120% year to date."
         }
       ]
     }
