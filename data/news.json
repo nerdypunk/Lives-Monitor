@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-23T20:36:50.978Z",
+  "updatedAt": "2026-07-23T21:44:34.066Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,6 +278,22 @@
       ],
       "articles": [
         {
+          "title": "Coinbase lets businesses accept USDC payments from AI agents",
+          "url": "https://cointelegraph.com/news/coinbase-lets-businesses-accept-usdc-payments-from-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-23T20:51:27.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The exchange also introduced AI trading tools and a developer kit as part of a broader push to build financial infrastructure for autonomous AI agents."
+        },
+        {
+          "title": "Bitcoin slides below $65K as Iran conflict fuels $100 oil and bond-yield surge",
+          "url": "https://cointelegraph.com/markets/bitcoin-dips-below-65k-iran-war-sparks-100-oil-us-bond-spike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-23T20:32:22.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bitcoin price forecasts diverge as US-Iran war tensions fueled an ongoing oil and bond-market surge, while July Fed rate-hike odds neared 40%."
+        },
+        {
           "title": "Clarity Act expected to miss its window before Congress' summer break, leadership says",
           "url": "https://www.coindesk.com/policy/2026/07/23/clarity-act-expected-to-miss-its-window-before-congress-summer-break-leadership-says",
           "domain": "coindesk.com",
@@ -340,22 +356,6 @@
           "date": "2026-07-23T17:55:02.000Z",
           "source": "The Block",
           "summary": "Robinhood Chain has seen cumulative DEX volume of about $9 billion, primarily driven by higher-risk memecoins, per Entropy Advisors."
-        },
-        {
-          "title": "MoonPay now accepts Discover Network cards for crypto purchases and sales in US",
-          "url": "https://www.theblock.co/post/409536/moonpay-discover-network-card-payments-crypto?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-23T17:05:36.000Z",
-          "source": "The Block",
-          "summary": "The addition makes Discover the third major U.S. card network supported by MoonPay, alongside Visa and Mastercard."
-        },
-        {
-          "title": "Goldman Sachs CEO backs ‘not perfect’ CLARITY Act as vote expected soon",
-          "url": "https://cointelegraph.com/news/goldman-sachs-ceo-clarity-act-stablecoin-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-23T16:57:11.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Goldman chief David Solomon will support the crypto market structure bill now in Congress, even as financial companies and banks are hesitant over provisions on stablecoins."
         }
       ]
     }
