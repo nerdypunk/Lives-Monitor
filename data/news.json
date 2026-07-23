@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-23T14:25:06.821Z",
+  "updatedAt": "2026-07-23T16:08:45.853Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -15,6 +15,14 @@
           "date": "2026-07-22T17:58:14.000Z",
           "source": "Bitget",
           "summary": "DeSci biomedical incubation platform JoinCare completes strategic seed round with participation from Titans Ventures, DI Foundation, and Candaq Ventures &nbsp;&nbsp; Bitget"
+        },
+        {
+          "title": "Price of Bio Protocol (BIO) today in EUR – Quote and market trends - Bit2Me",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HRDJzTFhZdDNJVk5lRTR5dkdDRlQySmswd1l6RnFndWE3eDlwazdjYlBMX2RMNzBCWEg1UjQ3aHB5RHMwbWZNamJGMVFPNzVDb0E?oc=5",
+          "domain": "bit2me.com",
+          "date": "2026-07-22T11:03:28.000Z",
+          "source": "Bit2Me",
+          "summary": "Price of Bio Protocol (BIO) today in EUR – Quote and market trends &nbsp;&nbsp; Bit2Me"
         },
         {
           "title": "️DeSci Atoms Market Update 20 July 2026 MarketCap 24hrs Top - KuCoin",
@@ -79,14 +87,6 @@
           "date": "2026-06-20T07:00:00.000Z",
           "source": "Pluang",
           "summary": "Bio Protocol launches OpenLabs, a platform merg... &nbsp;&nbsp; Pluang"
-        },
-        {
-          "title": "BioProtocol unveils OpenLabs platform at DeSci Berlin to merge AI with decentralized research funding - Crypto Briefing",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5sbkJNU3o3UENfWkVYZ2xfLTIxUDRTeWM0V2RlS0U3cUk5XzB5UGxIRXZZSkxSSVpwWl9mdV9panJEdjY2SGFMcHJmVFhVWXFhd2FKNDd4STRWUm9vSHppZU1uLTJlOVJoSW1abGxB?oc=5",
-          "domain": "cryptobriefing.com",
-          "date": "2026-06-19T07:00:00.000Z",
-          "source": "Crypto Briefing",
-          "summary": "BioProtocol unveils OpenLabs platform at DeSci Berlin to merge AI with decentralized research funding &nbsp;&nbsp; Crypto Briefing"
         }
       ]
     },
@@ -98,12 +98,60 @@
       ],
       "articles": [
         {
+          "title": "Is personalized nutrition worth it?",
+          "url": "https://longevity.technology/news/is-personalized-nutrition-worth-it/",
+          "domain": "longevity.technology",
+          "date": "2026-07-23T16:01:46.000Z",
+          "source": "Longevity.Technology",
+          "summary": "As personalized nutrition grows, experts argue the smartest health strategy may be simple: test first, supplement second. Walk into any health store or scroll through social media for five minutes and you’ll quickly get the impression that longevity comes in capsule form. Magnesium for sleep. Creatine for strength. Vitamin D for immunity. Electrolytes because your […] The post Is personalized nutrition worth it? appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "Ultrahuman unveils its biggest longevity platform overhaul",
+          "url": "https://longevity.technology/news/ultrahuman-unveils-its-biggest-longevity-platform-overhaul/",
+          "domain": "longevity.technology",
+          "date": "2026-07-23T15:20:41.000Z",
+          "source": "Longevity.Technology",
+          "summary": "The Emerald update redesigns the app around actionable health insights, bringing smarter guidance for everyday longevity. Can wearables finally answer the question: What now? If you’ve ever worn a fitness tracker, you’ve probably experienced a familiar feeling. You wake up, check your app and discover you slept poorly. Your stress score is higher than yesterday. […] The post Ultrahuman unveils its biggest longevity platform overhaul appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "Timeline wins $5.3m in fake urolithin A case",
+          "url": "https://longevity.technology/news/timeline-wins-5-3m-in-fake-urolithin-a-case/",
+          "domain": "longevity.technology",
+          "date": "2026-07-23T14:48:36.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Federal court ruling highlights growing pressure for quality assurance as longevity interventions move into increasingly crowded market. Swiss longevity company Timeline has secured a permanent injunction and more than $5.3 million in damages against 19 online sellers found to have marketed supplements falsely advertised as containing urolithin A, following a default judgment issued by the […] The post Timeline wins $5.3m in fake urolithin A case appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "Regulatory blind spots in the longevity economy",
+          "url": "https://longevity.technology/news/regulatory-blind-spots-in-the-longevity-economy/",
+          "domain": "longevity.technology",
+          "date": "2026-07-22T18:24:19.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Wellthspan Advisory’s Nadine Esposito explains why resilient longevity companies will outlast fast‑growth ones. The longevity sector is expanding at remarkable speed. Depending on where you draw the boundaries, the broader longevity market – diagnostics, digital health, prevention, and age‑related services – was already worth tens of billions of dollars in 2020 and is on track […] The post Regulatory blind spots in the longevity economy appeared first on Longevity.Technology ."
+        },
+        {
           "title": "The Progress and Future of Biological Aging Clocks",
           "url": "https://lifespan.io/the-progress-and-future-of-biological-aging-clocks/",
           "domain": "lifespan.io",
           "date": "2026-07-22T16:52:22.000Z",
           "source": "Lifespan.io",
           "summary": "A recent review discusses the development of biological aging clocks, their capabilities and limitations, the discoveries they enabled, and possible future […]"
+        },
+        {
+          "title": "Nova Capital commits $100m to back UAE longevity platform",
+          "url": "https://longevity.technology/news/nova-capital-commits-100m-to-back-uae-longevity-platform/",
+          "domain": "longevity.technology",
+          "date": "2026-07-22T16:42:14.000Z",
+          "source": "Longevity.Technology",
+          "summary": "New UAE-backed venture bets future of longevity lies not in standalone wellness brands, but in building ecosystem people never have to leave. In the wellness industry, one app tracks your sleep, another counts your steps, a smartwatch nudges you to stand, your gym has its own membership, your nutrition advice comes from somewhere else and […] The post Nova Capital commits $100m to back UAE longevity platform appeared first on Longevity.Technology ."
+        },
+        {
+          "title": "The next frontier in Alzheimer’s trials? Sleep",
+          "url": "https://longevity.technology/news/the-next-frontier-in-alzheimers-trials-sleep/",
+          "domain": "longevity.technology",
+          "date": "2026-07-22T16:41:39.000Z",
+          "source": "Longevity.Technology",
+          "summary": "Cumulus Neuroscience and Muse bring lab-grade sleep monitoring into patients’ homes, signaling a shift in how brain health may be measured. One of the biggest ironies in sleep research has been that scientists often ask people to sleep in one of the least natural places imaginable: a lab. Hooked up to wires, surrounded by unfamiliar […] The post The next frontier in Alzheimer’s trials? Sleep appeared first on Longevity.Technology ."
         },
         {
           "title": "Regular Training Erases Parts of Muscle Aging Signature",
@@ -122,60 +170,12 @@
           "summary": "In this follow-up interview, we speak with Gabriel Cian about how the 2060 ecosystem has evolved since last year’s Forum, what he learned from […]"
         },
         {
-          "title": "Exosomes From Stem Cells Fight Liver Disease in Mice",
-          "url": "https://lifespan.io/exosomes-from-stem-cells-fight-liver-disease-in-mice/",
-          "domain": "lifespan.io",
-          "date": "2026-07-20T20:59:34.000Z",
-          "source": "Lifespan.io",
-          "summary": "Researchers have described a method of using exosomes derived from mesenchymal stem cells (MSCs) to fight harmful metabolic changes in the liver. Another look at exosomes This is far from the first attempt at using MSC-derived exosomes, particularly […]"
-        },
-        {
-          "title": "Engineered Enzyme Reverses Age-Related Protein Damage",
-          "url": "https://lifespan.io/engineered-enzyme-reverses-age-related-protein-damage/",
-          "domain": "lifespan.io",
-          "date": "2026-07-17T16:52:17.000Z",
-          "source": "Lifespan.io",
-          "summary": "Scientists have engineered an enzyme that removes an advanced glycation end product (AGE) from proteins. This type of age-related modification, which affects protein function and can trigger inflammation, has previously been considered extremely hard to […]"
-        },
-        {
-          "title": "Activating a Key Receptor Fights Thymic Involution in Mice",
-          "url": "https://lifespan.io/activating-a-key-receptor-fights-thymic-involution-in-mice/",
-          "domain": "lifespan.io",
-          "date": "2026-07-16T20:43:18.000Z",
-          "source": "Lifespan.io",
-          "summary": "Publishing in Aging Cell, researchers have devised a way to delay the aging of the thymus by targeting GPR40, a key receptor in its epithelial cells. The organ that involutes The […]"
-        },
-        {
-          "title": "Forever Healthy Launches Evipedia AI Integration",
-          "url": "https://lifespan.io/forever-healthy-launches-evipedia-ai-integration/",
-          "domain": "lifespan.io",
-          "date": "2026-07-15T17:08:51.000Z",
-          "source": "Lifespan.io",
-          "summary": "Today, Forever Healthy announces the launch of a set of new tools to make it easier than ever for AI agents, research pipelines, and AI environments to integrate […]"
-        },
-        {
-          "title": "Peripheral Inflammation May Drive Parkinson’s",
-          "url": "https://lifespan.io/peripheral-inflammation-may-drive-parkinsons/",
-          "domain": "lifespan.io",
-          "date": "2026-07-14T13:50:42.000Z",
-          "source": "Lifespan.io",
-          "summary": "A new study suggests that aging or Parkinson’s-triggering mutations create inflammation in peripheral tissues, and then circulating extracellular vesicles spread it to the brain, which might […]"
-        },
-        {
-          "title": "Combining Senolytics and Stem Cells Shows Promise in Mice",
-          "url": "https://lifespan.io/combining-senolytics-and-stem-cells-shows-promise-in-mice/",
-          "domain": "lifespan.io",
-          "date": "2026-07-10T16:34:16.000Z",
-          "source": "Lifespan.io",
-          "summary": "A new study associated with Immorta Bio suggests that combining a senolytic vaccine with mesenchymal stem cells might create a synergistic impact. However, the findings rest on acute, artificially induced injury models rather […]"
-        },
-        {
-          "title": "An Experimental Proposal for Blocking Ambient Radiation",
-          "url": "https://lifespan.io/an-experimental-proposal-for-blocking-ambient-radiation/",
-          "domain": "lifespan.io",
-          "date": "2026-07-09T20:10:54.000Z",
-          "source": "Lifespan.io",
-          "summary": "A perspective published in Aging and Disease has recommended the use of underground laboratory space in order to remove the effects of […]"
+          "title": "Amprion lands funding to expand brain disease testing",
+          "url": "https://longevity.technology/news/amprion-lands-funding-to-expand-brain-disease-testing/",
+          "domain": "longevity.technology",
+          "date": "2026-07-21T13:00:06.000Z",
+          "source": "Longevity.Technology",
+          "summary": "As investment fuels brain diagnostics, Amprion’s expansion highlights growing belief that better tests are just as important as better drugs. The race against neurodegenerative disease has largely focused on finding the next breakthrough drug. However, a growing number of researchers are beginning to ask a different question: what if one of the biggest bottlenecks isn’t […] The post Amprion lands funding to expand brain disease testing appeared first on Longevity.Technology ."
         }
       ]
     },
@@ -187,6 +187,14 @@
         "https://phys.org/rss-feed/biology-news/biotechnology/"
       ],
       "articles": [
+        {
+          "title": "Peptide isolated from a Cerrado frog increases strawberry shelf life",
+          "url": "https://phys.org/news/2026-07-peptide-isolated-cerrado-frog-strawberry.html",
+          "domain": "phys.org",
+          "date": "2026-07-23T15:20:07.000Z",
+          "source": "Phys.org Biotechnology",
+          "summary": "Five minutes. That was the amount of time that Oso Grande strawberries remained in contact with the Ctx(Ile21)-Ha peptide—a molecule isolated from a frog native to the Brazilian Cerrado—in experiments conducted in Brazil by scientists at the Tupã campus of São Paulo State University (UNESP). It was enough to demonstrate the molecule's potential to extend the shelf life of the fruit, which is highly perishable."
+        },
         {
           "title": "Fig-leaf enzyme turns tannery waste into high-value collagen",
           "url": "https://phys.org/news/2026-07-fig-leaf-enzyme-tannery-high.html",
@@ -258,14 +266,6 @@
           "date": "2026-07-23T04:00:00.000Z",
           "source": "arXiv q-bio",
           "summary": "arXiv:2607.19990v1 Announce Type: new Abstract: The logistic equation treats the definition of its variable freely. It is undoubtedly the population density. The logistic equation in the differential version requires continuity of processes occurring in the population. In the differential version, we do not know what happens to the population between time steps. When filling these gaps, models with features different from the logistic equation appear. If we have a micro-scale model describing the fate of individuals and interactions between them, then the macro description for this model is not the equation for population density (e.g. the logistic equation) but the model of matter circulation or energy flow through this system. We lack mathematics to describe purely biological processes."
-        },
-        {
-          "title": "A Hybrid Framework for Uncertainty Quantification in Partially Observed Dynamic Biological Systems",
-          "url": "https://arxiv.org/abs/2607.20044",
-          "domain": "arxiv.org",
-          "date": "2026-07-23T04:00:00.000Z",
-          "source": "arXiv q-bio",
-          "summary": "arXiv:2607.20044v1 Announce Type: new Abstract: Mechanistic ordinary differential equation (ODE) models are widely used in systems biology, but uncertainty quantification (UQ) remains difficult when only a subset of state variables is experimentally observed. Existing Bayesian and likelihood-based approaches can be computationally demanding for nonlinear, weakly identifiable, or high-dimensional systems. We present a framework, and its corresponding software CUQDyn1 Plus, for UQ in partially observed ODE systems. Our method combines leave-one-out jackknife+-style empirical calibration for observed states with sensitivity-based Gaussian uncertainty propagation for hidden states. The software supports global parameter estimation, covariance propagation, bootstrap trajectory uncertainty and simulation-based calibration. It also facilitates comparison with Bayesian workflows, automated reporting, and reproducibility diagnostics. Validation on six benchmark systems shows accurate behavior in well-conditioned cases and model-dependent degradation under nonlinearity, weak identifiability, or global branch-switching non-identifiability. CUQDyn1 Plus provides a practical and computationally efficient UQ workflow for systems biology models with observed and latent states. Its diagnostic outputs help identify when local Gaussian propagation is reliable and when uncertainty bands should be interpreted cautiously, making it a useful complement to fully Bayesian workflows."
         }
       ]
     },
@@ -277,6 +277,30 @@
         "https://www.theblock.co/rss.xml"
       ],
       "articles": [
+        {
+          "title": "Coinbase calls AI payments its ‘most high-conviction bet’ as businesses begin accepting agent payments",
+          "url": "https://www.theblock.co/post/409539/coinbase-ai-payments-most-high-conviction-bet-businesses-accepting-agent-payments?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-23T16:00:00.000Z",
+          "source": "The Block",
+          "summary": "Coinbase will enable businesses to accept payments from AI bots, powered by Coinbase Payments and the x402 standard."
+        },
+        {
+          "title": "The SEC settles with Coinbase over its missing Gary Gensler texts",
+          "url": "https://www.coindesk.com/policy/2026/07/23/sec-agrees-to-end-lawsuit-over-missing-ethereum-records-will-pay-usd150-000-in-fees",
+          "domain": "coindesk.com",
+          "date": "2026-07-23T15:36:39.000Z",
+          "source": "CoinDesk",
+          "summary": "A new court status report reveals the agency will pay a flat fee to resolve a two-year fight over what former Chair Gary Gensler knew about Ethereum."
+        },
+        {
+          "title": "Crypto for Advisors: It’s time for tokenization to get to work",
+          "url": "https://www.coindesk.com/coindesk-indices/2026/07/23/crypto-for-advisors-it-s-time-for-tokenization-to-get-to-work",
+          "domain": "coindesk.com",
+          "date": "2026-07-23T14:53:34.000Z",
+          "source": "CoinDesk",
+          "summary": ""
+        },
         {
           "title": "Uniswap pushes deeper into tokenized assets with permissioned trading pools",
           "url": "https://www.coindesk.com/business/2026/07/22/uniswap-pushes-deeper-into-tokenized-assets-with-permissioned-trading-pools",
@@ -332,30 +356,6 @@
           "date": "2026-07-23T13:03:18.000Z",
           "source": "CoinTelegraph",
           "summary": "A consortium led by Strategy and BlackRock has pledged $15 million to secure the Bitcoin network from the threat of a quantum computing breakthrough."
-        },
-        {
-          "title": "The KIDS Act is way worse than digital carding — it is a mass surveillance system",
-          "url": "https://www.coindesk.com/opinion/2026/07/23/the-kids-act-is-way-worse-than-digital-carding-it-is-a-mass-surveillance-system",
-          "domain": "coindesk.com",
-          "date": "2026-07-23T13:00:00.000Z",
-          "source": "CoinDesk",
-          "summary": "The fact that lawmakers are even contemplating a bill that would create a surveillance and censorship regime should be a wake-up call for everyone who values privacy and free expression, argues Electronic Frontier Foundation's India McKinney."
-        },
-        {
-          "title": "Binance joins STOP THE TRAFFIK in anti-human trafficking effort",
-          "url": "https://cointelegraph.com/news/binance-stop-the-traffik-anti-human-trafficking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-23T13:00:00.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The partnership expands Binance’s compliance efforts by providing intelligence and training to help detect cryptocurrency activity tied to human trafficking and child exploitation."
-        },
-        {
-          "title": "LayerZero, Keeta enable tokenized bank deposits across Ethereum, Solana and Base",
-          "url": "https://www.theblock.co/post/409507/layerzero-keeta-enable-tokenized-bank-deposits-across-ethereum-solana-and-base?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-23T13:00:00.000Z",
-          "source": "The Block",
-          "summary": "LayerZero and Keeta have partnered to enable native transfers of tokenized bank deposits across Ethereum, Solana, Base, and Keeta."
         }
       ]
     }
