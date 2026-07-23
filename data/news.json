@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-23T17:47:24.304Z",
+  "updatedAt": "2026-07-23T19:23:42.326Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -10,9 +10,9 @@
       "articles": [
         {
           "title": "DeSci biomedical incubation platform JoinCare completes strategic seed round with participation from Titans Ventures, DI Foundation, and Candaq Ventures - Bitget",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oYWpfaUtBRWFMM3hGRmJoOEtEcHNzeTlXTUk2Nm1BNXJwSG1aZkF0aFhSOTM4QUhxcUVMQzdRd3lfS1N6UkM5VUsyR2dCYXZFdUxUZGlUVWVZNHlzTlpBQm5SRmdJeUxJOGfSAWpBVV95cUxNaGFqX2lLQUVhTDN4RkZiaDhLRHBzc3k5V01JNjZtQTVycEhtWmZBdGhYUjkzOEFIcXFFTEM3UXd5X0tTelJDOVVLMkdnQmF2RXVMVGRpVFVlWTR5c05aQUJuUkZnSXlMSThn?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE13cGs2TEQxNVhuVlg5UllkTGFWX200OVlhaXJZdWZ3RS1wX3NuWHZQUGpyS0RVMFNxOHl5cExXUkZhSjdJVlc5LVVYbVpyN1ZxdWM3Ny01eGVxbklQZ3NrZ2IwNNIBY0FVX3lxTE13cGs2TEQxNVhuVlg5UllkTGFWX200OVlhaXJZdWZ3RS1wX3NuWHZQUGpyS0RVMFNxOHl5cExXUkZhSjdJVlc5LVVYbVpyN1ZxdWM3Ny01eGVxbklQZ3NrZ2IwNA?oc=5",
           "domain": "bitget.com",
-          "date": "2026-07-22T17:58:14.000Z",
+          "date": "2026-07-22T17:36:08.000Z",
           "source": "Bitget",
           "summary": "DeSci biomedical incubation platform JoinCare completes strategic seed round with participation from Titans Ventures, DI Foundation, and Candaq Ventures &nbsp;&nbsp; Bitget"
         },
@@ -278,6 +278,38 @@
       ],
       "articles": [
         {
+          "title": "Robinhood CEO Vlad Tenev's X account hacked to promote token amid memecoin frenzy",
+          "url": "https://www.coindesk.com/business/2026/07/23/robinhood-ceo-vlad-tenev-s-x-account-hacked-to-promote-token-amid-memecoin-frenzy",
+          "domain": "coindesk.com",
+          "date": "2026-07-23T18:29:31.000Z",
+          "source": "CoinDesk",
+          "summary": "The post, now deleted, touted a token called $VLAD and falsely claimed it would be listed on Robinhood."
+        },
+        {
+          "title": "Tassat wants to help smaller banks tap the trillion-dollar stablecoin boom before Wall Street lock them out",
+          "url": "https://www.coindesk.com/business/2026/07/23/tassat-wants-to-help-smaller-banks-tap-the-trillion-dollar-stablecoin-boom-before-wall-street-lock-them-out",
+          "domain": "coindesk.com",
+          "date": "2026-07-23T18:10:02.000Z",
+          "source": "CoinDesk",
+          "summary": "The former Signet developer aims to launch early next year a marketplace connecting stablecoin issuers with regional lenders to manage reserves."
+        },
+        {
+          "title": "Robinhood CEO’s X account hacked in apparent memecoin scam",
+          "url": "https://cointelegraph.com/news/robinhood-ceo-x-account-hacked-in-apparent-memecoin-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-23T18:09:26.000Z",
+          "source": "CoinTelegraph",
+          "summary": "A hacker reportedly took over Robinhood CEO Vlad Tenev’s X account to promote a fake “VLAD” memecoin, posting what appeared to be a malicious token contract address."
+        },
+        {
+          "title": "Robinhood CEO’s X account hacked to promote Vladhood memecoin flagged as ‘scam’",
+          "url": "https://www.theblock.co/post/409560/robinhood-ceo-x-account-apparently-hacked-promote-vladhood-memecoin-flagged-scam?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-23T17:55:02.000Z",
+          "source": "The Block",
+          "summary": "Robinhood Chain has seen cumulative DEX volume of about $9 billion, primarily driven by higher-risk memecoins, per Entropy Advisors."
+        },
+        {
           "title": "MoonPay now accepts Discover Network cards for crypto purchases and sales in US",
           "url": "https://www.theblock.co/post/409536/moonpay-discover-network-card-payments-crypto?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
@@ -324,38 +356,6 @@
           "date": "2026-07-23T16:31:59.000Z",
           "source": "The Block",
           "summary": "Twenty One Capital is Tether's \"U.S. entity for them to ... line pockets where needed for political reasons,\" says Cory Klippsten."
-        },
-        {
-          "title": "Ethereum nears market bottom against Bitcoin, though key signals remain unconfirmed: CryptoQuant",
-          "url": "https://cointelegraph.com/news/ethereum-nears-market-bottom-against-bitcoin-key-signals-remain-unconfirmed-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-23T16:26:43.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Ether trades below its realized price while onchain indicators point to easing selling pressure and recovering demand, though a definitive cycle bottom has yet to emerge."
-        },
-        {
-          "title": "Coinbase calls AI payments its ‘most high-conviction bet’ as businesses begin accepting agent payments",
-          "url": "https://www.theblock.co/post/409539/coinbase-ai-payments-most-high-conviction-bet-businesses-accepting-agent-payments?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-23T16:00:00.000Z",
-          "source": "The Block",
-          "summary": "Coinbase will enable businesses to accept payments from AI bots, powered by Coinbase Payments and the x402 standard."
-        },
-        {
-          "title": "The SEC settles with Coinbase over its missing Gary Gensler texts",
-          "url": "https://www.coindesk.com/policy/2026/07/23/sec-agrees-to-end-lawsuit-over-missing-ethereum-records-will-pay-usd150-000-in-fees",
-          "domain": "coindesk.com",
-          "date": "2026-07-23T15:36:39.000Z",
-          "source": "CoinDesk",
-          "summary": "A new court status report reveals the agency will pay a flat fee to resolve a two-year fight over what former Chair Gary Gensler knew about Ethereum."
-        },
-        {
-          "title": "Crypto for Advisors: It’s time for tokenization to get to work",
-          "url": "https://www.coindesk.com/coindesk-indices/2026/07/23/crypto-for-advisors-it-s-time-for-tokenization-to-get-to-work",
-          "domain": "coindesk.com",
-          "date": "2026-07-23T14:53:34.000Z",
-          "source": "CoinDesk",
-          "summary": ""
         }
       ]
     }
