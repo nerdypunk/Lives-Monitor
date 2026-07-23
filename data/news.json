@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-23T07:20:22.916Z",
+  "updatedAt": "2026-07-23T10:00:17.480Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -8,14 +8,6 @@
         "https://news.google.com/rss/search?q=DeSci%20OR%20%22decentralized%20science%22%20OR%20%22BIO%20Protocol%22&hl=en-US&gl=US&ceid=US:en"
       ],
       "articles": [
-        {
-          "title": "DeSci biomedical incubation platform JoinCare completes strategic seed round with participation from Titans Ventures, DI Foundation, and Candaq Ventures - Bitget",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oYWpfaUtBRWFMM3hGRmJoOEtEcHNzeTlXTUk2Nm1BNXJwSG1aZkF0aFhSOTM4QUhxcUVMQzdRd3lfS1N6UkM5VUsyR2dCYXZFdUxUZGlUVWVZNHlzTlpBQm5SRmdJeUxJOGfSAWpBVV95cUxNaGFqX2lLQUVhTDN4RkZiaDhLRHBzc3k5V01JNjZtQTVycEhtWmZBdGhYUjkzOEFIcXFFTEM3UXd5X0tTelJDOVVLMkdnQmF2RXVMVGRpVFVlWTR5c05aQUJuUkZnSXlMSThn?oc=5",
-          "domain": "bitget.com",
-          "date": "2026-07-22T17:58:14.000Z",
-          "source": "Bitget",
-          "summary": "DeSci biomedical incubation platform JoinCare completes strategic seed round with participation from Titans Ventures, DI Foundation, and Candaq Ventures &nbsp;&nbsp; Bitget"
-        },
         {
           "title": "Price of Bio Protocol (BIO) today in EUR – Quote and market trends - Bit2Me",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HRDJzTFhZdDNJVk5lRTR5dkdDRlQySmswd1l6RnFndWE3eDlwazdjYlBMX2RMNzBCWEg1UjQ3aHB5RHMwbWZNamJGMVFPNzVDb0E?oc=5",
@@ -57,12 +49,12 @@
           "summary": "Bio Protocol launches OpenLabs, focusing on research crowdfunding for collaboration between humans and AI Agents &nbsp;&nbsp; Bitget"
         },
         {
-          "title": "Bio Protocol develops AI agents to enhance decentralized science operations - Crypto Briefing",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mZGlhbTNwdWQ4dTdRZ1lHYmRVVEx2VWE0Q2h3Rzh5dXlIUFhiRTBoM0Z1Uk5DUzRqcThTMGtUbjI5aGNwTWVyRzdPeWo1Uk90RjFDMnl4VkN4N1FqRjNSNWRuNHZPaGs?oc=5",
-          "domain": "cryptobriefing.com",
+          "title": "Bio Protocol develops AI agents to enhance decentralized science operations - Bitget",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JVXd3SkdONkJWQW9XLUY4SUpRZG1ob1JsVGRqdm9lV0R4ak91ODBfLVNIcTFBY3lzOHlQUmR6WS1NS2Zic3l0YVNhTGhBMkhwR2haMU93eUJ1cGZHeVIzbW5MWnjSAWpBVV95cUxNbFRiVkJCbDRETEcybEhpakZFSERsYjQtQ2FmaTNsOUdRSkg2Y1JYUS16RnQ1dEhodnJLdFhfY3NMT2tjNGdaU2ZndUswNGY0enBiVnFnSzkyMmJVWVZHcU50d3dVX0xjcFNn?oc=5",
+          "domain": "bitget.com",
           "date": "2026-07-01T07:00:00.000Z",
-          "source": "Crypto Briefing",
-          "summary": "Bio Protocol develops AI agents to enhance decentralized science operations &nbsp;&nbsp; Crypto Briefing"
+          "source": "Bitget",
+          "summary": "Bio Protocol develops AI agents to enhance decentralized science operations &nbsp;&nbsp; Bitget"
         },
         {
           "title": "Bio Protocol launches AI agents to automate dec... - Pluang",
@@ -87,6 +79,14 @@
           "date": "2026-06-20T07:00:00.000Z",
           "source": "Pluang",
           "summary": "Bio Protocol launches OpenLabs, a platform merg... &nbsp;&nbsp; Pluang"
+        },
+        {
+          "title": "BioProtocol unveils OpenLabs platform at DeSci Berlin to merge AI with decentralized research funding - Crypto Briefing",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5sbkJNU3o3UENfWkVYZ2xfLTIxUDRTeWM0V2RlS0U3cUk5XzB5UGxIRXZZSkxSSVpwWl9mdV9panJEdjY2SGFMcHJmVFhVWXFhd2FKNDd4STRWUm9vSHppZU1uLTJlOVJoSW1abGxB?oc=5",
+          "domain": "cryptobriefing.com",
+          "date": "2026-06-19T07:00:00.000Z",
+          "source": "Crypto Briefing",
+          "summary": "BioProtocol unveils OpenLabs platform at DeSci Berlin to merge AI with decentralized research funding &nbsp;&nbsp; Crypto Briefing"
         }
       ]
     },
@@ -111,7 +111,7 @@
           "domain": "lifespan.io",
           "date": "2026-07-22T16:52:22.000Z",
           "source": "Lifespan.io",
-          "summary": "A recent review discusses the development of biological aging clocks, their capabilities and limitations, the discoveries they enabled, and possible future developments in […]"
+          "summary": "A recent review discusses the development of biological aging clocks, their capabilities and limitations, the discoveries they enabled, and possible future developments in this area [1]. How do we measure aging? Developments in science and technology have allowed researchers to […]"
         },
         {
           "title": "Nova Capital commits $100m to back UAE longevity platform",
@@ -135,7 +135,7 @@
           "domain": "lifespan.io",
           "date": "2026-07-21T15:54:54.000Z",
           "source": "Lifespan.io",
-          "summary": "A new study suggests that regular planned exercise, not just being generally active, protects against certain aspects of muscle aging [1]. Are trained muscles younger? With age, skeletal muscles lose strength, metabolic flexibility, […]"
+          "summary": "A new study suggests that regular planned exercise, not just being generally active, protects against certain aspects of muscle aging [1]. Are trained muscles younger? […]"
         },
         {
           "title": "Gabriel Cian on Building the 2060 Longevity Ecosystem",
@@ -143,7 +143,7 @@
           "domain": "lifespan.io",
           "date": "2026-07-21T15:50:44.000Z",
           "source": "Lifespan.io",
-          "summary": "In this follow-up interview, we speak with Gabriel Cian about how the 2060 ecosystem has evolved since last year’s Forum, what he learned from the first edition, and how he is thinking about investment, scientific credibility, health […]"
+          "summary": "In this follow-up interview, we speak with Gabriel Cian about how the 2060 ecosystem has evolved since last year’s Forum, what he learned from the first edition, and how he is thinking about investment, scientific credibility, […]"
         },
         {
           "title": "Amprion lands funding to expand brain disease testing",
@@ -175,7 +175,7 @@
           "domain": "lifespan.io",
           "date": "2026-07-20T20:59:34.000Z",
           "source": "Lifespan.io",
-          "summary": "Researchers have described a method of using exosomes derived from mesenchymal stem cells (MSCs) to fight harmful metabolic changes in the liver. Another look at […]"
+          "summary": "Researchers have described a method of using exosomes derived from mesenchymal stem cells (MSCs) to fight harmful metabolic changes in the liver. Another look at exosomes This is far […]"
         }
       ]
     },
@@ -278,84 +278,84 @@
       ],
       "articles": [
         {
-          "title": "Bitcoin ETFs approach $1B in 7-session inflow run",
-          "url": "https://cointelegraph.com/news/bitcoin-etfs-1-billion-7-session-inflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "Coinbase to expand Singapore office headcount by 25%: report",
+          "url": "https://cointelegraph.com/news/coinbase-expand-singapore-headcount-25?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-07-23T07:08:25.000Z",
+          "date": "2026-07-23T09:42:53.000Z",
           "source": "CoinTelegraph",
-          "summary": "US spot Bitcoin ETFs recorded $69 million in inflows on Wednesday, extending their inflow streak to seven sessions and bringing total inflows during the period to nearly $1 billion"
+          "summary": "Coinbase plans to expand its Singapore office from 150 to about 200 employees by the end of 2026 as it grows its presence in the Lion City."
         },
         {
-          "title": "South Korea's oldest crypto exchange is now part of the $1 trillion Mirae Group family",
-          "url": "https://www.coindesk.com/markets/2026/07/23/south-korea-s-oldest-crypto-exchange-is-now-part-of-the-usd800-billion-mirae-group-family",
-          "domain": "coindesk.com",
-          "date": "2026-07-23T07:05:42.000Z",
-          "source": "CoinDesk",
-          "summary": "Korbit, South Korea's first cryptocurrency exchange, has joined the Mirae Asset Group family, marking the first time a traditional Korean financial group's affiliate has taken a controlling stake in a domestic crypto exchange."
-        },
-        {
-          "title": "Kakao taps Circle to explore won stablecoin payment infrastructure",
-          "url": "https://cointelegraph.com/news/kakao-circle-won-stablecoin-payment-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-23T06:46:58.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Kakao Group and Circle signed an MOU to explore won stablecoin payments, remittances, merchant settlement and tokenized financial services."
-        },
-        {
-          "title": "Bitcoin, Ethereum-linked protocols lose $35 million in multiple attacks hours apart",
-          "url": "https://www.coindesk.com/tech/2026/07/23/bitcoin-ethereum-linked-protocols-lose-usd35-million-in-multiple-attacks-hours-apart",
-          "domain": "coindesk.com",
-          "date": "2026-07-23T06:38:18.000Z",
-          "source": "CoinDesk",
-          "summary": "The attacks hit Verus, B² Network and other cross-chain systems, showing how compromised keys, upgrade powers and validation checks can empty protocols without breaking the underlying cryptography."
-        },
-        {
-          "title": "Here’s what happened in crypto today",
-          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-23T06:12:09.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-        },
-        {
-          "title": "Swiss bank BancaStato launches regulated crypto trading with Sygnum",
-          "url": "https://cointelegraph.com/news/bancastato-regulated-crypto-trading-sygnum-avaloq?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-23T06:00:00.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Swiss cantonal bank BancaStato integrated Sygnum’s crypto trading and custody services into its Avaloq-powered digital banking apps for Bitcoin and other assets."
-        },
-        {
-          "title": "South Korea’s Mirae Asset completes acquisition of Korbit crypto exchange",
-          "url": "https://www.theblock.co/post/409485/mirae-asset-completes-acquisition-korbit?utm_source=rss&utm_medium=rss",
+          "title": "Circle partners with Kakao, Toss Bank to explore stablecoin payment rails in South Korea",
+          "url": "https://www.theblock.co/post/409497/circle-partners-with-kakao-toss?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
-          "date": "2026-07-23T05:01:21.000Z",
+          "date": "2026-07-23T09:09:42.000Z",
           "source": "The Block",
-          "summary": "Mirae Asset also plans to increase its stake from 92.06% to 97.15% through an additional deal later this week, local media reported."
+          "summary": "Circle plans to explore blockchain-based payment infrastructure in South Korea through partnerships with Kakao and Toss."
         },
         {
-          "title": "Arbitrum-based AFX Trade drained of $24 million after bridge keys compromised",
-          "url": "https://www.coindesk.com/tech/2026/07/23/arbitrum-based-afx-trade-drained-of-usd24-million-after-bridge-keys-compromised",
+          "title": "Live markets: Bitcoin trades above $65,000 as Alphabet's bigger AI bill props up the chip trade",
+          "url": "https://www.coindesk.com/tech/2026/07/23/live-markets-bitcoin-trades-above-usd65-000-as-alphabet-s-bigger-ai-bill-props-up-the-chip-trade",
           "domain": "coindesk.com",
-          "date": "2026-07-23T05:01:06.000Z",
+          "date": "2026-07-23T09:03:33.000Z",
           "source": "CoinDesk",
-          "summary": "Security firms said the attacker used enough hot-validator signatures to approve a 24.15 million USDC withdrawal, while Arbitrum said its native bridge was not affected."
+          "summary": "Alphabet beat on revenue but raised its AI spending forecast again, sending its stock lower after hours. For the chip complex bitcoin tracks, more spending is the bullish read."
         },
         {
-          "title": "White House accuses Moonshot AI of distilling Anthropic tech for K3",
-          "url": "https://cointelegraph.com/news/chinas-moonshot-ai-distilled-anthropics-fable-to-develop-k3-white-house-official?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "Bitcoin may have bottomed before its traditional cycle low: Grayscale’s Pandl",
+          "url": "https://cointelegraph.com/markets/grayscale-bitcoins-price-bottomed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
-          "date": "2026-07-23T04:15:30.000Z",
+          "date": "2026-07-23T09:03:20.000Z",
           "source": "CoinTelegraph",
-          "summary": "US officials warn that Chinese firms conducting covert, industrial-scale AI distillation could face sanctions and export restrictions."
+          "summary": "Grayscale’s head of research said that Bitcoin may have bottomed, arguing that macro factors, such as interest rate decisions as increasingly driving the price action of this maturing asset class."
         },
         {
-          "title": "XRP whales accumulate as small holders capitulate",
-          "url": "https://www.coindesk.com/markets/2026/07/23/xrp-whales-accumulate-as-small-holders-capitulate",
+          "title": "BitMEX to shut down permanently 11 years after Arthur Hayes co-founded crypto exchange",
+          "url": "https://www.theblock.co/post/409495/bitmex-to-shut-down-permanently?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-23T09:00:36.000Z",
+          "source": "The Block",
+          "summary": "BitMEX, co-founded by Arthur Hayes, will shut down on Sept. 23, 2026, at 04:00 UTC after owner HDR Global Trading's strategic review."
+        },
+        {
+          "title": "BitMEX, the exchange that invented perps, is shutting down",
+          "url": "https://www.coindesk.com/markets/2026/07/23/bitmex-s-11-year-run-comes-to-an-end-notifies-users-it-is-ending-operations-in-by-sept-23",
           "domain": "coindesk.com",
-          "date": "2026-07-23T04:11:13.000Z",
+          "date": "2026-07-23T08:42:26.000Z",
           "source": "CoinDesk",
-          "summary": "XRP whales accumulate 2.8% more tokens over five weeks as small holders capitulate, sending the price back above $1.16."
+          "summary": "BitMEX, co-founded by Arthur Hayes in 2014, redefined the global crypto market by introducing the 100x leverage perpetual swap."
+        },
+        {
+          "title": "24/7 financial rails: How BNY plans to eliminate the weekend lag in U.S. Treasuries",
+          "url": "https://www.coindesk.com/business/2026/07/23/24-7-financial-rails-how-bny-plans-to-eliminate-the-weekend-lag-in-u-s-treasuries",
+          "domain": "coindesk.com",
+          "date": "2026-07-23T08:42:21.000Z",
+          "source": "CoinDesk",
+          "summary": "The bank will begin testing tokenized Treasuries on a private blockchain by year-end and expand its settlement network to cover more international trading hours."
+        },
+        {
+          "title": "New Verus-Ethereum bridge attack drains $7.5 million through flaw used in May: Blockaid",
+          "url": "https://www.theblock.co/post/409489/new-verus-ethereum-bridge-attack?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-23T08:37:38.000Z",
+          "source": "The Block",
+          "summary": "A second Verus-Ethereum bridge exploit in two months drained $7.54 million through the same vulnerability class used in May, per Blockaid."
+        },
+        {
+          "title": "Home invasions became most common crypto wrench attack in H1 2026: CertiK",
+          "url": "https://cointelegraph.com/news/crypto-home-invasions-wrench-attacks-certik-h1-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-23T08:29:24.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Crypto home invasions rose to 20 in H1 2026 from one a year earlier, while France accounted for 33 of 52 verified wrench attacks, according to CertiK."
+        },
+        {
+          "title": "BitMEX to shut down after 11 years in crypto derivatives",
+          "url": "https://cointelegraph.com/news/bitmex-crypto-derivatives-exchange-shut-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-23T08:14:32.000Z",
+          "source": "CoinTelegraph",
+          "summary": "BitMEX announced it will shut down operations on Sept. 23, 2026, after owner HDR Global Trading Limited decided to close the crypto exchange."
         }
       ]
     }
