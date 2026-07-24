@@ -1,8 +1,14 @@
 {
   "source": "Infinita City Times",
   "feed": "https://www.infinitacitytimes.com/feed",
-  "updatedAt": "2026-07-24T17:07:48.143Z",
+  "updatedAt": "2026-07-24T18:46:29.323Z",
   "items": [
+    {
+      "title": "We've Partnered with Ascend!",
+      "link": "https://www.infinitacitytimes.com/p/weve-partnered-with-ascend",
+      "date": "Fri, 24 Jul 2026 17:47:10 GMT",
+      "summary": "Enjoy $500 off an Ascend Membership."
+    },
     {
       "title": "Ep. 112: Tim Urban on Startup Cities, AI Safety, Longevity, and Building Better Societies",
       "link": "https://www.infinitacitytimes.com/p/ep-112-tim-urban-on-startup-cities",
@@ -56,12 +62,6 @@
       "link": "https://www.infinitacitytimes.com/p/playing-the-long-game",
       "date": "Tue, 09 Jun 2026 17:46:49 GMT",
       "summary": "The story of Octavio Sanchez and the long fight to create zones of governance experimentation in Honduras."
-    },
-    {
-      "title": "Ep. 110: Tomas Pueyo & Trey Goff On The Next Silicon Valley Might Be A New Country",
-      "link": "https://www.infinitacitytimes.com/p/ep-110-tomas-pueyo-and-trey-goff",
-      "date": "Thu, 04 Jun 2026 14:02:01 GMT",
-      "summary": "In this episode, the famous blogger Tomas Pueyo (Uncharted Territories) interviews Trey Goff (Chief of Staff & Head of Public Policy at Prospera) & Niklas Anzinger (Founder & CEO of Infinita City)."
     }
   ]
 }
