@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-24T21:38:13.542Z",
+  "updatedAt": "2026-07-24T22:43:03.710Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,6 +278,22 @@
       ],
       "articles": [
         {
+          "title": "Bitcoin Policy Institute, Palantir and Anduril join US State Department’s Freedom Tech Excellence Program",
+          "url": "https://www.theblock.co/post/409652/bitcoin-policy-institute-palantir-anduril-us-state-departments-freedom-tech-excellence-program?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-24T22:21:01.000Z",
+          "source": "The Block",
+          "summary": "The Bitcoin Policy Institute, Palantir and Anduril are partners in the U.S. State Department's Freedom Tech Excellence Program."
+        },
+        {
+          "title": "EU authorities include HTX exchange in Russian sanctions",
+          "url": "https://cointelegraph.com/news/htx-exchange-european-union-russia-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-24T21:53:05.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The exchange, already sanctioned by the UK, is now on a list of 18 entities “providing crypto-assets services or payment services“ in defiance of the EU’s measures against Russia."
+        },
+        {
           "title": "Strive’s SATA recovers most of June decline, trades within 3% of par",
           "url": "https://cointelegraph.com/news/strives-sata-recovers-most-of-june-decline-trades-within-3-of-par?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
@@ -340,22 +356,6 @@
           "date": "2026-07-24T15:15:57.000Z",
           "source": "CoinTelegraph",
           "summary": "Bitcoin ETF inflows, cooling AI momentum and potential regulatory progress under the CLARITY Act are fueling speculation that capital is rotating back into crypto."
-        },
-        {
-          "title": "Galaxy cuts Clarity Act passage odds to 30%, says bill needs ‘last-ditch effort’",
-          "url": "https://www.theblock.co/post/409608/galaxy-says-clarity-act-now-needs-last-ditch-effort-cuts-passage-odds-30?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-24T15:11:17.000Z",
-          "source": "The Block",
-          "summary": "Seven Democratic negotiators say the latest Clarity Act draft needs stronger ethics and consumer protections."
-        },
-        {
-          "title": "World Foundation raises $52.5M in Pantera-led funding to expand World ID infrastructure",
-          "url": "https://cointelegraph.com/news/world-foundation-funding-led-by-pantera-world-id-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-24T15:09:33.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The organization sold locked WLD tokens to strategic investors as it seeks to grow its biometric identity network amid rising demand for human verification online."
         }
       ]
     }
