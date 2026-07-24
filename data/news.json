@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-24T18:46:45.493Z",
+  "updatedAt": "2026-07-24T20:23:03.692Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,6 +278,30 @@
       ],
       "articles": [
         {
+          "title": "House passes bill on lawmakers using insider information for stock trading",
+          "url": "https://cointelegraph.com/news/house-bill-lawmakers-insider-information-stock-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-24T20:05:50.000Z",
+          "source": "CoinTelegraph",
+          "summary": "According to Senator Elizabeth Warren, the House bill “won’t solve the problem“ of insider trading in Congress as lawmakers will still be allowed to own and sell stocks."
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-24T19:03:45.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+        },
+        {
+          "title": "Cardano co-founder Hoskinson says Bitcoin could lose top spot if governance fails quantum test",
+          "url": "https://www.theblock.co/post/409627/cardano-co-founder-hoskinson-bitcoin-lose-top-spot-governance-fails-quantum-test?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-24T19:01:53.000Z",
+          "source": "The Block",
+          "summary": "Cardano’s governance and ability to enact upgrades make it better equipped to respond to existential technical threats, said Hoskinson."
+        },
+        {
           "title": "Wise plans to resubmit national trust bank application under GENIUS Act framework",
           "url": "https://www.theblock.co/post/409631/wise-plans-resubmit-national-trust-bank-application-under-genius-act-framework?utm_source=rss&utm_medium=rss",
           "domain": "theblock.co",
@@ -332,30 +356,6 @@
           "date": "2026-07-24T15:01:46.000Z",
           "source": "CoinDesk",
           "summary": "U.S. Senate Democrats got President Donald Trump to accept potential limits on his lucrative crypto dealings, but they say the Clarity Act's restrictions aren't enough."
-        },
-        {
-          "title": "Sam Altman-backed World Network secures $52.5 million in fresh funding to fight online AI deepfakes",
-          "url": "https://www.coindesk.com/business/2026/07/24/sam-altman-backed-world-network-secures-fresh-funding-to-fight-online-ai-deepfakes",
-          "domain": "coindesk.com",
-          "date": "2026-07-24T15:00:00.000Z",
-          "source": "CoinDesk",
-          "summary": "The project is moving away from basic network expansion to focus entirely on integrating its biometric screening devices across enterprise software suites."
-        },
-        {
-          "title": "World Foundation raises $52.5 million in WLD token sale with one-year lockup",
-          "url": "https://www.theblock.co/post/409610/world-foundation-wld-token-sale-funding?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-24T14:50:40.000Z",
-          "source": "The Block",
-          "summary": "The \"first close\" of the WLD token sale was led by Pantera and included Bain Capital Crypto, Eightco Holdings, Selini, Susquehanna other investors."
-        },
-        {
-          "title": "Institutional crypto trading platform LMAX is exploring sale, IPO",
-          "url": "https://www.coindesk.com/business/2026/05/22/institutional-crypto-trading-platform-lmax-is-exploring-sale-ipo",
-          "domain": "coindesk.com",
-          "date": "2026-07-24T14:36:16.000Z",
-          "source": "CoinDesk",
-          "summary": "LMAX is working with Morgan Stanley and investment bank KBW to assess its options, which could lead to a sale or a public offering."
         }
       ]
     }
