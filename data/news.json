@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-24T07:19:26.671Z",
+  "updatedAt": "2026-07-24T09:56:52.003Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -103,7 +103,7 @@
           "domain": "lifespan.io",
           "date": "2026-07-23T20:28:11.000Z",
           "source": "Lifespan.io",
-          "summary": "Autophagy, which increases in younger mice under toxic stress, does not increase in older mice and leaves them susceptible to acute kidney injury (AKI). Increasing autophagic flux by targeting a key […]"
+          "summary": "Autophagy, which increases in younger mice under toxic stress, does not increase in older mice and leaves them susceptible to acute kidney injury (AKI). Increasing autophagic flux by targeting […]"
         },
         {
           "title": "Is personalized nutrition worth it?",
@@ -278,84 +278,84 @@
       ],
       "articles": [
         {
+          "title": "BitMEX faces proposed class-action suit for theft, insider trading as crypto exchange shuts down",
+          "url": "https://www.coindesk.com/business/2026/07/24/bitmex-faces-proposed-class-action-suit-for-theft-insider-trading-as-crypto-exchange-shuts-down",
+          "domain": "coindesk.com",
+          "date": "2026-07-24T09:54:00.000Z",
+          "source": "CoinDesk",
+          "summary": "The complaint claims BitMEX designed a system to retain customer collateral and alleges an internal desk accessed private user data during server freezes."
+        },
+        {
+          "title": "Former bitcoin miner Poolin files Chapter 11, sets $52 million floor bid for Texas operations",
+          "url": "https://www.theblock.co/post/409587/former-bitcoin-miner-poolin-files-chapter-11-sets-52-million-floor-bid-for-texas-operations?utm_source=rss&utm_medium=rss",
+          "domain": "theblock.co",
+          "date": "2026-07-24T09:52:26.000Z",
+          "source": "The Block",
+          "summary": "Poolin Technology filed for Chapter 11 with $173 million in claims, lining up a $52 million stalking-horse bid for its Texas mining assets."
+        },
+        {
+          "title": "BTC supply in profit eyes 60%, but analysis hints recovery may ‘roll back over’",
+          "url": "https://cointelegraph.com/markets/btc-supply-profit-analysis-hints-recovery-roll-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-24T09:43:07.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bitcoin supply profitability improved versus its 2026 low, but analysis warned that a fake recovery had already broken down at the start of June."
+        },
+        {
+          "title": "South Korea’s Korbit to rebrand as Digital X under Mirae: Report",
+          "url": "https://cointelegraph.com/news/korbit-rebrand-digital-x-mirae-asset?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-24T08:51:13.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Mirae Asset reportedly plans to use the South Korean crypto exchange as a hub for tokenized assets, stablecoins and digital finance."
+        },
+        {
+          "title": "Ripple launches Mint to expand institutional access to RLUSD",
+          "url": "https://cointelegraph.com/news/ripple-mint-expand-institutional-access-rlusd?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-24T08:47:01.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Ripple launches Mint to expand RLUSD access for institutions as the stablecoin’s market cap approaches $1.6 billion."
+        },
+        {
+          "title": "Bitcoin mining pool Poolin files for Chapter 11 bankruptcy",
+          "url": "https://cointelegraph.com/news/bitcoin-mining-poolin-chapter-11-bankruptcy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-24T08:38:49.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Bitcoin miner Poolin filed for Chapter 11 bankruptcy and initiated a $52 million sale of its two West Texas mining sites as part of its future creditor recovery program."
+        },
+        {
+          "title": "EU widens Belarus ownership ban to all crypto service providers",
+          "url": "https://cointelegraph.com/news/eu-belarus-crypto-ownership-ban-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-24T08:06:15.000Z",
+          "source": "CoinTelegraph",
+          "summary": "The EU will bar Belarusian nationals and residents from owning, controlling or managing exchanges and other MiCA-regulated crypto firms from Aug. 25."
+        },
+        {
+          "title": "Live updates: Dogecoin and ether lead pullback as investors digest tech earnings",
+          "url": "https://www.coindesk.com/tech/2026/07/24/live-updates-dogecoin-and-ether-lead-pullback-as-investors-digest-tech-earnings",
+          "domain": "coindesk.com",
+          "date": "2026-07-24T07:22:26.000Z",
+          "source": "CoinDesk",
+          "summary": "Dogecoin dropped 4.5% and ether 2.5%, leading a broad but shallow retreat across the majors, though most remain higher on the week ahead of next week's Fed meeting."
+        },
+        {
+          "title": "Bitcoin ETFs snap seven-day inflow streak with $225M in outflows",
+          "url": "https://cointelegraph.com/markets/bitcoin-etfs-225-million-outflow-end-7-day-inflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-24T07:17:57.000Z",
+          "source": "CoinTelegraph",
+          "summary": "After attracting nearly $1 billion over seven trading sessions, US-listed spot Bitcoin ETFs recorded their first daily net outflow since July 13."
+        },
+        {
           "title": "Ripple’s RLUSD gets two boosts as transfer volume drops 25%",
           "url": "https://www.coindesk.com/business/2026/07/24/ripple-s-rlusd-gets-two-boosts-as-transfer-volume-drops-25",
           "domain": "coindesk.com",
           "date": "2026-07-24T06:33:37.000Z",
           "source": "CoinDesk",
           "summary": "Ripple launched an institutional minting platform and added RLUSD to Notabene’s compliance network as holder growth rose but monthly transfer volume fell to $10.95 billion."
-        },
-        {
-          "title": "Here’s what happened in crypto today",
-          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-24T06:24:36.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-        },
-        {
-          "title": "The Largest Stablecoins Ranked",
-          "url": "https://www.theblock.co/learn/409203/largest-stablecoins-ranked?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-24T06:18:31.000Z",
-          "source": "The Block",
-          "summary": "In recent years, stablecoins have emerged as crypto’s breakout use case. Assets that were created to streamline cryptocurrency trading are now being recognized as a more efficient, flexible, transparent medium of exchange for the world financial system. The total stablecoin market cap has surged on the back of this newfound attention, growing to $300 billion [&hellip;]"
-        },
-        {
-          "title": "Mirae plans to turn crypto exchange Korbit into something Korea hasn't seen before",
-          "url": "https://www.coindesk.com/markets/2026/07/24/mirae-asset-has-a-name-for-what-it-s-building-with-korbit-an-intelligent-platform",
-          "domain": "coindesk.com",
-          "date": "2026-07-24T06:10:49.000Z",
-          "source": "CoinDesk",
-          "summary": "The South Korean financial giant says its Korbit – soon to be rebranded as Digital X – is just the starting point for a broader ecosystem that connects RWAs, stablecoins and digital assets."
-        },
-        {
-          "title": "How Do Stablecoins Maintain Their Peg?",
-          "url": "https://www.theblock.co/learn/409577/how-do-stablecoins-maintain-their-peg?utm_source=rss&utm_medium=rss",
-          "domain": "theblock.co",
-          "date": "2026-07-24T06:01:11.000Z",
-          "source": "The Block",
-          "summary": "A stablecoin peg is the target price a stablecoin is designed to hold. For the vast majority of stablecoins, this target is one U.S. dollar. Stablecoins maintain that price through two mechanisms. The first is reserves or collateral that give each token its underlying value; the second is an arbitrage process that returns the market [&hellip;]"
-        },
-        {
-          "title": "BitMEX hit with 623 BTC lawsuit on day it announces shutdown",
-          "url": "https://cointelegraph.com/news/bitmex-liquidation-fraud-lawsuit-shutdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-24T05:20:11.000Z",
-          "source": "CoinTelegraph",
-          "summary": "The proposed class action alleges BitMEX used privileged trading access and server freezes to profit from forced liquidations."
-        },
-        {
-          "title": "Bitcoin holds near $65,000 as $800 billion AI selloff leaves crypto largely untouched",
-          "url": "https://www.coindesk.com/markets/2026/07/24/bitcoin-holds-near-usd65-000-as-usd800-billion-ai-selloff-leaves-crypto-largely-untouched",
-          "domain": "coindesk.com",
-          "date": "2026-07-24T04:43:19.000Z",
-          "source": "CoinDesk",
-          "summary": "The Magnificent Seven had their worst day since April 2025 after Alphabet and Tesla spooked investors on AI spending. Bitcoin fell less than 1%, and dogecoin led the majors lower."
-        },
-        {
-          "title": "Dem senator calls GOP’s CLARITY ethics proposal a ‘piece of s---’: Politico",
-          "url": "https://cointelegraph.com/news/senator-gallego-says-gop-clarity-counterproposal-not-a-serious-effort?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-24T03:10:24.000Z",
-          "source": "CoinTelegraph",
-          "summary": "On Wednesday, Senate Republicans released the proposed text for the CLARITY Act, which has been met with pushback from Democrats regarding ethics provisions."
-        },
-        {
-          "title": "BitMEX delists 65 trading pairs, derivatives in July amid exchange shutdown",
-          "url": "https://cointelegraph.com/news/bitmex-delists-65-crypto-markets-in-july-amid-exchange-shutdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-24T02:50:23.000Z",
-          "source": "CoinTelegraph",
-          "summary": "BitMEX will have removed 65 derivative contracts and trading pairs in July, compared with just 19 across the first six months of the year."
-        },
-        {
-          "title": "SEC sets September talks on move toward 24-hour stock trading",
-          "url": "https://cointelegraph.com/news/sec-to-host-roundtable-on-24-hour-trading-in-us-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "domain": "cointelegraph.com",
-          "date": "2026-07-24T01:18:16.000Z",
-          "source": "CoinTelegraph",
-          "summary": "Nasdaq, Cboe and the London Stock Exchange are among major exchanges moving toward longer trading hours."
         }
       ]
     }
