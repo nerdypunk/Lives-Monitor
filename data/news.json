@@ -1,6 +1,6 @@
 {
   "source": "RSS",
-  "updatedAt": "2026-07-24T20:23:03.692Z",
+  "updatedAt": "2026-07-24T21:38:13.542Z",
   "feeds": [
     {
       "name": "DeSci",
@@ -278,6 +278,14 @@
       ],
       "articles": [
         {
+          "title": "Strive’s SATA recovers most of June decline, trades within 3% of par",
+          "url": "https://cointelegraph.com/news/strives-sata-recovers-most-of-june-decline-trades-within-3-of-par?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "domain": "cointelegraph.com",
+          "date": "2026-07-24T21:02:22.000Z",
+          "source": "CoinTelegraph",
+          "summary": "Jan3 CEO Samson Mow says the recovery could signal renewed confidence in preferred-share products used by Bitcoin treasury companies."
+        },
+        {
           "title": "House passes bill on lawmakers using insider information for stock trading",
           "url": "https://cointelegraph.com/news/house-bill-lawmakers-insider-information-stock-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "domain": "cointelegraph.com",
@@ -348,14 +356,6 @@
           "date": "2026-07-24T15:09:33.000Z",
           "source": "CoinTelegraph",
           "summary": "The organization sold locked WLD tokens to strategic investors as it seeks to grow its biometric identity network amid rising demand for human verification online."
-        },
-        {
-          "title": "Senate Dems should accept the victory they won on Trump's crypto limits: White House",
-          "url": "https://www.coindesk.com/policy/2026/07/24/senate-dems-should-accept-the-victory-they-won-on-trump-s-crypto-limits-white-house",
-          "domain": "coindesk.com",
-          "date": "2026-07-24T15:01:46.000Z",
-          "source": "CoinDesk",
-          "summary": "U.S. Senate Democrats got President Donald Trump to accept potential limits on his lucrative crypto dealings, but they say the Clarity Act's restrictions aren't enough."
         }
       ]
     }
